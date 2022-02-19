@@ -1,0 +1,14 @@
+Identifiers	Set Identifiers	Name	Cost	Pitch	Power	Defense	Health	Intelligence	Rarity	Types	Keywords	Essences	Functional Text	Flavor Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Variations	Image URLs
+WTR001	WTR	Rhinar, Reckless Rampage					40	4	T	Brute, Hero			When you discard a card with 6 or more {p} during your action phase, **intimidate**. *(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)*		Brute Hero		No			
+WTR002	WTR	Rhinar					20	4	T	Brute, Hero, Young			When you discard a card with 6 or more {p} during your action phase, **intimidate**. *(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)*		Brute Hero – Young					
+WTR003	WTR	Romping Club			4				T	Brute, Weapon, Club, 2H			"**Once per Turn Action** - {r}{r}: **Attack**
+
+**Once per Turn Effect** – When you discard a card with 6 or more {p}, Romping Club gains +1{p} until end of turn."		"Brute Weapon - Club (2H)
+
+"					
+WTR004	WTR	Scabskin Leathers				2			L	Brute, Equipment, Legs	Battleworn		"**Once per turn Action** - 0: Roll a 6 sided die. Gain action points equal to half the number rolled, rounded down.
+
+**Battleworn** *(If you defend with Scabskin Leathers, put a -1{d} counter on it when the combat chain closes.)*"		Brute Equipment - Legs					
+WTR005	WTR	Barkbone Strapping				1			C	Brute, Equipment, Chest	Battleworn		"**Instant** - Destroy Barkbone Strapping: Roll a 6 die. Gain {r} equal to half the number rolled, rounded down.
+
+**Battleworn** *(If you defend with Barkbone Strapping, put a -1{d} counter on it when the combat chain closes.)*"		Brute Equipment – Chest					
