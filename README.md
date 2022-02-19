@@ -38,7 +38,7 @@ If you would like to contribute, please take a look at the format below to see h
 | Name | string | The name of the card. (Do not include pitch here.) | Whelming Gustwave |
 | Cost | int \| string \| null | The cost of the card. Either a numerical cost, a text cost for special cases like 'XX', or empty for cards with no cost value (ex: Eye of Ophidia). | 0 |
 | Pitch | int \| null | The pitch value of the card. Either a numerical value or empty for cards with no pitch value. | 1 |
-| Attack | int \| string \| null | The attack value of the card. Either a numerical value, a text cost for special cases like '*', or empty for cards with no attack. | 3 |
+| Power | int \| string \| null | The power value of the card. Either a numerical value, a text cost for special cases like '*', or empty for cards with no power. | 3 |
 | Defense | int \| string \| null | The defense value of the card. Either a numerical value, a text cost for special cases like '*', or empty for cards with no defense. | 3 |
 | Health | int \| null | The health of the (hero) card. Either a numerical value or empty for cards with no health. | 40 |
 | Intelligence | int \| null | The intelligence of the (hero) card. Either a numerical value or empty for cards with no intelligence. | 4 |
