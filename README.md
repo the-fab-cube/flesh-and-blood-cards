@@ -8,8 +8,6 @@ The CSVs are tab delimited and use " as string indicators.
 Please feel free to clone or fork the repo and generally use it for whatever projects you like. I put this together so the community doesn't have to
 keep re-entering the same data! I would absolutely appreciate any contributions if you notice any missing data or mistakes. :)
 
-You can view the current CSVs through the web [here](https://flesh-cube.github.io/flesh-and-blood-cards/).
-
 
 ## Approach to reprints/editions
 This repo treats a unique card (name + pitch value) as 1 entity. A unique card can have multiple printings, foils, editions, etc, but is considered 1 entry in the CSVs.
@@ -97,15 +95,34 @@ Note: Cards are organized by what main set they were initially released in, in o
 | Image URL | string | Url to the icon. | TODO |
 
 
-### Keywords
+### Keyword
 | Field Name | Intended Data Type | Explanation | Example |
 | --- | --- | --- | --- |
-| Name | string | Name of the keyword. | Attack |
+| Name | string | Name of the keyword. | Battleworn |
 | Description | string | Description of the keyword's meaning. | TODO |
 
 
-## Possible Values
+### Type
+| Field Name | Intended Data Type | Explanation | Example |
+| --- | --- | --- | --- |
+| Name | string | Name of the type. | Attack |
 
+
+### Foiling
+| Field Name | Intended Data Type | Explanation | Example |
+| --- | --- | --- | --- |
+| Shorthand | string | Shorthand representation of the foiling. | R |
+| Name | string | Name of the foiling. | Rainbow Foil |
+
+
+### Edition
+| Field Name | Intended Data Type | Explanation | Example |
+| --- | --- | --- | --- |
+| Shorthand | string | Shorthand representation of the edition. | U |
+| Name | string | Name of the edition. | Unlimited Edition |
+
+
+## Possible Values
 
 ### Rarity (Shorthand - Text)
 * C - Common
@@ -118,18 +135,26 @@ Note: Cards are organized by what main set they were initially released in, in o
 * P - Promo
 
 
-### Keywords (Name - Description)
+### Icons (Shorthand - Name)
+* {r}  - Resource Point
+* {p} - Power
+* {d} - Defense Value
+* {h} - Life (of a hero card)
+* {I} - Intellect (of a hero card)
+
+
+### Keyword (Name - Description)
 * *Arcane Barrier* - If you would be dealt arcane damage you may pay X{r} instead to prevent X arcane damage that source will deal.
 * *Battleworn* - Equipment that wear down after each time they are used to defend. If you defend with a card with *Battleworn*, put a -1{d} counter on it when the combat chain closes.
 * *Blade Break* - Equipment that are fragile and break after being used to defend. If you defend with a card with *Blade Break*, destroy it when the combat chain closes.
 * *Blood Debt* - *Blood Debt* is a keyword existing on Shadow cards. Shadow cards can inflict a loss of life to access a greater power. At the end of your turn, you lose 1{h} for each *blood debt* card in your banished zone.
 * *Boost* - *Boost* is a Mechanologist mechanic that allows a Mechanologist attack action card to gain go again.
-* *Channel* - Channel is a keyword that uses Element cards to maintain a powerful aura that requires a larger commitment each turn to maintain the channel.
+* *Channel* - *Channel* is a keyword that uses Element cards to maintain a powerful aura that requires a larger commitment each turn to maintain the channel.
 * *Charge* - *Charge* is a keyword that exist on Light Warrior attacks. This showcases Boltyn’s eagerness to engage in battle and *charge* his soul in the process. As an additional cost to playing a card with *charge* you may put a card from your hand into your hero’s soul. This would turn on powerful effects that care about if you have *charged* this turn. /(You may elect to not pay the additional cost of/ *charge* /- however this would mean you did not/ *charge*/.)/
 * *Combo* - A Ninja mechanic that showcases the power of playing multiple attacks in a perfect sequence. *Combo* cares about the last (most recent previous) attack that was played in the combat chain.
 * *Crush* - A Guardian mechanic that showcases the strength of the guardian. When an attack with *crush* deals 4 or more damage to a hero, an effect is applied.
 * *Dominate* - An attack that is difficult to defend. Cards with *dominate* cannot be defended with more than 1 card from the defending hero’s hand.
-* *Essence* - *Essence* is a new keyword that exists on Elemental hero cards showing what Elements that hero specializes in and what Element cards can be included in the deck.
+* *Essence* - *Essence* is a keyword that exists on Elemental hero cards showing what Elements that hero specializes in and what Element cards can be included in the deck.
 * *Go again* - *Go again* allows multiple actions to be played in a turn, when usually playing an action would use up your action point, and therefore end your turn. A card with *go again* gives the controller of that card or activated ability 1 action point when it resolves.
 * *Heave X* - At the beginning of your end phase, if this is in your hand and you have an empty arsenal zone, you may pay X and put this face up into your arsenal. If you do, create X Seismic Surge tokens.
 * *Fusion* - *Fusion* is a keyword that *fuses* one or more elements with an elemental card to give an additional effect.
@@ -146,7 +171,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * *Temper* - *Temper* is a keyword that exists on equipment. Usually high in defense, *Temper* equipment presents a choice when it is down to 1{d}, of whether to defend with it one last time and see it destroyed, or save it to use for its ability.
 
 
-### Types
+### Type
 * Action
 * Ally
 * Attack
@@ -207,17 +232,11 @@ Note: Cards are organized by what main set they were initially released in, in o
 * S - Standard
 * R - Rainbow Foil
 * C - Cold Foil
+* G - Gold Cold Foil
 
-
-### Icons (Shorthand - Name)
-* {r}  - Resource Point
-* {p} - Power
-* {d} - Defense Value
-* {h} - Life (of a hero card)
-* {I} - Intellect (of a hero card)
 
 ### Edition (Shorthand - Name)
-* A - Alpha Edition
-* F - First Edition
-* U - Unlimited Edition
-* N - No specified edition (used for promos, non-set releases, etc)
+* A - Alpha
+* F - First
+* U - Unlimited
+* N - No specified edition (used for promos, non-set releases, etc.)
