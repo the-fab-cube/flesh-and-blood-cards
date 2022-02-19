@@ -40,6 +40,8 @@ If you would like to contribute, please take a look at the format below to see h
 | Pitch | int \| null | The pitch value of the card. Either a numerical value or empty for cards with no pitch value. | 1 |
 | Attack | int \| string \| null | The attack value of the card. Either a numerical value, a text cost for special cases like '*', or empty for cards with no attack. | 3 |
 | Defense | int \| string \| null | The defense value of the card. Either a numerical value, a text cost for special cases like '*', or empty for cards with no defense. | 3 |
+| Health | int \| null | The health of the (hero) card. Either a numerical value or empty for cards with no health. | 40 |
+| Intelligence | int \| null | The intelligence of the (hero) card. Either a numerical value or empty for cards with no intelligence. | 4 |
 | Rarity | string[] | The rarities the card has been printed at, correlated to the Identifiers field. (Use rarity shorthand, not full rarity names.) | C, C, P |
 | Types | string[] | The types of the card (main type, sub type, talent, etc). See below for a list of possible types. | Action, Attack, Ninja |
 | Keywords | string[] | Any keywords that appear on the card. See below for a list of possible keywords. (Include conditional keywords.) | Combo, Go again |
