@@ -38,8 +38,10 @@ If you would like to contribute, please take a look at the format below to see h
 | Name | string | The name of the card. (Do not include pitch here.) | Whelming Gustwave |
 | Cost | int \| string \| null | The cost of the card. Either a numerical cost, a text cost for special cases like 'XX', or empty for cards with no cost value (ex: Eye of Ophidia). | 0 |
 | Pitch | int \| null | The pitch value of the card. Either a numerical value or empty for cards with no pitch value. | 1 |
-| Attack | int \| string \| null | The attack value of the card. Either a numerical value, a text cost for special cases like '*', or empty for cards with no attack. | 3 |
+| Power | int \| string \| null | The power value of the card. Either a numerical value, a text cost for special cases like '*', or empty for cards with no power. | 3 |
 | Defense | int \| string \| null | The defense value of the card. Either a numerical value, a text cost for special cases like '*', or empty for cards with no defense. | 3 |
+| Health | int \| null | The health of the (hero) card. Either a numerical value or empty for cards with no health. | 40 |
+| Intelligence | int \| null | The intelligence of the (hero) card. Either a numerical value or empty for cards with no intelligence. | 4 |
 | Rarity | string[] | The rarities the card has been printed at, correlated to the Identifiers field. (Use rarity shorthand, not full rarity names.) | C, C, P |
 | Types | string[] | The types of the card (main type, sub type, talent, etc). See below for a list of possible types. | Action, Attack, Ninja |
 | Keywords | string[] | Any keywords that appear on the card. See below for a list of possible keywords. (Include conditional keywords.) | Combo, Go again |
@@ -48,8 +50,8 @@ If you would like to contribute, please take a look at the format below to see h
 | Flavor Text | string | Any flavor text that appears on the latest printing of the card with flavor text. Do not use italics on this, text is assumed to be in italics. (Example pulled from Talisman of Warfare.) | It's said that wherever the Dracai of War planted this talisman, the lava was soon to flow. |
 | Type Text | string | The type text as printed on the latest edition of the card. | Ninja Action - Attack |
 | Card Played Horizontally | bool | Is the card played horizontally (Ex: Landmarks)? No value is considered No. | Yes |
-| Blitz Legal | bool | Is the card legal in the Blitz format? No value is considered No. | Yes |
-| CC Legal | bool | Is the card legal in the Classic Constructed format? No value is considered No. | Yes |
+| Blitz Legal | bool | Is the card legal in the Blitz format? No value is considered Yes. | Yes |
+| CC Legal | bool | Is the card legal in the Classic Constructed format? No value is considered Yes. | Yes |
 | Variations | string[] | The list of foilings the card is available in within a set/edition combination, as well as any alternate arts for the card. The [Collector's Center](https://fabtcg.com/collectors-centre/) has good resources for finding details on this. If there is an alternate art, make a separate entry in this array and tack on the shorthand for the alternate art type. Format: `{Foiling Shorthands separated by spaces} - {Card Identifier} - {Set Edition Shorthand} (- {Alternate Art Shorthand})` (Using Channel Lake Frigid in this example.) | S R - ELE146 - F, R - ELE146 - F - AA, S R - ELE146 - U |
 | Image URLs | string[] | Links to images from fabtcg.com's [image galleries](https://fabtcg.com/resources/card-galleries/) for a set/edition combination. If there is an alternate art, make a separate entry in this array and tack on the shorthand for the alternate art type. Format: `{Image URL} - {Card Identifier} - {Set Edition Shorthand} (- {Alternate Art Shorthand})` (Using Channel Lake Frigid in this example.) | https://storage.googleapis.com/fabmaster/media/images/ELE146.width-450.png - ELE146 - F, https://product-images.tcgplayer.com/fit-in/400x558/248564.jpg - ELE146 - F - AA, https://storage.googleapis.com/fabmaster/media/images/U-ELE146.width-450.png - ELE146 - U |
 
@@ -126,6 +128,7 @@ If you would like to contribute, please take a look at the format below to see h
 * Equipment
 * Weapon
 * Hero
+* Young
 * Off-Hand
 * 1H
 * 2H
