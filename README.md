@@ -3,6 +3,8 @@
 ## General Overview
 This repo is intended as a comprehensive, open-source resource for representing all cards and sets from the Flesh and Blood TCG as CSVs.
 
+The CSVs are tab delimited and use " as string indicators.
+
 Please feel free to clone or fork the repo and generally use it for whatever projects you like. I put this together so the community doesn't have to
 keep re-entering the same data! I would absolutely appreciate any contributions if you notice any missing data or mistakes. :)
 
@@ -14,13 +16,20 @@ A card's text and other data will always be based off the latest erratas and pri
 
 Similarly, a set is unique based on a setcode + name, and can have multiple editions, but is considered to be 1 entry within the CSV.
 
+
 ## Contributing
 If you would like to contribute, please take a look at the format below to see how various CSV fields should be formatted, and then open a PR for any changes you'd like to make.
+
+I have LibreOffice files in the repo for easy editing in open-office. It is okay if you do not use them, I will update them with any changes other people make without using LibreOffice,
+but they are there for convenience. To use them, just open the .ods file and edit, and then when done, export the file as a .csv to the csvs folder with Save As, making sure to
+choose Tabs as the delimiter and " as the string indicator.
+
 
 ## Generate HTML Viewable CSVs
 
 ### Install csvtotable
 `pyenv install`
+
 `pyenv exec pip install --upgrade csvtotable`
 
 ### Serve a specific file
@@ -46,11 +55,11 @@ If you would like to contribute, please take a look at the format below to see h
 ### Card
 | Field Name | Intended Data Type | Explanation | Example |
 | --- | --- | --- | --- |
-| Identifiers | string[] | The identifiers for the card's various printings. | WTR110, KSU016, LGS007 |
-| Set Identifiers | string[] | The set identifiers for the card's various printings. | WTR, KSU, LGS |
+| Identifiers | string[] | The identifiers for the card's various printings. Order them in this order: set (order of release), non-set (order of release), promo (alphabetically). | WTR110, KSU016, LGS007 |
+| Set Identifiers | string[] | The set identifiers for the card's various printings. Order them in this order: set (order of release), non-set (order of release), promo (alphabetically). | WTR, KSU, LGS |
 | Name | string | The name of the card. (Do not include pitch here.) | Whelming Gustwave |
-| Cost | int \| string \| null | The cost of the card. Either a numerical cost, a text cost for special cases like 'XX', or empty for cards with no cost value (ex: Eye of Ophidia). | 0 |
 | Pitch | int \| null | The pitch value of the card. Either a numerical value or empty for cards with no pitch value. | 1 |
+| Cost | int \| string \| null | The cost of the card. Either a numerical cost, a text cost for special cases like 'XX', or empty for cards with no cost value (ex: Eye of Ophidia). | 0 |
 | Power | int \| string \| null | The power value of the card. Either a numerical value, a text cost for special cases like '*', or empty for cards with no power. | 3 |
 | Defense | int \| string \| null | The defense value of the card. Either a numerical value, a text cost for special cases like '*', or empty for cards with no defense. | 3 |
 | Health | int \| null | The health of the (hero) card. Either a numerical value or empty for cards with no health. | 40 |
@@ -68,11 +77,15 @@ If you would like to contribute, please take a look at the format below to see h
 | Variations | string[] | The list of foilings the card is available in within a set/edition combination, as well as any alternate arts for the card. The [Collector's Center](https://fabtcg.com/collectors-centre/) has good resources for finding details on this. If there is an alternate art, make a separate entry in this array and tack on the shorthand for the alternate art type. Format: `{Foiling Shorthands separated by spaces} - {Card Identifier} - {Set Edition Shorthand} (- {Alternate Art Shorthand})` (Using Channel Lake Frigid in this example.) | S R - ELE146 - F, R - ELE146 - F - AA, S R - ELE146 - U |
 | Image URLs | string[] | Links to images from fabtcg.com's [image galleries](https://fabtcg.com/resources/card-galleries/) for a set/edition combination. If there is an alternate art, make a separate entry in this array and tack on the shorthand for the alternate art type. Format: `{Image URL} - {Card Identifier} - {Set Edition Shorthand} (- {Alternate Art Shorthand})` (Using Channel Lake Frigid in this example.) | https://storage.googleapis.com/fabmaster/media/images/ELE146.width-450.png - ELE146 - F, https://product-images.tcgplayer.com/fit-in/400x558/248564.jpg - ELE146 - F - AA, https://storage.googleapis.com/fabmaster/media/images/U-ELE146.width-450.png - ELE146 - U |
 
+Note: Cards are organized by what main set they were initially released in, in order of release. If they were never released in a main set, they are organized by non-set/promo in order of release.
+
+
 ### Rarity
 | Field Name | Intended Data Type | Explanation | Example |
 | --- | --- | --- | --- |
 | Shorthand | string | Shorthand representation of the rarity, intended for quick typing and correlating between other CSVs. | M |
 | Text | string | Full name of the rarity. | Majestic |
+
 
 ### Icon
 | Field Name | Intended Data Type | Explanation | Example |
@@ -81,13 +94,16 @@ If you would like to contribute, please take a look at the format below to see h
 | Name | string | Name of the icon. | Attack |
 | Image URL | string | Url to the icon. | TODO |
 
+
 ### Keywords
 | Field Name | Intended Data Type | Explanation | Example |
 | --- | --- | --- | --- |
 | Name | string | Name of the keyword. | Attack |
 | Description | string | Description of the keyword's meaning. | TODO |
 
+
 ## Possible Values
+
 
 ### Rarity (Shorthand - Text)
 * C - Common
@@ -98,6 +114,7 @@ If you would like to contribute, please take a look at the format below to see h
 * F - Fabled
 * T - Token
 * P - Promo
+
 
 ### Keywords (Name - Description)
 * *Arcane Barrier* - If you would be dealt arcane damage you may pay X{r} instead to prevent X arcane damage that source will deal.
@@ -126,17 +143,20 @@ If you would like to contribute, please take a look at the format below to see h
 * *Spellvoid X* - *Spellvoid* is a keyword primarily on equipment or items. *Spellvoid* is a one time use effect that prevents arcane damage.
 * *Temper* - *Temper* is a keyword that exists on equipment. Usually high in defense, *Temper* equipment presents a choice when it is down to 1{d}, of whether to defend with it one last time and see it destroyed, or save it to use for its ability.
 
+
 ### Types
 * Action
+* Ally
 * Attack
+* Attack Reaction
 * Aura
+* Defense Reaction
+* Gem
 * Instant
 * Item
-* Ally
-* Mentor
-* Attack Reaction
-* Defense Reaction
 * Landmark
+* Mentor
+* Resource
 * Token
 * Equipment
 * Weapon
@@ -180,10 +200,12 @@ If you would like to contribute, please take a look at the format below to see h
 * Ice
 * Lightning
 
+
 ### Foiling (Shorthand - Name)
 * S - Standard
 * R - Rainbow Foil
 * C - Cold Foil
+
 
 ### Icons (Shorthand - Name)
 * {r}  - Resource Point
@@ -191,3 +213,9 @@ If you would like to contribute, please take a look at the format below to see h
 * {d} - Defense Value
 * {h} - Life (of a hero card)
 * {I} - Intellect (of a hero card)
+
+### Edition (Shorthand - Name)
+* A - Alpha Edition
+* F - First Edition
+* U - Unlimited Edition
+* N - No specified edition (used for promos, non-set releases, etc)
