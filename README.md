@@ -20,6 +20,8 @@ Similarly, a set is unique based on a setcode + name, and can have multiple edit
 ## Contributing
 If you would like to contribute, please take a look at the format below to see how various CSV fields should be formatted, and then open a PR for any changes you'd like to make.
 
+The list of open milestones that have card data that needs entering can be found [here](https://github.com/flesh-cube/flesh-and-blood-cards/milestones)
+
 I have LibreOffice files in the repo for easy editing in open-office. It is okay if you do not use them, I will update them with any changes other people make without using LibreOffice,
 but they are there for convenience. To use them, just open the .ods file and edit, and then when done, export the file as a .csv to the csvs folder with Save As, making sure to
 choose Tabs as the delimiter and " as the string indicator.
