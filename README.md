@@ -128,6 +128,7 @@ If you would like to contribute, please take a look at the format below to see h
 * Equipment
 * Weapon
 * Hero
+* Young
 * Off-Hand
 * 1H
 * 2H
