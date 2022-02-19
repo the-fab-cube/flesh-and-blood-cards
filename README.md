@@ -17,6 +17,19 @@ Similarly, a set is unique based on a setcode + name, and can have multiple edit
 ## Contributing
 If you would like to contribute, please take a look at the format below to see how various CSV fields should be formatted, and then open a PR for any changes you'd like to make.
 
+## Generate HTML Viewable CSVs
+
+### Install csvtotable
+`pyenv install`
+`pyenv exec pip install --upgrade csvtotable`
+
+### Serve a specific file
+`pyenv exec csvtotable {file}.csv --serve -d $'\t' -q $'"`
+
+### Generate all HTMLs
+`./generate-htmls.sh`
+
+
 
 ## CSV Formats
 
