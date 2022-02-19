@@ -6,6 +6,8 @@ This repo is intended as a comprehensive, open-source resource for representing 
 Please feel free to clone or fork the repo and generally use it for whatever projects you like. I put this together so the community doesn't have to
 keep re-entering the same data! I would absolutely appreciate any contributions if you notice any missing data or mistakes. :)
 
+You can view the current CSVs through the web [here](https://flesh-cube.github.io/flesh-and-blood-cards/).
+
 
 ## Approach to reprints/editions
 This repo treats a unique card (name + pitch value) as 1 entity. A unique card can have multiple printings, foils, editions, etc, but is considered 1 entry in the CSVs.
