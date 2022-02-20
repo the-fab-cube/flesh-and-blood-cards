@@ -69,7 +69,7 @@ choose Tabs as the delimiter and " as the string indicator.
 | Intelligence | int \| null | The intelligence of the (hero) card. Either a numerical value or empty for cards with no intelligence. | 4 |
 | Rarity | string[] | The rarities the card has been printed at, correlated to the Identifiers field. (Use rarity shorthand, not full rarity names.) | C, C, P |
 | Types | string[] | The types of the card (main type, sub type, talent, etc). See below for a list of possible types. | Action, Attack, Ninja |
-| Keywords | string[] | Any keywords that appear on the card. See below for a list of possible keywords. (Include conditional keywords.) | Combo, Go again |
+| Keywords | string[] | Any keywords that appear on the card. See below for a list of possible keywords. (Include keywords that are conditionally granted to the card, but not that the card grants or removes from other cards.) | Combo, Go again |
 | Essences | string[] | A list of any essences the card has (likely if it is an elemental hero). | Ice, Earth |
 | Functional Text | string | The functional text that effects gameplay. Use the text from the latest printing or errata. Use [Markdown](https://www.markdownguide.org/basic-syntax/) for bold, italic, etc., and use the list of game icon representations below for representing attack icons, defense icons, etc. | **Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and "If this hits, draw a card." |
 | Flavor Text | string | Any flavor text that appears on the latest printing of the card with flavor text. Do not use italics on this, text is assumed to be in italics. (Example pulled from Talisman of Warfare.) | It's said that wherever the Dracai of War planted this talisman, the lava was soon to flow. |
@@ -130,7 +130,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 ### Rarity (Shorthand - Text)
 * C - Common
 * R - Rare
-* SR - Super Rare
+* S - Super Rare
 * M - Majestic
 * L - Legendary
 * F - Fabled
@@ -143,7 +143,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * {p} - Power
 * {d} - Defense Value
 * {h} - Life (of a hero card)
-* {I} - Intellect (of a hero card)
+* {i} - Intellect (of a hero card)
 
 
 ### Keyword (Name - Description)
