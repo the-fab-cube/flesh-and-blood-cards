@@ -246,3 +246,104 @@ WTR109	WTR	Surging Strike	3	2	3	2			C	Ninja, Action, Attack	Go again		**Go again
 WTR110	WTR	Whelming Gustwave	1	0	3	3			C	Ninja, Action, Attack	Combo, Go again		**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and “If this hits, draw a card.”		Ninja Action – Attack					
 WTR111	WTR	Whelming Gustwave	2	0	2	3			C	Ninja, Action, Attack	Combo, Go again		**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and “If this hits, draw a card.”		Ninja Action – Attack					
 WTR112	WTR	Whelming Gustwave	3	0	1	3			C	Ninja, Action, Attack	Combo, Go again		**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and “If this hits, draw a card.”		Ninja Action – Attack					
+WTR113	WTR	Dorinthea Ironsong					40	4	T	Warrior, Hero			**Once per turn Effect** - When your weapon attack hits, you may attack an additional time with that weapon this turn.		Warrior Hero					
+WTR114	WTR	Dorinthea					20	4	T	Warrior, Hero, Young			**Once per turn Effect** - When your weapon attack hits, you may attack an additional time with that weapon this turn.		Warrior Hero – Young					
+WTR115	WTR	Dawnblade			3				T	Warrior, Weapon, Sword, 2H			"**Once per Turn Action** - {r}: **Attack**
+
+If Dawnblade hits, and it’s the second time it has hit this turn, put a +1{p} counter on Dawnblade
+
+At the beginning of your end phase, if Dawnblade did not hit this turn, remove all +1{p} counters from Dawnblade"		Warrior Weapon – Sword (2H)					
+WTR116	WTR	Braveforge Bracers				2			L	Warrior, Equipment, Arms	Battleworn		"**Once per turn** - {r}: Your next weapon attack this turn gains +1{p}. Activate this ability only if a weapon you control has hit this turn. Go again.
+
+**Battleworn** *(If you defend with Braveforge Bracers, put a -1{d} counter on it when the combat chain closes.)*"		Warrior Equipment – Arms					
+WTR117	WTR	Refraction Bolters				1			C	Warrior, Equipment, Legs	Battleworn		"When your weapon attack hits, you may destroy Refraction Bolters. If you do, the attack gains go again.
+
+**Battleworn** (If you defend with Refraction Bolters, put a -1{d} counter on it when the combat chain closes.)"		Warrior Equipment – Legs					
+WTR118	WTR	Glint the Quicksilver	3	0		3			M	Warrior, Attack Reaction	Reprise		"Target weapon attack gains **go again**.
+
+**Reprise** - If the defending hero has defended with a card from their hand, this chain link, draw card."		Warrior Attack Reaction					
+WTR119	WTR	Steelblade Supremacy	1	1		3			M	Warrior, Action	Specialization, Go again		"**Dorinthea Specialization** *(You may only have Steelblade Supremacy in your deck if your hero is Dorinthea.)*
+
+Until end of turn, target weapon gains +2{p} and “Whenever this weapon hits, draw a card.”
+
+**Go again**"		Warrior Action					
+WTR120	WTR	Rout	1	2		3			S	Warrior, Attack Reaction	Reprise		"Target weapon attack gains +3{p}
+
+**Reprise** - If the defending hero has defended with a card from their hand this chain link, you may return target non-equipment defending card to its owner's hand."		Warrior Attack Reaction					
+WTR121	WTR	Singing Steelblade	2	1		3			S	Warrior, Attack Reaction	Specialization, Reprise		"**Dorinthea Specialization** *(You may only have Singing Steelblade in your deck if your hero is Dorinthea.)*
+
+Target weapon attack gains +1{p}.
+
+**Reprise** - If the defending hero has defended with a card from hand this chain link, search your deck for an attack action card, banish it face up, then shuffle your deck. You may play it this chain link."		Warrior Attack Reaction					
+WTR122	WTR	Ironsong Determination	2	0		3			S	Warrior, Action	Go again		"Your next weapon attack this gains +1{p} and **dominate** until end of turn.
+
+**Go again**"	“The light of Sol will dispel the darkness, and guide us unto the path of righteousness.”	Warrior Action					
+WTR123	WTR	Overpower	1	3		3			R	Warrior, Attack Reaction	Reprise		"Target weapon attack gains +4{p}
+
+**Reprise** - If the defending hero has defended with a card from their hand this chain link, the attack gains an additional +2{p}."		Warrior Attack Reaction					
+WTR124	WTR	Overpower	2	3		3			R	Warrior, Attack Reaction	Reprise		"Target weapon attack gains +3{p}
+
+**Reprise** - If the defending hero has defended with a card from their hand this chain link, the attack gains an additional +2{p}."		Warrior Attack Reaction					
+WTR125	WTR	Overpower	3	3		3			R	Warrior, Attack Reaction	Reprise		"Target weapon attack gains +2{p}
+
+**Reprise** - If the defending hero has defended with a card from their hand this chain link, the attack gains an additional +2{p}."		Warrior Attack Reaction					
+WTR126	WTR	Steelblade Shunt	1	1		6			R	Warrior, Defense Reaction			If Steelblade Shunt defends a weapon attack, deal 1 damage to the attacking hero.	A warrior of the Hand of Sol is trained to turn the enemies’ advances to his advantage.	Warrior Defense Reaction					
+WTR127	WTR	Steelblade Shunt	2	1		5			R	Warrior, Defense Reaction			If Steelblade Shunt defends a weapon attack, deal 1 damage to the attacking hero.	A warrior of the Hand of Sol is trained to turn the enemies’ advances to his advantage.	Warrior Defense Reaction					
+WTR128	WTR	Steelblade Shunt	3	1		4			R	Warrior, Defense Reaction			If Steelblade Shunt defends a weapon attack, deal 1 damage to the attacking hero.	A warrior of the Hand of Sol is trained to turn the enemies’ advances to his advantage.	Warrior Defense Reaction					
+WTR129	WTR	Warrior’s Valor	1	1		3			R	Warrior, Action	Go again		"Your next weapon attack this turn gains +3{p} and “If this hits, the attack gains **go again**”
+
+**Go again**"	The Magister’s voice filled the departure halls, as the blessing of Sol washed over them.	Warrior Action					
+WTR130	WTR	Warrior’s Valor	2	1		3			R	Warrior, Action	Go again		"Your next weapon attack this turn gains +2{p} and “If this hits, the attack gains **go again**”
+
+**Go again**"	The Magister’s voice filled the departure halls, as the blessing of Sol washed over them.	Warrior Action					
+WTR131	WTR	Warrior’s Valor	3	1		3			R	Warrior, Action	Go again		"Your next weapon attack this turn gains +1{p} and “If this hits, the attack gains **go again**”
+
+**Go again**"	The Magister’s voice filled the departure halls, as the blessing of Sol washed over them.	Warrior Action					
+WTR132	WTR	Ironsong Response	1	0		3			C	Warrior, Attack Reaction	Reprise		**Reprise** - If the defending hero has defended with a card from their hand this chain link, target weapon attack gains +3{p}.	The song of a smith rings true, heard with every strike of steel on steel.	Warrior Attack Reaction					
+WTR133	WTR	Ironsong Response	2	0		3			C	Warrior, Attack Reaction	Reprise		**Reprise** - If the defending hero has defended with a card from their hand this chain link, target weapon attack gains +2{p}.	The song of a smith rings true, heard with every strike of steel on steel.	Warrior Attack Reaction					
+WTR134	WTR	Ironsong Response	3	0		3			C	Warrior, Attack Reaction	Reprise		**Reprise** - If the defending hero has defended with a card from their hand this chain link, target weapon attack gains +1{p}.	The song of a smith rings true, heard with every strike of steel on steel.	Warrior Attack Reaction					
+WTR135	WTR	Biting Blade	1	2		3			C	Warrior, Attack Reaction	Reprise		"Target weapon attack gains +3{p}.
+
+**Reprise** - If the defending hero has defended with a card from their hand this chain link, weapons you control gain +1{p} until end of turn"		Warrior Attack Reaction					
+WTR136	WTR	Biting Blade	2	2		3			C	Warrior, Attack Reaction	Reprise		"Target weapon attack gains +2{p}.
+
+**Reprise** - If the defending hero has defended with a card from their hand this chain link, weapons you control gain +1{p} until end of turn"		Warrior Attack Reaction					
+WTR137	WTR	Biting Blade	3	2		3			C	Warrior, Attack Reaction	Reprise		"Target weapon attack gains +1{p}.
+
+**Reprise** - If the defending hero has defended with a card from their hand this chain link, weapons you control gain +1{p} until end of turn"		Warrior Attack Reaction					
+WTR138	WTR	Stroke of Foresight	1	1		3			C	Warrior, Attack Reaction	Reprise		"Target weapon attack gains +3{p}.
+
+**Reprise** - If the defending hero has defended with a card from their hand this chain link, draw a card, then put a card from your hand on the top or bottom of your deck."		Warrior Attack Reaction					
+WTR139	WTR	Stroke of Foresight	2	1		3			C	Warrior, Attack Reaction	Reprise		"Target weapon attack gains +2{p}.
+
+**Reprise** - If the defending hero has defended with a card from their hand this chain link, draw a card, then put a card from your hand on the top or bottom of your deck."		Warrior Attack Reaction					
+WTR140	WTR	Stroke of Foresight	3	1		3			C	Warrior, Attack Reaction	Reprise		"Target weapon attack gains +1{p}.
+
+**Reprise** - If the defending hero has defended with a card from their hand this chain link, draw a card, then put a card from your hand on the top or bottom of your deck."		Warrior Attack Reaction					
+WTR141	WTR	Sharpen Steel	1	0		3			C	Warrior, Action	Go again		"Your next weapon attack this turn gains +3{p}.
+
+**Go again**"		Warrior Action					
+WTR142	WTR	Sharpen Steel	2	0		3			C	Warrior, Action	Go again		"Your next weapon attack this turn gains +2{p}.
+
+**Go again**"		Warrior Action					
+WTR143	WTR	Sharpen Steel	3	0		3			C	Warrior, Action	Go again		"Your next weapon attack this turn gains +1{p}.
+
+**Go again**"		Warrior Action					
+WTR144	WTR	Driving Blade	1	2		3			C	Warrior, Action	Go again		"Your next weapon attack this turn gains +3{p} and **go again.**
+
+**Go again**"	“Our arms protect the great city, and all who live within.” - Lieutenant Timaeus	Warrior Action					
+WTR145	WTR	Driving Blade	2	2		3			C	Warrior, Action	Go again		"Your next weapon attack this turn gains +2{p} and **go again.**
+
+**Go again**"	“Our arms protect the great city, and all who live within.” - Lieutenant Timaeus	Warrior Action					
+WTR146	WTR	Driving Blade	3	2		3			C	Warrior, Action	Go again		"Your next weapon attack this turn gains +1{p} and **go again.**
+
+**Go again**"	“Our arms protect the great city, and all who live within.” - Lieutenant Timaeus	Warrior Action					
+WTR147	WTR	Nature’s Path Pilgrimage	1	1		3			C	Warrior, Action	Go again		"Your next weapon attack this turn gains +3{p} and “If this hits and you have no cards in your arsenal, reveal the top card of your deck. If it’s an action card, put it face down into your arsenal.”
+
+**Go again**"		Warrior Action					
+WTR148	WTR	Nature’s Path Pilgrimage	2	1		3			C	Warrior, Action	Go again		"Your next weapon attack this turn gains +2{p} and “If this hits and you have no cards in your arsenal, reveal the top card of your deck. If it’s an action card, put it face down into your arsenal.”
+
+**Go again**"		Warrior Action					
+WTR149	WTR	Nature’s Path Pilgrimage	3	1		3			C	Warrior, Action	Go again		"Your next weapon attack this turn gains +1{p} and “If this hits and you have no cards in your arsenal, reveal the top card of your deck. If it’s an action card, put it face down into your arsenal.”
+
+**Go again**"		Warrior Action					
