@@ -347,3 +347,135 @@ WTR148	WTR	Nature’s Path Pilgrimage	2	1		3			C	Warrior, Action	Go again		"Your
 WTR149	WTR	Nature’s Path Pilgrimage	3	1		3			C	Warrior, Action	Go again		"Your next weapon attack this turn gains +1{p} and “If this hits and you have no cards in your arsenal, reveal the top card of your deck. If it’s an action card, put it face down into your arsenal.”
 
 **Go again**"		Warrior Action					
+WTR150	WTR	Fyendal’s Spring Tunic				1			L	Generic, Equipment, Chest	Blade Break		"At the start of your turn, if Fyendal’s Spring Tunic has less than 3 energy counters, you may put an energy counter on it.
+
+**Instant** - Remove 3 energy counters from Fyendal’s Spring Tunic: Gain {r}
+
+**Blade Break** *(If your defend with Fyendal’s Spring Tunic, destroy it when the combat chain closes.)*"		Generic Equipment – Chest					
+WTR151	WTR	Hope Merchant’s Hood				0			C	Generic, Equipment, Head			**Instant** - Destroy Hope Merchant’s Hood: Shuffle any number of cards from your hand into your deck, then draw that many cards.		Generic Equipment – Head					
+WTR152	WTR	Heartened Cross Strap				0			C	Generic, Equipment, Chest			**Action** - Destroy Heartened Cross Strap: The next attack action card you play this turn costs {r}{r} less to play. **Go again**		Generic Equipment – Chest					
+WTR153	WTR	Goliath Gauntlet				0			C	Generic, Equipment, Arms			**Action** - Destroy Goliath Gauntlet: The next attack action card with cost {r}{r} or greater you play this turn gains +2{p}. **Go again**		Generic Equipment – Arms					
+WTR154	WTR	Snapdragon Scalers				0			C	Generic, Equipment, Legs			**Attack Reaction** - Destroy Snapdragon Scalers: Target attack action card with cost {r} or less gains **go again.**		Generic Equipment – Legs					
+WTR155	WTR	Ironrot Helm				1			C	Generic, Equipment, Head	Blade Break		**Blade Break** *(If your defend with Ironrot Helm, destroy it when the combat chain closes.)*		Generic Equipment – Head					
+WTR156	WTR	Ironrot Plate				1			C	Generic, Equipment, Chest	Blade Break		**Blade Break** *(If your defend with Ironrot Plate, destroy it when the combat chain closes.)*		Generic Equipment – Chest					
+WTR157	WTR	Ironrot Gauntlet				1			C	Generic, Equipment, Arms	Blade Break		**Blade Break** *(If your defend with Ironrot Gauntlet, destroy it when the combat chain closes.)*		Generic Equipment – Arms					
+WTR158	WTR	Ironrot Legs				1			C	Generic, Equipment, Legs	Blade Break		**Blade Break** *(If your defend with Ironrot Legs, destroy it when the combat chain closes.)*		Generic Equipment – Legs					
+WTR159	WTR	Enlightened Strike	1	0	5	3			M	Generic, Action, Attack	Go again		"As an additional cost to play Enlightened Strike, put a card from your hand on the bottom of your deck.
+
+Choose 1;
+- Draw a card.
+- Enlightened Strike gains +2{p}
+- Enlightened Strike gains **go again.**"		Generic Action – Attack					
+WTR160	WTR	Tome of Fyendal	2	1		2			M	Generic, Action			"Draw 2 cards.
+
+If Tome of Fyendal is played from arsenal, gain 1{h} for each card in your hand."	Even the simplest recollection of the Old Ones holds immense power…	Generic Action					
+WTR161	WTR	Last Ditch Effort	3	3	4	3			S	Generic, Action, Attack	Go again		When you play Last Ditch Effort, if you have no cards in your deck, it gains +4{p} and **go again.**	For creatures that feed on fear, the moment of death is a veritable feast.	Generic Action – Attack					
+WTR162	WTR	Crazy Brew	3	0					S	Generic, Action, Item			"**Action** - Destroy Crazy Brew: Roll a 6 sided die.
+
+On;
+1,2 - Lose 2{h}. **Go again**
+3,4 - Gain 2{h}. **Go again**
+5,6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}."		Generic Action – Item					
+WTR163	WTR	Remembrance	2	0					S	Generic, Instant			"Shuffle up to 3 action cards from your graveyard into your deck.
+
+Banish Remembrance."		Generic Instant					
+WTR164	WTR	Drone of Brutality	1	2	6	2			R	Generic, Action, Attack			If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.		Generic Action – Attack		No	No		
+WTR165	WTR	Drone of Brutality	2	2	5	2			R	Generic, Action, Attack			If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.		Generic Action – Attack		No	No		
+WTR166	WTR	Drone of Brutality	3	2	4	2			R	Generic, Action, Attack			If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.		Generic Action – Attack		No	No		
+WTR167	WTR	Snatch	1	0	4	2			R	Generic, Action, Attack			If Snatch hits, draw a card.		Generic Action – Attack					
+WTR168	WTR	Snatch	2	0	3	2			R	Generic, Action, Attack			If Snatch hits, draw a card.		Generic Action – Attack					
+WTR169	WTR	Snatch	3	0	2	2			R	Generic, Action, Attack			If Snatch hits, draw a card.		Generic Action – Attack					
+WTR170	WTR	Energy Potion	3	0					R	Generic, Action, Item			**Instant** - Destroy Energy Potion: {r}{r}	Side effects may include agitation, confusion, aggression, tachycardia, fever and delirium.	Generic Action – Item					
+WTR171	WTR	Potion of Strength	3	0					R	Generic, Action, Item			**Action** - Destroy Potion of Strength: Your next attack this turn gains +2{p}. **Go again.**	“There’s something odd about Mabon’s drinking horn.”	Generic Action – Item					
+WTR172	WTR	Timesnap Potion	3	0					R	Generic, Action, Item			**Action** - Destroy Timesnap Potion: Gain 2 action points.	“… and only a slight chance of temporal dissociation!” - Lena-Belle	Generic Action – Item					
+WTR173	WTR	Sigil of Solace	1	0					R	Generic, Instant			Gain 3{h}		Generic Instant					
+WTR174	WTR	Sigil of Solace	2	0					R	Generic, Instant			Gain 2{h}		Generic Instant					
+WTR175	WTR	Sigil of Solace	3	0					R	Generic, Instant			Gain 1{h}		Generic Instant					
+WTR176	WTR	Barraging Brawnhide	1	3	7	2			C	Generic, Action, Attack			If Barraging Brawnhide is defended by less than 2 non-equipment cards, it gains +1{p}		Generic Action – Attack					
+WTR177	WTR	Barraging Brawnhide	2	3	6	2			C	Generic, Action, Attack			If Barraging Brawnhide is defended by less than 2 non-equipment cards, it gains +1{p}		Generic Action – Attack					
+WTR178	WTR	Barraging Brawnhide	3	3	5	2			C	Generic, Action, Attack			If Barraging Brawnhide is defended by less than 2 non-equipment cards, it gains +1{p}		Generic Action – Attack					
+WTR179	WTR	Demolition Crew	1	2	6	2			C	Generic, Action, Attack	Dominate		"As an additional cost to play Demolition Crew, reveal a card in your hand with cost {r}{r} or greater.
+
+**Dominate** *(The defending hero can’t defend Demolition Crew with more than 1 card from their hand.)*"		Generic Action – Attack					
+WTR180	WTR	Demolition Crew	2	2	5	2			C	Generic, Action, Attack	Dominate		"As an additional cost to play Demolition Crew, reveal a card in your hand with cost {r}{r} or greater.
+
+**Dominate** *(The defending hero can’t defend Demolition Crew with more than 1 card from their hand.)*"		Generic Action – Attack					
+WTR181	WTR	Demolition Crew	3	2	4	2			C	Generic, Action, Attack	Dominate		"As an additional cost to play Demolition Crew, reveal a card in your hand with cost {r}{r} or greater.
+
+**Dominate** *(The defending hero can’t defend Demolition Crew with more than 1 card from their hand.)*"		Generic Action – Attack					
+WTR182	WTR	Flock of the Feather Walkers	1	1	5	2			C	Generic, Action, Attack			"As an additional cost to play Flock of the Feather Walkers, reveal a card in your hand with cost {r} or less.
+
+Create a Quicken aura token with “When you play an attack action card or attack with a weapon, destroy Quicken then the attack gains **go again**”"		Generic Action – Attack					
+WTR183	WTR	Flock of the Feather Walkers	2	1	4	2			C	Generic, Action, Attack			"As an additional cost to play Flock of the Feather Walkers, reveal a card in your hand with cost {r} or less.
+
+Create a Quicken aura token with “When you play an attack action card or attack with a weapon, destroy Quicken then the attack gains **go again**”"		Generic Action – Attack					
+WTR184	WTR	Flock of the Feather Walkers	3	1	3	2			C	Generic, Action, Attack			"As an additional cost to play Flock of the Feather Walkers, reveal a card in your hand with cost {r} or less.
+
+Create a Quicken aura token with “When you play an attack action card or attack with a weapon, destroy Quicken then the attack gains **go again**”"		Generic Action – Attack					
+WTR185	WTR	Nimble Strike	1	1	4	2			C	Generic, Action, Attack			As an additional cost to play Nimble Strike, you may banish a card named Nimblism from your graveyard. If you do, Nimble Strike gain +1{p} and **go again.**		Generic Action – Attack					
+WTR186	WTR	Nimble Strike	2	1	3	2			C	Generic, Action, Attack			As an additional cost to play Nimble Strike, you may banish a card named Nimblism from your graveyard. If you do, Nimble Strike gain +1{p} and **go again.**		Generic Action – Attack					
+WTR187	WTR	Nimble Strike	3	1	2	2			C	Generic, Action, Attack			As an additional cost to play Nimble Strike, you may banish a card named Nimblism from your graveyard. If you do, Nimble Strike gain +1{p} and **go again.**		Generic Action – Attack					
+WTR188	WTR	Raging Onslaught	1	3	7	3			C	Generic, Action, Attack				Bartrand the Bloody hunted anything that crossed his path, slawying ruthless bandits and savage beasts. They say that his mighty greataxe was forged from the ashes of his enemies, and tempered with their blood.	Generic Action – Attack					
+WTR189	WTR	Raging Onslaught	2	3	6	3			C	Generic, Action, Attack				Bartrand the Bloody hunted anything that crossed his path, slawying ruthless bandits and savage beasts. They say that his mighty greataxe was forged from the ashes of his enemies, and tempered with their blood.	Generic Action – Attack					
+WTR190	WTR	Raging Onslaught	3	3	5	3			C	Generic, Action, Attack				Bartrand the Bloody hunted anything that crossed his path, slawying ruthless bandits and savage beasts. They say that his mighty greataxe was forged from the ashes of his enemies, and tempered with their blood.	Generic Action – Attack					
+WTR191	WTR	Scar for a Scar	1	0	4	2			C	Generic, Action, Attack	Go again		When you play Scar for a Scar, if you have less {h} than your opponent, it gains **go again.**		Generic Action – Attack					
+WTR192	WTR	Scar for a Scar	2	0	3	2			C	Generic, Action, Attack	Go again		When you play Scar for a Scar, if you have less {h} than your opponent, it gains **go again.**		Generic Action – Attack					
+WTR193	WTR	Scar for a Scar	3	0	2	2			C	Generic, Action, Attack	Go again		When you play Scar for a Scar, if you have less {h} than your opponent, it gains **go again.**		Generic Action – Attack					
+WTR194	WTR	Scour the Battlescape	1	0	3	2			C	Generic, Action, Attack	Go again		"You may put a card from your hand on the bottom of your deck. If you do, draw a card.
+
+If Scour the Battlescape is played from arsenal, it gains **go again.**"		Generic Action – Attack					
+WTR195	WTR	Scour the Battlescape	2	0	2	2			C	Generic, Action, Attack	Go again		"You may put a card from your hand on the bottom of your deck. If you do, draw a card.
+
+If Scour the Battlescape is played from arsenal, it gains **go again.**"		Generic Action – Attack					
+WTR196	WTR	Scour the Battlescape	3	0	1	2			C	Generic, Action, Attack	Go again		"You may put a card from your hand on the bottom of your deck. If you do, draw a card.
+
+If Scour the Battlescape is played from arsenal, it gains **go again.**"		Generic Action – Attack					
+WTR197	WTR	Regurgitating Slog	1	2	6	2			C	Generic, Action, Attack	Dominate		As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate.** *(The defending hero can’t defend Regurgitating Slog with more than 1 card from their hand.)*		Generic Action – Attack					
+WTR198	WTR	Regurgitating Slog	2	2	5	2			C	Generic, Action, Attack	Dominate		As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate.** *(The defending hero can’t defend Regurgitating Slog with more than 1 card from their hand.)*		Generic Action – Attack					
+WTR199	WTR	Regurgitating Slog	3	2	4	2			C	Generic, Action, Attack	Dominate		As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate.** *(The defending hero can’t defend Regurgitating Slog with more than 1 card from their hand.)*		Generic Action – Attack					
+WTR200	WTR	Wounded Bull	1	3	7	2			C	Generic, Action, Attack			When you play Wounded Bull, if you have less {h} than your opponent, it gains +1{p}.	In the Savage Lands, humans, like animals, are more dangerous when they bleed.	Generic Action – Attack					
+WTR201	WTR	Wounded Bull	2	3	6	2			C	Generic, Action, Attack			When you play Wounded Bull, if you have less {h} than your opponent, it gains +1{p}.	In the Savage Lands, humans, like animals, are more dangerous when they bleed.	Generic Action – Attack					
+WTR202	WTR	Wounded Bull	3	3	5	2			C	Generic, Action, Attack			When you play Wounded Bull, if you have less {h} than your opponent, it gains +1{p}.	In the Savage Lands, humans, like animals, are more dangerous when they bleed.	Generic Action – Attack					
+WTR203	WTR	Wounding Blow	1	0	4	3			C	Generic, Action, Attack				Farmhands, villagers, and slaves – easily replaceable wretches that must be taught the joys of obedience.	Generic Action – Attack					
+WTR204	WTR	Wounding Blow	2	0	3	3			C	Generic, Action, Attack				Farmhands, villagers, and slaves – easily replaceable wretches that must be taught the joys of obedience.	Generic Action – Attack					
+WTR205	WTR	Wounding Blow	3	0	2	3			C	Generic, Action, Attack				Farmhands, villagers, and slaves – easily replaceable wretches that must be taught the joys of obedience.	Generic Action – Attack					
+WTR206	WTR	Pummel	1	2		2			C	Generic, Attack Reaction			"Choose 1;
+- Target club or hammer weapon attack gains +4{p}
+- Target attack action with cost {r}{r} or greater gains +4{p} and “If this hits, the defending hero discard a card.”"		Generic Attack Reaction					
+WTR207	WTR	Pummel	2	2		2			C	Generic, Attack Reaction			"Choose 1;
+- Target club or hammer weapon attack gains +3{p}
+- Target attack action with cost {r}{r} or greater gains +3{p} and “If this hits, the defending hero discard a card.”"		Generic Attack Reaction					
+WTR208	WTR	Pummel	3	2		2			C	Generic, Attack Reaction			"Choose 1;
+- Target club or hammer weapon attack gains +2{p}
+- Target attack action with cost {r}{r} or greater gains +2{p} and “If this hits, the defending hero discard a card.”"		Generic Attack Reaction					
+WTR209	WTR	Razor Reflex	1	1		2			C	Generic, Attack Reaction			"Choose 1;
+- Target sword or dagger weapon attack gains +3{p}
+- Target attack action card with cost {r} or less gains +3{p} and “If this hits, this attack gains **go again**.”"		Generic Attack Reaction					
+WTR210	WTR	Razor Reflex	2	1		2			C	Generic, Attack Reaction			"Choose 1;
+- Target sword or dagger weapon attack gains +2{p}
+- Target attack action card with cost {r} or less gains +2{p} and “If this hits, this attack gains **go again**.”"		Generic Attack Reaction					
+WTR211	WTR	Razor Reflex	3	1		2			C	Generic, Attack Reaction			"Choose 1;
+- Target sword or dagger weapon attack gains +1{p}
+- Target attack action card with cost {r} or less gains +1{p} and “If this hits, this attack gains **go again**.”"		Generic Attack Reaction					
+WTR212	WTR	Unmovable	1	3		7			C	Generic, Defense Reaction			If Unmovable is played from arsenal, it gains +1{d}.		Generic Defense Reaction					
+WTR213	WTR	Unmovable	2	3		6			C	Generic, Defense Reaction			If Unmovable is played from arsenal, it gains +1{d}.		Generic Defense Reaction					
+WTR214	WTR	Unmovable	3	3		5			C	Generic, Defense Reaction			If Unmovable is played from arsenal, it gains +1{d}.		Generic Defense Reaction					
+WTR215	WTR	Sink Below	1	0		4			C	Generic, Defense Reaction			You may put a card from your hand on the bottom of your deck. If you do, draw a card.	Those blessed with Aether have an incredible gift – the power to shape the fabric of reality.	Generic Defense Reaction					
+WTR216	WTR	Sink Below	2	0		3			C	Generic, Defense Reaction			You may put a card from your hand on the bottom of your deck. If you do, draw a card.	Those blessed with Aether have an incredible gift – the power to shape the fabric of reality.	Generic Defense Reaction					
+WTR217	WTR	Sink Below	3	0		2			C	Generic, Defense Reaction			You may put a card from your hand on the bottom of your deck. If you do, draw a card.	Those blessed with Aether have an incredible gift – the power to shape the fabric of reality.	Generic Defense Reaction					
+WTR218	WTR	Nimblism	1	0		2			C	Generic, Action			The next attack action card with cost {r} or less you play this turn gains +3{p}.		Generic Action					
+WTR219	WTR	Nimblism	2	0		2			C	Generic, Action			The next attack action card with cost {r} or less you play this turn gains +2{p}.		Generic Action					
+WTR220	WTR	Nimblism	3	0		2			C	Generic, Action			The next attack action card with cost {r} or less you play this turn gains +1{p}.		Generic Action					
+WTR221	WTR	Sloggism	1	3		2			C	Generic, Action	Go again		"The next attack action card with cost {r}{r} or greater you play this turn gains +6{p}.
+
+**Go again**"		Generic Action					
+WTR222	WTR	Sloggism	2	3		2			C	Generic, Action	Go again		"The next attack action card with cost {r}{r} or greater you play this turn gains +5{p}.
+
+**Go again**"		Generic Action					
+WTR223	WTR	Sloggism	3	3		2			C	Generic, Action	Go again		"The next attack action card with cost {r}{r} or greater you play this turn gains +4{p}.
+
+**Go again**"		Generic Action					
+WTR224	WTR	Cracked Bauble	2						T	Generic, Resource			*(Cracked Bauble exists to support Booster Draft and sealed Deck formats. A player may add any number of Cracked Baubles to their deck. Typically, a player would only do this if they did not have enough legally playable cards to make a 30 card minimum deck.)*		Generic Resource					
+WTR225	WTR	Quicken							T	Generic, Token, Aura			"*(Auras stay in the arena until they are destroyed.)*
+
+When you play an attack card or attack with a weapon, destroy Quicken then the attack gains **go again.**"		Generic Token – Aura					
