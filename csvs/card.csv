@@ -197,3 +197,52 @@ While Stonewall Confidence is in the arena, cards you control with cost {r}{r}{r
 
 At the beginning of your action phase, destroy Stonewall Confidence."		Guardian Action – Aura					
 WTR075	WTR	Seismic Surge							T	Guardian, Token, Aura			At the beginning of your action phase, destroy Seismic Surge then the next Guardian attack action card you play this turn costs {r} less to play.		Guardian Token – Aura					
+WTR076	WTR	Katsu, the Wanderer					40	4	T	Ninja, Hero			**Once per turn Effect** - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it face up, then shuffle your deck. You may play it this turn		Ninja Hero					
+WTR077	WTR	Katsu					20	4	T	Ninja, Hero, Young			**Once per turn Effect** - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it face up, then shuffle your deck. You may play it this turn		Ninja Hero – Young					
+WTR078	WTR	Harmonized Kodachi							T	Ninja, Weapon, Dagger, 1H	Go again		"**Once per Turn Action** - {r}: **Attack**
+
+If you have a card in your pitch zone with cost 0, Harmonized Kodachi gains **go again.**"		Ninja Weapon – Dagger (1H)					
+WTR079	WTR	Mask of Momentum				2			L	Ninja, Equipment, Head	Blade Break		"**Once per Turn Effect** - When an attack action card you control is the third or higher chain link in a row to hit, draw a card.
+
+**Blade Break** *(If you defend with Mask of Momentum, destroy it when the combat chain closes.)*"		Ninja Equipment – Head					
+WTR080	WTR	Breaking Scales				1			C	Ninja, Equipment, Arms	Battleworn		"**Attack Reaction** - Destroy Breaking Scales: Target attack action card with **combo** gains +1{p}.
+
+**Battleworn** *(If you defend with Breaking Scales, put a -1{d} counter on it when the combat chain closes.)*"		Ninja Equipment – Arms					
+WTR081	WTR	Lord of Wind	3	0	2	3			M	Ninja, Action, Attack	Specialization, Combo		"**Katsu Specialization** *(You may only have Lord of Wind in your deck if your hero is Katsu.)*
+
+**Combo** - If Mugenshi: RELEASE was the last attack this combat chain, you may pay X resource points as an additional cost to play Lord of Wind. If you do, shuffle X target cards named Surging Strike, Whelming Gustwave and/or Mugenshi: RELEASE from your graveyard into your deck, then lord of Wind gains +X{p}."		Ninja Action – Attack					
+WTR082	WTR	Ancestral Empowerment	1	0		3			M	Ninja, Attack Reaction			"Target Ninja attack action card gains +1{p}.
+
+Draw a card."	They called to him from beyond the Mists. “It’s time to come home.”	Ninja – Attack Reaction					
+WTR083	WTR	Mugenshi: RELEASE	2	1	4	3			S	Ninja, Action, Attack	Specialization, Combo, Go again		"**Katsu Specialization** *(You may only have Mugenshi: RELEASE in your deck if your hero is Katsu.)*
+
+**Combo** - *If Whelming Gustwave was the last attack this combat chain, Mugenshi: RELEASE gains +1{p}, **go again**, and “If this hits, search your deck for any number of cards named Lord of Wind, reveal them, put them into your hand, then shuffle your deck.”*"		Ninja Action – Attack					
+WTR084	WTR	Hurricane Technique	2	1	4	3			S	Ninja, Action, Attack	Combo, Go again		**Combo** - If Rising Knee Thrust was the last attack this combat chain, Hurricane Technique gains +1{p}, **go again**, and “If Hurricane Technique hits, put it into your hand.”		Ninja Action – Attack					
+WTR085	WTR	Pounding Gale	1	1	5	3			S	Ninja, Action, Attack	Combo		**Combo** - If Open the Center was the last attack this combat chain, Pounding Gale gains “If Pounding Gale would deal damage to a hero, instead it deals double that much damage”		Ninja Action – Attack					
+WTR086	WTR	Fluster Fist	1	0	4	3			R	Ninja, Action, Attack	Combo		**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.		Ninja Action – Attack					
+WTR087	WTR	Fluster Fist	2	0	3	3			R	Ninja, Action, Attack	Combo		**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.		Ninja Action – Attack					
+WTR088	WTR	Fluster Fist	3	0	2	3			R	Ninja, Action, Attack	Combo		**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.		Ninja Action – Attack					
+WTR089	WTR	Blackout Kick	1	1	4	3			R	Ninja, Action, Attack	Combo		**Combo** - If Rising Knee Thrust was the last attack this combat chain, Blackout Kick gains +3{p}.	“Just a little off the top.”	Ninja Action – Attack					
+WTR090	WTR	Blackout Kick	2	1	3	3			R	Ninja, Action, Attack	Combo		**Combo** - If Rising Knee Thrust was the last attack this combat chain, Blackout Kick gains +3{p}.	“Just a little off the top.”	Ninja Action – Attack					
+WTR091	WTR	Blackout Kick	3	1	2	3			R	Ninja, Action, Attack	Combo		**Combo** - If Rising Knee Thrust was the last attack this combat chain, Blackout Kick gains +3{p}.	“Just a little off the top.”	Ninja Action – Attack					
+WTR092	WTR	Flic Flak	1	0		4			R	Ninja, Defense Reaction			If the next card you defend with this turn is a card with **combo**, it gains +2{d}.	Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush.	Ninja – Defense Reaction					
+WTR093	WTR	Flic Flak	2	0		3			R	Ninja, Defense Reaction			If the next card you defend with this turn is a card with **combo**, it gains +2{d}.	Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush.	Ninja – Defense Reaction					
+WTR094	WTR	Flic Flak	3	0		2			R	Ninja, Defense Reaction			If the next card you defend with this turn is a card with **combo**, it gains +2{d}.	Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush.	Ninja – Defense Reaction					
+WTR095	WTR	Open the Center	1	2	5	3			C	Ninja, Action, Attack	Combo, Go again, Dominate		**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**. *(The defending hero can’t defend Open the Center with more than 1 card from their hand.)*		Ninja Action – Attack					
+WTR096	WTR	Open the Center	2	2	4	3			C	Ninja, Action, Attack	Combo, Go again, Dominate		**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**. *(The defending hero can’t defend Open the Center with more than 1 card from their hand.)*		Ninja Action – Attack					
+WTR097	WTR	Open the Center	3	2	3	3			C	Ninja, Action, Attack	Combo, Go again, Dominate		**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**. *(The defending hero can’t defend Open the Center with more than 1 card from their hand.)*		Ninja Action – Attack					
+WTR098	WTR	Head Jab	1	0	3	2			C	Ninja, Action, Attack	Go again		**Go again**		Ninja Action – Attack					
+WTR099	WTR	Head Jab	2	0	2	2			C	Ninja, Action, Attack	Go again		**Go again**		Ninja Action – Attack					
+WTR100	WTR	Head Jab	3	0	1	2			C	Ninja, Action, Attack	Go again		**Go again**		Ninja Action – Attack					
+WTR101	WTR	Leg Tap	1	1	4	2			C	Ninja, Action, Attack	Go again		**Go again**		Ninja Action – Attack					
+WTR102	WTR	Leg Tap	2	1	3	2			C	Ninja, Action, Attack	Go again		**Go again**		Ninja Action – Attack					
+WTR103	WTR	Leg Tap	3	1	2	2			C	Ninja, Action, Attack	Go again		**Go again**		Ninja Action – Attack					
+WTR104	WTR	Rising Knee Thrust	1	0	3	3			C	Ninja, Action, Attack	Combo, Go again		**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.	To master the Art of the Sparrow is to master one’s own body, and possess the agility of a bird in flight.	Ninja Action – Attack					
+WTR105	WTR	Rising Knee Thrust	2	0	2	3			C	Ninja, Action, Attack	Combo, Go again		**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.	To master the Art of the Sparrow is to master one’s own body, and possess the agility of a bird in flight.	Ninja Action – Attack					
+WTR106	WTR	Rising Knee Thrust	3	0	1	3			C	Ninja, Action, Attack	Combo, Go again		**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.	To master the Art of the Sparrow is to master one’s own body, and possess the agility of a bird in flight.	Ninja Action – Attack					
+WTR107	WTR	Surging Strike	1	2	5	2			C	Ninja, Action, Attack	Go again		**Go again**		Ninja Action – Attack					
+WTR108	WTR	Surging Strike	2	2	4	2			C	Ninja, Action, Attack	Go again		**Go again**		Ninja Action – Attack					
+WTR109	WTR	Surging Strike	3	2	3	2			C	Ninja, Action, Attack	Go again		**Go again**		Ninja Action – Attack					
+WTR110	WTR	Whelming Gustwave	1	0	3	3			C	Ninja, Action, Attack	Combo, Go again		**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and “If this hits, draw a card.”		Ninja Action – Attack					
+WTR111	WTR	Whelming Gustwave	2	0	2	3			C	Ninja, Action, Attack	Combo, Go again		**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and “If this hits, draw a card.”		Ninja Action – Attack					
+WTR112	WTR	Whelming Gustwave	3	0	1	3			C	Ninja, Action, Attack	Combo, Go again		**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and “If this hits, draw a card.”		Ninja Action – Attack					
