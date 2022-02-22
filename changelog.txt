@@ -1,8 +1,8 @@
 02-20-22:
-- Added WTR card data
+- Added card data for WTR000-WTR225
 
 02-21-22:
-- Added card data for ARC000-ARC074
+- Added card data for ARC000-ARC112
 - Changed card.csv's `Keywords` field to `Card Keywords`
 - Added the `Abilities and Effects`, `Ability and Effect Keywords`, and `Granted Keywords` fields to card.csv
 - Added "Arrow" as an entry in type.csv
