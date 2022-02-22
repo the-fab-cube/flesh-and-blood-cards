@@ -887,72 +887,174 @@ ARC146	ARC	Zap	3	0		3			C	Wizard, Action						Deal 1 arcane damage to target her
 ARC147	ARC	Voltic Bolt	1	2		3			C	Wizard, Action						Deal 5 arcane damage to target hero.		Wizard Action					https://storage.googleapis.com/fabmaster/media/images/ARC147.width-450.png – ARC14747 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC147.width-450.png - ARC14747 – U
 ARC148	ARC	Voltic Bolt	2	2		3			C	Wizard, Action						Deal 4 arcane damage to target hero.		Wizard Action					https://storage.googleapis.com/fabmaster/media/images/ARC148.width-450.png – ARC14848 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC148.width-450.png - ARC14848 – U
 ARC149	ARC	Voltic Bolt	3	2		3			C	Wizard, Action						Deal 3 arcane damage to target hero.		Wizard Action					https://storage.googleapis.com/fabmaster/media/images/ARC149.width-450.png – ARC14949 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC149.width-450.png - ARC14949 – U
-ARC150	ARC	Arcanite Skullcap																					https://storage.googleapis.com/fabmaster/media/images/ARC150.width-450.png – ARC15050 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC150.width-450.png - ARC15050 – U
-ARC151	ARC	Talismanic Lens																					https://storage.googleapis.com/fabmaster/media/images/ARC151.width-450.png – ARC15151 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC151.width-450.png - ARC15151 – U
-ARC152	ARC	Vest of the First Fist																					https://storage.googleapis.com/fabmaster/media/images/ARC152.width-450.png – ARC15252 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC152.width-450.png - ARC15252 – U
-ARC153	ARC	Bracers of Belief																					https://storage.googleapis.com/fabmaster/media/images/ARC153.width-450.png – ARC15353 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC153.width-450.png - ARC15353 – U
-ARC154	ARC	Mage Master Boots																					https://storage.googleapis.com/fabmaster/media/images/ARC154.width-450.png – ARC15454 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC154.width-450.png - ARC15454 – U
-ARC155	ARC	Nullrune Hood																					https://storage.googleapis.com/fabmaster/media/images/ARC155.width-450.png – ARC15555 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC155.width-450.png - ARC15555 – U
-ARC156	ARC	Nullrune Robe																					https://storage.googleapis.com/fabmaster/media/images/ARC156.width-450.png – ARC15656 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC156.width-450.png - ARC15656 – U
-ARC157	ARC	Nullrune Gloves																					https://storage.googleapis.com/fabmaster/media/images/ARC157.width-450.png – ARC15757 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC157.width-450.png - ARC15757 – U
-ARC158	ARC	Nullrune Boots																					https://storage.googleapis.com/fabmaster/media/images/ARC158.width-450.png – ARC15858 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC158.width-450.png - ARC15858 – U
-ARC159	ARC	Command and Conquer																					https://storage.googleapis.com/fabmaster/media/images/ARC159.width-450.png – ARC15959 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC159.width-450.png - ARC15959 – U
-ARC160	ARC	Art of War																					https://storage.googleapis.com/fabmaster/media/images/ARC160.width-450.png – ARC16060 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC160.width-450.png - ARC16060 – U
-ARC161	ARC	Pursuit of Knowledge																					https://storage.googleapis.com/fabmaster/media/images/ARC161.width-450.png – ARC16161 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC161.width-450.png - ARC16161 – U
-ARC162	ARC	Chains of Eminence																					https://storage.googleapis.com/fabmaster/media/images/ARC162.width-450.png – ARC16262 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC162.width-450.png - ARC16262 – U
-ARC163	ARC	Rusted Relic																					https://storage.googleapis.com/fabmaster/media/images/ARC163.width-450.png – ARC16363 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC163.width-450.png - ARC16363 – U
-ARC164	ARC	Life for a Life																					https://storage.googleapis.com/fabmaster/media/images/ARC164.width-450.png – ARC16464 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC164.width-450.png - ARC16464 – U
-ARC165	ARC	Life for a Life																					https://storage.googleapis.com/fabmaster/media/images/ARC165.width-450.png – ARC16565 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC165.width-450.png - ARC16565 – U
-ARC166	ARC	Life for a Life																					https://storage.googleapis.com/fabmaster/media/images/ARC166.width-450.png – ARC16666 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC166.width-450.png - ARC16666 – U
-ARC167	ARC	Enchanting Melody																					https://storage.googleapis.com/fabmaster/media/images/ARC167.width-450.png – ARC16767 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC167.width-450.png - ARC16767 – U
-ARC168	ARC	Enchanting Melody																					https://storage.googleapis.com/fabmaster/media/images/ARC168.width-450.png – ARC16868 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC168.width-450.png - ARC16868 – U
-ARC169	ARC	Enchanting Melody																					https://storage.googleapis.com/fabmaster/media/images/ARC169.width-450.png – ARC16969 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC169.width-450.png - ARC16969 – U
-ARC170	ARC	Plunder Run																			No		https://storage.googleapis.com/fabmaster/media/images/ARC170.width-450.png – ARC17070 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC170.width-450.png - ARC17070 – U
-ARC171	ARC	Plunder Run																			No		https://storage.googleapis.com/fabmaster/media/images/ARC171.width-450.png – ARC17171 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC171.width-450.png - ARC17171 – U
-ARC172	ARC	Plunder Run																			No		https://storage.googleapis.com/fabmaster/media/images/ARC172.width-450.png – ARC17272 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC172.width-450.png - ARC17272 – U
-ARC173	ARC	Eirina’s Prayer																					https://storage.googleapis.com/fabmaster/media/images/ARC173.width-450.png – ARC17373 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC173.width-450.png - ARC17373 – U
-ARC174	ARC	Eirina’s Prayer																					https://storage.googleapis.com/fabmaster/media/images/ARC174.width-450.png – ARC17474 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC174.width-450.png - ARC17474 – U
-ARC175	ARC	Eirina’s Prayer																					https://storage.googleapis.com/fabmaster/media/images/ARC175.width-450.png – ARC17575 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC175.width-450.png - ARC17575 – U
-ARC176	ARC	Back Alley Breakline																					https://storage.googleapis.com/fabmaster/media/images/ARC176.width-450.png – ARC17676 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC176.width-450.png - ARC17676 – U
-ARC177	ARC	Back Alley Breakline																					https://storage.googleapis.com/fabmaster/media/images/ARC177.width-450.png – ARC17777 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC177.width-450.png - ARC17777 – U
-ARC178	ARC	Back Alley Breakline																					https://storage.googleapis.com/fabmaster/media/images/ARC178.width-450.png – ARC17878 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC178.width-450.png - ARC17878 – U
-ARC179	ARC	Cadaverous Contraband																					https://storage.googleapis.com/fabmaster/media/images/ARC179.width-450.png – ARC17979 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC179.width-450.png - ARC17979 – U
-ARC180	ARC	Cadaverous Contraband																					https://storage.googleapis.com/fabmaster/media/images/ARC180.width-450.png – ARC18080 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC180.width-450.png - ARC18080 – U
-ARC181	ARC	Cadaverous Contraband																					https://storage.googleapis.com/fabmaster/media/images/ARC181.width-450.png – ARC18181 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC181.width-450.png - ARC18181 – U
-ARC182	ARC	Fervent Forerunner																					https://storage.googleapis.com/fabmaster/media/images/ARC182.width-450.png – ARC18282 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC182.width-450.png - ARC18282 – U
-ARC183	ARC	Fervent Forerunner																					https://storage.googleapis.com/fabmaster/media/images/ARC183.width-450.png – ARC18383 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC183.width-450.png - ARC18383 – U
-ARC184	ARC	Fervent Forerunner																					https://storage.googleapis.com/fabmaster/media/images/ARC184.width-450.png – ARC18484 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC184.width-450.png - ARC18484 – U
-ARC185	ARC	Moon Wish																					https://storage.googleapis.com/fabmaster/media/images/ARC185.width-450.png – ARC18585 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC185.width-450.png - ARC18585 – U
-ARC186	ARC	Moon Wish																					https://storage.googleapis.com/fabmaster/media/images/ARC186.width-450.png – ARC18686 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC186.width-450.png - ARC18686 – U
-ARC187	ARC	Moon Wish																					https://storage.googleapis.com/fabmaster/media/images/ARC187.width-450.png – ARC18787 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC187.width-450.png - ARC18787 – U
-ARC188	ARC	Push the Point																					https://storage.googleapis.com/fabmaster/media/images/ARC188.width-450.png – ARC18888 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC188.width-450.png - ARC18888 – U
-ARC189	ARC	Push the Point																					https://storage.googleapis.com/fabmaster/media/images/ARC189.width-450.png – ARC18989 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC189.width-450.png - ARC18989 – U
-ARC190	ARC	Push the Point																					https://storage.googleapis.com/fabmaster/media/images/ARC190.width-450.png – ARC19090 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC190.width-450.png - ARC19090 – U
-ARC191	ARC	Ravenous Rabble																					https://storage.googleapis.com/fabmaster/media/images/ARC191.width-450.png – ARC19191 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC191.width-450.png - ARC19191 – U
-ARC192	ARC	Ravenous Rabble																					https://storage.googleapis.com/fabmaster/media/images/ARC192.width-450.png – ARC19292 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC192.width-450.png - ARC19292 – U
-ARC193	ARC	Ravenous Rabble																					https://storage.googleapis.com/fabmaster/media/images/ARC193.width-450.png – ARC19393 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC193.width-450.png - ARC19393 – U
-ARC194	ARC	Rifting																					https://storage.googleapis.com/fabmaster/media/images/ARC194.width-450.png – ARC19494 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC194.width-450.png - ARC19494 – U
-ARC195	ARC	Rifting																					https://storage.googleapis.com/fabmaster/media/images/ARC195.width-450.png – ARC19595 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC195.width-450.png - ARC19595 – U
-ARC196	ARC	Rifting																					https://storage.googleapis.com/fabmaster/media/images/ARC196.width-450.png – ARC19696 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC196.width-450.png - ARC19696 – U
-ARC197	ARC	Vigor Rush																					https://storage.googleapis.com/fabmaster/media/images/ARC197.width-450.png – ARC19797 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC197.width-450.png - ARC19797 – U
-ARC198	ARC	Vigor Rush																					https://storage.googleapis.com/fabmaster/media/images/ARC198.width-450.png – ARC19898 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC198.width-450.png - ARC19898 – U
-ARC199	ARC	Vigor Rush																					https://storage.googleapis.com/fabmaster/media/images/ARC199.width-450.png – ARC19999 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC199.width-450.png - ARC19999 – U
-ARC200	ARC	Fate Foreseen																					https://storage.googleapis.com/fabmaster/media/images/ARC200.width-450.png – ARC200 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC200.width-450.png - ARC200 – U
-ARC201	ARC	Fate Foreseen																					https://storage.googleapis.com/fabmaster/media/images/ARC201.width-450.png – ARC201 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC201.width-450.png - ARC201 – U
-ARC202	ARC	Fate Foreseen																					https://storage.googleapis.com/fabmaster/media/images/ARC202.width-450.png – ARC202 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC202.width-450.png - ARC202 – U
-ARC203	ARC	Come to Fight																					https://storage.googleapis.com/fabmaster/media/images/ARC203.width-450.png – ARC203 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC203.width-450.png - ARC203 – U
-ARC204	ARC	Come to Fight																					https://storage.googleapis.com/fabmaster/media/images/ARC204.width-450.png – ARC204 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC204.width-450.png - ARC204 – U
-ARC205	ARC	Come to Fight																					https://storage.googleapis.com/fabmaster/media/images/ARC205.width-450.png – ARC205 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC205.width-450.png - ARC205 – U
-ARC206	ARC	Force Sight																					https://storage.googleapis.com/fabmaster/media/images/ARC206.width-450.png – ARC206 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC206.width-450.png - ARC206 – U
-ARC207	ARC	Force Sight																					https://storage.googleapis.com/fabmaster/media/images/ARC207.width-450.png – ARC207 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC207.width-450.png - ARC207 – U
-ARC208	ARC	Force Sight																					https://storage.googleapis.com/fabmaster/media/images/ARC208.width-450.png – ARC208 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC208.width-450.png - ARC208 – U
-ARC209	ARC	Lead the Charge																					https://storage.googleapis.com/fabmaster/media/images/ARC209.width-450.png – ARC209 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC209.width-450.png - ARC209 – U
-ARC210	ARC	Lead the Charge																					https://storage.googleapis.com/fabmaster/media/images/ARC210.width-450.png – ARC210 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC210.width-450.png - ARC210 – U
-ARC211	ARC	Lead the Charge																					https://storage.googleapis.com/fabmaster/media/images/ARC211.width-450.png – ARC211 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC211.width-450.png - ARC211 – U
-ARC212	ARC	Sun Kiss																					https://storage.googleapis.com/fabmaster/media/images/ARC212.width-450.png – ARC212 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC212.width-450.png - ARC212 – U
-ARC213	ARC	Sun Kiss																					https://storage.googleapis.com/fabmaster/media/images/ARC213.width-450.png – ARC213 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC213.width-450.png - ARC213 – U
-ARC214	ARC	Sun Kiss																					https://storage.googleapis.com/fabmaster/media/images/ARC214.width-450.png – ARC214 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC214.width-450.png - ARC214 – U
-ARC215	ARC	Whisper of the Oracle																					https://storage.googleapis.com/fabmaster/media/images/ARC215.width-450.png – ARC215 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC215.width-450.png - ARC215 – U
-ARC216	ARC	Whisper of the Oracle																					https://storage.googleapis.com/fabmaster/media/images/ARC216.width-450.png – ARC216 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC216.width-450.png - ARC216 – U
-ARC217	ARC	Whisper of the Oracle																					https://storage.googleapis.com/fabmaster/media/images/ARC217.width-450.png – ARC217 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC217.width-450.png - ARC217 – U
-ARC218	ARC	Cracked Bauble																					https://storage.googleapis.com/fabmaster/media/images/ARC218.width-450.png – ARC218 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC218.width-450.png - ARC218 – U
+ARC150	ARC	Arcanite Skullcap				1			L	Generic, Equipment, Head	Arcane Barrier, Battleworn					"If you have less {h} than your opponent, Arcanite Skullcap gains +1{d} and **Arcane Barrier 3**. *(If your hero would be dealt arcane damage, you may pay {r}{r}{r} instead. If you do, prevent 3 arcane damage that source would deal.)*
+
+**Battleworn** *(If you defend with Arcanite Skullcap, put a -1{d} counter on it when the combat chain closes.)*"		Generic Equipment – Head					https://storage.googleapis.com/fabmaster/media/images/ARC150.width-450.png – ARC15050 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC150.width-450.png - ARC15050 – U
+ARC151	ARC	Talismanic Lens				0			C	Generic, Equipment, Head		Instant	Opt			**Instant** - Destroy Talismanic Lens: **Opt 2** *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom in any order.)*		Generic Equipment – Head					https://storage.googleapis.com/fabmaster/media/images/ARC151.width-450.png – ARC15151 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC151.width-450.png - ARC15151 – U
+ARC152	ARC	Vest of the First Fist				0			C	Generic, Equipment, Chest						When an attack action card you control hits, you may destroy Vest of the First Fist. If you do, gain {r}{r}.		Generic Equipment – Chest					https://storage.googleapis.com/fabmaster/media/images/ARC152.width-450.png – ARC15252 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC152.width-450.png - ARC15252 – U
+ARC153	ARC	Bracers of Belief				0			C	Generic, Equipment, Arms		Action	Go again			**Action** - Destroy Bracers of Belief: Reveal the top card of your deck. If you do, the next attack action card you play this turn, gains +X{p}, where X is 3 minus the pitch value of the card revealed this way. **Go again** *(The pitch value is located in the top left corner of the card.)*		Generic Equipment – Arms					https://storage.googleapis.com/fabmaster/media/images/ARC153.width-450.png – ARC15353 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC153.width-450.png - ARC15353 – U
+ARC154	ARC	Mage Master Boots				0			C	Generic, Equipment, Legs		Action	Go again	Go again		**Action** - {r}, destroy Mage Master Boots: The next 'non-attack' action card you play this turn gains **go again. Go again**		Generic Equipment – Legs					https://storage.googleapis.com/fabmaster/media/images/ARC154.width-450.png – ARC15454 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC154.width-450.png - ARC15454 – U
+ARC155	ARC	Nullrune Hood				0			C	Generic, Equipment, Head						**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*		Generic Equipment – Head					https://storage.googleapis.com/fabmaster/media/images/ARC155.width-450.png – ARC15555 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC155.width-450.png - ARC15555 – U
+ARC156	ARC	Nullrune Robe				0			C	Generic, Equipment, Chest						**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*		Generic Equipment – Chest					https://storage.googleapis.com/fabmaster/media/images/ARC156.width-450.png – ARC15656 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC156.width-450.png - ARC15656 – U
+ARC157	ARC	Nullrune Gloves				0			C	Generic, Equipment, Arms						**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*		Generic Equipment – Arms					https://storage.googleapis.com/fabmaster/media/images/ARC157.width-450.png – ARC15757 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC157.width-450.png - ARC15757 – U
+ARC158	ARC	Nullrune Boots				0			C	Generic, Equipment, Legs						**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*		Generic Equipment – Legs					https://storage.googleapis.com/fabmaster/media/images/ARC158.width-450.png – ARC15858 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC158.width-450.png - ARC15858 – U
+ARC159	ARC	Command and Conquer	1	2	6	3			M	Generic, Action, Attack						"Defense reactions can’t be played to Command and Conquer’s chain link.
+If Command and Conquer hits a hero, destroy all cards in their arsenal."		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC159.width-450.png – ARC15959 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC159.width-450.png - ARC15959 – U
+ARC160	ARC	Art of War	2	1					M	Generic, Instant						"Choose 2;
+
+* Attack action cards you control gain +1{p} and +1{d} this turn.
+* The next attack action card you play this turn, gains go again.
+* Until end of turn, you may defend with attack action cards from arsenal.
+* You may banish an attack action card from your hand. If you do, draw 2 cards."		Generic Instant					https://storage.googleapis.com/fabmaster/media/images/ARC160.width-450.png – ARC16060 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC160.width-450.png - ARC16060 – U
+ARC161	ARC	Pursuit of Knowledge	3	2	4	2			S	Generic, Action, Attack						If Pursuit of Knowledge hits, your hero gains +1 {i} until end of turn.		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC161.width-450.png – ARC16161 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC161.width-450.png - ARC16161 – U
+ARC162	ARC	Chains of Eminence	1	0		2			S	Generic, Action, Aura	Go again					"**Go again**
+
+When Chains of Eminence enters the arena, name a card. The named card can't be pitched, played or used to defend while Chains of Eminence is in the arena.
+
+At the beginning of your action phase, destroy Chains of Eminence"		Generic Action – Aura					https://storage.googleapis.com/fabmaster/media/images/ARC162.width-450.png – ARC16262 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC162.width-450.png - ARC16262 – U
+ARC163	ARC	Rusted Relic	3	0					S	Generic, Action, Item	Arcane Barrier					**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*		Generic Action – Item					https://storage.googleapis.com/fabmaster/media/images/ARC163.width-450.png – ARC16363 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC163.width-450.png - ARC16363 – U
+ARC164	ARC	Life for a Life	1	1	4	2			R	Generic, Action, Attack	Go again					"If Life for a Life hits, gain 1{h}.
+
+When you play Life for a Life, if you have less {h} than your opponent, it gains *go again.*"		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC164.width-450.png – ARC16464 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC164.width-450.png - ARC16464 – U
+ARC165	ARC	Life for a Life	2	1	3	2			R	Generic, Action, Attack	Go again					"If Life for a Life hits, gain 1{h}.
+
+When you play Life for a Life, if you have less {h} than your opponent, it gains *go again.*"		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC165.width-450.png – ARC16565 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC165.width-450.png - ARC16565 – U
+ARC166	ARC	Life for a Life	3	1	2	2			R	Generic, Action, Attack	Go again					"If Life for a Life hits, gain 1{h}.
+
+When you play Life for a Life, if you have less {h} than your opponent, it gains *go again.*"		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC166.width-450.png – ARC16666 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC166.width-450.png - ARC16666 – U
+ARC167	ARC	Enchanting Melody	1	2		2			R	Generic, Action, Aura	Go again					"*(Aura's stay in the arena until they are destroyed.)*
+
+**Go again**
+
+If you would be dealt damage, instead destroy Enchanting Melody and prevent 4 of that damage.
+
+At the beginning of your end phase, destroy Enchanting Melody unless you have played a 'non-attack' action card this turn."		Generic Action – Aura					https://storage.googleapis.com/fabmaster/media/images/ARC167.width-450.png – ARC16767 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC167.width-450.png - ARC16767 – U
+ARC168	ARC	Enchanting Melody	2	2		2			R	Generic, Action, Aura	Go again					"*(Aura's stay in the arena until they are destroyed.)*
+
+**Go again**
+
+If you would be dealt damage, instead destroy Enchanting Melody and prevent 3 of that damage.
+
+At the beginning of your end phase, destroy Enchanting Melody unless you have played a 'non-attack' action card this turn."		Generic Action – Aura					https://storage.googleapis.com/fabmaster/media/images/ARC168.width-450.png – ARC16868 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC168.width-450.png - ARC16868 – U
+ARC169	ARC	Enchanting Melody	3	2		2			R	Generic, Action, Aura	Go again					"*(Aura's stay in the arena until they are destroyed.)*
+
+**Go again**
+
+If you would be dealt damage, instead destroy Enchanting Melody and prevent 2 of that damage.
+
+At the beginning of your end phase, destroy Enchanting Melody unless you have played a 'non-attack' action card this turn."		Generic Action – Aura					https://storage.googleapis.com/fabmaster/media/images/ARC169.width-450.png – ARC16969 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC169.width-450.png - ARC16969 – U
+ARC170	ARC	Plunder Run	1	0		2			R	Generic, Action	Go again					"The next time an attack action card you control hits this turn, draw a card.
+
+If Plunder Run is played from arsenal, the next attack action card you play this turn gains +3{p}.
+
+**Go again**"		Generic Action			No		https://storage.googleapis.com/fabmaster/media/images/ARC170.width-450.png – ARC17070 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC170.width-450.png - ARC17070 – U
+ARC171	ARC	Plunder Run	2	0		2			R	Generic, Action	Go again					"The next time an attack action card you control hits this turn, draw a card.
+
+If Plunder Run is played from arsenal, the next attack action card you play this turn gains +2{p}.
+
+**Go again**"		Generic Action			No		https://storage.googleapis.com/fabmaster/media/images/ARC171.width-450.png – ARC17171 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC171.width-450.png - ARC17171 – U
+ARC172	ARC	Plunder Run	3	0		2			R	Generic, Action	Go again					"The next time an attack action card you control hits this turn, draw a card.
+
+If Plunder Run is played from arsenal, the next attack action card you play this turn gains +1{p}.
+
+**Go again**"		Generic Action			No		https://storage.googleapis.com/fabmaster/media/images/ARC172.width-450.png – ARC17272 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC172.width-450.png - ARC17272 – U
+ARC173	ARC	Eirina’s Prayer	1	1					R	Generic, Instant						Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to you this turn, where X is 6 minus the pitch value of the card revealed this way. *(The pitch value is located in the top left corner of the card.)*		Generic Instant					https://storage.googleapis.com/fabmaster/media/images/ARC173.width-450.png – ARC17373 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC173.width-450.png - ARC17373 – U
+ARC174	ARC	Eirina’s Prayer	2	1					R	Generic, Instant						Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to you this turn, where X is 5 minus the pitch value of the card revealed this way. *(The pitch value is located in the top left corner of the card.)*		Generic Instant					https://storage.googleapis.com/fabmaster/media/images/ARC174.width-450.png – ARC17474 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC174.width-450.png - ARC17474 – U
+ARC175	ARC	Eirina’s Prayer	3	1					R	Generic, Instant						Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to you this turn, where X is 4 minus the pitch value of the card revealed this way. *(The pitch value is located in the top left corner of the card.)*		Generic Instant					https://storage.googleapis.com/fabmaster/media/images/ARC175.width-450.png – ARC17575 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC175.width-450.png - ARC17575 – U
+ARC176	ARC	Back Alley Breakline	1	1	5	2			C	Generic, Action, Attack						If an activated ability or action card effect puts Back Alley Breakline face up into a zone from your deck, gain 1 action point.		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC176.width-450.png – ARC17676 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC176.width-450.png - ARC17676 – U
+ARC177	ARC	Back Alley Breakline	2	1	4	2			C	Generic, Action, Attack						If an activated ability or action card effect puts Back Alley Breakline face up into a zone from your deck, gain 1 action point.		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC177.width-450.png – ARC17777 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC177.width-450.png - ARC17777 – U
+ARC178	ARC	Back Alley Breakline	3	1	3	2			C	Generic, Action, Attack						If an activated ability or action card effect puts Back Alley Breakline face up into a zone from your deck, gain 1 action point.		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC178.width-450.png – ARC17878 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC178.width-450.png - ARC17878 – U
+ARC179	ARC	Cadaverous Contraband	1	2	6	2			C	Generic, Action, Attack						If Cadaverous Contraband hits, you may put a ‘non-attack’ action card from your graveyard on top of your deck.		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC179.width-450.png – ARC17979 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC179.width-450.png - ARC17979 – U
+ARC180	ARC	Cadaverous Contraband	2	2	5	2			C	Generic, Action, Attack						If Cadaverous Contraband hits, you may put a ‘non-attack’ action card from your graveyard on top of your deck.		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC180.width-450.png – ARC18080 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC180.width-450.png - ARC18080 – U
+ARC181	ARC	Cadaverous Contraband	3	2	4	2			C	Generic, Action, Attack						If Cadaverous Contraband hits, you may put a ‘non-attack’ action card from your graveyard on top of your deck.		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC181.width-450.png – ARC18181 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC181.width-450.png - ARC18181 – U
+ARC182	ARC	Fervent Forerunner	1	0	3	2			C	Generic, Action, Attack	Opt, Go again					"If Fervent Forerunner hits, **opt 2.** *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom in any order.)*
+
+If Fervent Forerunner is played from arsenal, it gains **go again.**"		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC182.width-450.png – ARC18282 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC182.width-450.png - ARC18282 – U
+ARC183	ARC	Fervent Forerunner	2	0	2	2			C	Generic, Action, Attack	Opt, Go again					"If Fervent Forerunner hits, **opt 2.** *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom in any order.)*
+
+If Fervent Forerunner is played from arsenal, it gains **go again.**"		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC183.width-450.png – ARC18383 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC183.width-450.png - ARC18383 – U
+ARC184	ARC	Fervent Forerunner	3	0	1	2			C	Generic, Action, Attack	Opt, Go again					"If Fervent Forerunner hits, **opt 2.** *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom in any order.)*
+
+If Fervent Forerunner is played from arsenal, it gains **go again.**"		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC184.width-450.png – ARC18484 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC184.width-450.png - ARC18484 – U
+ARC185	ARC	Moon Wish	1	2	5	2			C	Generic, Action, Attack						"You may put a card from your hand on top of your deck rather than pay Moon Wish's {r} cost.
+
+If Moon Wish hits, search your deck for a card named Sun Kiss, reveal it, put it into your hand, then shuffle your deck."		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC185.width-450.png – ARC18585 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC185.width-450.png - ARC18585 – U
+ARC186	ARC	Moon Wish	2	2	4	2			C	Generic, Action, Attack						"You may put a card from your hand on top of your deck rather than pay Moon Wish's {r} cost.
+
+If Moon Wish hits, search your deck for a card named Sun Kiss, reveal it, put it into your hand, then shuffle your deck."		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC186.width-450.png – ARC18686 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC186.width-450.png - ARC18686 – U
+ARC187	ARC	Moon Wish	3	2	3	2			C	Generic, Action, Attack						"You may put a card from your hand on top of your deck rather than pay Moon Wish's {r} cost.
+
+If Moon Wish hits, search your deck for a card named Sun Kiss, reveal it, put it into your hand, then shuffle your deck."		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC187.width-450.png – ARC18787 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC187.width-450.png - ARC18787 – U
+ARC188	ARC	Push the Point	1	1	4	2			C	Generic, Action, Attack						If the last attack on this combat chain hit, Push the Point gains +2{p}.		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC188.width-450.png – ARC18888 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC188.width-450.png - ARC18888 – U
+ARC189	ARC	Push the Point	2	1	3	2			C	Generic, Action, Attack						If the last attack on this combat chain hit, Push the Point gains +2{p}.		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC189.width-450.png – ARC18989 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC189.width-450.png - ARC18989 – U
+ARC190	ARC	Push the Point	3	1	2	2			C	Generic, Action, Attack						If the last attack on this combat chain hit, Push the Point gains +2{p}.		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC190.width-450.png – ARC19090 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC190.width-450.png - ARC19090 – U
+ARC191	ARC	Ravenous Rabble	1	0	5	2			C	Generic, Action, Attack	Go again					"Reveal the top card of your deck. Ravenous Rabble gets -X{p}, where X is the pitch value of the card revealed this way. *(The pitch value is located in the top left corner of the card.)*
+
+**Go again**"		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC191.width-450.png – ARC19191 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC191.width-450.png - ARC19191 – U
+ARC192	ARC	Ravenous Rabble	2	0	4	2			C	Generic, Action, Attack	Go again					"Reveal the top card of your deck. Ravenous Rabble gets -X{p}, where X is the pitch value of the card revealed this way. *(The pitch value is located in the top left corner of the card.)*
+
+**Go again**"		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC192.width-450.png – ARC19292 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC192.width-450.png - ARC19292 – U
+ARC193	ARC	Ravenous Rabble	3	0	3	2			C	Generic, Action, Attack	Go again					"Reveal the top card of your deck. Ravenous Rabble gets -X{p}, where X is the pitch value of the card revealed this way. *(The pitch value is located in the top left corner of the card.)*
+
+**Go again**"		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC193.width-450.png – ARC19393 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC193.width-450.png - ARC19393 – U
+ARC194	ARC	Rifting	1	2	6	2			C	Generic, Action, Attack						If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC194.width-450.png – ARC19494 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC194.width-450.png - ARC19494 – U
+ARC195	ARC	Rifting	2	2	5	2			C	Generic, Action, Attack						If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC195.width-450.png – ARC19595 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC195.width-450.png - ARC19595 – U
+ARC196	ARC	Rifting	3	2	4	2			C	Generic, Action, Attack						If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC196.width-450.png – ARC19696 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC196.width-450.png - ARC19696 – U
+ARC197	ARC	Vigor Rush	1	1	4	2			C	Generic, Action, Attack	Go again					If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again.**		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC197.width-450.png – ARC19797 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC197.width-450.png - ARC19797 – U
+ARC198	ARC	Vigor Rush	2	1	3	2			C	Generic, Action, Attack	Go again					If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again.**		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC198.width-450.png – ARC19898 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC198.width-450.png - ARC19898 – U
+ARC199	ARC	Vigor Rush	3	1	2	2			C	Generic, Action, Attack	Go again					If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again.**		Generic Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC199.width-450.png – ARC19999 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC199.width-450.png - ARC19999 – U
+ARC200	ARC	Fate Foreseen	1	0		4			C	Generic, Defense Reaction	Opt					**Opt 1** *(Look at the top card of your deck. You may put it on the bottom.)*		Generic Defense Reaction					https://storage.googleapis.com/fabmaster/media/images/ARC200.width-450.png – ARC200 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC200.width-450.png - ARC200 – U
+ARC201	ARC	Fate Foreseen	2	0		3			C	Generic, Defense Reaction	Opt					**Opt 1** *(Look at the top card of your deck. You may put it on the bottom.)*		Generic Defense Reaction					https://storage.googleapis.com/fabmaster/media/images/ARC201.width-450.png – ARC201 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC201.width-450.png - ARC201 – U
+ARC202	ARC	Fate Foreseen	3	0		2			C	Generic, Defense Reaction	Opt					**Opt 1** *(Look at the top card of your deck. You may put it on the bottom.)*		Generic Defense Reaction					https://storage.googleapis.com/fabmaster/media/images/ARC202.width-450.png – ARC202 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC202.width-450.png - ARC202 – U
+ARC203	ARC	Come to Fight	1	1		3			C	Generic, Action	Go again					"The next attack action card you play this turn gains +3{p}.
+
+**Go again**"		Generic Action					https://storage.googleapis.com/fabmaster/media/images/ARC203.width-450.png – ARC203 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC203.width-450.png - ARC203 – U
+ARC204	ARC	Come to Fight	2	1		3			C	Generic, Action	Go again					"The next attack action card you play this turn gains +2{p}.
+
+**Go again**"		Generic Action					https://storage.googleapis.com/fabmaster/media/images/ARC204.width-450.png – ARC204 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC204.width-450.png - ARC204 – U
+ARC205	ARC	Come to Fight	3	1		3			C	Generic, Action	Go again					"The next attack action card you play this turn gains +1{p}.
+
+**Go again**"		Generic Action					https://storage.googleapis.com/fabmaster/media/images/ARC205.width-450.png – ARC205 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC205.width-450.png - ARC205 – U
+ARC206	ARC	Force Sight	1	1		2			C	Generic, Action	Opt, Go again					"The next attack action card you play this turn gains +3{p}.
+
+If Force Sight is played from arsenal, **opt 2.** *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom in any order.)*
+
+**Go again**"		Generic Action					https://storage.googleapis.com/fabmaster/media/images/ARC206.width-450.png – ARC206 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC206.width-450.png - ARC206 – U
+ARC207	ARC	Force Sight	2	1		2			C	Generic, Action	Opt, Go again					"The next attack action card you play this turn gains +2{p}.
+
+If Force Sight is played from arsenal, **opt 2.** *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom in any order.)*
+
+**Go again**"		Generic Action					https://storage.googleapis.com/fabmaster/media/images/ARC207.width-450.png – ARC207 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC207.width-450.png - ARC207 – U
+ARC208	ARC	Force Sight	3	1		2			C	Generic, Action	Opt, Go again					"The next attack action card you play this turn gains +1{p}.
+
+If Force Sight is played from arsenal, **opt 2.** *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom in any order.)*
+
+**Go again**"		Generic Action					https://storage.googleapis.com/fabmaster/media/images/ARC208.width-450.png – ARC208 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC208.width-450.png - ARC208 – U
+ARC209	ARC	Lead the Charge	1	0		2			C	Generic, Action	Go again					"The next time you play an action card with cost 0 or greater this turn, gain 1 action point.
+
+**Go again**"		Generic Action					https://storage.googleapis.com/fabmaster/media/images/ARC209.width-450.png – ARC209 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC209.width-450.png - ARC209 – U
+ARC210	ARC	Lead the Charge	2	0		2			C	Generic, Action	Go again					"The next time you play an action card with cost 1 or greater this turn, gain 1 action point.
+
+**Go again**"		Generic Action					https://storage.googleapis.com/fabmaster/media/images/ARC210.width-450.png – ARC210 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC210.width-450.png - ARC210 – U
+ARC211	ARC	Lead the Charge	3	0		2			C	Generic, Action	Go again					"The next time you play an action card with cost 2 or greater this turn, gain 1 action point.
+
+**Go again**"		Generic Action					https://storage.googleapis.com/fabmaster/media/images/ARC211.width-450.png – ARC211 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC211.width-450.png - ARC211 – U
+ARC212	ARC	Sun Kiss	1	0		2			C	Generic, Action	Go again					"Gain 3{h}.
+
+If you have played a card named Moon Wish this turn, draw a card and Sun Kiss gains **go again.**"		Generic Action					https://storage.googleapis.com/fabmaster/media/images/ARC212.width-450.png – ARC212 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC212.width-450.png - ARC212 – U
+ARC213	ARC	Sun Kiss	2	0		2			C	Generic, Action	Go again					"Gain 2{h}.
+
+If you have played a card named Moon Wish this turn, draw a card and Sun Kiss gains **go again.**"		Generic Action					https://storage.googleapis.com/fabmaster/media/images/ARC213.width-450.png – ARC213 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC213.width-450.png - ARC213 – U
+ARC214	ARC	Sun Kiss	3	0		2			C	Generic, Action	Go again					"Gain 1{h}.
+
+If you have played a card named Moon Wish this turn, draw a card and Sun Kiss gains **go again.**"		Generic Action					https://storage.googleapis.com/fabmaster/media/images/ARC214.width-450.png – ARC214 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC214.width-450.png - ARC214 – U
+ARC215	ARC	Whisper of the Oracle	1	0		3			C	Generic, Action	Opt, Go again					"**Opt 4** *(Look at the top 4 cards of your deck. You may put them on the top and/or bottom in any order.)*
+
+**Go again**"		Generic Action					https://storage.googleapis.com/fabmaster/media/images/ARC215.width-450.png – ARC215 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC215.width-450.png - ARC215 – U
+ARC216	ARC	Whisper of the Oracle	2	0		3			C	Generic, Action	Opt, Go again					"**Opt 3** *(Look at the top 4 cards of your deck. You may put them on the top and/or bottom in any order.)*
+
+**Go again**"		Generic Action					https://storage.googleapis.com/fabmaster/media/images/ARC216.width-450.png – ARC216 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC216.width-450.png - ARC216 – U
+ARC217	ARC	Whisper of the Oracle	3	0		3			C	Generic, Action	Opt, Go again					"**Opt 2** *(Look at the top 4 cards of your deck. You may put them on the top and/or bottom in any order.)*
+
+**Go again**"		Generic Action					https://storage.googleapis.com/fabmaster/media/images/ARC217.width-450.png – ARC217 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC217.width-450.png - ARC217 – U
+ARC218	ARC	Cracked Bauble	2																				https://storage.googleapis.com/fabmaster/media/images/ARC218.width-450.png – ARC218 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC218.width-450.png - ARC218 – U
