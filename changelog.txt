@@ -1,0 +1,5 @@
+02-20-22:
+- Added WTR card data
+
+02-21-22:
+- Added card data for ARC000-ARC037

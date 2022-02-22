@@ -479,44 +479,118 @@ WTR224	WTR	Cracked Bauble	2						T	Generic, Resource			*(Cracked Bauble exists t
 WTR225	WTR	Quicken							T	Generic, Token, Aura			"*(Auras stay in the arena until they are destroyed.)*
 
 When you play an attack card or attack with a weapon, destroy Quicken then the attack gains **go again.**"		Generic Token – Aura				S – WTR225 – A, S – WTR225 – U	https://storage.googleapis.com/fabmaster/media/images/WTR_225.width-450.png - WTR225 – A, https://storage.googleapis.com/fabmaster/media/images/U-WTR225.width-450.png - WTR225 – U
-ARC000	ARC	Eye of Ophidia																		https://storage.googleapis.com/fabmaster/media/images/ARC0.width-450.png - ARC000 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC0.width-450.png - ARC000 – U
-ARC001	ARC	Dash, Inventor Extraordinaire																		https://storage.googleapis.com/fabmaster/media/images/ARC1.width-450.png – ARC001 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC1.width-450.png - ARC001 – U
-ARC002	ARC	Dash																		https://storage.googleapis.com/fabmaster/media/images/ARC2.width-450.png – ARC002 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC2.width-450.png - ARC002 – U
-ARC003	ARC	Teklo Plasma Pistol																		https://storage.googleapis.com/fabmaster/media/images/ARC3.width-450.png – ARC003 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC3.width-450.png - ARC003 – U
-ARC004	ARC	Teklo Foundry Heart																		https://storage.googleapis.com/fabmaster/media/images/ARC4.width-450.png – ARC004 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC4.width-450.png - ARC004 – U
-ARC005	ARC	Achilles Accelerator																		https://storage.googleapis.com/fabmaster/media/images/ARC5.width-450.png – ARC005 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC5.width-450.png - ARC005 – U
-ARC006	ARC	High Octane																		https://storage.googleapis.com/fabmaster/media/images/ARC6.width-450.png – ARC006 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC6.width-450.png - ARC006 – U
-ARC007	ARC	Teklo Core																		https://storage.googleapis.com/fabmaster/media/images/ARC7.width-450.png – ARC007 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC7.width-450.png - ARC007 – U
-ARC008	ARC	Maximum Velocity																		https://storage.googleapis.com/fabmaster/media/images/ARC8.width-450.png – ARC008 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC8.width-450.png - ARC008 – U
-ARC009	ARC	Spark of Genius																		https://storage.googleapis.com/fabmaster/media/images/ARC9.width-450.png – ARC009 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC9.width-450.png - ARC009 – U
-ARC010	ARC	Induction Chamber																		https://storage.googleapis.com/fabmaster/media/images/ARC10.width-450.png – ARC010 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC10.width-450.png - ARC010 – U
-ARC011	ARC	Pedal to the Medal																		https://storage.googleapis.com/fabmaster/media/images/ARC11.width-450.png – ARC011 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC11.width-450.png - ARC011 – U
-ARC012	ARC	Pedal to the Medal																		https://storage.googleapis.com/fabmaster/media/images/ARC12.width-450.png – ARC012 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC12.width-450.png - ARC012 – U
-ARC013	ARC	Pedal to the Medal																		https://storage.googleapis.com/fabmaster/media/images/ARC13.width-450.png – ARC013 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC13.width-450.png - ARC013 – U
-ARC014	ARC	Pour the Mold																		https://storage.googleapis.com/fabmaster/media/images/ARC14.width-450.png – ARC014 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC14.width-450.png - ARC014 – U
-ARC015	ARC	Pour the Mold																		https://storage.googleapis.com/fabmaster/media/images/ARC15.width-450.png – ARC015 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC15.width-450.png - ARC015 – U
-ARC016	ARC	Pour the Mold																		https://storage.googleapis.com/fabmaster/media/images/ARC16.width-450.png – ARC016 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC16.width-450.png - ARC016 – U
-ARC017	ARC	Aether Sink																		https://storage.googleapis.com/fabmaster/media/images/ARC17.width-450.png – ARC017 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC17.width-450.png - ARC017 – U
-ARC018	ARC	Cognition Nodes																		https://storage.googleapis.com/fabmaster/media/images/ARC18.width-450.png – ARC018 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC18.width-450.png - ARC018 – U
-ARC019	ARC	Convection Amplifier																		https://storage.googleapis.com/fabmaster/media/images/ARC19.width-450.png – ARC019 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC19.width-450.png - ARC019 – U
-ARC020	ARC	Over Loop																		https://storage.googleapis.com/fabmaster/media/images/ARC20.width-450.png – ARC020 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC20.width-450.png - ARC020 – U
-ARC021	ARC	Over Loop																		https://storage.googleapis.com/fabmaster/media/images/ARC21.width-450.png – ARC021 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC21.width-450.png - ARC021 – U
-ARC022	ARC	Over Loop																		https://storage.googleapis.com/fabmaster/media/images/ARC22.width-450.png – ARC022 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC22.width-450.png - ARC022 – U
-ARC023	ARC	Throttle																		https://storage.googleapis.com/fabmaster/media/images/ARC23.width-450.png – ARC023 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC23.width-450.png - ARC023 – U
-ARC024	ARC	Throttle																		https://storage.googleapis.com/fabmaster/media/images/ARC24.width-450.png – ARC024 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC24.width-450.png - ARC024 – U
-ARC025	ARC	Throttle																		https://storage.googleapis.com/fabmaster/media/images/ARC25.width-450.png – ARC025 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC25.width-450.png - ARC025 – U
-ARC026	ARC	Zero to Sixty																		https://storage.googleapis.com/fabmaster/media/images/ARC26.width-450.png – ARC026 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC26.width-450.png - ARC026 – U
-ARC027	ARC	Zero to Sixty																		https://storage.googleapis.com/fabmaster/media/images/ARC27.width-450.png – ARC027 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC27.width-450.png - ARC027 – U
-ARC028	ARC	Zero to Sixty																		https://storage.googleapis.com/fabmaster/media/images/ARC28.width-450.png – ARC028 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC28.width-450.png - ARC028 – U
-ARC029	ARC	Zipper Hit																		https://storage.googleapis.com/fabmaster/media/images/ARC29.width-450.png – ARC029 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC29.width-450.png - ARC029 – U
-ARC030	ARC	Zipper Hit																		https://storage.googleapis.com/fabmaster/media/images/ARC30.width-450.png – ARC030 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC30.width-450.png - ARC030 – U
-ARC031	ARC	Zipper Hit																		https://storage.googleapis.com/fabmaster/media/images/ARC31.width-450.png – ARC031 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC31.width-450.png - ARC031 – U
-ARC032	ARC	Locked and Loaded																		https://storage.googleapis.com/fabmaster/media/images/ARC32.width-450.png – ARC032 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC32.width-450.png - ARC032 – U
-ARC033	ARC	Locked and Loaded																		https://storage.googleapis.com/fabmaster/media/images/ARC33.width-450.png – ARC033 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC33.width-450.png - ARC033 – U
-ARC034	ARC	Locked and Loaded																		https://storage.googleapis.com/fabmaster/media/images/ARC34.width-450.png – ARC034 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC34.width-450.png - ARC034 – U
-ARC035	ARC	Dissipation Shield																		https://storage.googleapis.com/fabmaster/media/images/ARC35.width-450.png – ARC035 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC35.width-450.png - ARC035 – U
-ARC036	ARC	Hyper Driver																		https://storage.googleapis.com/fabmaster/media/images/ARC36.width-450.png – ARC036 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC36.width-450.png - ARC036 – U
-ARC037	ARC	Optekal Monocle																		https://storage.googleapis.com/fabmaster/media/images/ARC37.width-450.png – ARC037 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC37.width-450.png - ARC037 – U
+ARC000	ARC	Eye of Ophidia	3						F	Generic, Resource, Gem	Legendary, Opt		"**Legendary** *(You may only have 1 Eye of Ophidia in your deck.)*
+
+When you pitch Eye of Ophidia, **opt 2.**"		Generic Resource – Gem					https://storage.googleapis.com/fabmaster/media/images/ARC0.width-450.png - ARC000 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC0.width-450.png - ARC000 – U
+ARC001	ARC	Dash, Inventor Extraordinaire					40	4	T	Mechanologist, Hero			You may start the game with a Mechanologist item with cost 2 or less in the arena. *(It’s considered to have entered the arena.)*		Mechanologist Hero					https://storage.googleapis.com/fabmaster/media/images/ARC1.width-450.png – ARC001 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC1.width-450.png - ARC001 – U
+ARC002	ARC	Dash					20	4	T	Mechanologist, Hero, Young			You may start the game with a Mechanologist item with cost 2 or less in the arena. *(It’s considered to have entered the arena.)*		Mechanologist Hero – Young					https://storage.googleapis.com/fabmaster/media/images/ARC2.width-450.png – ARC002 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC2.width-450.png - ARC002 – U
+ARC003	ARC	Teklo Plasma Pistol			2				T	Mechanologist, Weapon, Pistol, 2H			"**Action** - Remove a steam counter from Teklo Plasma Pistol: **Attack**
+
+**Action** - {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. **Go again**"		Mechanologist Weapon – Pistol (2H)					https://storage.googleapis.com/fabmaster/media/images/ARC3.width-450.png – ARC003 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC3.width-450.png - ARC003 – U
+ARC004	ARC	Teklo Foundry Heart				2			L	Mechanologist, Equipment, Chest	Battleworn		"**Once per Turn Action** - {r}: Banish the top 2 cards of your deck. Gain {r}for each Mechanologist card banished this way. Activate this ability only if you have boosted this turn. **Go again**
+
+**Battleworn** *(If you defend with Teklo Foundry Heart, put a -1 {d} counter on it when the combat chain closes.)*"		Mechanologist Equipment – Chest					https://storage.googleapis.com/fabmaster/media/images/ARC4.width-450.png – ARC004 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC4.width-450.png - ARC004 – U
+ARC005	ARC	Achilles Accelerator				0			C	Mechanologist, Equipment, Legs	Arcane Barrier		"**Instant** - Destroy Achilles Accelerator: Gain 1 action point. Activate this ability only if you have **boosted** this turn.
+
+**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*"		Mechanologist Equipment – Legs					https://storage.googleapis.com/fabmaster/media/images/ARC5.width-450.png – ARC005 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC5.width-450.png - ARC005 – U
+ARC006	ARC	High Octane	1	1		3			M	Mechanologist, Action	Go again		"Whenever you **boost** a card this turn, gain 1 action point.
+
+Draw a card.
+
+**Go again**"	“Now that’s what I call blowing off steam!” - Dash	Mechanologist Action					https://storage.googleapis.com/fabmaster/media/images/ARC6.width-450.png – ARC006 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC6.width-450.png - ARC006 – U
+ARC007	ARC	Teklo Core	3	0					M	Mechanologist, Action, Item	Specialization		"**Dash Specialization** *(You may only have Teklo Core in your deck if your hero is Dash.)*
+
+Teklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.
+
+At the beginning of your action phase, remove a steam counter from Teklo Core and gain {r}{r}"		Mechanologist Action – Item					https://storage.googleapis.com/fabmaster/media/images/ARC7.width-450.png – ARC007 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC7.width-450.png - ARC007 – U
+ARC008	ARC	Maximum Velocity	1	2	10	3			S	Mechanologist, Action, Attack			Play Maximum Velocity only if you have **boosted** 3 or more times this turn.	Zoom! Zip! Kazam! Ever wanted to show ol’ Joey what for? Now you can, with the Velocitator 60-T! Turn that pesky rival into a smear on the pavement!	Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC8.width-450.png – ARC008 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC8.width-450.png - ARC008 – U
+ARC009	ARC	Spark of Genius	2	XX		3			S	Mechanologist, Action			"**Dash Specialization** *(You may only have Spark of Genius in your deck if your hero is Dash.)*
+
+Search your deck for a Mechanologist item card with cost X, put it into the arena, then shuffle your deck.
+
+If you have **boosted** this turn, draw a card."	“So if I grab… and then connect… That’s it!” - Dash	Mechanologist Action					https://storage.googleapis.com/fabmaster/media/images/ARC9.width-450.png – ARC009 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC9.width-450.png - ARC009 – U
+ARC010	ARC	Induction Chamber	1	2					S	Mechanologist, Action, Item			"**Action** - {r}: If there are no steam counters on Induction Chamber, put a steam counter on it. **Go again**
+
+**Once per Turn Attack Reaction** - Remove a steam counter from Induction Chamber: Target Mechanologist pistol attack gains **go again.**"		Mechanologist Action – Item					https://storage.googleapis.com/fabmaster/media/images/ARC10.width-450.png – ARC010 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC10.width-450.png - ARC010 – U
+ARC011	ARC	Pedal to the Medal	1	2	5	3			R	Mechanologist, Action, Attack	Boost		"If Pedal to the Metal hits, your next attack this turn gains **dominate.** *(The defending hero can't defend the attack with more than 1 card from their hand.)*
+
+**Boost** *(As an additional cost to play Pedal to the Metal, you may banish the top card of your deck. If it's a Mechanologist card, Pedal to the Metal gains **go again**.)*"		Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC11.width-450.png – ARC011 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC11.width-450.png - ARC011 – U
+ARC012	ARC	Pedal to the Medal	2	2	4	3			R	Mechanologist, Action, Attack	Boost		"If Pedal to the Metal hits, your next attack this turn gains **dominate.** *(The defending hero can't defend the attack with more than 1 card from their hand.)*
+
+**Boost** *(As an additional cost to play Pedal to the Metal, you may banish the top card of your deck. If it's a Mechanologist card, Pedal to the Metal gains **go again**.)*"		Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC12.width-450.png – ARC012 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC12.width-450.png - ARC012 – U
+ARC013	ARC	Pedal to the Medal	3	2	3	3			R	Mechanologist, Action, Attack	Boost		"If Pedal to the Metal hits, your next attack this turn gains **dominate.** *(The defending hero can't defend the attack with more than 1 card from their hand.)*
+
+**Boost** *(As an additional cost to play Pedal to the Metal, you may banish the top card of your deck. If it's a Mechanologist card, Pedal to the Metal gains **go again**.)*"		Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC13.width-450.png – ARC013 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC13.width-450.png - ARC013 – U
+ARC014	ARC	Pour the Mold	1	0		3			R	Mechanologist, Action	Go again		"Put a Mechanologist item with cost 2 or less from your hand into the arena.
+
+If you have **boosted** this turn, put a steam counter on it.
+
+**Go again**"		Mechanologist Action					https://storage.googleapis.com/fabmaster/media/images/ARC14.width-450.png – ARC014 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC14.width-450.png - ARC014 – U
+ARC015	ARC	Pour the Mold	2	0		3			R	Mechanologist, Action	Go again		"Put a Mechanologist item with cost 1 or less from your hand into the arena.
+
+If you have **boosted** this turn, put a steam counter on it.
+
+**Go again**"		Mechanologist Action					https://storage.googleapis.com/fabmaster/media/images/ARC15.width-450.png – ARC015 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC15.width-450.png - ARC015 – U
+ARC016	ARC	Pour the Mold	3	0		3			R	Mechanologist, Action	Go again		"Put a Mechanologist item with cost 0 or less from your hand into the arena.
+
+If you have **boosted** this turn, put a steam counter on it.
+
+**Go again**"		Mechanologist Action					https://storage.googleapis.com/fabmaster/media/images/ARC16.width-450.png – ARC016 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC16.width-450.png - ARC016 – U
+ARC017	ARC	Aether Sink	2	1					R	Mechanologist, Action, Item	Arcane Barrier 2		"Aether Sink enters the arena with a steam counter on it.
+
+**Action** - {r}: If there are no steam counters on Aether Sink, put a steam counter on it. **Go again**
+
+**Instant** - Remove a steam counter from Aether Sink: Aether Sink gains **Arcane Barrier 2** until end of turn. *(If your hero would be dealt arcane damage, you may pay {r}{r} instead. If you do, prevent 2 arcane damage that source would deal.)*"		Mechanologist Action – Item					https://storage.googleapis.com/fabmaster/media/images/ARC17.width-450.png – ARC017 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC17.width-450.png - ARC017 – U
+ARC018	ARC	Cognition Nodes	3	1					R	Mechanologist, Action, Item			"**Action** - {r}: If there are no steam counters on Cognition Nodes, put a steam counter on it. **Go again**
+
+**Once per Turn Attack Reaction** - Remove a steam counter from Cognition Nodes: Target attack action card gains “If this hits, put it on the bottom of your deck.”"		Mechanologist Action – Item					https://storage.googleapis.com/fabmaster/media/images/ARC18.width-450.png – ARC018 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC18.width-450.png - ARC018 – U
+ARC019	ARC	Convection Amplifier	1	0					R	Mechanologist, Action, Item			"Convection Amplifier enters the arena with 2 steam counters on it. When Convection Amplifier has no steam counters on it, destroy it.
+
+**Action** - Remove a steam counter from Convection Amplifier: The next attack action card you play this turn gains **dominate.** Go again *(The defending hero can't defend the attack with more than 1 card from their hand.)*"		Mechanologist Action – Item					https://storage.googleapis.com/fabmaster/media/images/ARC19.width-450.png – ARC019 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC19.width-450.png - ARC019 – U
+ARC020	ARC	Over Loop	1	2	5	3			C	Mechanologist, Action, Attack	Boost		"If Over Loop hits, put it on the bottom of your deck.
+
+**Boost** *(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains **go again**.)*"		Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC20.width-450.png – ARC020 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC20.width-450.png - ARC020 – U
+ARC021	ARC	Over Loop	2	2	4	3			C	Mechanologist, Action, Attack	Boost		"If Over Loop hits, put it on the bottom of your deck.
+
+**Boost** *(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains **go again**.)*"		Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC21.width-450.png – ARC021 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC21.width-450.png - ARC021 – U
+ARC022	ARC	Over Loop	3	2	3	3			C	Mechanologist, Action, Attack	Boost		"If Over Loop hits, put it on the bottom of your deck.
+
+**Boost** *(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains **go again**.)*"		Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC22.width-450.png – ARC022 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC22.width-450.png - ARC022 – U
+ARC023	ARC	Throttle	1	2	6	3			C	Mechanologist, Action, Attack	Boost		**Boost** *(As an additional cost to play Throttle, you may banish the top card of your deck. If it's a Mechanologist card, Throttle gains **go again**.)*	“Why, my steam-propelled hammer could increase mining efficiency by up to 38%!” - Elias Edgecombe	Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC23.width-450.png – ARC023 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC23.width-450.png - ARC023 – U
+ARC024	ARC	Throttle	2	2	5	3			C	Mechanologist, Action, Attack	Boost		**Boost** *(As an additional cost to play Throttle, you may banish the top card of your deck. If it's a Mechanologist card, Throttle gains **go again**.)*	“Why, my steam-propelled hammer could increase mining efficiency by up to 38%!” - Elias Edgecombe	Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC24.width-450.png – ARC024 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC24.width-450.png - ARC024 – U
+ARC025	ARC	Throttle	3	2	4	3			C	Mechanologist, Action, Attack	Boost		**Boost** *(As an additional cost to play Throttle, you may banish the top card of your deck. If it's a Mechanologist card, Throttle gains **go again**.)*	“Why, my steam-propelled hammer could increase mining efficiency by up to 38%!” - Elias Edgecombe	Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC25.width-450.png – ARC025 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC25.width-450.png - ARC025 – U
+ARC026	ARC	Zero to Sixty	1	0	4	3			C	Mechanologist, Action, Attack	Boost		**Boost** *(As an additional cost to play Zero to Sixty, you may banish the top card of your deck. If it's a Mechanologist card, Zero to Sixty gains **go again**.)*		Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC26.width-450.png – ARC026 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC26.width-450.png - ARC026 – U
+ARC027	ARC	Zero to Sixty	2	0	3	3			C	Mechanologist, Action, Attack	Boost		**Boost** *(As an additional cost to play Zero to Sixty, you may banish the top card of your deck. If it's a Mechanologist card, Zero to Sixty gains **go again**.)*		Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC27.width-450.png – ARC027 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC27.width-450.png - ARC027 – U
+ARC028	ARC	Zero to Sixty	3	0	2	3			C	Mechanologist, Action, Attack	Boost		**Boost** *(As an additional cost to play Zero to Sixty, you may banish the top card of your deck. If it's a Mechanologist card, Zero to Sixty gains **go again**.)*		Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC28.width-450.png – ARC028 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC28.width-450.png - ARC028 – U
+ARC029	ARC	Zipper Hit	1	1	5	3			C	Mechanologist, Action, Attack	Boost		**Boost** *(As an additional cost to play Zipper Hit, you may banish the top card of your deck. If it's a Mechanologist card, Zipper Hit gains **go again**.)*	“Yes! Yes! Off you go, my tiny zipperwings! Take your gases to the masses!” - Maxwell	Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC29.width-450.png – ARC029 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC29.width-450.png - ARC029 – U
+ARC030	ARC	Zipper Hit	2	1	4	3			C	Mechanologist, Action, Attack	Boost		**Boost** *(As an additional cost to play Zipper Hit, you may banish the top card of your deck. If it's a Mechanologist card, Zipper Hit gains **go again**.)*	“Yes! Yes! Off you go, my tiny zipperwings! Take your gases to the masses!” - Maxwell	Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC30.width-450.png – ARC030 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC30.width-450.png - ARC030 – U
+ARC031	ARC	Zipper Hit	3	1	3	3			C	Mechanologist, Action, Attack	Boost		**Boost** *(As an additional cost to play Zipper Hit, you may banish the top card of your deck. If it's a Mechanologist card, Zipper Hit gains **go again**.)*	“Yes! Yes! Off you go, my tiny zipperwings! Take your gases to the masses!” - Maxwell	Mechanologist Action – Attack					https://storage.googleapis.com/fabmaster/media/images/ARC31.width-450.png – ARC031 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC31.width-450.png - ARC031 – U
+ARC032	ARC	Locked and Loaded	1	0		3			C	Mechanologist, Action	Opt 1, Go again		"The next Mechanologist attack action card you play this turn gains +3{p}.
+
+If you have **boosted** this turn, **opt 1**. *(Look at the top card of your deck. You may put it on the bottom.)*
+
+**Go again**"		Mechanologist Action					https://storage.googleapis.com/fabmaster/media/images/ARC32.width-450.png – ARC032 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC32.width-450.png - ARC032 – U
+ARC033	ARC	Locked and Loaded	2	0		3			C	Mechanologist, Action	Opt 1, Go again		"The next Mechanologist attack action card you play this turn gains +2{p}.
+
+If you have **boosted** this turn, **opt 1**. *(Look at the top card of your deck. You may put it on the bottom.)*
+
+**Go again**"		Mechanologist Action					https://storage.googleapis.com/fabmaster/media/images/ARC33.width-450.png – ARC033 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC33.width-450.png - ARC033 – U
+ARC034	ARC	Locked and Loaded	3	0		3			C	Mechanologist, Action	Opt 1, Go again		"The next Mechanologist attack action card you play this turn gains +1{p}.
+
+If you have **boosted** this turn, **opt 1**. *(Look at the top card of your deck. You may put it on the bottom.)*
+
+**Go again**"		Mechanologist Action					https://storage.googleapis.com/fabmaster/media/images/ARC34.width-450.png – ARC034 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC34.width-450.png - ARC034 – U
+ARC035	ARC	Dissipation Shield	2	2					C	Mechanologist, Action, Item			"Dissipation Shield enters the arena with 4 steam counters on it.
+
+At the beginning of your action phase, destroy Dissipation Shield unless you remove a steam counter from it.
+
+**Instant** - Destroy Dissipation Shield: The next time your hero would be dealt damage this turn, prevent X damage, where X is the number of steam counters on Dissipation Shield."		Mechanologist Action – Item					https://storage.googleapis.com/fabmaster/media/images/ARC35.width-450.png – ARC035 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC35.width-450.png - ARC035 – U
+ARC036	ARC	Hyper Driver	1	1					C	Mechanologist, Action, Item			"Hyper Driver enters the arena with 3 steam counters on it. When Hyper Driver has no steam counters on it, destroy it.
+
+**Once per Turn Effect** - When you **boost** a card, remove a steam counter from Hyper Driver and gain {r}."		Mechanologist Action – Item					https://storage.googleapis.com/fabmaster/media/images/ARC36.width-450.png – ARC036 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC36.width-450.png - ARC036 – U
+ARC037	ARC	Optekal Monocle	3	0					C	Mechanologist, Action, Item			"Optekal Monocle enters the arena with 5 steam counters on it. When Optekal Monocle has no steam counters on it, destroy it.
+
+**Action** - Remove a steam counter from Optekal Monocle: **Opt 1. Go again** *(Look at the top card of your deck. You may put it on the bottom.)*"		Mechanologist Action – Item					https://storage.googleapis.com/fabmaster/media/images/ARC37.width-450.png – ARC037 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC37.width-450.png - ARC037 – U
 ARC038	ARC	Azalea, Ace in the Hole																		https://storage.googleapis.com/fabmaster/media/images/ARC38.width-450.png – ARC038 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC38.width-450.png - ARC038 – U
 ARC039	ARC	Azalea																		https://storage.googleapis.com/fabmaster/media/images/ARC39.width-450.png – ARC039 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC39.width-450.png - ARC039 – U
 ARC040	ARC	Death Dealer																		https://storage.googleapis.com/fabmaster/media/images/ARC40.width-450.png – ARC040 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC40.width-450.png - ARC040 – U
