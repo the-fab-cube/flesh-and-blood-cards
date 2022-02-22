@@ -216,6 +216,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * Chest
 * Legs
 * Arms
+* Arrow
 * Axe
 * Bow
 * Claw

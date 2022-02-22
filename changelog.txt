@@ -2,6 +2,8 @@
 - Added WTR card data
 
 02-21-22:
-- Added card data for ARC000-ARC037
+- Added card data for ARC000-ARC074
 - Changed card.csv's `Keywords` field to `Card Keywords`
 - Added the `Abilities and Effects`, `Ability and Effect Keywords`, and `Granted Keywords` fields to card.csv
+- Added "Arrow" as an entry in type.csv
+- Added Blitz legality info to WTR non-Young hero cards.

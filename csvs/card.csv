@@ -591,43 +591,117 @@ ARC036	ARC	Hyper Driver	1	1					C	Mechanologist, Action, Item		Once per Turn Eff
 ARC037	ARC	Optekal Monocle	3	0					C	Mechanologist, Action, Item		Action	Opt, Go again			"Optekal Monocle enters the arena with 5 steam counters on it. When Optekal Monocle has no steam counters on it, destroy it.
 
 **Action** - Remove a steam counter from Optekal Monocle: **Opt 1. Go again** *(Look at the top card of your deck. You may put it on the bottom.)*"		Mechanologist Action – Item					https://storage.googleapis.com/fabmaster/media/images/ARC37.width-450.png – ARC037 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC37.width-450.png - ARC037 – U
-ARC038	ARC	Azalea, Ace in the Hole					40	4															https://storage.googleapis.com/fabmaster/media/images/ARC38.width-450.png – ARC038 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC38.width-450.png - ARC038 – U
-ARC039	ARC	Azalea					20	4															https://storage.googleapis.com/fabmaster/media/images/ARC39.width-450.png – ARC039 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC39.width-450.png - ARC039 – U
-ARC040	ARC	Death Dealer																					https://storage.googleapis.com/fabmaster/media/images/ARC40.width-450.png – ARC040 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC40.width-450.png - ARC040 – U
-ARC041	ARC	Skullbone Crosswrap																					https://storage.googleapis.com/fabmaster/media/images/ARC41.width-450.png – ARC041 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC41.width-450.png - ARC041 – U
-ARC042	ARC	Bull’s Eye Bracers																					https://storage.googleapis.com/fabmaster/media/images/ARC42.width-450.png – ARC042 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC42.width-450.png - ARC042 – U
-ARC043	ARC	Red in the Ledger																					https://storage.googleapis.com/fabmaster/media/images/ARC43.width-450.png – ARC043 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC43.width-450.png - ARC043 – U
-ARC044	ARC	Three of a Kind																					https://storage.googleapis.com/fabmaster/media/images/ARC44.width-450.png – ARC044 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC44.width-450.png - ARC044 – U
-ARC045	ARC	Endless Arrow																					https://storage.googleapis.com/fabmaster/media/images/ARC45.width-450.png – ARC045 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC45.width-450.png - ARC045 – U
-ARC046	ARC	Nock the Deathwhistle																					https://storage.googleapis.com/fabmaster/media/images/ARC46.width-450.png – ARC046 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC46.width-450.png - ARC046 – U
-ARC047	ARC	Rapid Fire																					https://storage.googleapis.com/fabmaster/media/images/ARC47.width-450.png – ARC047 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC47.width-450.png - ARC047 – U
-ARC048	ARC	Take Cover																					https://storage.googleapis.com/fabmaster/media/images/ARC48.width-450.png – ARC048 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC48.width-450.png - ARC048 – U
-ARC049	ARC	Take Cover																					https://storage.googleapis.com/fabmaster/media/images/ARC49.width-450.png – ARC049 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC49.width-450.png - ARC049 – U
-ARC050	ARC	Take Cover																					https://storage.googleapis.com/fabmaster/media/images/ARC50.width-450.png – ARC050 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC50.width-450.png - ARC050 – U
-ARC051	ARC	Silver the Tip																					https://storage.googleapis.com/fabmaster/media/images/ARC51.width-450.png – ARC051 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC51.width-450.png - ARC051 – U
-ARC052	ARC	Silver the Tip																					https://storage.googleapis.com/fabmaster/media/images/ARC52.width-450.png – ARC052 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC52.width-450.png - ARC052 – U
-ARC053	ARC	Silver the Tip																					https://storage.googleapis.com/fabmaster/media/images/ARC53.width-450.png – ARC053 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC53.width-450.png - ARC053 – U
-ARC054	ARC	Take Aim																					https://storage.googleapis.com/fabmaster/media/images/ARC54.width-450.png – ARC054 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC54.width-450.png - ARC054 – U
-ARC055	ARC	Take Aim																					https://storage.googleapis.com/fabmaster/media/images/ARC55.width-450.png – ARC055 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC55.width-450.png - ARC055 – U
-ARC056	ARC	Take Aim																					https://storage.googleapis.com/fabmaster/media/images/ARC56.width-450.png – ARC056 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC56.width-450.png - ARC056 – U
-ARC057	ARC	Head Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC57.width-450.png – ARC057 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC57.width-450.png - ARC057 – U
-ARC058	ARC	Head Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC58.width-450.png – ARC058 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC58.width-450.png - ARC058 – U
-ARC059	ARC	Head Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC59.width-450.png – ARC059 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC59.width-450.png - ARC059 – U
-ARC060	ARC	Hamstring Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC60.width-450.png – ARC060 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC60.width-450.png - ARC060 – U
-ARC061	ARC	Hamstring Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC61.width-450.png – ARC061 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC61.width-450.png - ARC061 – U
-ARC062	ARC	Hamstring Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC62.width-450.png – ARC062 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC62.width-450.png - ARC062 – U
-ARC063	ARC	Ridge Rider Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC63.width-450.png – ARC063 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC63.width-450.png - ARC063 – U
-ARC064	ARC	Ridge Rider Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC64.width-450.png – ARC064 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC64.width-450.png - ARC064 – U
-ARC065	ARC	Ridge Rider Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC65.width-450.png – ARC065 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC65.width-450.png - ARC065 – U
-ARC066	ARC	Salvage Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC66.width-450.png – ARC066 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC66.width-450.png - ARC066 – U
-ARC067	ARC	Salvage Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC67.width-450.png – ARC067 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC67.width-450.png - ARC067 – U
-ARC068	ARC	Salvage Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC68.width-450.png – ARC068 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC68.width-450.png - ARC068 – U
-ARC069	ARC	Searing Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC69.width-450.png – ARC069 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC69.width-450.png - ARC069 – U
-ARC070	ARC	Searing Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC70.width-450.png – ARC070 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC70.width-450.png - ARC070 – U
-ARC071	ARC	Searing Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC71.width-450.png – ARC071 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC71.width-450.png - ARC071 – U
-ARC072	ARC	Sic ‘Em Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC72.width-450.png – ARC072 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC72.width-450.png - ARC072 – U
-ARC073	ARC	Sic ‘Em Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC73.width-450.png – ARC073 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC73.width-450.png - ARC073 – U
-ARC074	ARC	Sic ‘Em Shot																					https://storage.googleapis.com/fabmaster/media/images/ARC74.width-450.png – ARC074 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC74.width-450.png - ARC074 – U
+ARC038	ARC	Azalea, Ace in the Hole					40	4	T	Ranger, Hero		Once per Turn Action	Go again	Dominate		**Once per Turn Action** - 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it’s an arrow card, it gains **dominate** until end of turn. **Go again** *(The defending hero can’t defend the attack with more than 1 card from their hand.)*		Ranger Hero		No			https://storage.googleapis.com/fabmaster/media/images/ARC38.width-450.png – ARC038 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC38.width-450.png - ARC038 – U
+ARC039	ARC	Azalea					20	4	T	Ranger, Hero, Young		Once per Turn Action	Go again	Dominate		**Once per Turn Action** - 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it’s an arrow card, it gains **dominate** until end of turn. **Go again** *(The defending hero can’t defend the attack with more than 1 card from their hand.)*		Ranger Hero – Young					https://storage.googleapis.com/fabmaster/media/images/ARC39.width-450.png – ARC039 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC39.width-450.png - ARC039 – U
+ARC040	ARC	Death Dealer							T	Ranger, Weapon, Bow, 2H		Once per Turn Action	Go again			**Once per Turn Action** - {r}: If you have no cards in your arsenal, you may put an arrow card from your hand face up into your arsenal. If you do, draw a card. **Go again**		Ranger Weapon – Bow (2H)					https://storage.googleapis.com/fabmaster/media/images/ARC40.width-450.png – ARC040 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC40.width-450.png - ARC040 – U
+ARC041	ARC	Skullbone Crosswrap				1			L	Ranger, Equipment, Head	Arcane Barrier, Blade Break					"**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*
+
+**Blade Break** *(If you defend with Skullbone Crosswrap, destroy it when the combat chain closes.)*"		Ranger Equipment – Head					https://storage.googleapis.com/fabmaster/media/images/ARC41.width-450.png – ARC041 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC41.width-450.png - ARC041 – U
+ARC042	ARC	Bull’s Eye Bracers				0			C	Ranger, Equipment, Arms	Arcane Barrier	Action	Go again			"**Action** - Destroy Bull's Eye Bracers: If you have no cards in your arsenal, you may put an arrow card from your hand face up into your arsenal. It gains +1{p} until end of turn. **Go again**
+
+**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*"		Ranger Equipment – Arms					https://storage.googleapis.com/fabmaster/media/images/ARC42.width-450.png – ARC042 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC42.width-450.png - ARC042 – U
+ARC043	ARC	Red in the Ledger	1	1	5	3			M	Ranger, Action, Arrow, Attack	Specialization					"**Azalea Specialization** *(You may only have Red in the Ledger in your deck if your hero is Azalea.)*
+
+*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Red in the Ledger hits a hero, they can't play or activate more than 1 action during their next turn."		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC43.width-450.png – ARC043 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC43.width-450.png - ARC043 – U
+ARC044	ARC	Three of a Kind	1	1		2			M	Ranger, Action	Go again					"Draw 3 cards. Until end of turn, you may only play cards from arsenal.
+
+**Go again**"	“Finally. Time to take out the trash.” - Azalea	Ranger Action					https://storage.googleapis.com/fabmaster/media/images/ARC44.width-450.png – ARC044 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC44.width-450.png - ARC044 – U
+ARC045	ARC	Endless Arrow	1	0	4	3			S	Ranger, Action, Arrow, Attack						"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Endless Arrow hits, put it into your hand."		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC45.width-450.png – ARC045 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC45.width-450.png - ARC045 – U
+ARC046	ARC	Nock the Deathwhistle	3	0		3			S	Ranger, Action	Specialization, Reload, Go again					"**Azalea Specialization** *(You may only have Nock the Deathwhistle in your deck if your hero is Azalea.)*
+
+Search your deck for an arrow card, reveal it, then shuffle your deck and put it on top of your deck.
+
+**Reload** *(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)*
+
+**Go again**"		Ranger Action					https://storage.googleapis.com/fabmaster/media/images/ARC46.width-450.png – ARC046 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC46.width-450.png - ARC046 – U
+ARC047	ARC	Rapid Fire	2	0		2			S	Ranger, Action	Reload			Go again		"Until end of turn, arrows you control gain **go again.**
+
+**Reload** *(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)*"		Ranger Action					https://storage.googleapis.com/fabmaster/media/images/ARC47.width-450.png – ARC047 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC47.width-450.png - ARC047 – U
+ARC048	ARC	Take Cover	1	0		4			R	Ranger, Defense Reaction	Reload					**Reload** *(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)*	In the Pits, every nook, cranny, or demolition debris serves as worthy refuge when it’s time to take cover.	Ranger Defense Reaction					https://storage.googleapis.com/fabmaster/media/images/ARC48.width-450.png – ARC048 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC48.width-450.png - ARC048 – U
+ARC049	ARC	Take Cover	2	0		3			R	Ranger, Defense Reaction	Reload					**Reload** *(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)*	In the Pits, every nook, cranny, or demolition debris serves as worthy refuge when it’s time to take cover.	Ranger Defense Reaction					https://storage.googleapis.com/fabmaster/media/images/ARC49.width-450.png – ARC049 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC49.width-450.png - ARC049 – U
+ARC050	ARC	Take Cover	3	0		2			R	Ranger, Defense Reaction	Reload					**Reload** *(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)*	In the Pits, every nook, cranny, or demolition debris serves as worthy refuge when it’s time to take cover.	Ranger Defense Reaction					https://storage.googleapis.com/fabmaster/media/images/ARC50.width-450.png – ARC050 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC50.width-450.png - ARC050 – U
+ARC051	ARC	Silver the Tip	1	1		2			R	Ranger, Action	Go again					"If you have no cards in your arsenal, look at the top 4 cards of your deck. You may put an arrow card from among them face up into your arsenal, then put the rest on the bottom of your deck in any order.
+
+**Go again**"		Ranger Action					https://storage.googleapis.com/fabmaster/media/images/ARC51.width-450.png – ARC051 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC51.width-450.png - ARC051 – U
+ARC052	ARC	Silver the Tip	2	1		2			R	Ranger, Action	Go again					"If you have no cards in your arsenal, look at the top 3 cards of your deck. You may put an arrow card from among them face up into your arsenal, then put the rest on the bottom of your deck in any order.
+
+**Go again**"		Ranger Action					https://storage.googleapis.com/fabmaster/media/images/ARC52.width-450.png – ARC052 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC52.width-450.png - ARC052 – U
+ARC053	ARC	Silver the Tip	3	1		2			R	Ranger, Action	Go again					"If you have no cards in your arsenal, look at the top 2 cards of your deck. You may put an arrow card from among them face up into your arsenal, then put the rest on the bottom of your deck in any order.
+
+**Go again**"		Ranger Action					https://storage.googleapis.com/fabmaster/media/images/ARC53.width-450.png – ARC053 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC53.width-450.png - ARC053 – U
+ARC054	ARC	Take Aim	1	0		2			R	Ranger, Action	Reload, Go again					"The next Ranger attack action card you play this turn, gains +3{p}.
+
+**Reload** *(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)*
+
+**Go again**"		Ranger Action					https://storage.googleapis.com/fabmaster/media/images/ARC54.width-450.png – ARC054 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC54.width-450.png - ARC054 – U
+ARC055	ARC	Take Aim	2	0		2			R	Ranger, Action	Reload, Go again					"The next Ranger attack action card you play this turn, gains +2{p}.
+
+**Reload** *(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)*
+
+**Go again**"		Ranger Action					https://storage.googleapis.com/fabmaster/media/images/ARC55.width-450.png – ARC055 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC55.width-450.png - ARC055 – U
+ARC056	ARC	Take Aim	3	0		2			R	Ranger, Action	Reload, Go again					"The next Ranger attack action card you play this turn, gains +1{p}.
+
+**Reload** *(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)*
+
+**Go again**"		Ranger Action					https://storage.googleapis.com/fabmaster/media/images/ARC56.width-450.png – ARC056 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC56.width-450.png - ARC056 – U
+ARC057	ARC	Head Shot	1	1	4	3			C	Ranger, Action, Arrow, Attack						"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Head Shot is put into your arsenal face up, it gains +2{p} until end of turn."		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC57.width-450.png – ARC057 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC57.width-450.png - ARC057 – U
+ARC058	ARC	Head Shot	2	1	3	3			C	Ranger, Action, Arrow, Attack						"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Head Shot is put into your arsenal face up, it gains +2{p} until end of turn."		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC58.width-450.png – ARC058 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC58.width-450.png - ARC058 – U
+ARC059	ARC	Head Shot	3	1	2	3			C	Ranger, Action, Arrow, Attack						"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Head Shot is put into your arsenal face up, it gains +2{p} until end of turn."		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC59.width-450.png – ARC059 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC59.width-450.png - ARC059 – U
+ARC060	ARC	Hamstring Shot	1	1	5	3			C	Ranger, Action, Arrow, Attack						"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Hamstring Shot hits a hero, their first attack during their next turn costs an additional {r} to play."		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC60.width-450.png – ARC060 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC60.width-450.png - ARC060 – U
+ARC061	ARC	Hamstring Shot	2	1	4	3			C	Ranger, Action, Arrow, Attack						"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Hamstring Shot hits a hero, their first attack during their next turn costs an additional {r} to play."		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC61.width-450.png – ARC061 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC61.width-450.png - ARC061 – U
+ARC062	ARC	Hamstring Shot	3	1	3	3			C	Ranger, Action, Arrow, Attack						"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Hamstring Shot hits a hero, their first attack during their next turn costs an additional {r} to play."		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC62.width-450.png – ARC062 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC62.width-450.png - ARC062 – U
+ARC063	ARC	Ridge Rider Shot	1	0	4	3			C	Ranger, Action, Arrow, Attack	Opt					"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Ridge Rider Shot is put into your arsenal face up, **opt 1.** *(Look at the top card of your deck. You may put it on the bottom.)*"		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC63.width-450.png – ARC063 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC63.width-450.png - ARC063 – U
+ARC064	ARC	Ridge Rider Shot	2	0	3	3			C	Ranger, Action, Arrow, Attack	Opt					"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Ridge Rider Shot is put into your arsenal face up, **opt 1.** *(Look at the top card of your deck. You may put it on the bottom.)*"		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC64.width-450.png – ARC064 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC64.width-450.png - ARC064 – U
+ARC065	ARC	Ridge Rider Shot	3	0	2	3			C	Ranger, Action, Arrow, Attack	Opt					"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Ridge Rider Shot is put into your arsenal face up, **opt 1.** *(Look at the top card of your deck. You may put it on the bottom.)*"		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC65.width-450.png – ARC065 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC65.width-450.png - ARC065 – U
+ARC066	ARC	Salvage Shot	1	1	5	3			C	Ranger, Action, Arrow, Attack						"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Salvage Shot hits, put it on the bottom of your deck."		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC66.width-450.png – ARC066 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC66.width-450.png - ARC066 – U
+ARC067	ARC	Salvage Shot	2	1	4	3			C	Ranger, Action, Arrow, Attack						"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Salvage Shot hits, put it on the bottom of your deck."		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC67.width-450.png – ARC067 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC67.width-450.png - ARC067 – U
+ARC068	ARC	Salvage Shot	3	1	3	3			C	Ranger, Action, Arrow, Attack						"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Salvage Shot hits, put it on the bottom of your deck."		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC68.width-450.png – ARC068 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC68.width-450.png - ARC068 – U
+ARC069	ARC	Searing Shot	1	0	4	3			C	Ranger, Action, Arrow, Attack						"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Searing Shot hits a hero, they lose 1{h}."		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC69.width-450.png – ARC069 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC69.width-450.png - ARC069 – U
+ARC070	ARC	Searing Shot	2	0	3	3			C	Ranger, Action, Arrow, Attack						"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Searing Shot hits a hero, they lose 1{h}."		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC70.width-450.png – ARC070 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC70.width-450.png - ARC070 – U
+ARC071	ARC	Searing Shot	3	0	2	3			C	Ranger, Action, Arrow, Attack						"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Searing Shot hits a hero, they lose 1{h}."		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC71.width-450.png – ARC071 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC71.width-450.png - ARC071 – U
+ARC072	ARC	Sic ‘Em Shot	1	1	4	3			C	Ranger, Action, Arrow, Attack	Go again					"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+**Go again**"		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC72.width-450.png – ARC072 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC72.width-450.png - ARC072 – U
+ARC073	ARC	Sic ‘Em Shot	2	1	3	3			C	Ranger, Action, Arrow, Attack	Go again					"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+**Go again**"		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC73.width-450.png – ARC073 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC73.width-450.png - ARC073 – U
+ARC074	ARC	Sic ‘Em Shot	3	1	2	3			C	Ranger, Action, Arrow, Attack	Go again					"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+**Go again**"		Ranger Action – Arrow Attack					https://storage.googleapis.com/fabmaster/media/images/ARC74.width-450.png – ARC074 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC74.width-450.png - ARC074 – U
 ARC075	ARC	Viserai, Rune Blood																					https://storage.googleapis.com/fabmaster/media/images/ARC75.width-450.png – ARC075 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC75.width-450.png - ARC075 – U
 ARC076	ARC	Viserai																					https://storage.googleapis.com/fabmaster/media/images/ARC76.width-450.png – ARC076 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC76.width-450.png - ARC076 – U
 ARC077	ARC	Nebula Blade																					https://storage.googleapis.com/fabmaster/media/images/ARC77.width-450.png – ARC077 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC77.width-450.png - ARC077 – U
