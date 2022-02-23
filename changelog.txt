@@ -7,3 +7,9 @@
 - Added the `Abilities and Effects`, `Ability and Effect Keywords`, and `Granted Keywords` fields to card.csv
 - Added "Arrow" as an entry in type.csv
 - Added Blitz legality info to WTR non-Young hero cards.
+
+02-23-22:
+- Added partial card data for CRU000-CRU197
+- Updated possible formatting for the `Rarity` field in card.csv to accommodate cards that changed rarity between editions.
+- Added "Shapeshifter" as an entry in type.csv
+- Updated Bravo, Showstopper Functional Text
