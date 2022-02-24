@@ -13,3 +13,5 @@
 - Updated possible formatting for the `Rarity` field in card.csv to accommodate cards that changed rarity between editions.
 - Added "Shapeshifter" as an entry in type.csv
 - Updated Bravo, Showstopper Functional Text
+- Fixed issues with ARC image data
+- Fixed a misaligned flavor text for the Absorb in Aether entries spilling into an entry for Aether Spindle
