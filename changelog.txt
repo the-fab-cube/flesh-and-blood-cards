@@ -15,3 +15,9 @@
 - Updated Bravo, Showstopper Functional Text
 - Fixed issues with ARC image data
 - Fixed a misaligned flavor text for the Absorb in Aether entries spilling into an entry for Aether Spindle
+
+02-24-22:
+- Finished adding data for CRU000-CRU197
+- Added "Trap" as an entry in type.csv
+- Added "Attack" as an entry in keyword.csv
+- Reordered entries in keyword.csv alphabetically

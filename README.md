@@ -165,6 +165,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 
 ### Keyword (Name - Description)
 * *Arcane Barrier* - If you would be dealt arcane damage you may pay X{r} instead to prevent X arcane damage that source will deal.
+* *Attack* - ?
 * *Battleworn* - Equipment that wear down after each time they are used to defend. If you defend with a card with *Battleworn*, put a -1{d} counter on it when the combat chain closes.
 * *Blade Break* - Equipment that are fragile and break after being used to defend. If you defend with a card with *Blade Break*, destroy it when the combat chain closes.
 * *Blood Debt* - *Blood Debt* is a keyword existing on Shadow cards. Shadow cards can inflict a loss of life to access a greater power. At the end of your turn, you lose 1{h} for each *blood debt* card in your banished zone.
@@ -194,60 +195,61 @@ Note: Cards are organized by what main set they were initially released in, in o
 ### Type
 * Action
 * Ally
+* Arms
+* Arrow
 * Attack
 * Attack Reaction
 * Aura
-* Defense Reaction
-* Gem
-* Instant
-* Item
-* Landmark
-* Mentor
-* Resource
-* Token
-* Equipment
-* Weapon
-* Hero
-* Young
-* Off-Hand
-* 1H
-* 2H
-* Head
-* Chest
-* Legs
-* Arms
-* Arrow
 * Axe
 * Bow
+* Brute
+* Chest
 * Claw
 * Club
 * Dagger
-* Gun
+* Defense Reaction
+* Earth
+* Elemental
+* Equipment
 * Flail
-* Hammer
-* Orb
-* Pistol
-* Staff
-* Scythe
-* Sword
+* Ice
+* Gem
 * Generic
-* Brute
+* Gun
 * Guardian
+* Hammer
+* Head
+* Hero
 * Illusionist
+* Instant
+* Item
+* Landmark
+* Legs
+* Light
+* Lightning
 * Mechanologist
+* Mentor
 * Merchant
 * Ninja
+* Off-Hand
+* Orb
+* Pistol
 * Ranger
+* Resource
 * Runeblade
-* Shapeshifter
-* Warrior
-* Wizard
-* Light
+* Scythe
 * Shadow
-* Elemental
-* Earth
-* Ice
-* Lightning
+* Shapeshifter
+* Staff
+* Sword
+* Token
+* Trap
+* Warrior
+* Weapon
+* Wizard
+* Young
+* 1H
+* 2H
 
 
 ### Foiling (Shorthand - Name)
