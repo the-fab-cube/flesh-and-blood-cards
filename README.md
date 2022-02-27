@@ -208,6 +208,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * Club
 * Dagger
 * Defense Reaction
+* Demon
 * Earth
 * Elemental
 * Equipment
@@ -237,6 +238,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * Ranger
 * Resource
 * Runeblade
+* Scepter
 * Scythe
 * Shadow
 * Shapeshifter
