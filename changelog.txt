@@ -24,5 +24,8 @@
 
 02-26-22:
 - Added card data for MON000-MON305
+- Added card data for ELE000-ELE217
+- Removed Essence column (now handled by Type column) in card.csv
+- Added hero names in front of Specialization types in card.csv
 - Add card legality to adult hero cards
 - Added "Scepter" and "Demon" as entries in type.csv
