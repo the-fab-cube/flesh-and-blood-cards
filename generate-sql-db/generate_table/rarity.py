@@ -54,6 +54,6 @@ def generate_table(cur):
             id = row[0]
             description = row[1]
             insert(cur, id, description)
-            print(', '.join(row))
+            # print(', '.join(row))
 
         print("\nSuccessfully filled rarities table\n")

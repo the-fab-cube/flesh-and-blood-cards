@@ -54,6 +54,6 @@ def generate_table(cur):
             keyword = row[0]
             description = row[1]
             insert(cur, keyword, description)
-            print(', '.join(row))
+            # print(', '.join(row))
 
         print("\nSuccessfully filled keywords table\n")

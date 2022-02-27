@@ -51,6 +51,6 @@ def generate_table(cur):
         for row in reader:
             name = row[0]
             insert(cur, name)
-            print(', '.join(row))
+            # print(', '.join(row))
 
         print("\nSuccessfully filled types table\n")

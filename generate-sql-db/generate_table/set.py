@@ -58,11 +58,10 @@ def generate_table(cur):
             id = row[0]
             name = row[1]
             editions = row[2]
-            # editions = ', '.join(["""'{0}'""".format(x) for x in row[2].split(', ')])
             initial_release_dates = row[3]
             out_of_print_dates = row[4]
             product_sites = row[5]
             insert(cur, id, name, editions, initial_release_dates, out_of_print_dates, product_sites)
-            print(', '.join(row))
+            # print(', '.join(row))
 
         print("\nSuccessfully filled sets table\n")

@@ -54,6 +54,6 @@ def generate_table(cur):
             id = row[0]
             name = row[1]
             insert(cur, id, name)
-            print(', '.join(row))
+            # print(', '.join(row))
 
         print("\nSuccessfully filled foilings table\n")

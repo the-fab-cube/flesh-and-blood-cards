@@ -54,6 +54,6 @@ def generate_table(cur):
             icon = row[0]
             description = row[1]
             insert(cur, icon, description)
-            print(', '.join(row))
+            # print(', '.join(row))
 
         print("\nSuccessfully filled icons table\n")
