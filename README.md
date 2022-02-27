@@ -91,6 +91,7 @@ choose Tabs as the delimiter and " as the string indicator.
 | Flavor Text | string | Any flavor text that appears on the latest printing of the card with flavor text. Do not use italics on this, text is assumed to be in italics. (Example pulled from Talisman of Warfare.) | It's said that wherever the Dracai of War planted this talisman, the lava was soon to flow. |
 | Type Text | string | The type text as printed on the latest edition of the card. | Ninja Action - Attack |
 | Card Played Horizontally | bool | Is the card played horizontally (Ex: Landmarks)? No value is considered No. | Yes |
+| Blitz Restricted | bool | Is the card restricted in the Blitz format? No value is considered No. | No |
 | Blitz Legal | bool | Is the card legal in the Blitz format? No value is considered Yes. | Yes |
 | CC Legal | bool | Is the card legal in the Classic Constructed format? No value is considered Yes. | Yes |
 | Variations | string[] | The list of foilings the card is available in within a set/edition combination, as well as any alternate arts for the card. The [Collector's Center](https://fabtcg.com/collectors-centre/) has good resources for finding details on this. If there is an alternate art, make a separate entry in this array and tack on the shorthand for the alternate art type. Format: `{Foiling Shorthands separated by spaces} - {Card Identifier} - {Set Edition Shorthand} (- {Alternate Art Shorthand})` (Using Channel Lake Frigid in this example.) | S R - ELE146 - F, R - ELE146 - F - AA, S R - ELE146 - U |
