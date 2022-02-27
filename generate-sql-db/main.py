@@ -1,6 +1,5 @@
 import psycopg2
 from tables import *
-from edition_table import generate_edition_table
 
 database_name = 'fabcards'
 
@@ -24,12 +23,12 @@ if (database_name,) not in list_database:
     cursor.execute('''CREATE database fabcards''')
     print("'{}' database created successfully...........".format(database_name))
 
-### Create tables
+### Drop existing tables, recreate them, and then fill them with data
 drop_tables(conn)
+print()
 create_tables(conn)
-
-### Generate table data
-generate_edition_table(conn)
+print()
+generate_table_data(conn)
 
 conn.close()
 

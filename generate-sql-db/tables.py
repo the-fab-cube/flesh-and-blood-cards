@@ -1,43 +1,36 @@
+import generate_table.edition
+import generate_table.foiling
+import generate_table.icon
+
 def create_tables(conn = None):
-    """ create tables in the PostgreSQL database"""
-    commands = (
-        """
-        CREATE TABLE editions (
-            id VARCHAR(255) PRIMARY KEY,
-            name VARCHAR(255) NOT NULL
-        )
-        """,
-    )
+    print("Creating tables...")
+    cur = conn.cursor()
 
-    try:
-        print("Creating tables to import CSV data into...\n")
+    generate_table.edition.create_table(cur)
+    generate_table.foiling.create_table(cur)
+    generate_table.icon.create_table(cur)
 
-        cur = conn.cursor()
-        # create table one by one
-        for command in commands:
-            cur.execute(command)
-        # close communication with the PostgreSQL database server
-        cur.close()
-        # commit the changes
-        conn.commit()
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
+    cur.close()
+    print("Finished creating tables")
 
 def drop_tables(conn = None):
-    commands = (
-        """
-        DROP TABLE IF EXISTS editions
-        """,
-    )
+    print("Dropping tables...")
+    cur = conn.cursor()
 
-    try:
-        print("Dropping existing tables that were created from CSVs...\n")
+    generate_table.edition.drop_table(cur)
+    generate_table.foiling.drop_table(cur)
+    generate_table.icon.drop_table(cur)
 
-        cur = conn.cursor()
-        # create table one by one
-        for command in commands:
-            cur.execute(command)
-        # close communication with the PostgreSQL database server
-        cur.close()
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
+    cur.close()
+    print("Finished dropping tables")
+
+def generate_table_data(conn = None):
+    print("Generating table data...")
+    cur = conn.cursor()
+
+    generate_table.edition.generate_table(cur)
+    generate_table.foiling.generate_table(cur)
+    generate_table.icon.generate_table(cur)
+
+    cur.close()
+    print("Finished generating table data")
