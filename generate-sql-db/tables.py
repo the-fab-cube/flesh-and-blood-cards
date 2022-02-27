@@ -3,6 +3,7 @@ import generate_table.foiling
 import generate_table.icon
 import generate_table.keyword
 import generate_table.rarity
+import generate_table.set
 import generate_table.type
 
 def create_tables(conn = None):
@@ -14,6 +15,7 @@ def create_tables(conn = None):
     generate_table.icon.create_table(cur)
     generate_table.keyword.create_table(cur)
     generate_table.rarity.create_table(cur)
+    generate_table.set.create_table(cur)
     generate_table.type.create_table(cur)
 
     cur.close()
@@ -28,6 +30,7 @@ def drop_tables(conn = None):
     generate_table.icon.drop_table(cur)
     generate_table.keyword.drop_table(cur)
     generate_table.rarity.drop_table(cur)
+    generate_table.set.drop_table(cur)
     generate_table.type.drop_table(cur)
 
     cur.close()
@@ -42,6 +45,7 @@ def generate_table_data(conn = None):
     generate_table.icon.generate_table(cur)
     generate_table.keyword.generate_table(cur)
     generate_table.rarity.generate_table(cur)
+    generate_table.set.generate_table(cur)
     generate_table.type.generate_table(cur)
 
     cur.close()
