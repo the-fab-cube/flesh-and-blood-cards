@@ -4,14 +4,13 @@ from pathlib import Path
 
 def create_table(cur):
     command = """
-        CREATE TABLE icons (
-            icon VARCHAR(255) PRIMARY KEY,
-            description VARCHAR(255) NOT NULL
+        CREATE TABLE types (
+            name VARCHAR(255) PRIMARY KEY
         )
         """
 
     try:
-        print("Creating icons table...")
+        print("Creating types table...")
 
         # create table
         cur.execute(command)
@@ -20,40 +19,38 @@ def create_table(cur):
 
 def drop_table(cur):
     command = """
-        DROP TABLE IF EXISTS icons
+        DROP TABLE IF EXISTS types
         """
 
     try:
-        print("Dropping icons table...")
+        print("Dropping types table...")
 
         # drop table
         cur.execute(command)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
-def insert(cur, icon, name):
-    sql = """INSERT INTO icons(icon, description)
-             VALUES(%s, %s) RETURNING icon;"""
+def insert(cur, name):
+    sql = """INSERT INTO types(name) VALUES('{}');"""
     try:
-        print("Inserting {} icon...".format(icon))
+        print("Inserting {} type...".format(name))
 
         # execute the INSERT statement
-        cur.execute(sql, (icon,name))
+        cur.execute(sql.format(name))
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
 def generate_table(cur):
-    print("Filling out icons table from icon.csv...\n")
+    print("Filling out types table from type.csv...\n")
 
-    path = Path(__file__).parent / "../../csvs/icon.csv"
+    path = Path(__file__).parent / "../../csvs/type.csv"
     with path.open(newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
         next(reader)
 
         for row in reader:
-            icon = row[0]
-            description = row[1]
-            insert(cur, icon, description)
+            name = row[0]
+            insert(cur, name)
             print(', '.join(row))
 
-        print("\nSuccessfully filled icons table\n")
+        print("\nSuccessfully filled types table\n")

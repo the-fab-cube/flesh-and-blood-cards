@@ -4,14 +4,14 @@ from pathlib import Path
 
 def create_table(cur):
     command = """
-        CREATE TABLE icons (
-            icon VARCHAR(255) PRIMARY KEY,
+        CREATE TABLE rarities (
+            id VARCHAR(255) PRIMARY KEY,
             description VARCHAR(255) NOT NULL
         )
         """
 
     try:
-        print("Creating icons table...")
+        print("Creating rarities table...")
 
         # create table
         cur.execute(command)
@@ -20,40 +20,40 @@ def create_table(cur):
 
 def drop_table(cur):
     command = """
-        DROP TABLE IF EXISTS icons
+        DROP TABLE IF EXISTS rarities
         """
 
     try:
-        print("Dropping icons table...")
+        print("Dropping rarities table...")
 
         # drop table
         cur.execute(command)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
-def insert(cur, icon, name):
-    sql = """INSERT INTO icons(icon, description)
-             VALUES(%s, %s) RETURNING icon;"""
+def insert(cur, id, description):
+    sql = """INSERT INTO rarities(id, description)
+             VALUES(%s, %s) RETURNING id;"""
     try:
-        print("Inserting {} icon...".format(icon))
+        print("Inserting {} rarity...".format(id))
 
         # execute the INSERT statement
-        cur.execute(sql, (icon,name))
+        cur.execute(sql, (id,description))
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
 def generate_table(cur):
-    print("Filling out icons table from icon.csv...\n")
+    print("Filling out rarities table from rarity.csv...\n")
 
-    path = Path(__file__).parent / "../../csvs/icon.csv"
+    path = Path(__file__).parent / "../../csvs/rarity.csv"
     with path.open(newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
         next(reader)
 
         for row in reader:
-            icon = row[0]
+            id = row[0]
             description = row[1]
-            insert(cur, icon, description)
+            insert(cur, id, description)
             print(', '.join(row))
 
-        print("\nSuccessfully filled icons table\n")
+        print("\nSuccessfully filled rarities table\n")
