@@ -5,8 +5,8 @@ from pathlib import Path
 def create_table(cur):
     command = """
         CREATE TABLE cards (
-            ids VARCHAR(255) NOT NULL,
-            set_ids VARCHAR(255) NOT NULL,
+            ids VARCHAR(15)[] NOT NULL,
+            set_ids VARCHAR(15)[] NOT NULL,
             name VARCHAR(255) NOT NULL,
             pitch VARCHAR(10),
             cost VARCHAR(10),
@@ -14,7 +14,7 @@ def create_table(cur):
             defense VARCHAR(10),
             health VARCHAR(10),
             intelligence VARCHAR(10),
-            rarity VARCHAR(255)[] NOT NULL,
+            rarities VARCHAR(255)[] NOT NULL,
             types VARCHAR(255)[] NOT NULL,
             card_keywords VARCHAR(255)[],
             abilities_and_effects VARCHAR(255)[],
@@ -53,10 +53,10 @@ def drop_table(cur):
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
-def insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarity, types, card_keywords, abilities_and_effects,
+def insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, played_horizontally, blitz_restricted,
             blitz_legal, cc_legal, variations, image_urls):
-    sql = """INSERT INTO cards(ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarity, types, card_keywords, abilities_and_effects,
+    sql = """INSERT INTO cards(ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, played_horizontally, blitz_restricted,
             blitz_legal, cc_legal, variations, image_urls)
             VALUES('{{{0}}}', '{{{1}}}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{8}', '{{{9}}}', '{{{10}}}', '{{{11}}}', '{{{12}}}',
@@ -66,7 +66,7 @@ def insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelli
         print("Inserting {0} - {1} card...".format(name, pitch))
 
         # execute the INSERT statement
-        cur.execute(sql.format(ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarity, types, card_keywords, abilities_and_effects,
+        cur.execute(sql.format(ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, played_horizontally, blitz_restricted,
             blitz_legal, cc_legal, variations, image_urls))
     except (Exception, psycopg2.DatabaseError) as error:
@@ -91,7 +91,7 @@ def generate_table(cur):
             defense = row[6]
             health = row[7]
             intelligence = row[8]
-            rarity = row[9]
+            rarities = row[9]
             types = row[10]
             card_keywords = row[11]
             abilities_and_effects = row[12]
@@ -118,7 +118,7 @@ def generate_table(cur):
 
             functional_text = functional_text.replace("'", "''")
 
-            insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarity, types, card_keywords, abilities_and_effects,
+            insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, played_horizontally, blitz_restricted,
             blitz_legal, cc_legal, variations, image_urls)
 
