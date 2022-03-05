@@ -25,11 +25,14 @@
 02-26-22:
 - Added card data for MON000-MON305
 - Added card data for ELE000-ELE217
-- Removed Essence column (now handled by Type column) in card.csv
+- Removed `Essence` field (now handled by Type column) in card.csv
 - Added hero names in front of Specialization types in card.csv
 - Add card legality to adult hero cards
 - Added "Scepter" and "Demon" as entries in type.csv
 
-02/27-22:
+02-27-22:
 - Added card data for EVR000-EVR197
 - Added a `Blitz Restricted` field to card.csv.
+
+03-05-22:
+- Added `Start Card Id` and `End Card Id` to set.csv.
