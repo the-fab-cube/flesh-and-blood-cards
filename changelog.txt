@@ -36,3 +36,4 @@
 
 03-05-22:
 - Added `Start Card Id` and `End Card Id` to set.csv.
+- Add a missing rarity info for WTR075 Unlimited
