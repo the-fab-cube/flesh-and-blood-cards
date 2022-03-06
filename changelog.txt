@@ -37,3 +37,13 @@
 03-05-22:
 - Added `Start Card Id` and `End Card Id` to set.csv.
 - Add a missing rarity info for WTR075 Unlimited
+
+03-06-22:
+- Update functional text for Barraging Beatdown, Bravo / Bravo, Showstopper, Tectonic Plating,
+Forged for War, Blessing of Deliverance, Cartilage Crush, Stonewall Confidence, Katsu / Katsu, The Wanderer,
+Dorinthea / Dorinthea Ironsong, Dawnblade, Refraction Bolters, Goliath Guantlet, Snapdragon Scalers,
+Barraging Brawnhide, Demolition Crew, Flock of the Feather Walkers, Scar for a Scar, Wounded Bull, Pummel,
+Razor Reflex, Unmovable, Nimblism, Sloggism
+- Fix Markdown in functional text for Crazy Brew
+- Fix an error in the Variations field for Herald of Erudition
+- Fix an image url for Parable of Humility
