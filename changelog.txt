@@ -43,7 +43,9 @@
 Forged for War, Blessing of Deliverance, Cartilage Crush, Stonewall Confidence, Katsu / Katsu, The Wanderer,
 Dorinthea / Dorinthea Ironsong, Dawnblade, Refraction Bolters, Goliath Guantlet, Snapdragon Scalers,
 Barraging Brawnhide, Demolition Crew, Flock of the Feather Walkers, Scar for a Scar, Wounded Bull, Pummel,
-Razor Reflex, Unmovable, Nimblism, Sloggism
+Razor Reflex, Unmovable, Nimblism, and Sloggism
 - Fix Markdown in functional text for Crazy Brew
 - Fix an error in the Variations field for Herald of Erudition
-- Fix an image url for Parable of Humility
+- Fix image urls for Parable of Humility, Herald of Ravages, Herald of Rebirth, Battlefield Blitz, Phantasmaclasm,
+Levia / Levia, Shadowborn Abomination, Mark of the Beast, Endless Maw, Writhing Beast Hulk, Boneyard Marauder,
+Seeds of Agony, Spew Shadow, Pulping, Endless Winter, Glacial Footsteps, Chilling Icevein, and Break Ground
