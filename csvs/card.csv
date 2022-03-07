@@ -2666,12 +2666,12 @@ ELE061	ELE	Frazzle	3	1	3	3			C	Elemental, Ranger, Action, Arrow, Attack	Lightnin
 If Frazzle was **fused**, whenever an attack would deal damage this turn, instead it deals that much damage plus 1."		Elemental Ranger Action – Arrow Attack					S R – ELE061 – F, S R – ELE061 – U	https://storage.googleapis.com/fabmaster/media/images/ELE061.width-450.png – ELE061 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE061.width-450.png – ELE061 – U
 ELE062	ELE	Briar, Warden of Thorns					40	4	T	Elemental, Runeblade, Hero	Essence of Earth and Lightning				"**Essence of Earth and Lightning** *(You may have Earth and Lightning cards in your deck.)*
 
-Whenever an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.
+The first time an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.
 
 Whenever you play your second 'non-attack' action card each turn, create an Embodiment of Lightning token."		Elemental Runeblade Hero			No		S – ELE062 – F, S – ELE062 – U	https://storage.googleapis.com/fabmaster/media/images/ELE062.width-450.png – ELE062 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE062.width-450.png – ELE062 – U
 ELE063	ELE	Briar					20	4	T	Elemental, Runeblade, Hero, Young	Essence of Earth and Lightning				"**Essence of Earth and Lightning** *(You may have Earth and Lightning cards in your deck.)*
 
-Whenever an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.
+The first time an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.
 
 Whenever you play your second 'non-attack' action card each turn, create an Embodiment of Lightning token."		Elemental Runeblade Hero – Young					S – ELE063 – F, S – ELE063 – U	https://storage.googleapis.com/fabmaster/media/images/ELE063.width-450.png – ELE063 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE063.width-450.png – ELE063 – U
 ELE064	ELE	Blossoming Spellblade	1	2	6	3			M	Elemental, Runeblade, Action, Attack	Earth and Lightning Fusion				"**Earth and Lightning Fusion** *(As an additional cost to play Blossoming Spellblade, you may reveal an Earth and a Lightning card from your hand.)*
