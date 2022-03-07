@@ -553,13 +553,13 @@ ARC018	ARC	Cognition Nodes	3	1					R	Mechanologist, Action, Item		Action, Once p
 ARC019	ARC	Convection Amplifier	1	0					R	Mechanologist, Action, Item		Action	Go again	Dominate	"Convection Amplifier enters the arena with 2 steam counters on it. When Convection Amplifier has no steam counters on it, destroy it.
 
 **Action** - Remove a steam counter from Convection Amplifier: The next attack action card you play this turn gains **dominate.** **Go again** *(The defending hero can't defend the attack with more than 1 card from their hand.)*"		Mechanologist Action – Item					S R – ARC019 – F, S R – ARC019 – U	https://storage.googleapis.com/fabmaster/media/images/ARC19.width-450.png – ARC019 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC19.width-450.png - ARC019 – U
-ARC020	ARC	Over Loop	1	2	5	3			C	Mechanologist, Action, Attack	Boost				"If Over Loop hits, put it on the bottom of your deck.
+ARC020	ARC	Over Loop	1	2	5	3			C	Mechanologist, Action, Attack	Boost				"If Over Loop hits, put it on the bottom of your deck when the chain link resolves.
 
 **Boost** *(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains **go again**.)*"		Mechanologist Action – Attack					S R – ARC020 – F, S R – ARC020 – U	https://storage.googleapis.com/fabmaster/media/images/ARC20.width-450.png – ARC020 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC20.width-450.png - ARC020 – U
-ARC021	ARC	Over Loop	2	2	4	3			C	Mechanologist, Action, Attack	Boost				"If Over Loop hits, put it on the bottom of your deck.
+ARC021	ARC	Over Loop	2	2	4	3			C	Mechanologist, Action, Attack	Boost				"If Over Loop hits, put it on the bottom of your deck when the chain link resolves.
 
 **Boost** *(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains **go again**.)*"		Mechanologist Action – Attack					S R – ARC021 – F, S R – ARC021 – U	https://storage.googleapis.com/fabmaster/media/images/ARC21.width-450.png – ARC021 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC21.width-450.png - ARC021 – U
-ARC022	ARC	Over Loop	3	2	3	3			C	Mechanologist, Action, Attack	Boost				"If Over Loop hits, put it on the bottom of your deck.
+ARC022	ARC	Over Loop	3	2	3	3			C	Mechanologist, Action, Attack	Boost				"If Over Loop hits, put it on the bottom of your deck when the chain link resolves.
 
 **Boost** *(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains **go again**.)*"		Mechanologist Action – Attack					S R – ARC022 – F, S R – ARC022 – U	https://storage.googleapis.com/fabmaster/media/images/ARC22.width-450.png – ARC022 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC22.width-450.png - ARC022 – U
 ARC023	ARC	Throttle	1	2	6	3			C	Mechanologist, Action, Attack	Boost				**Boost** *(As an additional cost to play Throttle, you may banish the top card of your deck. If it's a Mechanologist card, Throttle gains **go again**.)*	“Why, my steam-propelled hammer could increase mining efficiency by up to 38%!” - Elias Edgecombe	Mechanologist Action – Attack					S R – ARC023 – F, S R – ARC023 – U	https://storage.googleapis.com/fabmaster/media/images/ARC23.width-450.png – ARC023 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC23.width-450.png - ARC023 – U
@@ -665,13 +665,13 @@ ARC059	ARC	Head Shot	3	1	2	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can
 If Head Shot is put into your arsenal face up, it gains +2{p} until end of turn."		Ranger Action – Arrow Attack					S R – ARC059 – F, S R – ARC059 – U	https://storage.googleapis.com/fabmaster/media/images/ARC59.width-450.png – ARC059 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC59.width-450.png - ARC059 – U
 ARC060	ARC	Hamstring Shot	1	1	5	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
-If Hamstring Shot hits a hero, their first attack during their next turn costs an additional {r} to play."		Ranger Action – Arrow Attack					S R – ARC060 – F, S R – ARC060 – U	https://storage.googleapis.com/fabmaster/media/images/ARC60.width-450.png – ARC060 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC60.width-450.png - ARC060 – U
+If Hamstring Shot hits a hero, their first attack during their next turn costs an additional {r}."		Ranger Action – Arrow Attack					S R – ARC060 – F, S R – ARC060 – U	https://storage.googleapis.com/fabmaster/media/images/ARC60.width-450.png – ARC060 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC60.width-450.png - ARC060 – U
 ARC061	ARC	Hamstring Shot	2	1	4	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
-If Hamstring Shot hits a hero, their first attack during their next turn costs an additional {r} to play."		Ranger Action – Arrow Attack					S R – ARC061 – F, S R – ARC061 – U	https://storage.googleapis.com/fabmaster/media/images/ARC61.width-450.png – ARC061 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC61.width-450.png - ARC061 – U
+If Hamstring Shot hits a hero, their first attack during their next turn costs an additional {r}."		Ranger Action – Arrow Attack					S R – ARC061 – F, S R – ARC061 – U	https://storage.googleapis.com/fabmaster/media/images/ARC61.width-450.png – ARC061 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC61.width-450.png - ARC061 – U
 ARC062	ARC	Hamstring Shot	3	1	3	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
-If Hamstring Shot hits a hero, their first attack during their next turn costs an additional {r} to play."		Ranger Action – Arrow Attack					S R – ARC062 – F, S R – ARC062 – U	https://storage.googleapis.com/fabmaster/media/images/ARC62.width-450.png – ARC062 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC62.width-450.png - ARC062 – U
+If Hamstring Shot hits a hero, their first attack during their next turn costs an additional {r}."		Ranger Action – Arrow Attack					S R – ARC062 – F, S R – ARC062 – U	https://storage.googleapis.com/fabmaster/media/images/ARC62.width-450.png – ARC062 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC62.width-450.png - ARC062 – U
 ARC063	ARC	Ridge Rider Shot	1	0	4	3			C	Ranger, Action, Arrow, Attack	Opt 1				"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
 If Ridge Rider Shot is put into your arsenal face up, **opt 1.** *(Look at the top card of your deck. You may put it on the bottom.)*"		Ranger Action – Arrow Attack					S R – ARC063 – F, S R – ARC063 – U	https://storage.googleapis.com/fabmaster/media/images/ARC63.width-450.png – ARC063 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC63.width-450.png - ARC063 – U
@@ -683,13 +683,13 @@ ARC065	ARC	Ridge Rider Shot	3	0	2	3			C	Ranger, Action, Arrow, Attack	Opt 1				"
 If Ridge Rider Shot is put into your arsenal face up, **opt 1.** *(Look at the top card of your deck. You may put it on the bottom.)*"		Ranger Action – Arrow Attack					S R – ARC065 – F, S R – ARC065 – U	https://storage.googleapis.com/fabmaster/media/images/ARC65.width-450.png – ARC065 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC65.width-450.png - ARC065 – U
 ARC066	ARC	Salvage Shot	1	1	5	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
-If Salvage Shot hits, put it on the bottom of your deck."		Ranger Action – Arrow Attack					S R – ARC066 – F, S R – ARC066 – U	https://storage.googleapis.com/fabmaster/media/images/ARC66.width-450.png – ARC066 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC66.width-450.png - ARC066 – U
+If Salvage Shot hits, put it on the bottom of your deck when the chain link resolves."		Ranger Action – Arrow Attack					S R – ARC066 – F, S R – ARC066 – U	https://storage.googleapis.com/fabmaster/media/images/ARC66.width-450.png – ARC066 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC66.width-450.png - ARC066 – U
 ARC067	ARC	Salvage Shot	2	1	4	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
-If Salvage Shot hits, put it on the bottom of your deck."		Ranger Action – Arrow Attack					S R – ARC067 – F, S R – ARC067 – U	https://storage.googleapis.com/fabmaster/media/images/ARC67.width-450.png – ARC067 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC67.width-450.png - ARC067 – U
+If Salvage Shot hits, put it on the bottom of your deck when the chain link resolves."		Ranger Action – Arrow Attack					S R – ARC067 – F, S R – ARC067 – U	https://storage.googleapis.com/fabmaster/media/images/ARC67.width-450.png – ARC067 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC67.width-450.png - ARC067 – U
 ARC068	ARC	Salvage Shot	3	1	3	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
-If Salvage Shot hits, put it on the bottom of your deck."		Ranger Action – Arrow Attack					S R – ARC068 – F, S R – ARC068 – U	https://storage.googleapis.com/fabmaster/media/images/ARC68.width-450.png – ARC068 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC68.width-450.png - ARC068 – U
+If Salvage Shot hits, put it on the bottom of your deck when the chain link resolves."		Ranger Action – Arrow Attack					S R – ARC068 – F, S R – ARC068 – U	https://storage.googleapis.com/fabmaster/media/images/ARC68.width-450.png – ARC068 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC68.width-450.png - ARC068 – U
 ARC069	ARC	Searing Shot	1	0	4	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
 If Searing Shot hits a hero, they lose 1{h}."		Ranger Action – Arrow Attack					S R – ARC069 – F, S R – ARC069 – U	https://storage.googleapis.com/fabmaster/media/images/ARC69.width-450.png – ARC069 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC69.width-450.png - ARC069 – U
@@ -734,9 +734,8 @@ ARC081	ARC	Mordred Tide	1	0		3			M	Runeblade, Action	Go again				"Until end of t
 ARC082	ARC	Ninth Blade of the Blood Oath	2	9	9	3			S	Runeblade, Action, Attack					Ninth Blade of the Blood Oath costs {r} less to play for each Runechant you control.		Runeblade Action – Attack					S R – ARC082 – F, S R – ARC082 – U	https://storage.googleapis.com/fabmaster/media/images/ARC82.width-450.png – ARC082 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC82.width-450.png - ARC082 – U
 ARC083	ARC	Become the Arknight	3	0		3			S	Runeblade, Action	Viserai Specialization, Go again				"**Viserai Specialization** *(You may only have Become the Arknight in your deck if your hero is Viserai.)*
 
-Choose 1;
-- Discard a 'non-attack' action card. Search your deck for a Runeblade attack action card, reveal it, put it into your hand, then shuffle your deck.
-- Discard an attack action card. Search your deck for a Runeblade 'non-attack' action card, reveal it, put it into your hand, then shuffle your deck.
+You may discard an action card. If you discard an attack action card this way, search your deck for a Runeblade ‘non-attack’ action card, reveal it, and put it into your hand. If you discard a ‘non-attack’ action card this way, search your deck for a Runeblade attack action card, reveal it, and put it into your hand. Shuffle your deck.
+
 **Go again**"		Runeblade Action					S R – ARC083 – F, S R – ARC083 – U	https://storage.googleapis.com/fabmaster/media/images/ARC83.width-450.png – ARC083 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC83.width-450.png - ARC083 – U
 ARC084	ARC	Tome of the Arknight	3	1		2			S	Runeblade, Action	Go again				"Reveal the top 2 cards of your deck. If you reveal an attack action card and a 'non-attack' action card this way, put them into your hand.
 
@@ -838,7 +837,7 @@ ARC120	ARC	Forked Lightning	1	3		3			S	Wizard, Action					"Deal 2 arcane damage 
 
 Deal 2 arcane damage to target hero.
 
-*(Effects that modify damage, modify both damage effects of Forked Lightning. Forked Lightning is considered a single source of damage.)*"		Wizard Action					S R – ARC120 – F, S R – ARC120 – U	https://storage.googleapis.com/fabmaster/media/images/ARC120.width-450.png – ARC120 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC120.width-450.png - ARC120 – U
+*(Effects that modify damage modify both damage effects of Forked Lightning. Forked Lightning is considered a single source of damage.)*"		Wizard Action					S R – ARC120 – F, S R – ARC120 – U	https://storage.googleapis.com/fabmaster/media/images/ARC120.width-450.png – ARC120 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC120.width-450.png - ARC120 – U
 ARC121	ARC	Lesson in Lava	2	1		3			S	Wizard, Action	Kano Specialization				"**Kano Specialization** *(You may only have Lesson in Lava in your deck if your hero is Kano.)*
 
 Deal 3 arcane damage to target opposing hero.
@@ -904,15 +903,16 @@ ARC155	ARC	Nullrune Hood				0			C	Generic, Equipment, Head	Arcane Barrier 1				*
 ARC156	ARC	Nullrune Robe				0			C	Generic, Equipment, Chest	Arcane Barrier 1				**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*		Generic Equipment – Chest					S C – ARC156 – F, S R – ARC156 – U	https://storage.googleapis.com/fabmaster/media/images/ARC156.width-450.png – ARC156 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC156.width-450.png - ARC156 – U
 ARC157	ARC	Nullrune Gloves				0			C	Generic, Equipment, Arms	Arcane Barrier 1				**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*		Generic Equipment – Arms					S C – ARC157 – F, S R – ARC157 – U	https://storage.googleapis.com/fabmaster/media/images/ARC157.width-450.png – ARC157 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC157.width-450.png - ARC157 – U
 ARC158	ARC	Nullrune Boots				0			C	Generic, Equipment, Legs	Arcane Barrier 1				**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*		Generic Equipment – Legs					S C – ARC158 – F, S R – ARC158 – U	https://storage.googleapis.com/fabmaster/media/images/ARC158.width-450.png – ARC158 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC158.width-450.png - ARC158 – U
-ARC159	ARC	Command and Conquer	1	2	6	3			M	Generic, Action, Attack					"Defense reactions can’t be played to Command and Conquer’s chain link.
+ARC159	ARC	Command and Conquer	1	2	6	3			M	Generic, Action, Attack					"Defense reaction cards can’t be played to Command and Conquer’s chain link.
+
 If Command and Conquer hits a hero, destroy all cards in their arsenal."		Generic Action – Attack					S R – ARC159 – F, S R – ARC159 – U	https://storage.googleapis.com/fabmaster/media/images/ARC159.width-450.png – ARC159 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC159.width-450.png - ARC159 – U
 ARC160	ARC	Art of War	2	1					M	Generic, Instant					"Choose 2;
 
 - Attack action cards you control gain +1{p} and +1{d} this turn.
-- The next attack action card you play this turn, gains go again.
+- The next attack action card you play this turn, gains **go again.**
 - Until end of turn, you may defend with attack action cards from arsenal.
 - You may banish an attack action card from your hand. If you do, draw 2 cards."		Generic Instant					S R – ARC160 – F, S R – ARC160 – U	https://storage.googleapis.com/fabmaster/media/images/ARC160.width-450.png – ARC160 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC160.width-450.png - ARC160 – U
-ARC161	ARC	Pursuit of Knowledge	3	2	4	2			S	Generic, Action, Attack					If Pursuit of Knowledge hits, your hero gains +1 {i} until end of turn.		Generic Action – Attack					S R – ARC161 – F, S R – ARC161 – U	https://storage.googleapis.com/fabmaster/media/images/ARC161.width-450.png – ARC161 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC161.width-450.png - ARC161 – U
+ARC161	ARC	Pursuit of Knowledge	3	2	4	2			S	Generic, Action, Attack					If Pursuit of Knowledge hits, your hero gains +1{i} until end of turn.		Generic Action – Attack					S R – ARC161 – F, S R – ARC161 – U	https://storage.googleapis.com/fabmaster/media/images/ARC161.width-450.png – ARC161 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC161.width-450.png - ARC161 – U
 ARC162	ARC	Chains of Eminence	1	0		2			S	Generic, Action, Aura	Go again				"**Go again**
 
 When Chains of Eminence enters the arena, name a card. The named card can't be pitched, played or used to defend while Chains of Eminence is in the arena.
@@ -921,32 +921,26 @@ At the beginning of your action phase, destroy Chains of Eminence"		Generic Acti
 ARC163	ARC	Rusted Relic	3	0					S	Generic, Action, Item	Arcane Barrier 1				**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*		Generic Action – Item					S R – ARC163 – F, S R – ARC163 – U	https://storage.googleapis.com/fabmaster/media/images/ARC163.width-450.png – ARC163 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC163.width-450.png - ARC163 – U
 ARC164	ARC	Life for a Life	1	1	4	2			R	Generic, Action, Attack	Go again				"If Life for a Life hits, gain 1{h}.
 
-When you play Life for a Life, if you have less {h} than your opponent, it gains *go again.*"	“And when I drain the very last drop of blood from your veins, when you struggle to draw breath into your failing lungs… It still won’t be enough.” - Ateia	Generic Action – Attack					S R – ARC164 – F, S R – ARC164 – U	https://storage.googleapis.com/fabmaster/media/images/ARC164.width-450.png – ARC164 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC164.width-450.png - ARC164 – U
+When you play Life for a Life, if you have less {h} than an opposing hero, it gains **go again.**"	“And when I drain the very last drop of blood from your veins, when you struggle to draw breath into your failing lungs… It still won’t be enough.” - Ateia	Generic Action – Attack					S R – ARC164 – F, S R – ARC164 – U	https://storage.googleapis.com/fabmaster/media/images/ARC164.width-450.png – ARC164 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC164.width-450.png - ARC164 – U
 ARC165	ARC	Life for a Life	2	1	3	2			R	Generic, Action, Attack	Go again				"If Life for a Life hits, gain 1{h}.
 
-When you play Life for a Life, if you have less {h} than your opponent, it gains *go again.*"	“And when I drain the very last drop of blood from your veins, when you struggle to draw breath into your failing lungs… It still won’t be enough.” - Ateia	Generic Action – Attack					S R – ARC165 – F, S R – ARC165 – U	https://storage.googleapis.com/fabmaster/media/images/ARC165.width-450.png – ARC165 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC165.width-450.png - ARC165 – U
+When you play Life for a Life, if you have less {h} than an opposing hero, it gains **go again.**"	“And when I drain the very last drop of blood from your veins, when you struggle to draw breath into your failing lungs… It still won’t be enough.” - Ateia	Generic Action – Attack					S R – ARC165 – F, S R – ARC165 – U	https://storage.googleapis.com/fabmaster/media/images/ARC165.width-450.png – ARC165 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC165.width-450.png - ARC165 – U
 ARC166	ARC	Life for a Life	3	1	2	2			R	Generic, Action, Attack	Go again				"If Life for a Life hits, gain 1{h}.
 
-When you play Life for a Life, if you have less {h} than your opponent, it gains *go again.*"	“And when I drain the very last drop of blood from your veins, when you struggle to draw breath into your failing lungs… It still won’t be enough.” - Ateia	Generic Action – Attack					S R – ARC166 – F, S R – ARC166 – U	https://storage.googleapis.com/fabmaster/media/images/ARC166.width-450.png – ARC166 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC166.width-450.png - ARC166 – U
-ARC167	ARC	Enchanting Melody	1	2		2			R	Generic, Action, Aura	Go again				"*(Aura's stay in the arena until they are destroyed.)*
+When you play Life for a Life, if you have less {h} than an opposing hero, it gains **go again.**"	“And when I drain the very last drop of blood from your veins, when you struggle to draw breath into your failing lungs… It still won’t be enough.” - Ateia	Generic Action – Attack					S R – ARC166 – F, S R – ARC166 – U	https://storage.googleapis.com/fabmaster/media/images/ARC166.width-450.png – ARC166 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC166.width-450.png - ARC166 – U
+ARC167	ARC	Enchanting Melody	1	2		2			R	Generic, Action, Aura	Go again				"**Go again**
 
-**Go again**
-
-If you would be dealt damage, instead destroy Enchanting Melody and prevent 4 of that damage.
+If your hero would be dealt damage, instead destroy Enchanting Melody and prevent 4 of that damage.
 
 At the beginning of your end phase, destroy Enchanting Melody unless you have played a 'non-attack' action card this turn."		Generic Action – Aura					S R – ARC167 – F, S R – ARC167 – U	https://storage.googleapis.com/fabmaster/media/images/ARC167.width-450.png – ARC167 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC167.width-450.png - ARC167 – U
-ARC168	ARC	Enchanting Melody	2	2		2			R	Generic, Action, Aura	Go again				"*(Aura's stay in the arena until they are destroyed.)*
+ARC168	ARC	Enchanting Melody	2	2		2			R	Generic, Action, Aura	Go again				"**Go again**
 
-**Go again**
-
-If you would be dealt damage, instead destroy Enchanting Melody and prevent 3 of that damage.
+If your hero would be dealt damage, instead destroy Enchanting Melody and prevent 3 of that damage.
 
 At the beginning of your end phase, destroy Enchanting Melody unless you have played a 'non-attack' action card this turn."		Generic Action – Aura					S R – ARC168 – F, S R – ARC168 – U	https://storage.googleapis.com/fabmaster/media/images/ARC168.width-450.png – ARC168 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC168.width-450.png - ARC168 – U
-ARC169	ARC	Enchanting Melody	3	2		2			R	Generic, Action, Aura	Go again				"*(Aura's stay in the arena until they are destroyed.)*
+ARC169	ARC	Enchanting Melody	3	2		2			R	Generic, Action, Aura	Go again				"**Go again**
 
-**Go again**
-
-If you would be dealt damage, instead destroy Enchanting Melody and prevent 2 of that damage.
+If your hero would be dealt damage, instead destroy Enchanting Melody and prevent 2 of that damage.
 
 At the beginning of your end phase, destroy Enchanting Melody unless you have played a 'non-attack' action card this turn."		Generic Action – Aura					S R – ARC169 – F, S R – ARC169 – U	https://storage.googleapis.com/fabmaster/media/images/ARC169.width-450.png – ARC169 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC169.width-450.png - ARC169 – U
 ARC170	ARC	Plunder Run	1	0		2			R	Generic, Action	Go again				"The next time an attack action card you control hits this turn, draw a card.
@@ -964,9 +958,9 @@ ARC172	ARC	Plunder Run	3	0		2			R	Generic, Action	Go again				"The next time an 
 If Plunder Run is played from arsenal, the next attack action card you play this turn gains +1{p}.
 
 **Go again**"		Generic Action				No	S R – ARC172 – F, S R – ARC172 – U	https://storage.googleapis.com/fabmaster/media/images/ARC172.width-450.png – ARC172 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC172.width-450.png - ARC172 – U
-ARC173	ARC	Eirina’s Prayer	1	1					R	Generic, Instant					Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to you this turn, where X is 6 minus the pitch value of the card revealed this way. *(The pitch value is located in the top left corner of the card.)*		Generic Instant					S R – ARC173 – F, S R – ARC173 – U	https://storage.googleapis.com/fabmaster/media/images/ARC173.width-450.png – ARC173 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC173.width-450.png - ARC173 – U
-ARC174	ARC	Eirina’s Prayer	2	1					R	Generic, Instant					Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to you this turn, where X is 5 minus the pitch value of the card revealed this way. *(The pitch value is located in the top left corner of the card.)*		Generic Instant					S R – ARC174 – F, S R – ARC174 – U	https://storage.googleapis.com/fabmaster/media/images/ARC174.width-450.png – ARC174 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC174.width-450.png - ARC174 – U
-ARC175	ARC	Eirina’s Prayer	3	1					R	Generic, Instant					Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to you this turn, where X is 4 minus the pitch value of the card revealed this way. *(The pitch value is located in the top left corner of the card.)*		Generic Instant					S R – ARC175 – F, S R – ARC175 – U	https://storage.googleapis.com/fabmaster/media/images/ARC175.width-450.png – ARC175 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC175.width-450.png - ARC175 – U
+ARC173	ARC	Eirina’s Prayer	1	1					R	Generic, Instant					Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to your hero this turn, where X is 6 minus the pitch value of the card revealed this way. *(The pitch value is located in the top left corner of the card.)*		Generic Instant					S R – ARC173 – F, S R – ARC173 – U	https://storage.googleapis.com/fabmaster/media/images/ARC173.width-450.png – ARC173 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC173.width-450.png - ARC173 – U
+ARC174	ARC	Eirina’s Prayer	2	1					R	Generic, Instant					Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to your hero this turn, where X is 5 minus the pitch value of the card revealed this way. *(The pitch value is located in the top left corner of the card.)*		Generic Instant					S R – ARC174 – F, S R – ARC174 – U	https://storage.googleapis.com/fabmaster/media/images/ARC174.width-450.png – ARC174 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC174.width-450.png - ARC174 – U
+ARC175	ARC	Eirina’s Prayer	3	1					R	Generic, Instant					Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to your hero this turn, where X is 4 minus the pitch value of the card revealed this way. *(The pitch value is located in the top left corner of the card.)*		Generic Instant					S R – ARC175 – F, S R – ARC175 – U	https://storage.googleapis.com/fabmaster/media/images/ARC175.width-450.png – ARC175 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC175.width-450.png - ARC175 – U
 ARC176	ARC	Back Alley Breakline	1	1	5	2			C	Generic, Action, Attack					If an activated ability or action card effect puts Back Alley Breakline face up into a zone from your deck, gain 1 action point.	“This is going to hurt your wallet more than your arm.” - Doctor Mortimer, ‘The Fixer’	Generic Action – Attack					S R – ARC176 – F, S R – ARC176 – U	https://storage.googleapis.com/fabmaster/media/images/ARC176.width-450.png – ARC176 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC176.width-450.png - ARC176 – U
 ARC177	ARC	Back Alley Breakline	2	1	4	2			C	Generic, Action, Attack					If an activated ability or action card effect puts Back Alley Breakline face up into a zone from your deck, gain 1 action point.	“This is going to hurt your wallet more than your arm.” - Doctor Mortimer, ‘The Fixer’	Generic Action – Attack					S R – ARC177 – F, S R – ARC177 – U	https://storage.googleapis.com/fabmaster/media/images/ARC177.width-450.png – ARC177 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC177.width-450.png - ARC177 – U
 ARC178	ARC	Back Alley Breakline	3	1	3	2			C	Generic, Action, Attack					If an activated ability or action card effect puts Back Alley Breakline face up into a zone from your deck, gain 1 action point.	“This is going to hurt your wallet more than your arm.” - Doctor Mortimer, ‘The Fixer’	Generic Action – Attack					S R – ARC178 – F, S R – ARC178 – U	https://storage.googleapis.com/fabmaster/media/images/ARC178.width-450.png – ARC178 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC178.width-450.png - ARC178 – U
@@ -1065,7 +1059,7 @@ ARC217	ARC	Whisper of the Oracle	3	0		3			C	Generic, Action	Opt 2, Go again				"
 **Go again**"	Breath turns to mist, mist to aether; in her hands, a glimpse of fate.	Generic Action					S R – ARC217 – F, S R – ARC217 – U	https://storage.googleapis.com/fabmaster/media/images/ARC217.width-450.png – ARC217 – F, https://storage.googleapis.com/fabmaster/media/images/U-ARC217.width-450.png - ARC217 – U
 CRU000	CRU	Arknight Shard	3						F	Runeblade, Resource, Gem	Legendary, Viserai Specialization				"**Legendary Viserai Specialization** *(You may only have 1 Arknight Shard in your deck, and only if your hero is Viserai.)*
 
-When you pitch Arknight Shard, create a Runechant token."		Runeblade Resource – Gem					C – CRU000 – F, R – CRU000 – U	https://storage.googleapis.com/fabmaster/media/images/CRU1.width-450.png – CRU000 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU000.width-450.png – CRU000 – U
+When you pitch Arknight Shard, create a Runechant token."		Runeblade Resource – Gem					C – CRU000 – F, R – CRU000 – U	https://storage.googleapis.com/fabmaster/media/images/CRU0.width-450.png – CRU000 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU000.width-450.png – CRU000 – U
 CRU002	CRU	Kayo, Berserker Runt					19	4	R	Brute, Hero, Young					"Whenever you play an attack action card with base power 6 or more {p}, roll a 6 sided die. On;
 
 1-4 - Halve the attack's base {p}, rounded down.
@@ -1078,7 +1072,7 @@ CRU006	CRU	Skullhorn				0			M	Brute, Equipment, Head	Arcane Barrier 2	Action	Go 
 
 **Arcane Barrier 2** *(If your hero would be dealt arcane damage, you may pay {r}{r} instead. If you do, prevent 2 arcane damage that source would deal.)*"		Brute Equipment – Head					S R – CRU006 – F, S R – CRU006 – U	https://storage.googleapis.com/fabmaster/media/images/CRU6.width-450.png – CRU006 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU006.width-450.png - CRU006 – U
 CRU007	CRU	Beast Within	2	3	6	3			M	Brute, Action, Attack					If Beast Within is put into a graveyard from anywhere other than the combat chain, banish the top card of your deck and lose 1{h}. If it has 6 or more {p}, put it into your hand, otherwise, repeat this process.		Brute Action – Attack					S R – CRU007 – F, S R – CRU007 – U	https://storage.googleapis.com/fabmaster/media/images/CRU7.width-450.png – CRU007 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU007.width-450.png - CRU007 – U
-CRU008	CRU	Massacre	1	3	6	3			M	Brute, Action, Attack	Intimidate			Intimidate	"If you have discarded a card with 6 or more {p} this turn, Massacre gains +2{p} and **intimidate.**
+CRU008	CRU	Massacre	1	3	6	3			M	Brute, Action, Attack	Intimidate			Intimidate	"When you attack with Massacre, if you have discarded a card with 6 or more {p} this turn, Massacre gains +2{p} and **intimidate.**
 
 If Massacre is discarded to pay the cost of a Brute attack action card, the attack gains **intimidate.**"		Brute Action – Attack					S R – CRU008 – F, S R – CRU008 – U	https://storage.googleapis.com/fabmaster/media/images/CRU8.width-450.png – CRU008 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU008.width-450.png - CRU008 – U
 CRU009	CRU	Argh… Smash!	2	3		3			M	Brute, Action, Attack	Go again				"Roll a 6 sided die. Destroy up to X items, where X is half the number rolled, rounded down.
@@ -1143,17 +1137,15 @@ At the beginning of your action phase, destroy Emerging Dominance then the next 
 CRU040	CRU	Emerging Dominance	3	2		3			C	Guardian, Action, Aura				Dominate	"*(Auras stay in the arena until they are destroyed.)*
 
 At the beginning of your action phase, destroy Emerging Dominance then the next Guardian attack action card you play this turn gains +1{p} and **dominate.** *(The defending hero can't defend the attack with more than 1 card from their hand.)*"		Guardian Action – Aura					S R – CRU040 – F, S R – CRU040 – U	https://storage.googleapis.com/fabmaster/media/images/CRU40.width-450.png – CRU040 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU040.width-450.png - CRU040 – U
-CRU041	CRU	Blessing of Serenity	1	0					C	Guardian, Instant					The next time you would be dealt {p} damage this turn, prevent 3 damage that source would deal.		Guardian Instant					S R – CRU041 – F, S R – CRU041 – U	https://storage.googleapis.com/fabmaster/media/images/CRU41.width-450.png – CRU041 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU041.width-450.png - CRU041 – U
-CRU042	CRU	Blessing of Serenity	2	0					C	Guardian, Instant					The next time you would be dealt {p} damage this turn, prevent 2 damage that source would deal.		Guardian Instant					S R – CRU042 – F, S R – CRU042 – U	https://storage.googleapis.com/fabmaster/media/images/CRU42.width-450.png – CRU042 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU042.width-450.png - CRU042 – U
-CRU043	CRU	Blessing of Serenity	3	0					C	Guardian, Instant					The next time you would be dealt {p} damage this turn, prevent 1 damage that source would deal.		Guardian Instant					S R – CRU043 – F, S R – CRU043 – U	https://storage.googleapis.com/fabmaster/media/images/CRU43.width-450.png – CRU043 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU043.width-450.png - CRU043 – U
+CRU041	CRU	Blessing of Serenity	1	0					C	Guardian, Instant					The next time your hero would be dealt {p} damage this turn, prevent 3 damage that source would deal.		Guardian Instant					S R – CRU041 – F, S R – CRU041 – U	https://storage.googleapis.com/fabmaster/media/images/CRU41.width-450.png – CRU041 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU041.width-450.png - CRU041 – U
+CRU042	CRU	Blessing of Serenity	2	0					C	Guardian, Instant					The next time your hero would be dealt {p} damage this turn, prevent 2 damage that source would deal.		Guardian Instant					S R – CRU042 – F, S R – CRU042 – U	https://storage.googleapis.com/fabmaster/media/images/CRU42.width-450.png – CRU042 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU042.width-450.png - CRU042 – U
+CRU043	CRU	Blessing of Serenity	3	0					C	Guardian, Instant					The next time your hero would be dealt {p} damage this turn, prevent 1 damage that source would deal.		Guardian Instant					S R – CRU043 – F, S R – CRU043 – U	https://storage.googleapis.com/fabmaster/media/images/CRU43.width-450.png – CRU043 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU043.width-450.png - CRU043 – U
 CRU046	CRU	Ira, Crimson Haze					20	4	C	Ninja, Hero, Young					Your second attack each turn gains +1{p}		Ninja Hero – Young					S R – CRU046 – F, S R – CRU046 – U	https://storage.googleapis.com/fabmaster/media/images/CRU46.width-450.png – CRU046 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU046.width-450.png - CRU046 – U
 CRU047	CRU	Benji, the Piercing Wind					17	4	R	Ninja, Hero, Young		Once per Turn Effect			"Attack action cards you control with 2 or less {p} can't be defended by cards from hand.
 
 **Once per Turn Effect** - When an attack action card you control hits, your next attack this turn gains +1{p}."		Ninja Hero – Young					S R – CRU047 – F, S R – CRU047 – U	https://storage.googleapis.com/fabmaster/media/images/CRU47.width-450.png – CRU047 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU047.width-450.png - CRU047 – U
 CRU050	CRU	Edge of Autumn			1				R	Ninja, Weapon, Sword, 2H		Once per Turn Action	Attack, Go again		**Once per Turn Action** - {r}: **Attack. Go again**		Ninja Weapon – Sword (2H)					S C – CRU050 – F, S R – CRU050 – U	https://storage.googleapis.com/fabmaster/media/images/CRU50.width-450.png – CRU050 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU050.width-450.png - CRU050 – U
-CRU051, CRU052	CRU, CRU	Zephyr Needle			2				R, R	Ninja, Weapon, Dagger, 1H		Once per Turn Attack	Attack, Go again		"**Once per Turn Attack** - {r}: **Attack**
-
-**Go again**
+CRU051, CRU052	CRU, CRU	Zephyr Needle			2				R, R	Ninja, Weapon, Dagger, 1H		Once per Turn Attack	Attack, Go again		"**Once per Turn Attack** - {r}: **Attack. Go again**
 
 If Zephyr Needle is defended by a card with {d} greater than Zephyr Needle's {p}, destroy Zephyr Needle when the combat chain closes."		Ninja Weapon – Dagger (1H)					S C – CRU051 – F, S R – CRU051 – U, S C – CRU052 – F, S R – CRU052 – U	https://storage.googleapis.com/fabmaster/media/images/CRU51.width-450.png – CRU051 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU051.width-450.png - CRU051 – U, https://storage.googleapis.com/fabmaster/media/images/CRU52.width-450.png – CRU052 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU052.width-450.png - CRU052 – U
 CRU053	CRU	Breeze Rider Boots				1			M	Ninja, Equipment, Legs	Battleworn			Go again	"When a Ninja attack action card you control hits, you may destroy Breeze Rider Boots. If you do, attack action cards with **combo** gain **go again** this turn.
@@ -1161,7 +1153,10 @@ CRU053	CRU	Breeze Rider Boots				1			M	Ninja, Equipment, Legs	Battleworn			Go ag
 **Battleworn** *(If you defend with Breeze Rider Boots, put a -1{d} counter on it when the combat chain closes.)*"		Ninja Equipment – Legs					S C – CRU053 – F, S R – CRU053 – U	https://storage.googleapis.com/fabmaster/media/images/CRU53.width-450.png – CRU053 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU053.width-450.png - CRU053 – U
 CRU054	CRU	Find Center	3	0	2	3			M	Ninja, Action, Attack	Combo				"**Combo** - If Crane Dance was the last attack this combat chain, Find Center can't be defended by cards with {r} cost less than the number of chain links you control, and it gains ""If this hits, create a Zen State token."""	From your home, draws strength. From your family, take heart. From the mists, find peace.	Ninja Action – Attack					S R – CRU054 – F, S R – CRU054 – U	https://storage.googleapis.com/fabmaster/media/images/CRU54.width-450.png – CRU054 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU054.width-450.png - CRU054 – U
 CRU055	CRU	Flood of Force	2	0	1	3			M	Ninja, Action, Attack	Combo, Go again				**Combo** - If Rushing River or Flood of Force was the last attack this combat chain, reveal the top card of your deck. If it's a card with **combo,** put it into your hand then Flood of Force gains +3{p} and **go again.**	Every thunderstorm begins with a single drop of rain.	Ninja Action – Attack					S R – CRU055 – F, S R – CRU055 – U	https://storage.googleapis.com/fabmaster/media/images/CRU55.width-450.png – CRU055 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU055.width-450.png - CRU055 – U
-CRU056	CRU	Heron’s Flight	1	0	3	3			M	Ninja, Action, Attack	Combo				**Combo** - If Crane Dance was the last attack this combat chain, Heron's Flight gains +2{p} and you choose attack action or 'non-attack' action. Heron's Flight can only be defended by cards of the chosen type.		Ninja Action – Attack					S R – CRU056 – F, S R – CRU056 – U	https://storage.googleapis.com/fabmaster/media/images/CRU56.width-450.png – CRU056 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU056.width-450.png - CRU056 – U
+CRU056	CRU	Heron’s Flight	1	0	3	3			M	Ninja, Action, Attack	Combo				"**Combo** - If Crane Dance was the last attack this combat chain, when you attack with Heron's Flight, it gains +2{p} and you choose 1;
+
+- Heron’s flight can only be defended by attack action cards.
+- Heron’s flight can only be defended by ‘non-attack’ action cards."		Ninja Action – Attack					S R – CRU056 – F, S R – CRU056 – U	https://storage.googleapis.com/fabmaster/media/images/CRU56.width-450.png – CRU056 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU056.width-450.png - CRU056 – U
 CRU057	CRU	Crane Dance	1	0	3	3			R	Ninja, Action, Attack	Combo				**Combo** - If Soulbead Strike was the last attack this combat chain, Crane Dance gains +1{p}, go again, and it can't be defended by attack action cards with base {p} greater than the number of chain links you control.		Ninja Action – Attack					S R – CRU057 – F, S R – CRU057 – U	https://storage.googleapis.com/fabmaster/media/images/CRU57.width-450.png – CRU057 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU057.width-450.png - CRU057 – U
 CRU058	CRU	Crane Dance	2	0	2	3			R	Ninja, Action, Attack	Combo				**Combo** - If Soulbead Strike was the last attack this combat chain, Crane Dance gains +1{p}, go again, and it can't be defended by attack action cards with base {p} greater than the number of chain links you control.		Ninja Action – Attack					S R – CRU058 – F, S R – CRU058 – U	https://storage.googleapis.com/fabmaster/media/images/CRU58.width-450.png – CRU058 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU058.width-450.png - CRU058 – U
 CRU059	CRU	Crane Dance	3	0	1	3			R	Ninja, Action, Attack	Combo				**Combo** - If Soulbead Strike was the last attack this combat chain, Crane Dance gains +1{p}, go again, and it can't be defended by attack action cards with base {p} greater than the number of chain links you control.		Ninja Action – Attack					S R – CRU059 – F, S R – CRU059 – U	https://storage.googleapis.com/fabmaster/media/images/CRU59.width-450.png – CRU059 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU059.width-450.png - CRU059 – U
@@ -1194,7 +1189,7 @@ CRU077	CRU	Kassai, Cintari Sellsword					20	4	R	Warrior, Hero, Young					"Your s
 At the beginning of your end phase, if you've attacked 2 or more times with weapons this turn, create a Copper token for each weapon attack that hit. *(It's an item with ""**Action**- {r}{r}{r}{r}, destroy Copper: Draw a card. **Go again**"")*"		Warrior Hero – Young					S R – CRU077 – F, S R – CRU077 – U	https://storage.googleapis.com/fabmaster/media/images/CRU-77.width-450.png – CRU077 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU077.width-450.png - CRU077 – U
 CRU079, CRU080	CRU, CRU	Cintari Saber			2				R, R	Warrior, Weapon, Sword, 1H		Once per Turn Action	Attack		"**Once per Turn Action** - {r}: **Attack**
 
-If Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn."		Warrior Weapon – Sword (1H)					S C – CRU079 – F, S R – CRU079 – U, S C – CRU080 – F, S R – CRU080 – U	https://storage.googleapis.com/fabmaster/media/images/CRU79.width-450.png – CRU079 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU079.width-450.png - CRU079 – U, https://storage.googleapis.com/fabmaster/media/images/CRU80.width-450.png – CRU080 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU080.width-450.png - CRU080 – U
+When Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn."		Warrior Weapon – Sword (1H)					S C – CRU079 – F, S R – CRU079 – U, S C – CRU080 – F, S R – CRU080 – U	https://storage.googleapis.com/fabmaster/media/images/CRU79.width-450.png – CRU079 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU079.width-450.png - CRU079 – U, https://storage.googleapis.com/fabmaster/media/images/CRU80.width-450.png – CRU080 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU080.width-450.png - CRU080 – U
 CRU081	CRU	Courage of Bladehold				2			M	Warrior, Equipment, Chest	Temper	Action	Go again		"**Action** - Destroy Courage of Bladehold: Your sword attacks cost {r} less this turn. **Go again**
 
 **Temper** *(If you defend with Courage of Bladehold, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)*"		Warrior Equipment – Chest					S C – CRU081 – F, S R – CRU081 – U	https://storage.googleapis.com/fabmaster/media/images/CRU81.width-450.png – CRU081 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU081.width-450.png - CRU081 – U
@@ -1207,7 +1202,7 @@ CRU084	CRU	Spoils of War	1	1		3			M	Warrior, Action	Go again			Go again	"Your ne
 Whenever a weapon you control hits this turn, create 2 Copper tokens.
 
 **Go again**"		Warrior Action					S R – CRU084 – F, S R – CRU084 – U	https://storage.googleapis.com/fabmaster/media/images/CRU-84.width-450.png – CRU084 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU084.width-450.png - CRU084 – U
-CRU085	CRU	Dauntless	1	1		3			R	Warrior, Action	Go again				"Your next weapon attack this turn gains +1{p}.
+CRU085	CRU	Dauntless	1	1		3			R	Warrior, Action	Go again				"Your next weapon attack this turn gains +3{p}.
 
 The next defense reaction card the defending hero plays this turn costs an additional {r} to play.
 
@@ -1217,7 +1212,7 @@ CRU086	CRU	Dauntless	2	1		3			R	Warrior, Action	Go again				"Your next weapon at
 The next defense reaction card the defending hero plays this turn costs an additional {r} to play.
 
 **Go again**"		Warrior Action					S R – CRU086 – F, S R – CRU086 – U	https://storage.googleapis.com/fabmaster/media/images/CRU86.width-450.png – CRU086 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU086.width-450.png - CRU086 – U
-CRU087	CRU	Dauntless	3	1		3			R	Warrior, Action	Go again				"Your next weapon attack this turn gains +3{p}.
+CRU087	CRU	Dauntless	3	1		3			R	Warrior, Action	Go again				"Your next weapon attack this turn gains +1{p}.
 
 The next defense reaction card the defending hero plays this turn costs an additional {r} to play.
 
@@ -1231,17 +1226,17 @@ CRU089	CRU	Out for Blood	2	1		3			C	Warrior, Attack Reaction	Reprise				"Target 
 CRU090	CRU	Out for Blood	3	1		3			C	Warrior, Attack Reaction	Reprise				"Target weapon attack gains +1{p}.
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, your next attack this turn gains +1{p}."		Warrior Attack Reaction					S R – CRU090 – F, S R – CRU090 – U	https://storage.googleapis.com/fabmaster/media/images/CRU90.width-450.png – CRU090 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU090.width-450.png - CRU090 – U
-CRU091	CRU	Hit and Run	1	0		3			C	Warrior, Action	Go again			Go again	"Your next weapon attack this turn gains **go again.*
+CRU091	CRU	Hit and Run	1	0		3			C	Warrior, Action	Go again			Go again	"Your next weapon attack this turn gains **go again.**
 
 If you have attacked with a weapon this turn, your next attack this turn gains +3{p}.
 
 **Go again**"		Warrior Action					S R – CRU091 – F, S R – CRU091 – U	https://storage.googleapis.com/fabmaster/media/images/CRU91.width-450.png – CRU091 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU091.width-450.png - CRU091 – U
-CRU092	CRU	Hit and Run	2	0		3			C	Warrior, Action	Go again			Go again	"Your next weapon attack this turn gains **go again.*
+CRU092	CRU	Hit and Run	2	0		3			C	Warrior, Action	Go again			Go again	"Your next weapon attack this turn gains **go again.**
 
 If you have attacked with a weapon this turn, your next attack this turn gains +2{p}.
 
 **Go again**"		Warrior Action					S R – CRU092 – F, S R – CRU092 – U	https://storage.googleapis.com/fabmaster/media/images/CRU92.width-450.png – CRU092 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU092.width-450.png - CRU092 – U
-CRU093	CRU	Hit and Run	3	0		3			C	Warrior, Action	Go again			Go again	"Your next weapon attack this turn gains **go again.*
+CRU093	CRU	Hit and Run	3	0		3			C	Warrior, Action	Go again			Go again	"Your next weapon attack this turn gains **go again.**
 
 If you have attacked with a weapon this turn, your next attack this turn gains +1{p}.
 
@@ -1276,7 +1271,7 @@ CRU102	CRU	Viziertronic Model i				0			M	Mechanologist, Equipment, Head	Arcane B
 CRU103	CRU	Meganetic Shockwave	3	2	4	3			M	Mechanologist, Action, Attack					The defending hero must defend Meganetic Shockwave with X equipment they control, where X is the number of times you have **boosted** this combat chain.		Mechanologist Action – Attack					S R – CRU103 – F, S R – CRU103 – U	https://storage.googleapis.com/fabmaster/media/images/CRU103.width-450.png – CRU103 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU103.width-450.png - CRU103 – U
 CRU104	CRU	Absorption Dome	2	0					M	Mechanologist, Action, Item					"Absorption Dome enters the arena with steam counters on it equal to the number of times you have **boosted** this turn.
 
-If you would be dealt damage, remove that many steam counters from Absorption Dome instead, then prevent damage equal to the number of steam counters removed this way.
+If your hero would be dealt damage, remove that many steam counters from Absorption Dome instead, then prevent damage equal to the number of steam counters removed this way.
 
 When Absorption Dome has no steam counters on it, destroy it."		Mechanologist Action – Item					S R – CRU104 – F, S R – CRU104 – U	https://storage.googleapis.com/fabmaster/media/images/CRU104.width-450.png – CRU104 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU104.width-450.png - CRU104 – U
 CRU105	CRU	Plasma Purifier	1	2					M	Mechanologist, Action, Item		Action, Once per Turn Action	Go again		"**Action** - {r}: If there are no steam counters on Plasma Purifier, put a steam counter on it. **Go again**
@@ -1284,22 +1279,22 @@ CRU105	CRU	Plasma Purifier	1	2					M	Mechanologist, Action, Item		Action, Once p
 **Once per Turn Action** - Remove a steam counter from Plasma Purifier: Target Mechanologist pistol you control gains +1{p} until end of turn. **Go again**"		Mechanologist Action – Item					S R – CRU105 – F, S R – CRU105 – U	https://storage.googleapis.com/fabmaster/media/images/CRU105.width-450.png – CRU105 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU105.width-450.png - CRU105 – U
 CRU106	CRU	High Speed Impact	1	1	4	3			R	Mechanologist, Action, Attack	Boost			Dominate	"If High Speed Impact hits, the next attack you boost this combat chain gains **dominate.** *(The defending hero can't defend the attack with more than 1 card from their hand.)*
 
-**Boost** *(As an additional cost to play High Speed Impact, you may banish the top card of your deck. If it's a Mechanologist card, High Speed Impact gains **go again.**)*"		Mechanologist Action – Attack					S R – CRU106 – F, S R – CRU106 – U	https://storage.googleapis.com/fabmaster/media/images/CRU106.width-450.png – CRU106 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU106.width-450.png - CRU106 – U
+**Boost** *(As an additional cost to play High Speed Impact, you may banish the top card of your deck. If it's a Mechanologist card, High Speed Impact gains* ***go again***.*)*"		Mechanologist Action – Attack					S R – CRU106 – F, S R – CRU106 – U	https://storage.googleapis.com/fabmaster/media/images/CRU106.width-450.png – CRU106 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU106.width-450.png - CRU106 – U
 CRU107	CRU	High Speed Impact	2	1	3	3			R	Mechanologist, Action, Attack	Boost			Dominate	"If High Speed Impact hits, the next attack you boost this combat chain gains **dominate.** *(The defending hero can't defend the attack with more than 1 card from their hand.)*
 
-**Boost** *(As an additional cost to play High Speed Impact, you may banish the top card of your deck. If it's a Mechanologist card, High Speed Impact gains **go again.**)*"		Mechanologist Action – Attack					S R – CRU107 – F, S R – CRU107 – U	https://storage.googleapis.com/fabmaster/media/images/CRU107.width-450.png – CRU107 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU107.width-450.png - CRU107 – U
+**Boost** *(As an additional cost to play High Speed Impact, you may banish the top card of your deck. If it's a Mechanologist card, High Speed Impact gains* ***go again***.*)*"		Mechanologist Action – Attack					S R – CRU107 – F, S R – CRU107 – U	https://storage.googleapis.com/fabmaster/media/images/CRU107.width-450.png – CRU107 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU107.width-450.png - CRU107 – U
 CRU108	CRU	High Speed Impact	3	1	2	3			R	Mechanologist, Action, Attack	Boost			Dominate	"If High Speed Impact hits, the next attack you boost this combat chain gains **dominate.** *(The defending hero can't defend the attack with more than 1 card from their hand.)*
 
-**Boost** *(As an additional cost to play High Speed Impact, you may banish the top card of your deck. If it's a Mechanologist card, High Speed Impact gains **go again.**)*"		Mechanologist Action – Attack					S R – CRU108 – F, S R – CRU108 – U	https://storage.googleapis.com/fabmaster/media/images/CRU108.width-450.png – CRU108 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU108.width-450.png - CRU108 – U
+**Boost** *(As an additional cost to play High Speed Impact, you may banish the top card of your deck. If it's a Mechanologist card, High Speed Impact gains* ***go again***.*)*"		Mechanologist Action – Attack					S R – CRU108 – F, S R – CRU108 – U	https://storage.googleapis.com/fabmaster/media/images/CRU108.width-450.png – CRU108 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU108.width-450.png - CRU108 – U
 CRU109	CRU	Combustible Courier	1	2	4	3			C	Mechanologist, Action, Attack	Boost				"If Combustible Courier hits, the next attack you **boost** this combat chain gains +3{p}.
 
-**Boost** *(As an additional cost to play Combustible Courier, you may banish the top card of your deck. If it's a Mechanologist card, Combustible Courier gains **go again.**)*"		Mechanologist Action – Attack					S R – CRU109 – F, S R – CRU109 – U	https://storage.googleapis.com/fabmaster/media/images/CRU109.width-450.png – CRU109 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU109.width-450.png - CRU109 – U
+**Boost** *(As an additional cost to play Combustible Courier, you may banish the top card of your deck. If it's a Mechanologist card, Combustible Courier gains* **go again**.*)*"		Mechanologist Action – Attack					S R – CRU109 – F, S R – CRU109 – U	https://storage.googleapis.com/fabmaster/media/images/CRU109.width-450.png – CRU109 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU109.width-450.png - CRU109 – U
 CRU110	CRU	Combustible Courier	2	2	3	3			C	Mechanologist, Action, Attack	Boost				"If Combustible Courier hits, the next attack you **boost** this combat chain gains +3{p}.
 
-**Boost** *(As an additional cost to play Combustible Courier, you may banish the top card of your deck. If it's a Mechanologist card, Combustible Courier gains **go again.**)*"		Mechanologist Action – Attack					S R – CRU110 – F, S R – CRU110 – U	https://storage.googleapis.com/fabmaster/media/images/CRU110.width-450.png – CRU110 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU110.width-450.png - CRU110 – U
+**Boost** *(As an additional cost to play Combustible Courier, you may banish the top card of your deck. If it's a Mechanologist card, Combustible Courier gains* **go again**.*)*"		Mechanologist Action – Attack					S R – CRU110 – F, S R – CRU110 – U	https://storage.googleapis.com/fabmaster/media/images/CRU110.width-450.png – CRU110 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU110.width-450.png - CRU110 – U
 CRU111	CRU	Combustible Courier	3	2	2	3			C	Mechanologist, Action, Attack	Boost				"If Combustible Courier hits, the next attack you **boost** this combat chain gains +3{p}.
 
-**Boost** *(As an additional cost to play Combustible Courier, you may banish the top card of your deck. If it's a Mechanologist card, Combustible Courier gains **go again.**)*"		Mechanologist Action – Attack					S R – CRU111 – F, S R – CRU111 – U	https://storage.googleapis.com/fabmaster/media/images/CRU111.width-450.png – CRU111 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU111.width-450.png - CRU111 – U
+**Boost** *(As an additional cost to play Combustible Courier, you may banish the top card of your deck. If it's a Mechanologist card, Combustible Courier gains* **go again**.*)*"		Mechanologist Action – Attack					S R – CRU111 – F, S R – CRU111 – U	https://storage.googleapis.com/fabmaster/media/images/CRU111.width-450.png – CRU111 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU111.width-450.png - CRU111 – U
 CRU112	CRU	Overblast	1	2	5	3			C	Mechanologist, Action, Attack					Overblast gains +X{p}, where X is the number of times you have **boosted** this combat chain.		Mechanologist Action – Attack					S R – CRU112 – F, S R – CRU112 – U	https://storage.googleapis.com/fabmaster/media/images/CRU112.width-450.png – CRU112 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU112.width-450.png - CRU112 – U
 CRU113	CRU	Overblast	2	2	4	3			C	Mechanologist, Action, Attack					Overblast gains +X{p}, where X is the number of times you have **boosted** this combat chain.		Mechanologist Action – Attack					S R – CRU113 – F, S R – CRU113 – U	https://storage.googleapis.com/fabmaster/media/images/CRU113.width-450.png – CRU113 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU113.width-450.png - CRU113 – U
 CRU114	CRU	Overblast	3	2	3	3			C	Mechanologist, Action, Attack					Overblast gains +X{p}, where X is the number of times you have **boosted** this combat chain.		Mechanologist Action – Attack					S R – CRU114 – F, S R – CRU114 – U	https://storage.googleapis.com/fabmaster/media/images/CRU114.width-450.png – CRU114 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU114.width-450.png - CRU114 – U
@@ -1312,7 +1307,7 @@ Reveal the top card of your deck. If it’s a Mechanlogist item card with cost 1
 CRU117	CRU	Teklovossen’s Workshop	3	0		3			C	Mechanologist, Action	Opt X				"**Opt X**, where X is the number of times you have **boosted** this turn. *(Look at the top X cards of your deck. You may put them on the top and/or bottom in any order.)*
 
 Reveal the top card of your deck. If it’s a Mechanlogist item card with cost 0 or less, put it into the arena."		Mechanologist Action					S R – CRU117 – F, S R – CRU117 – U	https://storage.googleapis.com/fabmaster/media/images/CRU117.width-450.png – CRU117 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU117.width-450.png - CRU117 – U
-CRU118	CRU	Kavdaen, Trader of Skins							R	Merchant, Hero, Young		Once per Turn Action	Go again		"**Once per Turn Action** - {r}{r}{r}: If a hero has more {h} than any other hero, they lose 1{h} and create a Copper token. Then if a hero has less {h} than any other hero, they gain 1{h}. **Go again** (It's an item with ""**Action**- {r}{r}{r}{r}, destroy Copper: Draw a card. **Go again**"")"		Merchant Hero – Young					S R – CRU118 – F, S R – CRU118 – U	https://storage.googleapis.com/fabmaster/media/images/CRU118.width-450.png – CRU118 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU118.width-450.png - CRU118 – U
+CRU118	CRU	Kavdaen, Trader of Skins							R	Merchant, Hero, Young		Once per Turn Action	Go again		"**Once per Turn Action** - {r}{r}{r}: If a hero has more {h} than all other hero’s, they lose 1{h} and create a Copper token. Then if a hero has less {h} than all other hero’s, they gain 1{h}. **Go again** *(It's an item with ""***Action*** - {r}{r}{r}{r}, destroy Copper: Draw a card. ***Go again***"")*"		Merchant Hero – Young					S R – CRU118 – F, S R – CRU118 – U	https://storage.googleapis.com/fabmaster/media/images/CRU118.width-450.png – CRU118 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU118.width-450.png - CRU118 – U
 CRU121	CRU	Red Liner							R	Ranger, Weapon, Bow, 2H		Once per Turn Action	Go again		**Once per Turn Action** - 0: If you have no cards in your arsenal, put an arrow card from your hand face up into your arsenal. **Go again**		Ranger Weapon – Bow (2H)					S C – CRU121 – F, S R – CRU121 – U	https://storage.googleapis.com/fabmaster/media/images/CRU121.width-450.png – CRU121 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU121.width-450.png - CRU121 – U
 CRU122	CRU	Perch Grapplers				2			M	Ranger, Equipment, Legs	Blade Break	Action	Go again	Go again	"**Action** - {r}{r}, destroy Perch Grapplers: Until end of turn, face up arrow cards played from arsenal gain go again. **Go again**
 
@@ -1329,9 +1324,9 @@ CRU124	CRU	Poison the Tips	2	0		2			M	Ranger, Action	Reload, Go again				"Until 
 **Reload** *(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)*
 
 **Go again**"		Ranger Action					S R – CRU124 – F, S R – CRU124 – U	https://storage.googleapis.com/fabmaster/media/images/CRU124.width-450.png – CRU124 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU124.width-450.png - CRU124 – U
-CRU125	CRU	Feign Death	2	1					M	Ranger, Instant					"Play Feign Death only if you have been dealt damage this turn.
+CRU125	CRU	Feign Death	2	1					M	Ranger, Instant					"Play Feign Death only if your hero has been dealt damage this turn.
 
-The next time you would be dealt damage this turn, prevent it."		Ranger Instant					S R – CRU125 – F, S R – CRU125 – U	https://storage.googleapis.com/fabmaster/media/images/CRU125.width-450.png – CRU125 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU125.width-450.png - CRU125 – U
+The next time your hero would be dealt damage this turn, prevent it."		Ranger Instant					S R – CRU125 – F, S R – CRU125 – U	https://storage.googleapis.com/fabmaster/media/images/CRU125.width-450.png – CRU125 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU125.width-450.png - CRU125 – U
 CRU126	CRU	Tripwire Trap	1	0		4			R	Ranger, Defense Reaction, Trap					"*(Traps can only be played from arsenal.)*
 
 Hit effects don't trigger this chain link unless the attacking hero pays {r}. *(The attacking hero chooses whether to pay {r} as Pitfall Trap resolves.)*"	“A crossbow bolt ‘aint gonna make a dent in that thing.” - Spokes	Ranger Defense Reaction – Trap					S R – CRU126 – F, S R – CRU126 – U	https://storage.googleapis.com/fabmaster/media/images/CRU126.width-450.png – CRU126 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU126.width-450.png - CRU126 – U
@@ -1374,9 +1369,9 @@ If a hero has more {h} than any other hero, they can't gain {h}."		Runeblade Wea
 CRU141	CRU	Bloodsheath Skeleta				2			M	Runeblade, Equipment, Chest	Temper	Instant			"**Instant** - Destroy Bloodsheath Skeleta: The next attack action card and 'non-attack' action card you play this turn gain ""This card costs {r} less to play for each Runechant you control.""
 
 **Temper** *(If you defend with Bloodsheath Skeleta, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)*"		Runeblade Equipment – Chest					S C – CRU141 – F, S R – CRU141 – U	https://storage.googleapis.com/fabmaster/media/images/CRU141.width-450.png – CRU141 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU141.width-450.png - CRU141 – U
-CRU142	CRU	Dread Triptych	3	3	4	3			M	Runeblade, Action, Attack					"If you've played a 'non-attack' action card this turn, create a Runechant token.
+CRU142	CRU	Dread Triptych	3	3	4	3			M	Runeblade, Action, Attack					"When you attack with Dread Triptych, if you've played a 'non-attack' action card this turn, create a Runechant token.
 
-If you've dealt arcane damage this turn, create a Runechant token.
+When you attack with Dread Triptych, if you've dealt arcane damage this turn, create a Runechant token.
 
 If Dread Triptych hits, create a Runechant token."		Runeblade Action – Attack					S R – CRU142 – F, S R – CRU142 – U	https://storage.googleapis.com/fabmaster/media/images/CRU142.width-450.png – CRU142 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU142.width-450.png - CRU142 – U
 CRU143	CRU	Rattle Bones	1	2		3			M	Runeblade, Action	Go again				"Banish target Runeblade attack action card from your graveyard. You may play it this turn.
@@ -1391,25 +1386,25 @@ If your hero would be dealt damage, instead destroy that many Runechants you con
 At the beginning of your action phase, destroy Runeblood Barrier."		Runeblade Action – Aura					S R – CRU144 – F, S R – CRU144 – U	https://storage.googleapis.com/fabmaster/media/images/CRU144.width-450.png – CRU144 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU144.width-450.png - CRU144 – U
 CRU145	CRU	Mauvrion Skies	1	0		2			R	Runeblade, Action	Go again			Go again	"The next runeblade attack action card you play this turn gains **go again** and “If this hits, create 3 Runechant tokens.” *(They're auras with ""When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero."")*
 
-** Go again**"		Runeblade Action					S R – CRU145 – F, S R – CRU145 – U	https://storage.googleapis.com/fabmaster/media/images/CRU145.width-450.png – CRU145 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU145.width-450.png - CRU145 – U
+**Go again**"		Runeblade Action					S R – CRU145 – F, S R – CRU145 – U	https://storage.googleapis.com/fabmaster/media/images/CRU145.width-450.png – CRU145 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU145.width-450.png - CRU145 – U
 CRU146	CRU	Mauvrion Skies	2	0		2			R	Runeblade, Action	Go again			Go again	"The next runeblade attack action card you play this turn gains **go again** and “If this hits, create 2 Runechant tokens.” *(They're auras with ""When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero."")*
 
-** Go again**"		Runeblade Action					S R – CRU146 – F, S R – CRU146 – U	https://storage.googleapis.com/fabmaster/media/images/CRU146.width-450.png – CRU146 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU146.width-450.png - CRU146 – U
+**Go again**"		Runeblade Action					S R – CRU146 – F, S R – CRU146 – U	https://storage.googleapis.com/fabmaster/media/images/CRU146.width-450.png – CRU146 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU146.width-450.png - CRU146 – U
 CRU147	CRU	Mauvrion Skies	3	0		2			R	Runeblade, Action	Go again			Go again	"The next runeblade attack action card you play this turn gains **go again** and “If this hits, create a Runechant token.” *(It’s an auras with ""When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero."")*
 
-** Go again**"		Runeblade Action					S R – CRU147 – F, S R – CRU147 – U	https://storage.googleapis.com/fabmaster/media/images/CRU147.width-450.png – CRU147 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU147.width-450.png - CRU147 – U
+**Go again**"		Runeblade Action					S R – CRU147 – F, S R – CRU147 – U	https://storage.googleapis.com/fabmaster/media/images/CRU147.width-450.png – CRU147 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU147.width-450.png - CRU147 – U
 CRU148	CRU	Consuming Volition	1	1	4	3			C	Runeblade, Action, Attack					"If you have dealt arcane damage this turn, Consuming Volition gains ""If this hits a hero, they discard a card."""	The tongue is the only weapon that grows sharper with use.	Runeblade Action – Attack					S R – CRU148 – F, S R – CRU148 – U	https://storage.googleapis.com/fabmaster/media/images/CRU148.width-450.png – CRU148 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU148.width-450.png - CRU148 – U
 CRU149	CRU	Consuming Volition	2	1	3	3			C	Runeblade, Action, Attack					"If you have dealt arcane damage this turn, Consuming Volition gains ""If this hits a hero, they discard a card."""	The tongue is the only weapon that grows sharper with use.	Runeblade Action – Attack					S R – CRU149 – F, S R – CRU149 – U	https://storage.googleapis.com/fabmaster/media/images/CRU149.width-450.png – CRU149 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU149.width-450.png - CRU149 – U
 CRU150	CRU	Consuming Volition	3	1	2	3			C	Runeblade, Action, Attack					"If you have dealt arcane damage this turn, Consuming Volition gains ""If this hits a hero, they discard a card."""	The tongue is the only weapon that grows sharper with use.	Runeblade Action – Attack					S R – CRU150 – F, S R – CRU150 – U	https://storage.googleapis.com/fabmaster/media/images/CRU150.width-450.png – CRU150 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU150.width-450.png - CRU150 – U
 CRU151	CRU	Meat and Greet	1	1	4	3			C	Runeblade, Action, Attack	Go again				"If Meat and Greet hits, create a Runechant token. *(It's an aura with ""When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero."")*
 
-If you have dealt or deal arcane damage to an opposing hero this turn, Meat and Greet gains **go again.**"		Runeblade Action – Attack					S R – CRU151 – F, S R – CRU151 – U	https://storage.googleapis.com/fabmaster/media/images/CRU151.width-450.png – CRU151 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU151.width-450.png - CRU151 – U
+If you have dealt arcane damage to an opposing hero this turn, Meat and Greet gains **go again.**"		Runeblade Action – Attack					S R – CRU151 – F, S R – CRU151 – U	https://storage.googleapis.com/fabmaster/media/images/CRU151.width-450.png – CRU151 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU151.width-450.png - CRU151 – U
 CRU152	CRU	Meat and Greet	2	1	3	3			C	Runeblade, Action, Attack	Go again				"If Meat and Greet hits, create a Runechant token. *(It's an aura with ""When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero."")*
 
-If you have dealt or deal arcane damage to an opposing hero this turn, Meat and Greet gains **go again.**"		Runeblade Action – Attack					S R – CRU152 – F, S R – CRU152 – U	https://storage.googleapis.com/fabmaster/media/images/CRU152.width-450.png – CRU152 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU152.width-450.png - CRU152 – U
+If you have dealt arcane damage to an opposing hero this turn, Meat and Greet gains **go again.**"		Runeblade Action – Attack					S R – CRU152 – F, S R – CRU152 – U	https://storage.googleapis.com/fabmaster/media/images/CRU152.width-450.png – CRU152 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU152.width-450.png - CRU152 – U
 CRU153	CRU	Meat and Greet	3	1	2	3			C	Runeblade, Action, Attack	Go again				"If Meat and Greet hits, create a Runechant token. *(It's an aura with ""When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero."")*
 
-If you have dealt or deal arcane damage to an opposing hero this turn, Meat and Greet gains **go again.**"		Runeblade Action – Attack					S R – CRU153 – F, S R – CRU153 – U	https://storage.googleapis.com/fabmaster/media/images/CRU153.width-450.png – CRU153 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU153.width-450.png - CRU153 – U
+If you have dealt arcane damage to an opposing hero this turn, Meat and Greet gains **go again.**"		Runeblade Action – Attack					S R – CRU153 – F, S R – CRU153 – U	https://storage.googleapis.com/fabmaster/media/images/CRU153.width-450.png – CRU153 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU153.width-450.png - CRU153 – U
 CRU154	CRU	Sutcliffe’s Research Notes	1	1		2			C	Runeblade, Action	Go again				"Reveal the top 3 cards of your deck. Create a Runechant token for each Runeblade attack action card revealed this way, then put the cards on top of your deck in any order. *(They're auras with ""When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero."")*
 
 **Go again**"		Runeblade Action					S R – CRU154 – F, S R – CRU154 – U	https://storage.googleapis.com/fabmaster/media/images/CRU154.width-450.png – CRU154 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU154.width-450.png - CRU154 – U
@@ -1444,7 +1439,7 @@ CRU167	CRU	Cindering Foresight	3	0		2			R	Wizard, Action	Opt 1				"If it's not y
 
 The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.
 
-**Opt 1** *(Look at the top 1 cards of your deck. You may put them on the top and/or bottom in any order.)*"		Wizard Action					S R – CRU167 – F, S R – CRU167 – U	https://storage.googleapis.com/fabmaster/media/images/CRU167.width-450.png – CRU167 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU167.width-450.png - CRU167 – U
+**Opt 1** *(Look at the top card of your deck. You may put it on the bottom.)*"		Wizard Action					S R – CRU167 – F, S R – CRU167 – U	https://storage.googleapis.com/fabmaster/media/images/CRU167.width-450.png – CRU167 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU167.width-450.png - CRU167 – U
 CRU168	CRU	Foreboding Bolt	1	1		3			C	Wizard, Action	Opt 1				"Deal 3 damage to target hero.
 
 **Opt 1** *(Look at the top card of your deck. You may put it on the bottom.)*"		Wizard Action					S R – CRU168 – F, S R – CRU168 – U	https://storage.googleapis.com/fabmaster/media/images/CRU168.width-450.png – CRU168 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU168.width-450.png - CRU168 – U
@@ -1475,7 +1470,7 @@ If you have played another Wizard 'non-attack' action card this turn, you may pl
 CRU177	CRU	Talishar, the Lost Prince							R	Generic, Weapon, Sword, 2H		Once per Turn Action	Attack		"**Once per Turn Action** - {r}{r}, put a rust counter on Talishar, the Lost Prince: **Attack**
 
 At the beginning of your end phase, if Talishar, the Lost Prince has 3 or more rust counters on it, destroy it."		Generic Weapon – Sword (2H)					S C – CRU177 – F, S R – CRU177 – U	https://storage.googleapis.com/fabmaster/media/images/CRU177.width-450.png – CRU177 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU177.width-450.png - CRU177 – U
-CRU179	CRU	Gambler’s Gloves				0			M	Generic, Equipment, Arms					Whenever a hero rolls a 6 sided die, you may destroy Gambler’s Glove. If you do, that hero rerolls the die. *(You decide whether to use Gambler’s Glove after seeing the result of the die roll.)*		Generic Equipment – Arms					S C – CRU179 – F, S R – CRU179 – U	https://storage.googleapis.com/fabmaster/media/images/CRU179_Gamblers_Gloves.width-450.png – CRU179 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU179.width-450.png - CRU179 – U
+CRU179	CRU	Gambler’s Gloves				0			M	Generic, Equipment, Arms					If an effect would resolve that includes rolling a 6 sided die, instead you may destroy Gambler’s Gloves. If you do, the controller of the effect rerolls all 6 sided dice rolled this way. *(You decide whether to use Gambler’s Glove after seeing the result of the die roll.)*		Generic Equipment – Arms					S C – CRU179 – F, S R – CRU179 – U	https://storage.googleapis.com/fabmaster/media/images/CRU179_Gamblers_Gloves.width-450.png – CRU179 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU179.width-450.png - CRU179 – U
 CRU180	CRU	Coax a Commotion	1	1	4	2			M	Generic, Action, Attack					"If Coax a Commotion hits, choose any number:
 
 - Each hero creates a Quicken token.
@@ -1777,10 +1772,10 @@ MON102	MON	Spears of Surreality	2	1	4	3			C	Illusionist, Action, Attack	Phantasm
 **Go again** *(If Spears of Surreality is destroyed, go again does not resolve.)*"		Illusionist Action – Attack					S R – MON102 – F, S R – MON102 – U	https://storage.googleapis.com/fabmaster/media/images/MON102.width-450.png - MON102 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON102.width-450.png - MON102 – U
 MON103	MON	Spears of Surreality	3	1	3	3			C	Illusionist, Action, Attack	Phantasm, Go again				"**Phantasm** *(If Spears of Surreality is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Spears of Surreality and close the combat chain.)*
 
-**Go again** *(If Spears of Surreality is destroyed, go again does not resolve.)*"		Illusionist Action – Attack					S R – MON103 – F, S R – MON103 – U	https://storage.googleapis.com/fabmaster/media/images/MON103.width-450.png - MON103 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON103.width-450.png - MON103 – U, https://storage.googleapis.com/fabmaster/media/images/EVR153.width-450.png - EVR153 – F
+**Go again** *(If Spears of Surreality is destroyed, go again does not resolve.)*"		Illusionist Action – Attack					S R – MON103 – F, S R – MON103 – U	https://storage.googleapis.com/fabmaster/media/images/MON103.width-450.png - MON103 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON103.width-450.png - MON103 – U
 MON104, EVR153	MON, EVR	Spectral Shield							T, C	Illusionist, Token, Aura					"*(Auras stay in the arena until they are destroyed.)*
 
-If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal."		Illusionist Token – Aura					S – MON104 – F, S – MON104 – U, S R – EVR153 – F	https://storage.googleapis.com/fabmaster/media/images/MON104.width-450.png - MON104 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON104.width-450.png - MON104 – U
+If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal."		Illusionist Token – Aura					S – MON104 – F, S – MON104 – U, S R – EVR153 – F	https://storage.googleapis.com/fabmaster/media/images/MON104.width-450.png - MON104 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON104.width-450.png - MON104 – U, https://storage.googleapis.com/fabmaster/media/images/EVR153.width-450.png - EVR153 – F
 MON105	MON	Hatchet of Body			2				T	Warrior, Weapon, Axe, 1H		Once per Turn Action	Attack		"**Once per Turn Action** - {r}: **Attack**
 
 Whenever you attack with Hatchet of Body, if Hatchet of Mind was the last attack this turn, Hatchet of Body gains +1{p} until end of turn."		Warrior Weapon – Axe (1H)					S – MON105 – F, S – MON105 – U	https://storage.googleapis.com/fabmaster/media/images/MON105.width-450.png - MON105 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON105.width-450.png - MON105 – U
@@ -1998,32 +1993,32 @@ MON163	MON	Dimenxxional Gateway	2	1		2			R	Shadow, Runeblade, Action	Opt 2, Go a
 Reveal the top card of your deck. If it's a Runeblade card, deal 1 arcane damage to each opposing hero. If it's a Shadow card, you may banish it.
 
 **Go again**"		Shadow Runeblade Action					S R – MON163 – F, S R – MON163 – U	https://storage.googleapis.com/fabmaster/media/images/MON163.width-450.png - MON163 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON163.width-450.png - MON163 – U
-MON164	MON	Dimenxxional Gateway	3	1		2			R	Shadow, Runeblade, Action	Opt 1, Go again				"Opt 1 *(Look at the top 1 cards of your deck. You may put them on the top and/or bottom in any order.)*
+MON164	MON	Dimenxxional Gateway	3	1		2			R	Shadow, Runeblade, Action	Opt 1, Go again				"Opt 1 *(Look at the top card of your deck. You may it on the bottom.)*
 
 Reveal the top card of your deck. If it's a Runeblade card, deal 1 arcane damage to each opposing hero. If it's a Shadow card, you may banish it.
 
 **Go again**"		Shadow Runeblade Action					S R – MON164 – F, S R – MON164 – U	https://storage.googleapis.com/fabmaster/media/images/MON164.width-450.png - MON164 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON164.width-450.png - MON164 – U
 MON165	MON	Seeping Shadows	1	3		2			R	Shadow, Runeblade, Action	Go again, Blood Debt			Go again	"You may play Seeping Shadows from your banished zone.
 
-The next attack action card with cost 2 or less you play this turns gains +1{p} and **go again.*
+The next attack action card with cost 2 or less you play this turns gains +1{p} and **go again.**
 
 **Go again**
 
-**Blood Debt** *(At the beginning of your end phase, if Seeping Shadows is in your bbanished zone, lose 1{h}.)*"		Shadow Runeblade Action					S R – MON165 – F, S R – MON165 – U	https://storage.googleapis.com/fabmaster/media/images/MON165.width-450.png - MON165 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON165.width-450.png - MON165 – U
+**Blood Debt** *(At the beginning of your end phase, if Seeping Shadows is in your banished zone, lose 1{h}.)*"		Shadow Runeblade Action					S R – MON165 – F, S R – MON165 – U	https://storage.googleapis.com/fabmaster/media/images/MON165.width-450.png - MON165 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON165.width-450.png - MON165 – U
 MON166	MON	Seeping Shadows	2	3		2			R	Shadow, Runeblade, Action	Go again, Blood Debt			Go again	"You may play Seeping Shadows from your banished zone.
 
-The next attack action card with cost 1 or less you play this turns gains +1{p} and **go again.*
+The next attack action card with cost 1 or less you play this turns gains +1{p} and **go again.**
 
 **Go again**
 
-**Blood Debt** *(At the beginning of your end phase, if Seeping Shadows is in your bbanished zone, lose 1{h}.)*"		Shadow Runeblade Action					S R – MON166 – F, S R – MON166 – U	https://storage.googleapis.com/fabmaster/media/images/MON166.width-450.png - MON166 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON166.width-450.png - MON166 – U
+**Blood Debt** *(At the beginning of your end phase, if Seeping Shadows is in your banished zone, lose 1{h}.)*"		Shadow Runeblade Action					S R – MON166 – F, S R – MON166 – U	https://storage.googleapis.com/fabmaster/media/images/MON166.width-450.png - MON166 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON166.width-450.png - MON166 – U
 MON167	MON	Seeping Shadows	3	3		2			R	Shadow, Runeblade, Action	Go again, Blood Debt			Go again	"You may play Seeping Shadows from your banished zone.
 
-The next attack action card with cost 0 or less you play this turns gains +1{p} and **go again.*
+The next attack action card with cost 0 you play this turns gains +1{p} and **go again.**
 
 **Go again**
 
-**Blood Debt** *(At the beginning of your end phase, if Seeping Shadows is in your bbanished zone, lose 1{h}.)*"		Shadow Runeblade Action					S R – MON167 – F, S R – MON167 – U	https://storage.googleapis.com/fabmaster/media/images/MON167.width-450.png - MON167 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON167.width-450.png - MON167 – U
+**Blood Debt** *(At the beginning of your end phase, if Seeping Shadows is in your banished zone, lose 1{h}.)*"		Shadow Runeblade Action					S R – MON167 – F, S R – MON167 – U	https://storage.googleapis.com/fabmaster/media/images/MON167.width-450.png - MON167 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON167.width-450.png - MON167 – U
 MON168	MON	Bounding Demigon	1	0	3	3			R	Shadow, Runeblade, Action, Attack	Blood Debt				"If you have played a 'non-attack' action card this turn, you may play Bounding Demigon from your banished zone. If you do, it gains +1{p}.
 
 **Blood Debt** *(At the beginning of your end phase, if Bounding Demigon is in your banished zone, lose 1{h}.)*"		Shadow Runeblade Action - Attack					S R – MON168 – F, S R – MON168 – U	https://storage.googleapis.com/fabmaster/media/images/MON168.width-450.png - MON168 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON168.width-450.png - MON168 – U
@@ -2083,21 +2078,21 @@ If you have dealt arcane damage to an opposing hero this turn, Rip Through Reali
 **Blood Debt** *(At the beginning of your end phase, if Rip Through Reality is in your banished zone, lose 1{h}.)*"		Shadow Runeblade Action - Attack					S R – MON182 – F, S R – MON182 – U	https://storage.googleapis.com/fabmaster/media/images/MON182.width-450.png - MON182 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON182.width-450.png - MON182 – U
 MON183	MON	Seeds of Agony	1	0		2			C	Shadow, Runeblade, Action	Go again, Blood Debt				"You may play Seeds of Agony from your banished zone.
 
-The next attack action card with cost 2 or less you play this turn gains ""Deal 1 arcane damage to target hero.”
+The next attack action card with cost 2 or less you play this turn gains ""When you attack with this, deal 1 arcane damage to target hero.”
 
 **Go again**
 
 **Blood Debt** *(At the beginning of your end phase, if Seeds of Agony is in your banished zone, lose 1{h}.)*"		Shadow Runeblade Action			No	No	S R – MON183 – F, S R – MON183 – U	https://storage.googleapis.com/fabmaster/media/images/MON183_up.width-450.png - MON183 - F, https://storage.googleapis.com/fabmaster/media/images/seeds.width-450.png - MON183 – U
 MON184	MON	Seeds of Agony	2	0		2			C	Shadow, Runeblade, Action	Go again, Blood Debt				"You may play Seeds of Agony from your banished zone.
 
-The next attack action card with cost 1 or less you play this turn gains ""Deal 1 arcane damage to target hero.”
+The next attack action card with cost 1 or less you play this turn gains ""When you attack with this, deal 1 arcane damage to target hero.”
 
 **Go again**
 
 **Blood Debt** *(At the beginning of your end phase, if Seeds of Agony is in your banished zone, lose 1{h}.)*"		Shadow Runeblade Action			No	No	S R – MON184 – F, S R – MON184 – U	https://storage.googleapis.com/fabmaster/media/images/MON184.width-450.png - MON184 - F, https://storage.googleapis.com/fabmaster/media/images/seeds2.width-450.png - MON184 – U
 MON185	MON	Seeds of Agony	3	0		2			C	Shadow, Runeblade, Action	Go again, Blood Debt				"You may play Seeds of Agony from your banished zone.
 
-The next attack action card with cost 0 or less you play this turn gains ""Deal 1 arcane damage to target hero.”
+The next attack action card with cost 0 or less you play this turn gains ""When you attack with this, deal 1 arcane damage to target hero.”
 
 **Go again**
 
@@ -2276,9 +2271,9 @@ MON250	MON	Out Muscle	3	3	4	2			R	Generic, Action, Attack	Go again				While Out 
 MON251	MON	Seek Horizon	1	0	4	2			R	Generic, Action, Attack	Go again				As an additional cost to play Seek Horizon, you may put a card from your hand on top of your deck. If you do, Seek Horizon gains **go again.**	They hear the distant echoes of a rising storm, and know that their days of peace are numbered.	Generic Action – Attack					S R – MON251 – F, S R – MON251 – U	https://storage.googleapis.com/fabmaster/media/images/MON251.width-450.png - MON251 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON251.width-450.png - MON251 – U
 MON252	MON	Seek Horizon	2	0	3	2			R	Generic, Action, Attack	Go again				As an additional cost to play Seek Horizon, you may put a card from your hand on top of your deck. If you do, Seek Horizon gains **go again.**	They hear the distant echoes of a rising storm, and know that their days of peace are numbered.	Generic Action – Attack					S R – MON252 – F, S R – MON252 – U	https://storage.googleapis.com/fabmaster/media/images/MON252.width-450.png - MON252 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON252.width-450.png - MON252 – U
 MON253	MON	Seek Horizon	3	0	2	2			R	Generic, Action, Attack	Go again				As an additional cost to play Seek Horizon, you may put a card from your hand on top of your deck. If you do, Seek Horizon gains **go again.**	They hear the distant echoes of a rising storm, and know that their days of peace are numbered.	Generic Action – Attack					S R – MON253 – F, S R – MON253 – U	https://storage.googleapis.com/fabmaster/media/images/MON253.width-450.png - MON253 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON253.width-450.png - MON253 – U
-MON254	MON	Tremor of íArathael	1	1	4	2			R	Generic, Action, Attack					If a card has been put into your banished zone this turn, Tremor of iArathael gains +2{p}.	As the gateway opens, the shattered shards collide; echoes resonating with a dissonant heartbeat.	Generic Action – Attack					S R – MON254 – F, S R – MON254 – U	https://storage.googleapis.com/fabmaster/media/images/MON254.width-450.png - MON254 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON254.width-450.png - MON254 – U
-MON255	MON	Tremor of íArathael	2	1	3	2			R	Generic, Action, Attack					If a card has been put into your banished zone this turn, Tremor of iArathael gains +2{p}.	As the gateway opens, the shattered shards collide; echoes resonating with a dissonant heartbeat.	Generic Action – Attack					S R – MON255 – F, S R – MON255 – U	https://storage.googleapis.com/fabmaster/media/images/MON255.width-450.png - MON255 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON255.width-450.png - MON255 – U
-MON256	MON	Tremor of íArathael	3	1	2	2			R	Generic, Action, Attack					If a card has been put into your banished zone this turn, Tremor of iArathael gains +2{p}.	As the gateway opens, the shattered shards collide; echoes resonating with a dissonant heartbeat.	Generic Action – Attack					S R – MON256 – F, S R – MON256 – U	https://storage.googleapis.com/fabmaster/media/images/MON256.width-450.png - MON256 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON256.width-450.png - MON256 – U
+MON254	MON	Tremor of íArathael	1	1	4	2			R	Generic, Action, Attack					If a card has been put into your banished zone this turn, Tremor of íArathael gains +2{p}.	As the gateway opens, the shattered shards collide; echoes resonating with a dissonant heartbeat.	Generic Action – Attack					S R – MON254 – F, S R – MON254 – U	https://storage.googleapis.com/fabmaster/media/images/MON254.width-450.png - MON254 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON254.width-450.png - MON254 – U
+MON255	MON	Tremor of íArathael	2	1	3	2			R	Generic, Action, Attack					If a card has been put into your banished zone this turn, Tremor of íArathael gains +2{p}.	As the gateway opens, the shattered shards collide; echoes resonating with a dissonant heartbeat.	Generic Action – Attack					S R – MON255 – F, S R – MON255 – U	https://storage.googleapis.com/fabmaster/media/images/MON255.width-450.png - MON255 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON255.width-450.png - MON255 – U
+MON256	MON	Tremor of íArathael	3	1	2	2			R	Generic, Action, Attack					If a card has been put into your banished zone this turn, Tremor of íArathael gains +2{p}.	As the gateway opens, the shattered shards collide; echoes resonating with a dissonant heartbeat.	Generic Action – Attack					S R – MON256 – F, S R – MON256 – U	https://storage.googleapis.com/fabmaster/media/images/MON256.width-450.png - MON256 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON256.width-450.png - MON256 – U
 MON257	MON	Rise Above	1	2		4			R	Generic, Defense Reaction					You may put a card from your hand on top of your deck rather than pay Rise Above's {r} cost.	“Our gifts allow us to see into the beyond, but even we cannot shape the visions we see on the other side.” - Vidya Willowmere	Generic Defense Reaction					S R – MON257 – F, S R – MON257 – U	https://storage.googleapis.com/fabmaster/media/images/MON257.width-450.png - MON257 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON257.width-450.png - MON257 – U
 MON258	MON	Rise Above	2	2		3			R	Generic, Defense Reaction					You may put a card from your hand on top of your deck rather than pay Rise Above's {r} cost.	“Our gifts allow us to see into the beyond, but even we cannot shape the visions we see on the other side.” - Vidya Willowmere	Generic Defense Reaction					S R – MON258 – F, S R – MON258 – U	https://storage.googleapis.com/fabmaster/media/images/MON258.width-450.png - MON258 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON258.width-450.png - MON258 – U
 MON259	MON	Rise Above	3	2		2			R	Generic, Defense Reaction					You may put a card from your hand on top of your deck rather than pay Rise Above's {r} cost.	“Our gifts allow us to see into the beyond, but even we cannot shape the visions we see on the other side.” - Vidya Willowmere	Generic Defense Reaction					S R – MON259 – F, S R – MON259 – U	https://storage.googleapis.com/fabmaster/media/images/MON259.width-450.png - MON259 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON259.width-450.png - MON259 – U
@@ -2411,7 +2406,7 @@ If Endless Winter was **fused**, whenever the defending hero adds a defending ca
 If Endless Winter hits a hero, until the end of their next turn, whenever they activate an ability, create a Frostbite token under their control."		Elemental Guardian Action – Attack					S R – ELE004 – F, S R – ELE004 – U	https://storage.googleapis.com/fabmaster/media/images/ELE004.width-450.png – ELE004 - F, https://storage.googleapis.com/fabmaster/media/images/UELE004.width-450.png – ELE004 – U
 ELE005	ELE	Oaken Old	1	3	7	3			M	Elemental, Guardian, Action, Attack	Earth and Ice Fusion, Dominate				"**Earth and Ice Fusion** *(As an additional cost to play Oaken Old, you may reveal an Earth and an Ice card from your hand.)*
 
-If Oaken Old was fused, it gains +2{p}, **dominate**, and “If this hits a hero, they put 2 random cards from their hand on the bottom of their deck in any order.”"		Elemental Guardian Action – Attack					S R – ELE005 – F, S R – ELE005 – U	https://storage.googleapis.com/fabmaster/media/images/ELE005.width-450.png – ELE005 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE005.width-450.png – ELE005 – U
+If Oaken Old was **fused**, it gains +2{p}, **dominate**, and “If this hits a hero, they put 2 random cards from their hand on the bottom of their deck in any order.”"		Elemental Guardian Action – Attack					S R – ELE005 – F, S R – ELE005 – U	https://storage.googleapis.com/fabmaster/media/images/ELE005.width-450.png – ELE005 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE005.width-450.png – ELE005 – U
 ELE006	ELE	Awakening	3	2					M	Elemental, Guardian, Instant	Earth Fusion				"**Earth Fusion** *(As an additional cost to play Awakening, you may reveal an Earth card from your hand.)*
 
 If you have less {h} than an opposing hero, create Seismic Surge tokens equal to the difference. If Awakening was **fused**, instead create twice that many Seismic Surge tokens.
@@ -2527,7 +2522,6 @@ ELE033	ELE	Shiver							T	Elemental, Ranger, Weapon, Bow, 2H		Once per Turn Inst
 ELE034	ELE	Voltaire, Strike Twice							M	Elemental, Ranger, Weapon, Bow, 2H		Twice per Turn Instant		Go again	"**Twice per Turn Instant** - {r}: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1;
 
 - It gains +1{p} until end of turn.
-
 - It gains **go again** until end of turn."		Elemental Ranger Weapon – Bow (2H)					S C – ELE034 – F, S R – ELE034 – U	https://storage.googleapis.com/fabmaster/media/images/ELE034.width-450.png – ELE034 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE034.width-450.png – ELE034 – U
 ELE035	ELE	Frost Lock	3	1	3	3			M	Elemental, Ranger, Action, Arrow, Attack	Ice Fusion				"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
@@ -2554,17 +2548,17 @@ ELE038	ELE	Cold Wave	1	1	5	3			R	Elemental, Ranger, Action, Arrow, Attack	Ice Fu
 
 **Ice Fusion** *(As an additional cost to play Cold Wave, you may reveal an Ice card from your hand.)*
 
-If Cold Wave was** fused**, cards and activated abilities cost opposing heroes an additional {r} this turn."		Elemental Ranger Action – Arrow Attack					S R – ELE038 – F, S R – ELE038 – U	https://storage.googleapis.com/fabmaster/media/images/ELE038.width-450.png – ELE038 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE038.width-450.png – ELE038 – U
+If Cold Wave was **fused**, cards and activated abilities cost opposing heroes an additional {r} this turn."		Elemental Ranger Action – Arrow Attack					S R – ELE038 – F, S R – ELE038 – U	https://storage.googleapis.com/fabmaster/media/images/ELE038.width-450.png – ELE038 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE038.width-450.png – ELE038 – U
 ELE039	ELE	Cold Wave	2	1	4	3			R	Elemental, Ranger, Action, Arrow, Attack	Ice Fusion				"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
 **Ice Fusion** *(As an additional cost to play Cold Wave, you may reveal an Ice card from your hand.)*
 
-If Cold Wave was** fused**, cards and activated abilities cost opposing heroes an additional {r} this turn."		Elemental Ranger Action – Arrow Attack					S R – ELE039 – F, S R – ELE039 – U	https://storage.googleapis.com/fabmaster/media/images/ELE039.width-450.png – ELE039 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE039.width-450.png – ELE039 – U
+If Cold Wave was **fused**, cards and activated abilities cost opposing heroes an additional {r} this turn."		Elemental Ranger Action – Arrow Attack					S R – ELE039 – F, S R – ELE039 – U	https://storage.googleapis.com/fabmaster/media/images/ELE039.width-450.png – ELE039 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE039.width-450.png – ELE039 – U
 ELE040	ELE	Cold Wave	3	1	3	3			R	Elemental, Ranger, Action, Arrow, Attack	Ice Fusion				"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
 **Ice Fusion** *(As an additional cost to play Cold Wave, you may reveal an Ice card from your hand.)*
 
-If Cold Wave was** fused**, cards and activated abilities cost opposing heroes an additional {r} this turn."		Elemental Ranger Action – Arrow Attack					S R – ELE040 – F, S R – ELE040 – U	https://storage.googleapis.com/fabmaster/media/images/ELE040.width-450.png – ELE040 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE040.width-450.png – ELE040 – U
+If Cold Wave was **fused**, cards and activated abilities cost opposing heroes an additional {r} this turn."		Elemental Ranger Action – Arrow Attack					S R – ELE040 – F, S R – ELE040 – U	https://storage.googleapis.com/fabmaster/media/images/ELE040.width-450.png – ELE040 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE040.width-450.png – ELE040 – U
 ELE041	ELE	Snap Shot	1	0	4	3			R	Elemental, Ranger, Action, Arrow, Attack	Lightning Fusion				"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
 **Lightning Fusion** *(As an additional cost to play Snap Shot, you may reveal a Lightning card from your hand.)*
@@ -2861,13 +2855,13 @@ ELE104	ELE	Invigorate	2	0		2			C	Elemental, Action	Go again				"The next attack 
 ELE105	ELE	Invigorate	3	0		2			C	Elemental, Action	Go again				"The next attack you **fuse** this turn gains +2{p}.
 
 **Go again**"	When the whole is greater than the sum of its parts.	Elemental Action					S R – ELE105 – F, S R – ELE105 – U	https://storage.googleapis.com/fabmaster/media/images/ELE105.width-450.png – ELE105 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE105.width-450.png – ELE105 – U
-ELE106	ELE	Rejuvenate	1	1		2			C	Elemental, Action					"Gain 3{g}
+ELE106	ELE	Rejuvenate	1	1		2			C	Elemental, Action					"Gain 3{h}
 
 If you've **fused** this turn, you may play Rejuvenate as though it were an instant."	A wise warrior takes time to rejuvenate.	Elemental Action					S R – ELE106 – F, S R – ELE106 – U	https://storage.googleapis.com/fabmaster/media/images/ELE106.width-450.png – ELE106 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE106.width-450.png – ELE106 – U
-ELE107	ELE	Rejuvenate	2	1		2			C	Elemental, Action					"Gain 2{g}
+ELE107	ELE	Rejuvenate	2	1		2			C	Elemental, Action					"Gain 2{h}
 
 If you've **fused** this turn, you may play Rejuvenate as though it were an instant."	A wise warrior takes time to rejuvenate.	Elemental Action					S R – ELE107 – F, S R – ELE107 – U	https://storage.googleapis.com/fabmaster/media/images/ELE107.width-450.png – ELE107 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE107.width-450.png – ELE107 – U
-ELE108	ELE	Rejuvenate	3	1		2			C	Elemental, Action					"Gain 1{g}
+ELE108	ELE	Rejuvenate	3	1		2			C	Elemental, Action					"Gain 1{h}
 
 If you've **fused** this turn, you may play Rejuvenate as though it were an instant."	A wise warrior takes time to rejuvenate.	Elemental Action					S R – ELE108 – F, S R – ELE108 – U	https://storage.googleapis.com/fabmaster/media/images/ELE108.width-450.png – ELE108 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE108.width-450.png – ELE108 – U
 ELE109	ELE	Embodiment of Earth							T	Elemental, Token, Aura					"‘Non-attack' action cards you control have +1{d} while defending.
@@ -3014,7 +3008,7 @@ ELE163	ELE	Chill to the Bone	1	0		2			C	Ice, Action	Go again				"The next time a
 ELE164	ELE	Chill to the Bone	2	0		2			C	Ice, Action	Go again				"The next time an Ice or Elemental attack hits a hero this turn, create 2 Frostbite tokens under their control.
 
 **Go again**"		Ice Action					S R – ELE164 – F, S R – ELE164 – U	https://storage.googleapis.com/fabmaster/media/images/ELE164.width-450.png – ELE164 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE164.width-450.png – ELE164 – U
-ELE165	ELE	Chill to the Bone	3	0		2			C	Ice, Action	Go again				"The next time an Ice or Elemental attack hits a hero this turn, create 1 Frostbite tokens under their control.
+ELE165	ELE	Chill to the Bone	3	0		2			C	Ice, Action	Go again				"The next time an Ice or Elemental attack hits a hero this turn, create a Frostbite token under their control.
 
 **Go again**"		Ice Action					S R – ELE165 – F, S R – ELE165 – U	https://storage.googleapis.com/fabmaster/media/images/ELE165.width-450.png – ELE165 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE165.width-450.png – ELE165 – U
 ELE166	ELE	Polar Blast	1	1		2			C	Ice, Action	Go again			Dominate	"Target opposing hero may pay {r}{r}{r}. If they don’t your next attack this turn gains **dominate.** *(The defending hero can't defend the attack with more than 1 card from their hand.)*
@@ -3243,12 +3237,18 @@ If you have rolled a 6 on a die this turn, instead **intimidate** twice.
 EVR008	EVR	Bare Fangs	1	2	6				C	Brute, Action, Attack					When you attack with Bare Fangs, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.		Brute Action – Attack					S R – EVR008 – F	https://storage.googleapis.com/fabmaster/media/images/EVR008.width-450.png - EVR008 - F
 EVR009	EVR	Bare Fangs	2	2	5				C	Brute, Action, Attack					When you attack with Bare Fangs, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.		Brute Action – Attack					S R – EVR009 – F	https://storage.googleapis.com/fabmaster/media/images/EVR009.width-450.png - EVR009 - F
 EVR010	EVR	Bare Fangs	3	2	4				C	Brute, Action, Attack					When you attack with Bare Fangs, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.		Brute Action – Attack					S R – EVR010 – F	https://storage.googleapis.com/fabmaster/media/images/EVR010.width-450.png - EVR010 - F
-EVR011	EVR	Wild Ride	1	2	6				C	Brute, Action, Attack					When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains go again.	Everyone who knows how to have a good time is welcome in Aria.	Brute Action – Attack					S R – EVR011 – F	https://storage.googleapis.com/fabmaster/media/images/EVR011.width-450.png - EVR011 - F
-EVR012	EVR	Wild Ride	2	2	5				C	Brute, Action, Attack					When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains go again.	Everyone who knows how to have a good time is welcome in Aria.	Brute Action – Attack					S R – EVR012 – F	https://storage.googleapis.com/fabmaster/media/images/EVR012.width-450.png - EVR012 - F
-EVR013	EVR	Wild Ride	3	2	4				C	Brute, Action, Attack					When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains go again.	Everyone who knows how to have a good time is welcome in Aria.	Brute Action – Attack					S R – EVR013 – F	https://storage.googleapis.com/fabmaster/media/images/EVR013.width-450.png - EVR013 - F
-EVR014	EVR	Bad Beats	1	0		3			C	Brute, Action					Roll a 6 sided die. If the number rolled is a 4, 5, or 6, the next Brute attack action card you play this turn gains +5{p}.		Brute Action					S R – EVR014 – F	https://storage.googleapis.com/fabmaster/media/images/EVR014.width-450.png - EVR014 - F
-EVR015	EVR	Bad Beats	2	0		3			C	Brute, Action					Roll a 6 sided die. If the number rolled is a 5 or 6, the next Brute attack action card you play this turn gains +5{p}.		Brute Action					S R – EVR015 – F	https://storage.googleapis.com/fabmaster/media/images/EVR015.width-450.png - EVR015 - F
-EVR016	EVR	Bad Beats	3	0		3			C	Brute, Action					Roll a 6 sided die. If the number rolled is a 6, the next Brute attack action card you play this turn gains +5{p}.		Brute Action					S R – EVR016 – F	https://storage.googleapis.com/fabmaster/media/images/EVR016.width-450.png - EVR016 - F
+EVR011	EVR	Wild Ride	1	2	6				C	Brute, Action, Attack					When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again.**	Everyone who knows how to have a good time is welcome in Aria.	Brute Action – Attack					S R – EVR011 – F	https://storage.googleapis.com/fabmaster/media/images/EVR011.width-450.png - EVR011 - F
+EVR012	EVR	Wild Ride	2	2	5				C	Brute, Action, Attack					When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again.**	Everyone who knows how to have a good time is welcome in Aria.	Brute Action – Attack					S R – EVR012 – F	https://storage.googleapis.com/fabmaster/media/images/EVR012.width-450.png - EVR012 - F
+EVR013	EVR	Wild Ride	3	2	4				C	Brute, Action, Attack					When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again.**	Everyone who knows how to have a good time is welcome in Aria.	Brute Action – Attack					S R – EVR013 – F	https://storage.googleapis.com/fabmaster/media/images/EVR013.width-450.png - EVR013 - F
+EVR014	EVR	Bad Beats	1	0		3			C	Brute, Action					"Roll a 6 sided die. If the number rolled is a 4, 5, or 6, the next Brute attack action card you play this turn gains +5{p}.
+
+**Go again**"		Brute Action					S R – EVR014 – F	https://storage.googleapis.com/fabmaster/media/images/EVR014.width-450.png - EVR014 - F
+EVR015	EVR	Bad Beats	2	0		3			C	Brute, Action					"Roll a 6 sided die. If the number rolled is a 5 or 6, the next Brute attack action card you play this turn gains +5{p}.
+
+**Go again**"		Brute Action					S R – EVR015 – F	https://storage.googleapis.com/fabmaster/media/images/EVR015.width-450.png - EVR015 - F
+EVR016	EVR	Bad Beats	3	0		3			C	Brute, Action					"Roll a 6 sided die. If the number rolled is a 6, the next Brute attack action card you play this turn gains +5{p}.
+
+**Go again**"		Brute Action					S R – EVR016 – F	https://storage.googleapis.com/fabmaster/media/images/EVR016.width-450.png - EVR016 - F
 EVR017	EVR	Bravo, Star of the Show					40	4	M	Elemental, Guardian, Hero	Essence of Earth, Ice, and Lightning			Dominate, Go again	"**Essence of Earth, Ice, and Lightning** *(You may have Earth, Ice, and Lightning cards in your deck.)*
 
 At the start of your turn, you may reveal an Earth, an Ice, and a Lightning card from your hand. If you do, the next attack action card with cost 3 or greater you play this turn gains +2{p}, **dominate**, and **go again.**"		Elemental Guardian Hero			No		S C – EVR017 – F	https://storage.googleapis.com/fabmaster/media/images/EVR017.width-450.png - EVR017 - F
@@ -3267,7 +3267,7 @@ EVR022	EVR	Imposing Visage	3	X3		3			M	Guardian, Action	Go again				"Search your
 **Go again**"	Before the Age of Man, the specter of war loomed over Rathe, as the great Aesirs roamed the land.	Guardian Action					S R – EVR022 – F	https://storage.googleapis.com/fabmaster/media/images/EVR022.width-450.png - EVR022 - F
 EVR023	EVR	Nerves of Steel	3	3		3			M	Guardian, Action, Aura	Battleworn, Temper				"When Nerves of Steel enters the arena, remove a -1{d} counter from a chest equipment you control.
 
-**Battleworn** and **temper** on equipment you control doesn’t trigger if it defends an attack with 2 or less {p}. (**Battleworn** and **temper** trigger when the combat chain closes.)
+**Battleworn** and **temper** on equipment you control doesn’t trigger if it defends an attack with 2 or less {p}. *(***Battleworn*** and ***temper*** trigger when the combat chain closes.)*
 
 When your hero is dealt damage, destroy Nerves of Steel."		Guardian Action – Aura					S R – EVR023 – F	https://storage.googleapis.com/fabmaster/media/images/EVR023.width-450.png - EVR023 - F
 EVR024	EVR	Thunder Quake	1	6	10	3			R	Guardian, Action, Attack	Heave 3				**Heave 3** *(At the beginning of your end phase, if Thunder Quake is in your hand and you have an empty arsenal zone, you may pay {r}{r}{r} and put Thunder Quake face up into your arsenal. If you do, create 3 Seismic Surge tokens.)*		Guardian Action – Attack					S R – EVR024 – F, R – EVR024 – F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR024.width-450.png - EVR024 - F
@@ -3319,21 +3319,18 @@ EVR046	EVR	Ride the Tailwind	3	0	1	2			C	Ninja, Action, Attack	Go again			Go aga
 EVR047	EVR	Twin Twisters	1	1	3	2			C	Ninja, Action, Attack	Go again				"Choose 1:
 
 - Twin Twisters gains ""When this hits, your next attack this combat chain gains +1{p}.”
-
 - Twin Twisters gains +1{p}.
 
 **Go again**"		Ninja Action – Attack					S R – EVR047 – F	https://storage.googleapis.com/fabmaster/media/images/EVR047.width-450.png - EVR047 - F
 EVR048	EVR	Twin Twisters	2	1	2	2			C	Ninja, Action, Attack	Go again				"Choose 1:
 
 - Twin Twisters gains ""When this hits, your next attack this combat chain gains +1{p}.”
-
 - Twin Twisters gains +1{p}.
 
 **Go again**"		Ninja Action – Attack					S R – EVR048 – F	https://storage.googleapis.com/fabmaster/media/images/EVR048.width-450.png - EVR048 - F
 EVR049	EVR	Twin Twisters	3	1	1	2			C	Ninja, Action, Attack	Go again				"Choose 1:
 
 - Twin Twisters gains ""When this hits, your next attack this combat chain gains +1{p}.”
-
 - Twin Twisters gains +1{p}.
 
 **Go again**"		Ninja Action – Attack					S R – EVR049 – F	https://storage.googleapis.com/fabmaster/media/images/EVR049.width-450.png - EVR049 - F
@@ -3349,34 +3346,31 @@ EVR055	EVR	Blood on Her Hands	2	0		3			M	Warrior, Action	Kassai Specialization		
 As an additional cost to play Blood on Her Hands, destroy any number of Copper you control. For each Copper destroyed this way choose a mode. You may choose each mode twice.
 
 - Target 1H weapon gains +1{p} this turn while attacking this turn.
-
 - Target 1H weapon gains **go again** this turn while attacking this turn.
-
 - Target 1H weapon may attack twice this turn."		Warrior Action					S R – EVR055 – F	https://storage.googleapis.com/fabmaster/media/images/EVR055.width-450.png - EVR055 - F
 EVR056	EVR	Oath of Steel	1	0		3			M	Warrior, Action					"Whenever you attack with a weapon this turn, put a +1{p} counter on it.
 
-At the beginning of your end phase, remove all +1{p} counters from weapons you control."		Warrior Action					S R – EVR056 – F	https://storage.googleapis.com/fabmaster/media/images/EVR056.width-450.png - EVR056 - F
+At the beginning of your end phase, remove all +1{p} counters from weapons you control.
+
+**Go again**"		Warrior Action					S R – EVR056 – F	https://storage.googleapis.com/fabmaster/media/images/EVR056.width-450.png - EVR056 - F
 EVR057	EVR	Slice and Dice	1	0		3			R	Warrior, Action	Go again				"Whenever you attack with a sword or dagger this turn;
 
 - If it's your first weapon attack this turn, it gains +1{p}.
-
 - If it's your second weapon attack this turn, it gains +3{p}.
 
-**Go again**"		Warrior Action					S R – EVR057 – F, R – EVR057 – F	https://storage.googleapis.com/fabmaster/media/images/EVR057.width-450.png - EVR057 - F
+**Go again**"		Warrior Action					S R – EVR057 – F, R – EVR057 – F – EA	https://storage.googleapis.com/fabmaster/media/images/EVR057.width-450.png - EVR057 - F
 EVR058	EVR	Slice and Dice	2	0		3			R	Warrior, Action	Go again				"Whenever you attack with a sword or dagger this turn;
 
 - If it's your first weapon attack this turn, it gains +1{p}.
-
 - If it's your second weapon attack this turn, it gains +2p}.
 
-**Go again**"		Warrior Action					S R – EVR058 – F, R – EVR058 – F	https://storage.googleapis.com/fabmaster/media/images/EVR058.width-450.png - EVR058 - F
+**Go again**"		Warrior Action					S R – EVR058 – F, R – EVR058 – F – EA	https://storage.googleapis.com/fabmaster/media/images/EVR058.width-450.png - EVR058 - F
 EVR059	EVR	Slice and Dice	3	0		3			R	Warrior, Action	Go again				"Whenever you attack with a sword or dagger this turn;
 
 - If it's your first weapon attack this turn, it gains +1{p}.
-
 - If it's your second weapon attack this turn, it gains +1{p}.
 
-**Go again**"		Warrior Action					S R – EVR059 – F, R – EVR059 – F	https://storage.googleapis.com/fabmaster/media/images/EVR059.width-450.png - EVR059 - F
+**Go again**"		Warrior Action					S R – EVR059 – F, R – EVR059 – F – EA	https://storage.googleapis.com/fabmaster/media/images/EVR059.width-450.png - EVR059 - F
 EVR060	EVR	Blade Runner	1	1		3			C	Warrior, Attack Reaction				Go again	"Target 1H weapon attack gains **go again.**
 
 Your next weapon attack this turn gains +3{p}."		Warrior Attack Reaction					S R – EVR060 – F	https://storage.googleapis.com/fabmaster/media/images/EVR060.width-450.png - EVR060 - F
@@ -3405,14 +3399,16 @@ EVR067	EVR	Outland Skirmish	2	0		3			C	Warrior, Action	Go again				"Your next 1H
 The next time a weapon hits this turn, create a Copper token.
 
 **Go again**"	“Volcai, Dracai, it’s all the same to me.” - Kassai	Warrior Action					S R – EVR067 – F	https://storage.googleapis.com/fabmaster/media/images/EVR067.width-450.png - EVR067 - F
-EVR068	EVR	Outland Skirmish	3	0		3			M	Warrior, Action	Go again				"Your next 1H weapon attack this turn gains +1{p}.
+EVR068	EVR	Outland Skirmish	3	0		3			C	Warrior, Action	Go again				"Your next 1H weapon attack this turn gains +1{p}.
 
 The next time a weapon hits this turn, create a Copper token.
 
 **Go again**"	“Volcai, Dracai, it’s all the same to me.” - Kassai	Warrior Action					S R – EVR068 – F	https://storage.googleapis.com/fabmaster/media/images/EVR068.width-450.png - EVR068 - F
 EVR069	EVR	Dissolution Sphere	2	2					M	Mechanologist, Action, Item					"Dissolution Sphere enters the arena with a steam counter on it.
 
-At the beginning of your action phase, destroy Dissolution Sphere unless you remove a steam counter from it. Whenever your hero would be dealt exactly 1 damage, prevent it."		Mechanologist Action – Item					S R – EVR069 – F	https://storage.googleapis.com/fabmaster/media/images/EVR069.width-450.png - EVR069 - F
+At the beginning of your action phase, destroy Dissolution Sphere unless you remove a steam counter from it.
+
+Whenever your hero would be dealt exactly 1 damage, prevent it."		Mechanologist Action – Item					S R – EVR069 – F	https://storage.googleapis.com/fabmaster/media/images/EVR069.width-450.png - EVR069 - F
 EVR070	EVR	Micro-Processor	3	2					M	Mechanologist, Action, Item	Data Doll Specialization	Once Per Turn Action	Opt 1		"**Data Doll Specialization** *(You may only have Micro-processor in your deck if your hero is Data Doll.)*
 
 **Once Per Turn Action** - 0: **Opt 1**
@@ -3432,25 +3428,25 @@ EVR072	EVR	Teklo Pounder	3	2					R	Mechanologist, Action, Item		Once per Turn Ef
 **Once per Turn Effect** - Whenever you boost an attack action card, remove a steam counter from Teklo Pounder. If you do, the attack gains +2{p}."		Mechanologist Action – Item					S R – EVR072 – F	https://storage.googleapis.com/fabmaster/media/images/EVR072.width-450.png - EVR072 - F
 EVR073	EVR	T-Bone	1	0	3	3			R	Mechanologist, Action, Attack	Boost				"If you control a card on the combat chain that was boosted, the defending hero must defend T-Bone with an equipment they control if able.
 
-**Boost** *(As an additional cost to play T-Bone, you may banish the top card of your deck. If it's a Mechanologist card, T-Bone gains **go again.**)*"		Mechanologist Action – Attack					S R – EVR073 – F	https://storage.googleapis.com/fabmaster/media/images/EVR073.width-450.png - EVR073 - F
+**Boost** *(As an additional cost to play T-Bone, you may banish the top card of your deck. If it's a Mechanologist card, T-Bone gains ***go again.***)*"		Mechanologist Action – Attack					S R – EVR073 – F	https://storage.googleapis.com/fabmaster/media/images/EVR073.width-450.png - EVR073 - F
 EVR074	EVR	T-Bone	2	0	2	3			R	Mechanologist, Action, Attack	Boost				"If you control a card on the combat chain that was boosted, the defending hero must defend T-Bone with an equipment they control if able.
 
-**Boost** *(As an additional cost to play T-Bone, you may banish the top card of your deck. If it's a Mechanologist card, T-Bone gains **go again.**)*"		Mechanologist Action – Attack					S R – EVR074 – F	https://storage.googleapis.com/fabmaster/media/images/EVR074.width-450.png - EVR074 - F
+**Boost** *(As an additional cost to play T-Bone, you may banish the top card of your deck. If it's a Mechanologist card, T-Bone gains ***go again.***)*"		Mechanologist Action – Attack					S R – EVR074 – F	https://storage.googleapis.com/fabmaster/media/images/EVR074.width-450.png - EVR074 - F
 EVR075	EVR	T-Bone	3	0	1	3			C	Mechanologist, Action, Attack	Boost				"If you control a card on the combat chain that was boosted, the defending hero must defend T-Bone with an equipment they control if able.
 
-**Boost** *(As an additional cost to play T-Bone, you may banish the top card of your deck. If it's a Mechanologist card, T-Bone gains **go again.**)*"		Mechanologist Action – Attack					S R – EVR075 – F	https://storage.googleapis.com/fabmaster/media/images/EVR075.width-450.png - EVR075 - F
+**Boost** *(As an additional cost to play T-Bone, you may banish the top card of your deck. If it's a Mechanologist card, T-Bone gains ***go again.***)*"		Mechanologist Action – Attack					S R – EVR075 – F	https://storage.googleapis.com/fabmaster/media/images/EVR075.width-450.png - EVR075 - F
 EVR076	EVR	Payload	1	2	6	3			C	Mechanologist, Action, Attack	Dominate				If you have **boosted** this combat chain, Payload gains **dominate.** *(The defending hero can't defend Payload with more than 1 card from their hand.)*	The latest in Teklo Industries armament. Guaranteed to leave a dent in your enemies… and your wallet!	Mechanologist Action – Attack					S R – EVR076 – F	https://storage.googleapis.com/fabmaster/media/images/EVR076.width-450.png - EVR076 - F
 EVR077	EVR	Payload	2	2	5	3			C	Mechanologist, Action, Attack	Dominate				If you have **boosted** this combat chain, Payload gains **dominate.** *(The defending hero can't defend Payload with more than 1 card from their hand.)*	The latest in Teklo Industries armament. Guaranteed to leave a dent in your enemies… and your wallet!	Mechanologist Action – Attack					S R – EVR077 – F	https://storage.googleapis.com/fabmaster/media/images/EVR077.width-450.png - EVR077 - F
 EVR078	EVR	Payload	3	2	4	3			C	Mechanologist, Action, Attack	Dominate				If you have **boosted** this combat chain, Payload gains **dominate.** *(The defending hero can't defend Payload with more than 1 card from their hand.)*	The latest in Teklo Industries armament. Guaranteed to leave a dent in your enemies… and your wallet!	Mechanologist Action – Attack					S R – EVR078 – F	https://storage.googleapis.com/fabmaster/media/images/EVR078.width-450.png - EVR078 - F
 EVR079	EVR	Zoom In	1	2	5	3			C	Mechanologist, Action, Attack	Opt X, Boost				"When you attack with Zoom in, **opt X**, where X is the number of times you have **boosted** this combat chain. *(Look at the top X cards of your deck. You may put them on the top and/or bottom in any order.)*
 
-**Boost** *(As an additional cost to play Zoom In, you may banish the top card of your deck. If it's a Mechanologist card, Zoom In gains **go again.**)*"		Mechanologist Action – Attack					S R – EVR079 – F	https://storage.googleapis.com/fabmaster/media/images/EVR079.width-450.png - EVR079 - F
+**Boost** *(As an additional cost to play Zoom In, you may banish the top card of your deck. If it's a Mechanologist card, Zoom In gains ***go again.***)*"		Mechanologist Action – Attack					S R – EVR079 – F	https://storage.googleapis.com/fabmaster/media/images/EVR079.width-450.png - EVR079 - F
 EVR080	EVR	Zoom In	2	2	4	3			C	Mechanologist, Action, Attack	Opt X, Boost				"When you attack with Zoom in, **opt X**, where X is the number of times you have **boosted** this combat chain. *(Look at the top X cards of your deck. You may put them on the top and/or bottom in any order.)*
 
-**Boost** *(As an additional cost to play Zoom In, you may banish the top card of your deck. If it's a Mechanologist card, Zoom In gains **go again.**)*"		Mechanologist Action – Attack					S R – EVR080 – F	https://storage.googleapis.com/fabmaster/media/images/EVR080.width-450.png - EVR080 - F
+**Boost** *(As an additional cost to play Zoom In, you may banish the top card of your deck. If it's a Mechanologist card, Zoom In gains ***go again.***)*"		Mechanologist Action – Attack					S R – EVR080 – F	https://storage.googleapis.com/fabmaster/media/images/EVR080.width-450.png - EVR080 - F
 EVR081	EVR	Zoom In	3	2	3	3			C	Mechanologist, Action, Attack	Opt X, Boost				"When you attack with Zoom in, **opt X**, where X is the number of times you have **boosted** this combat chain. *(Look at the top X cards of your deck. You may put them on the top and/or bottom in any order.)*
 
-**Boost** *(As an additional cost to play Zoom In, you may banish the top card of your deck. If it's a Mechanologist card, Zoom In gains **go again.**)*"		Mechanologist Action – Attack					S R – EVR081 – F	https://storage.googleapis.com/fabmaster/media/images/EVR081.width-450.png - EVR081 - F
+**Boost** *(As an additional cost to play Zoom In, you may banish the top card of your deck. If it's a Mechanologist card, Zoom In gains ***go again.***)*"		Mechanologist Action – Attack					S R – EVR081 – F	https://storage.googleapis.com/fabmaster/media/images/EVR081.width-450.png - EVR081 - F
 EVR082	EVR	Rotary Ram	1	0		3			C	Mechanologist, Action	Go again				"The next Mechanologist attack action card you play this turn gains +3{p}.
 
 If you have **boosted** this turn, put Rotary Ram on the bottom of your deck.
@@ -3480,13 +3476,13 @@ EVR089	EVR	Tri-shot	3	0		3			M	Ranger, Action	Go again				"You may activate targ
 
 **Go again**"		Ranger Action					S R – EVR089 – F	https://storage.googleapis.com/fabmaster/media/images/EVR089.width-450.png - EVR089 - F
 EVR090	EVR	Rain Razors	2	0					M	Ranger, Instant					Arrows have +2{p} while attacking this turn.		Ranger Instant					S R – EVR090 – F	https://storage.googleapis.com/fabmaster/media/images/EVR090.width-450.png - EVR090 - F
-EVR091	EVR	Release the Tension	1	0		2			R	Ranger, Action	Go again				"Your next arrow attack this turn gains +(3/2/1){p} and ""Defense reactions can't be played from arsenal this chain link.""
+EVR091	EVR	Release the Tension	1	0		2			R	Ranger, Action	Go again				"Your next arrow attack this turn gains +3{p} and ""Defense reactions can't be played from arsenal this chain link.""
 
 **Go again**"		Ranger Action					S R – EVR091 – F	https://storage.googleapis.com/fabmaster/media/images/EVR091.width-450.png - EVR091 - F
-EVR092	EVR	Release the Tension	2	0		2			R	Ranger, Action	Go again				"Your next arrow attack this turn gains +(3/2/1){p} and ""Defense reactions can't be played from arsenal this chain link.""
+EVR092	EVR	Release the Tension	2	0		2			R	Ranger, Action	Go again				"Your next arrow attack this turn gains +2{p} and ""Defense reactions can't be played from arsenal this chain link.""
 
 **Go again**"		Ranger Action					S R – EVR092 – F	https://storage.googleapis.com/fabmaster/media/images/EVR092.width-450.png - EVR092 - F
-EVR093	EVR	Release the Tension	3	0		2			R	Ranger, Action	Go again				"Your next arrow attack this turn gains +(3/2/1){p} and ""Defense reactions can't be played from arsenal this chain link.""
+EVR093	EVR	Release the Tension	3	0		2			R	Ranger, Action	Go again				"Your next arrow attack this turn gains +1{p} and ""Defense reactions can't be played from arsenal this chain link.""
 
 **Go again**"		Ranger Action					S R – EVR093 – F	https://storage.googleapis.com/fabmaster/media/images/EVR093.width-450.png - EVR093 - F
 EVR094	EVR	Fatigue Shot	1	1	5	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
@@ -3527,7 +3523,9 @@ EVR103	EVR	Vexing Quillhand				0			M	Runeblade, Equipment, Arms	Arcane Barrier 1
 **Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*"		Runeblade Equipment – Arms					S C – EVR103 – F	https://storage.googleapis.com/fabmaster/media/images/EVR103.width-450.png - EVR103 - F
 EVR104	EVR	Runic Reclamation	1	3	7	3			M	Runeblade, Action, Attack					When Runic Reclamation hits a hero, destroy target aura they control. If you do, create a Runechant token.	A morbid union; Viserai’s hunger for revenge, and his Master’s hunger for power.	Runeblade Action – Attack					S R – EVR104 – F	https://storage.googleapis.com/fabmaster/media/images/EVR104.width-450.png - EVR104 - F
 EVR105	EVR	Swarming Gloomveil	1	0	3	3			M	Runeblade, Action, Attack	Go again				"If you have played or created 1 or more auras this turn, Swarming Gloomveil gains **go again.** If you have played and/or created 2 or more, it gains +1{p}. If you have played and/or created 3 or more, it gains ""When this hits a hero, they can't prevent arcane damage from sources you control this turn."""		Runeblade Action – Attack					S R – EVR105 – F	https://storage.googleapis.com/fabmaster/media/images/EVR105.width-450.png - EVR105 - F
-EVR106	EVR	Revel in Runeblood	1	0		2			M	Runeblade, Action	Go again				"If you have played an attack action card and another 'non-attack action' action card this turn, create 4 Runechant tokens. At the beginning of your end phase, destroy all Runechants you control.
+EVR106	EVR	Revel in Runeblood	1	0		2			M	Runeblade, Action	Go again				"If you have played an attack action card and another 'non-attack action' action card this turn, create 4 Runechant tokens.
+
+At the beginning of your end phase, destroy all Runechants you control.
 
 **Go again**"		Runeblade Action					S R – EVR106 – F	https://storage.googleapis.com/fabmaster/media/images/EVR106.width-450.png - EVR106 - F
 EVR107	EVR	Runeblood Incantation	1	1		2			R	Runeblade, Action, Aura	Go again				"**Go again**
@@ -3644,13 +3642,13 @@ EVR149	EVR	Phantasmal Haze	3	3	6	3			C	Illusionist, Action, Attack	Phantasm				"
 When Phantasmal Haze is destroyed, create a Spectral Shield token."		Illusionist Action – Attack					S R – EVR149 – F	https://storage.googleapis.com/fabmaster/media/images/EVR149.width-450.png - EVR149 - F
 EVR150	EVR	Veiled Intentions	1	1		2			C	Illusionist, Action	Go again				"**Go again**
 
-The next attack action card you play this turn is Illusionist in addition to its other card, and gains +4{p}, phantasm, and ""When this is destroyed, draw a card."""		Illusionist Action					S R – EVR150 – F	https://storage.googleapis.com/fabmaster/media/images/EVR150.width-450.png - EVR150 - F
+The next attack action card you play this turn is Illusionist in addition to its other card, and gains +4{p}, **phantasm**, and ""When this is destroyed, draw a card."""		Illusionist Action					S R – EVR150 – F	https://storage.googleapis.com/fabmaster/media/images/EVR150.width-450.png - EVR150 - F
 EVR151	EVR	Veiled Intentions	2	1		2			C	Illusionist, Action	Go again				"**Go again**
 
-The next attack action card you play this turn is Illusionist in addition to its other card, and gains +3{p}, phantasm, and ""When this is destroyed, draw a card."""		Illusionist Action					S R – EVR151 – F	https://storage.googleapis.com/fabmaster/media/images/EVR151.width-450.png - EVR151 - F
+The next attack action card you play this turn is Illusionist in addition to its other card, and gains +3{p}, **phantasm**, and ""When this is destroyed, draw a card."""		Illusionist Action					S R – EVR151 – F	https://storage.googleapis.com/fabmaster/media/images/EVR151.width-450.png - EVR151 - F
 EVR152	EVR	Veiled Intentions	3	1		2			C	Illusionist, Action	Go again				"**Go again**
 
-The next attack action card you play this turn is Illusionist in addition to its other card, and gains +2{p}, phantasm, and ""When this is destroyed, draw a card."""		Illusionist Action					S R – EVR152 – F	https://storage.googleapis.com/fabmaster/media/images/EVR152.width-450.png - EVR152 - F
+The next attack action card you play this turn is Illusionist in addition to its other card, and gains +2{p}, **phantasm**, and ""When this is destroyed, draw a card."""		Illusionist Action					S R – EVR152 – F	https://storage.googleapis.com/fabmaster/media/images/EVR152.width-450.png - EVR152 - F
 EVR155	EVR	Arcane Lantern							R	Generic, Equipment, Off-Hand	Arcane Barrier 1				**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*		Generic Equipment – Off-Hand					S C – EVR155 – F	https://storage.googleapis.com/fabmaster/media/images/EVR155.width-450.png - EVR155 - F
 EVR156	EVR	Bingo	1	1	5	3			M	Generic, Action, Attack	Go again				When Bingo hits a hero, they reveal a card from their hand. If an attack action card is revealed this way, Bingo gains **go again.** If a 'non-attack' action card is revealed this way, draw a card.	“Winner winner chicken dinner…” - Astier	Generic Action – Attack					S R – EVR156 – F	https://storage.googleapis.com/fabmaster/media/images/EVR156.width-450.png - EVR156 - F
 EVR157	EVR	Firebreathing	1	2	3	3			M	Generic, Action, Attack		Instant			**Instant** - {r}: Firebreathing gains +1{p}. Activate this ability only while Firebreathing is attacking.	It’s always show time at the spectacular, stupendous, sensational extravaganza that is the Everfest Carnival.	Generic Action – Attack					S R – EVR157 – F	https://storage.googleapis.com/fabmaster/media/images/EVR157.width-450.png - EVR157 - F
@@ -3670,23 +3668,17 @@ Until the start of your next turn, attacks that target you have -1{p}.
 EVR161	EVR	Life of the Party	1	2	4	2			R	Generic, Action, Attack	Go again				"You may discard or destroy a card you control named Crazy Brew rather than pay Life of the Party's {r} cost. If you do, choose all modes, otherwise choose 1 at random;
 
 - Life of the Party gains ""When this hits, gain life 2{h}.""
-
 - Life of the Party gains +2{p}.
-
 - Life of the Party gains **go again.**"		Generic Action – Attack					S R – EVR161 – F	https://storage.googleapis.com/fabmaster/media/images/EVR161.width-450.png - EVR161 - F
 EVR162	EVR	Life of the Party	2	2	3	2			R	Generic, Action, Attack	Go again				"You may discard or destroy a card you control named Crazy Brew rather than pay Life of the Party's {r} cost. If you do, choose all modes, otherwise choose 1 at random;
 
 - Life of the Party gains ""When this hits, gain life 2{h}.""
-
 - Life of the Party gains +2{p}.
-
 - Life of the Party gains **go again.**"		Generic Action – Attack					S R – EVR162 – F	https://storage.googleapis.com/fabmaster/media/images/EVR162.width-450.png - EVR162 - F
 EVR163	EVR	Life of the Party	3	2	2	2			R	Generic, Action, Attack	Go again				"You may discard or destroy a card you control named Crazy Brew rather than pay Life of the Party's {r} cost. If you do, choose all modes, otherwise choose 1 at random;
 
 - Life of the Party gains ""When this hits, gain life 2{h}.""
-
 - Life of the Party gains +2{p}.
-
 - Life of the Party gains **go again.**"		Generic Action – Attack					S R – EVR163 – F	https://storage.googleapis.com/fabmaster/media/images/EVR163.width-450.png - EVR163 - F
 EVR164	EVR	High Striker	1	0		2			R	Generic, Action	Go again				"The next time an attack you control hits this turn, create 6 Copper tokens.
 

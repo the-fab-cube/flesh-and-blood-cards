@@ -49,3 +49,12 @@ Razor Reflex, Unmovable, Nimblism, and Sloggism
 - Fix image urls for Parable of Humility, Herald of Ravages, Herald of Rebirth, Battlefield Blitz, Phantasmaclasm,
 Levia / Levia, Shadowborn Abomination, Mark of the Beast, Endless Maw, Writhing Beast Hulk, Boneyard Marauder,
 Seeds of Agony, Spew Shadow, Pulping, Endless Winter, Glacial Footsteps, Chilling Icevein, and Break Ground
+- Fix various data issues with Over Loop, Hamstring Shot, Salvage Shot, Become the Arknight, Forked Lightning,
+Command and Conquer, Life for a Life, Enchanting Melody, Eirina’s Prayer, Arknight Shard, Massacre,
+Blessing of Serenity, Zephyr Needle, Heron’s Flight, Cintari Saber, Dauntless, Hit and Run, Absorption Dome,
+High Speed Impact, Combustible Courier, Kavdaen, Trader of Skins, Feign Death, Dread Triptych, Rattle Bones,
+Mauvrion Skies, Meat and Greet, Cindering Foresight, Gambler’s Gloves, Spears of Surreality, Dimenxxional Gateway,
+Seeping Shadows, Seeds of Agony, Tremor of iArathael, Oaken Old, Cold Wave, Rejuvenate, Chill to the Bone,
+Wild Ride, Bad Beats, Nerves of Steel, Twin Twisters, Blood on Her Hands, Oath of Steel, Slice and Dice,
+Outland Skirmish, Dissolution Sphere, T-Bone, Zoom In, Release the Tension, Revel in Runeblood,
+Veiled Intentions, and Life of the Party
