@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "generate-sql-db"
+name = "download-all-images"
 version = "0.1.0"
 description = ""
 authors = []
 
 [tool.poetry.dependencies]
 python = "^3.8"
-psycopg2 = "^2.9.3"
+requests = "^2.27.1"
 
 [tool.poetry.dev-dependencies]
 
