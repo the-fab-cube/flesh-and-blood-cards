@@ -73,7 +73,7 @@ def insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelli
         print(error)
         raise error
 
-def generate_table(cur):
+def generate_table(cur, url_for_images = None):
     print("Filling out cards table from card.csv...\n")
 
     path = Path(__file__).parent / "../../csvs/card.csv"
@@ -117,6 +117,9 @@ def generate_table(cur):
                 cc_legal = True
 
             functional_text = functional_text.replace("'", "''")
+
+            if url_for_images is not None:
+                image_urls = image_urls.replace("https://storage.googleapis.com/fabmaster/media/images/", url_for_images)
 
             insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, played_horizontally, blitz_restricted,

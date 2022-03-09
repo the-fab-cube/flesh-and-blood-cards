@@ -39,11 +39,11 @@ def drop_tables(conn = None):
     cur.close()
     print("Finished dropping tables")
 
-def generate_table_data(conn = None):
+def generate_table_data(conn = None, url_for_images = None):
     print("Generating table data...")
     cur = conn.cursor()
 
-    generate_table.card.generate_table(cur)
+    generate_table.card.generate_table(cur, url_for_images)
     generate_table.edition.generate_table(cur)
     generate_table.foiling.generate_table(cur)
     generate_table.icon.generate_table(cur)
