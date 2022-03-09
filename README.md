@@ -67,6 +67,8 @@ choose Tabs as the delimiter and " as the string indicator.
 | Initial Release Dates | datetime[] | The initial release date for the set in ISO 8601 format and UTC timezone, correlated to the Editions field. | 2019-10-11T00:00:00.000Z, 2020-11-06T00:00:00.000Z |
 | Out of Print Dates | datetime[] | The Out of Print (OOP) announcement date for the set in ISO 8601 format and UTC timezone, correlated to the Editions field. If the set is still in print, use `null` instead of a date. | 2019-10-11T00:00:00.000Z, 2021-12-01T00:00:00.000Z |
 | Product Sites | string[] | The list of urls for fabtcg.com product pages, correlated to the Editions field. | https://fabtcg.com/products/booster-set/welcome-rathe/, https://fabtcg.com/products/booster-set/welcome-rathe-unlimited/ |
+| Start Card Id | string | The id of the first card in the set. | WTR000 |
+| End Card Id | string | The id of the first card in the set. | WTR225 |
 
 
 ### Card
@@ -81,7 +83,7 @@ choose Tabs as the delimiter and " as the string indicator.
 | Defense | int \| string \| null | The defense value of the card. Either a numerical value, a text cost for special cases like '*', or empty for cards with no defense. | 3 |
 | Health | int \| null | The health of the (hero) card. Either a numerical value or empty for cards with no health. | 40 |
 | Intelligence | int \| null | The intelligence of the (hero) card. Either a numerical value or empty for cards with no intelligence. | 4 |
-| Rarity | string[] | The rarities the card has been printed at, correlated to the Identifiers field. (Use rarity shorthand, not full rarity names.) If a rarity was changed mid printing (ex: Zen State went from Rare to Common between CRU First Edition and CRU Unlimited Edition), instead use the format ``{Rarity Shorthand separated by spaces} - {Card Identifier} - {Set Edition Shorthand}` for all rarities. | C, C, P |
+| Rarities | string[] | The rarities the card has been printed at, correlated to the Identifiers field. (Use rarity shorthand, not full rarity names.) If a rarity was changed mid printing (ex: Zen State went from Rare to Common between CRU First Edition and CRU Unlimited Edition), instead use the format ``{Rarity Shorthand separated by spaces} - {Card Identifier} - {Set Edition Shorthand}` for all rarities. | C, C, P |
 | Types | string[] | The types of the card (main type, sub type, talent, etc). See below for a list of possible types. | Action, Attack, Ninja |
 | Card Keywords | string[] | Any keywords that appear on the card's effect. See below for a list of possible keywords. (Include keywords that are conditionally granted to the card, but not keywords the card grants or removes from other cards, or keywords on the card's abilities or effect's.) | Combo, Go again |
 | Abilities and Effects | string[] | A list of any types of abilities or effects the card has. (Include just the type, not the actual ability or effect.) | Once per Turn Action, Instant |
