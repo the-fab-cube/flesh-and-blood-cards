@@ -25,11 +25,36 @@
 02-26-22:
 - Added card data for MON000-MON305
 - Added card data for ELE000-ELE217
-- Removed Essence column (now handled by Type column) in card.csv
+- Removed `Essence` field (now handled by Type column) in card.csv
 - Added hero names in front of Specialization types in card.csv
 - Add card legality to adult hero cards
 - Added "Scepter" and "Demon" as entries in type.csv
 
-02/27-22:
+02-27-22:
 - Added card data for EVR000-EVR197
 - Added a `Blitz Restricted` field to card.csv.
+
+03-05-22:
+- Added `Start Card Id` and `End Card Id` to set.csv.
+- Add a missing rarity info for WTR075 Unlimited
+
+03-06-22:
+- Update functional text for Barraging Beatdown, Bravo / Bravo, Showstopper, Tectonic Plating,
+Forged for War, Blessing of Deliverance, Cartilage Crush, Stonewall Confidence, Katsu / Katsu, The Wanderer,
+Dorinthea / Dorinthea Ironsong, Dawnblade, Refraction Bolters, Goliath Guantlet, Snapdragon Scalers,
+Barraging Brawnhide, Demolition Crew, Flock of the Feather Walkers, Scar for a Scar, Wounded Bull, Pummel,
+Razor Reflex, Unmovable, Nimblism, and Sloggism
+- Fix Markdown in functional text for Crazy Brew
+- Fix an error in the Variations field for Herald of Erudition
+- Fix image urls for Parable of Humility, Herald of Ravages, Herald of Rebirth, Battlefield Blitz, Phantasmaclasm,
+Levia / Levia, Shadowborn Abomination, Mark of the Beast, Endless Maw, Writhing Beast Hulk, Boneyard Marauder,
+Seeds of Agony, Spew Shadow, Pulping, Endless Winter, Glacial Footsteps, Chilling Icevein, and Break Ground
+- Fix various data issues with Over Loop, Hamstring Shot, Salvage Shot, Become the Arknight, Forked Lightning,
+Command and Conquer, Life for a Life, Enchanting Melody, Eirina’s Prayer, Arknight Shard, Massacre,
+Blessing of Serenity, Zephyr Needle, Heron’s Flight, Cintari Saber, Dauntless, Hit and Run, Absorption Dome,
+High Speed Impact, Combustible Courier, Kavdaen, Trader of Skins, Feign Death, Dread Triptych, Rattle Bones,
+Mauvrion Skies, Meat and Greet, Cindering Foresight, Gambler’s Gloves, Spears of Surreality, Dimenxxional Gateway,
+Seeping Shadows, Seeds of Agony, Tremor of iArathael, Oaken Old, Cold Wave, Rejuvenate, Chill to the Bone,
+Wild Ride, Bad Beats, Nerves of Steel, Twin Twisters, Blood on Her Hands, Oath of Steel, Slice and Dice,
+Outland Skirmish, Dissolution Sphere, T-Bone, Zoom In, Release the Tension, Revel in Runeblood,
+Veiled Intentions, Life of the Party, and Briar / Briar, Warden of Thorns
