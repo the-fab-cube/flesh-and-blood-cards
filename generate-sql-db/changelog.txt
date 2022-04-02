@@ -1,0 +1,2 @@
+04-02-22:
+- Add numeric collation on relevent fields in the card table
