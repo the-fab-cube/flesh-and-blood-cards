@@ -59,5 +59,6 @@ Wild Ride, Bad Beats, Nerves of Steel, Twin Twisters, Blood on Her Hands, Oath o
 Outland Skirmish, Dissolution Sphere, T-Bone, Zoom In, Release the Tension, Revel in Runeblood,
 Veiled Intentions, Life of the Party, and Briar / Briar, Warden of Thorns
 
-03-25-22:
-- Update WTR Brute and Guardian cards with Artist info
+04-10-22:
+- Added artist.csv file
+- Updated card.csv with artist info
