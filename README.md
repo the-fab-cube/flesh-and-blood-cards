@@ -92,7 +92,7 @@ choose Tabs as the delimiter and " as the string indicator.
 | Functional Text | string | The functional text that effects gameplay. Use the text from the latest printing or errata. Use [Markdown](https://www.markdownguide.org/basic-syntax/) for bold, italic, etc., and use the list of game icon representations below for representing attack icons, defense icons, etc. | **Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and "If this hits, draw a card." |
 | Flavor Text | string | Any flavor text that appears on the latest printing of the card with flavor text. Do not use italics on this, text is assumed to be in italics. (Example pulled from Talisman of Warfare.) | It's said that wherever the Dracai of War planted this talisman, the lava was soon to flow. |
 | Type Text | string | The type text as printed on the latest edition of the card. | Ninja Action - Attack |
-| Artists | string[] | The artists of the card, correlated to the Identifiers field. If an artist was changed mid printing (ex: TODO), instead use the format ``{Arist Name} - {Card Identifier} - {Set Edition Shorthand}` for all rarities. | C, C, P |
+| Artists | string[] | The artists of the card, correlated to the Identifiers field. If an artist was changed mid printing, instead use the format ``{Arist Name} - {Card Identifier} - {Set Edition Shorthand}` for all artists. | Saad Irfan |
 | Card Played Horizontally | bool | Is the card played horizontally (Ex: Landmarks)? No value is considered No. | Yes |
 | Blitz Restricted | bool | Is the card restricted in the Blitz format? No value is considered No. | No |
 | Blitz Legal | bool | Is the card legal in the Blitz format? No value is considered Yes. | Yes |
@@ -143,6 +143,11 @@ Note: Cards are organized by what main set they were initially released in, in o
 | --- | --- | --- | --- |
 | Shorthand | string | Shorthand representation of the edition. | U |
 | Name | string | Name of the edition. | Unlimited Edition |
+
+### Artist
+| Field Name | Intended Data Type | Explanation | Example |
+| --- | --- | --- | --- |
+| Name | string | Name of the artist. | Saad Irfan  |
 
 
 ## Possible Values
