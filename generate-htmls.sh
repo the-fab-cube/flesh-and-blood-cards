@@ -1,5 +1,6 @@
 #!/bin/bash
 
+pyenv exec csvtotable csvs/artist.csv web/artist.html -d $'\t' -q $'"' -o
 pyenv exec csvtotable csvs/card.csv web/card.html -d $'\t' -q $'"' -o
 pyenv exec csvtotable csvs/edition.csv web/edition.html -d $'\t' -q $'"' -o
 pyenv exec csvtotable csvs/foiling.csv web/foiling.html -d $'\t' -q $'"' -o

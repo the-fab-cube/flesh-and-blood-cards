@@ -23,6 +23,7 @@ def create_table(cur):
             functional_text VARCHAR(10000),
             flavor_text VARCHAR(10000),
             type_text VARCHAR(1000),
+            artists VARCHAR(1000)[] NOT NULL,
             played_horizontally BOOLEAN NOT NULL DEFAULT FALSE,
             blitz_restricted BOOLEAN NOT NULL DEFAULT FALSE,
             blitz_legal BOOLEAN NOT NULL DEFAULT TRUE,
@@ -54,20 +55,20 @@ def drop_table(cur):
         print(error)
 
 def insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
-            ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, played_horizontally, blitz_restricted,
+            ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, artists, played_horizontally, blitz_restricted,
             blitz_legal, cc_legal, variations, image_urls):
     sql = """INSERT INTO cards(ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
-            ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, played_horizontally, blitz_restricted,
+            ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, artists, played_horizontally, blitz_restricted,
             blitz_legal, cc_legal, variations, image_urls)
             VALUES('{{{0}}}', '{{{1}}}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{8}', '{{{9}}}', '{{{10}}}', '{{{11}}}', '{{{12}}}',
-            '{{{13}}}', '{{{14}}}', '{15}', '{16}', '{17}', '{18}', '{19}',
-            '{20}', '{21}', '{{{22}}}', '{{{23}}}');"""
+            '{{{13}}}', '{{{14}}}', '{15}', '{16}', '{17}', '{{{18}}}', '{19}', '{20}',
+            '{21}', '{22}', '{{{23}}}', '{{{24}}}');"""
     try:
         print("Inserting {0} - {1} card...".format(name, pitch))
 
         # execute the INSERT statement
         cur.execute(sql.format(ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
-            ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, played_horizontally, blitz_restricted,
+            ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, artists, played_horizontally, blitz_restricted,
             blitz_legal, cc_legal, variations, image_urls))
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
@@ -100,12 +101,13 @@ def generate_table(cur, url_for_images = None):
             functional_text = row[15]
             flavor_text = row[16]
             type_text = row[17]
-            played_horizontally = row[18]
-            blitz_restricted = row[19]
-            blitz_legal = row[20]
-            cc_legal = row[21]
-            variations = row[22]
-            image_urls = row[23]
+            artists = row[18]
+            played_horizontally = row[19]
+            blitz_restricted = row[20]
+            blitz_legal = row[21]
+            cc_legal = row[22]
+            variations = row[23]
+            image_urls = row[24]
 
             if played_horizontally == '':
                 played_horizontally = False
@@ -122,7 +124,7 @@ def generate_table(cur, url_for_images = None):
                 image_urls = image_urls.replace("https://storage.googleapis.com/fabmaster/media/images/", url_for_images)
 
             insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
-            ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, played_horizontally, blitz_restricted,
+            ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, artists, played_horizontally, blitz_restricted,
             blitz_legal, cc_legal, variations, image_urls)
 
             # print(', '.join(row))
