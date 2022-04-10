@@ -59,6 +59,9 @@ Wild Ride, Bad Beats, Nerves of Steel, Twin Twisters, Blood on Her Hands, Oath o
 Outland Skirmish, Dissolution Sphere, T-Bone, Zoom In, Release the Tension, Revel in Runeblood,
 Veiled Intentions, Life of the Party, and Briar / Briar, Warden of Thorns
 
+04-02-22:
+- Added missing health and intelligence data for Kavdaen, Trader of Skins
+
 04-10-22:
 - Added artist.csv file
 - Updated card.csv with artist info

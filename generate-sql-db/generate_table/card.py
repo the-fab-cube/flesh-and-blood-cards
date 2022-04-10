@@ -5,15 +5,15 @@ from pathlib import Path
 def create_table(cur):
     command = """
         CREATE TABLE cards (
-            ids VARCHAR(15)[] NOT NULL,
-            set_ids VARCHAR(15)[] NOT NULL,
+            ids VARCHAR(15)[] NOT NULL COLLATE numeric,
+            set_ids VARCHAR(15)[] NOT NULL COLLATE numeric,
             name VARCHAR(255) NOT NULL,
-            pitch VARCHAR(10),
-            cost VARCHAR(10),
-            power VARCHAR(10),
-            defense VARCHAR(10),
-            health VARCHAR(10),
-            intelligence VARCHAR(10),
+            pitch VARCHAR(10) COLLATE numeric,
+            cost VARCHAR(10) COLLATE numeric,
+            power VARCHAR(10) COLLATE numeric,
+            defense VARCHAR(10) COLLATE numeric,
+            health VARCHAR(10) COLLATE numeric,
+            intelligence VARCHAR(10) COLLATE numeric,
             rarities VARCHAR(255)[] NOT NULL,
             types VARCHAR(255)[] NOT NULL,
             card_keywords VARCHAR(255)[],
