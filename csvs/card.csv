@@ -3204,211 +3204,211 @@ ELE235	ELE	Cracker Jax				0			C	Generic, Equipment, Arms		Action	Go again		**Act
 ELE236	ELE	Runaways				0			C	Generic, Equipment, Legs		Instant			**Instant** - Destroy Runaways: Prevent the next 1 damage that would be dealt to your hero this turn. Activate this ability only if your hero has been dealt damage this turn.		Generic Equipment – Legs	Kyxarie Peralta					S C – ELE236 – F, S R – ELE236 – U	https://storage.googleapis.com/fabmaster/media/images/ELE236.width-450.png – ELE236 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE236.width-450.png – ELE236 – U
 EVR000	EVR	Grandeur of Valahai	3						F	Guardian, Resource, Gem	Legendary				"**Legendary** (You may only have 1 Grandeur of Valahai in your deck.)
 
-When you pitch Grandeur of Valahai, create a Seismic Surge token."		Guardian Resource – Gem						C – EVR000 – F	https://storage.googleapis.com/fabmaster/media/images/EVR000.width-450.png - EVR000 - F
+When you pitch Grandeur of Valahai, create a Seismic Surge token."		Guardian Resource – Gem	Henrique Lindner					C – EVR000 – F	https://storage.googleapis.com/fabmaster/media/images/EVR000.width-450.png - EVR000 - F
 EVR001	EVR	Skull Crushers				1			M	Brute, Equipment, Arms	Battleworn				"Whenever you roll a 5 or 6 on a die, your Brute attacks gain +1{p} this turn.
 
 Whenever you roll a 1 on a die, destroy Skull Crushers.
 
-**Battleworn** *(If you defend with Skull Crushers, put a -1{d} counter on it when the combat chain closes.)*"		Brute Equipment – Arms						S C – EVR001 – F	https://storage.googleapis.com/fabmaster/media/images/EVR001.width-450.png - EVR001 - F
-EVR002	EVR	Swing Big	1	2	8	3			M	Brute, Action, Attack					If Swing Big doesn't hit, the defending hero creates a Quicken token when the combat chain closes.	Savage Lands politics is simple; those with the biggest swing, have the biggest sway.	Brute Action – Attack						S R – EVR002 – F	https://storage.googleapis.com/fabmaster/media/images/EVR002.width-450.png - EVR002 - F
+**Battleworn** *(If you defend with Skull Crushers, put a -1{d} counter on it when the combat chain closes.)*"		Brute Equipment – Arms	Jason Kiantoro					S C – EVR001 – F	https://storage.googleapis.com/fabmaster/media/images/EVR001.width-450.png - EVR001 - F
+EVR002	EVR	Swing Big	1	2	8	3			M	Brute, Action, Attack					If Swing Big doesn't hit, the defending hero creates a Quicken token when the combat chain closes.	Savage Lands politics is simple; those with the biggest swing, have the biggest sway.	Brute Action – Attack	Phu Thieu					S R – EVR002 – F	https://storage.googleapis.com/fabmaster/media/images/EVR002.width-450.png - EVR002 - F
 EVR003	EVR	Ready to Roll	3	0		3			M	Brute, Action	Kayo Specialization, Go again				"**Kayo Specialization** *(You may only have Ready to Roll in your deck if your hero is Kayo.)*
 
 If you would roll 1 or more dice this turn, instead roll that many dice plus 1 and ignore the lowest roll.
 
-**Go again**"		Brute Action						S R – EVR003 – F	https://storage.googleapis.com/fabmaster/media/images/EVR003.width-450.png - EVR003 - F
+**Go again**"		Brute Action	Yugin Maffioli					S R – EVR003 – F	https://storage.googleapis.com/fabmaster/media/images/EVR003.width-450.png - EVR003 - F
 EVR004	EVR	Rolling Thunder	1	1		3			M	Brute, Action	Go again				"Roll a 6 sided die. Your next Brute attack this turn gains +X{p}, where X the number rolled.
 
-**Go again**"		Brute Action						S R – EVR004 – F	https://storage.googleapis.com/fabmaster/media/images/EVR004.width-450.png - EVR004 - F
+**Go again**"		Brute Action	Stanislav Sherbakov					S R – EVR004 – F	https://storage.googleapis.com/fabmaster/media/images/EVR004.width-450.png - EVR004 - F
 EVR005	EVR	High Roller	1	0		3			R	Brute, Action	Intimidate, Go again				"**Intimidate** *(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)*
 
 If you have rolled a 4, 5, or 6 on a die this turn, instead **intimidate** twice.
 
-**Go again**"		Brute Action						S R – EVR005 – F	https://storage.googleapis.com/fabmaster/media/images/EVR005.width-450.png - EVR005 - F
+**Go again**"		Brute Action	Alief Rusdiatama					S R – EVR005 – F	https://storage.googleapis.com/fabmaster/media/images/EVR005.width-450.png - EVR005 - F
 EVR006	EVR	High Roller	2	0		3			R	Brute, Action	Intimidate, Go again				"**Intimidate** *(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)*
 
 If you have rolled a 5 or 6 on a die this turn, instead **intimidate** twice.
 
-**Go again**"		Brute Action						S R – EVR006 – F	https://storage.googleapis.com/fabmaster/media/images/EVR006.width-450.png - EVR006 - F
+**Go again**"		Brute Action	Alief Rusdiatama					S R – EVR006 – F	https://storage.googleapis.com/fabmaster/media/images/EVR006.width-450.png - EVR006 - F
 EVR007	EVR	High Roller	3	0		3			R	Brute, Action	Intimidate, Go again				"**Intimidate** *(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)*
 
 If you have rolled a 6 on a die this turn, instead **intimidate** twice.
 
-**Go again**"		Brute Action						S R – EVR007 – F	https://storage.googleapis.com/fabmaster/media/images/EVR007.width-450.png - EVR007 - F
-EVR008	EVR	Bare Fangs	1	2	6				C	Brute, Action, Attack					When you attack with Bare Fangs, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.		Brute Action – Attack						S R – EVR008 – F	https://storage.googleapis.com/fabmaster/media/images/EVR008.width-450.png - EVR008 - F
-EVR009	EVR	Bare Fangs	2	2	5				C	Brute, Action, Attack					When you attack with Bare Fangs, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.		Brute Action – Attack						S R – EVR009 – F	https://storage.googleapis.com/fabmaster/media/images/EVR009.width-450.png - EVR009 - F
-EVR010	EVR	Bare Fangs	3	2	4				C	Brute, Action, Attack					When you attack with Bare Fangs, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.		Brute Action – Attack						S R – EVR010 – F	https://storage.googleapis.com/fabmaster/media/images/EVR010.width-450.png - EVR010 - F
-EVR011	EVR	Wild Ride	1	2	6				C	Brute, Action, Attack					When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again.**	Everyone who knows how to have a good time is welcome in Aria.	Brute Action – Attack						S R – EVR011 – F	https://storage.googleapis.com/fabmaster/media/images/EVR011.width-450.png - EVR011 - F
-EVR012	EVR	Wild Ride	2	2	5				C	Brute, Action, Attack					When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again.**	Everyone who knows how to have a good time is welcome in Aria.	Brute Action – Attack						S R – EVR012 – F	https://storage.googleapis.com/fabmaster/media/images/EVR012.width-450.png - EVR012 - F
-EVR013	EVR	Wild Ride	3	2	4				C	Brute, Action, Attack					When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again.**	Everyone who knows how to have a good time is welcome in Aria.	Brute Action – Attack						S R – EVR013 – F	https://storage.googleapis.com/fabmaster/media/images/EVR013.width-450.png - EVR013 - F
+**Go again**"		Brute Action	Alief Rusdiatama					S R – EVR007 – F	https://storage.googleapis.com/fabmaster/media/images/EVR007.width-450.png - EVR007 - F
+EVR008	EVR	Bare Fangs	1	2	6				C	Brute, Action, Attack					When you attack with Bare Fangs, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.		Brute Action – Attack	Yugin Maffioli					S R – EVR008 – F	https://storage.googleapis.com/fabmaster/media/images/EVR008.width-450.png - EVR008 - F
+EVR009	EVR	Bare Fangs	2	2	5				C	Brute, Action, Attack					When you attack with Bare Fangs, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.		Brute Action – Attack	Yugin Maffioli					S R – EVR009 – F	https://storage.googleapis.com/fabmaster/media/images/EVR009.width-450.png - EVR009 - F
+EVR010	EVR	Bare Fangs	3	2	4				C	Brute, Action, Attack					When you attack with Bare Fangs, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.		Brute Action – Attack	Yugin Maffioli					S R – EVR010 – F	https://storage.googleapis.com/fabmaster/media/images/EVR010.width-450.png - EVR010 - F
+EVR011	EVR	Wild Ride	1	2	6				C	Brute, Action, Attack					When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again.**	Everyone who knows how to have a good time is welcome in Aria.	Brute Action – Attack	Federico Musetti					S R – EVR011 – F	https://storage.googleapis.com/fabmaster/media/images/EVR011.width-450.png - EVR011 - F
+EVR012	EVR	Wild Ride	2	2	5				C	Brute, Action, Attack					When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again.**	Everyone who knows how to have a good time is welcome in Aria.	Brute Action – Attack	Federico Musetti					S R – EVR012 – F	https://storage.googleapis.com/fabmaster/media/images/EVR012.width-450.png - EVR012 - F
+EVR013	EVR	Wild Ride	3	2	4				C	Brute, Action, Attack					When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again.**	Everyone who knows how to have a good time is welcome in Aria.	Brute Action – Attack	Federico Musetti					S R – EVR013 – F	https://storage.googleapis.com/fabmaster/media/images/EVR013.width-450.png - EVR013 - F
 EVR014	EVR	Bad Beats	1	0		3			C	Brute, Action					"Roll a 6 sided die. If the number rolled is a 4, 5, or 6, the next Brute attack action card you play this turn gains +5{p}.
 
-**Go again**"		Brute Action						S R – EVR014 – F	https://storage.googleapis.com/fabmaster/media/images/EVR014.width-450.png - EVR014 - F
+**Go again**"		Brute Action	bimawithpencil					S R – EVR014 – F	https://storage.googleapis.com/fabmaster/media/images/EVR014.width-450.png - EVR014 - F
 EVR015	EVR	Bad Beats	2	0		3			C	Brute, Action					"Roll a 6 sided die. If the number rolled is a 5 or 6, the next Brute attack action card you play this turn gains +5{p}.
 
-**Go again**"		Brute Action						S R – EVR015 – F	https://storage.googleapis.com/fabmaster/media/images/EVR015.width-450.png - EVR015 - F
+**Go again**"		Brute Action	bimawithpencil					S R – EVR015 – F	https://storage.googleapis.com/fabmaster/media/images/EVR015.width-450.png - EVR015 - F
 EVR016	EVR	Bad Beats	3	0		3			C	Brute, Action					"Roll a 6 sided die. If the number rolled is a 6, the next Brute attack action card you play this turn gains +5{p}.
 
-**Go again**"		Brute Action						S R – EVR016 – F	https://storage.googleapis.com/fabmaster/media/images/EVR016.width-450.png - EVR016 - F
+**Go again**"		Brute Action	bimawithpencil					S R – EVR016 – F	https://storage.googleapis.com/fabmaster/media/images/EVR016.width-450.png - EVR016 - F
 EVR017	EVR	Bravo, Star of the Show					40	4	M	Elemental, Guardian, Hero	Essence of Earth, Ice, and Lightning			Dominate, Go again	"**Essence of Earth, Ice, and Lightning** *(You may have Earth, Ice, and Lightning cards in your deck.)*
 
-At the start of your turn, you may reveal an Earth, an Ice, and a Lightning card from your hand. If you do, the next attack action card with cost 3 or greater you play this turn gains +2{p}, **dominate**, and **go again.**"		Elemental Guardian Hero				No		S C – EVR017 – F	https://storage.googleapis.com/fabmaster/media/images/EVR017.width-450.png - EVR017 - F
-EVR018	EVR	Stalagmite, Bastion of Isenloft				2			L	Ice, Guardian, Equipment, Off-Hand	Temper				Whenever you defend with Stalagmite, create a Frostbite token under the attacking hero's control. **Temper**		Ice Guardian Equipment – Off-Hand						C – EVR018 – F	https://storage.googleapis.com/fabmaster/media/images/EVR018.width-450.png - EVR018 - F
+At the start of your turn, you may reveal an Earth, an Ice, and a Lightning card from your hand. If you do, the next attack action card with cost 3 or greater you play this turn gains +2{p}, **dominate**, and **go again.**"		Elemental Guardian Hero	Marco Wulfr			No		S C – EVR017 – F	https://storage.googleapis.com/fabmaster/media/images/EVR017.width-450.png - EVR017 - F
+EVR018	EVR	Stalagmite, Bastion of Isenloft				2			L	Ice, Guardian, Equipment, Off-Hand	Temper				Whenever you defend with Stalagmite, create a Frostbite token under the attacking hero's control. **Temper**		Ice Guardian Equipment – Off-Hand	Lizhe Liang					C – EVR018 – F	https://storage.googleapis.com/fabmaster/media/images/EVR018.width-450.png - EVR018 - F
 EVR019	EVR	Valda Brightaxe					21	4	M	Guardian, Hero, Young				Dominate	"Whenever an opponent draws a card during an action phase, create a Seismic Surge token for each card drawn this way.
 
-At the start of your turn, if you control 3 or more Seismic Surge tokens, cards you own with **crush** gain **dominate** this turn."		Guardian Hero – Young						S R – EVR019 – F	https://storage.googleapis.com/fabmaster/media/images/EVR019.width-450.png - EVR019 - F
+At the start of your turn, if you control 3 or more Seismic Surge tokens, cards you own with **crush** gain **dominate** this turn."		Guardian Hero – Young	Wisnu Tan					S R – EVR019 – F	https://storage.googleapis.com/fabmaster/media/images/EVR019.width-450.png - EVR019 - F
 EVR020	EVR	Earthlore Bounty				2			M	Guardian, Equipment, Chest	Temper				"Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.
 
-**Temper** *(If you defend with Earthlore Bounty, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)*"		Guardian Equipment – Chest						S C – EVR020 – F	https://storage.googleapis.com/fabmaster/media/images/EVR020.width-450.png - EVR020 - F
+**Temper** *(If you defend with Earthlore Bounty, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)*"		Guardian Equipment – Chest	Alexander Mokhov					S C – EVR020 – F	https://storage.googleapis.com/fabmaster/media/images/EVR020.width-450.png - EVR020 - F
 EVR021	EVR	Pulverize	1	10	14	3			M	Guardian, Action, Attack	Heave 3				"**Heave 3** *(At the beginning of your end phase, if Pulverize is in your hand and you have an empty arsenal zone, you may pay {r}{r}{r} and put Pulverize face up into your arsenal. If you do, create 3 Seismic Surge tokens.)*
 
-If Pulverize hits a hero, their first attack during their next turn has -4{p}."		Guardian Action – Attack						S R – EVR021 – F, R – EVR021 – F – EA	https://storage.googleapis.com/fabmaster/media/images/EVR021.width-450.png - EVR021 - F
+If Pulverize hits a hero, their first attack during their next turn has -4{p}."		Guardian Action – Attack	Federico Musetti					S R – EVR021 – F, R – EVR021 – F – EA	https://storage.googleapis.com/fabmaster/media/images/EVR021.width-450.png - EVR021 - F
 EVR022	EVR	Imposing Visage	3	X3		3			M	Guardian, Action	Go again				"Search your deck for an aura card with cost X or less, put it into the arena, then shuffle your deck.
 
-**Go again**"	Before the Age of Man, the specter of war loomed over Rathe, as the great Aesirs roamed the land.	Guardian Action						S R – EVR022 – F	https://storage.googleapis.com/fabmaster/media/images/EVR022.width-450.png - EVR022 - F
+**Go again**"	Before the Age of Man, the specter of war loomed over Rathe, as the great Aesirs roamed the land.	Guardian Action	Simon Wong					S R – EVR022 – F	https://storage.googleapis.com/fabmaster/media/images/EVR022.width-450.png - EVR022 - F
 EVR023	EVR	Nerves of Steel	3	3		3			M	Guardian, Action, Aura	Battleworn, Temper				"When Nerves of Steel enters the arena, remove a -1{d} counter from a chest equipment you control.
 
 **Battleworn** and **temper** on equipment you control doesn’t trigger if it defends an attack with 2 or less {p}. *(***Battleworn*** and ***temper*** trigger when the combat chain closes.)*
 
-When your hero is dealt damage, destroy Nerves of Steel."		Guardian Action – Aura						S R – EVR023 – F	https://storage.googleapis.com/fabmaster/media/images/EVR023.width-450.png - EVR023 - F
-EVR024	EVR	Thunder Quake	1	6	10	3			R	Guardian, Action, Attack	Heave 3				**Heave 3** *(At the beginning of your end phase, if Thunder Quake is in your hand and you have an empty arsenal zone, you may pay {r}{r}{r} and put Thunder Quake face up into your arsenal. If you do, create 3 Seismic Surge tokens.)*		Guardian Action – Attack						S R – EVR024 – F, R – EVR024 – F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR024.width-450.png - EVR024 - F
-EVR025	EVR	Thunder Quake	2	6	9	3			R	Guardian, Action, Attack	Heave 3				**Heave 3** *(At the beginning of your end phase, if Thunder Quake is in your hand and you have an empty arsenal zone, you may pay {r}{r}{r} and put Thunder Quake face up into your arsenal. If you do, create 3 Seismic Surge tokens.)*		Guardian Action – Attack						S R – EVR025 – F, R – EVR025 – F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR025.width-450.png - EVR025 - F
-EVR026	EVR	Thunder Quake	3	6	8	3			R	Guardian, Action, Attack	Heave 3				**Heave 3** *(At the beginning of your end phase, if Thunder Quake is in your hand and you have an empty arsenal zone, you may pay {r}{r}{r} and put Thunder Quake face up into your arsenal. If you do, create 3 Seismic Surge tokens.)*		Guardian Action – Attack						S R – EVR026 – F, R – EVR026 – F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR026.width-450.png - EVR026 - F
-EVR027	EVR	Macho Grande	1	7	10	3			C	Guardian, Action, Attack	Dominate				**Dominate** *(The defending hero can't defend Macho Grande with more than 1 card from their hand.)*	The “Strongest Man in Rathe” performance is always a mainstay and fan favorite, wherever the Everfest Carnival roams.	Guardian Action – Attack						S R – EVR027 – F	https://storage.googleapis.com/fabmaster/media/images/EVR027.width-450.png - EVR027 - F
-EVR028	EVR	Macho Grande	2	7	9	3			C	Guardian, Action, Attack	Dominate				**Dominate** *(The defending hero can't defend Macho Grande with more than 1 card from their hand.)*	The “Strongest Man in Rathe” performance is always a mainstay and fan favorite, wherever the Everfest Carnival roams.	Guardian Action – Attack						S R – EVR028 – F	https://storage.googleapis.com/fabmaster/media/images/EVR028.width-450.png - EVR028 - F
-EVR029	EVR	Macho Grande	3	7	8	3			C	Guardian, Action, Attack	Dominate				**Dominate** *(The defending hero can't defend Macho Grande with more than 1 card from their hand.)*	The “Strongest Man in Rathe” performance is always a mainstay and fan favorite, wherever the Everfest Carnival roams.	Guardian Action – Attack						S R – EVR029 – F	https://storage.googleapis.com/fabmaster/media/images/EVR029.width-450.png - EVR029 - F
+When your hero is dealt damage, destroy Nerves of Steel."		Guardian Action – Aura	Nikolay Moskvin					S R – EVR023 – F	https://storage.googleapis.com/fabmaster/media/images/EVR023.width-450.png - EVR023 - F
+EVR024	EVR	Thunder Quake	1	6	10	3			R	Guardian, Action, Attack	Heave 3				**Heave 3** *(At the beginning of your end phase, if Thunder Quake is in your hand and you have an empty arsenal zone, you may pay {r}{r}{r} and put Thunder Quake face up into your arsenal. If you do, create 3 Seismic Surge tokens.)*		Guardian Action – Attack	Othon Nikolaidis					S R – EVR024 – F, R – EVR024 – F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR024.width-450.png - EVR024 - F
+EVR025	EVR	Thunder Quake	2	6	9	3			R	Guardian, Action, Attack	Heave 3				**Heave 3** *(At the beginning of your end phase, if Thunder Quake is in your hand and you have an empty arsenal zone, you may pay {r}{r}{r} and put Thunder Quake face up into your arsenal. If you do, create 3 Seismic Surge tokens.)*		Guardian Action – Attack	Othon Nikolaidis					S R – EVR025 – F, R – EVR025 – F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR025.width-450.png - EVR025 - F
+EVR026	EVR	Thunder Quake	3	6	8	3			R	Guardian, Action, Attack	Heave 3				**Heave 3** *(At the beginning of your end phase, if Thunder Quake is in your hand and you have an empty arsenal zone, you may pay {r}{r}{r} and put Thunder Quake face up into your arsenal. If you do, create 3 Seismic Surge tokens.)*		Guardian Action – Attack	Othon Nikolaidis					S R – EVR026 – F, R – EVR026 – F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR026.width-450.png - EVR026 - F
+EVR027	EVR	Macho Grande	1	7	10	3			C	Guardian, Action, Attack	Dominate				**Dominate** *(The defending hero can't defend Macho Grande with more than 1 card from their hand.)*	The “Strongest Man in Rathe” performance is always a mainstay and fan favorite, wherever the Everfest Carnival roams.	Guardian Action – Attack	Andy Aslamov					S R – EVR027 – F	https://storage.googleapis.com/fabmaster/media/images/EVR027.width-450.png - EVR027 - F
+EVR028	EVR	Macho Grande	2	7	9	3			C	Guardian, Action, Attack	Dominate				**Dominate** *(The defending hero can't defend Macho Grande with more than 1 card from their hand.)*	The “Strongest Man in Rathe” performance is always a mainstay and fan favorite, wherever the Everfest Carnival roams.	Guardian Action – Attack	Andy Aslamov					S R – EVR028 – F	https://storage.googleapis.com/fabmaster/media/images/EVR028.width-450.png - EVR028 - F
+EVR029	EVR	Macho Grande	3	7	8	3			C	Guardian, Action, Attack	Dominate				**Dominate** *(The defending hero can't defend Macho Grande with more than 1 card from their hand.)*	The “Strongest Man in Rathe” performance is always a mainstay and fan favorite, wherever the Everfest Carnival roams.	Guardian Action – Attack	Andy Aslamov					S R – EVR029 – F	https://storage.googleapis.com/fabmaster/media/images/EVR029.width-450.png - EVR029 - F
 EVR030	EVR	Seismic Stir	1	2		3			C	Guardian, Action	Go again				"Create 3 Seismic Surge tokens.
 
-**Go again**"	The Ollin stand guard over the land of Aria, and the land in turn shall answer their call.	Guardian Action						S R – EVR030 – F	https://storage.googleapis.com/fabmaster/media/images/EVR030.width-450.png - EVR030 - F
+**Go again**"	The Ollin stand guard over the land of Aria, and the land in turn shall answer their call.	Guardian Action	Kyxarie Peralta					S R – EVR030 – F	https://storage.googleapis.com/fabmaster/media/images/EVR030.width-450.png - EVR030 - F
 EVR031	EVR	Seismic Stir	2	2		3			C	Guardian, Action	Go again				"Create 2 Seismic Surge tokens.
 
-**Go again**"	The Ollin stand guard over the land of Aria, and the land in turn shall answer their call.	Guardian Action						S R – EVR031 – F	https://storage.googleapis.com/fabmaster/media/images/EVR031.width-450.png - EVR031 - F
+**Go again**"	The Ollin stand guard over the land of Aria, and the land in turn shall answer their call.	Guardian Action	Kyxarie Peralta					S R – EVR031 – F	https://storage.googleapis.com/fabmaster/media/images/EVR031.width-450.png - EVR031 - F
 EVR032	EVR	Seismic Stir	3	2		3			C	Guardian, Action	Go again				"Create a Seismic Surge token.
 
-**Go again**"	The Ollin stand guard over the land of Aria, and the land in turn shall answer their call.	Guardian Action						S R – EVR032 – F	https://storage.googleapis.com/fabmaster/media/images/EVR032.width-450.png - EVR032 - F
-EVR033	EVR	Steadfast	1	3					C	Guardian, Instant					Prevent the next 6 damage that would be dealt to your hero this turn by a source of your choice.	“Be it sword or sorcery, we defend, we defeat, or we die.” - Oldhim, Grandfather of Eternity	Guardian Instant						S R – EVR033 – F	https://storage.googleapis.com/fabmaster/media/images/EVR033.width-450.png - EVR033 - F
-EVR034	EVR	Steadfast	2	3					C	Guardian, Instant					Prevent the next 5 damage that would be dealt to your hero this turn by a source of your choice.	“Be it sword or sorcery, we defend, we defeat, or we die.” - Oldhim, Grandfather of Eternity	Guardian Instant						S R – EVR034 – F	https://storage.googleapis.com/fabmaster/media/images/EVR034.width-450.png - EVR034 - F
-EVR035	EVR	Steadfast	3	3					C	Guardian, Instant					Prevent the next 4 damage that would be dealt to your hero this turn by a source of your choice.	“Be it sword or sorcery, we defend, we defeat, or we die.” - Oldhim, Grandfather of Eternity	Guardian Instant						S R – EVR035 – F	https://storage.googleapis.com/fabmaster/media/images/EVR035.width-450.png - EVR035 - F
+**Go again**"	The Ollin stand guard over the land of Aria, and the land in turn shall answer their call.	Guardian Action	Kyxarie Peralta					S R – EVR032 – F	https://storage.googleapis.com/fabmaster/media/images/EVR032.width-450.png - EVR032 - F
+EVR033	EVR	Steadfast	1	3					C	Guardian, Instant					Prevent the next 6 damage that would be dealt to your hero this turn by a source of your choice.	“Be it sword or sorcery, we defend, we defeat, or we die.” - Oldhim, Grandfather of Eternity	Guardian Instant	Maerel Hibadita					S R – EVR033 – F	https://storage.googleapis.com/fabmaster/media/images/EVR033.width-450.png - EVR033 - F
+EVR034	EVR	Steadfast	2	3					C	Guardian, Instant					Prevent the next 5 damage that would be dealt to your hero this turn by a source of your choice.	“Be it sword or sorcery, we defend, we defeat, or we die.” - Oldhim, Grandfather of Eternity	Guardian Instant	Maerel Hibadita					S R – EVR034 – F	https://storage.googleapis.com/fabmaster/media/images/EVR034.width-450.png - EVR034 - F
+EVR035	EVR	Steadfast	3	3					C	Guardian, Instant					Prevent the next 4 damage that would be dealt to your hero this turn by a source of your choice.	“Be it sword or sorcery, we defend, we defeat, or we die.” - Oldhim, Grandfather of Eternity	Guardian Instant	Maerel Hibadita					S R – EVR035 – F	https://storage.googleapis.com/fabmaster/media/images/EVR035.width-450.png - EVR035 - F
 EVR037	EVR	Mask of the Pouncing Lynx				2			M	Ninja, Equipment, Head	Blade Break				"When an attack action card you control hits, you may destroy Mask of the Pouncing Lynx. If you do, search your deck for an attack action card with 2 or less {p}, banish it, then shuffle. You may play it this turn.
 
-**Blade Break** *(If you defend with Mask of the Pouncing Lynx, destroy it when the combat chain closes.)*"		Ninja Equipment – Head						S C – EVR037 – F	https://storage.googleapis.com/fabmaster/media/images/EVR037.width-450.png - EVR037 - F
-EVR038	EVR	Break Tide	2	0	2	3			M	Ninja, Action, Attack	Combo, Dominate				"**Combo** - If Rushing River or Flood of Force was the last attack this combat chain, Break Tide gains +3{p}, **dominate**, and ""If Break Tide hits, banish the top card of your deck. Until the end of your next turn, you may play it."""		Ninja Action – Attack						S R – EVR038 – F	https://storage.googleapis.com/fabmaster/media/images/EVR038.width-450.png - EVR038 - F
+**Blade Break** *(If you defend with Mask of the Pouncing Lynx, destroy it when the combat chain closes.)*"		Ninja Equipment – Head	Sam Yang					S C – EVR037 – F	https://storage.googleapis.com/fabmaster/media/images/EVR037.width-450.png - EVR037 - F
+EVR038	EVR	Break Tide	2	0	2	3			M	Ninja, Action, Attack	Combo, Dominate				"**Combo** - If Rushing River or Flood of Force was the last attack this combat chain, Break Tide gains +3{p}, **dominate**, and ""If Break Tide hits, banish the top card of your deck. Until the end of your next turn, you may play it."""		Ninja Action – Attack	Faizal Fikri					S R – EVR038 – F	https://storage.googleapis.com/fabmaster/media/images/EVR038.width-450.png - EVR038 - F
 EVR039	EVR	Spring Tidings	2	0	2	3			M	Ninja, Action, Attack	Benji Specialization, Go again				"**Benji Specialization** *(You may only have Spring Tidings in your deck if your hero is Benji.)*
 
 When Spring Tidings hits, draw a card for each other attack action card with 2 or less base{p} you control on the combat chain.
 
-**Go again**"		Ninja Action – Attack						S R – EVR039 – F	https://storage.googleapis.com/fabmaster/media/images/EVR039.width-450.png - EVR039 - F
-EVR040	EVR	Winds of Eternity	3	0	2	3			M	Ninja, Action, Attack	Combo				"**Combo** - If Winds of Eternity was the last attack this combat chain, Winds of Eternity gains +2{p} and ""If this hits, shuffle all cards named Hundred Winds you control on this combat chain into your deck."""		Ninja Action – Attack						S R – EVR040 – F, R – EVR040 – F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR040.width-450.png - EVR040 - F
+**Go again**"		Ninja Action – Attack	Rio Sabda					S R – EVR039 – F	https://storage.googleapis.com/fabmaster/media/images/EVR039.width-450.png - EVR039 - F
+EVR040	EVR	Winds of Eternity	3	0	2	3			M	Ninja, Action, Attack	Combo				"**Combo** - If Winds of Eternity was the last attack this combat chain, Winds of Eternity gains +2{p} and ""If this hits, shuffle all cards named Hundred Winds you control on this combat chain into your deck."""		Ninja Action – Attack	Jessada Sutthi					S R – EVR040 – F, R – EVR040 – F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR040.width-450.png - EVR040 - F
 EVR041	EVR	Hundred Winds	1	0	3	2			R	Ninja, Action, Attack	Combo, Go again				"**Combo** - If Hundred Winds was the last attack this combat chain, this attack gains +1{p} for each other card named Hundred Winds you control on this combat chain.
 
-**Go again**"		Ninja Action – Attack						S R – EVR041 – F, R – EVR041 – F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR041.width-450.png - EVR041 - F
+**Go again**"		Ninja Action – Attack	Jessada Sutthi					S R – EVR041 – F, R – EVR041 – F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR041.width-450.png - EVR041 - F
 EVR042	EVR	Hundred Winds	2	0	2	2			R	Ninja, Action, Attack	Combo, Go again				"**Combo** - If Hundred Winds was the last attack this combat chain, this attack gains +1{p} for each other card named Hundred Winds you control on this combat chain.
 
-**Go again**"		Ninja Action – Attack						S R – EVR042 – F, R – EVR042 – F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR042.width-450.png - EVR042 - F
+**Go again**"		Ninja Action – Attack	Jessada Sutthi					S R – EVR042 – F, R – EVR042 – F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR042.width-450.png - EVR042 - F
 EVR043	EVR	Hundred Winds	3	0	1	2			R	Ninja, Action, Attack	Combo, Go again				"**Combo** - If Hundred Winds was the last attack this combat chain, this attack gains +1{p} for each other card named Hundred Winds you control on this combat chain.
 
-**Go again**"		Ninja Action – Attack						S R – EVR043 – F, R – EVR043 – F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR043.width-450.png - EVR043 - F
+**Go again**"		Ninja Action – Attack	Jessada Sutthi					S R – EVR043 – F, R – EVR043 – F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR043.width-450.png - EVR043 - F
 EVR044	EVR	Ride the Tailwind	1	0	3	2			C	Ninja, Action, Attack	Go again			Go again	"When Ride the Tailwind hits, the next attack action card with 2 or less base {p} you play this combat chain gains **go again.**
 
-**Go again**"		Ninja Action – Attack						S R – EVR044 – F	https://storage.googleapis.com/fabmaster/media/images/EVR044.width-450.png - EVR044 - F
+**Go again**"		Ninja Action – Attack	Rio Sabda					S R – EVR044 – F	https://storage.googleapis.com/fabmaster/media/images/EVR044.width-450.png - EVR044 - F
 EVR045	EVR	Ride the Tailwind	2	0	2	2			C	Ninja, Action, Attack	Go again			Go again	"When Ride the Tailwind hits, the next attack action card with 2 or less base {p} you play this combat chain gains **go again.**
 
-**Go again**"		Ninja Action – Attack						S R – EVR045 – F	https://storage.googleapis.com/fabmaster/media/images/EVR045.width-450.png - EVR045 - F
+**Go again**"		Ninja Action – Attack	Rio Sabda					S R – EVR045 – F	https://storage.googleapis.com/fabmaster/media/images/EVR045.width-450.png - EVR045 - F
 EVR046	EVR	Ride the Tailwind	3	0	1	2			C	Ninja, Action, Attack	Go again			Go again	"When Ride the Tailwind hits, the next attack action card with 2 or less base {p} you play this combat chain gains **go again.**
 
-**Go again**"		Ninja Action – Attack						S R – EVR046 – F	https://storage.googleapis.com/fabmaster/media/images/EVR046.width-450.png - EVR046 - F
+**Go again**"		Ninja Action – Attack	Rio Sabda					S R – EVR046 – F	https://storage.googleapis.com/fabmaster/media/images/EVR046.width-450.png - EVR046 - F
 EVR047	EVR	Twin Twisters	1	1	3	2			C	Ninja, Action, Attack	Go again				"Choose 1:
 
 - Twin Twisters gains ""When this hits, your next attack this combat chain gains +1{p}.”
 - Twin Twisters gains +1{p}.
 
-**Go again**"		Ninja Action – Attack						S R – EVR047 – F	https://storage.googleapis.com/fabmaster/media/images/EVR047.width-450.png - EVR047 - F
+**Go again**"		Ninja Action – Attack	Faizal Fikri					S R – EVR047 – F	https://storage.googleapis.com/fabmaster/media/images/EVR047.width-450.png - EVR047 - F
 EVR048	EVR	Twin Twisters	2	1	2	2			C	Ninja, Action, Attack	Go again				"Choose 1:
 
 - Twin Twisters gains ""When this hits, your next attack this combat chain gains +1{p}.”
 - Twin Twisters gains +1{p}.
 
-**Go again**"		Ninja Action – Attack						S R – EVR048 – F	https://storage.googleapis.com/fabmaster/media/images/EVR048.width-450.png - EVR048 - F
+**Go again**"		Ninja Action – Attack	Faizal Fikri					S R – EVR048 – F	https://storage.googleapis.com/fabmaster/media/images/EVR048.width-450.png - EVR048 - F
 EVR049	EVR	Twin Twisters	3	1	1	2			C	Ninja, Action, Attack	Go again				"Choose 1:
 
 - Twin Twisters gains ""When this hits, your next attack this combat chain gains +1{p}.”
 - Twin Twisters gains +1{p}.
 
-**Go again**"		Ninja Action – Attack						S R – EVR049 – F	https://storage.googleapis.com/fabmaster/media/images/EVR049.width-450.png - EVR049 - F
-EVR050	EVR	Wax On	1	0		3			C	Ninja, Defense Reaction					While Wax On is defending an attack action card with cost 0, it gains +2{d}.	“Find lessons in every task you undertake..” - Master Morita, Art of the Hand	Ninja Defense Reaction						S R – EVR050 – F	https://storage.googleapis.com/fabmaster/media/images/EVR050.width-450.png - EVR050 - F
-EVR051	EVR	Wax On	2	0		2			C	Ninja, Defense Reaction					While Wax On is defending an attack action card with cost 0, it gains +2{d}.	“.. mastery of the Arts lie hidden within..” - Master Morita, Art of the Hand	Ninja Defense Reaction						S R – EVR051 – F	https://storage.googleapis.com/fabmaster/media/images/EVR051.width-450.png - EVR051 - F
-EVR052	EVR	Wax On	3	0		1			C	Ninja, Defense Reaction					While Wax On is defending an attack action card with cost 0, it gains +2{d}.	“.. for no task is too small to learn from.” - Master Morita, Art of the Hand	Ninja Defense Reaction						S R – EVR052 – F	https://storage.googleapis.com/fabmaster/media/images/EVR052.width-450.png - EVR052 - F
+**Go again**"		Ninja Action – Attack	Faizal Fikri					S R – EVR049 – F	https://storage.googleapis.com/fabmaster/media/images/EVR049.width-450.png - EVR049 - F
+EVR050	EVR	Wax On	1	0		3			C	Ninja, Defense Reaction					While Wax On is defending an attack action card with cost 0, it gains +2{d}.	“Find lessons in every task you undertake..” - Master Morita, Art of the Hand	Ninja Defense Reaction	Jason Kiantoro					S R – EVR050 – F	https://storage.googleapis.com/fabmaster/media/images/EVR050.width-450.png - EVR050 - F
+EVR051	EVR	Wax On	2	0		2			C	Ninja, Defense Reaction					While Wax On is defending an attack action card with cost 0, it gains +2{d}.	“.. mastery of the Arts lie hidden within..” - Master Morita, Art of the Hand	Ninja Defense Reaction	Jason Kiantoro					S R – EVR051 – F	https://storage.googleapis.com/fabmaster/media/images/EVR051.width-450.png - EVR051 - F
+EVR052	EVR	Wax On	3	0		1			C	Ninja, Defense Reaction					While Wax On is defending an attack action card with cost 0, it gains +2{d}.	“.. for no task is too small to learn from.” - Master Morita, Art of the Hand	Ninja Defense Reaction	Jason Kiantoro					S R – EVR052 – F	https://storage.googleapis.com/fabmaster/media/images/EVR052.width-450.png - EVR052 - F
 EVR053	EVR	Helm of Sharp Eye				1			M	Warrior, Equipment, Head	Battleworn	Attack Reaction			"**Attack Reaction** - {r}, destroy Helm of Sharp Eye: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon with {p} greater than twice it's base {p}.
 
-**Battleworn** *(If you defend with Helm of Sharp Eye, put a -1{d} counter on it when the combat chain closes.)*"		Warrior Equipment – Head						S C – EVR053 – F	https://storage.googleapis.com/fabmaster/media/images/EVR053.width-450.png - EVR053 - F
-EVR054	EVR	Shatter	2	0		3			M	Warrior, Attack Reaction					"Until end of turn, target 2H weapon gains ""Whenever this would deal {p} damage, instead you may destroy target defending equipment with {d} less than the damage that would be dealt this way."		Warrior Attack Reaction						S R – EVR054 – F	https://storage.googleapis.com/fabmaster/media/images/EVR054.width-450.png - EVR054 - F
+**Battleworn** *(If you defend with Helm of Sharp Eye, put a -1{d} counter on it when the combat chain closes.)*"		Warrior Equipment – Head	Federico Musetti					S C – EVR053 – F	https://storage.googleapis.com/fabmaster/media/images/EVR053.width-450.png - EVR053 - F
+EVR054	EVR	Shatter	2	0		3			M	Warrior, Attack Reaction					"Until end of turn, target 2H weapon gains ""Whenever this would deal {p} damage, instead you may destroy target defending equipment with {d} less than the damage that would be dealt this way."		Warrior Attack Reaction	Yugin Maffioli					S R – EVR054 – F	https://storage.googleapis.com/fabmaster/media/images/EVR054.width-450.png - EVR054 - F
 EVR055	EVR	Blood on Her Hands	2	0		3			M	Warrior, Action	Kassai Specialization			Go again	"**Kassai Specialization**
 
 As an additional cost to play Blood on Her Hands, destroy any number of Copper you control. For each Copper destroyed this way choose a mode. You may choose each mode twice.
 
 - Target 1H weapon gains +1{p} this turn while attacking this turn.
 - Target 1H weapon gains **go again** this turn while attacking this turn.
-- Target 1H weapon may attack twice this turn."		Warrior Action						S R – EVR055 – F	https://storage.googleapis.com/fabmaster/media/images/EVR055.width-450.png - EVR055 - F
+- Target 1H weapon may attack twice this turn."		Warrior Action	Othon Nikolaidis					S R – EVR055 – F	https://storage.googleapis.com/fabmaster/media/images/EVR055.width-450.png - EVR055 - F
 EVR056	EVR	Oath of Steel	1	0		3			M	Warrior, Action					"Whenever you attack with a weapon this turn, put a +1{p} counter on it.
 
 At the beginning of your end phase, remove all +1{p} counters from weapons you control.
 
-**Go again**"		Warrior Action						S R – EVR056 – F	https://storage.googleapis.com/fabmaster/media/images/EVR056.width-450.png - EVR056 - F
+**Go again**"		Warrior Action	Hoàng Lập					S R – EVR056 – F	https://storage.googleapis.com/fabmaster/media/images/EVR056.width-450.png - EVR056 - F
 EVR057	EVR	Slice and Dice	1	0		3			R	Warrior, Action	Go again				"Whenever you attack with a sword or dagger this turn;
 
 - If it's your first weapon attack this turn, it gains +1{p}.
 - If it's your second weapon attack this turn, it gains +3{p}.
 
-**Go again**"		Warrior Action						S R – EVR057 – F, R – EVR057 – F – EA	https://storage.googleapis.com/fabmaster/media/images/EVR057.width-450.png - EVR057 - F
+**Go again**"		Warrior Action	Federico Musetti					S R – EVR057 – F, R – EVR057 – F – EA	https://storage.googleapis.com/fabmaster/media/images/EVR057.width-450.png - EVR057 - F
 EVR058	EVR	Slice and Dice	2	0		3			R	Warrior, Action	Go again				"Whenever you attack with a sword or dagger this turn;
 
 - If it's your first weapon attack this turn, it gains +1{p}.
 - If it's your second weapon attack this turn, it gains +2p}.
 
-**Go again**"		Warrior Action						S R – EVR058 – F, R – EVR058 – F – EA	https://storage.googleapis.com/fabmaster/media/images/EVR058.width-450.png - EVR058 - F
+**Go again**"		Warrior Action	Federico Musetti					S R – EVR058 – F, R – EVR058 – F – EA	https://storage.googleapis.com/fabmaster/media/images/EVR058.width-450.png - EVR058 - F
 EVR059	EVR	Slice and Dice	3	0		3			R	Warrior, Action	Go again				"Whenever you attack with a sword or dagger this turn;
 
 - If it's your first weapon attack this turn, it gains +1{p}.
 - If it's your second weapon attack this turn, it gains +1{p}.
 
-**Go again**"		Warrior Action						S R – EVR059 – F, R – EVR059 – F – EA	https://storage.googleapis.com/fabmaster/media/images/EVR059.width-450.png - EVR059 - F
+**Go again**"		Warrior Action	Federico Musetti					S R – EVR059 – F, R – EVR059 – F – EA	https://storage.googleapis.com/fabmaster/media/images/EVR059.width-450.png - EVR059 - F
 EVR060	EVR	Blade Runner	1	1		3			C	Warrior, Attack Reaction				Go again	"Target 1H weapon attack gains **go again.**
 
-Your next weapon attack this turn gains +3{p}."		Warrior Attack Reaction						S R – EVR060 – F	https://storage.googleapis.com/fabmaster/media/images/EVR060.width-450.png - EVR060 - F
+Your next weapon attack this turn gains +3{p}."		Warrior Attack Reaction	Federico Musetti					S R – EVR060 – F	https://storage.googleapis.com/fabmaster/media/images/EVR060.width-450.png - EVR060 - F
 EVR061	EVR	Blade Runner	2	1		3			C	Warrior, Attack Reaction				Go again	"Target 1H weapon attack gains **go again.**
 
-Your next weapon attack this turn gains +2{p}."		Warrior Attack Reaction						S R – EVR061 – F	https://storage.googleapis.com/fabmaster/media/images/EVR061.width-450.png - EVR061 - F
+Your next weapon attack this turn gains +2{p}."		Warrior Attack Reaction	Federico Musetti					S R – EVR061 – F	https://storage.googleapis.com/fabmaster/media/images/EVR061.width-450.png - EVR061 - F
 EVR062	EVR	Blade Runner	3	1		3			C	Warrior, Attack Reaction				Go again	"Target 1H weapon attack gains **go again.**
 
-Your next weapon attack this turn gains +1{p}."		Warrior Attack Reaction						S R – EVR062 – F	https://storage.googleapis.com/fabmaster/media/images/EVR062.width-450.png - EVR062 - F
+Your next weapon attack this turn gains +1{p}."		Warrior Attack Reaction	Federico Musetti					S R – EVR062 – F	https://storage.googleapis.com/fabmaster/media/images/EVR062.width-450.png - EVR062 - F
 EVR063	EVR	In the Swing	1	0		3			C	Warrior, Attack Reaction					"Play In the Swing only if you have attacked 2 or more times with weapons this turn.
 
-Target weapon attack gains +3{p}."		Warrior Attack Reaction						S R – EVR063 – F	https://storage.googleapis.com/fabmaster/media/images/EVR063.width-450.png - EVR063 - F
+Target weapon attack gains +3{p}."		Warrior Attack Reaction	Bramasta Aji					S R – EVR063 – F	https://storage.googleapis.com/fabmaster/media/images/EVR063.width-450.png - EVR063 - F
 EVR064	EVR	In the Swing	2	0		3			C	Warrior, Attack Reaction					"Play In the Swing only if you have attacked 2 or more times with weapons this turn.
 
-Target weapon attack gains +2{p}."		Warrior Attack Reaction						S R – EVR064 – F	https://storage.googleapis.com/fabmaster/media/images/EVR064.width-450.png - EVR064 - F
+Target weapon attack gains +2{p}."		Warrior Attack Reaction	Bramasta Aji					S R – EVR064 – F	https://storage.googleapis.com/fabmaster/media/images/EVR064.width-450.png - EVR064 - F
 EVR065	EVR	In the Swing	3	0		3			C	Warrior, Attack Reaction					"Play In the Swing only if you have attacked 2 or more times with weapons this turn.
 
-Target weapon attack gains +1{p}."		Warrior Attack Reaction						S R – EVR065 – F	https://storage.googleapis.com/fabmaster/media/images/EVR065.width-450.png - EVR065 - F
+Target weapon attack gains +1{p}."		Warrior Attack Reaction	Bramasta Aji					S R – EVR065 – F	https://storage.googleapis.com/fabmaster/media/images/EVR065.width-450.png - EVR065 - F
 EVR066	EVR	Outland Skirmish	1	0		3			C	Warrior, Action	Go again				"Your next 1H weapon attack this turn gains +3{p}.
 
 The next time a weapon hits this turn, create a Copper token.
 
-**Go again**"	“Volcai, Dracai, it’s all the same to me.” - Kassai	Warrior Action						S R – EVR066 – F	https://storage.googleapis.com/fabmaster/media/images/EVR066.width-450.png - EVR066 - F
+**Go again**"	“Volcai, Dracai, it’s all the same to me.” - Kassai	Warrior Action	Rio Sabda					S R – EVR066 – F	https://storage.googleapis.com/fabmaster/media/images/EVR066.width-450.png - EVR066 - F
 EVR067	EVR	Outland Skirmish	2	0		3			C	Warrior, Action	Go again				"Your next 1H weapon attack this turn gains +2{p}.
 
 The next time a weapon hits this turn, create a Copper token.
 
-**Go again**"	“Volcai, Dracai, it’s all the same to me.” - Kassai	Warrior Action						S R – EVR067 – F	https://storage.googleapis.com/fabmaster/media/images/EVR067.width-450.png - EVR067 - F
+**Go again**"	“Volcai, Dracai, it’s all the same to me.” - Kassai	Warrior Action	Rio Sabda					S R – EVR067 – F	https://storage.googleapis.com/fabmaster/media/images/EVR067.width-450.png - EVR067 - F
 EVR068	EVR	Outland Skirmish	3	0		3			C	Warrior, Action	Go again				"Your next 1H weapon attack this turn gains +1{p}.
 
 The next time a weapon hits this turn, create a Copper token.
 
-**Go again**"	“Volcai, Dracai, it’s all the same to me.” - Kassai	Warrior Action						S R – EVR068 – F	https://storage.googleapis.com/fabmaster/media/images/EVR068.width-450.png - EVR068 - F
+**Go again**"	“Volcai, Dracai, it’s all the same to me.” - Kassai	Warrior Action	Rio Sabda					S R – EVR068 – F	https://storage.googleapis.com/fabmaster/media/images/EVR068.width-450.png - EVR068 - F
 EVR069	EVR	Dissolution Sphere	2	2					M	Mechanologist, Action, Item					"Dissolution Sphere enters the arena with a steam counter on it.
 
 At the beginning of your action phase, destroy Dissolution Sphere unless you remove a steam counter from it.
 
-Whenever your hero would be dealt exactly 1 damage, prevent it."		Mechanologist Action – Item						S R – EVR069 – F	https://storage.googleapis.com/fabmaster/media/images/EVR069.width-450.png - EVR069 - F
+Whenever your hero would be dealt exactly 1 damage, prevent it."		Mechanologist Action – Item	Athiwut B.					S R – EVR069 – F	https://storage.googleapis.com/fabmaster/media/images/EVR069.width-450.png - EVR069 - F
 EVR070	EVR	Micro-Processor	3	2					M	Mechanologist, Action, Item	Data Doll Specialization	Once Per Turn Action	Opt 1		"**Data Doll Specialization** *(You may only have Micro-processor in your deck if your hero is Data Doll.)*
 
 **Once Per Turn Action** - 0: **Opt 1**
@@ -3417,357 +3417,357 @@ EVR070	EVR	Micro-Processor	3	2					M	Mechanologist, Action, Item	Data Doll Speci
 
 **Once Per Turn Action** - 0: Banish the top card of your deck.
 
-The first time you activate Micro-processor each turn, gain 1 action point."		Mechanologist Action – Item						S R – EVR070 – F	https://storage.googleapis.com/fabmaster/media/images/EVR070.width-450.png - EVR070 - F
+The first time you activate Micro-processor each turn, gain 1 action point."		Mechanologist Action – Item	Nikolay Moskvin					S R – EVR070 – F	https://storage.googleapis.com/fabmaster/media/images/EVR070.width-450.png - EVR070 - F
 EVR071	EVR	Signal Jammer	3	0					M	Mechanologist, Action, Item					"Signal Jammer enters the arena with a steam counter on it.
 
 At the beginning of your action phase, destroy Signal Jammer unless you remove a steam counter from it.
 
-Each hero can't play more than 1 'non-attack' action card each turn."		Mechanologist Action – Item						S R – EVR071 – F	https://storage.googleapis.com/fabmaster/media/images/EVR071.width-450.png - EVR071 - F
+Each hero can't play more than 1 'non-attack' action card each turn."		Mechanologist Action – Item	Isuadi Therianto					S R – EVR071 – F	https://storage.googleapis.com/fabmaster/media/images/EVR071.width-450.png - EVR071 - F
 EVR072	EVR	Teklo Pounder	3	2					R	Mechanologist, Action, Item		Once per Turn Effect			"Teklo Pounder enters the arena with 3 steam counters on it. When Teklo Pounder has no steam counters on it, destroy it.
 
-**Once per Turn Effect** - Whenever you boost an attack action card, remove a steam counter from Teklo Pounder. If you do, the attack gains +2{p}."		Mechanologist Action – Item						S R – EVR072 – F	https://storage.googleapis.com/fabmaster/media/images/EVR072.width-450.png - EVR072 - F
+**Once per Turn Effect** - Whenever you boost an attack action card, remove a steam counter from Teklo Pounder. If you do, the attack gains +2{p}."		Mechanologist Action – Item	Athiwut B.					S R – EVR072 – F	https://storage.googleapis.com/fabmaster/media/images/EVR072.width-450.png - EVR072 - F
 EVR073	EVR	T-Bone	1	0	3	3			R	Mechanologist, Action, Attack	Boost				"If you control a card on the combat chain that was boosted, the defending hero must defend T-Bone with an equipment they control if able.
 
-**Boost** *(As an additional cost to play T-Bone, you may banish the top card of your deck. If it's a Mechanologist card, T-Bone gains ***go again.***)*"		Mechanologist Action – Attack						S R – EVR073 – F	https://storage.googleapis.com/fabmaster/media/images/EVR073.width-450.png - EVR073 - F
+**Boost** *(As an additional cost to play T-Bone, you may banish the top card of your deck. If it's a Mechanologist card, T-Bone gains ***go again.***)*"		Mechanologist Action – Attack	Jessada Sutthi					S R – EVR073 – F	https://storage.googleapis.com/fabmaster/media/images/EVR073.width-450.png - EVR073 - F
 EVR074	EVR	T-Bone	2	0	2	3			R	Mechanologist, Action, Attack	Boost				"If you control a card on the combat chain that was boosted, the defending hero must defend T-Bone with an equipment they control if able.
 
-**Boost** *(As an additional cost to play T-Bone, you may banish the top card of your deck. If it's a Mechanologist card, T-Bone gains ***go again.***)*"		Mechanologist Action – Attack						S R – EVR074 – F	https://storage.googleapis.com/fabmaster/media/images/EVR074.width-450.png - EVR074 - F
+**Boost** *(As an additional cost to play T-Bone, you may banish the top card of your deck. If it's a Mechanologist card, T-Bone gains ***go again.***)*"		Mechanologist Action – Attack	Jessada Sutthi					S R – EVR074 – F	https://storage.googleapis.com/fabmaster/media/images/EVR074.width-450.png - EVR074 - F
 EVR075	EVR	T-Bone	3	0	1	3			C	Mechanologist, Action, Attack	Boost				"If you control a card on the combat chain that was boosted, the defending hero must defend T-Bone with an equipment they control if able.
 
-**Boost** *(As an additional cost to play T-Bone, you may banish the top card of your deck. If it's a Mechanologist card, T-Bone gains ***go again.***)*"		Mechanologist Action – Attack						S R – EVR075 – F	https://storage.googleapis.com/fabmaster/media/images/EVR075.width-450.png - EVR075 - F
-EVR076	EVR	Payload	1	2	6	3			C	Mechanologist, Action, Attack	Dominate				If you have **boosted** this combat chain, Payload gains **dominate.** *(The defending hero can't defend Payload with more than 1 card from their hand.)*	The latest in Teklo Industries armament. Guaranteed to leave a dent in your enemies… and your wallet!	Mechanologist Action – Attack						S R – EVR076 – F	https://storage.googleapis.com/fabmaster/media/images/EVR076.width-450.png - EVR076 - F
-EVR077	EVR	Payload	2	2	5	3			C	Mechanologist, Action, Attack	Dominate				If you have **boosted** this combat chain, Payload gains **dominate.** *(The defending hero can't defend Payload with more than 1 card from their hand.)*	The latest in Teklo Industries armament. Guaranteed to leave a dent in your enemies… and your wallet!	Mechanologist Action – Attack						S R – EVR077 – F	https://storage.googleapis.com/fabmaster/media/images/EVR077.width-450.png - EVR077 - F
-EVR078	EVR	Payload	3	2	4	3			C	Mechanologist, Action, Attack	Dominate				If you have **boosted** this combat chain, Payload gains **dominate.** *(The defending hero can't defend Payload with more than 1 card from their hand.)*	The latest in Teklo Industries armament. Guaranteed to leave a dent in your enemies… and your wallet!	Mechanologist Action – Attack						S R – EVR078 – F	https://storage.googleapis.com/fabmaster/media/images/EVR078.width-450.png - EVR078 - F
+**Boost** *(As an additional cost to play T-Bone, you may banish the top card of your deck. If it's a Mechanologist card, T-Bone gains ***go again.***)*"		Mechanologist Action – Attack	Jessada Sutthi					S R – EVR075 – F	https://storage.googleapis.com/fabmaster/media/images/EVR075.width-450.png - EVR075 - F
+EVR076	EVR	Payload	1	2	6	3			C	Mechanologist, Action, Attack	Dominate				If you have **boosted** this combat chain, Payload gains **dominate.** *(The defending hero can't defend Payload with more than 1 card from their hand.)*	The latest in Teklo Industries armament. Guaranteed to leave a dent in your enemies… and your wallet!	Mechanologist Action – Attack	Isuadi Therianto					S R – EVR076 – F	https://storage.googleapis.com/fabmaster/media/images/EVR076.width-450.png - EVR076 - F
+EVR077	EVR	Payload	2	2	5	3			C	Mechanologist, Action, Attack	Dominate				If you have **boosted** this combat chain, Payload gains **dominate.** *(The defending hero can't defend Payload with more than 1 card from their hand.)*	The latest in Teklo Industries armament. Guaranteed to leave a dent in your enemies… and your wallet!	Mechanologist Action – Attack	Isuadi Therianto					S R – EVR077 – F	https://storage.googleapis.com/fabmaster/media/images/EVR077.width-450.png - EVR077 - F
+EVR078	EVR	Payload	3	2	4	3			C	Mechanologist, Action, Attack	Dominate				If you have **boosted** this combat chain, Payload gains **dominate.** *(The defending hero can't defend Payload with more than 1 card from their hand.)*	The latest in Teklo Industries armament. Guaranteed to leave a dent in your enemies… and your wallet!	Mechanologist Action – Attack	Isuadi Therianto					S R – EVR078 – F	https://storage.googleapis.com/fabmaster/media/images/EVR078.width-450.png - EVR078 - F
 EVR079	EVR	Zoom In	1	2	5	3			C	Mechanologist, Action, Attack	Opt X, Boost				"When you attack with Zoom in, **opt X**, where X is the number of times you have **boosted** this combat chain. *(Look at the top X cards of your deck. You may put them on the top and/or bottom in any order.)*
 
-**Boost** *(As an additional cost to play Zoom In, you may banish the top card of your deck. If it's a Mechanologist card, Zoom In gains ***go again.***)*"		Mechanologist Action – Attack						S R – EVR079 – F	https://storage.googleapis.com/fabmaster/media/images/EVR079.width-450.png - EVR079 - F
+**Boost** *(As an additional cost to play Zoom In, you may banish the top card of your deck. If it's a Mechanologist card, Zoom In gains ***go again.***)*"		Mechanologist Action – Attack	Alief Rusdiatama					S R – EVR079 – F	https://storage.googleapis.com/fabmaster/media/images/EVR079.width-450.png - EVR079 - F
 EVR080	EVR	Zoom In	2	2	4	3			C	Mechanologist, Action, Attack	Opt X, Boost				"When you attack with Zoom in, **opt X**, where X is the number of times you have **boosted** this combat chain. *(Look at the top X cards of your deck. You may put them on the top and/or bottom in any order.)*
 
-**Boost** *(As an additional cost to play Zoom In, you may banish the top card of your deck. If it's a Mechanologist card, Zoom In gains ***go again.***)*"		Mechanologist Action – Attack						S R – EVR080 – F	https://storage.googleapis.com/fabmaster/media/images/EVR080.width-450.png - EVR080 - F
+**Boost** *(As an additional cost to play Zoom In, you may banish the top card of your deck. If it's a Mechanologist card, Zoom In gains ***go again.***)*"		Mechanologist Action – Attack	Alief Rusdiatama					S R – EVR080 – F	https://storage.googleapis.com/fabmaster/media/images/EVR080.width-450.png - EVR080 - F
 EVR081	EVR	Zoom In	3	2	3	3			C	Mechanologist, Action, Attack	Opt X, Boost				"When you attack with Zoom in, **opt X**, where X is the number of times you have **boosted** this combat chain. *(Look at the top X cards of your deck. You may put them on the top and/or bottom in any order.)*
 
-**Boost** *(As an additional cost to play Zoom In, you may banish the top card of your deck. If it's a Mechanologist card, Zoom In gains ***go again.***)*"		Mechanologist Action – Attack						S R – EVR081 – F	https://storage.googleapis.com/fabmaster/media/images/EVR081.width-450.png - EVR081 - F
+**Boost** *(As an additional cost to play Zoom In, you may banish the top card of your deck. If it's a Mechanologist card, Zoom In gains ***go again.***)*"		Mechanologist Action – Attack	Alief Rusdiatama					S R – EVR081 – F	https://storage.googleapis.com/fabmaster/media/images/EVR081.width-450.png - EVR081 - F
 EVR082	EVR	Rotary Ram	1	0		3			C	Mechanologist, Action	Go again				"The next Mechanologist attack action card you play this turn gains +3{p}.
 
 If you have **boosted** this turn, put Rotary Ram on the bottom of your deck.
 
-**Go again**"		Mechanologist Action						S R – EVR082 – F	https://storage.googleapis.com/fabmaster/media/images/EVR082.width-450.png - EVR082 - F
+**Go again**"		Mechanologist Action	Isuadi Therianto					S R – EVR082 – F	https://storage.googleapis.com/fabmaster/media/images/EVR082.width-450.png - EVR082 - F
 EVR083	EVR	Rotary Ram	2	0		3			C	Mechanologist, Action	Go again				"The next Mechanologist attack action card you play this turn gains +2{p}.
 
 If you have **boosted** this turn, put Rotary Ram on the bottom of your deck.
 
-**Go again**"		Mechanologist Action						S R – EVR083 – F	https://storage.googleapis.com/fabmaster/media/images/EVR083.width-450.png - EVR083 - F
+**Go again**"		Mechanologist Action	Isuadi Therianto					S R – EVR083 – F	https://storage.googleapis.com/fabmaster/media/images/EVR083.width-450.png - EVR083 - F
 EVR084	EVR	Rotary Ram	3	0		3			C	Mechanologist, Action	Go again				"The next Mechanologist attack action card you play this turn gains +1{p}.
 
 If you have **boosted** this turn, put Rotary Ram on the bottom of your deck.
 
-**Go again**"		Mechanologist Action						S R – EVR084 – F	https://storage.googleapis.com/fabmaster/media/images/EVR084.width-450.png - EVR084 - F
-EVR085	EVR	Genis Wotchuneed					20	4	M 	Merchant, Hero, Young		Once per Turn Action	Go again		**Once per Turn Action** - {r}{r}: Each other hero may put a card from their hand on the bottom of their deck. If they do, they draw a card and you create a Silver token. If you gain no Silver this way, draw a card. **Go again**		Merchant Hero – Young						S R – EVR085 – F	https://storage.googleapis.com/fabmaster/media/images/EVR085.width-450.png - EVR085 - F
+**Go again**"		Mechanologist Action	Isuadi Therianto					S R – EVR084 – F	https://storage.googleapis.com/fabmaster/media/images/EVR084.width-450.png - EVR084 - F
+EVR085	EVR	Genis Wotchuneed					20	4	M 	Merchant, Hero, Young		Once per Turn Action	Go again		**Once per Turn Action** - {r}{r}: Each other hero may put a card from their hand on the bottom of their deck. If they do, they draw a card and you create a Silver token. If you gain no Silver this way, draw a card. **Go again**		Merchant Hero – Young	Isuadi Therianto					S R – EVR085 – F	https://storage.googleapis.com/fabmaster/media/images/EVR085.width-450.png - EVR085 - F
 EVR086	EVR	Silver Palms				2			L	Merchant, Equipment, Arms	Blade Break				"At the start of each other hero's turn, if they have less {h} than you, they may draw a card. If they do, you create a Silver token.
 
-**Blade Break** *(If you defend with Silver Paws, destroy it when the combat chain closes.)*"		Merchant Equipment – Arms						C – EVR086 – F	https://storage.googleapis.com/fabmaster/media/images/EVR086.width-450.png - EVR086 - F
+**Blade Break** *(If you defend with Silver Paws, destroy it when the combat chain closes.)*"		Merchant Equipment – Arms	Carlos Cruchaga					C – EVR086 – F	https://storage.googleapis.com/fabmaster/media/images/EVR086.width-450.png - EVR086 - F
 EVR087	EVR	Dreadbore							M	Ranger, Weapon, Bow, 2H		Once per Turn Action	Go again		"**Once per Turn Action** - {r}: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, it gains +1{p} until end of turn. **Go again**
 
-Arrows you control have ""Defense reactions can't be played from hand this chain link."""		Ranger Weapon – Bow (2H)						S C – EVR087 – F	https://storage.googleapis.com/fabmaster/media/images/EVR087.width-450.png - EVR087 - F
+Arrows you control have ""Defense reactions can't be played from hand this chain link."""		Ranger Weapon – Bow (2H)	Junaidi Lim					S C – EVR087 – F	https://storage.googleapis.com/fabmaster/media/images/EVR087.width-450.png - EVR087 - F
 EVR088	EVR	Battering Bolt	1	2	6	3			M	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
-If Battering Bolt hits a hero, they reveal their hand and discard all cards other than action cards. Then they lose 1{h} for each card discarded this way."		Ranger Action – Arrow Attack						S R – EVR088 – F	https://storage.googleapis.com/fabmaster/media/images/EVR088.width-450.png - EVR088 - F
+If Battering Bolt hits a hero, they reveal their hand and discard all cards other than action cards. Then they lose 1{h} for each card discarded this way."		Ranger Action – Arrow Attack	Isuadi Therianto					S R – EVR088 – F	https://storage.googleapis.com/fabmaster/media/images/EVR088.width-450.png - EVR088 - F
 EVR089	EVR	Tri-shot	3	0		3			M	Ranger, Action	Go again				"You may activate target bow you control 2 additional times this turn.
 
-**Go again**"		Ranger Action						S R – EVR089 – F	https://storage.googleapis.com/fabmaster/media/images/EVR089.width-450.png - EVR089 - F
-EVR090	EVR	Rain Razors	2	0					M	Ranger, Instant					Arrows have +2{p} while attacking this turn.		Ranger Instant						S R – EVR090 – F	https://storage.googleapis.com/fabmaster/media/images/EVR090.width-450.png - EVR090 - F
+**Go again**"		Ranger Action	bimawithpencil					S R – EVR089 – F	https://storage.googleapis.com/fabmaster/media/images/EVR089.width-450.png - EVR089 - F
+EVR090	EVR	Rain Razors	2	0					M	Ranger, Instant					Arrows have +2{p} while attacking this turn.		Ranger Instant	Lizhe Liang					S R – EVR090 – F	https://storage.googleapis.com/fabmaster/media/images/EVR090.width-450.png - EVR090 - F
 EVR091	EVR	Release the Tension	1	0		2			R	Ranger, Action	Go again				"Your next arrow attack this turn gains +3{p} and ""Defense reactions can't be played from arsenal this chain link.""
 
-**Go again**"		Ranger Action						S R – EVR091 – F	https://storage.googleapis.com/fabmaster/media/images/EVR091.width-450.png - EVR091 - F
+**Go again**"		Ranger Action	Alief Rusdiatama					S R – EVR091 – F	https://storage.googleapis.com/fabmaster/media/images/EVR091.width-450.png - EVR091 - F
 EVR092	EVR	Release the Tension	2	0		2			R	Ranger, Action	Go again				"Your next arrow attack this turn gains +2{p} and ""Defense reactions can't be played from arsenal this chain link.""
 
-**Go again**"		Ranger Action						S R – EVR092 – F	https://storage.googleapis.com/fabmaster/media/images/EVR092.width-450.png - EVR092 - F
+**Go again**"		Ranger Action	Alief Rusdiatama					S R – EVR092 – F	https://storage.googleapis.com/fabmaster/media/images/EVR092.width-450.png - EVR092 - F
 EVR093	EVR	Release the Tension	3	0		2			R	Ranger, Action	Go again				"Your next arrow attack this turn gains +1{p} and ""Defense reactions can't be played from arsenal this chain link.""
 
-**Go again**"		Ranger Action						S R – EVR093 – F	https://storage.googleapis.com/fabmaster/media/images/EVR093.width-450.png - EVR093 - F
+**Go again**"		Ranger Action	Alief Rusdiatama					S R – EVR093 – F	https://storage.googleapis.com/fabmaster/media/images/EVR093.width-450.png - EVR093 - F
 EVR094	EVR	Fatigue Shot	1	1	5	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
-When Fatigue Shot hits a hero, the base {p} of the first attack action card they play during their next turn is halved, rounded up. *(An attack with 5 base {p} becomes 3{p}.)*"		Ranger Action – Arrow Attack						S R – EVR094 – F	https://storage.googleapis.com/fabmaster/media/images/EVR094.width-450.png - EVR094 - F
+When Fatigue Shot hits a hero, the base {p} of the first attack action card they play during their next turn is halved, rounded up. *(An attack with 5 base {p} becomes 3{p}.)*"		Ranger Action – Arrow Attack	Marco González					S R – EVR094 – F	https://storage.googleapis.com/fabmaster/media/images/EVR094.width-450.png - EVR094 - F
 EVR095	EVR	Fatigue Shot	2	1	4	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
-When Fatigue Shot hits a hero, the base {p} of the first attack action card they play during their next turn is halved, rounded up. *(An attack with 5 base {p} becomes 3{p}.)*"		Ranger Action – Arrow Attack						S R – EVR095 – F	https://storage.googleapis.com/fabmaster/media/images/EVR095.width-450.png - EVR095 - F
+When Fatigue Shot hits a hero, the base {p} of the first attack action card they play during their next turn is halved, rounded up. *(An attack with 5 base {p} becomes 3{p}.)*"		Ranger Action – Arrow Attack	Marco González					S R – EVR095 – F	https://storage.googleapis.com/fabmaster/media/images/EVR095.width-450.png - EVR095 - F
 EVR096	EVR	Fatigue Shot	3	1	3	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
-When Fatigue Shot hits a hero, the base {p} of the first attack action card they play during their next turn is halved, rounded up. *(An attack with 5 base {p} becomes 3{p}.)*"		Ranger Action – Arrow Attack						S R – EVR096 – F	https://storage.googleapis.com/fabmaster/media/images/EVR096.width-450.png - EVR096 - F
+When Fatigue Shot hits a hero, the base {p} of the first attack action card they play during their next turn is halved, rounded up. *(An attack with 5 base {p} becomes 3{p}.)*"		Ranger Action – Arrow Attack	Marco González					S R – EVR096 – F	https://storage.googleapis.com/fabmaster/media/images/EVR096.width-450.png - EVR096 - F
 EVR097	EVR	Timidity Point	1	1	5	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
-When Timidity Point hits a hero, attacks they control lose and can't gain **dominate** during their next turn."		Ranger Action – Arrow Attack						S R – EVR097 – F	https://storage.googleapis.com/fabmaster/media/images/EVR097.width-450.png - EVR097 - F
+When Timidity Point hits a hero, attacks they control lose and can't gain **dominate** during their next turn."		Ranger Action – Arrow Attack	Mateusz Wisniewski					S R – EVR097 – F	https://storage.googleapis.com/fabmaster/media/images/EVR097.width-450.png - EVR097 - F
 EVR098	EVR	Timidity Point	2	1	4	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
-When Timidity Point hits a hero, attacks they control lose and can't gain **dominate** during their next turn."		Ranger Action – Arrow Attack						S R – EVR098 – F	https://storage.googleapis.com/fabmaster/media/images/EVR098.width-450.png - EVR098 - F
+When Timidity Point hits a hero, attacks they control lose and can't gain **dominate** during their next turn."		Ranger Action – Arrow Attack	Mateusz Wisniewski					S R – EVR098 – F	https://storage.googleapis.com/fabmaster/media/images/EVR098.width-450.png - EVR098 - F
 EVR099	EVR	Timidity Point	3	1	3	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
-When Timidity Point hits a hero, attacks they control lose and can't gain **dominate** during their next turn."		Ranger Action – Arrow Attack						S R – EVR099 – F	https://storage.googleapis.com/fabmaster/media/images/EVR099.width-450.png - EVR099 - F
+When Timidity Point hits a hero, attacks they control lose and can't gain **dominate** during their next turn."		Ranger Action – Arrow Attack	Mateusz Wisniewski					S R – EVR099 – F	https://storage.googleapis.com/fabmaster/media/images/EVR099.width-450.png - EVR099 - F
 EVR100	EVR	Read the Glide Path	1	0		2			C	Ranger, Action	Opt 1, Go again				"Your next arrow attack this turn gains +3{p}.
 
 **Opt 1** *(Look at the top card of your deck. You may put it on the bottom.)*
 
-**Go again**"	Victory is oft found before the first shot is fired.	Ranger Action						S R – EVR100 – F	https://storage.googleapis.com/fabmaster/media/images/EVR100.width-450.png - EVR100 - F
+**Go again**"	Victory is oft found before the first shot is fired.	Ranger Action	Patchanee Treedet					S R – EVR100 – F	https://storage.googleapis.com/fabmaster/media/images/EVR100.width-450.png - EVR100 - F
 EVR101	EVR	Read the Glide Path	2	0		2			C	Ranger, Action	Opt 1, Go again				"Your next arrow attack this turn gains +2{p}.
 
 **Opt 1** *(Look at the top card of your deck. You may put it on the bottom.)*
 
-**Go again**"	Victory is oft found before the first shot is fired.	Ranger Action						S R – EVR101 – F	https://storage.googleapis.com/fabmaster/media/images/EVR101.width-450.png - EVR101 - F
+**Go again**"	Victory is oft found before the first shot is fired.	Ranger Action	Patchanee Treedet					S R – EVR101 – F	https://storage.googleapis.com/fabmaster/media/images/EVR101.width-450.png - EVR101 - F
 EVR102	EVR	Read the Glide Path	3	0		2			C	Ranger, Action	Opt 1, Go again				"Your next arrow attack this turn gains +1{p}.
 
 **Opt 1** *(Look at the top card of your deck. You may put it on the bottom.)*
 
-**Go again**"	Victory is oft found before the first shot is fired.	Ranger Action						S R – EVR102 – F	https://storage.googleapis.com/fabmaster/media/images/EVR102.width-450.png - EVR102 - F
+**Go again**"	Victory is oft found before the first shot is fired.	Ranger Action	Patchanee Treedet					S R – EVR102 – F	https://storage.googleapis.com/fabmaster/media/images/EVR102.width-450.png - EVR102 - F
 EVR103	EVR	Vexing Quillhand				0			M	Runeblade, Equipment, Arms	Arcane Barrier 1	Action	Go again		"**Action** - Destroy Vexing Quillhand: Create 2 Runechant tokens. **Go again**
 
-**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*"		Runeblade Equipment – Arms						S C – EVR103 – F	https://storage.googleapis.com/fabmaster/media/images/EVR103.width-450.png - EVR103 - F
-EVR104	EVR	Runic Reclamation	1	3	7	3			M	Runeblade, Action, Attack					When Runic Reclamation hits a hero, destroy target aura they control. If you do, create a Runechant token.	A morbid union; Viserai’s hunger for revenge, and his Master’s hunger for power.	Runeblade Action – Attack						S R – EVR104 – F	https://storage.googleapis.com/fabmaster/media/images/EVR104.width-450.png - EVR104 - F
-EVR105	EVR	Swarming Gloomveil	1	0	3	3			M	Runeblade, Action, Attack	Go again				"If you have played or created 1 or more auras this turn, Swarming Gloomveil gains **go again.** If you have played and/or created 2 or more, it gains +1{p}. If you have played and/or created 3 or more, it gains ""When this hits a hero, they can't prevent arcane damage from sources you control this turn."""		Runeblade Action – Attack						S R – EVR105 – F	https://storage.googleapis.com/fabmaster/media/images/EVR105.width-450.png - EVR105 - F
+**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*"		Runeblade Equipment – Arms	Isuardi Therianto					S C – EVR103 – F	https://storage.googleapis.com/fabmaster/media/images/EVR103.width-450.png - EVR103 - F
+EVR104	EVR	Runic Reclamation	1	3	7	3			M	Runeblade, Action, Attack					When Runic Reclamation hits a hero, destroy target aura they control. If you do, create a Runechant token.	A morbid union; Viserai’s hunger for revenge, and his Master’s hunger for power.	Runeblade Action – Attack	Nikolay Moskvin					S R – EVR104 – F	https://storage.googleapis.com/fabmaster/media/images/EVR104.width-450.png - EVR104 - F
+EVR105	EVR	Swarming Gloomveil	1	0	3	3			M	Runeblade, Action, Attack	Go again				"If you have played or created 1 or more auras this turn, Swarming Gloomveil gains **go again.** If you have played and/or created 2 or more, it gains +1{p}. If you have played and/or created 3 or more, it gains ""When this hits a hero, they can't prevent arcane damage from sources you control this turn."""		Runeblade Action – Attack	Phu Thieu					S R – EVR105 – F	https://storage.googleapis.com/fabmaster/media/images/EVR105.width-450.png - EVR105 - F
 EVR106	EVR	Revel in Runeblood	1	0		2			M	Runeblade, Action	Go again				"If you have played an attack action card and another 'non-attack action' action card this turn, create 4 Runechant tokens.
 
 At the beginning of your end phase, destroy all Runechants you control.
 
-**Go again**"		Runeblade Action						S R – EVR106 – F	https://storage.googleapis.com/fabmaster/media/images/EVR106.width-450.png - EVR106 - F
+**Go again**"		Runeblade Action	Nikolay Moskvin					S R – EVR106 – F	https://storage.googleapis.com/fabmaster/media/images/EVR106.width-450.png - EVR106 - F
 EVR107	EVR	Runeblood Incantation	1	1		2			R	Runeblade, Action, Aura	Go again				"**Go again**
 
 Runeblood Incantation enters the arena with 3 verse counters on it.
 
-At the beginning of your action phase, remove a verse counter from Runeblood Incantation. If you do create a Runechant token. Otherwise, destroy Runeblood Incantation."		Runeblade Action – Aura						S R – EVR107 – F, R – EVR107 – F	https://storage.googleapis.com/fabmaster/media/images/EVR107.width-450.png - EVR107 - F
+At the beginning of your action phase, remove a verse counter from Runeblood Incantation. If you do create a Runechant token. Otherwise, destroy Runeblood Incantation."		Runeblade Action – Aura	Henrique Lindner					S R – EVR107 – F, R – EVR107 – F	https://storage.googleapis.com/fabmaster/media/images/EVR107.width-450.png - EVR107 - F
 EVR108	EVR	Runeblood Incantation	2	1		2			R	Runeblade, Action, Aura	Go again				"**Go again**
 
 Runeblood Incantation enters the arena with 2 verse counters on it.
 
-At the beginning of your action phase, remove a verse counter from Runeblood Incantation. If you do create a Runechant token. Otherwise, destroy Runeblood Incantation."		Runeblade Action – Aura						S R – EVR108 – F, R – EVR108 – F	https://storage.googleapis.com/fabmaster/media/images/EVR108.width-450.png - EVR108 - F
+At the beginning of your action phase, remove a verse counter from Runeblood Incantation. If you do create a Runechant token. Otherwise, destroy Runeblood Incantation."		Runeblade Action – Aura	Henrique Lindner					S R – EVR108 – F, R – EVR108 – F	https://storage.googleapis.com/fabmaster/media/images/EVR108.width-450.png - EVR108 - F
 EVR109	EVR	Runeblood Incantation	3	1		2			R	Runeblade, Action, Aura	Go again				"**Go again**
 
 Runeblood Incantation enters the arena with a verse counter on it.
 
-At the beginning of your action phase, remove a verse counter from Runeblood Incantation. If you do create a Runechant token. Otherwise, destroy Runeblood Incantation."		Runeblade Action – Aura						S R – EVR109 – F, R – EVR109 – F	https://storage.googleapis.com/fabmaster/media/images/EVR109.width-450.png - EVR109 - F
+At the beginning of your action phase, remove a verse counter from Runeblood Incantation. If you do create a Runechant token. Otherwise, destroy Runeblood Incantation."		Runeblade Action – Aura	Henrique Lindner					S R – EVR109 – F, R – EVR109 – F	https://storage.googleapis.com/fabmaster/media/images/EVR109.width-450.png - EVR109 - F
 EVR110	EVR	Drowning Dire	1	2	5	3			C	Runeblade, Action, Attack	Dominate				"If you have played or created an aura this turn, Drowning Dire gains **dominate.** *(The defending hero can't defend Drowning Dire with more than 1 card from their hand.)*
 
-When Drowning Dire hits, you may put a 'non-attack' action card from your graveyard on the bottom of your deck."		Runeblade Action – Attack						S R – EVR110 – F	https://storage.googleapis.com/fabmaster/media/images/EVR110.width-450.png - EVR110 - F
+When Drowning Dire hits, you may put a 'non-attack' action card from your graveyard on the bottom of your deck."		Runeblade Action – Attack	Stanislov Sherbakov					S R – EVR110 – F	https://storage.googleapis.com/fabmaster/media/images/EVR110.width-450.png - EVR110 - F
 EVR111	EVR	Drowning Dire	2	2	4	3			C	Runeblade, Action, Attack	Dominate				"If you have played or created an aura this turn, Drowning Dire gains **dominate.** *(The defending hero can't defend Drowning Dire with more than 1 card from their hand.)*
 
-When Drowning Dire hits, you may put a 'non-attack' action card from your graveyard on the bottom of your deck."		Runeblade Action – Attack						S R – EVR111 – F	https://storage.googleapis.com/fabmaster/media/images/EVR111.width-450.png - EVR111 - F
+When Drowning Dire hits, you may put a 'non-attack' action card from your graveyard on the bottom of your deck."		Runeblade Action – Attack	Stanislov Sherbakov					S R – EVR111 – F	https://storage.googleapis.com/fabmaster/media/images/EVR111.width-450.png - EVR111 - F
 EVR112	EVR	Drowning Dire	3	2	3	3			C	Runeblade, Action, Attack	Dominate				"If you have played or created an aura this turn, Drowning Dire gains **dominate.** *(The defending hero can't defend Drowning Dire with more than 1 card from their hand.)*
 
-When Drowning Dire hits, you may put a 'non-attack' action card from your graveyard on the bottom of your deck."		Runeblade Action – Attack						S R – EVR112 – F	https://storage.googleapis.com/fabmaster/media/images/EVR112.width-450.png - EVR112 - F
-EVR113	EVR	Reek of Corruption	1	2	4	3			C	Runeblade, Action, Attack					"If you have played or created an aura this turn, Reek of Corruption gains ""When this hits a hero, they discard a card."""		Runeblade Action – Attack						S R – EVR113 – F	https://storage.googleapis.com/fabmaster/media/images/EVR113.width-450.png - EVR113 - F
-EVR114	EVR	Reek of Corruption	2	2	3	3			C	Runeblade, Action, Attack					"If you have played or created an aura this turn, Reek of Corruption gains ""When this hits a hero, they discard a card."""		Runeblade Action – Attack						S R – EVR114 – F	https://storage.googleapis.com/fabmaster/media/images/EVR114.width-450.png - EVR114 - F
-EVR115	EVR	Reek of Corruption	3	2	2	3			C	Runeblade, Action, Attack					"If you have played or created an aura this turn, Reek of Corruption gains ""When this hits a hero, they discard a card."""		Runeblade Action – Attack						S R – EVR115 – F	https://storage.googleapis.com/fabmaster/media/images/EVR115.width-450.png - EVR115 - F
-EVR116	EVR	Shrill of Skullform	1	2	4	3			C	Runeblade, Action, Attack					If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.		Runeblade Action – Attack						S R – EVR116 – F	https://storage.googleapis.com/fabmaster/media/images/EVR116.width-450.png - EVR116 - F
-EVR117	EVR	Shrill of Skullform	2	2	3	3			C	Runeblade, Action, Attack					If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.		Runeblade Action – Attack						S R – EVR117 – F	https://storage.googleapis.com/fabmaster/media/images/EVR117.width-450.png - EVR117 - F
-EVR118	EVR	Shrill of Skullform	3	2	2	3			C	Runeblade, Action, Attack					If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.		Runeblade Action – Attack						S R – EVR118 – F	https://storage.googleapis.com/fabmaster/media/images/EVR118.width-450.png - EVR118 - F
+When Drowning Dire hits, you may put a 'non-attack' action card from your graveyard on the bottom of your deck."		Runeblade Action – Attack	Stanislov Sherbakov					S R – EVR112 – F	https://storage.googleapis.com/fabmaster/media/images/EVR112.width-450.png - EVR112 - F
+EVR113	EVR	Reek of Corruption	1	2	4	3			C	Runeblade, Action, Attack					"If you have played or created an aura this turn, Reek of Corruption gains ""When this hits a hero, they discard a card."""		Runeblade Action – Attack	Jen Santos					S R – EVR113 – F	https://storage.googleapis.com/fabmaster/media/images/EVR113.width-450.png - EVR113 - F
+EVR114	EVR	Reek of Corruption	2	2	3	3			C	Runeblade, Action, Attack					"If you have played or created an aura this turn, Reek of Corruption gains ""When this hits a hero, they discard a card."""		Runeblade Action – Attack	Jen Santos					S R – EVR114 – F	https://storage.googleapis.com/fabmaster/media/images/EVR114.width-450.png - EVR114 - F
+EVR115	EVR	Reek of Corruption	3	2	2	3			C	Runeblade, Action, Attack					"If you have played or created an aura this turn, Reek of Corruption gains ""When this hits a hero, they discard a card."""		Runeblade Action – Attack	Jen Santos					S R – EVR115 – F	https://storage.googleapis.com/fabmaster/media/images/EVR115.width-450.png - EVR115 - F
+EVR116	EVR	Shrill of Skullform	1	2	4	3			C	Runeblade, Action, Attack					If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.		Runeblade Action – Attack	Mihail Spil-Haufter					S R – EVR116 – F	https://storage.googleapis.com/fabmaster/media/images/EVR116.width-450.png - EVR116 - F
+EVR117	EVR	Shrill of Skullform	2	2	3	3			C	Runeblade, Action, Attack					If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.		Runeblade Action – Attack	Mihail Spil-Haufter					S R – EVR117 – F	https://storage.googleapis.com/fabmaster/media/images/EVR117.width-450.png - EVR117 - F
+EVR118	EVR	Shrill of Skullform	3	2	2	3			C	Runeblade, Action, Attack					If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.		Runeblade Action – Attack	Mihail Spil-Haufter					S R – EVR118 – F	https://storage.googleapis.com/fabmaster/media/images/EVR118.width-450.png - EVR118 - F
 EVR120	EVR	Iyslander					18	4	M	Elemental, Wizard, Hero, Young	Essence of Ice				"**Essence of Ice** *(You may have Ice cards in your deck.)*
 
 If it's not your turn, you may play 'non-attack' action cards with blue color strips from your arsenal as though they were an instant.
 
-Whenever you play an Ice card during an opponents turn, create a Frostbite token under their control."		Elemental Wizard Hero – Young						S R – EVR120 – F	https://storage.googleapis.com/fabmaster/media/images/EVR120.width-450.png - EVR120 - F
-EVR121	EVR	Kraken’s Aethervein							M	Wizard, Weapon, Staff, 2H		Once per Turn Instant			**Once per Turn Instant** - {r}{r}{r}: Deal 1 arcane damage to target opposing hero. Draw a card for each arcane damage dealt this way.		Wizard Weapon – Staff (2H)						S C – EVR121 – F	https://storage.googleapis.com/fabmaster/media/images/EVR121.width-450.png - EVR121 - F
-EVR122	EVR	Sigil of Parapets	3	1		2			M	Wizard, Defense Reaction					While Sigil of Parapets is defending, whenever you play a Wizard card, Sigil of Parapet's gains +2{d}.		Wizard Defense Reaction						S R – EVR122 – F	https://storage.googleapis.com/fabmaster/media/images/EVR122.width-450.png - EVR122 - F
+Whenever you play an Ice card during an opponents turn, create a Frostbite token under their control."		Elemental Wizard Hero – Young	Steve Argyle					S R – EVR120 – F	https://storage.googleapis.com/fabmaster/media/images/EVR120.width-450.png - EVR120 - F
+EVR121	EVR	Kraken’s Aethervein							M	Wizard, Weapon, Staff, 2H		Once per Turn Instant			**Once per Turn Instant** - {r}{r}{r}: Deal 1 arcane damage to target opposing hero. Draw a card for each arcane damage dealt this way.		Wizard Weapon – Staff (2H)	Steve Argyle					S C – EVR121 – F	https://storage.googleapis.com/fabmaster/media/images/EVR121.width-450.png - EVR121 - F
+EVR122	EVR	Sigil of Parapets	3	1		2			M	Wizard, Defense Reaction					While Sigil of Parapets is defending, whenever you play a Wizard card, Sigil of Parapet's gains +2{d}.		Wizard Defense Reaction	Othon Nikolaidis					S R – EVR122 – F	https://storage.googleapis.com/fabmaster/media/images/EVR122.width-450.png - EVR122 - F
 EVR123	EVR	Aether Wildfire	1	2		3			M	Wizard, Action					"Deal 4 arcane damage to target opposing hero.
 
-If Aether Wildfire is played during an opponents turn, until end of turn, action card effects that deal arcane damage instead deal that much arcane damage plus X, where X is the damage dealt by Aether Wildfire."		Wizard Action						S R – EVR123 – F, R – EVR123 – F	https://storage.googleapis.com/fabmaster/media/images/EVR123.width-450.png - EVR123 - F
-EVR124	EVR	Scour	3	X		3			M	Wizard, Action					Destroy X target aura tokens and/or auras with cost 0 controlled by target hero. Then deal arcane damage to that hero equal to the number of auras destroyed this way.		Wizard Action						S R – EVR124 – F	https://storage.googleapis.com/fabmaster/media/images/EVR124.width-450.png - EVR124 - F
-EVR125	EVR	Emeritus Scolding	1	2		3			R	Wizard, Action					Deal 4 arcane damage to target hero. If Emeritus Scolding is played during an opponents turn, instead deal 6 arcane damage to target hero.	“I may look frail, but my mind will CRUSH you!” - Efaris Brittlebone	Wizard Action						S R – EVR125 – F	https://storage.googleapis.com/fabmaster/media/images/EVR125.width-450.png - EVR125 - F
-EVR126	EVR	Emeritus Scolding	2	2		3			R	Wizard, Action					Deal 3 arcane damage to target hero. If Emeritus Scolding is played during an opponents turn, instead deal 5 arcane damage to target hero.	“I may look frail, but my mind will CRUSH you!” - Efaris Brittlebone	Wizard Action						S R – EVR126 – F	https://storage.googleapis.com/fabmaster/media/images/EVR126.width-450.png - EVR126 - F
-EVR127	EVR	Emeritus Scolding	3	2		3			R	Wizard, Action					Deal 2 arcane damage to target hero. If Emeritus Scolding is played during an opponents turn, instead deal 4 arcane damage to target hero.	“I may look frail, but my mind will CRUSH you!” - Efaris Brittlebone	Wizard Action						S R – EVR127 – F	https://storage.googleapis.com/fabmaster/media/images/EVR127.width-450.png - EVR127 - F
+If Aether Wildfire is played during an opponents turn, until end of turn, action card effects that deal arcane damage instead deal that much arcane damage plus X, where X is the damage dealt by Aether Wildfire."		Wizard Action	Mark Poole					S R – EVR123 – F, R – EVR123 – F	https://storage.googleapis.com/fabmaster/media/images/EVR123.width-450.png - EVR123 - F
+EVR124	EVR	Scour	3	X		3			M	Wizard, Action					Destroy X target aura tokens and/or auras with cost 0 controlled by target hero. Then deal arcane damage to that hero equal to the number of auras destroyed this way.		Wizard Action	Faizal Fikri					S R – EVR124 – F	https://storage.googleapis.com/fabmaster/media/images/EVR124.width-450.png - EVR124 - F
+EVR125	EVR	Emeritus Scolding	1	2		3			R	Wizard, Action					Deal 4 arcane damage to target hero. If Emeritus Scolding is played during an opponents turn, instead deal 6 arcane damage to target hero.	“I may look frail, but my mind will CRUSH you!” - Efaris Brittlebone	Wizard Action	Mateusz Wisniewski					S R – EVR125 – F	https://storage.googleapis.com/fabmaster/media/images/EVR125.width-450.png - EVR125 - F
+EVR126	EVR	Emeritus Scolding	2	2		3			R	Wizard, Action					Deal 3 arcane damage to target hero. If Emeritus Scolding is played during an opponents turn, instead deal 5 arcane damage to target hero.	“I may look frail, but my mind will CRUSH you!” - Efaris Brittlebone	Wizard Action	Mateusz Wisniewski					S R – EVR126 – F	https://storage.googleapis.com/fabmaster/media/images/EVR126.width-450.png - EVR126 - F
+EVR127	EVR	Emeritus Scolding	3	2		3			R	Wizard, Action					Deal 2 arcane damage to target hero. If Emeritus Scolding is played during an opponents turn, instead deal 4 arcane damage to target hero.	“I may look frail, but my mind will CRUSH you!” - Efaris Brittlebone	Wizard Action	Mateusz Wisniewski					S R – EVR127 – F	https://storage.googleapis.com/fabmaster/media/images/EVR127.width-450.png - EVR127 - F
 EVR128	EVR	Pry	1	0		3			C	Wizard, Action					"Target hero reveals 3 cards from their hand. If Pry is played during an opponents turn, instead they reveal all cards in their hand.
 
-You may choose a card revealed this way. If you do, that hero puts it on the bottom of their deck then draws a card."		Wizard Action						S R – EVR128 – F	https://storage.googleapis.com/fabmaster/media/images/EVR128.width-450.png - EVR128 - F
+You may choose a card revealed this way. If you do, that hero puts it on the bottom of their deck then draws a card."		Wizard Action	Alexis Susani					S R – EVR128 – F	https://storage.googleapis.com/fabmaster/media/images/EVR128.width-450.png - EVR128 - F
 EVR129	EVR	Pry	2	0		3			C	Wizard, Action					"Target hero reveals 2 cards from their hand. If Pry is played during an opponents turn, instead they reveal all cards in their hand.
 
-You may choose a card revealed this way. If you do, that hero puts it on the bottom of their deck then draws a card."		Wizard Action						S R – EVR129 – F	https://storage.googleapis.com/fabmaster/media/images/EVR129.width-450.png - EVR129 - F
+You may choose a card revealed this way. If you do, that hero puts it on the bottom of their deck then draws a card."		Wizard Action	Alexis Susani					S R – EVR129 – F	https://storage.googleapis.com/fabmaster/media/images/EVR129.width-450.png - EVR129 - F
 EVR130	EVR	Pry	3	0		3			C	Wizard, Action					"Target hero reveals a card from their hand. If Pry is played during an opponents turn, instead they reveal all cards in their hand.
 
-You may choose a card revealed this way. If you do, that hero puts it on the bottom of their deck then draws a card."		Wizard Action						S R – EVR130 – F	https://storage.googleapis.com/fabmaster/media/images/EVR130.width-450.png - EVR130 - F
+You may choose a card revealed this way. If you do, that hero puts it on the bottom of their deck then draws a card."		Wizard Action	Alexis Susani					S R – EVR130 – F	https://storage.googleapis.com/fabmaster/media/images/EVR130.width-450.png - EVR130 - F
 EVR131	EVR	Pyroglyphic Protection	1	2		2			C	Wizard, Action, Aura					"If your hero would be dealt arcane damage, prevent 3 arcane damage that source would deal.
 
-At the beginning of your action phase, destroy Pyroglyphic Protection."		Wizard Action – Aura						S R – EVR131 – F	https://storage.googleapis.com/fabmaster/media/images/EVR131.width-450.png - EVR131 - F
+At the beginning of your action phase, destroy Pyroglyphic Protection."		Wizard Action – Aura	Marco González					S R – EVR131 – F	https://storage.googleapis.com/fabmaster/media/images/EVR131.width-450.png - EVR131 - F
 EVR132	EVR	Pyroglyphic Protection	2	2		2			C	Wizard, Action, Aura					"If your hero would be dealt arcane damage, prevent 2 arcane damage that source would deal.
 
-At the beginning of your action phase, destroy Pyroglyphic Protection."		Wizard Action – Aura						S R – EVR132 – F	https://storage.googleapis.com/fabmaster/media/images/EVR132.width-450.png - EVR132 - F
+At the beginning of your action phase, destroy Pyroglyphic Protection."		Wizard Action – Aura	Marco González					S R – EVR132 – F	https://storage.googleapis.com/fabmaster/media/images/EVR132.width-450.png - EVR132 - F
 EVR133	EVR	Pyroglyphic Protection	3	2		2			C	Wizard, Action, Aura					"If your hero would be dealt arcane damage, prevent 1 arcane damage that source would deal.
 
-At the beginning of your action phase, destroy Pyroglyphic Protection."		Wizard Action – Aura						S R – EVR133 – F	https://storage.googleapis.com/fabmaster/media/images/EVR133.width-450.png - EVR133 - F
+At the beginning of your action phase, destroy Pyroglyphic Protection."		Wizard Action – Aura	Marco González					S R – EVR133 – F	https://storage.googleapis.com/fabmaster/media/images/EVR133.width-450.png - EVR133 - F
 EVR134	EVR	Timekeeper’s Whim	1	3		3			C	Wizard, Action					"Deal 5 arcane damage to target hero.
 
-If Timekeeper's Whim is played during an opponents turn, put it on the bottom of your deck."		Wizard Action						S R – EVR134 – F	https://storage.googleapis.com/fabmaster/media/images/EVR134.width-450.png - EVR134 - F
+If Timekeeper's Whim is played during an opponents turn, put it on the bottom of your deck."		Wizard Action	Riordan Delmiro					S R – EVR134 – F	https://storage.googleapis.com/fabmaster/media/images/EVR134.width-450.png - EVR134 - F
 EVR135	EVR	Timekeeper’s Whim	2	3		3			C	Wizard, Action					"Deal 4 arcane damage to target hero.
 
-If Timekeeper's Whim is played during an opponents turn, put it on the bottom of your deck."		Wizard Action						S R – EVR135 – F	https://storage.googleapis.com/fabmaster/media/images/EVR135.width-450.png - EVR135 - F
+If Timekeeper's Whim is played during an opponents turn, put it on the bottom of your deck."		Wizard Action	Riordan Delmiro					S R – EVR135 – F	https://storage.googleapis.com/fabmaster/media/images/EVR135.width-450.png - EVR135 - F
 EVR136	EVR	Timekeeper’s Whim	3	3		3			C	Wizard, Action					"Deal 3 arcane damage to target hero.
 
-If Timekeeper's Whim is played during an opponents turn, put it on the bottom of your deck."		Wizard Action						S R – EVR136 – F	https://storage.googleapis.com/fabmaster/media/images/EVR136.width-450.png - EVR136 - F
+If Timekeeper's Whim is played during an opponents turn, put it on the bottom of your deck."		Wizard Action	Riordan Delmiro					S R – EVR136 – F	https://storage.googleapis.com/fabmaster/media/images/EVR136.width-450.png - EVR136 - F
 EVR137	EVR	Crown of Reflection				0			M	Illusionist, Equipment, Head	Arcane Barrier 1	Instant			"**Instant** - Destroy Crown of Reflection: Destroy target Illusionist aura you control. If you do, you may put an Illusionist aura card from your hand into the arena with cost less than or equal the aura destroyed this way. Activate Crown of Reflection only during your action phase.
 
-**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*"		Illusionist Equipment – Head						S C – EVR137 – F	https://storage.googleapis.com/fabmaster/media/images/EVR137.width-450.png - EVR137 - F
+**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*"		Illusionist Equipment – Head	Henrique Lindner					S C – EVR137 – F	https://storage.googleapis.com/fabmaster/media/images/EVR137.width-450.png - EVR137 - F
 EVR138	EVR	Fractal Replication	1	0	*	*			M	Illusionist, Action, Attack					"When you play or defend with Fractal Replication, it gains the abilities and effects of all Illusionist attack action cards on the combat chain.
 
 Fractal Replication's {p} is equal to the greatest base {p} among Illusionist attack action cards on the combat chain.
 
-Fractal Replication's {d} is equal to the greatest base {d} among Illusionist attack action cards on the combat chain."		Illusionist Action – Attack						S R – EVR138 – F	https://storage.googleapis.com/fabmaster/media/images/EVR138.width-450.png - EVR138 - F
+Fractal Replication's {d} is equal to the greatest base {d} among Illusionist attack action cards on the combat chain."		Illusionist Action – Attack	Hoàng Lập					S R – EVR138 – F	https://storage.googleapis.com/fabmaster/media/images/EVR138.width-450.png - EVR138 - F
 EVR139	EVR	Miraging Metamorph	1	1	7	3			M	Illusionist, Action, Attack	Phantasm				"**Phantasm** *(When Miraging Metamorph is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Mirror Image and close the combat chain.)*
 
-When Miraging Metamorph is destroyed, create a token that's a copy of an aura you control."		Illusionist Action – Attack						S R – EVR139 – F	https://storage.googleapis.com/fabmaster/media/images/EVR139.width-450.png - EVR139 - F
+When Miraging Metamorph is destroyed, create a token that's a copy of an aura you control."		Illusionist Action – Attack	Asur Misoa					S R – EVR139 – F	https://storage.googleapis.com/fabmaster/media/images/EVR139.width-450.png - EVR139 - F
 EVR140	EVR	Shimmers of Silver	3	0		2			M	Illusionist, Action, Aura	Spectra	Once per Turn Effect			"**Once per Turn Effect** - Whenever you attack with an Illusionist aura weapon, put a +1{p} counter on it.
 
-**Spectra** *(Shimmers of Silver can be attacked. When Shimmers of Silver becomes the target of an attack, destroy it and close the combat chain. The attack does not resolve.)*"		Illusionist Action – Aura						S R – EVR140 – F	https://storage.googleapis.com/fabmaster/media/images/EVR140.width-450.png - EVR140 - F
+**Spectra** *(Shimmers of Silver can be attacked. When Shimmers of Silver becomes the target of an attack, destroy it and close the combat chain. The attack does not resolve.)*"		Illusionist Action – Aura	Hoàng Lập					S R – EVR140 – F	https://storage.googleapis.com/fabmaster/media/images/EVR140.width-450.png - EVR140 - F
 EVR141	EVR	Haze Bending	3	0		2			R	Illusionist, Action, Aura	Spectra	Once per Turn Effect			"**Once per Turn Effect** - Whenever Haze Bending or another Illusionist non-token aura you control is destroyed, create a Spectral Shield token.
 
-**Spectra** *(Dispersion Haze can be attacked. When Dispersion Haze becomes the target of an attack, destroy it and close the combat chain. The attack does not resolve.)*"		Illusionist Action – Aura						S R – EVR141 – F	https://storage.googleapis.com/fabmaster/media/images/EVR141.width-450.png - EVR141 - F
+**Spectra** *(Dispersion Haze can be attacked. When Dispersion Haze becomes the target of an attack, destroy it and close the combat chain. The attack does not resolve.)*"		Illusionist Action – Aura	Saad Irfan					S R – EVR141 – F	https://storage.googleapis.com/fabmaster/media/images/EVR141.width-450.png - EVR141 - F
 EVR142	EVR	Passing Mirage	3	0		2			R	Illusionist, Action, Aura	Spectra				"Your first Illusionist attack each turn loses and can't gain **phantasm.**
 
-**Spectra** *(Passing Mirage can be attacked. When Passing Mirage becomes the target of an attack, destroy it and close the combat chain. The attack does not resolve.)*"		Illusionist Action – Aura						S R – EVR142 – F	https://storage.googleapis.com/fabmaster/media/images/EVR142.width-450.png - EVR142 - F
+**Spectra** *(Passing Mirage can be attacked. When Passing Mirage becomes the target of an attack, destroy it and close the combat chain. The attack does not resolve.)*"		Illusionist Action – Aura	Saad Irfan					S R – EVR142 – F	https://storage.googleapis.com/fabmaster/media/images/EVR142.width-450.png - EVR142 - F
 EVR143	EVR	Pierce Reality	3	0		2			R	Illusionist, Action, Aura	Spectra				"The first Illusionist attack action card you play each turn has +2{p}.
 
-**Spectra** *(Piercing Reality can be attacked. When Piercing Reality becomes the target of an attack, destroy it and close the combat chain. The attack does not resolve.)*"		Illusionist Action – Aura						S R – EVR143 – F	https://storage.googleapis.com/fabmaster/media/images/EVR143.width-450.png - EVR143 - F
+**Spectra** *(Piercing Reality can be attacked. When Piercing Reality becomes the target of an attack, destroy it and close the combat chain. The attack does not resolve.)*"		Illusionist Action – Aura	Saad Irfan					S R – EVR143 – F	https://storage.googleapis.com/fabmaster/media/images/EVR143.width-450.png - EVR143 - F
 EVR144	EVR	Coalescence Mirage	1	2	7	3			C	Illusionist, Action, Attack	Phantasm				"**Phantasm** *(If Coalescence Mirage is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Coalescence Mirage and close the combat chain.)*
 
-When Coalescence Mirage is destroyed, you may put an Illusionist aura card with 0 from your hand into the arena."		Illusionist Action – Attack						S R – EVR144 – F	https://storage.googleapis.com/fabmaster/media/images/EVR144.width-450.png - EVR144 - F
+When Coalescence Mirage is destroyed, you may put an Illusionist aura card with 0 from your hand into the arena."		Illusionist Action – Attack	Mateusz Wisniewski					S R – EVR144 – F	https://storage.googleapis.com/fabmaster/media/images/EVR144.width-450.png - EVR144 - F
 EVR145	EVR	Coalescence Mirage	2	2	6	3			C	Illusionist, Action, Attack	Phantasm				"**Phantasm** *(If Coalescence Mirage is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Coalescence Mirage and close the combat chain.)*
 
-When Coalescence Mirage is destroyed, you may put an Illusionist aura card with 0 from your hand into the arena."		Illusionist Action – Attack						S R – EVR145 – F	https://storage.googleapis.com/fabmaster/media/images/EVR145.width-450.png - EVR145 - F
+When Coalescence Mirage is destroyed, you may put an Illusionist aura card with 0 from your hand into the arena."		Illusionist Action – Attack	Mateusz Wisniewski					S R – EVR145 – F	https://storage.googleapis.com/fabmaster/media/images/EVR145.width-450.png - EVR145 - F
 EVR146	EVR	Coalescence Mirage	3	2	5	3			C	Illusionist, Action, Attack	Phantasm				"**Phantasm** *(If Coalescence Mirage is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Coalescence Mirage and close the combat chain.)*
 
-When Coalescence Mirage is destroyed, you may put an Illusionist aura card with 0 from your hand into the arena."		Illusionist Action – Attack						S R – EVR146 – F	https://storage.googleapis.com/fabmaster/media/images/EVR146.width-450.png - EVR146 - F
+When Coalescence Mirage is destroyed, you may put an Illusionist aura card with 0 from your hand into the arena."		Illusionist Action – Attack	Mateusz Wisniewski					S R – EVR146 – F	https://storage.googleapis.com/fabmaster/media/images/EVR146.width-450.png - EVR146 - F
 EVR147	EVR	Phantasmal Haze	1	3	8	3			C	Illusionist, Action, Attack	Phantasm				"**Phantasm** *(If Phantasmal Haze is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Phantasmal Haze and close the combat chain.)*
 
-When Phantasmal Haze is destroyed, create a Spectral Shield token."		Illusionist Action – Attack						S R – EVR147 – F	https://storage.googleapis.com/fabmaster/media/images/EVR147.width-450.png - EVR147 - F
+When Phantasmal Haze is destroyed, create a Spectral Shield token."		Illusionist Action – Attack	Marco González					S R – EVR147 – F	https://storage.googleapis.com/fabmaster/media/images/EVR147.width-450.png - EVR147 - F
 EVR148	EVR	Phantasmal Haze	2	3	7	3			C	Illusionist, Action, Attack	Phantasm				"**Phantasm** *(If Phantasmal Haze is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Phantasmal Haze and close the combat chain.)*
 
-When Phantasmal Haze is destroyed, create a Spectral Shield token."		Illusionist Action – Attack						S R – EVR148 – F	https://storage.googleapis.com/fabmaster/media/images/EVR148.width-450.png - EVR148 - F
+When Phantasmal Haze is destroyed, create a Spectral Shield token."		Illusionist Action – Attack	Marco González					S R – EVR148 – F	https://storage.googleapis.com/fabmaster/media/images/EVR148.width-450.png - EVR148 - F
 EVR149	EVR	Phantasmal Haze	3	3	6	3			C	Illusionist, Action, Attack	Phantasm				"**Phantasm** *(If Phantasmal Haze is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Phantasmal Haze and close the combat chain.)*
 
-When Phantasmal Haze is destroyed, create a Spectral Shield token."		Illusionist Action – Attack						S R – EVR149 – F	https://storage.googleapis.com/fabmaster/media/images/EVR149.width-450.png - EVR149 - F
+When Phantasmal Haze is destroyed, create a Spectral Shield token."		Illusionist Action – Attack	Marco González					S R – EVR149 – F	https://storage.googleapis.com/fabmaster/media/images/EVR149.width-450.png - EVR149 - F
 EVR150	EVR	Veiled Intentions	1	1		2			C	Illusionist, Action	Go again				"**Go again**
 
-The next attack action card you play this turn is Illusionist in addition to its other card, and gains +4{p}, **phantasm**, and ""When this is destroyed, draw a card."""		Illusionist Action						S R – EVR150 – F	https://storage.googleapis.com/fabmaster/media/images/EVR150.width-450.png - EVR150 - F
+The next attack action card you play this turn is Illusionist in addition to its other card, and gains +4{p}, **phantasm**, and ""When this is destroyed, draw a card."""		Illusionist Action	Othon Nikolaidis					S R – EVR150 – F	https://storage.googleapis.com/fabmaster/media/images/EVR150.width-450.png - EVR150 - F
 EVR151	EVR	Veiled Intentions	2	1		2			C	Illusionist, Action	Go again				"**Go again**
 
-The next attack action card you play this turn is Illusionist in addition to its other card, and gains +3{p}, **phantasm**, and ""When this is destroyed, draw a card."""		Illusionist Action						S R – EVR151 – F	https://storage.googleapis.com/fabmaster/media/images/EVR151.width-450.png - EVR151 - F
+The next attack action card you play this turn is Illusionist in addition to its other card, and gains +3{p}, **phantasm**, and ""When this is destroyed, draw a card."""		Illusionist Action	Othon Nikolaidis					S R – EVR151 – F	https://storage.googleapis.com/fabmaster/media/images/EVR151.width-450.png - EVR151 - F
 EVR152	EVR	Veiled Intentions	3	1		2			C	Illusionist, Action	Go again				"**Go again**
 
-The next attack action card you play this turn is Illusionist in addition to its other card, and gains +2{p}, **phantasm**, and ""When this is destroyed, draw a card."""		Illusionist Action						S R – EVR152 – F	https://storage.googleapis.com/fabmaster/media/images/EVR152.width-450.png - EVR152 - F
-EVR155	EVR	Arcane Lantern							R	Generic, Equipment, Off-Hand	Arcane Barrier 1				**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*		Generic Equipment – Off-Hand						S C – EVR155 – F	https://storage.googleapis.com/fabmaster/media/images/EVR155.width-450.png - EVR155 - F
-EVR156	EVR	Bingo	1	1	5	3			M	Generic, Action, Attack	Go again				When Bingo hits a hero, they reveal a card from their hand. If an attack action card is revealed this way, Bingo gains **go again.** If a 'non-attack' action card is revealed this way, draw a card.	“Winner winner chicken dinner…” - Astier	Generic Action – Attack						S R – EVR156 – F	https://storage.googleapis.com/fabmaster/media/images/EVR156.width-450.png - EVR156 - F
-EVR157	EVR	Firebreathing	1	2	3	3			M	Generic, Action, Attack		Instant			**Instant** - {r}: Firebreathing gains +1{p}. Activate this ability only while Firebreathing is attacking.	It’s always show time at the spectacular, stupendous, sensational extravaganza that is the Everfest Carnival.	Generic Action – Attack						S R – EVR157 – F	https://storage.googleapis.com/fabmaster/media/images/EVR157.width-450.png - EVR157 - F
+The next attack action card you play this turn is Illusionist in addition to its other card, and gains +2{p}, **phantasm**, and ""When this is destroyed, draw a card."""		Illusionist Action	Othon Nikolaidis					S R – EVR152 – F	https://storage.googleapis.com/fabmaster/media/images/EVR152.width-450.png - EVR152 - F
+EVR155	EVR	Arcane Lantern							R	Generic, Equipment, Off-Hand	Arcane Barrier 1				**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)*		Generic Equipment – Off-Hand	Faizal Fikri					S C – EVR155 – F	https://storage.googleapis.com/fabmaster/media/images/EVR155.width-450.png - EVR155 - F
+EVR156	EVR	Bingo	1	1	5	3			M	Generic, Action, Attack	Go again				When Bingo hits a hero, they reveal a card from their hand. If an attack action card is revealed this way, Bingo gains **go again.** If a 'non-attack' action card is revealed this way, draw a card.	“Winner winner chicken dinner…” - Astier	Generic Action – Attack	Carlos Cruchaga					S R – EVR156 – F	https://storage.googleapis.com/fabmaster/media/images/EVR156.width-450.png - EVR156 - F
+EVR157	EVR	Firebreathing	1	2	3	3			M	Generic, Action, Attack		Instant			**Instant** - {r}: Firebreathing gains +1{p}. Activate this ability only while Firebreathing is attacking.	It’s always show time at the spectacular, stupendous, sensational extravaganza that is the Everfest Carnival.	Generic Action – Attack	Marco Wulfr					S R – EVR157 – F	https://storage.googleapis.com/fabmaster/media/images/EVR157.width-450.png - EVR157 - F
 EVR158	EVR	Cash Out	3	0		2			M	Generic, Action	Go again				"As an additional cost to play Cash Out, you may destroy any number of weapons, equipment and/or non-token items you control.
 
 Create a Silver token for each permanent destroyed this way.
 
-**Go again**"		Generic Action						S R – EVR158 – F	https://storage.googleapis.com/fabmaster/media/images/EVR158.width-450.png - EVR158 - F
+**Go again**"		Generic Action	Isuardi Therianto					S R – EVR158 – F	https://storage.googleapis.com/fabmaster/media/images/EVR158.width-450.png - EVR158 - F
 EVR159	EVR	Knick Knack Bric-a-brac	1	3		2			M	Generic, Action					"As an additional cost to play Knick Knack Bric-a-brac, you may destroy any number of Copper, Silver, and/or Gold you control.
 
-Search your deck for a card with Amulet, Potion, or Talisman in its name, put it into the arena, then shuffle. For each 4 Copper, 2 Silver, and/or 1 Gold destroyed this way, repeat this process."		Generic Action						S R – EVR159 – F, R – EVR159 – F	https://storage.googleapis.com/fabmaster/media/images/EVR159.width-450.png - EVR159 - F
+Search your deck for a card with Amulet, Potion, or Talisman in its name, put it into the arena, then shuffle. For each 4 Copper, 2 Silver, and/or 1 Gold destroyed this way, repeat this process."		Generic Action	Carlos Cruchaga					S R – EVR159 – F, R – EVR159 – F	https://storage.googleapis.com/fabmaster/media/images/EVR159.width-450.png - EVR159 - F
 EVR160	EVR	This Round’s on Me	3	1		3			M	Generic, Action	Go again				"Each hero draws a card.
 
 Until the start of your next turn, attacks that target you have -1{p}.
 
-**Go again**"	“Cheers to the good times, with good friends.” - Lexi	Generic Action						S R – EVR160 – F	https://storage.googleapis.com/fabmaster/media/images/EVR160.width-450.png - EVR160 - F
+**Go again**"	“Cheers to the good times, with good friends.” - Lexi	Generic Action	Alexander Mokhov					S R – EVR160 – F	https://storage.googleapis.com/fabmaster/media/images/EVR160.width-450.png - EVR160 - F
 EVR161	EVR	Life of the Party	1	2	4	2			R	Generic, Action, Attack	Go again				"You may discard or destroy a card you control named Crazy Brew rather than pay Life of the Party's {r} cost. If you do, choose all modes, otherwise choose 1 at random;
 
 - Life of the Party gains ""When this hits, gain life 2{h}.""
 - Life of the Party gains +2{p}.
-- Life of the Party gains **go again.**"		Generic Action – Attack						S R – EVR161 – F	https://storage.googleapis.com/fabmaster/media/images/EVR161.width-450.png - EVR161 - F
+- Life of the Party gains **go again.**"		Generic Action – Attack	Sam Yang					S R – EVR161 – F	https://storage.googleapis.com/fabmaster/media/images/EVR161.width-450.png - EVR161 - F
 EVR162	EVR	Life of the Party	2	2	3	2			R	Generic, Action, Attack	Go again				"You may discard or destroy a card you control named Crazy Brew rather than pay Life of the Party's {r} cost. If you do, choose all modes, otherwise choose 1 at random;
 
 - Life of the Party gains ""When this hits, gain life 2{h}.""
 - Life of the Party gains +2{p}.
-- Life of the Party gains **go again.**"		Generic Action – Attack						S R – EVR162 – F	https://storage.googleapis.com/fabmaster/media/images/EVR162.width-450.png - EVR162 - F
+- Life of the Party gains **go again.**"		Generic Action – Attack	Sam Yang					S R – EVR162 – F	https://storage.googleapis.com/fabmaster/media/images/EVR162.width-450.png - EVR162 - F
 EVR163	EVR	Life of the Party	3	2	2	2			R	Generic, Action, Attack	Go again				"You may discard or destroy a card you control named Crazy Brew rather than pay Life of the Party's {r} cost. If you do, choose all modes, otherwise choose 1 at random;
 
 - Life of the Party gains ""When this hits, gain life 2{h}.""
 - Life of the Party gains +2{p}.
-- Life of the Party gains **go again.**"		Generic Action – Attack						S R – EVR163 – F	https://storage.googleapis.com/fabmaster/media/images/EVR163.width-450.png - EVR163 - F
+- Life of the Party gains **go again.**"		Generic Action – Attack	Sam Yang					S R – EVR163 – F	https://storage.googleapis.com/fabmaster/media/images/EVR163.width-450.png - EVR163 - F
 EVR164	EVR	High Striker	1	0		2			R	Generic, Action	Go again				"The next time an attack you control hits this turn, create 6 Copper tokens.
 
-**Go again**"	Step right up, step right up!	Generic Action						S R – EVR164 – F, R – EVR164 – F	https://storage.googleapis.com/fabmaster/media/images/EVR164.width-450.png - EVR164 - F
+**Go again**"	Step right up, step right up!	Generic Action	Marco Wulfr					S R – EVR164 – F, R – EVR164 – F	https://storage.googleapis.com/fabmaster/media/images/EVR164.width-450.png - EVR164 - F
 EVR165	EVR	High Striker	2	0		2			R	Generic, Action	Go again				"The next time an attack you control hits this turn, create 4 Copper tokens.
 
-**Go again**"	Step right up, step right up!	Generic Action						S R – EVR165 – F, R – EVR165 – F	https://storage.googleapis.com/fabmaster/media/images/EVR165.width-450.png - EVR165 - F
+**Go again**"	Step right up, step right up!	Generic Action	Marco Wulfr					S R – EVR165 – F, R – EVR165 – F	https://storage.googleapis.com/fabmaster/media/images/EVR165.width-450.png - EVR165 - F
 EVR166	EVR	High Striker	3	0		2			R	Generic, Action	Go again				"The next time an attack you control hits this turn, create 2 Copper tokens.
 
-**Go again**"	Step right up, step right up!	Generic Action						S R – EVR166 – F, R – EVR166 – F	https://storage.googleapis.com/fabmaster/media/images/EVR166.width-450.png - EVR166 - F
+**Go again**"	Step right up, step right up!	Generic Action	Marco Wulfr					S R – EVR166 – F, R – EVR166 – F	https://storage.googleapis.com/fabmaster/media/images/EVR166.width-450.png - EVR166 - F
 EVR167	EVR	Pick a Card, Any Card	1	0		2			R	Generic, Action	Go again				"Look at target opponent's hand then name a card.
 
 Choose a random card from their hand and reveal it. If it's the named card, create a Silver token. Repeat this process thrice.
 
-**Go again**"		Generic Action						S R – EVR167 – F, R – EVR167 – F	https://storage.googleapis.com/fabmaster/media/images/EVR167.width-450.png - EVR167 - F
+**Go again**"		Generic Action	Carlos Cruchaga					S R – EVR167 – F, R – EVR167 – F	https://storage.googleapis.com/fabmaster/media/images/EVR167.width-450.png - EVR167 - F
 EVR168	EVR	Pick a Card, Any Card	2	0		2			R	Generic, Action	Go again				"Look at target opponent's hand then name a card.
 
 Choose a random card from their hand and reveal it. If it's the named card, create a Silver token. Repeat this process twice.
 
-**Go again**"		Generic Action						S R – EVR168 – F, R – EVR168 – F	https://storage.googleapis.com/fabmaster/media/images/EVR168.width-450.png - EVR168 - F
+**Go again**"		Generic Action	Carlos Cruchaga					S R – EVR168 – F, R – EVR168 – F	https://storage.googleapis.com/fabmaster/media/images/EVR168.width-450.png - EVR168 - F
 EVR169	EVR	Pick a Card, Any Card	3	0		2			R	Generic, Action	Go again				"Look at target opponent's hand then name a card.
 
 Choose a random card from their hand and reveal it. If it's the named card, create a Silver token. Repeat this process once.
 
-**Go again**"		Generic Action						S R – EVR169 – F, R – EVR169 – F	https://storage.googleapis.com/fabmaster/media/images/EVR169.width-450.png - EVR169 - F
+**Go again**"		Generic Action	Carlos Cruchaga					S R – EVR169 – F, R – EVR169 – F	https://storage.googleapis.com/fabmaster/media/images/EVR169.width-450.png - EVR169 - F
 EVR170	EVR	Smashing Good Time	1	0		2			R	Generic, Action	Go again				"The next time an attack action card hits a hero this turn, you may destroy an item they control with 2 or less{r}
 
 If Smashing Good Time is played from arsenal, the next attack action card you play this turn gains +3{p}
 
-**Go again**"		Generic Action						S R – EVR170 – F	https://storage.googleapis.com/fabmaster/media/images/EVR170.width-450.png - EVR170 - F
+**Go again**"		Generic Action	Ramza Ardyputra					S R – EVR170 – F	https://storage.googleapis.com/fabmaster/media/images/EVR170.width-450.png - EVR170 - F
 EVR171	EVR	Smashing Good Time	2	0		2			R	Generic, Action	Go again				"The next time an attack action card hits a hero this turn, you may destroy an item they control with 2 or less{r}
 
 If Smashing Good Time is played from arsenal, the next attack action card you play this turn gains +2{p}
 
-**Go again**"		Generic Action						S R – EVR171 – F	https://storage.googleapis.com/fabmaster/media/images/EVR171.width-450.png - EVR171 - F
+**Go again**"		Generic Action	Ramza Ardyputra					S R – EVR171 – F	https://storage.googleapis.com/fabmaster/media/images/EVR171.width-450.png - EVR171 - F
 EVR172	EVR	Smashing Good Time	3	0		2			R	Generic, Action	Go again				"The next time an attack action card hits a hero this turn, you may destroy an item they control with 2 or less{r}
 
 If Smashing Good Time is played from arsenal, the next attack action card you play this turn gains +1{p}
 
-**Go again**"		Generic Action						S R – EVR172 – F	https://storage.googleapis.com/fabmaster/media/images/EVR172.width-450.png - EVR172 - F
+**Go again**"		Generic Action	Ramza Ardyputra					S R – EVR172 – F	https://storage.googleapis.com/fabmaster/media/images/EVR172.width-450.png - EVR172 - F
 EVR173	EVR	Even Bigger Than That!	1	0					R	Generic, Instant	Opt 3				"Play Even Bigger Than That! only if you've dealt {p} this turn.
 
-**Opt 3**, then reveal the top card of your deck. If it has {p} greater than the amount of damage you've dealt this turn, create a Quicken token and draw a card. *(Look at the top 3 cards of your deck. You may put them on the top and/or bottom in any order.)*"		Generic Instant						S R – EVR173 – F	https://storage.googleapis.com/fabmaster/media/images/EVR173.width-450.png - EVR173 - F
+**Opt 3**, then reveal the top card of your deck. If it has {p} greater than the amount of damage you've dealt this turn, create a Quicken token and draw a card. *(Look at the top 3 cards of your deck. You may put them on the top and/or bottom in any order.)*"		Generic Instant	Ramza Ardyputra					S R – EVR173 – F	https://storage.googleapis.com/fabmaster/media/images/EVR173.width-450.png - EVR173 - F
 EVR174	EVR	Even Bigger Than That!	2	0					R	Generic, Instant	Opt 2				"Play Even Bigger Than That! only if you've dealt {p} this turn.
 
-**Opt 2**, then reveal the top card of your deck. If it has {p} greater than the amount of damage you've dealt this turn, create a Quicken token and draw a card. *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom in any order.)*"		Generic Instant						S R – EVR174 – F	https://storage.googleapis.com/fabmaster/media/images/EVR174.width-450.png - EVR174 - F
+**Opt 2**, then reveal the top card of your deck. If it has {p} greater than the amount of damage you've dealt this turn, create a Quicken token and draw a card. *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom in any order.)*"		Generic Instant	Ramza Ardyputra					S R – EVR174 – F	https://storage.googleapis.com/fabmaster/media/images/EVR174.width-450.png - EVR174 - F
 EVR175	EVR	Even Bigger Than That!	3	0					R	Generic, Instant	Opt 1				"Play Even Bigger Than That! only if you've dealt {p} this turn.
 
-**Opt 1**, then reveal the top card of your deck. If it has {p} greater than the amount of damage you've dealt this turn, create a Quicken token and draw a card. *(Look at the top card of your deck. You may put it on the bottom.)*"		Generic Instant						S R – EVR175 – F	https://storage.googleapis.com/fabmaster/media/images/EVR175.width-450.png - EVR175 - F
+**Opt 1**, then reveal the top card of your deck. If it has {p} greater than the amount of damage you've dealt this turn, create a Quicken token and draw a card. *(Look at the top card of your deck. You may put it on the bottom.)*"		Generic Instant	Ramza Ardyputra					S R – EVR175 – F	https://storage.googleapis.com/fabmaster/media/images/EVR175.width-450.png - EVR175 - F
 EVR176	EVR	Amulet of Assertiveness	2	0					R	Generic, Action, Item	Go again	Attack Reaction			"**Go again**
 
-**Attack Reaction** - Destroy Amulet of Assertiveness: Target attack gains ""When this hits, banish the top card of your deck. If it's an attack action card, you may play it this turn."" Activate this ability only if you have 4 or more cards in hand."		Generic Action – Item						S C – EVR176 – F	https://storage.googleapis.com/fabmaster/media/images/EVR176.width-450.png - EVR176 - F
+**Attack Reaction** - Destroy Amulet of Assertiveness: Target attack gains ""When this hits, banish the top card of your deck. If it's an attack action card, you may play it this turn."" Activate this ability only if you have 4 or more cards in hand."		Generic Action – Item	bimawithpencil					S C – EVR176 – F	https://storage.googleapis.com/fabmaster/media/images/EVR176.width-450.png - EVR176 - F
 EVR177	EVR	Amulet of Echoes	3	0					R	Generic, Action, Item	Go again	Instant			"**Go again**
 
-**Instant** - Destroy Amulet of Echoes: Target hero discards 2 cards. Activate this ability only if they have played 2 or more cards with the same name this turn."		Generic Action – Item						S C – EVR177 – F	https://storage.googleapis.com/fabmaster/media/images/EVR177.width-450.png - EVR177 - F
+**Instant** - Destroy Amulet of Echoes: Target hero discards 2 cards. Activate this ability only if they have played 2 or more cards with the same name this turn."		Generic Action – Item	Maxim Kostin					S C – EVR177 – F	https://storage.googleapis.com/fabmaster/media/images/EVR177.width-450.png - EVR177 - F
 EVR178	EVR	Amulet of Havencall	3	0					R	Generic, Action, Item	Go again	Defense Reaction			"**Go again**
 
-**Defense Reaction** - Destroy Amulet of Havencall: Search your deck for a card named Rally the Rearguard, add it to this chain link as a defending card, then shuffle. Activate this ability only if you have no cards in hand."		Generic Action – Item						S C – EVR178 – F	https://storage.googleapis.com/fabmaster/media/images/EVR178.width-450.png - EVR178 - F
+**Defense Reaction** - Destroy Amulet of Havencall: Search your deck for a card named Rally the Rearguard, add it to this chain link as a defending card, then shuffle. Activate this ability only if you have no cards in hand."		Generic Action – Item	Carlos Cruchaga					S C – EVR178 – F	https://storage.googleapis.com/fabmaster/media/images/EVR178.width-450.png - EVR178 - F
 EVR179	EVR	Amulet of Ignition	2	0					R	Generic, Action, Item	Go again	Instant			"**Go again**
 
-**Instant** - Destroy Amulet of Ignition: The next ability you activate this turn costs {r} less. Activate this ability only if you haven't played a card or activated an ability this turn."		Generic Action – Item						S C – EVR179 – F	https://storage.googleapis.com/fabmaster/media/images/EVR179.width-450.png - EVR179 - F
+**Instant** - Destroy Amulet of Ignition: The next ability you activate this turn costs {r} less. Activate this ability only if you haven't played a card or activated an ability this turn."		Generic Action – Item	Dmitry Isakevitch					S C – EVR179 – F	https://storage.googleapis.com/fabmaster/media/images/EVR179.width-450.png - EVR179 - F
 EVR180	EVR	Amulet of Intervention	3	0					R	Generic, Action, Item	Go again	Instant			"**Go again**
 
-**Instant** - Destroy Amulet of Intervention: Prevent the next 1 damage that would be dealt to your hero this turn. Activate this ability only while your hero is the target of a source that would deal damage equal to or greater than your hero's {h}."		Generic Action – Item						S C – EVR180 – F	https://storage.googleapis.com/fabmaster/media/images/EVR180.width-450.png - EVR180 - F
+**Instant** - Destroy Amulet of Intervention: Prevent the next 1 damage that would be dealt to your hero this turn. Activate this ability only while your hero is the target of a source that would deal damage equal to or greater than your hero's {h}."		Generic Action – Item	Henrique Lindner					S C – EVR180 – F	https://storage.googleapis.com/fabmaster/media/images/EVR180.width-450.png - EVR180 - F
 EVR181	EVR	Amulet of Oblation	3	0					R	Generic, Action, Item	Go again	Instant			"**Go again**
 
-**Instant** - Destroy Amulet of Oblation: Until end of turn, target attack action gains ""If this would be put into a graveyard, instead put it on the bottom of its owner's deck."" Activate this ability only if a card has entered a graveyard this turn."		Generic Action – Item						S C – EVR181 – F	https://storage.googleapis.com/fabmaster/media/images/EVR181.width-450.png - EVR181 - F
-EVR182	EVR	Clarity Potion	3	0					R	Generic, Action, Item		Instant	Opt 2		**Instant** - Destroy Clarity Potion: **Opt 2.** *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom in any order.)*		Generic Action – Item						S C – EVR182 – F	https://storage.googleapis.com/fabmaster/media/images/EVR182.width-450.png - EVR182 - F
-EVR183	EVR	Healing Potion	3	0					R	Generic, Action, Item		Action	Go again		**Action** - Destroy Healing Potion: Gain 2{h}. **Go again**	“Guaranteed to heal everything but a broken heart.” - Jezabelle, Everfest Healer and Allsorts	Generic Action – Item						S C – EVR183 – F	https://storage.googleapis.com/fabmaster/media/images/EVR183.width-450.png - EVR183 - F
-EVR184	EVR	Potion of Seeing	3	0					R	Generic, Action, Item		Instant			**Instant** - Destroy Potion of Seeing: Look at target hero's hand.	“Don’t like what you see? NO REFUNDS.” - Jezabelle, Everfest Alchemist and Allsorts	Generic Action – Item						S C – EVR184 – F	https://storage.googleapis.com/fabmaster/media/images/EVR184.width-450.png - EVR184 - F
-EVR185	EVR	Potion of Deja Vu	3	0					R	Generic, Action, Item		Instant			**Instant** - Destroy Potion of Déjà Vu: Put all cards from your pitch zone on top of your deck in any order. *(Opponents don't get to see the order of the cards.)*		Generic Action – Item						S C – EVR185 – F	https://storage.googleapis.com/fabmaster/media/images/EVR185.width-450.png - EVR185 - F
-EVR186	EVR	Potion of Ironhide	3	0					R	Generic, Action, Item		Instant			**Instant** - Destroy Potion of Ironhide: Attack action cards you own gain +1{d} this turn.	“Two drops with your hops. That’ll see you right, if things get rowdy.” - Jezabelle, Everfest Ringmaster and Allsorts	Generic Action – Item						S C – EVR186 – F	https://storage.googleapis.com/fabmaster/media/images/EVR186.width-450.png - EVR186 - F
-EVR187	EVR	Potion of Luck	3	0					R	Generic, Action, Item		Instant			**Instant** - Destroy Potion of Luck: Shuffle your hand and arsenal into your deck then draw that many cards.	“Remember to cross your fingers and tap your toes!” - Jezabelle, Everfest Wisewoman and Allsorts	Generic Action – Item						S C – EVR187 – F	https://storage.googleapis.com/fabmaster/media/images/EVR187.width-450.png - EVR187 - F
+**Instant** - Destroy Amulet of Oblation: Until end of turn, target attack action gains ""If this would be put into a graveyard, instead put it on the bottom of its owner's deck."" Activate this ability only if a card has entered a graveyard this turn."		Generic Action – Item	Alexis Susani					S C – EVR181 – F	https://storage.googleapis.com/fabmaster/media/images/EVR181.width-450.png - EVR181 - F
+EVR182	EVR	Clarity Potion	3	0					R	Generic, Action, Item		Instant	Opt 2		**Instant** - Destroy Clarity Potion: **Opt 2.** *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom in any order.)*		Generic Action – Item	Immanuela Crovius					S C – EVR182 – F	https://storage.googleapis.com/fabmaster/media/images/EVR182.width-450.png - EVR182 - F
+EVR183	EVR	Healing Potion	3	0					R	Generic, Action, Item		Action	Go again		**Action** - Destroy Healing Potion: Gain 2{h}. **Go again**	“Guaranteed to heal everything but a broken heart.” - Jezabelle, Everfest Healer and Allsorts	Generic Action – Item	Simon Wong					S C – EVR183 – F	https://storage.googleapis.com/fabmaster/media/images/EVR183.width-450.png - EVR183 - F
+EVR184	EVR	Potion of Seeing	3	0					R	Generic, Action, Item		Instant			**Instant** - Destroy Potion of Seeing: Look at target hero's hand.	“Don’t like what you see? NO REFUNDS.” - Jezabelle, Everfest Alchemist and Allsorts	Generic Action – Item	Alexandra Malygina					S C – EVR184 – F	https://storage.googleapis.com/fabmaster/media/images/EVR184.width-450.png - EVR184 - F
+EVR185	EVR	Potion of Deja Vu	3	0					R	Generic, Action, Item		Instant			**Instant** - Destroy Potion of Déjà Vu: Put all cards from your pitch zone on top of your deck in any order. *(Opponents don't get to see the order of the cards.)*		Generic Action – Item	Saad Irfan					S C – EVR185 – F	https://storage.googleapis.com/fabmaster/media/images/EVR185.width-450.png - EVR185 - F
+EVR186	EVR	Potion of Ironhide	3	0					R	Generic, Action, Item		Instant			**Instant** - Destroy Potion of Ironhide: Attack action cards you own gain +1{d} this turn.	“Two drops with your hops. That’ll see you right, if things get rowdy.” - Jezabelle, Everfest Ringmaster and Allsorts	Generic Action – Item	Marco Wulfr					S C – EVR186 – F	https://storage.googleapis.com/fabmaster/media/images/EVR186.width-450.png - EVR186 - F
+EVR187	EVR	Potion of Luck	3	0					R	Generic, Action, Item		Instant			**Instant** - Destroy Potion of Luck: Shuffle your hand and arsenal into your deck then draw that many cards.	“Remember to cross your fingers and tap your toes!” - Jezabelle, Everfest Wisewoman and Allsorts	Generic Action – Item	Enmoire					S C – EVR187 – F	https://storage.googleapis.com/fabmaster/media/images/EVR187.width-450.png - EVR187 - F
 EVR188	EVR	Talisman of Balance	3	0					R	Generic, Action, Item	Go again				"**Go again**
 
-At the beginning of your end phase, if you have less cards in arsenal than an opposing hero, destroy Talisman of Balance and put the top card of your deck into an empty arsenal zone you control."		Generic Action – Item						S C – EVR188 – F	https://storage.googleapis.com/fabmaster/media/images/EVR188.width-450.png - EVR188 - F
+At the beginning of your end phase, if you have less cards in arsenal than an opposing hero, destroy Talisman of Balance and put the top card of your deck into an empty arsenal zone you control."		Generic Action – Item	Brian Adriel					S C – EVR188 – F	https://storage.googleapis.com/fabmaster/media/images/EVR188.width-450.png - EVR188 - F
 EVR189	EVR	Talisman of Cremation	3	0					R	Generic, Action, Item	Go again				"**Go again**
 
-When you play a card from your banished zone, destroy Talisman of Cremation and name a card. Banish all cards with the chosen name from each opposing hero's graveyard."		Generic Action – Item						S C – EVR189 – F	https://storage.googleapis.com/fabmaster/media/images/EVR189.width-450.png - EVR189 - F
+When you play a card from your banished zone, destroy Talisman of Cremation and name a card. Banish all cards with the chosen name from each opposing hero's graveyard."		Generic Action – Item	Henrique Lindner					S C – EVR189 – F	https://storage.googleapis.com/fabmaster/media/images/EVR189.width-450.png - EVR189 - F
 EVR190	EVR	Talisman of Featherfoot	2	0					R	Generic, Action, Item	Go again			Go again	"**Go again**
 
-When an attack you control gains exactly +1{p} from an effect during the reaction step, destroy Talisman of Featherfoot and the attack gains **go again.**"		Generic Action – Item						S C – EVR190 – F	https://storage.googleapis.com/fabmaster/media/images/EVR190.width-450.png - EVR190 - F
+When an attack you control gains exactly +1{p} from an effect during the reaction step, destroy Talisman of Featherfoot and the attack gains **go again.**"		Generic Action – Item	Lizhe Liang					S C – EVR190 – F	https://storage.googleapis.com/fabmaster/media/images/EVR190.width-450.png - EVR190 - F
 EVR191	EVR	Talisman of Recompense	2	0					R	Generic, Action, Item	Go again				"**Go again**
 
-Whenever you pitch a card, if you would gain exactly one {r}, instead destroy Talisman of Recompense and gain {r}{r}{r}."		Generic Action – Item						S C – EVR191 – F	https://storage.googleapis.com/fabmaster/media/images/EVR191.width-450.png - EVR191 - F
+Whenever you pitch a card, if you would gain exactly one {r}, instead destroy Talisman of Recompense and gain {r}{r}{r}."		Generic Action – Item	Alexandra Malygina					S C – EVR191 – F	https://storage.googleapis.com/fabmaster/media/images/EVR191.width-450.png - EVR191 - F
 EVR192	EVR	Talisman of Tithes	3	0					R	Generic, Action, Item	Go again				"**Go again**
 
-If an opponent would draw 1 or more cards during your action phase, instead destroy Talisman of Tithes and they draw that many cards minus 1."		Generic Action – Item						S C – EVR192 – F	https://storage.googleapis.com/fabmaster/media/images/EVR192.width-450.png - EVR192 - F
+If an opponent would draw 1 or more cards during your action phase, instead destroy Talisman of Tithes and they draw that many cards minus 1."		Generic Action – Item	Kanadekana					S C – EVR192 – F	https://storage.googleapis.com/fabmaster/media/images/EVR192.width-450.png - EVR192 - F
 EVR193	EVR	Talisman of Warfare	2	0					R	Generic, Action, Item	Go again				"**Go again**
 
-When a source you control deals exactly 2 damage to an opposing hero, destroy Talisman of Warfare and all cards in all arsenals."	It’s said that wherever the Dracai of War planted this talisman, the lava was soon to flow.	Generic Action – Item						S C – EVR193 – F	https://storage.googleapis.com/fabmaster/media/images/EVR193.width-450.png - EVR193 - F
-EVR195	EVR	Silver							C	Generic, Token, Item		Action	Go again		**Action** - {r}{r}{r}, destroy Silver: Draw a card. **Go again**		Generic Token – Item						S R – EVR195 – F	https://storage.googleapis.com/fabmaster/media/images/EVR195.width-450.png - EVR195 - F
+When a source you control deals exactly 2 damage to an opposing hero, destroy Talisman of Warfare and all cards in all arsenals."	It’s said that wherever the Dracai of War planted this talisman, the lava was soon to flow.	Generic Action – Item	Dmitry Isakevitch					S C – EVR193 – F	https://storage.googleapis.com/fabmaster/media/images/EVR193.width-450.png - EVR193 - F
+EVR195	EVR	Silver							C	Generic, Token, Item		Action	Go again		**Action** - {r}{r}{r}, destroy Silver: Draw a card. **Go again**		Generic Token – Item	Anastasiya Grintsova					S R – EVR195 – F	https://storage.googleapis.com/fabmaster/media/images/EVR195.width-450.png - EVR195 - F
