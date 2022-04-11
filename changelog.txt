@@ -66,3 +66,6 @@ Veiled Intentions, Life of the Party, and Briar / Briar, Warden of Thorns
 - Added artist.csv file
 - Updated card.csv with artist info
 - Fixed a spelling issue in the functional text of Teklovossen’s Workshop
+
+04-11-22:
+- Fixed an error in the functional text of Skullbone Crosswraps
