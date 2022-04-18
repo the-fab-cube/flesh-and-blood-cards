@@ -1,2 +1,5 @@
 04-02-22:
 - Add numeric collation on relevent fields in the card table
+
+04-18-22:
+- Update card table to include plaintext columns of functional_text and flavor_text to facilitate text searching
