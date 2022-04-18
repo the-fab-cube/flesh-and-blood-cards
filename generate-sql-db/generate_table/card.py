@@ -1,6 +1,7 @@
 import csv
 import psycopg2
 from pathlib import Path
+from markdown_patch import unmark
 
 def create_table(cur):
     command = """
@@ -21,7 +22,9 @@ def create_table(cur):
             ability_and_effect_keywords VARCHAR(255)[],
             granted_keywords VARCHAR(255)[],
             functional_text VARCHAR(10000),
+            functional_text_plain VARCHAR(10000),
             flavor_text VARCHAR(10000),
+            flavor_text_plain VARCHAR(10000),
             type_text VARCHAR(1000),
             artists VARCHAR(1000)[] NOT NULL,
             played_horizontally BOOLEAN NOT NULL DEFAULT FALSE,
@@ -55,21 +58,21 @@ def drop_table(cur):
         print(error)
 
 def insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
-            ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, artists, played_horizontally, blitz_restricted,
-            blitz_legal, cc_legal, variations, image_urls):
+            ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
+            artists, played_horizontally, blitz_restricted, blitz_legal, cc_legal, variations, image_urls):
     sql = """INSERT INTO cards(ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
-            ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, artists, played_horizontally, blitz_restricted,
-            blitz_legal, cc_legal, variations, image_urls)
+            ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
+            artists, played_horizontally, blitz_restricted, blitz_legal, cc_legal, variations, image_urls)
             VALUES('{{{0}}}', '{{{1}}}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{8}', '{{{9}}}', '{{{10}}}', '{{{11}}}', '{{{12}}}',
-            '{{{13}}}', '{{{14}}}', '{15}', '{16}', '{17}', '{{{18}}}', '{19}', '{20}',
-            '{21}', '{22}', '{{{23}}}', '{{{24}}}');"""
+            '{{{13}}}', '{{{14}}}', '{15}', '{16}', '{17}', '{18}', '{19}',
+            '{{{20}}}', '{21}', '{22}', '{23}', '{24}', '{{{25}}}', '{{{26}}}');"""
     try:
         print("Inserting {0} - {1} card...".format(name, pitch))
 
         # execute the INSERT statement
         cur.execute(sql.format(ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
-            ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, artists, played_horizontally, blitz_restricted,
-            blitz_legal, cc_legal, variations, image_urls))
+            ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
+            artists, played_horizontally, blitz_restricted, blitz_legal, cc_legal, variations, image_urls))
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
         raise error
@@ -118,14 +121,20 @@ def generate_table(cur, url_for_images = None):
             if cc_legal == '':
                 cc_legal = True
 
+            functional_text_plain = unmark(functional_text)
+            flavor_text_plain = unmark(flavor_text)
+
             functional_text = functional_text.replace("'", "''")
+            functional_text_plain = functional_text_plain.replace("'", "''")
+            flavor_text = flavor_text.replace("'", "''")
+            flavor_text_plain = flavor_text_plain.replace("'", "''")
 
             if url_for_images is not None:
                 image_urls = image_urls.replace("https://storage.googleapis.com/fabmaster/media/images/", url_for_images)
 
             insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
-            ability_and_effect_keywords, granted_keywords, functional_text, flavor_text, type_text, artists, played_horizontally, blitz_restricted,
-            blitz_legal, cc_legal, variations, image_urls)
+            ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
+            artists, played_horizontally, blitz_restricted, blitz_legal, cc_legal, variations, image_urls)
 
             # print(', '.join(row))
 
