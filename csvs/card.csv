@@ -3781,6 +3781,14 @@ Whenever you play an Ice card during an opponents turn, create a Frostbite token
 UPR104	UPR	Encase	1	0		3			M	Elemental, Wizard, Action	Ice Fusion			Freeze	"**Ice Fusion** *(As an additional cost to play Encase, you may reveal an Ice card from your hand.)*
 
 Deal 3 arcane damage to any target. If Encase was **fused** and deals damage to a hero, **freeze** that hero and all equipment they control until the start of your next turn. *(A frozen object can’t be played or activated.)*"		Elemental Wizard Action	Nikolay Moskvin					S – UPR104 – N	https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_03.width-450.png - UPR104 – N
+UPR109	UPR	Ice Eternal	3	XX		3			R	Elemental, Wizard, Action	Iyslander Specialization, Ice Fusion				"**Iyslander Specialization** *(You may only have Ice Eternal in your deck if your hero is Iyslander.)*
+
+**Ice Fusion** *(As an additional cost to play Ice Eternal, you may reveal an Ice card from your hand.)*
+
+Create X Frostbite tokens under target hero’s control. Then, if Ice Eternal was **fused**, deal arcane damage to that hero equal to the number of Frostbites they control."		Elemental Wizard Action	Federico Musetti					S – UPR109 – N	https://storage.googleapis.com/fabmaster/media/images/UPR109.width-450.png - UPR109 – N
+UPR121	UPR	Icebind	3	0		3			C	Elemental, Wizard, Action	Ice Fusion			Freeze	"**Ice Fusion** *(As an additional cost to play Ice Eternal, you may reveal an Ice card from your hand.)*
+
+Deal 1 arcane damage to any target. If Icebind was **fused** and deals damage to a hero, **freeze** a card in their arsenal until the start of your next turn. *(A frozen object can’t be played or activated.)*"		Elemental Wizard Action	Jessada Sutthi					S – UPR121 – N	https://storage.googleapis.com/fabmaster/media/images/UPR121.width-450.png - UPR121 – N
 UPR135	UPR	Ice Bolt	3	2		3			C	Ice, Wizard, Action					Deal 3 arcane damage to any target.		Ice Wizard Action	Sam Yang					S – UPR135 – N	https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_04.width-450.png - UPR104 – N
 UPR138	UPR	Channel the Bleak Expanse	3	1		2			M	Ice, Action, Aura	Go again, Channel Ice				"**Go again**
 

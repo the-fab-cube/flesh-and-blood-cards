@@ -1,0 +1,2 @@
+04-23-22:
+- Fix an issue in the script where it was no longer pointing at the correct column
