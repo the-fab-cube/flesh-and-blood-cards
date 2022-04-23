@@ -3562,9 +3562,9 @@ EVR117	EVR	Shrill of Skullform	2	2	3	3			C	Runeblade, Action, Attack					If you 
 EVR118	EVR	Shrill of Skullform	3	2	2	3			C	Runeblade, Action, Attack					If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.		Runeblade Action – Attack	Mihail Spil-Haufter					S R – EVR118 – F	https://storage.googleapis.com/fabmaster/media/images/EVR118.width-450.png - EVR118 - F
 EVR120, UPR103	EVR, UPR	Iyslander					18	4	M, T	Elemental, Wizard, Hero, Young	Essence of Ice				"**Essence of Ice** *(You may have Ice cards in your deck.)*
 
-If it's not your turn, you may play 'non-attack' action cards with blue color strips from your arsenal as though they were an instant.
+If it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.
 
-Whenever you play an Ice card during an opponents turn, create a Frostbite token under their control."		Elemental Wizard Hero – Young	Steve Argyle – EVR120 – F, Alexander Mokhov – UPR103 – N					S R – EVR120 – F, S – UPR103 – N	https://storage.googleapis.com/fabmaster/media/images/EVR120.width-450.png - EVR120 – F, https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_02.width-450.png - UPR103 – N
+Whenever you play an Ice card during an opponents turn, create a Frostbite token under their control."		Elemental Wizard Hero – Young	Steve Argyle, Alexander Mokhov					S R – EVR120 – F, S – UPR103 – N	https://storage.googleapis.com/fabmaster/media/images/EVR120.width-450.png - EVR120 – F, https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_02.width-450.png - UPR103 – N
 EVR121	EVR	Kraken’s Aethervein							M	Wizard, Weapon, Staff, 2H		Once per Turn Instant			**Once per Turn Instant** - {r}{r}{r}: Deal 1 arcane damage to target opposing hero. Draw a card for each arcane damage dealt this way.		Wizard Weapon – Staff (2H)	Steve Argyle					S C – EVR121 – F	https://storage.googleapis.com/fabmaster/media/images/EVR121.width-450.png - EVR121 - F
 EVR122	EVR	Sigil of Parapets	3	1		2			M	Wizard, Defense Reaction					While Sigil of Parapets is defending, whenever you play a Wizard card, Sigil of Parapet's gains +2{d}.		Wizard Defense Reaction	Othon Nikolaidis					S R – EVR122 – F	https://storage.googleapis.com/fabmaster/media/images/EVR122.width-450.png - EVR122 - F
 EVR123	EVR	Aether Wildfire	1	2		3			M	Wizard, Action					"Deal 4 arcane damage to target opposing hero.
@@ -3775,7 +3775,7 @@ When a source you control deals exactly 2 damage to an opposing hero, destroy Ta
 EVR195	EVR	Silver							C	Generic, Token, Item		Action	Go again		**Action** - {r}{r}{r}, destroy Silver: Draw a card. **Go again**		Generic Token – Item	Anastasiya Grintsova					S R – EVR195 – F	https://storage.googleapis.com/fabmaster/media/images/EVR195.width-450.png - EVR195 - F
 UPR102	UPR	Iyslander, Stormbind					36	4	T	Elemental, Wizard, Hero	Essence of Ice				"**Essence of Ice** *(You may have Ice cards in your deck.)*
 
-If it's not your turn, you may play 'non-attack' action cards with blue color strips from your arsenal as though they were an instant.
+If it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.
 
 Whenever you play an Ice card during an opponents turn, create a Frostbite token under their control."		Elemental Wizard Hero	Alexander Mokhov			No		S – UPR102 – N	https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_01.width-450.png - UPR102 - N 
 UPR104	UPR	Encase	1	0		3			M	Elemental, Wizard, Action	Ice Fusion			Freeze	"**Ice Fusion** *(As an additional cost to play Encase, you may reveal an Ice card from your hand.)*
