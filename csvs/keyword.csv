@@ -11,9 +11,10 @@ Combo	A Ninja mechanic that showcases the power of playing multiple attacks in a
 Crush	A Guardian mechanic that showcases the strength of the guardian. When an attack with **crush** deals 4 or more damage to a hero, an effect is applied.
 Dominate	An attack that is difficult to defend. Cards with **dominate** cannot be defended with more than 1 card from the defending hero’s hand.
 Essence	**Essence** is a keyword that exists on Elemental hero cards showing what Elements that hero specializes in and what Element cards can be included in the deck.
+Freeze	A **frozen** object can’t be played or activated.
+Fusion	**Fusion** is a keyword that **fuses** one or more elements with an elemental card to give an additional effect.
 Go again	**Go again** allows multiple actions to be played in a turn, when usually playing an action would use up your action point, and therefore end your turn. A card with **go again** gives the controller of that card or activated ability 1 action point when it resolves.
 Heave X	At the beginning of your end phase, if this is in your hand and you have an empty arsenal zone, you may pay X and put this face up into your arsenal. If you do, create X Seismic Surge tokens.
-Fusion	**Fusion** is a keyword that **fuses** one or more elements with an elemental card to give an additional effect.
 Intimidate	A Brute mechanic that showcases how frightening a brute is to its enemies. **Intimidate** removes a random card from a heroes hand making it more difficult to defend.
 Legendary	You may only have 1 copy of this card in your deck.
 Negate	**Negating** a card on a layer of the chain will prevent the card from resolving.
@@ -25,3 +26,4 @@ Specialization	You may only have this card in your deck if your hero is the spec
 Spectra	**Spectra** is a keyword that exists on Illusionist Aura cards. When a player is deciding who to target for an attack they may elect to target an Aura with the keyword **spectra**. When an Aura with **spectra** is attacked, destroy it and close the combat chain. The attack will not resolve and the combat chain closes.
 Spellvoid X	**Spellvoid** is a keyword primarily on equipment or items. **Spellvoid** is a one time use effect that prevents arcane damage.
 Temper	**Temper** is a keyword that exists on equipment. Usually high in defense, **Temper** equipment presents a choice when it is down to 1{d}, of whether to defend with it one last time and see it destroyed, or save it to use for its ability.
+Unfreeze	Removes **Freeze** from an object.

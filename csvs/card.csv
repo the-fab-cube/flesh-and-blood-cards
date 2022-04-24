@@ -3773,6 +3773,11 @@ EVR193	EVR	Talisman of Warfare	2	0					R	Generic, Action, Item	Go again				"**Go
 
 When a source you control deals exactly 2 damage to an opposing hero, destroy Talisman of Warfare and all cards in all arsenals."	It’s said that wherever the Dracai of War planted this talisman, the lava was soon to flow.	Generic Action – Item	Dmitry Isakevitch					S C – EVR193 – F	https://storage.googleapis.com/fabmaster/media/images/EVR193.width-450.png - EVR193 - F
 EVR195	EVR	Silver							C	Generic, Token, Item		Action	Go again		**Action** - {r}{r}{r}, destroy Silver: Draw a card. **Go again**		Generic Token – Item	Anastasiya Grintsova					S R – EVR195 – F	https://storage.googleapis.com/fabmaster/media/images/EVR195.width-450.png - EVR195 - F
+UPR086	UPR	Thaw	1	2	6	2			M	Draconic, Action, Attack				Unfreeze	"While thaw is in your graveyard, at the start of your turn, you may banish it and choose 1:
+
+- Destroy target Frostbite.
+- Destroy target Ice affliction.
+- **Unfreeze** target **frozen** card."		Draconic Action – Attack	Hoàng Lập					S – UPR086 – N	https://storage.googleapis.com/fabmaster/media/images/UPR086.width-450.png – UPR086 – N
 UPR102	UPR	Iyslander, Stormbind					36	4	T	Elemental, Wizard, Hero	Essence of Ice				"**Essence of Ice** *(You may have Ice cards in your deck.)*
 
 If it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.
@@ -3805,3 +3810,8 @@ UPR139	UPR	Hypothermia	3	0		2			M	Ice, Action, Affliction, Aura					"*(An afflic
 Attacks you control can’t gain **go again**. *(This does not affect attacks that naturally have go again.)*
 
 At the beginning of your end phase, destroy Hypothermia."		Ice Action – Affliction Aura	Alexis Susani					S – UPR139 – N	https://storage.googleapis.com/fabmaster/media/images/UPR139.width-450.png - UPR139 – N
+UPR149	UPR	Cold Snap	3	1		2			C	Ice, Action	Go again			Freeze	"Target hero may pay {r}. If they don’t, **freeze** a card in their arsenal or an ally they control until the start of your next turn. *(A frozen object can’t be played or activated.)*
+
+If cold snap is played from arsenal, draw a card.
+
+**Go again**"		Ice Action	Mateusz Wisniewski					S – UPR149 – N	https://storage.googleapis.com/fabmaster/media/images/UPR149.width-450.png – UPR149 – N
