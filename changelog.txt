@@ -70,5 +70,5 @@ Veiled Intentions, Life of the Party, and Briar / Briar, Warden of Thorns
 04-11-22:
 - Fixed an error in the functional text of Skullbone Crosswraps
 
-04-23-22:
-- Added 2019 Promo Cards
+04-24-22:
+- Added all existing Promo Cards
