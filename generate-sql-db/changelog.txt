@@ -3,3 +3,6 @@
 
 04-18-22:
 - Update card table to include plaintext columns of functional_text and flavor_text to facilitate text searching
+
+04-24-22:
+- Update set table to include collectors_center and card_galleries columns, rename product_sites to product_pages, and reorder columns
