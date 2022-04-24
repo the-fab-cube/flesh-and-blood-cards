@@ -3789,9 +3789,19 @@ Create X Frostbite tokens under target hero’s control. Then, if Ice Eternal wa
 UPR121	UPR	Icebind	3	0		3			C	Elemental, Wizard, Action	Ice Fusion			Freeze	"**Ice Fusion** *(As an additional cost to play Ice Eternal, you may reveal an Ice card from your hand.)*
 
 Deal 1 arcane damage to any target. If Icebind was **fused** and deals damage to a hero, **freeze** a card in their arsenal until the start of your next turn. *(A frozen object can’t be played or activated.)*"		Elemental Wizard Action	Jessada Sutthi					S – UPR121 – N	https://storage.googleapis.com/fabmaster/media/images/UPR121.width-450.png - UPR121 – N
+UPR126	UPR	Frost Hex	3	3		3			M	Ice, Wizard, Action, Affliction, Aura	Iyslander Specialization				"**Iyslander Specialization** *(You may only have Frost Hex in your deck if your hero is Iyslander.)*
+
+*(An affliction enters the arena under an opposing hero’s control.)*
+
+Frostbites you control have “At the beginning of your end phase, this deals 1 arcane damage to you.”"		Ice Wizard Action – Affliction Aura	Isuardi Therianto					S – UPR126 – N	https://storage.googleapis.com/fabmaster/media/images/UPR126.width-450.png - UPR126 - N
 UPR135	UPR	Ice Bolt	3	2		3			C	Ice, Wizard, Action					Deal 3 arcane damage to any target.		Ice Wizard Action	Sam Yang					S – UPR135 – N	https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_04.width-450.png - UPR104 – N
 UPR138	UPR	Channel the Bleak Expanse	3	1		2			M	Ice, Action, Aura	Go again, Channel Ice				"**Go again**
 
 Heroes can’t reveal cards, search decks, or draw cards from effects.
 
 **Channel Ice** - At the beginning of your end phase, put a flow counter on Channel the Bleak Expanse then destroy it unless you put an Ice card from your pitch zone on the bottom of your deck for each flow counter on it."		Ice Action – Aura	Mihail Spil-Haufter					S – UPR138 – N	https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_05.width-450.png - UPR138 – N
+UPR139	UPR	Hypothermia	3	0		2			M	Ice, Action, Affliction, Aura					"*(An affliction enters the arena under an opposing hero’s control.)*
+
+Attacks you control can’t gain **go again**. *(This does not affect attacks that naturally have go again.)*
+
+At the beginning of your end phase, destroy Hypothermia."		Ice Action – Affliction Aura	Alexis Susani					S – UPR139 – N	https://storage.googleapis.com/fabmaster/media/images/UPR139.width-450.png - UPR139 – N
