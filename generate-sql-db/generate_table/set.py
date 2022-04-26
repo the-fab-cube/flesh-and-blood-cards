@@ -62,8 +62,8 @@ def generate_table(cur):
             id = row[0]
             name = row[1]
             editions = row[2]
-            initial_release_dates = row[3]
-            out_of_print_dates = row[4]
+            initial_release_dates = row[3].lower().replace("null", "infinity") # Uses infinity instead of null because some parsers break parsing timestamp arrays with null
+            out_of_print_dates = row[4].lower().replace("null", "infinity") # Uses infinity instead of null because some parsers break parsing timestamp arrays with null
             start_card_id = row[5]
             end_card_id = row[6]
             product_pages = row[7]

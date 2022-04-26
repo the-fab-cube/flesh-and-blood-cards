@@ -1,10 +1,10 @@
 Identifier	Name	Editions	Initial Release Dates	Out of Print Dates	Start Card Id	End Card Id	Product Pages	Collector’s Centers	Card Galleries
-FAB	Promos	N	null	null	FAB001	FAB078		https://fabtcg.com/collectors-centre/promos-and-extras/	
-HER	Hero Card Promos	N	null	null	HER000	HER057		https://fabtcg.com/collectors-centre/promos-and-extras/	
-LGS	Local Game Store Promos	N	null	null	LGS001	LGS098		https://fabtcg.com/collectors-centre/promos-and-extras/	
-LSS	LSS Promos	N	null	null	LSS001	LSS004		https://fabtcg.com/collectors-centre/promos-and-extras/	
-OXO	Slingshot Underground Promos	N	null	null	OXO001	OXO004		https://fabtcg.com/collectors-centre/promos-and-extras/	
-XXX	OP Event Tokens	N	null	null	XXX001	XXX012		https://fabtcg.com/collectors-centre/promos-and-extras/	
+FAB	Promos	N	null	null	FAB001	FAB078	null	https://fabtcg.com/collectors-centre/promos-and-extras/	null
+HER	Hero Card Promos	N	null	null	HER000	HER057	null	https://fabtcg.com/collectors-centre/promos-and-extras/	null
+LGS	Local Game Store Promos	N	null	null	LGS001	LGS098	null	https://fabtcg.com/collectors-centre/promos-and-extras/	null
+LSS	LSS Promos	N	null	null	LSS001	LSS004	null	https://fabtcg.com/collectors-centre/promos-and-extras/	null
+OXO	Slingshot Underground Promos	N	null	null	OXO001	OXO004	null	https://fabtcg.com/collectors-centre/promos-and-extras/	null
+XXX	OP Event Tokens	N	null	null	XXX001	XXX012	null	https://fabtcg.com/collectors-centre/promos-and-extras/	null
 BOL	Boltyn Blitz Deck	N	2021-05-07T00:00:00.000Z	null	BOL001	BOL030	https://fabtcg.com/products/booster-set/monarch/monarch-blitz-decks/	https://fabtcg.com/collectors-centre/monarch/	https://fabtcg.com/products/booster-set/monarch/monarch-blitz-decks/boltyn-blitz-deck/
 BRI	Briar Blitz Deck	N	2021-11-24T00:00:00.000Z	null	BRI001	LXI031	https://fabtcg.com/products/booster-set/tales-aria-blitz-decks/	https://fabtcg.com/collectors-centre/tales-of-aria/	https://fabtcg.com/resources/card-galleries/tales-aria/briar-blitz-deck/
 BVO	Bravo Hero Deck	N	2019-10-11T00:00:00.000Z	2019-10-11T00:00:00.000Z	BVO001	BVO029	https://fabtcg.com/products/booster-set/welcome-rathe/wtr-hero-decks/	https://fabtcg.com/collectors-centre/welcome-rathe/	https://fabtcg.com/resources/card-galleries/bravo-hero-deck/
@@ -17,8 +17,8 @@ OLD	Oldhim Blitz Deck	N	2021-11-24T00:00:00.000Z	null	OLD001	OLD032	https://fabt
 PSM	Prism Blitz Deck	N	2021-05-07T00:00:00.000Z	null	PSM001	PSM030	https://fabtcg.com/products/booster-set/monarch/monarch-blitz-decks/	https://fabtcg.com/collectors-centre/monarch/	https://fabtcg.com/products/booster-set/monarch/monarch-blitz-decks/prism-blitz-deck/
 RNR	Rhinar Hero Deck	N	2019-10-11T00:00:00.000Z	2019-10-11T00:00:00.000Z	RNR001	RNR031	https://fabtcg.com/products/booster-set/welcome-rathe/wtr-hero-decks/	https://fabtcg.com/collectors-centre/welcome-rathe/	https://fabtcg.com/resources/card-galleries/rhinar-hero-deck/
 TEA	Dorinthea Hero Deck	N	2019-10-11T00:00:00.000Z	2019-10-11T00:00:00.000Z	TEA001	TEA027	https://fabtcg.com/products/booster-set/welcome-rathe/wtr-hero-decks/	https://fabtcg.com/collectors-centre/welcome-rathe/	https://fabtcg.com/resources/card-galleries/dorinthea-hero-deck/
-DVR	Classic Battles: Rhinar vs Dorinthea	N	2022-05-27T00:00:00.000Z	null			https://fabtcg.com/products/booster-set/classic-battles-rvd/		
-1HP	History Pack 1	N	2022-05-06T00:00:00.000Z	null					
+DVR	Classic Battles: Rhinar vs Dorinthea	N	2022-05-27T00:00:00.000Z	null			https://fabtcg.com/products/booster-set/classic-battles-rvd/	null	null
+1HP	History Pack 1	N	2022-05-06T00:00:00.000Z	null			null	null	null
 WTR	Welcome to Rathe	A, U	2019-10-11T00:00:00.000Z, 2020-11-06T00:00:00.000Z	2019-10-11T00:00:00.000Z, 2021-12-01T00:00:00.000Z	WTR000	WTR225	https://fabtcg.com/products/booster-set/welcome-rathe/, https://fabtcg.com/products/booster-set/welcome-rathe-unlimited/	https://fabtcg.com/collectors-centre/welcome-rathe/, https://fabtcg.com/collectors-centre/welcome-rathe/	https://fabtcg.com/resources/card-galleries/welcome-rathe-booster/, https://fabtcg.com/resources/card-galleries/welcome-rathe-unlimited-booster/
 ARC	Arcane Rising	F, U	2020-03-27T00:00:00.000Z, 2020-11-20T00:00:00.000Z	2020-03-27T00:00:00.000Z, 2021-11-11T00:00:00.000Z	ARC000	ARC218	https://fabtcg.com/products/booster-set/arcane-rising/, https://fabtcg.com/products/booster-set/arcane-rising-unlimited/	https://fabtcg.com/collectors-centre/arcane-rising/, https://fabtcg.com/collectors-centre/arcane-rising/	https://fabtcg.com/resources/card-galleries/arcane-rising/, https://fabtcg.com/resources/card-galleries/arcane-rising-unlimited-booster/
 CRU	Crucible of War	F, U	2020-08-28T00:00:00.000Z, 2021-06-30T00:00:00.000Z	2020-08-28T00:00:00.000Z, 2021-10-13T00:00:00.000Z	CRU000	CRU197	https://fabtcg.com/products/booster-set/crucible-war/, https://fabtcg.com/products/booster-set/crucible-war-unlimited/	https://fabtcg.com/collectors-centre/crucible-of-war/, https://fabtcg.com/collectors-centre/crucible-of-war/	https://fabtcg.com/resources/card-galleries/crucible-war-booster/, https://fabtcg.com/resources/card-galleries/crucible-war-unlimited/
