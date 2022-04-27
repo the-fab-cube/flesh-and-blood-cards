@@ -70,7 +70,8 @@ Veiled Intentions, Life of the Party, and Briar / Briar, Warden of Thorns
 04-11-22:
 - Fixed an error in the functional text of Skullbone Crosswraps
 
-UPDATE:
-- Added all existing Promo Cards
+04-27-22:
+- Added card data for Mentors from the Monarch Blitz Decks
+- Added card data for all existing Promos
 - Update Sets to include Collector's Center and Card Galleries columns, rename Product Sites to Product Pages, and reorder columns
 - Added data to Sets for Blitz decks, Hero decks, Promos, Classic Battles: Rhinar vs Dorinthea, and History Pack 1

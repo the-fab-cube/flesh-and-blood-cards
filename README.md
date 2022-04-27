@@ -212,6 +212,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * Attack Reaction
 * Aura
 * Axe
+* Bard
 * Bow
 * Brute
 * Chest
