@@ -66,9 +66,12 @@ choose Tabs as the delimiter and " as the string indicator.
 | Editions | string[] | The list of editions printed. | Alpha, Unlimited |
 | Initial Release Dates | datetime[] | The initial release date for the set in ISO 8601 format and UTC timezone, correlated to the Editions field. | 2019-10-11T00:00:00.000Z, 2020-11-06T00:00:00.000Z |
 | Out of Print Dates | datetime[] | The Out of Print (OOP) announcement date for the set in ISO 8601 format and UTC timezone, correlated to the Editions field. If the set is still in print, use `null` instead of a date. | 2019-10-11T00:00:00.000Z, 2021-12-01T00:00:00.000Z |
-| Product Sites | string[] | The list of urls for fabtcg.com product pages, correlated to the Editions field. | https://fabtcg.com/products/booster-set/welcome-rathe/, https://fabtcg.com/products/booster-set/welcome-rathe-unlimited/ |
 | Start Card Id | string | The id of the first card in the set. | WTR000 |
 | End Card Id | string | The id of the first card in the set. | WTR225 |
+| Product Pages | string[] | The list of urls for fabtcg.com product pages, correlated to the Editions field. | https://fabtcg.com/products/booster-set/welcome-rathe/, https://fabtcg.com/products/booster-set/welcome-rathe-unlimited/ |
+| Collector's Center | string[] | The list of urls for fabtcg.com collector's center pages, correlated to the Editions field. | https://fabtcg.com/collectors-centre/welcome-rathe/, https://fabtcg.com/collectors-centre/welcome-rathe/ |
+| Card Galleries | string[] | The list of urls for fabtcg.com card gallery pages, correlated to the Editions field. | https://fabtcg.com/resources/card-galleries/welcome-rathe-booster/, https://fabtcg.com/resources/card-galleries/welcome-rathe-unlimited-booster/ |
+
 
 
 ### Card
@@ -212,6 +215,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * Attack Reaction
 * Aura
 * Axe
+* Bard
 * Bow
 * Brute
 * Chest

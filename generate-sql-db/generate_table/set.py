@@ -10,9 +10,11 @@ def create_table(cur):
             editions VARCHAR(255)[] NOT NULL,
             initial_release_dates TIMESTAMP[] NOT NULL,
             out_of_print_dates TIMESTAMP[] NOT NULL,
-            product_sites VARCHAR(1000)[] NOT NULL,
             start_card_id VARCHAR(15) NOT NULL,
-            end_card_id VARCHAR(15) NOT NULL
+            end_card_id VARCHAR(15) NOT NULL,
+            product_pages VARCHAR(1000)[] NOT NULL,
+            collectors_center VARCHAR(1000)[] NOT NULL,
+            card_galleries VARCHAR(1000)[] NOT NULL
         )
         """
 
@@ -37,14 +39,14 @@ def drop_table(cur):
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
-def insert(cur, id, name, editions, initial_release_dates, out_of_print_dates, product_sites, start_card_id, end_card_id):
-    sql = """INSERT INTO sets(id, name, editions, initial_release_dates, out_of_print_dates, product_sites, start_card_id, end_card_id)
-             VALUES('{0}', '{1}', '{{{2}}}', '{{{3}}}', '{{{4}}}', '{{{5}}}', '{6}', '{7}');"""
+def insert(cur, id, name, editions, initial_release_dates, out_of_print_dates, start_card_id, end_card_id, product_pages, collectors_center, card_galleries):
+    sql = """INSERT INTO sets(id, name, editions, initial_release_dates, out_of_print_dates, start_card_id, end_card_id, product_pages, collectors_center, card_galleries)
+             VALUES('{0}', '{1}', '{{{2}}}', '{{{3}}}', '{{{4}}}', '{5}', '{6}', '{{{7}}}', '{{{8}}}', '{{{9}}}');"""
     try:
         print("Inserting {} set...".format(id))
 
         # execute the INSERT statement
-        cur.execute(sql.format(id, name, editions, initial_release_dates, out_of_print_dates, product_sites, start_card_id, end_card_id))
+        cur.execute(sql.format(id, name, editions, initial_release_dates, out_of_print_dates, start_card_id, end_card_id, product_pages, collectors_center, card_galleries))
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
@@ -60,12 +62,14 @@ def generate_table(cur):
             id = row[0]
             name = row[1]
             editions = row[2]
-            initial_release_dates = row[3]
-            out_of_print_dates = row[4]
-            product_sites = row[5]
-            start_card_id = row[6]
-            end_card_id = row[7]
-            insert(cur, id, name, editions, initial_release_dates, out_of_print_dates, product_sites, start_card_id, end_card_id)
+            initial_release_dates = row[3].lower().replace("null", "infinity") # Uses infinity instead of null because some parsers break parsing timestamp arrays with null
+            out_of_print_dates = row[4].lower().replace("null", "infinity") # Uses infinity instead of null because some parsers break parsing timestamp arrays with null
+            start_card_id = row[5]
+            end_card_id = row[6]
+            product_pages = row[7]
+            collectors_center = row[8]
+            card_galleries = row[9]
+            insert(cur, id, name, editions, initial_release_dates, out_of_print_dates, start_card_id, end_card_id, product_pages, collectors_center, card_galleries)
             # print(', '.join(row))
 
         print("\nSuccessfully filled sets table\n")
