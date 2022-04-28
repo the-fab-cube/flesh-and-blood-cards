@@ -75,3 +75,9 @@ Veiled Intentions, Life of the Party, and Briar / Briar, Warden of Thorns
 - Added card data for all existing Promos
 - Update Sets to include Collector's Center and Card Galleries columns, rename Product Sites to Product Pages, and reorder columns
 - Added data to Sets for Blitz decks, Hero decks, Promos, Classic Battles: Rhinar vs Dorinthea, and History Pack 1
+
+04-28-22:
+- Updated card.csv with columns for CC Banned, CC Living Legend, CC Suspended Start, CC Suspended End, Blitz Banned, Blitz Living Legend,
+Blitz Suspended Start, Blitz Suspended End, Commoner Legal, Commoner Banned, Commoner Suspended Start, and Commoner Suspended End
+- Removed the Blitz Restricted column from card.csv
+- Fixed rarity info on Achilles' Accelerator and Bull's Eye Bracers

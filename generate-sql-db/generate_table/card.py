@@ -28,9 +28,20 @@ def create_table(cur):
             type_text VARCHAR(1000),
             artists VARCHAR(1000)[] NOT NULL,
             played_horizontally BOOLEAN NOT NULL DEFAULT FALSE,
-            blitz_restricted BOOLEAN NOT NULL DEFAULT FALSE,
             blitz_legal BOOLEAN NOT NULL DEFAULT TRUE,
             cc_legal BOOLEAN NOT NULL DEFAULT TRUE,
+            commoner_legal BOOLEAN NOT NULL DEFAULT TRUE,
+            blitz_living_legend TIMESTAMP,
+            cc_living_legend TIMESTAMP,
+            blitz_banned TIMESTAMP,
+            cc_banned TIMESTAMP,
+            commoner_banned TIMESTAMP,
+            blitz_suspended_start TIMESTAMP,
+            blitz_suspended_end VARCHAR(1000),
+            cc_suspended_start TIMESTAMP,
+            cc_suspended_end VARCHAR(1000),
+            commoner_suspended_start TIMESTAMP,
+            commoner_suspended_end VARCHAR(1000),
             variations VARCHAR(255)[] NOT NULL,
             image_urls VARCHAR(1000)[] NOT NULL
         )
@@ -59,23 +70,43 @@ def drop_table(cur):
 
 def insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
-            artists, played_horizontally, blitz_restricted, blitz_legal, cc_legal, variations, image_urls):
+            artists, played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
+            commoner_banned, blitz_suspended_start, blitz_suspended_end, cc_suspended_start, cc_suspended_end, commoner_suspended_start,
+            commoner_suspended_end, variations, image_urls):
     sql = """INSERT INTO cards(ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
-            artists, played_horizontally, blitz_restricted, blitz_legal, cc_legal, variations, image_urls)
+            artists, played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
+            commoner_banned, blitz_suspended_start, blitz_suspended_end, cc_suspended_start, cc_suspended_end, commoner_suspended_start,
+            commoner_suspended_end, variations, image_urls)
             VALUES('{{{0}}}', '{{{1}}}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{8}', '{{{9}}}', '{{{10}}}', '{{{11}}}', '{{{12}}}',
             '{{{13}}}', '{{{14}}}', '{15}', '{16}', '{17}', '{18}', '{19}',
-            '{{{20}}}', '{21}', '{22}', '{23}', '{24}', '{{{25}}}', '{{{26}}}');"""
+            '{{{20}}}', '{21}', '{22}', '{23}', '{24}', {25}, {26}, {27}, {28},
+            {29}, {30}, {31}, {32}, {33}, {34},
+            {35}, '{{{36}}}', '{{{37}}}');"""
     try:
         print("Inserting {0} - {1} card...".format(name, pitch))
 
         # execute the INSERT statement
         cur.execute(sql.format(ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
-            artists, played_horizontally, blitz_restricted, blitz_legal, cc_legal, variations, image_urls))
+            artists, played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
+            commoner_banned, blitz_suspended_start, blitz_suspended_end, cc_suspended_start, cc_suspended_end, commoner_suspended_start,
+            commoner_suspended_end, variations, image_urls))
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
         raise error
+
+def treat_blank_string_as_boolean(field, value=True):
+    if field == '':
+        return value
+
+    return field
+
+def treat_blank_string_as_none(field):
+    if field == '':
+        return 'NULL'
+
+    return "'" + field + "'"
 
 def generate_table(cur, url_for_images = None):
     print("Filling out cards table from card.csv...\n")
@@ -106,20 +137,31 @@ def generate_table(cur, url_for_images = None):
             type_text = row[17]
             artists = row[18]
             played_horizontally = row[19]
-            blitz_restricted = row[20]
-            blitz_legal = row[21]
-            cc_legal = row[22]
-            variations = row[23]
-            image_urls = row[24]
+            blitz_legal = treat_blank_string_as_boolean(row[20])
+            cc_legal = treat_blank_string_as_boolean(row[21])
+            commoner_legal = treat_blank_string_as_boolean(row[22])
+            blitz_living_legend = treat_blank_string_as_none(row[23])
+            cc_living_legend = treat_blank_string_as_none(row[24])
+            blitz_banned = treat_blank_string_as_none(row[25])
+            cc_banned = treat_blank_string_as_none(row[26])
+            commoner_banned = treat_blank_string_as_none(row[27])
+            blitz_suspended_start = treat_blank_string_as_none(row[28])
+            blitz_suspended_end = treat_blank_string_as_none(row[29])
+            cc_suspended_start = treat_blank_string_as_none(row[30])
+            cc_suspended_end = treat_blank_string_as_none(row[31])
+            commoner_suspended_start = treat_blank_string_as_none(row[32])
+            commoner_suspended_end = treat_blank_string_as_none(row[33])
+            variations = row[34]
+            image_urls = row[35]
 
             if played_horizontally == '':
                 played_horizontally = False
-            if blitz_restricted == '':
-                blitz_restricted = False
             if blitz_legal == '':
                 blitz_legal = True
             if cc_legal == '':
                 cc_legal = True
+            if commoner_legal == '':
+                commoner_legal = True
 
             functional_text_plain = unmark(functional_text)
             flavor_text_plain = unmark(flavor_text)
@@ -134,7 +176,9 @@ def generate_table(cur, url_for_images = None):
 
             insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
-            artists, played_horizontally, blitz_restricted, blitz_legal, cc_legal, variations, image_urls)
+            artists, played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
+            commoner_banned, blitz_suspended_start, blitz_suspended_end, cc_suspended_start, cc_suspended_end, commoner_suspended_start,
+            commoner_suspended_end, variations, image_urls)
 
             # print(', '.join(row))
 
