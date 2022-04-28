@@ -97,9 +97,20 @@ choose Tabs as the delimiter and " as the string indicator.
 | Type Text | string | The type text as printed on the latest edition of the card. | Ninja Action - Attack |
 | Artists | string[] | The artists of the card, correlated to the Identifiers field. If an artist was changed mid printing, instead use the format ``{Arist Name} - {Card Identifier} - {Set Edition Shorthand}` for all artists. | Saad Irfan |
 | Card Played Horizontally | bool | Is the card played horizontally (Ex: Landmarks)? No value is considered No. | Yes |
-| Blitz Restricted | bool | Is the card restricted in the Blitz format? No value is considered No. | No |
-| Blitz Legal | bool | Is the card legal in the Blitz format? No value is considered Yes. | Yes |
-| CC Legal | bool | Is the card legal in the Classic Constructed format? No value is considered Yes. | Yes |
+| Blitz Legal | bool | Is the card initially legal in the Blitz format? No given value is considered Yes. | Yes |
+| CC Legal | bool | Is the card initially legal in the Classic Constructed format? No given value is considered Yes. | Yes |
+| Commoner Legal | bool | Is the card initially legal in the Commoner format? No given value is considered Yes. | Yes |
+| Blitz Living Legend | datetime | The date the card was or will be a Living Legend in the Blitz format. No given value means the card is not a Living Legend. | 2021-12-01T00:00:00.000Z |
+| CC Living Legend | datetime | The date the card was or will be a Living Legend in the Classic Constructed format. No given value means the card is not a Living Legend. | 2021-12-01T00:00:00.000Z |
+| Blitz Banned | datetime | The date the card was or will be banned in the Blitz format. No given value means the card is not banned. | 2021-12-01T00:00:00.000Z |
+| CC Banned | datetime | The date the card was or will be banned in the Classic Constructed format. No given value means the card is not banned. | 2021-12-01T00:00:00.000Z |
+| Commoner Banned | datetime | The date the card was or will be banned in the Commoner format. No given value means the card is not banned. | 2021-12-01T00:00:00.000Z |
+| Blitz Suspended Start | datetime | The date the card was or will be suspended in the Blitz format. No given value means the card is not suspended. | 2021-12-01T00:00:00.000Z |
+| Blitz Suspended End | string | Info on when the card is planned to be unsuspended in the Blitz format. No given value means the card is not suspended. | Until Chane hits Living Legend |
+| CC Suspended Start | datetime | The date the card was or will be suspended in the Classic Constructed format. No given value means the card is not suspended. | 2021-12-01T00:00:00.000Z |
+| CC Suspended End | string | Info on when the card is planned to be unsuspended in the Classic Constructed format. No given value means the card is not suspended. | Until Chane, Bound by Shadow hits Living Legend |
+| Commoner Suspended Start | datetime | The date the card was or will be suspended in the Commoner format. No given value means the card is not suspended. | 2021-12-01T00:00:00.000Z |
+| Commoner Suspended End | string | Info on when the card is planned to be unsuspended in the Commoner format. No given value means the card is not suspended. | Until April 29, 2022 |
 | Variations | string[] | The list of foilings the card is available in within a set/edition combination, as well as any alternate arts for the card. The [Collector's Center](https://fabtcg.com/collectors-centre/) has good resources for finding details on this. If there is an alternate art, make a separate entry in this array and tack on the shorthand for the alternate art type. Format: `{Foiling Shorthands separated by spaces} - {Card Identifier} - {Set Edition Shorthand} (- {Alternate Art Shorthand})` (Using Channel Lake Frigid in this example.) | S R - ELE146 - F, R - ELE146 - F - AA, S R - ELE146 - U |
 | Image URLs | string[] | Links to images from fabtcg.com's [image galleries](https://fabtcg.com/resources/card-galleries/) for a set/edition combination. If there is an alternate art, make a separate entry in this array and tack on the shorthand for the alternate art type. Format: `{Image URL} - {Card Identifier} - {Set Edition Shorthand} (- {Alternate Art Shorthand})` (Using Channel Lake Frigid in this example.) | https://storage.googleapis.com/fabmaster/media/images/ELE146.width-450.png - ELE146 - F, https://product-images.tcgplayer.com/fit-in/400x558/248564.jpg - ELE146 - F - AA, https://storage.googleapis.com/fabmaster/media/images/U-ELE146.width-450.png - ELE146 - U |
 

@@ -4,6 +4,9 @@
 04-18-22:
 - Update card table to include plaintext columns of functional_text and flavor_text to facilitate text searching
 
-UPDATE:
+04-27-22:
 - Update set table to include collectors_center and card_galleries columns, rename product_sites to product_pages, and reorder columns
 - Ensure that nulls are converted to infinity values on timestamp values in the set table because some parsers (ex: C#'s Npgsql) break on null values in timestamp arrays
+
+04-28-22:
+- Update set table to use all the new card legality columns
