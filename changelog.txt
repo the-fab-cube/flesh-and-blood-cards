@@ -81,3 +81,10 @@ Veiled Intentions, Life of the Party, and Briar / Briar, Warden of Thorns
 Blitz Suspended Start, Blitz Suspended End, Commoner Legal, Commoner Banned, Commoner Suspended Start, and Commoner Suspended End
 - Removed the Blitz Restricted column from card.csv
 - Fixed rarity info on Achilles' Accelerator and Bull's Eye Bracers
+
+UPDATE:
+- Added all hero and blitz deck card info
+- Fixed an issue with the functional text of Tripwire Trap
+
+UPDATE:
+- Added all UPR card info
