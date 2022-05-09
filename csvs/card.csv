@@ -1489,7 +1489,7 @@ CRU180	CRU	Coax a Commotion	1	1	4	2			M	Generic, Action, Attack					"If Coax a C
 - Each hero creates a Quicken token.
 - Each hero draws a card.
 - Each hero gains 1{h}."	In Aria, preparing for war means making the most of the time you have left.	Generic Action – Attack	Jessada Sutthi				No												S R – CRU180 – F, S R – CRU180 – U	https://storage.googleapis.com/fabmaster/media/images/CRU180.width-450.png – CRU180 – F, https://storage.googleapis.com/fabmaster/media/images/U-CRU180.width-450.png - CRU180 – U
-CRU181	CRU	Gorgonian Tome		0					M	Generic, Action	Legendary, Go again				"**Legendary** *(You may only have 1 Gorganian Tome in your deck.)*
+CRU181	CRU	Gorganian Tome		0					M	Generic, Action	Legendary, Go again				"**Legendary** *(You may only have 1 Gorganian Tome in your deck.)*
 
 Draw X cards, where X is 1 plus the number of Gorganian Tomes in all graveyards.
 
