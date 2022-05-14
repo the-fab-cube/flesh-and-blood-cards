@@ -3594,11 +3594,11 @@ EVR115	EVR	Reek of Corruption	3	2	2	3			C	Runeblade, Action, Attack					"If you 
 EVR116	EVR	Shrill of Skullform	1	2	4	3			C	Runeblade, Action, Attack					If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.		Runeblade Action – Attack	Mihail Spil-Haufter																S R – EVR116 – F	https://storage.googleapis.com/fabmaster/media/images/EVR116.width-450.png - EVR116 - F
 EVR117	EVR	Shrill of Skullform	2	2	3	3			C	Runeblade, Action, Attack					If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.		Runeblade Action – Attack	Mihail Spil-Haufter																S R – EVR117 – F	https://storage.googleapis.com/fabmaster/media/images/EVR117.width-450.png - EVR117 - F
 EVR118	EVR	Shrill of Skullform	3	2	2	3			C	Runeblade, Action, Attack					If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.		Runeblade Action – Attack	Mihail Spil-Haufter																S R – EVR118 – F	https://storage.googleapis.com/fabmaster/media/images/EVR118.width-450.png - EVR118 - F
-HER052, EVR120	HER, EVR	Iyslander					18	4	P, M	Elemental, Wizard, Hero, Young	Essence of Ice				"**Essence of Ice** *(You may have Ice cards in your deck.)*
+HER052, EVR120, UPR103	HER, EVR, UPR	Iyslander					18	4	P, M, T	Elemental, Wizard, Hero, Young	Essence of Ice				"**Essence of Ice** *(You may have Ice cards in your deck.)*
 
 If it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.
 
-Whenever you play an Ice card during an opponents turn, create a Frostbite token under their control."		Elemental Wizard Hero – Young	Steve Argyle																C – HER052 – N, S R – EVR120 – F	https://storage.googleapis.com/fabmaster/media/images/HER052.width-450.png – HER052 – N, https://storage.googleapis.com/fabmaster/media/images/EVR120.width-450.png - EVR120 – F
+Whenever you play an Ice card during an opponents turn, create a Frostbite token under their control."		Elemental Wizard Hero – Young	Steve Argyle, Steve Argyle, Alexander Mokhov																C – HER052 – N, S R – EVR120 – F, S – UPR103 – N	https://storage.googleapis.com/fabmaster/media/images/HER052.width-450.png – HER052 – N, https://storage.googleapis.com/fabmaster/media/images/EVR120.width-450.png - EVR120 – F, https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_02.width-450.png - UPR103 – N
 EVR121	EVR	Kraken’s Aethervein							M	Wizard, Weapon, Staff, 2H		Once per Turn Instant			**Once per Turn Instant** - {r}{r}{r}: Deal 1 arcane damage to target opposing hero. Draw a card for each arcane damage dealt this way.		Wizard Weapon – Staff (2H)	Steve Argyle				No												S C – EVR121 – F	https://storage.googleapis.com/fabmaster/media/images/EVR121.width-450.png - EVR121 - F
 EVR122	EVR	Sigil of Parapets	3	1		2			M	Wizard, Defense Reaction					While Sigil of Parapets is defending, whenever you play a Wizard card, Sigil of Parapet's gains +2{d}.		Wizard Defense Reaction	Othon Nikolaidis				No												S R – EVR122 – F	https://storage.googleapis.com/fabmaster/media/images/EVR122.width-450.png - EVR122 - F
 EVR123	EVR	Aether Wildfire	1	2		3			M	Wizard, Action					"Deal 4 arcane damage to target opposing hero.
@@ -3807,3 +3807,45 @@ EVR193	EVR	Talisman of Warfare	2	0					R	Generic, Action, Item	Go again				"**Go
 
 When a source you control deals exactly 2 damage to an opposing hero, destroy Talisman of Warfare and all cards in all arsenals."	It’s said that wherever the Dracai of War planted this talisman, the lava was soon to flow.	Generic Action – Item	Dmitry Isakevitch				No												S C – EVR193 – F	https://storage.googleapis.com/fabmaster/media/images/EVR193.width-450.png - EVR193 - F
 EVR195	EVR	Silver							C	Generic, Token, Item		Action	Go again		**Action** - {r}{r}{r}, destroy Silver: Draw a card. **Go again**		Generic Token – Item	Anastasiya Grintsova																S R – EVR195 – F	https://storage.googleapis.com/fabmaster/media/images/EVR195.width-450.png - EVR195 - F
+UPR086	UPR	Thaw	1	2	6	2			M	Draconic, Action, Attack				Unfreeze	"While thaw is in your graveyard, at the start of your turn, you may banish it and choose 1:
+
+- Destroy target Frostbite.
+- Destroy target Ice affliction.
+- **Unfreeze** target **frozen** card."		Draconic Action – Attack	Hoàng Lập				No												S – UPR086 – N	https://storage.googleapis.com/fabmaster/media/images/UPR086.width-450.png – UPR086 – N
+UPR102	UPR	Iyslander, Stormbind					36	4	T	Elemental, Wizard, Hero	Essence of Ice				"**Essence of Ice** *(You may have Ice cards in your deck.)*
+
+If it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.
+
+Whenever you play an Ice card during an opponents turn, create a Frostbite token under their control."		Elemental Wizard Hero	Alexander Mokhov		No		No												S – UPR102 – N	https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_01.width-450.png - UPR102 - N
+UPR104	UPR	Encase	1	0		3			M	Elemental, Wizard, Action	Ice Fusion			Freeze	"**Ice Fusion** *(As an additional cost to play Encase, you may reveal an Ice card from your hand.)*
+
+Deal 3 arcane damage to any target. If Encase was **fused** and deals damage to a hero, **freeze** that hero and all equipment they control until the start of your next turn. *(A frozen object can’t be played or activated.)*"		Elemental Wizard Action	Nikolay Moskvin				No												S – UPR104 – N	https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_03.width-450.png - UPR104 – N
+UPR109	UPR	Ice Eternal	3	XX		3			R	Elemental, Wizard, Action	Iyslander Specialization, Ice Fusion				"**Iyslander Specialization** *(You may only have Ice Eternal in your deck if your hero is Iyslander.)*
+
+**Ice Fusion** *(As an additional cost to play Ice Eternal, you may reveal an Ice card from your hand.)*
+
+Create X Frostbite tokens under target hero’s control. Then, if Ice Eternal was **fused**, deal arcane damage to that hero equal to the number of Frostbites they control."		Elemental Wizard Action	Federico Musetti				No												S – UPR109 – N	https://storage.googleapis.com/fabmaster/media/images/UPR109.width-450.png - UPR109 – N
+UPR121	UPR	Icebind	3	0		3			C	Elemental, Wizard, Action	Ice Fusion			Freeze	"**Ice Fusion** *(As an additional cost to play Ice Eternal, you may reveal an Ice card from your hand.)*
+
+Deal 1 arcane damage to any target. If Icebind was **fused** and deals damage to a hero, **freeze** a card in their arsenal until the start of your next turn. *(A frozen object can’t be played or activated.)*"		Elemental Wizard Action	Jessada Sutthi																S – UPR121 – N	https://storage.googleapis.com/fabmaster/media/images/UPR121.width-450.png - UPR121 – N
+UPR126	UPR	Frost Hex	3	3		3			M	Ice, Wizard, Action, Affliction, Aura	Iyslander Specialization				"**Iyslander Specialization** *(You may only have Frost Hex in your deck if your hero is Iyslander.)*
+
+*(An affliction enters the arena under an opposing hero’s control.)*
+
+Frostbites you control have “At the beginning of your end phase, this deals 1 arcane damage to you.”"		Ice Wizard Action – Affliction Aura	Isuardi Therianto				No												S – UPR126 – N	https://storage.googleapis.com/fabmaster/media/images/UPR126.width-450.png - UPR126 - N
+UPR135	UPR	Ice Bolt	3	2		3			C	Ice, Wizard, Action					Deal 3 arcane damage to any target.		Ice Wizard Action	Sam Yang																S – UPR135 – N	https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_04.width-450.png – UPR135 – N
+UPR138	UPR	Channel the Bleak Expanse	3	1		2			M	Ice, Action, Aura	Go again, Channel Ice				"**Go again**
+
+Heroes can’t reveal cards, search decks, or draw cards from effects.
+
+**Channel Ice** - At the beginning of your end phase, put a flow counter on Channel the Bleak Expanse then destroy it unless you put an Ice card from your pitch zone on the bottom of your deck for each flow counter on it."		Ice Action – Aura	Mihail Spil-Haufter				No												S – UPR138 – N	https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_05.width-450.png - UPR138 – N
+UPR139	UPR	Hypothermia	3	0		2			M	Ice, Action, Affliction, Aura					"*(An affliction enters the arena under an opposing hero’s control.)*
+
+Attacks you control can’t gain **go again**. *(This does not affect attacks that naturally have go again.)*
+
+At the beginning of your end phase, destroy Hypothermia."		Ice Action – Affliction Aura	Alexis Susani				No												S – UPR139 – N	https://storage.googleapis.com/fabmaster/media/images/UPR139.width-450.png - UPR139 – N
+UPR149	UPR	Cold Snap	3	1		2			C	Ice, Action	Go again			Freeze	"Target hero may pay {r}. If they don’t, **freeze** a card in their arsenal or an ally they control until the start of your next turn. *(A frozen object can’t be played or activated.)*
+
+If cold snap is played from arsenal, draw a card.
+
+**Go again**"		Ice Action	Mateusz Wisniewski																S – UPR149 – N	https://storage.googleapis.com/fabmaster/media/images/UPR149.width-450.png – UPR149 – N
