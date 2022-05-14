@@ -90,6 +90,7 @@ Blitz Suspended Start, Blitz Suspended End, Commoner Legal, Commoner Banned, Com
 - Fixed a typo in the name of Gorganian Tome (was incorrectly spelled Gorgonian) - bugfix credit: Prozz
 
 05-14-22:
+- Updated card.csv to allow the artist column to just have one entry unless there are different artists for a card and change all existing entries to this
 - Added card data for 1HP
 - Fixed an issue with the functional text of Anothos, Art of War, Barraging Beatdown, 'Benji, the Piercing Wind', Blessing of Deliverance, Braveforge Bracers,
 Bravo, 'Bravo, Showstopper', Convection Amplifier, Crane Dance, Crush Confidence, Dawnblade, Dorinthea, Dorinthea Ironsong, Driving Blade, Edge of Autumn,
