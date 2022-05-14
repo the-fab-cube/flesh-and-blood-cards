@@ -86,5 +86,23 @@ Blitz Suspended Start, Blitz Suspended End, Commoner Legal, Commoner Banned, Com
 - Added all hero and blitz deck card info
 - Fixed an issue with the functional text of Tripwire Trap
 
+05-09-22:
+- Fixed a typo in the name of Gorganian Tome (was incorrectly spelled Gorgonian) - bugfix credit: Prozz
+
+05-14-22:
+- Added card data for 1HP
+- Fixed an issue with the functional text of Anothos, Art of War, Barraging Beatdown, 'Benji, the Piercing Wind', Blessing of Deliverance, Braveforge Bracers,
+Bravo, 'Bravo, Showstopper', Convection Amplifier, Crane Dance, Crush Confidence, Dawnblade, Dorinthea, Dorinthea Ironsong, Driving Blade, Edge of Autumn,
+Emerging Dominance, Enchanting Melody, Energy Potion, Flood of Force, Glint the Quicksilver, Harmonized Kodachi, High Speed Impact, Hit and Run,
+Induction Chamber, 'Ira, Crimson Haze', 'Kassai, Cintari Sellsword', Katsu, 'Katsu, the Wanderer', 'Kayo, Berserker Runt', Last Ditch Effort, Life for a Life,
+Mage Master Boots, Massacre, Mauvrion Skies, Mugenshi: RELEASE, Nebula Blade, Nimblism, Optekal Monacle, Perch Grapplers, Plasma Barrel Shot,
+Potion of Strength, Primeval Bellow, Pummel, Quicken, Refraction Bolters, Rout, Rushing River, Scar for a Scar, Singing Steelblade, Spellblade Assault,
+Soulbead Strike, Spoils of War, Staunch Response, Stonewall Confidence, Tectonic Plating, Teklo Core, Torrent of Tempo, Towering Titan, Warrior's Valor,
+Whisper of the Oracle, and Zephyr Needle
+- Fixed an issue with the flavor text of Staunch Response
+- Fixed an issue where Plunder Run was incorrectly listed as banned in Blitz
+- Update the functional text of Alpha Rampage, Cintari Saber, Crazy Brew, Enlightened Strike, Flock of the Feather Walkers, Lord of Wind, Over Loop, Overpower,
+Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 printing
+
 UPDATE:
 - Added all UPR card info
