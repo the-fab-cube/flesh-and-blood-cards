@@ -173,6 +173,10 @@ def generate_table(cur, url_for_images = None):
 
             if url_for_images is not None:
                 image_urls = image_urls.replace("https://storage.googleapis.com/fabmaster/media/images/", url_for_images)
+                image_urls = image_urls.replace("https://storage.googleapis.com/fabmaster/cardfaces/2021-MON/", url_for_images)
+                image_urls = image_urls.replace("https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/", url_for_images)
+                image_urls = image_urls.replace("https://storage.googleapis.com/fabmaster/cardfaces/2021-ELE/", url_for_images)
+                image_urls = image_urls.replace("https://storage.googleapis.com/fabmaster/cardfaces/2022-EVR/", url_for_images)
 
             insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
