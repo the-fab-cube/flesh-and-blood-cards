@@ -8,7 +8,9 @@ from pathlib import Path
 images_dir_path = "images/"
 
 def download_image_from_url(image_url: str):
-    file_name = "images/" + image_url.replace("https://storage.googleapis.com/fabmaster/media/images/", "")
+    cleaned_up_image_url = image_url.replace("https://storage.googleapis.com/fabmaster/media/images/", "")
+    cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/2021-MON/", "")
+    file_name = "images/" + cleaned_up_image_url
     if exists(file_name):
         print(file_name + " already exists, skipping")
         return

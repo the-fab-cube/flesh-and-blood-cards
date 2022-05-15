@@ -104,3 +104,6 @@ Whisper of the Oracle, and Zephyr Needle
 - Fixed an issue where Plunder Run was incorrectly listed as banned in Blitz
 - Update the functional text of Alpha Rampage, Cintari Saber, Crazy Brew, Enlightened Strike, Flock of the Feather Walkers, Lord of Wind, Over Loop, Overpower,
 Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 printing
+
+05-15-22:
+- Add missing Extended/Alternate art URLs for Monarch

@@ -1533,7 +1533,7 @@ MON004	MON	Herald of Erudition	2	2	5	3			M	Light, Illusionist, Action, Attack	Do
 
 If Herald of Erudition hits, put it into your hero's soul and draw 2 cards.
 
-**Phantasm** *(If Herald of Erudition is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Herald of Erudition and close the combat chain.)*"		Light Illusionist Action – Attack	Alexander Mokhov				No												S R – MON004 – F, R – MON004 – F – EA, S R – MON004 – U	https://storage.googleapis.com/fabmaster/media/images/MON004.width-450.png - MON004 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON004.width-450.png - MON004 – U
+**Phantasm** *(If Herald of Erudition is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Herald of Erudition and close the combat chain.)*"		Light Illusionist Action – Attack	Alexander Mokhov				No												S R – MON004 – F, R – MON004 – F – EA, S R – MON004 – U	https://storage.googleapis.com/fabmaster/media/images/MON004.width-450.png - MON004 - F, https://storage.googleapis.com/fabmaster/cardfaces/2021-MON/MON004-RF.png – MON004 – F – EA, https://storage.googleapis.com/fabmaster/media/images/U-MON004.width-450.png - MON004 – U
 MON005	MON	Arc Light Sentinel	2	6					M	Light, Illusionist, Instant, Aura	Prism Specialization, Spectra				"**Prism Specialization** *(You may only have Arc Light Sentinel in your deck if your hero is Prism.)*
 
 If Arc Light Sentinel is in the arena when an opponent announces an attack, they must choose Arc Light Sentinel as the target of the attack.
@@ -1647,7 +1647,7 @@ Until end of turn, weapons you control gain +1{p} and ""If this hits, reveal the
 
 If you've **charged** this turn, you may attack an additional time with each weapon you control.
 
-**Go again**"		Light Warrior Action	Othon Nikolaidis				No												S R – MON034 – F, R – MON034 – F – EA, S R – MON034 – U	https://storage.googleapis.com/fabmaster/media/images/MON034.width-450.png - MON034 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON034.width-450.png - MON034 – U
+**Go again**"		Light Warrior Action	Othon Nikolaidis				No												S R – MON034 – F, R – MON034 – F – EA, S R – MON034 – U	https://storage.googleapis.com/fabmaster/media/images/MON034.width-450.png - MON034 - F, https://storage.googleapis.com/fabmaster/cardfaces/2021-MON/MON034-RF.png – MON034 – F – EA, https://storage.googleapis.com/fabmaster/media/images/U-MON034.width-450.png - MON034 – U
 BOL009, MON035	BOL, MON	V of the Vanguard	2	1	3	3			R, R	Light, Warrior, Action, Attack	Boltyn Specialization, Charge				"**Boltyn Specialization** *(You may only have V of the Vanguard in your deck if your hero is Boltyn.)*
 
 As an additional cost to play V of the Vanguard, you may **charge** your hero's soul any number of times. *(Put 1 or more cards from your hand face up under your hero card.)*
@@ -1847,7 +1847,7 @@ MON123	MON	Deep Rooted Evil	2	3	6				M	Shadow, Brute, Action, Attack	Blood Debt	
 **Blood Debt** *(At the beginning of your end phase, if Deep Rooted Evil is in your banished zone, lose 1{h}.)*"		Shadow Brute Action – Attack	Marcus Reyno				No												S R – MON123 – F, S R – MON123 – U	https://storage.googleapis.com/fabmaster/media/images/MON123.width-450.png - MON123 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON123.width-450.png - MON123 – U
 MON124	MON	Mark of the Beast	2	2	6	3			M	Shadow, Brute, Action, Attack	Blood Debt				"If Mark of the Beast would be put into your graveyard from anywhere, instead banish it.
 
-**Blood Debt** *(At the beginning of your end phase, if Mark of the Beast is in your banished zone, lose 1{h}.)*"		Shadow Brute Action – Attack	Jessada Sutthi				No												S R – MON124 – F, R – MON124 – F – EA, S R – MON124 – U	https://storage.googleapis.com/fabmaster/media/images/MON124.width-450.png - MON124 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON124.width-450.png - MON124 – U
+**Blood Debt** *(At the beginning of your end phase, if Mark of the Beast is in your banished zone, lose 1{h}.)*"		Shadow Brute Action – Attack	Jessada Sutthi				No												S R – MON124 – F, R – MON124 – F – EA, S R – MON124 – U	https://storage.googleapis.com/fabmaster/media/images/MON124.width-450.png - MON124 - F, https://storage.googleapis.com/fabmaster/cardfaces/2021-MON/MON124-RF.png – MON124 – F – EA, https://storage.googleapis.com/fabmaster/media/images/U-MON124.width-450.png - MON124 – U
 MON125	MON	Shadow of Blasphomet	1	2	6				M	Shadow, Brute, Action, Attack	Blood Debt				"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, search your deck for a card with **blood debt**, banish it, then shuffle your deck.
 
 **Blood Debt** *(At the beginning of your end phase, if Shadow of Blasmophet is in your banished zone, lose 1{h}.)*"		Shadow Brute Action – Attack	Carlos Cruchaga				No												S R – MON125 – F, S R – MON125 – U	https://storage.googleapis.com/fabmaster/media/images/KLUiCIJEFKdt8QM545A4g.width-450.png - MON125 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON125.width-450.png - MON125 – U
@@ -1968,7 +1968,7 @@ LGS046, CHN003, MON155	LGS, CHN, MON	Galaxxi Black			1				P, C, T	Shadow, Runebl
 
 If you have played a card from your banished zone this turn, Galaxxi Black gains +2{p} until end of turn.
 
-If Galaxxi Black hits a hero, deal 1 arcane damage to that hero."		Shadow Runeblade Weapon – Sword (2H)	Federico Musetti																C – LGS046 – N, S – CHN003 – N, S – MON155 – F, C – MON155 – F – AA, S – MON155 – U	https://storage.googleapis.com/fabmaster/media/images/LGS046.width-450.png – LGS046 – N, https://storage.googleapis.com/fabmaster/media/images/CHN003.width-450.png – CHN003 – N, https://storage.googleapis.com/fabmaster/media/images/MON155.width-450.png - MON155 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON155.width-450.png - MON155 – U
+If Galaxxi Black hits a hero, deal 1 arcane damage to that hero."		Shadow Runeblade Weapon – Sword (2H)	Federico Musetti																C – LGS046 – N, S – CHN003 – N, S – MON155 – F, C – MON155 – F – AA, S – MON155 – U	https://storage.googleapis.com/fabmaster/media/images/LGS046.width-450.png – LGS046 – N, https://storage.googleapis.com/fabmaster/media/images/CHN003.width-450.png – CHN003 – N, https://storage.googleapis.com/fabmaster/media/images/MON155.width-450.png - MON155 - F, https://storage.googleapis.com/fabmaster/cardfaces/2021-MON/MON155-CF.png – MON155 – F – AA, https://storage.googleapis.com/fabmaster/media/images/U-MON155.width-450.png - MON155 – U
 MON156	MON	Shadow of Ursur	3	0	2	3			M	Shadow, Runeblade, Action, Attack	Go again, Blood Debt				"You may play Shadow of Ursur from your banished zone.
 
 As an additional cost to play Shadow of Ursur, you may banish a card with blood debt from your hand. If you do, Shadow of Ursur gains **go again.**
