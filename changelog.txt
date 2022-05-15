@@ -106,4 +106,4 @@ Whisper of the Oracle, and Zephyr Needle
 Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 printing
 
 05-15-22:
-- Add missing Extended/Alternate art URLs for Monarch
+- Add missing Extended/Alternate art URLs for CRU, MON, ELE, and EVR
