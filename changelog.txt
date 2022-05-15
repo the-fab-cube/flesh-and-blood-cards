@@ -108,3 +108,5 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 05-15-22:
 - Add missing Extended/Alternate art URLs for CRU, MON, ELE, and EVR
 - Update some CRU first edition cards with appropriate image urls
+- Add missing images for BRI027, CHN020, FAB002, FAB043-FAB046, and XXX promos
+- NOTE: All of these images are different sizes than the rest of the images in this CSV

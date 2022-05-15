@@ -13,6 +13,9 @@ def download_image_from_url(image_url: str):
     cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/", "")
     cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/2021-ELE/", "")
     cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/2022-EVR/", "")
+    cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/promos/", "")
+    cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/2021-MON-CHN/", "")
+    cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/2021-ELE-BRI/", "")
 
     file_name = "images/" + cleaned_up_image_url
     if exists(file_name):
