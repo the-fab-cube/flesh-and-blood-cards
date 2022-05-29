@@ -113,3 +113,8 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 
 05-20-22:
 - Fixed an incorrect ban date for Stubby Hammerers - bugfix credit: manwaring
+
+05-29-22:
+- Added DVR/RVD card info
+- Fixed an error in the functional text of Slice and Dice, Alpha Rampage, and Wild Ride.
+- Fixed an error in the flavor text of Raging Onslaught.
