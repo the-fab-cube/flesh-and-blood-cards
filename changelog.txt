@@ -111,6 +111,9 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Add missing images for BRI027, CHN020, FAB002, FAB043-FAB046, and XXX promos
 - NOTE: All of these images are different sizes than the rest of the images in this CSV
 
+05-20-22:
+- Fixed an incorrect ban date for Stubby Hammerers - bugfix credit: manwaring
+
 05-29-22:
 - Add DVR/RVD card info
 - Fix an error in the functional text of Slice and Dice, Alpha Rampage, and Wild Ride.
