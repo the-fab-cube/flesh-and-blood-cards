@@ -106,15 +106,15 @@ Whisper of the Oracle, and Zephyr Needle
 Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 printing
 
 05-15-22:
-- Add missing Extended/Alternate art URLs for CRU, MON, ELE, and EVR
-- Update some CRU first edition cards with appropriate image urls
-- Add missing images for BRI027, CHN020, FAB002, FAB043-FAB046, and XXX promos
+- Added missing Extended/Alternate art URLs for CRU, MON, ELE, and EVR
+- Updated some CRU first edition cards with appropriate image urls
+- Added missing images for BRI027, CHN020, FAB002, FAB043-FAB046, and XXX promos
 - NOTE: All of these images are different sizes than the rest of the images in this CSV
 
 05-20-22:
 - Fixed an incorrect ban date for Stubby Hammerers - bugfix credit: manwaring
 
 05-29-22:
-- Add DVR/RVD card info
-- Fix an error in the functional text of Slice and Dice, Alpha Rampage, and Wild Ride.
-- Fix an error in the flavor text of Raging Onslaught.
+- Added DVR/RVD card info
+- Fixed an error in the functional text of Slice and Dice, Alpha Rampage, and Wild Ride.
+- Fixed an error in the flavor text of Raging Onslaught.
