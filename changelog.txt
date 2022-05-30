@@ -118,3 +118,7 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Added DVR/RVD card info
 - Fixed an error in the functional text of Slice and Dice, Alpha Rampage, and Wild Ride.
 - Fixed an error in the flavor text of Raging Onslaught.
+
+05-30-22:
+- Fixed missing power info for Harmonized Kodachi - bugfix credit: manwaring
+- Fixed missing Card Keywords info for Nimblism - bugfix credit: manwaring
