@@ -122,3 +122,7 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 05-30-22:
 - Fixed missing power info for Harmonized Kodachi - bugfix credit: manwaring
 - Fixed missing Card Keywords info for Nimblism - bugfix credit: manwaring
+
+IN-PROGRESS:
+- Added UPR card info
+- Added new Marvel rarity and new card types and keywords
