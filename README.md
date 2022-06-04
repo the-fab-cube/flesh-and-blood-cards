@@ -227,6 +227,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * Ally
 * Arms
 * Arrow
+* Ash
 * Attack
 * Attack Reaction
 * Aura
