@@ -301,3 +301,8 @@ Note: Cards are organized by what main set they were initially released in, in o
 * F - First
 * U - Unlimited
 * N - No specified edition (used for promos, non-set releases, etc.)
+
+### Alternate Art Variations (Shorthand - Name)
+* AA - Alternate Art
+* EA - Extended Art
+* FA - Full Art
