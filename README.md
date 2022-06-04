@@ -219,6 +219,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * *Transform* - ?
 * *Temper* - *Temper* is a keyword that exists on equipment. Usually high in defense, *Temper* equipment presents a choice when it is down to 1{d}, of whether to defend with it one last time and see it destroyed, or save it to use for its ability.
 * *Unfreeze* - Removes *Freeze* from an object.
+* *Ward* - ?
 
 
 ### Type
