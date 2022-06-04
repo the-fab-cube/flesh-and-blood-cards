@@ -126,3 +126,4 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 IN-PROGRESS:
 - Added UPR card info
 - Added new Marvel rarity and new card types and keywords
+- Added new artists that debuted in Uprising
