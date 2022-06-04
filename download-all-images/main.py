@@ -9,18 +9,17 @@ images_dir_path = "images/"
 
 def download_image_from_url(image_url: str):
     cleaned_up_image_url = image_url.replace("https://storage.googleapis.com/fabmaster/media/images/", "")
-    cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/2021-MON/", "")
-    cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/", "")
-    cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/2021-ELE/", "")
-    cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/2022-EVR/", "")
-    cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/promos/", "")
-    cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/2021-MON-CHN/", "")
-    cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/2021-ELE-BRI/", "")
+    cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/", "")
 
     file_name = "images/" + cleaned_up_image_url
     if exists(file_name):
         print(file_name + " already exists, skipping")
         return
+
+    file_dir = "/".join(file_name.split("/")[:-1])
+    if not exists(file_dir):
+        print(file_dir + " does not exist, creating it")
+        makedirs(file_dir)
 
     print("Downloading " + image_url + " to " + file_name)
     img_data = requests.get(image_url).content
