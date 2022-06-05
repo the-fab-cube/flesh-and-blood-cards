@@ -125,3 +125,6 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 
 06-04-22:
 - Update WTR cards with full resolution image links
+- Update ARC cards with full resolution image links
+- Update ARC with alternate text images (1st Edition Rainbow Foils have no reminder text and some new flavor text)
+- Fix an error in the functional text of Art of War
