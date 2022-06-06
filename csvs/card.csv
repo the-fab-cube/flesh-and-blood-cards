@@ -4018,4 +4018,7 @@ UPR149	UPR	Cold Snap	3	1		2			C	Ice, Action	Go again			Freeze	"Target hero may p
 If Cold Snap is played from arsenal, draw a card.
 
 **Go again**"		Ice Action	Mateusz Wisniewski																S – UPR149 – N	https://storage.googleapis.com/fabmaster/media/images/UPR149.width-450.png – UPR149 – N
+UPR160	UPR	Double Strike	1	0	1	2			M	Ninja, Action, Attack	Go again				"When Double Strike’s chain link resolves, banish it. You may play it this combat chain. If you do, it loses this ability.
+
+**Go again**"		Nina Action – Attack	Faizal Fikri				No												S – UPR160 – N	
 FAB091	FAB	Breaking Point	1	1	5	3			P	Draconic, Action, Attack	Rupture				**Rupture** - If Breaking Point is played as chain link 4 or higher, it has “When this hits a hero, destroy all cards in their arsenal.”		Draconic Action – Attack	Henrique Lindner				No												R – FAB091 – N – EA	
