@@ -3902,6 +3902,10 @@ UPR014	UPR	Invoke Ouvia	1	2		3			R – UPR014 – N, V – UPR014 – N – EA	D
 UPR014	UPR	Ouvia			1		6		R – UPR014 – N, V – UPR014 – N – FA	Draconic, Illusionist, Dragon, Ally	Transform				At the start of your turn or when Ouvia enters the arena, **transform** up to 1 ash you control into an Aether Ashwing. *(Create an Aether Ashwing token and put the ash under it.)*		Draconic Illusionist – Dragon Ally	Mihail Spil-Haufter				No												S – UPR014 – N, C – UPR014 – N – FA	
 UPR015	UPR	Invoke Nekria	1	2		3			R – UPR015 – N, V – UPR015 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				**Transform** target ash you control into Nekria. **Go again**		Draconic Illusionist Action – Invocation	Othon Nikolaidis				No												S – UPR015 – N, C – UPR015 – N – EA	
 UPR015	UPR	Nekria			1		6		R – UPR015 – N, V – UPR015 – N – FA	Draconic, Illusionist, Dragon, Ally					Whenever Nekria deals or is dealt damage, put a -1{h} counter on her and create an Ash token.		Draconic Illusionist – Dragon Ally	Othon Nikolaidis				No												S – UPR015 – N, C – UPR015 – N – FA	
+UPR016	UPR	Invoke Vynserakai	1	3		3			R – UPR016 – N, V – UPR016 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				"*(Invocations resolve flipped as an ally in the arena.*)
+
+**Transform** target ash you control into Vynserakai. **Go again** *(Put the ash under him.)*"	The dragon of aggression, said to prowl the Red Desert.	Draconic Illusionist Action – Invocation	Mateusz Wisniewski				No												S – UPR016 – N, C – UPR016 – N – EA	
+UPR016	UPR	Vynserakai			6		1		R – UPR016 – N, V – UPR016 – N – FA	Draconic, Illusionist, Dragon, Ally					Whenever Vynserakai hits a hero, he deals 3 arcane damage to them.		Draconic Illusionist – Dragon Ally	Mateusz Wisniewski				No												S – UPR016 – N, C – UPR016 – N – FA	
 UPR018	UPR	Billowing Mirage	1	1	3	3			C	Draconic, Illusionist, Action, Attack	Transform, Go again				"When you attack with Billowing Mirage, **transform** up to 1 ash you control into an Aether Ashwing. *(Create an Aether Ashwing token and put the ash under it.)*
 
 **Go again**"		Draconic Illusionist Action – Attack	Hoàng Lập																S – UPR018 – N	https://storage.googleapis.com/fabmaster/media/images/UPR018.width-450.png – UPR018 – N
@@ -3944,11 +3948,16 @@ UPR047	UPR	Heat Wave				0			C	Draconic, Ninja, Equipment, Arms	Quell 1	Instant		
 
 **Quell 1** *(If your hero would be dealt damage, you may pay {r} to prevent 1 of that damage. If you do, destroy Heat Wave at the beginning of the end phase.)*"		Draconic Ninja Equipment – Arms	soyameii																S – UPR047 – N	
 UPR048	UPR	Phoenix Form	1	0	3	3			M	Draconic, Ninja, Action, Attack	Go again				If you control 1 or more Phoenix Flames, Phoenix Form has **go again**. If you control 2 or more, it has +2{p}. If you control 3 or more, it has “When this hits a hero, draw 3 cards.”		Draconic Ninja Action – Attack	Isuardi Therianto				No												S – UPR048 – N	
+UPR049	UPR	Spreading Flames	1	1	3	2			M	Draconic, Ninja, Action, Attack	Go again				"Draconic attacks you control have +1{p} while their base {p} is less than the number of Draconic chain links you control.
+
+**Go again**"		Draconic Ninja Action – Attack	Faizal Fikri				No												S – UPR049 – N	
 UPR057	UPR	Rise from the Ashes	1	0		2			R	Draconic, Ninja, Action	Go again				"The next Draconic or Ninja attack action card you play this turn gains +3{p}.
 
 You may return a Phoenix Flame from your graveyard to your hand.
 
 **Go again**"		Draconic Ninja Action	Jessada Sutthi				No												S – UPR057 – N	
+UPR063	UPR	Cinderskin Devotion	1	1	4	3			C	Draconic, Ninja, Action, Attack	Go again				If you control 2 or more Draconic chain links, Cinderskin Devotion has **go again**.	Through famine, oppression, and the horrors of war, the Volcai’s oath to their fallen bretheren shall never be broken.	Draconic Ninja Action – Attack	Athiwut B.																S – UPR063 – N	
+UPR069	UPR	Lava Vein Loyalty	1	0	3	3			C	Draconic, Ninja, Action, Attack	Go again				If you control 2 or more Draconic chain links, Lava Vein Loyalty has **go again**.	“Burn bright or burn out, we burn together.” - Fai	Draconic Ninja Action – Attack	Maerel Hibadita																S – UPR069 – N	
 UPR086	UPR	Thaw	1	2	6	2			M	Draconic, Action, Attack				Unfreeze	"While thaw is in your graveyard, at the start of your turn, you may banish it and choose 1:
 
 - Destroy target Frostbite.
@@ -3958,6 +3967,9 @@ UPR087	UPR	Liquefy	1	1		2			M	Draconic, Attack Reaction	Rupture				**Rupture** -
 UPR088	UPR	Uprising	1	0		3			M	Draconic, Action	Go again				"Your next 4 Draconic attacks this turn gain +1{p}.
 
 **Go again**"	Every great cycle, a phoenix rises to challenge the dragon. Yet as sure as Dynasties rise and fall, every feathered Emperor soon grows scales.	Draconic Action	Pavel Kondrashov				No												S – UPR088 – N	
+UPR089	UPR	Tome of Firebrand	1	1					M	Draconic, Instant					"Play Tome of Firebrand only if you control 4 or more Draconic chain links.
+
+Draw 2 cards."		Draconic Instant	Mateusz Wisniewski				No												S – UPR089 – N	
 UPR090	UPR	Red Hot	1	2	4	3			R	Draconic, Action, Attack	Dromai or Fai Specialization, Rupture				"**Dromai or Fai Specialization** *(You may only have Red Hot in your deck if your hero is Dromai or Fai.)*
 
 **Rupture** - If Red Hot is played as chain link 4 or higher, it has “When you attack with this, reveal the top X cards of your deck, where X is the number of Draconic chain links you control. Deal damage equal to the number of red cards revealed this way to any target, then shuffle.”"		Draconic Action – Attack	Federico Musetti				No												S – UPR090 – N	https://storage.googleapis.com/fabmaster/media/images/UPR090.width-450.png – UPR090 – N
