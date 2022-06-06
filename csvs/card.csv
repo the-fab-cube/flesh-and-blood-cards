@@ -3898,10 +3898,14 @@ UPR011	UPR	Invoke Kyloria	1	1		3			R – UPR011 – N, V – UPR011 – N – EA
 
 **Transform** target ash you control into Kyloria. **Go again** *(Put the ash under her.)*"	The dragon of greed, said to dwell in her lair deep beneath the Pits.	Draconic Illusionist Action – Invocation	Steve Argyle				No												S – UPR011 – N, C – UPR011 – N – EA	
 UPR011	UPR	Kyloria			4		2		R – UPR011 – N, V – UPR011 – N – FA	Draconic, Illusionist, Dragon, Ally					Whenever Kyloria hits a hero, gain control of an item they control. If you don’t gain control of an item this way, draw a card.		Draconic Illusionist – Dragon Ally	Steve Argyle				No												S – UPR011 – N, C – UPR011 – N – FA	
+UPR013	UPR	Invoke Nekria	1	2		3			R – UPR013 – N, V – UPR013 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				**Transform** target ash you control into Nekria. **Go again**		Draconic Illusionist Action – Invocation	Othon Nikolaidis				No												S – UPR013 – N, C – UPR013 – N – EA	
+UPR013	UPR	Nekria			1		6		R – UPR013 – N, V – UPR013 – N – FA	Draconic, Illusionist, Dragon, Ally					Whenever Nekria deals or is dealt damage, put a -1{h} counter on her and create an Ash token.		Draconic Illusionist – Dragon Ally	Othon Nikolaidis				No												S – UPR013 – N, C – UPR013 – N – FA	
 UPR014	UPR	Invoke Ouvia	1	2		3			R – UPR014 – N, V – UPR014 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				**Transform** target ash you control into Ouvia. **Go again**		Draconic Illusionist Action – Invocation	Mihail Spil-Haufter				No												S – UPR014 – N, C – UPR014 – N – EA	
 UPR014	UPR	Ouvia			1		6		R – UPR014 – N, V – UPR014 – N – FA	Draconic, Illusionist, Dragon, Ally	Transform				At the start of your turn or when Ouvia enters the arena, **transform** up to 1 ash you control into an Aether Ashwing. *(Create an Aether Ashwing token and put the ash under it.)*		Draconic Illusionist – Dragon Ally	Mihail Spil-Haufter				No												S – UPR014 – N, C – UPR014 – N – FA	
-UPR015	UPR	Invoke Nekria	1	2		3			R – UPR015 – N, V – UPR015 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				**Transform** target ash you control into Nekria. **Go again**		Draconic Illusionist Action – Invocation	Othon Nikolaidis				No												S – UPR015 – N, C – UPR015 – N – EA	
-UPR015	UPR	Nekria			1		6		R – UPR015 – N, V – UPR015 – N – FA	Draconic, Illusionist, Dragon, Ally					Whenever Nekria deals or is dealt damage, put a -1{h} counter on her and create an Ash token.		Draconic Illusionist – Dragon Ally	Othon Nikolaidis				No												S – UPR015 – N, C – UPR015 – N – FA	
+UPR015	UPR	Invoke Themai	1	2		3			R – UPR015 – N, V – UPR015 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				"*(Invocations resolve flipped as an ally in the arena.*)
+
+**Transform** target ash you control into Themai. **Go again** *(Put the ash under him.)*"	The dragon of law, said to watch over the golden plains of Solana.	Draconic Illusionist Action – Invocation	Carlos Cruchaga				No												S – UPR015 – N, C – UPR015 – N – EA	
+UPR015	UPR	Themai			3		4		R – UPR015 – N, V – UPR015 – N – FA	Draconic, Illusionist, Dragon, Ally					Opponents can’t play cards or activate abilities during your turn.		Draconic Illusionist – Dragon Ally	Carlos Cruchaga				No												S – UPR015 – N, C – UPR015 – N – FA	
 UPR016	UPR	Invoke Vynserakai	1	3		3			R – UPR016 – N, V – UPR016 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				"*(Invocations resolve flipped as an ally in the arena.*)
 
 **Transform** target ash you control into Vynserakai. **Go again** *(Put the ash under him.)*"	The dragon of aggression, said to prowl the Red Desert.	Draconic Illusionist Action – Invocation	Mateusz Wisniewski				No												S – UPR016 – N, C – UPR016 – N – EA	
@@ -3944,6 +3948,9 @@ UPR044	UPR	Fai, Rising Rebellion					40	4	T	Draconic, Ninja, Hero		Once per Turn
 UPR045	UPR	Fai					20	4	T	Draconic, Ninja, Hero, Young		Once per Turn Instant			"You may start the game with a Phoenix Flame in your graveyard.
 
 **Once per Turn Instant** - {r}{r}{r}: Return a Phoenix Flame from your graveyard to your hand. This ability costs {r} less for each Draconic chain link you control."		Draconic Ninja Hero – Young	Sam Yang																S – UPR045 – N	
+UPR046	UPR	Searing Emberblade			3				T	Draconic, Ninja, Weapon, Sword, 2H		Once per Turn Action	Go again		"**Once per Turn Action** - {r}{r}: **Attack**
+
+If you control 2 or more Draconic chain links, Searing Emberblade has **go again**."		Draconic Ninja Weapon – Sword (2H)	Enmoire																S – UPR046 – N	
 UPR047	UPR	Heat Wave				0			C	Draconic, Ninja, Equipment, Arms	Quell 1	Instant			"**Instant** - Destroy Heat Wave: Phoenix Flames you control gain +1{p} until end of turn.
 
 **Quell 1** *(If your hero would be dealt damage, you may pay {r} to prevent 1 of that damage. If you do, destroy Heat Wave at the beginning of the end phase.)*"		Draconic Ninja Equipment – Arms	soyameii																S – UPR047 – N	
@@ -4033,4 +4040,8 @@ If Cold Snap is played from arsenal, draw a card.
 UPR160	UPR	Double Strike	1	0	1	2			M	Ninja, Action, Attack	Go again				"When Double Strike’s chain link resolves, banish it. You may play it this combat chain. If you do, it loses this ability.
 
 **Go again**"		Nina Action – Attack	Faizal Fikri				No												S – UPR160 – N	
+UPR161	UPR	Take the Tempo	1	1	5	3			M	Ninja, Action, Attack					When Take the Tempo hits, if you’ve hit 3 or more times this combat chain, banish the top card of your deck. If it’s an attack action card, you may play it until the end of your next turn.		Nina Action – Attack	Jessada Sutthi				No												S – UPR161 – N	
+UPR182	UPR	Crown of Providence				2			L	Generic, Equipment, Head	Blade Break				"When you defend with Crown of Providence, you may put a card from your hand or arsenal on the bottom of your deck. If you do, draw a card.
+
+**Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Generic Equipment – Head	Andy Aslamov				No												R – UPR182 – N	
 FAB091	FAB	Breaking Point	1	1	5	3			P	Draconic, Action, Attack	Rupture				**Rupture** - If Breaking Point is played as chain link 4 or higher, it has “When this hits a hero, destroy all cards in their arsenal.”		Draconic Action – Attack	Henrique Lindner				No												R – FAB091 – N – EA	
