@@ -3892,16 +3892,24 @@ UPR008	UPR	Invoke Dominia	1	4		3			M – UPR008 – N, V – UPR008 – N – EA
 
 **Transform** target ash you control into Dominia. **Go again** *(Put the ash under her.)*"	The dragon of dominion, said to oppress the Volcai.	Draconic Illusionist Action – Invocation	Steve Argyle				No												S – UPR008 – N, C – UPR008 – N – EA	https://storage.googleapis.com/fabmaster/media/images/UPR008.width-450.png – UPR008 – N, https://storage.googleapis.com/fabmaster/media/images/UPR008_B_Front.width-450.png – UPR008 – N – EA
 UPR008	UPR	Dominia			4		4		M – UPR008 – N, V – UPR008 – N – FA	Draconic, Illusionist, Dragon, Ally					Whenever Dominia attacks a hero, reveal the top card of your deck. If it’s a red card, look at their hand and banish a card from it.		Draconic Illusionist – Dragon Ally	Steve Argyle				No												S – UPR008 – N, C – UPR008 – N – FA	https://storage.googleapis.com/fabmaster/media/images/UPR008_A_Back.width-450.png – UPR008 – N, https://storage.googleapis.com/fabmaster/media/images/UPR008_B_Back.width-450.png – UPR008 – N – FA
-UPR009	UPR	Invoke Azvolai	1	0		3			R – UPR008 – N, V – UPR008 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				**Transform** target ash you control into Azvolai. **Go again**		Draconic Illusionist Action – Invocation	Federico Musetti				No												S – UPR009 – N, C – UPR009 – N – EA	
-UPR009	UPR	Azvolai			2		3		R – UPR008 – N, V – UPR008 – N – FA	Draconic, Illusionist, Dragon, Ally					Whenever Azvolai attacks, you may have him deal 1 arcane damage to up to any 2 targets.		Draconic Illusionist – Dragon Ally	Federico Musetti				No												S – UPR009 – N, C – UPR009 – N – FA	
+UPR009	UPR	Invoke Azvolai	1	0		3			R – UPR009 – N, V – UPR009 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				"*(Invocations resolve flipped as an ally in the arena.*)
+
+**Transform** target ash you control into Azvolai. **Go again** *(Put the ash under him.)*"	The dragon of choice, said to guard the crossroads of Sandikai.	Draconic Illusionist Action – Invocation	Federico Musetti				No												S – UPR009 – N, C – UPR009 – N – EA	https://storage.googleapis.com/fabmaster/media/images/UPR009.width-450.png – UPR009 – N, https://storage.googleapis.com/fabmaster/media/images/UPR009_B_Front.width-450.png – UPR009 – N – EA
+UPR009	UPR	Azvolai			2		3		R – UPR009 – N, V – UPR009 – N – FA	Draconic, Illusionist, Dragon, Ally					Whenever Azvolai attacks, you may have him deal 1 arcane damage to up to any 2 targets.		Draconic Illusionist – Dragon Ally	Federico Musetti				No												S – UPR009 – N, C – UPR009 – N – FA	https://storage.googleapis.com/fabmaster/media/images/UPR009_A_Back.width-450.png – UPR009 – N, https://storage.googleapis.com/fabmaster/media/images/UPR009_B_Back.width-450.png – UPR009 – N – FA
+UPR010	UPR	Invoke Cromai	1	0		3			R – UPR010 – N, V – UPR010 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				"*(Invocations resolve flipped as an ally in the arena.*)
+
+**Transform** target ash you control into Cromai. **Go again** *(Put the ash under him.)*"	The dragon of engineering, said to soar over the Metrix rust belt.	Draconic Illusionist Action – Invocation	Asur Misoa				No												S – UPR010 – N, C – UPR010 – N – EA	
+UPR010	UPR	Cromai			3		2		R – UPR010 – N, V – UPR010 – N – FA	Draconic, Illusionist, Dragon, Ally					Once per turn, when Cromai attacks or leaves the arena, gain 1 action point.		Draconic Illusionist – Dragon Ally	Asur Misoa				No												S – UPR010 – N, C – UPR010 – N – FA	
 UPR011	UPR	Invoke Kyloria	1	1		3			R – UPR011 – N, V – UPR011 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				"*(Invocations resolve flipped as an ally in the arena.*)
 
-**Transform** target ash you control into Kyloria. **Go again** *(Put the ash under her.)*"	The dragon of greed, said to dwell in her lair deep beneath the Pits.	Draconic Illusionist Action – Invocation	Steve Argyle				No												S – UPR011 – N, C – UPR011 – N – EA	
-UPR011	UPR	Kyloria			4		2		R – UPR011 – N, V – UPR011 – N – FA	Draconic, Illusionist, Dragon, Ally					Whenever Kyloria hits a hero, gain control of an item they control. If you don’t gain control of an item this way, draw a card.		Draconic Illusionist – Dragon Ally	Steve Argyle				No												S – UPR011 – N, C – UPR011 – N – FA	
+**Transform** target ash you control into Kyloria. **Go again** *(Put the ash under her.)*"	The dragon of greed, said to dwell in her lair deep beneath the Pits.	Draconic Illusionist Action – Invocation	Steve Argyle				No												S – UPR011 – N, C – UPR011 – N – EA	https://storage.googleapis.com/fabmaster/media/images/UPR011.width-450.png – UPR011 – N, https://storage.googleapis.com/fabmaster/media/images/UPR011_B_Front.width-450.png – UPR011 – N – EA
+UPR011	UPR	Kyloria			4		2		R – UPR011 – N, V – UPR011 – N – FA	Draconic, Illusionist, Dragon, Ally					Whenever Kyloria hits a hero, gain control of an item they control. If you don’t gain control of an item this way, draw a card.		Draconic Illusionist – Dragon Ally	Steve Argyle				No												S – UPR011 – N, C – UPR011 – N – FA	https://storage.googleapis.com/fabmaster/media/images/UPR011_A_Back.width-450.png – UPR011 – N, https://storage.googleapis.com/fabmaster/media/images/UPR011_B_Back.width-450.png – UPR011 – N – FA
 UPR013	UPR	Invoke Nekria	1	2		3			R – UPR013 – N, V – UPR013 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				**Transform** target ash you control into Nekria. **Go again**		Draconic Illusionist Action – Invocation	Othon Nikolaidis				No												S – UPR013 – N, C – UPR013 – N – EA	
 UPR013	UPR	Nekria			1		6		R – UPR013 – N, V – UPR013 – N – FA	Draconic, Illusionist, Dragon, Ally					Whenever Nekria deals or is dealt damage, put a -1{h} counter on her and create an Ash token.		Draconic Illusionist – Dragon Ally	Othon Nikolaidis				No												S – UPR013 – N, C – UPR013 – N – FA	
-UPR014	UPR	Invoke Ouvia	1	2		3			R – UPR014 – N, V – UPR014 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				**Transform** target ash you control into Ouvia. **Go again**		Draconic Illusionist Action – Invocation	Mihail Spil-Haufter				No												S – UPR014 – N, C – UPR014 – N – EA	
-UPR014	UPR	Ouvia			1		6		R – UPR014 – N, V – UPR014 – N – FA	Draconic, Illusionist, Dragon, Ally	Transform				At the start of your turn or when Ouvia enters the arena, **transform** up to 1 ash you control into an Aether Ashwing. *(Create an Aether Ashwing token and put the ash under it.)*		Draconic Illusionist – Dragon Ally	Mihail Spil-Haufter				No												S – UPR014 – N, C – UPR014 – N – FA	
+UPR014	UPR	Invoke Ouvia	1	2		3			R – UPR014 – N, V – UPR014 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				"*(Invocations resolve flipped as an ally in the arena.*)
+
+**Transform** target ash you control into Ouvia. **Go again** *(Put the ash under her.)*"	The dragon of fertility, said to roost within the lush caverns of Aria.	Draconic Illusionist Action – Invocation	Mihail Spil-Haufter				No												S – UPR014 – N, C – UPR014 – N – EA	https://storage.googleapis.com/fabmaster/media/images/UPR014.width-450.png – UPR014 – N, https://storage.googleapis.com/fabmaster/media/images/UPR014_B_Front.width-450.png – UPR014 – N – EA
+UPR014	UPR	Ouvia			1		6		R – UPR014 – N, V – UPR014 – N – FA	Draconic, Illusionist, Dragon, Ally	Transform				At the start of your turn or when Ouvia enters the arena, **transform** up to 1 ash you control into an Aether Ashwing. *(Create an Aether Ashwing token and put the ash under it.)*		Draconic Illusionist – Dragon Ally	Mihail Spil-Haufter				No												S – UPR014 – N, C – UPR014 – N – FA	https://storage.googleapis.com/fabmaster/media/images/UPR014_A_Back.width-450.png – UPR014 – N
 UPR015	UPR	Invoke Themai	1	2		3			R – UPR015 – N, V – UPR015 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				"*(Invocations resolve flipped as an ally in the arena.*)
 
 **Transform** target ash you control into Themai. **Go again** *(Put the ash under him.)*"	The dragon of law, said to watch over the golden plains of Solana.	Draconic Illusionist Action – Invocation	Carlos Cruchaga				No												S – UPR015 – N, C – UPR015 – N – EA	
@@ -3944,17 +3952,17 @@ UPR042	UPR	Aether Ashwing			1		1		T	Draconic, Illusionist, Token, Dragon, Ally	A
 UPR043	UPR	Ash							T	Draconic, Illusionist, Token, Ash	Material			Phantasm	**Material** - While Ash is under an object, that object has **phantasm**. *(When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this and close the combat chain.)*		Draconic Illusionist Token – Ash	Surya Prasteya																S – UPR043 – N	https://storage.googleapis.com/fabmaster/media/images/UPR043.width-450.png – UPR043 – N
 UPR044	UPR	Fai, Rising Rebellion					40	4	T	Draconic, Ninja, Hero		Once per Turn Instant			"You may start the game with a Phoenix Flame in your graveyard.
 
-**Once per Turn Instant** - {r}{r}{r}: Return a Phoenix Flame from your graveyard to your hand. This ability costs {r} less for each Draconic chain link you control."		Draconic Ninja Hero	Sam Yang		No		No												S – UPR044 – N	
+**Once per Turn Instant** - {r}{r}{r}: Return a Phoenix Flame from your graveyard to your hand. This ability costs {r} less for each Draconic chain link you control."		Draconic Ninja Hero	Sam Yang		No		No												S – UPR044 – N	https://storage.googleapis.com/fabmaster/media/images/UPR044.width-450.png – UPR044 – N
 UPR045	UPR	Fai					20	4	T	Draconic, Ninja, Hero, Young		Once per Turn Instant			"You may start the game with a Phoenix Flame in your graveyard.
 
-**Once per Turn Instant** - {r}{r}{r}: Return a Phoenix Flame from your graveyard to your hand. This ability costs {r} less for each Draconic chain link you control."		Draconic Ninja Hero – Young	Sam Yang																S – UPR045 – N	
+**Once per Turn Instant** - {r}{r}{r}: Return a Phoenix Flame from your graveyard to your hand. This ability costs {r} less for each Draconic chain link you control."		Draconic Ninja Hero – Young	Sam Yang																S – UPR045 – N	https://storage.googleapis.com/fabmaster/media/images/UPR045.width-450.png – UPR045 – N
 UPR046	UPR	Searing Emberblade			3				T	Draconic, Ninja, Weapon, Sword, 2H		Once per Turn Action	Go again		"**Once per Turn Action** - {r}{r}: **Attack**
 
 If you control 2 or more Draconic chain links, Searing Emberblade has **go again**."		Draconic Ninja Weapon – Sword (2H)	Enmoire																S – UPR046 – N	
 UPR047	UPR	Heat Wave				0			C	Draconic, Ninja, Equipment, Arms	Quell 1	Instant			"**Instant** - Destroy Heat Wave: Phoenix Flames you control gain +1{p} until end of turn.
 
-**Quell 1** *(If your hero would be dealt damage, you may pay {r} to prevent 1 of that damage. If you do, destroy Heat Wave at the beginning of the end phase.)*"		Draconic Ninja Equipment – Arms	soyameii																S – UPR047 – N	
-UPR048	UPR	Phoenix Form	1	0	3	3			M	Draconic, Ninja, Action, Attack	Go again				If you control 1 or more Phoenix Flames, Phoenix Form has **go again**. If you control 2 or more, it has +2{p}. If you control 3 or more, it has “When this hits a hero, draw 3 cards.”		Draconic Ninja Action – Attack	Isuardi Therianto				No												S – UPR048 – N	
+**Quell 1** *(If your hero would be dealt damage, you may pay {r} to prevent 1 of that damage. If you do, destroy Heat Wave at the beginning of the end phase.)*"		Draconic Ninja Equipment – Arms	soyameii																S – UPR047 – N	https://storage.googleapis.com/fabmaster/media/images/UPR047.width-450.png – UPR047 – N
+UPR048	UPR	Phoenix Form	1	0	3	3			M	Draconic, Ninja, Action, Attack	Go again				If you control 1 or more Phoenix Flames, Phoenix Form has **go again**. If you control 2 or more, it has +2{p}. If you control 3 or more, it has “When this hits a hero, draw 3 cards.”		Draconic Ninja Action – Attack	Isuardi Therianto				No												S – UPR048 – N	https://storage.googleapis.com/fabmaster/media/images/UPR048.width-450.png – UPR048 – N
 UPR049	UPR	Spreading Flames	1	1	3	2			M	Draconic, Ninja, Action, Attack	Go again				"Draconic attacks you control have +1{p} while their base {p} is less than the number of Draconic chain links you control.
 
 **Go again**"		Draconic Ninja Action – Attack	Faizal Fikri				No												S – UPR049 – N	
@@ -3968,7 +3976,17 @@ UPR057	UPR	Rise from the Ashes	1	0		2			R	Draconic, Ninja, Action	Go again				"T
 
 You may return a Phoenix Flame from your graveyard to your hand.
 
-**Go again**"		Draconic Ninja Action	Jessada Sutthi				No												S – UPR057 – N	
+**Go again**"		Draconic Ninja Action	Jessada Sutthi				No												S – UPR057 – N	https://storage.googleapis.com/fabmaster/media/images/UPR057.width-450.png – UPR057 – N
+UPR058	UPR	Rise from the Ashes	2	0		2			R	Draconic, Ninja, Action	Go again				"The next Draconic or Ninja attack action card you play this turn gains +2{p}.
+
+You may return a Phoenix Flame from your graveyard to your hand.
+
+**Go again**"		Draconic Ninja Action	Jessada Sutthi				No												S – UPR058 – N	https://storage.googleapis.com/fabmaster/media/images/UPR058.width-450.png – UPR058 – N
+UPR059	UPR	Rise from the Ashes	3	0		2			R	Draconic, Ninja, Action	Go again				"The next Draconic or Ninja attack action card you play this turn gains +1{p}.
+
+You may return a Phoenix Flame from your graveyard to your hand.
+
+**Go again**"		Draconic Ninja Action	Jessada Sutthi				No												S – UPR059 – N	https://storage.googleapis.com/fabmaster/media/images/UPR059.width-450.png – UPR059 – N
 UPR063	UPR	Cinderskin Devotion	1	1	4	3			C	Draconic, Ninja, Action, Attack	Go again				If you control 2 or more Draconic chain links, Cinderskin Devotion has **go again**.	Through famine, oppression, and the horrors of war, the Volcai’s oath to their fallen bretheren shall never be broken.	Draconic Ninja Action – Attack	Athiwut B.																S – UPR063 – N	
 UPR069	UPR	Lava Vein Loyalty	1	0	3	3			C	Draconic, Ninja, Action, Attack	Go again				If you control 2 or more Draconic chain links, Lava Vein Loyalty has **go again**.	“Burn bright or burn out, we burn together.” - Fai	Draconic Ninja Action – Attack	Maerel Hibadita																S – UPR069 – N	
 UPR075	UPR	Rising Resentment	1	0	3	2			C	Draconic, Ninja, Action, Attack	Go again				"When Rising Resentment hits, you may banish an attack action card from your hand with cost less than the number of Draconic chain links you control. If you do, it costs {r} less to play and you may play it this turn.
@@ -3979,10 +3997,10 @@ UPR086	UPR	Thaw	1	2	6	2			M	Draconic, Action, Attack				Unfreeze	"While thaw is 
 - Destroy target Frostbite.
 - Destroy target Ice affliction.
 - **Unfreeze** target **frozen** card."		Draconic Action – Attack	Hoàng Lập				No												S – UPR086 – N	https://storage.googleapis.com/fabmaster/media/images/UPR086.width-450.png – UPR086 – N
-UPR087	UPR	Liquefy	1	1		2			M	Draconic, Attack Reaction	Rupture				**Rupture** - If Liquefy is played at chain link 4 or higher, target attack action card gains “When this hits a hero, put a -1{d} counter on an equipment they control. Then if it has 0{d}, destroy it.”		Draconic Attack Reaction	Mark Poole				No												S – UPR087 – N	
+UPR087	UPR	Liquefy	1	1		2			M	Draconic, Attack Reaction	Rupture				**Rupture** - If Liquefy is played at chain link 4 or higher, target attack action card gains “When this hits a hero, put a -1{d} counter on an equipment they control. Then if it has 0{d}, destroy it.”		Draconic Attack Reaction	Mark Poole				No												S – UPR087 – N	https://storage.googleapis.com/fabmaster/media/images/UPR087.width-450.png – UPR087 – N
 UPR088	UPR	Uprising	1	0		3			M	Draconic, Action	Go again				"Your next 4 Draconic attacks this turn gain +1{p}.
 
-**Go again**"	Every great cycle, a phoenix rises to challenge the dragon. Yet as sure as Dynasties rise and fall, every feathered Emperor soon grows scales.	Draconic Action	Pavel Kondrashov				No												S – UPR088 – N	
+**Go again**"	Every great cycle, a phoenix rises to challenge the dragon. Yet as sure as Dynasties rise and fall, every feathered Emperor soon grows scales.	Draconic Action	Pavel Kondrashov				No												S – UPR088 – N	https://storage.googleapis.com/fabmaster/media/images/UPR088.width-450.png – UPR088 – N
 UPR089	UPR	Tome of Firebrand	1	1					M	Draconic, Instant					"Play Tome of Firebrand only if you control 4 or more Draconic chain links.
 
 Draw 2 cards."		Draconic Instant	Mateusz Wisniewski				No												S – UPR089 – N	
@@ -3991,24 +4009,24 @@ UPR090	UPR	Red Hot	1	2	4	3			R	Draconic, Action, Attack	Dromai or Fai Specializa
 **Rupture** - If Red Hot is played as chain link 4 or higher, it has “When you attack with this, reveal the top X cards of your deck, where X is the number of Draconic chain links you control. Deal damage equal to the number of red cards revealed this way to any target, then shuffle.”"		Draconic Action – Attack	Federico Musetti				No												S – UPR090 – N	https://storage.googleapis.com/fabmaster/media/images/UPR090.width-450.png – UPR090 – N
 UPR091	UPR	Rise Up	1	1	3	3			R	Draconic, Action, Attack	Dromai or Fai Specialization, Rupture, Dominate				"**Dromai or Fai Specialization** *(You may only have Rise Up in your deck if your hero is Dromai or Fai.)*
 
-**Rupture** - If Rise Up is played as chain link 4 or higher, it has **dominate** and +X{p}, where X is twice the number of Phoenix Flames you control. *(The defending hero can’t defend with or play more than 1 defending card or defense reaction from their hand this chain link.)*"		Draconic Action – Attack	Jessada Sutthi				No												S – UPR091 – N	
-UPR094	UPR	Burn Away	1	0	2	3			C	Draconic, Action, Attack	Go again				As an additional cost to play Burn Away, you may banish a Phoenix Flame from your graveyard. When you do, Burn Away gains +2{p} and **go again**.	“I will set your lies aflame, and reveal the ugly heart of this Uprising. Sometimes, walking away isn’t nearly enough…” - Dromai	Draconic Action – Attack	Federico Musetti																S – UPR094 – N	
+**Rupture** - If Rise Up is played as chain link 4 or higher, it has **dominate** and +X{p}, where X is twice the number of Phoenix Flames you control. *(The defending hero can’t defend with or play more than 1 defending card or defense reaction from their hand this chain link.)*"		Draconic Action – Attack	Jessada Sutthi				No												S – UPR091 – N	https://storage.googleapis.com/fabmaster/media/images/UPR091.width-450.png – UPR091 – N
+UPR094	UPR	Burn Away	1	0	2	3			C	Draconic, Action, Attack	Go again				As an additional cost to play Burn Away, you may banish a Phoenix Flame from your graveyard. When you do, Burn Away gains +2{p} and **go again**.	“I will set your lies aflame, and reveal the ugly heart of this Uprising. Sometimes, walking away isn’t nearly enough…” - Dromai	Draconic Action – Attack	Federico Musetti																S – UPR094 – N	https://storage.googleapis.com/fabmaster/media/images/UPR094.width-450.png – UPR094 – N
 UPR095	UPR	Flameborn Retribution	1	1	3	2			C	Draconic, Action, Attack	Go again				"When you defend with Flameborn Retribution, if you’ve been dealt damage this turn, you may return a Phoenix Flame from your graveyard to your hand.
 
-**Go again**"		Draconic Action – Attack	Mateusz Wisniewski																S – UPR095 – N	
+**Go again**"		Draconic Action – Attack	Mateusz Wisniewski																S – UPR095 – N	https://storage.googleapis.com/fabmaster/media/images/UPR095.width-450.png – UPR095 – N
 UPR096	UPR	Flamecall Awakening	1	1	3	2			C	Draconic, Action, Attack	Go again				"When you attack with Flamecall Awakening, if you’ve played another red card this turn, you may search your deck for a Phoenix Flame, reveal it, put it into your hand, then shuffle.
 
-**Go again**"		Draconic Action – Attack	Jessada Sutthi																S – UPR096 – N	
+**Go again**"		Draconic Action – Attack	Jessada Sutthi																S – UPR096 – N	https://storage.googleapis.com/fabmaster/media/images/UPR096.width-450.png – UPR096 – N
 UPR097	UPR	Inflame	1	0	1	2			C	Draconic, Action, Attack	Go again				"When you attack with Inflame, if you’ve played another red card this turn, you may return a Phoenix Flame from your graveyard to your hand.
 
-**Go again**"		Draconic Action – Attack	Henrique Lindner																S – UPR097 – N	
+**Go again**"		Draconic Action – Attack	Henrique Lindner																S – UPR097 – N	https://storage.googleapis.com/fabmaster/media/images/UPR097.width-450.png – UPR097 – N
 UPR098	UPR	Lava Burst	1	0	2	3			C	Draconic, Action, Attack	Rupture				**Rupture** - If Lava Burst is played as chain link 4 or higher, it has +3{p}.		Draconic Action – Attack	Faizal Fikri																S – UPR098 – N	https://storage.googleapis.com/fabmaster/media/images/UPR098.width-450.png – UPR098 – N
-UPR100	UPR	Stoke the Flames	1	1	4	3			C	Draconic, Action, Attack	Go again				When Stoke the Flames hits, you may return a Phoenix Flame from your graveyard to your hand. If you do, Stoke the Flames gains **go again**.	For some Volcai, honour is nothing compared to the sweet taste of vengence.	Draconic Action – Attack	Shen Fei																S – UPR100 – N	
+UPR100	UPR	Stoke the Flames	1	1	4	3			C	Draconic, Action, Attack	Go again				When Stoke the Flames hits, you may return a Phoenix Flame from your graveyard to your hand. If you do, Stoke the Flames gains **go again**.	For some Volcai, honour is nothing compared to the sweet taste of vengence.	Draconic Action – Attack	Shen Fei																S – UPR100 – N	https://storage.googleapis.com/fabmaster/media/images/UPR100.width-450.png – UPR100 – N
 UPR101	UPR	Phoenix Flame	1	0	0				T	Draconic, Action, Attack	Go again				"*(A player may add up to 3 Phoenix Flame to their deck in an Uprising limited format.)*
 
 If you control 2 or more Draconic chain links, Phoenix Flame has +1{p}.
 
-**Go again**"		Draconic Action – Attack	Carlos Cruchaga																S – UPR101 – N	
+**Go again**"		Draconic Action – Attack	Carlos Cruchaga																S – UPR101 – N	https://storage.googleapis.com/fabmaster/media/images/UPR101.width-450.png – UPR101 – N
 UPR102	UPR	Iyslander, Stormbind					36	4	T	Elemental, Wizard, Hero	Essence of Ice				"**Essence of Ice** *(You may have Ice cards in your deck.)*
 
 If it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.
@@ -4046,6 +4064,9 @@ UPR149	UPR	Cold Snap	3	1		2			C	Ice, Action	Go again			Freeze	"Target hero may p
 If Cold Snap is played from arsenal, draw a card.
 
 **Go again**"		Ice Action	Mateusz Wisniewski																S – UPR149 – N	https://storage.googleapis.com/fabmaster/media/images/UPR149.width-450.png – UPR149 – N
+UPR155	UPR	Transmogrify	1	1		2			R	Illusionist, Action	Go again				"The next attack action card you play this turn is Illusionist, has 8 base {p}, and gains **phantasm**. *(It keeps its other card types.)*
+
+**Go again**"		Illusionist Action	Ramza Ardyputra				No												S – UPR155 – N	
 UPR160	UPR	Double Strike	1	0	1	2			M	Ninja, Action, Attack	Go again				"When Double Strike’s chain link resolves, banish it. You may play it this combat chain. If you do, it loses this ability.
 
 **Go again**"		Nina Action – Attack	Faizal Fikri				No												S – UPR160 – N	
@@ -4053,4 +4074,8 @@ UPR161	UPR	Take the Tempo	1	1	5	3			M	Ninja, Action, Attack					When Take the Te
 UPR182	UPR	Crown of Providence				2			L	Generic, Equipment, Head	Blade Break				"When you defend with Crown of Providence, you may put a card from your hand or arsenal on the bottom of your deck. If you do, draw a card.
 
 **Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Generic Equipment – Head	Andy Aslamov				No												R – UPR182 – N	
+UPR184	UPR	Quelling Robe				0			C	Generic, Equipment, Chest	Quell 1				**Quell 1** *(If your hero would be dealt damage, you may pay {r} to prevent 1 of that damage. If you do, destroy Quelling Robe at the beginning of the end phase.)*		Generic Equipment – Chest	Alexander Staronosov																S – UPR184 – N	
+UPR185	UPR	Quelling Sleeves				0			C	Generic, Equipment, Arms	Quell 1				**Quell 1** *(If your hero would be dealt damage, you may pay {r} to prevent 1 of that damage. If you do, destroy Quelling Sleeves at the beginning of the end phase.)*		Generic Equipment – Arms	Elena Perelygina																S – UPR185 – N	
+UPR186	UPR	Quelling Slippers				0			C	Generic, Equipment, Legs	Quell 1				**Quell 1** *(If your hero would be dealt damage, you may pay {r} to prevent 1 of that damage. If you do, destroy Quelling Slippers at the beginning of the end phase.)*		Generic Equipment – Legs	Pavel Chuvin																S – UPR186 – N	
+UPR221	UPR	Oasis Respite	1	1					C	Generic, Instant					Prevent the next 4 damage that would be dealt to target hero this turn by a source of your choice. If they have less life than each other hero, they may gain 1{h}.		Generic Instant	Mateusz Wisniewski																S – UPR221 – N	
 FAB091	FAB	Breaking Point	1	1	5	3			P	Draconic, Action, Attack	Rupture				**Rupture** - If Breaking Point is played as chain link 4 or higher, it has “When this hits a hero, destroy all cards in their arsenal.”		Draconic Action – Attack	Henrique Lindner				No												R – FAB091 – N – EA	
