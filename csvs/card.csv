@@ -3918,6 +3918,12 @@ UPR016	UPR	Invoke Vynserakai	1	3		3			R – UPR016 – N, V – UPR016 – N –
 
 **Transform** target ash you control into Vynserakai. **Go again** *(Put the ash under him.)*"	The dragon of aggression, said to prowl the Red Desert.	Draconic Illusionist Action – Invocation	Mateusz Wisniewski				No												S – UPR016 – N, C – UPR016 – N – EA	
 UPR016	UPR	Vynserakai			6		1		R – UPR016 – N, V – UPR016 – N – FA	Draconic, Illusionist, Dragon, Ally					Whenever Vynserakai hits a hero, he deals 3 arcane damage to them.		Draconic Illusionist – Dragon Ally	Mateusz Wisniewski				No												S – UPR016 – N, C – UPR016 – N – FA	
+UPR017	UPR	Invoke Yendurai	1	1		3			R – UPR017 – N, V – UPR017 – N – EA	Draconic, Illusionist, Action, Invocation	Transform, Go again				"*(Invocations resolve flipped as an ally in the arena.*)
+
+**Transform** target ash you control into Yendurai. **Go again** *(Put the ash under him.)*"	The dragon of endurance, said to be rooted deep within the Savage Lands.	Draconic Illusionist Action – Invocation	Othon Nikolaidis				No												S – UPR017 – N, C – UPR017 – N – EA	
+UPR017	UPR	Yendurai			3		3		R – UPR017 – N, V – UPR017 – N – FA	Draconic, Illusionist, Dragon, Ally					"Yendurai enters the arena with an endurance counter on him.
+
+If Yendurai would be dealt damage, remove an endurance counter from him to prevent 3 of that damage."		Draconic Illusionist – Dragon Ally	Othon Nikolaidis				No												S – UPR017 – N, C – UPR017 – N – FA	
 UPR018	UPR	Billowing Mirage	1	1	3	3			C	Draconic, Illusionist, Action, Attack	Transform, Go again				"When you attack with Billowing Mirage, **transform** up to 1 ash you control into an Aether Ashwing. *(Create an Aether Ashwing token and put the ash under it.)*
 
 **Go again**"		Draconic Illusionist Action – Attack	Hoàng Lập																S – UPR018 – N	https://storage.googleapis.com/fabmaster/media/images/UPR018.width-450.png – UPR018 – N
@@ -4071,11 +4077,48 @@ UPR160	UPR	Double Strike	1	0	1	2			M	Ninja, Action, Attack	Go again				"When Dou
 
 **Go again**"		Nina Action – Attack	Faizal Fikri				No												S – UPR160 – N	
 UPR161	UPR	Take the Tempo	1	1	5	3			M	Ninja, Action, Attack					When Take the Tempo hits, if you’ve hit 3 or more times this combat chain, banish the top card of your deck. If it’s an attack action card, you may play it until the end of your next turn.		Nina Action – Attack	Jessada Sutthi				No												S – UPR161 – N	
+UPR165	UPR	Waning Moon							T	Wizard, Weapon, Staff, 2H		Once per Turn Instant			**Once per Turn Instant** - {r}{r}: Deal 2 arcane damage to target hero. If it’s not your turn, instead deal 3 arcane damage to them. Activate this ability only if you’ve played a ‘non-attack’ action card this turn.		Wizard Weapon – Staff (2H)	Mark Poole																S – UPR165 – N	
+UPR166	UPR	Alluvion Constellas				0			L	Wizard, Equipment, Chest	Arcane Barrier 1	Instant			"The first time Alluvion Constellas prevents arcane damage each turn, if it has less than 4 energy counters, you may put an energy counter on it.
+
+**Instant** - Remove 2 energy counters from Alluvion Constellas: The next staff ability you activate this turn costs {r}{r}{r} less.
+
+**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)*"		Wizard Equipment – Chest	Carlos Cruchaga				No												R – UPR166 – N	
+UPR169	UPR	Rewind	3	1					M	Wizard, Instant	Negate				**Negate** target ‘non-attack’ action card and return it to its owner’s hand. Then that hero gains 1 action point. *(A hero can only gain action points during their action phase.)*		Wizard Instant	Riordan Delmiro				No												S – UPR169 – N	
+UPR179	UPR	Singe	1	1		3			C	Wizard, Action					Deal 1 arcane damage to target hero and up to 3 target allies they control.		Wizard Action	Marco González																S – UPR179 – N	
 UPR182	UPR	Crown of Providence				2			L	Generic, Equipment, Head	Blade Break				"When you defend with Crown of Providence, you may put a card from your hand or arsenal on the bottom of your deck. If you do, draw a card.
 
 **Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Generic Equipment – Head	Andy Aslamov				No												R – UPR182 – N	
+UPR183	UPR	Helio’s Mitre				0			T	Generic, Equipment, Head		Instant			"*(A player may add a Helio’s Mitre to their card pool in an Uprising limited format.)*
+
+**Instant** - {r}{r}: Prevent the next 1 damage that would be dealt to your hero this turn by a source of your choice. Destroy Helio’s Mitre at the beginning of the end phase."		Generic Equipment – Head	Angelina Tyshchik																S – UPR183 – N	
 UPR184	UPR	Quelling Robe				0			C	Generic, Equipment, Chest	Quell 1				**Quell 1** *(If your hero would be dealt damage, you may pay {r} to prevent 1 of that damage. If you do, destroy Quelling Robe at the beginning of the end phase.)*		Generic Equipment – Chest	Alexander Staronosov																S – UPR184 – N	
 UPR185	UPR	Quelling Sleeves				0			C	Generic, Equipment, Arms	Quell 1				**Quell 1** *(If your hero would be dealt damage, you may pay {r} to prevent 1 of that damage. If you do, destroy Quelling Sleeves at the beginning of the end phase.)*		Generic Equipment – Arms	Elena Perelygina																S – UPR185 – N	
 UPR186	UPR	Quelling Slippers				0			C	Generic, Equipment, Legs	Quell 1				**Quell 1** *(If your hero would be dealt damage, you may pay {r} to prevent 1 of that damage. If you do, destroy Quelling Slippers at the beginning of the end phase.)*		Generic Equipment – Legs	Pavel Chuvin																S – UPR186 – N	
+UPR189	UPR	That All You Got?	2	0		3			M	Generic, Defense Reaction					While this is defending an attack with 2 or less {p}, when the combat chain closes, draw a card.	“If only they were all as pathetic as you.” - Victor Goldmane	Generic Defense Reaction	Ramza Ardyputra				No												S – UPR189 – N	
 UPR221	UPR	Oasis Respite	1	1					C	Generic, Instant					Prevent the next 4 damage that would be dealt to target hero this turn by a source of your choice. If they have less life than each other hero, they may gain 1{h}.		Generic Instant	Mateusz Wisniewski																S – UPR221 – N	
+UPR225	UPR	Dragons of Legend							T	Invocation, Placeholder Card					"Dracona Optimai – 1 pitch, 6 cost, 3 block
+
+Tomeltai – 1 pitch, 5 cost, 3 block
+
+Dominia – 1 pitch, 4 cost, 3 block
+
+Azvolai – 1 pitch, 0 cost, 3 block
+
+Cromai – 1 pitch, 0 cost, 3 block
+
+Kyloria – 1 pitch, 1 cost, 3 block
+
+Miragai – 1 pitch, 1 cost, 3 block
+
+Nekria – 1 pitch, 3 cost, 3 block
+
+Ouvia – 1 pitch, 2 cost, 3 block
+
+Themai – 1 pitch, 2 cost, 3 block
+
+Vynserakai – 1 pitch, 3 cost, 3 block
+
+Yendurai – 1 pitch, 1 cost, 3 block
+
+You may put this in your deck in place of an invocation you own. Mark the box next to the dragon’s name this invokes. When this card is played or put into your graveyard, swap it for the invocation card."		Invocation Placeholder Card	MJ Fetesio																S – UPR225 – N	
 FAB091	FAB	Breaking Point	1	1	5	3			P	Draconic, Action, Attack	Rupture				**Rupture** - If Breaking Point is played as chain link 4 or higher, it has “When this hits a hero, destroy all cards in their arsenal.”		Draconic Action – Attack	Henrique Lindner				No												R – FAB091 – N – EA	
