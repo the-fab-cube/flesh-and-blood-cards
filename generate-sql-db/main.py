@@ -82,6 +82,8 @@ try:
     create_tables(conn)
     print()
     generate_table_data(conn, url_for_images)
+
+    conn.commit()
 except psycopg2.DatabaseError as error:
     print(error)
 finally:
