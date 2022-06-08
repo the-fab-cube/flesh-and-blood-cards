@@ -124,12 +124,13 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Fixed missing Card Keywords info for Nimblism - bugfix credit: manwaring
 
 06-04-22:
-- Update WTR cards with full resolution image links
-- Update ARC cards with full resolution image links
-- Update ARC with alternate text images (1st Edition Rainbow Foils have no reminder text and some new flavor text)
-- Fix an error in the functional text of Art of War
+- Updated WTR cards with full resolution image links
+- Updated ARC cards with full resolution image links
+- Updated ARC with alternate text images (1st Edition Rainbow Foils have no reminder text and some new flavor text)
+- Fixed an error in the functional text of Art of War
 
 IN-PROGRESS:
 - Added UPR card info
 - Added new Marvel rarity and new card types and keywords
 - Added new artists that debuted in Uprising
+- Fixed an issue in the functional text of Dream Weavers

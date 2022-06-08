@@ -271,6 +271,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * Off-Hand
 * Orb
 * Pistol
+* Placeholder Card
 * Ranger
 * Resource
 * Runeblade
