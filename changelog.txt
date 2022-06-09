@@ -130,7 +130,7 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Fixed an error in the functional text of Art of War
 
 IN-PROGRESS:
-- Added UPR card info
+- Added UPR card info (thanks to manwaring and various people from the Discord for fixing errors and tracking down card screenshots)
 - Added new Marvel rarity and new card types and keywords
 - Added new artists that debuted in Uprising
 - Fixed an issue in the functional text of Dream Weavers
