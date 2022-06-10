@@ -4093,6 +4093,9 @@ UPR082	UPR	Soaring Strike	2	1	3	2			C	Draconic, Ninja, Action, Attack	Go again		
 UPR083	UPR	Soaring Strike	3	1	2	2			C	Draconic, Ninja, Action, Attack	Go again			Go again	"When Soaring Strike hits, you may banish an attack action card from your hand with cost less than the number of Draconic chain links you control. If you do, it gains **go again** and you may play it this turn.
 
 **Go again**"		Draconic Ninja Action – Attack	Simon Wong																S – UPR083 – N	
+UPR084	UPR	Flamescale Furnace				2			L	Draconic, Equipment, Chest	Temper	Once per Turn Instant			"**Once per Turn Instant** - {r}: Gain {r} for each red card in your pitch zone. Activate this ability only if you’ve played a red card this turn.
+
+**Temper**"		Draconic Equipment – Chest	???				No												S – UPR084 – N	
 UPR085	UPR	Sash of Sandikai				0			C	Draconic, Equipment, Chest		Instant			**Instant** - Destroy Sash of Sandikai: Gain {r}. Activate this ability only if you’ve played a red card this turn.		Draconic Equipment – Chest	Lizhe Liang																S – UPR085 – N	
 UPR086	UPR	Thaw	1	2	6	2			M	Draconic, Action, Attack				Unfreeze	"While thaw is in your graveyard, at the start of your turn, you may banish it and choose 1:
 
@@ -4140,6 +4143,7 @@ Whenever you play an Ice card during an opponents turn, create a Frostbite token
 UPR104	UPR	Encase	1	0		3			M	Elemental, Wizard, Action	Ice Fusion			Freeze	"**Ice Fusion** *(As an additional cost to play Encase, you may reveal an Ice card from your hand.)*
 
 Deal 3 arcane damage to any target. If Encase was **fused** and deals damage to a hero, **freeze** that hero and all equipment they control until the start of your next turn. *(A frozen object can’t be played or activated.)*"		Elemental Wizard Action	Nikolay Moskvin				No												S – UPR104 – N	https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_03.width-450.png - UPR104 – N
+UPR105	UPR	Freezing Point	1	3		3			M	Elemental, Wizard, Action	Ice Fusion				Deal 5 arcane damage to a target hero. If Freezing Point was fused, instead deal X arcane damage, where X is 5 plus the number of Frostbites, Ice afflictions, and frozen cards they control.		Elemental Wizard Action	???				No												S – UPR105 – N	
 UPR106	UPR	Sigil of Permafrost	1	1		4			R	Elemental, Wizard, Defense Reaction	Ice Fusion				"**Ice Fusion** *(As an additional cost to play Sigil of Permafrost, you may reveal an Ice card from your hand.)*
 
 If Sigil of Permafrost was **fused**, the next time you deal arcane damage to a hero this turn, create that many Frostbite tokens under their control."		Elemental Wizard Defense Reaction	Hoàng Lập				No												S – UPR106 – N	
@@ -4216,6 +4220,9 @@ UPR132	UPR	Frosting	3	0		3			C	Ice, Wizard, Action					Deal 1 arcane damage to a
 UPR133	UPR	Ice Bolt	1	2		3			C	Ice, Wizard, Action					Deal 5 arcane damage to any target.		Ice Wizard Action	Sam Yang																S – UPR133 – N	
 UPR134	UPR	Ice Bolt	2	2		3			C	Ice, Wizard, Action					Deal 4 arcane damage to any target.		Ice Wizard Action	Sam Yang																S – UPR134 – N	
 UPR135	UPR	Ice Bolt	3	2		3			C	Ice, Wizard, Action					Deal 3 arcane damage to any target.		Ice Wizard Action	Sam Yang																S – UPR135 – N	https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_04.width-450.png – UPR135 – N
+UPR136	UPR	Coronet Peak				2			L	Ice, Equipment, Head	Blade Break	Action			"**Action** - {r}{r}{r}: Target hero discards a card unless they pay {r}.
+
+**Blade Break**"		Ice Equipment – Head	???				No												S – UPR136 – N	
 UPR137	UPR	Glacial Horns				0			C	Ice, Equipment, Head		Action	Freeze, Go again		**Action** - Destroy Glacial Horns: Choose a hero. **Freeze** up to 1 card in their arsenal and 1 ally they control until the start of your next turn. **Go again** *(A frozen object can’t be played or activated.)*		Ice Equipment – Head	Yulia Tarushko																S – UPR137 – N	
 UPR138	UPR	Channel the Bleak Expanse	3	1		2			M	Ice, Action, Aura	Go again, Channel Ice				"**Go again**
 
@@ -4227,6 +4234,9 @@ UPR139	UPR	Hypothermia	3	0		2			M	Ice, Action, Affliction, Aura					"*(An afflic
 Attacks you control can’t gain **go again**. *(This does not affect attacks that naturally have go again.)*
 
 At the beginning of your end phase, destroy Hypothermia."		Ice Action – Affliction Aura	Alexis Susani				No												S – UPR139 – N	https://storage.googleapis.com/fabmaster/media/images/UPR139.width-450.png - UPR139 – N
+UPR140	UPR	Insidious Chill	3	3		2			M	Ice, Action, Aura					"Insidious Chill enters the arena with 3 frost counters on it. When it has no frost counters on it, destroy it.
+
+Whenever you **Ice Fuse**, remove a frost counter from Insidious Chill. If you do, target hero discards a card unless they pay {r}{r}."		Ice Action – Aura	???				No												S – UPR140 – N	
 UPR141	UPR	Isenhowl Weathervane	1	1		2			R	Ice, Action					"The next time you **Ice fuse** this turn, create 4 Frostbite tokens under target hero’s control.
 
 **Go again**"		Ice Action	Lizhe Liang				No												S – UPR141 – N	
@@ -4263,6 +4273,7 @@ UPR152	UPR	Silent Stilettos				0			C	Illusionist, Equipment, Legs		Arcane Barrie
 UPR153	UPR	Frightmare	1	3	13				M	Illusionist, Action, Attack	Phantasm				"Play Frightmare only if an Illusionist attack action card you control has been destroyed by **phantasm** this turn.
 
 **Phantasm** *(When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this and close the combat chain.)*"		Illusionist Action – Attack	BWusagi				No												S – UPR153 – N	
+UPR154	UPR	Semblance	3	3					M	Illusionist, Instant					Negate all **phantasm** triggered effects of target Illusionist attack you control. The attack loses and can’t gain **phantasm**.		Illusionist Instant	???				No												S – UPR154 – N	
 UPR155	UPR	Transmogrify	1	1		2			R	Illusionist, Action	Go again				"The next attack action card you play this turn is Illusionist, has 8 base {p}, and gains **phantasm**. *(It keeps its other card types.)*
 
 **Go again**"		Illusionist Action	Ramza Ardyputra				No												S – UPR155 – N	
@@ -4272,6 +4283,9 @@ UPR156	UPR	Transmogrify	2	1		2			R	Illusionist, Action	Go again				"The next att
 UPR157	UPR	Transmogrify	3	1		2			R	Illusionist, Action	Go again				"The next attack action card you play this turn is Illusionist, has 6 base {p}, and gains **phantasm**. *(It keeps its other card types.)*
 
 **Go again**"		Illusionist Action	Ramza Ardyputra				No												S – UPR157 – N	
+UPR158	UPR	Tiger Stripe Shuko				2			L	Ninja, Equipment, Arms	Blade Break				"The second attack action card with 2 or less base {p} you play each turn has +1{p} and ""Damage that would be dealt by this can't be prevented.""
+
+**Blade Break**"		Ninja Equipment – Arms	???				No												S – UPR158 – N	
 UPR159	UPR	Tide Flippers				0			C	Ninja, Equipment, Legs	Arcane Barrier 1	Attack Reaction		Go again	"**Attack Reaction** - Destroy Tide Flippers: Target attack action card with 2 or less base {p} gains **go again**.
 
 **Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)*"		Ninja Equipment – Legs	Enmoire																S – UPR159 – N	
