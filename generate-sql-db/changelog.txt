@@ -16,3 +16,6 @@
 
 06-06-22:
 - Update to have the entire table update be wrapped in a transaction that can be rolled back
+
+06-24-22:
+- Update to allow image folders, instead of replacing image folders with base URL

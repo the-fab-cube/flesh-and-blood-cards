@@ -133,6 +133,7 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Update CC Living Legend status for 'Bravo, Star of the Show', 'Chane, Bound by Shadow', and Galaxxi Black
 - Update CC Suspended status for Seeds of Agony and Autumn's Touch
 - Update Commoner Banned status for Ball Lightning and Belittle
+- Update CRU cards with full resolution image links
 
 IN-PROGRESS:
 - Added UPR card info (thanks to manwaring and various people from the Discord for fixing errors and tracking down card screenshots)
