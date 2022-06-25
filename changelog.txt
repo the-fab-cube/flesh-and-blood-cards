@@ -128,3 +128,8 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Update ARC cards with full resolution image links
 - Update ARC with alternate text images (1st Edition Rainbow Foils have no reminder text and some new flavor text)
 - Fix an error in the functional text of Art of War
+
+06-24-22:
+- Update CC Living Legend status for 'Bravo, Star of the Show', 'Chane, Bound by Shadow', and Galaxxi Black
+- Update CC Suspended status for Seeds of Agony and Autumn's Touch
+- Update Commoner Banned status for Ball Lightning and Belittle
