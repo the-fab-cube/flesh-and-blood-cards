@@ -140,8 +140,8 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Fix wrong date in Blitz Suspended status for Crown of Seeds
 - Fix wrong date in Commoner Banned status for Ball Lightning and Belittle
 
-IN-PROGRESS:
-- Added UPR card info (thanks to manwaring and various people from the Discord for fixing errors and tracking down card screenshots)
+07-09-22:
+- Added UPR card, set, and keyword info (thanks to manwaring and various people from the Discord for fixing errors and tracking down card screenshots)
 - Added new Marvel rarity and new card types and keywords
 - Added new artists that debuted in Uprising
 - Fixed an issue in the functional text of Dream Weavers
