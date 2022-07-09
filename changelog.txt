@@ -146,3 +146,6 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Added new artists that debuted in Uprising
 - Fixed an issue in the functional text of Dream Weavers
 - Add product page and collector's center links for UPR, and card gallery links for RVD/DVR
+- Fix incorrect cost for Savage Feast - bugfix credit: manwaring
+- Update Blizzard and Vestige of Sol to match their errata'd functional text.
+- Update Herald of Erudition, Herald of Judgment, Herald of Protection, Herald of Rebirth, and Wartune Herald with missing flavor text.
