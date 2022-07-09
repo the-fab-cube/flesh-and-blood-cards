@@ -145,3 +145,4 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Added new Marvel rarity and new card types and keywords
 - Added new artists that debuted in Uprising
 - Fixed an issue in the functional text of Dream Weavers
+- Add product page and collector's center links for UPR, and card gallery links for RVD/DVR
