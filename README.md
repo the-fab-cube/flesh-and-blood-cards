@@ -180,6 +180,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * L - Legendary
 * F - Fabled
 * T - Token
+* V - Marvel
 * P - Promo
 
 
@@ -192,7 +193,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 
 
 ### Keyword (Name - Description)
-* *Arcane Barrier* - If you would be dealt arcane damage you may pay X{r} instead to prevent X arcane damage that source will deal.
+* *Arcane Barrier* - If your hero would be dealt arcane damage, you may pay X{r} to prevent X of that damage.
 * *Attack* - ?
 * *Battleworn* - Equipment that wear down after each time they are used to defend. If you defend with a card with *Battleworn*, put a -1{d} counter on it when the combat chain closes.
 * *Blade Break* - Equipment that are fragile and break after being used to defend. If you defend with a card with *Blade Break*, destroy it when the combat chain closes.
@@ -210,16 +211,21 @@ Note: Cards are organized by what main set they were initially released in, in o
 * *Heave X* - At the beginning of your end phase, if this is in your hand and you have an empty arsenal zone, you may pay X and put this face up into your arsenal. If you do, create X Seismic Surge tokens.
 * *Intimidate* - A Brute mechanic that showcases how frightening a brute is to its enemies. *Intimidate* removes a random card from a heroes hand making it more difficult to defend.
 * *Legendary* - You may only have 1 copy of this card in your deck.
+* *Material* - An Illusionist mechanic that applies effects if it is under another permanent.
 * *Negate* - *Negating* a card on a layer of the chain will prevent the card from resolving.
 * *Opt X* - *Opt* is a keyword that allows you to look at the top X cards and put any number of them on the top and/or bottom of your deck in any order.
 * *Phantasm* - *Phantasm* is a keyword that exists on Illusionist attacks. Illusionist attacks with *phantasm* are powerful but fragile. When an attack with *phantasm* is defended by a 6{p}+ non-Illusionist attack action card, the attack is destroyed and the combat chain closes.
+* *Quell X* - If your hero would be dealt damage, you may pay X{r} to prevent X of that damage. If you do, destroy this at the beginning of the end phase.
 * *Reload* - *Reload* is a Ranger mechanic that allows you to put a card from your hand face down into your arsenal when the card resolves.
 * *Reprise* - A Warrior mechanic that showcases the prowess a warrior has when they are engaged in close combat. *Reprise* effects “turn on” if the defending hero has defended with a card from their hand.
+* *Rupture* - A Draconic mechanic that applies certain effects if the card is played at chain link 4 or higher.
 * *Specialization* - You may only have this card in your deck if your hero is the specified hero.
 * *Spectra* - *Spectra* is a keyword that exists on Illusionist Aura cards. When a player is deciding who to target for an attack they may elect to target an Aura with the keyword *spectra*. When an Aura with *spectra* is attacked, destroy it and close the combat chain. The attack will not resolve and the combat chain closes.
 * *Spellvoid X* - *Spellvoid* is a keyword primarily on equipment or items. *Spellvoid* is a one time use effect that prevents arcane damage.
+* *Transform* - An Illusionist mechanic that puts specified objects under another card or creates a token and puts specified objects under it.
 * *Temper* - *Temper* is a keyword that exists on equipment. Usually high in defense, *Temper* equipment presents a choice when it is down to 1{d}, of whether to defend with it one last time and see it destroyed, or save it to use for its ability.
 * *Unfreeze* - Removes *Freeze* from an object.
+* *Ward X* - If your hero would be dealt damage, prevent X of that damage and destroy this.
 
 
 ### Type
@@ -228,6 +234,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * Ally
 * Arms
 * Arrow
+* Ash
 * Attack
 * Attack Reaction
 * Aura
@@ -242,6 +249,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * Defense Reaction
 * Demon
 * Draconic
+* Dragon
 * Earth
 * Elemental
 * Equipment
@@ -256,6 +264,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * Hero
 * Illusionist
 * Instant
+* Invocation
 * Item
 * Landmark
 * Legs
@@ -268,6 +277,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * Off-Hand
 * Orb
 * Pistol
+* Placeholder Card
 * Ranger
 * Resource
 * Runeblade
@@ -299,3 +309,8 @@ Note: Cards are organized by what main set they were initially released in, in o
 * F - First
 * U - Unlimited
 * N - No specified edition (used for promos, non-set releases, etc.)
+
+### Alternate Art Variations (Shorthand - Name)
+* AA - Alternate Art
+* EA - Extended Art
+* FA - Full Art

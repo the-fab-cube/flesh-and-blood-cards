@@ -124,10 +124,10 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Fixed missing Card Keywords info for Nimblism - bugfix credit: manwaring
 
 06-04-22:
-- Update WTR cards with full resolution image links
-- Update ARC cards with full resolution image links
-- Update ARC with alternate text images (1st Edition Rainbow Foils have no reminder text and some new flavor text)
-- Fix an error in the functional text of Art of War
+- Updated WTR cards with full resolution image links
+- Updated ARC cards with full resolution image links
+- Updated ARC with alternate text images (1st Edition Rainbow Foils have no reminder text and some new flavor text)
+- Fixed an error in the functional text of Art of War
 
 06-24-22:
 - Update CC Living Legend status for 'Bravo, Star of the Show', 'Chane, Bound by Shadow', and Galaxxi Black
@@ -139,3 +139,10 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 06-28-22:
 - Fix wrong date in Blitz Suspended status for Crown of Seeds
 - Fix wrong date in Commoner Banned status for Ball Lightning and Belittle
+
+07-09-22:
+- Added UPR card, set, and keyword info (thanks to manwaring and various people from the Discord for fixing errors and tracking down card screenshots)
+- Added new Marvel rarity and new card types and keywords
+- Added new artists that debuted in Uprising
+- Fixed an issue in the functional text of Dream Weavers
+- Add product page and collector's center links for UPR, and card gallery links for RVD/DVR
