@@ -52,35 +52,42 @@ if port is None:
 print("Using", database_name, "for database name\n")
 
 #establishing the connection to postgres
-conn = psycopg2.connect(
-    database=database_name, user=user, password=password, host=host, port=port
-)
-conn.autocommit = True
+conn = None
+try:
+    conn = psycopg2.connect(
+        database=database_name, user=user, password=password, host=host, port=port
+    )
+    conn.autocommit = False
 
-#Creating a cursor object using the cursor() method
-cursor = conn.cursor()
+    #Creating a cursor object using the cursor() method
+    cursor = conn.cursor()
 
-### Get current database names
-cursor.execute("SELECT datname FROM pg_database;")
+    ### Get current database names
+    cursor.execute("SELECT datname FROM pg_database;")
 
-list_database = cursor.fetchall()
+    list_database = cursor.fetchall()
 
-### Create database if it doesn't exist already
-if (database_name,) not in list_database:
-    print("'{}' database does not exist, creating it.".format(database_name))
-    cursor.execute('''CREATE database fabcards''')
-    print("'{}' database created successfully...........".format(database_name))
+    ### Create database if it doesn't exist already
+    if (database_name,) not in list_database:
+        print("'{}' database does not exist, creating it.".format(database_name))
+        cursor.execute('''CREATE database fabcards''')
+        print("'{}' database created successfully...........".format(database_name))
 
-### Add collations
-cursor.execute("CREATE COLLATION IF NOT EXISTS numeric (provider = icu, locale = 'en@colNumeric=yes');")
+    ### Add collations
+    cursor.execute("CREATE COLLATION IF NOT EXISTS numeric (provider = icu, locale = 'en@colNumeric=yes');")
 
-### Drop existing tables, recreate them, and then fill them with data
-drop_tables(conn)
-print()
-create_tables(conn)
-print()
-generate_table_data(conn, url_for_images)
+    ### Drop existing tables, recreate them, and then fill them with data
+    drop_tables(conn)
+    print()
+    create_tables(conn)
+    print()
+    generate_table_data(conn, url_for_images)
 
-conn.close()
+    conn.commit()
+except psycopg2.DatabaseError as error:
+    print(error)
+finally:
+    if conn is not None:
+        conn.close()
 
 print('Done creating tables from CSVs!')
