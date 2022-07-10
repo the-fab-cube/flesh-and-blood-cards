@@ -2990,7 +2990,7 @@ BRI025, ELE142	BRI, ELE	Sow Tomorrow	3	1		2			C, C	Earth, Action	Go again				"Pu
 If Sow Tomorrow is played from arsenal, draw a card.
 
 **Go again**"		Earth Action	Carlos Cruchaga																S – BRI025 – N, S R – ELE142 – F, S R – ELE142 – U	https://storage.googleapis.com/fabmaster/media/images/BRI025.width-450.png – BRI025 – N, https://storage.googleapis.com/fabmaster/media/images/ELE142.width-450.png – ELE142 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE142.width-450.png – ELE142 – U			
-LGS063, BRI026, ELE143	LGS, BRI, ELE	Amulet of Earth		0					P, C, C	Earth, Action, Item	Go again	Instant			"**Go again**
+LGS063, BRI026, ELE143	LGS, BRI, ELE	Amulet of Earth	3	0					P, C, C	Earth, Action, Item	Go again	Instant			"**Go again**
 
 **Instant** - Destroy Amulet of Earth: Attack action cards you control gain +1{p} and +1{d} this turn. Activate this ability only if you have Earth **fused** this turn."		Earth Action – Item	Mateusz Wisniewski																C – LGS063 – N, S – BRI026 – N, S R – ELE143 – F, S R – ELE143 – U	https://storage.googleapis.com/fabmaster/media/images/LGS063.width-450.png – LGS063 – N, https://storage.googleapis.com/fabmaster/media/images/BRI026.width-450.png – BRI026 – N, https://storage.googleapis.com/fabmaster/media/images/ELE143.width-450.png – ELE143 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE143.width-450.png – ELE143 – U			
 FAB053, ELE144	FAB, ELE	Heart of Ice				1			P, L	Ice, Equipment, Chest	Arcane Barrier 1, Blade Break	Once per Turn Action	Go again		"**Once per Turn Action** - {r}: Cards and activated abilities cost opposing heroes additional {r} this turn. **Go again**
