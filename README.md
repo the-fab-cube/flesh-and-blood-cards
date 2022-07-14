@@ -230,6 +230,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 
 ### Type
 * Action
+* Adjudicator
 * Affliction
 * Ally
 * Arms
@@ -270,6 +271,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 * Legs
 * Light
 * Lightning
+* Lute
 * Mechanologist
 * Mentor
 * Merchant

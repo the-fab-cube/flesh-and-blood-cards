@@ -153,3 +153,10 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 07-10-22:
 - Added card data for FAB032-FAB034, added missing images for FAB038-FAB040, and fixed an issue with the image data of LGS042
 - Fixed missing pitch info for Amulet of Earth - bugfix credit: manwaring
+
+07-11-22:
+- Added card data for FAB081-FAB094 (still missing images)
+- Added card data for JDG001-JDG002 (still missing images)
+- Added card data for LGS100-LGS106 (still missing images)
+- Added card data for WIN001-WIN019 (still missing images)
+- Fixed wrong functional text for Ironsong Determination - bugfix credit: Anonymous
