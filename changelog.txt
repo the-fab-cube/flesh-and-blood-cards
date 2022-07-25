@@ -159,4 +159,7 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Added card data for JDG001-JDG002 (still missing images)
 - Added card data for LGS100-LGS106 (still missing images)
 - Added card data for WIN001-WIN019 (still missing images)
-- Fixed wrong functional text for Ironsong Determination - bugfix credit: Anonymous
+- Fixed wrong functional text for Ironsong Determination - bugfix credit: PvtVoid
+
+07-25-22:
+- Fixed missing power info for Talishar, the Lost Prince - bugfix credit: manwaring
