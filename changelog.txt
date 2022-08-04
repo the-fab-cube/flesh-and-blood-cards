@@ -163,3 +163,6 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 
 07-25-22:
 - Fixed missing power info for Talishar, the Lost Prince - bugfix credit: manwaring
+
+08-04-22:
+- Updated CC Banned status for Stubby Hammerers
