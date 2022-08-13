@@ -170,3 +170,4 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 08-13-22:
 - Added card data for HER058-HER064 (still missing images)
 - Fixed incorrect power values for Autumn's Touch
+- Fixed Micro-processor spelling - bugfix credit: manwaring
