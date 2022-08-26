@@ -171,3 +171,8 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Added card data for HER058-HER064 (still missing images)
 - Fixed incorrect power values for Autumn's Touch
 - Fixed Micro-processor spelling - bugfix credit: manwaring
+
+08-26-22:
+- Fixed Dromai incorrectly being marked as not legal in Blitz - bugfix credit: manwaring
+- Updated Hummingbird, Adventurer's Call's functional text
+- Added Royal as a type
