@@ -176,3 +176,8 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Fixed Dromai incorrectly being marked as not legal in Blitz - bugfix credit: manwaring
 - Updated Hummingbird, Adventurer's Call's functional text
 - Added Royal as a type
+
+08-29-22:
+- Updated CC Living status for 'Prism, Sculptor of Arc Light' and Luminaris
+- Updated Blitz Suspended and Banned status for Stir the Aetherwinds and Snapback
+- Updated Blitz Suspended status for Crown of Seeds and Sonata Arcanix
