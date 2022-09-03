@@ -3,3 +3,5 @@ generate-db-*
 .vscode 
 .~lock.card.csv#
 .DS_Store
+cards.ods
+cards.csv
