@@ -4426,3 +4426,11 @@ Vynserakai – 1 pitch, 3 cost, 3 block
 Yendurai – 1 pitch, 1 cost, 3 block
 
 You may put this in your deck in place of an invocation you own. Mark the box next to the dragon’s name this invokes. When this card is played or put into your graveyard, swap it for the invocation card."		Invocation Placeholder Card	MJ Fetesio																S – UPR225 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR225.png – UPR225 – N			
+DYN001	DYN	Emperor, Dracai of Aesir					15	4	L	Royal, Draconic, Warrior, Wizard, Hero, Young		Action	Attack		"You may only have red cards in your deck.
+
+**Action** - {r}{r}{r}: Search your deck for Command and Conquer, **attack** with it, then shuffle."		Royal Draconic Warrior Wizard Hero – Young	Federico Musetti				No												S – DYN001 - N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN001.png – DYN001 – N			
+DYN234	DYN	Crown of Dominion							L – DYN234 – N, V – DYN234 – N – FA	Generic, Equipment, Head					Your hero is Royal. When you equip Crown of Dominion, create a Gold token.	“I will watch over this Dynasty till my very last breath. Its power, riches, and enemies, I take as my own.” - Emperor, Dracai of Aesir	Generic Equipment – Head	Andy Aslamov				No												S – DYN234 – N, S – DYN234 – N – FA	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN234_Marvel.png – DYN234 – N – FA			
+DYN242	DYN	Imperial Warhorn	1	2					M	Generic, Action, Item	Legendary	Action			"**Legendary** *(You may only have 1 Imperial Warhorn in your deck.)*
+
+**Action** - {r}, destroy Imperial Warhorn: Choose any number of heroes. Each of them chooses an ally, aura, item, or landmark permanent they control. Destroy each permanent chosen this way. If you are Royal, instead you choose the permanents."		Generic Action – Item	Othon Nikolaidis				No												S – DYN242 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN242.png – DYN242 – N			
+DYN243	DYN	Gold							C	Generic, Token, Item		Action	Go again		**Action** - {r}{r}, destroy Gold: Draw a card. **Go again**		Generic Token – Item	Nikolay Moskvin																S – DYN243 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN243.png – DYN243 – N			

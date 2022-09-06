@@ -181,3 +181,6 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Updated CC Living status for 'Prism, Sculptor of Arc Light' and Luminaris
 - Updated Blitz Suspended and Banned status for Stir the Aetherwinds and Snapback
 - Updated Blitz Suspended status for Crown of Seeds and Sonata Arcanix
+
+09-02-22:
+- Added card data for DYN001, DYN234, DYN242, and DYN243
