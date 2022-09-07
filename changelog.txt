@@ -182,5 +182,13 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Updated Blitz Suspended and Banned status for Stir the Aetherwinds and Snapback
 - Updated Blitz Suspended status for Crown of Seeds and Sonata Arcanix
 
-09-02-22:
+09-06-22:
+- Fixed wrong spelling for Unworldly Bellow and Shadow of Blasmophet - bugfix credit: manwaring
+- Updated Briar and 'Briar, Warden of Thorns' images to use the errata'd image - bugfix credit: manwaring
+- Fixed Springboard Somersault and Iyslander incorrectly being marked as not legal in Commoner - bugfix credit: manwaring
+- Fixed wrong cost for Embermaw Cenipai - bugfix credit: manwaring
+- Fixed wrong spelling for Pedal to the Metal - bugfix credit: R2Deakin
+- Added card data for LSS005 (still missing images)
+
+IN PROGRESS:
 - Added card data for DYN001, DYN234, DYN242, and DYN243
