@@ -188,3 +188,4 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Fixed Springboard Somersault and Iyslander incorrectly being marked as not legal in Commoner - bugfix credit: manwaring
 - Fixed wrong cost for Embermaw Cenipai - bugfix credit: manwaring
 - Fixed wrong spelling for Pedal to the Metal - bugfix credit: R2Deakin
+- Added card data for LSS005 (still missing images)
