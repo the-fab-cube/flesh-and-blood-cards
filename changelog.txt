@@ -189,3 +189,9 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Fixed wrong cost for Embermaw Cenipai - bugfix credit: manwaring
 - Fixed wrong spelling for Pedal to the Metal - bugfix credit: R2Deakin
 - Added card data for LSS005 (still missing images)
+
+09-08-22:
+- Fixed incorrect Commoner legality for Bounding Demigon and Lunging Press
+- Fixed incorrect Commoner, Blitz, and CC legality for `Hummingbird, Adventurer's Call`
+- Updated functional text for Frostbite
+- Updated functional text for Fractal Replication
