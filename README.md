@@ -28,11 +28,8 @@ I have LibreOffice files in the repo for easy editing in open-office. It is okay
 but they are there for convenience. To use them, just open the .ods file and edit, and then when done, export the file as a .csv to the csvs folder with Save As, making sure to
 choose Tabs as the delimiter and " as the string indicator.
 
-## Current Status on CSV Representation of Non-English Cards
-The release of History Pack 1 in languages other than English is incredibly exciting! However, I'm currently evaluating how I want to approach maintaining the data for these releases. Do I maintain separate CSVs with just the translated name, types, functional text, and flavor text for each language? Do I add new columns in the existing CSV? Do I just keep this repo focused on English-only oracle text?
-
-I want to make this resource as helpful as possible for as many players and develoeprs, which to me likely entails making sure it supports all languages the game itself does, but I have to admit, the prospect of re-entering History Pack 1 in multiple langauges is daunting. I probably won't land on a solution as fast as I do for other product releases since I have a lot on my plate between maintaining this repo + working on The Fab Cube, but I wanted to include this note to let people know it's on my mind!
-
+## Current Status on CSV Representation of Translated Cards
+If you are interested in helping transcribe the History Pack 1 Black Label cards, please comment [here](https://github.com/the-fab-cube/flesh-and-blood-cards/issues/118) to register your interest and I'll get in touch with you when efforts are ready to begin!
 
 
 ## Generate HTML Viewable CSVs
