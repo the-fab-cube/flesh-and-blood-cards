@@ -8,7 +8,7 @@ The CSVs are tab delimited and use " as string indicators.
 Please feel free to clone or fork the repo and generally use it for whatever projects you like. I put this together so the community doesn't have to
 keep re-entering the same data! I would absolutely appreciate any contributions if you notice any missing data or mistakes. :)
 
-You can view the current CSVs through the web [here](https://flesh-cube.github.io/flesh-and-blood-cards/).
+You can view the current CSVs through the web [here](https://the-fab-cube.github.io/flesh-and-blood-cards/).
 
 
 ## Approach to reprints/editions
