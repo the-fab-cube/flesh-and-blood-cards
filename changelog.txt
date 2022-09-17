@@ -195,3 +195,7 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Fixed incorrect Commoner, Blitz, and CC legality for `Hummingbird, Adventurer's Call`
 - Updated functional text for Frostbite
 - Updated functional text for Fractal Replication
+
+09-17-22:
+- Updated functional text for Spectral Shield based on CR 2.2.1 section 8.6.8
+- Fixed incorrect functional text for Captain's Call - bugfix credit: PvtVoid
