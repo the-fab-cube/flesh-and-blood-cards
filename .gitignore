@@ -2,7 +2,9 @@ download-all-images/images/*
 generate-db-*
 .vscode
 .~lock.card.csv#
+.~lock.card.ods#
 .~lock.cards.csv#
+.~lock.cards.ods#
 .DS_Store
 cards.ods
 cards.csv
