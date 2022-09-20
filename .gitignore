@@ -1,8 +1,13 @@
 download-all-images/images/*
-generate-db-*
+generate-db-*.sh
+download-all-images.sh
+generate-unique-ids.sh
 .vscode
 .~lock.card.csv#
+.~lock.card.ods#
 .~lock.cards.csv#
+.~lock.cards.ods#
 .DS_Store
 cards.ods
 cards.csv
+node_modules
