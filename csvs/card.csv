@@ -4281,7 +4281,7 @@ If Cold Snap is played from arsenal, draw a card.
 FAB085, UPR151	FAB, UPR	Ghostly Touch				0			P, L	Illusionist, Equipment, Arms		Once per Turn Action	Go again		"Whenever an Illusionist attack you control is destroyed by **phantasm**, put a haunt counter on Ghostly Touch.
 
 **Once per Turn Action** - Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with **phantasm**, base {p} and {h} equal to the number of haunt counters on it, and “**Once per Turn Action** - {r}{r}{r}: **Attack**”. **Go again**"		Illusionist Equipment – Arms	Daria Khlebnikova				No												G – FAB085 – N, R C – UPR151 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR151.png – UPR151 – N			
-UPR152	UPR	Silent Stilettos				0			C	Illusionist, Equipment, Legs		Arcane Barrier 1			"Whenever an attacking ally you control dies or an attack action card you control is destroyed by **phantasm**, you may pay {r}{r}{r}. If you do, destroy Silent Stilettos and gain 1 action point.
+UPR152	UPR	Silent Stilettos				0			C	Illusionist, Equipment, Legs	Arcane Barrier 1				"Whenever an attacking ally you control dies or an attack action card you control is destroyed by **phantasm**, you may pay {r}{r}{r}. If you do, destroy Silent Stilettos and gain 1 action point.
 
 **Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)*"		Illusionist Equipment – Legs	Andrey Savchuk																S R C – UPR152 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR152.png – UPR152 – N			
 UPR153	UPR	Frightmare	1	3	13				M	Illusionist, Action, Attack	Phantasm				"Play Frightmare only if an Illusionist attack action card you control has been destroyed by **phantasm** this turn.
