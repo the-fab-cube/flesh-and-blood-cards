@@ -204,6 +204,12 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Added card data for Blessing of Aether and 'Yoji, Royal Protector` - data entry credit: manwaring
 - Fixed Romping Club functional text - bugfix credit: manwaring
 - Fixed incorrect Commoner legality for T-Bone blue - bugfix credit: manwaring
+- Updated set.csv with new card id ranges
+- Fixed wrong set id for Blessing of Aether
+
+09-22-22:
+- Fixed issue with Silent Stilettos having its keyword data in the wrong column - bugfix credit: manwaring
+- Added X to Arcane Barrier in keyword CSV to maintain consistency with other keywords - bugfix credit: FrostyHitoshura
 
 IN PROGRESS:
 - Added card data for DYN001, DYN234, DYN242, and DYN243
