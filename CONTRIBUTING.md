@@ -7,10 +7,14 @@ so I or someone else can fix it!
 
 ### Getting Started
 1. Find an Issue you'd like to work on.
-2. Check the comments to make sure no one has mentioned they are working on it.
-3. If no one is working on it, please leave a comment mentioning you are working on it so others don't duplicate your work.
-5. When you are done with your work, create a PR to this repo's develop branch and tag the issue you were working on. I'll review it and if it's good to go, approve it!
+2. Check to make sure no one is assigned to the Issue.
+3. If no one is working on it, please leave a comment mentioning you would like to work on it and I will assign you to the Issue.
+4. When you are done with your work, create a PR to this repo's develop branch and tag the issue you were working on. I'll review it and if it's good to go, approve it!
+
+### Data Requirements
+- All image links must be from LSS' site.
+- Functional text must be the latest oracle text.
 
 Thanks again for helping out!
 
-- Tyler
+-- Tyler
