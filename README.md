@@ -206,5 +206,6 @@ Note: Cards are organized by what main set they were initially released in, in o
 ### Alternate Art Variations (Shorthand - Name)
 * AA - Alternate Art
 * AT - Alternate Text
+* DS - Double Sided
 * EA - Extended Art
 * FA - Full Art

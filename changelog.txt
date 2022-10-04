@@ -178,7 +178,7 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Added Royal as a type
 
 08-29-22:
-- Updated CC Living status for 'Prism, Sculptor of Arc Light' and Luminaris
+- Updated CC Living Legend status for 'Prism, Sculptor of Arc Light' and Luminaris
 - Updated Blitz Suspended and Banned status for Stir the Aetherwinds and Snapback
 - Updated Blitz Suspended status for Crown of Seeds and Sonata Arcanix
 
@@ -210,3 +210,16 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 09-22-22:
 - Fixed issue with Silent Stilettos having its keyword data in the wrong column - bugfix credit: manwaring
 - Added X to Arcane Barrier in keyword CSV to maintain consistency with other keywords - bugfix credit: FrostyHitoshura
+
+10-01-22:
+- Added Mentor keyword to keyword.csv - data entry credit: FrostyHitoshura
+- Fixed an error in the rarity field for Spell Fray Gloves and Zen State - bugfix credit: FrostyHitoshura
+- Fixed mispelled artist names for Optekal Monocle, Valiant Thrust, Carrion Husk, Frostbite, Drowning Dire, Dromai, and Storm of Sandikai - bugfix credit: FrostyHitoshura
+- Fixed an error in the granted keywords field for Luminaris - bugfix credit: FrostyHitoshura
+
+10-03-22:
+- Updated CC Banned status for Pulse of Isenloft
+- Updated Blitz Banned status for Bloodsheath Skeleta and Mask of the Pouncing Lynx
+- Updated Blitz Suspended status for Storm Striders and Sonata Arcanix
+- Updated CC Legal status for all existing young heroes
+- Added a new UPF Legal column in order to mark `Yorick, Weaver of Tales` as not legal
