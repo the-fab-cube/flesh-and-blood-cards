@@ -223,3 +223,7 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 - Updated Blitz Suspended status for Storm Striders and Sonata Arcanix
 - Updated CC Legal status for all existing young heroes
 - Added a new UPF Legal column in order to mark `Yorick, Weaver of Tales` as not legal
+- Added errata and new card images for Runechant, Quicken, Zephyr Needle, Phantasmal Footsteps, Blossoming Spellblade, Cognition Nodes, Evergreen, Over Loop,
+Salvage Shot, Timekeeper's Whim, Warmonger's Recital, Fractal Replication, Forked Lightning, Gambler's Gloves, Metacarpus Node, Mordred Tide, The Librarian,
+Lady Barthimont, Lord Sutcliffe, and Minerva Themis.
+- Removed Mentor as a keyword, as with the new errata there are no cards that have it as a keyword anymore.
