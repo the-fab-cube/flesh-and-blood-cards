@@ -1553,7 +1553,7 @@ If Arc Light Sentinel is in the arena when an opponent announces an attack, they
 **Spectra** *(Arc Light Sentinel can be attacked. When Arc Light Sentinel becomes the target of an attack, destroy it and close the combat chain. The attack does not resolve.)*
 
 "		Light Illusionist Instant – Aura	Sam Yang				No													S R – MON005 – F, S R – MON005 – U	https://storage.googleapis.com/fabmaster/media/images/MON005.width-450.png - MON005 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON005.width-450.png - MON005 – U			
-MON006	MON	Genesis	2	4					R	Light, Illusionist, Instant, Aura	Spectra				"At the start of your turn, you may put a card from your hand into your hero's soul. If it's an Illusionist card, create a Spectral Shield token. If it's a Light card, draw a card.
+MON006	MON	Genesis	2	4					M	Light, Illusionist, Instant, Aura	Spectra				"At the start of your turn, you may put a card from your hand into your hero's soul. If it's an Illusionist card, create a Spectral Shield token. If it's a Light card, draw a card.
 
 **Spectra** *(Genesis can be attacked. When Genesis becomes the target of an attack, destroy it and close the combat chain. The attack does not resolve.)*"		Light Illusionist Instant – Aura	Alexander Gering				No													S R – MON006 – F, S R – MON006 – U	https://storage.googleapis.com/fabmaster/media/images/MON006.width-450.png - MON006 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON006.width-450.png - MON006 – U			
 FAB028, PSM008, MON007	FAB, PSM, MON	Herald of Judgment	2	2	6	3			P, R, R	Light, Illusionist, Action, Attack	Prism Specialization, Phantasm				"**Prism Specialization** *(You may only have Herald of Judgment in your deck if your hero is Prism.)*
@@ -3475,7 +3475,7 @@ EVR071	EVR	Signal Jammer	3	0					M	Mechanologist, Action, Item					"Signal Jamme
 At the beginning of your action phase, destroy Signal Jammer unless you remove a steam counter from it.
 
 Each hero can't play more than 1 'non-attack' action card each turn."		Mechanologist Action – Item	Isuardi Therianto				No													S R – EVR071 – F	https://storage.googleapis.com/fabmaster/media/images/EVR071.width-450.png - EVR071 - F			
-EVR072	EVR	Teklo Pounder	3	2					R	Mechanologist, Action, Item		Once per Turn Effect			"Teklo Pounder enters the arena with 3 steam counters on it. When Teklo Pounder has no steam counters on it, destroy it.
+EVR072	EVR	Teklo Pounder	3	2					M	Mechanologist, Action, Item		Once per Turn Effect			"Teklo Pounder enters the arena with 3 steam counters on it. When Teklo Pounder has no steam counters on it, destroy it.
 
 **Once per Turn Effect** - Whenever you boost an attack action card, remove a steam counter from Teklo Pounder. If you do, the attack gains +2{p}."		Mechanologist Action – Item	Athiwut B.				No													S R – EVR072 – F	https://storage.googleapis.com/fabmaster/media/images/EVR072.width-450.png - EVR072 - F			
 EVR073	EVR	T-Bone	1	0	3	3			R	Mechanologist, Action, Attack	Boost				"If you control a card on the combat chain that was boosted, the defending hero must defend T-Bone with an equipment they control if able.
