@@ -227,3 +227,9 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 Salvage Shot, Timekeeper's Whim, Warmonger's Recital, Fractal Replication, Forked Lightning, Gambler's Gloves, Metacarpus Node, Mordred Tide, The Librarian,
 Lady Barthimont, Lord Sutcliffe, and Minerva Themis.
 - Removed Mentor as a keyword, as with the new errata there are no cards that have it as a keyword anymore.
+
+10-05-22:
+- Fixed incorrect rarity for Teklo Pounder and Genesis - bugfix credit: manwaring
+
+10-06-22:
+- Fixed a bug in download-all-images introduced by the UPF column addition - bugfix credit: manwaring
