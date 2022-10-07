@@ -1,21 +1,25 @@
 04-02-22:
-- Add numeric collation on relevent fields in the card table
+- Added numeric collation on relevent fields in the card table
 
 04-18-22:
-- Update card table to include plaintext columns of functional_text and flavor_text to facilitate text searching
+- Updated card table to include plaintext columns of functional_text and flavor_text to facilitate text searching
 
 04-27-22:
-- Update set table to include collectors_center and card_galleries columns, rename product_sites to product_pages, and reorder columns
-- Ensure that nulls are converted to infinity values on timestamp values in the set table because some parsers (ex: C#'s Npgsql) break on null values in timestamp arrays
+- Updated set table to include collectors_center and card_galleries columns, rename product_sites to product_pages, and reorder columns
+- Ensured that nulls are converted to infinity values on timestamp values in the set table because some parsers (ex: C#'s Npgsql) break on null values in timestamp arrays
 
 04-28-22:
-- Update set table to use all the new card legality columns
+- Updated set table to use all the new card legality columns
 
 05-15-22:
-- Update to handle some more image urls
+- Updated to handle some more image urls
 
 06-06-22:
-- Update to have the entire table update be wrapped in a transaction that can be rolled back
+- Updated to have the entire table update be wrapped in a transaction that can be rolled back
 
 06-24-22:
-- Update to allow image folders, instead of replacing image folders with base URL
+- Updated to allow image folders, instead of replacing image folders with base URL
+
+08-03-22:
+- Updated to add new UPF Banned column
+- Cleaned up some code to make it easier to add new columns in the future
