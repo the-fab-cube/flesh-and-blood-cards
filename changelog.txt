@@ -238,4 +238,4 @@ Lady Barthimont, Lord Sutcliffe, and Minerva Themis.
 - Fixed a bug in the functional text of Ray of Hope - bugfix credit: DiglDixon
 
 IN PROGRESS:
-- Added card data for DYN001, DYN068, DYN234, DYN242, and DYN243
+- Added card data for DYN001, DYN068, DYN088, DYN094, DYN234, DYN242, and DYN243

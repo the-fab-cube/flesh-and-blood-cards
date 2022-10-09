@@ -4432,9 +4432,15 @@ You may put this in your deck in place of an invocation you own. Mark the box ne
 DYN001	DYN	Emperor, Dracai of Aesir					15	4	L	Royal, Draconic, Warrior, Wizard, Hero, Young		Action	Attack		"You may only have red cards in your deck.
 
 **Action** - {r}{r}{r}: Search your deck for Command and Conquer, **attack** with it, then shuffle."		Royal Draconic Warrior Wizard Hero – Young	Federico Musetti				No													S – DYN001 - N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN001.png – DYN001 – N			
-DYN068	DYN	Merciless Battleaxe			3				M – DYN068 – N, V – DYN068 – N – FA	Warrior, Weapon, Axe, 2H	Overpower	Once per Turn Action	Attack		"**Once per Turn Action** - {r}{r}{r}: **Atttack**
+DYN068	DYN	Merciless Battleaxe			3				M – DYN068 – N, V – DYN068 – N – AB	Warrior, Weapon, Axe, 2H	Overpower	Once per Turn Action	Attack		"**Once per Turn Action** - {r}{r}{r}: **Atttack**
 
-Whenever Merciless Battleaxe attacks, if its {p} is greater than twice its base {p}, the attack gains **overpower**. *(This can’t be defended by more than 1 action card.)*"		Warrior Weapon – Axe (2H)	Carlos Cruchaga				No													S – DYN068 – N, S – DYN068 – N – FA				
+Whenever Merciless Battleaxe attacks, if its {p} is greater than twice its base {p}, the attack gains **overpower**. *(This can’t be defended by more than 1 action card.)*"		Warrior Weapon – Axe (2H)	Carlos Cruchaga				No													S – DYN068 – N, S – DYN068 – N – AB				
+DYN088	DYN	Hanabi Blaster			5				M – DYN088 – N, V – DYN088 – N – AB	Mechanologist, Weapon, Gun, 2H	Overpower	Once per Turn Action	Attack		"**Once per Turn Action** - Remove 2 steam counters from Hanabi Blaster: **Atttack**
+
+**Overpower** *(This can’t be defended by more than 1 action card.)*
+
+The third time you play a card with **boost** each turn, put a steam counter on Hanabi Blaster."		Mechanologist Weapon – Gun 2H	Joseph Qiu				No													S – DYN088 – N, S – DYN088 – N – AB				
+DYN094	DYN	Powder Keg	3	0					M	Mechanologist, Action, Item					Whenever a Mechanologist gun you control hits, you may destroy Powder Keg and a defending equipment.		Mechanologist Action – Item	Victoria Belyaeva				No													S – DYN094 – N				
 DYN234	DYN	Crown of Dominion							L – DYN234 – N, V – DYN234 – N – FA	Generic, Equipment, Head					Your hero is Royal. When you equip Crown of Dominion, create a Gold token.	“I will watch over this Dynasty till my very last breath. Its power, riches, and enemies, I take as my own.” - Emperor, Dracai of Aesir	Generic Equipment – Head	Andy Aslamov				No													S – DYN234 – N, S – DYN234 – N – FA	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN234_Marvel.png – DYN234 – N – FA			
 DYN242	DYN	Imperial Warhorn	1	2					M	Generic, Action, Item	Legendary	Action			"**Legendary** *(You may only have 1 Imperial Warhorn in your deck.)*
 
