@@ -239,3 +239,4 @@ Lady Barthimont, Lord Sutcliffe, and Minerva Themis.
 
 IN PROGRESS:
 - Added card data for DYN001, DYN068, DYN088, DYN094, DYN234, DYN242, and DYN243
+- Updated the variation of marvel Ash to be Alternate Border
