@@ -240,6 +240,8 @@ Lady Barthimont, Lord Sutcliffe, and Minerva Themis.
 IN PROGRESS:
 - Added card data for Dynasty set
 - Added card data for FAB115-FAB117
+- Added Overpower and Surge as keywords
+- Added Rock as a type
 - Added Sofia Akimova as an artist
 - Updated the FAB set to include the new max card id
 - Updated the variation of marvel Ash to be Alternate Border

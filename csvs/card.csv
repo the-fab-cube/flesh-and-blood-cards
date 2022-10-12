@@ -4432,8 +4432,16 @@ You may put this in your deck in place of an invocation you own. Mark the box ne
 DYN001	DYN	Emperor, Dracai of Aesir					15	4	L	Royal, Draconic, Warrior, Wizard, Hero, Young		Action	Attack		"You may only have red cards in your deck.
 
 **Action** - {r}{r}{r}: Search your deck for Command and Conquer, **attack** with it, then shuffle."		Royal Draconic Warrior Wizard Hero – Young	Federico Musetti				No													S – DYN001 - N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN001.png – DYN001 – N			
+DYN005	DYN	Rok			7				M – DYN005 – N, V – DYN005 – N – AB	Brute, Weapon, Rock, 2H		Once per Turn Action	Attack		"**Once per Turn Action** - {r}{r}{r}: **Attack**
+
+Activate Rok only if you have no cards in hand.
+
+Damage that would be dealt by Rok can’t be prevented."		Brute Weapon – Rock (2H)	Henrique Lindner																	S – DYN005 – N, C – DYN005 – N – AB				
 DYN026	DYN	Seasoned Saviour				3			M – DYN026 – N – EA, V – DYN026 – N – AB	Guardian, Equipment, Off-Hand	Battleworn				When you equip Seasoned Saviour, put two -1{d} counters on it. **Battleworn**		Guardian Equipment – Off-Hand	Sofia Akimova				No													S – DYN026 – N – EA, C – DYN026 – N – AB				
 DYN039	DYN	Reinforce Steel	1	2		3			C	Guardian, Action					Remove a -1{d} counter from a Guardian off-hand you control with 3 or less base {d}.	It is said that the Imperial Forge of Volcor produces the sturdiest armor in all of Rathe.	Guardian Action	Nathaniel Himawan																	S – DYN039 – N				
+DYN045	DYN	Blazen Yoroi				1			M – DYN045 – N, V – DYN045 – N – AB	Ninja, Equipment, Chest	Blade Break				"While Blazen Yoroi is defending on chain link 4 or higher, it has +4{d}.
+
+**Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Ninja Equipment – Chest	Shen Fei				No													S – DYN045 – N, C – DYN045 – N – AB				
 DYN068	DYN	Merciless Battleaxe			3				M – DYN068 – N, V – DYN068 – N – AB	Warrior, Weapon, Axe, 2H	Overpower	Once per Turn Action	Attack		"**Once per Turn Action** - {r}{r}{r}: **Atttack**
 
 Whenever Merciless Battleaxe attacks, if its {p} is greater than twice its base {p}, the attack gains **overpower**. *(This can’t be defended by more than 1 action card.)*"		Warrior Weapon – Axe (2H)	Carlos Cruchaga				No													S – DYN068 – N, C – DYN068 – N – AB				
@@ -4441,7 +4449,7 @@ DYN088	DYN	Hanabi Blaster			5				M – DYN088 – N, V – DYN088 – N – AB	M
 
 **Overpower** *(This can’t be defended by more than 1 action card.)*
 
-The third time you play a card with **boost** each turn, put a steam counter on Hanabi Blaster."		Mechanologist Weapon – Gun 2H	Joseph Qiu				No													S – DYN088 – N, C – DYN088 – N – AB				
+The third time you play a card with **boost** each turn, put a steam counter on Hanabi Blaster."		Mechanologist Weapon – Gun (2H)	Joseph Qiu				No													S – DYN088 – N, C – DYN088 – N – AB				
 DYN094	DYN	Powder Keg	3	0					M	Mechanologist, Action, Item					Whenever a Mechanologist gun you control hits, you may destroy Powder Keg and a defending equipment.		Mechanologist Action – Item	Victoria Belyaeva				No													S – DYN094 – N				
 DYN151	DYN	Sandscour Greatbow							M – DYN151 – N, V – DYN151 – N – AB	Ranger, Weapon, Bow, 2H		Once per Turn Action	Go again		"**Once per Turn Action** - {r}: Look at the top card of your deck. You may put an arrow from your hand or the top of your deck face up into your arsenal. **Go again**
 
