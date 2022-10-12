@@ -4432,16 +4432,33 @@ You may put this in your deck in place of an invocation you own. Mark the box ne
 DYN001	DYN	Emperor, Dracai of Aesir					15	4	L	Royal, Draconic, Warrior, Wizard, Hero, Young		Action	Attack		"You may only have red cards in your deck.
 
 **Action** - {r}{r}{r}: Search your deck for Command and Conquer, **attack** with it, then shuffle."		Royal Draconic Warrior Wizard Hero – Young	Federico Musetti				No													S – DYN001 - N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN001.png – DYN001 – N			
+DYN026	DYN	Seasoned Saviour				3			M – DYN026 – N – EA, V – DYN026 – N – AB	Guardian, Equipment, Off-Hand	Battleworn				When you equip Seasoned Saviour, put two -1{d} counters on it. **Battleworn**		Guardian Equipment – Off-Hand	Sofia Akimova				No													S – DYN026 – N – EA, C – DYN026 – N – AB				
+DYN039	DYN	Reinforce Steel	1	2		3			C	Guardian, Action					Remove a -1{d} counter from a Guardian off-hand you control with 3 or less base {d}.	It is said that the Imperial Forge of Volcor produces the sturdiest armor in all of Rathe.	Guardian Action	Nathaniel Himawan																	S – DYN039 – N				
 DYN068	DYN	Merciless Battleaxe			3				M – DYN068 – N, V – DYN068 – N – AB	Warrior, Weapon, Axe, 2H	Overpower	Once per Turn Action	Attack		"**Once per Turn Action** - {r}{r}{r}: **Atttack**
 
-Whenever Merciless Battleaxe attacks, if its {p} is greater than twice its base {p}, the attack gains **overpower**. *(This can’t be defended by more than 1 action card.)*"		Warrior Weapon – Axe (2H)	Carlos Cruchaga				No													S – DYN068 – N, S – DYN068 – N – AB				
+Whenever Merciless Battleaxe attacks, if its {p} is greater than twice its base {p}, the attack gains **overpower**. *(This can’t be defended by more than 1 action card.)*"		Warrior Weapon – Axe (2H)	Carlos Cruchaga				No													S – DYN068 – N, C – DYN068 – N – AB				
 DYN088	DYN	Hanabi Blaster			5				M – DYN088 – N, V – DYN088 – N – AB	Mechanologist, Weapon, Gun, 2H	Overpower	Once per Turn Action	Attack		"**Once per Turn Action** - Remove 2 steam counters from Hanabi Blaster: **Atttack**
 
 **Overpower** *(This can’t be defended by more than 1 action card.)*
 
-The third time you play a card with **boost** each turn, put a steam counter on Hanabi Blaster."		Mechanologist Weapon – Gun 2H	Joseph Qiu				No													S – DYN088 – N, S – DYN088 – N – AB				
+The third time you play a card with **boost** each turn, put a steam counter on Hanabi Blaster."		Mechanologist Weapon – Gun 2H	Joseph Qiu				No													S – DYN088 – N, C – DYN088 – N – AB				
 DYN094	DYN	Powder Keg	3	0					M	Mechanologist, Action, Item					Whenever a Mechanologist gun you control hits, you may destroy Powder Keg and a defending equipment.		Mechanologist Action – Item	Victoria Belyaeva				No													S – DYN094 – N				
-DYN234	DYN	Crown of Dominion							L – DYN234 – N, V – DYN234 – N – FA	Generic, Equipment, Head					Your hero is Royal. When you equip Crown of Dominion, create a Gold token.	“I will watch over this Dynasty till my very last breath. Its power, riches, and enemies, I take as my own.” - Emperor, Dracai of Aesir	Generic Equipment – Head	Andy Aslamov				No													S – DYN234 – N, S – DYN234 – N – FA	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN234_Marvel.png – DYN234 – N – FA			
+DYN151	DYN	Sandscour Greatbow							M – DYN151 – N, V – DYN151 – N – AB	Ranger, Weapon, Bow, 2H		Once per Turn Action	Go again		"**Once per Turn Action** - {r}: Look at the top card of your deck. You may put an arrow from your hand or the top of your deck face up into your arsenal. **Go again**
+
+Whenever an arrow is put face up in arsenal from your deck, put an aim counter on it."		Ranger Weapon – Bow (2H)	Carlos Cruchaga				No													S – DYN151 – N, C – DYN151 – N – AB				
+DYN171	DYN	Amethyst Tiara				1			M – DYN171 – N, V – DYN171 – N – AB	Runeblade, Equipment, Head	Blade Break	Instant		Spellvoid 1	"**Instant** - Destroy Amethyst Tiara: Runechants you control have **spellvoid 1** this turn.
+
+**Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Runeblade Equipment – Head	Joseph Qiu				No													S – DYN171 – N, C – DYN171 – N – AB				
+FAB115, DYN206	FAB, DYN	Sap	1	0		3			P, C	Wizard, Action	Surge				"Deal 3 arcane damage to target hero.
+
+**Surge** - If this deals more than 3 damage to a hero, you may remove an energy counter from a permanent they control."		Wizard Action	Riordan Delmiro, Asep Ariyanto																	R – FAB115 – N, S – DYN206 – N				
+FAB116, DYN207	FAB, DYN	Sap	2	0		3			P, C	Wizard, Action	Surge				"Deal 2 arcane damage to target hero.
+
+**Surge** - If this deals more than 2 damage to a hero, you may remove an energy counter from a permanent they control."		Wizard Action	Riordan Delmiro, Asep Ariyanto																	R – FAB116 – N, S – DYN207 – N				
+FAB117, DYN208	FAB, DYN	Sap	3	0		3			P, C	Wizard, Action	Surge				"Deal 1 arcane damage to target hero.
+
+**Surge** - If this deals more than 1 damage to a hero, you may remove an energy counter from a permanent they control."		Wizard Action	Riordan Delmiro, Asep Ariyanto																	R – FAB117 – N, S – DYN208 – N				
+DYN234	DYN	Crown of Dominion							L – DYN234 – N, V – DYN234 – N – FA	Generic, Equipment, Head					Your hero is Royal. When you equip Crown of Dominion, create a Gold token.	“I will watch over this Dynasty till my very last breath. Its power, riches, and enemies, I take as my own.” - Emperor, Dracai of Aesir	Generic Equipment – Head	Andy Aslamov				No													S – DYN234 – N, C – DYN234 – N – FA	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN234_Marvel.png – DYN234 – N – FA			
 DYN242	DYN	Imperial Warhorn	1	2					M	Generic, Action, Item	Legendary	Action			"**Legendary** *(You may only have 1 Imperial Warhorn in your deck.)*
 
 **Action** - {r}, destroy Imperial Warhorn: Choose any number of heroes. Each of them chooses an ally, aura, item, or landmark permanent they control. Destroy each permanent chosen this way. If you are Royal, instead you choose the permanents."		Generic Action – Item	Othon Nikolaidis				No													S – DYN242 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN242.png – DYN242 – N			
