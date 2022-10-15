@@ -239,8 +239,8 @@ Lady Barthimont, Lord Sutcliffe, and Minerva Themis.
 
 10-15-22:
 - BREAKING CHANGE: Removed DS as a card variation. Representing double sided associations will be handled in an upcoming new CSV.
-- Added set data for DRO
-- Added card data for DRO
+- Added set data for DRO and FAI
+- Added card data for DRO and FAI (minus images for FAI)
 - Updated functional text for Ironhide Helm, Ironhide Gauntlet, and Ironhide Legs
 - Updated variations for FAB094, JDG001, LGS017, LGS018, LGS019, LSS003, LSS004
 - Added images for FAB056, FAB077, FAB082, FAB083, FAB084, FAB085, FAB086, FAB087, FAB088, FAB089, FAB091, FAB092, FAB093, FAB094, HER054, HER055, HER056, HER057,
