@@ -236,3 +236,8 @@ Lady Barthimont, Lord Sutcliffe, and Minerva Themis.
 
 10-08-22:
 - Fixed a bug in the functional text of Ray of Hope - bugfix credit: DiglDixon
+
+10-15-22:
+- Added set data for DRO
+- Added card data for DRO
+- Updated functional text for Ironhide Helm, Ironhide Gauntlet, and Ironhide Legs
