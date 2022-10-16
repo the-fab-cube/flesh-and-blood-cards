@@ -4466,6 +4466,15 @@ FAB116, DYN207	FAB, DYN	Sap	2	0		3			P, C	Wizard, Action	Surge				"Deal 2 arcane
 FAB117, DYN208	FAB, DYN	Sap	3	0		3			P, C	Wizard, Action	Surge				"Deal 1 arcane damage to target hero.
 
 **Surge** - If this deals more than 1 damage to a hero, you may remove an energy counter from a permanent they control."		Wizard Action	Riordan Delmiro, Asep Ariyanto																	R – FAB117 – N, S – DYN208 – N				
+DYN230	DYN	Water Glow Lanterns	1	0		2			C	Illusionist, Action	Go again				"Reveal the top card of your deck. If it’s red, create a Spectral Shield token.
+
+**Go again**"		Illusionist Action	Mateusz Wisniewski																	S R – DYN230 – N				
+DYN231	DYN	Water Glow Lanterns	2	0		2			C	Illusionist, Action	Go again				"Reveal the top card of your deck. If it’s yellow, create a Spectral Shield token.
+
+**Go again**"		Illusionist Action	Mateusz Wisniewski																	S R – DYN231 – N				
+DYN232	DYN	Water Glow Lanterns	3	0		2			C	Illusionist, Action	Go again				"Reveal the top card of your deck. If it’s blue, create a Spectral Shield token.
+
+**Go again**"		Illusionist Action	Mateusz Wisniewski																	S R – DYN232 – N				
 DYN234	DYN	Crown of Dominion							L – DYN234 – N, V – DYN234 – N – FA	Generic, Equipment, Head					Your hero is Royal. When you equip Crown of Dominion, create a Gold token.	“I will watch over this Dynasty till my very last breath. Its power, riches, and enemies, I take as my own.” - Emperor, Dracai of Aesir	Generic Equipment – Head	Andy Aslamov				No													S – DYN234 – N, C – DYN234 – N – FA	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN234_Marvel.png – DYN234 – N – FA			
 DYN242	DYN	Imperial Warhorn	1	2					M	Generic, Action, Item	Legendary	Action			"**Legendary** *(You may only have 1 Imperial Warhorn in your deck.)*
 
