@@ -247,3 +247,6 @@ Lady Barthimont, Lord Sutcliffe, and Minerva Themis.
 HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, JDG002, LGS103, LGS104, LGS105, LGS106, LGS107, LGS108, LGS109, LGS110, LSS003, LSS004
 - Added card data for FAB056, FAB077, HER072, LGS107, LGS108, LGS109, LGS110
 - Updated CC, Blitz, and Commoner legality info for `Hummingbird, Adventurer’s Call`
+
+10-17-22:
+- Fix incorrect foiling for FAB075
