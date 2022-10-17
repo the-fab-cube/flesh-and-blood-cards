@@ -2572,7 +2572,7 @@ LGS067, LXI002, ELE033	LGS, LXI, ELE	Shiver							P, C, T	Elemental, Ranger, Wea
 FAB075, ELE034	FAB, ELE	Voltaire, Strike Twice							P, M	Elemental, Ranger, Weapon, Bow, 2H		Twice per Turn Instant		Go again	"**Twice per Turn Instant** - {r}: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1;
 
 - It gains +1{p} until end of turn.
-- It gains **go again** until end of turn."		Elemental Ranger Weapon – Bow (2H)	Alexander Mokhov				No													P – FAB075 – N, S C – ELE034 – F, S R – ELE034 – U	https://storage.googleapis.com/fabmaster/media/images/FAB075.width-450.png – FAB075 – N, https://storage.googleapis.com/fabmaster/media/images/ELE034.width-450.png – ELE034 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE034.width-450.png – ELE034 – U			
+- It gains **go again** until end of turn."		Elemental Ranger Weapon – Bow (2H)	Alexander Mokhov				No													G – FAB075 – N, S C – ELE034 – F, S R – ELE034 – U	https://storage.googleapis.com/fabmaster/media/images/FAB075.width-450.png – FAB075 – N, https://storage.googleapis.com/fabmaster/media/images/ELE034.width-450.png – ELE034 - F, https://storage.googleapis.com/fabmaster/media/images/U-ELE034.width-450.png – ELE034 – U			
 ELE035	ELE	Frost Lock	3	1	3	3			M	Elemental, Ranger, Action, Arrow, Attack	Ice Fusion				"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
 **Ice Fusion** *(As an additional cost to play Frost Lock, you may reveal an Ice card from your hand.)*
