@@ -4457,6 +4457,9 @@ Whenever an arrow is put face up in arsenal from your deck, put an aim counter o
 DYN171	DYN	Amethyst Tiara				1			M – DYN171 – N, V – DYN171 – N – AB	Runeblade, Equipment, Head	Blade Break	Instant		Spellvoid 1	"**Instant** - Destroy Amethyst Tiara: Runechants you control have **spellvoid 1** this turn.
 
 **Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Runeblade Equipment – Head	Joseph Qiu				No													S – DYN171 – N, C – DYN171 – N – AB				
+DYN192	DYN	Surgent Aethertide							M	Wizard, Weapon, Staff, 2H	Go again				"**Once per Turn Action** - {r}{r}: Deal 1 arcane damage to an opposing hero. **Go again**
+
+The first card you play each turn with an arcane damage effect, instead deals that much arcane damage plus X, where X is the damage dealt by Surgent Aethertide this turn."		Wizard Weapon – Staff (2H)	Alexis Susani				No													S – DYN192 – N, C – DYN192 – N – EA				
 FAB115, DYN206	FAB, DYN	Sap	1	0		3			P, C	Wizard, Action	Surge				"Deal 3 arcane damage to target hero.
 
 **Surge** - If this deals more than 3 damage to a hero, you may remove an energy counter from a permanent they control."		Wizard Action	Riordan Delmiro, Asep Ariyanto																	R – FAB115 – N, S – DYN206 – N				
@@ -4481,6 +4484,18 @@ DYN242	DYN	Imperial Warhorn	1	2					M	Generic, Action, Item	Legendary	Action			"
 **Action** - {r}, destroy Imperial Warhorn: Choose any number of heroes. Each of them chooses an ally, aura, item, or landmark permanent they control. Destroy each permanent chosen this way. If you are Royal, instead you choose the permanents."		Generic Action – Item	Othon Nikolaidis				No													S – DYN242 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN242.png – DYN242 – N			
 DYN243	DYN	Gold							C	Generic, Token, Item		Action	Go again		**Action** - {r}{r}, destroy Gold: Draw a card. **Go again**		Generic Token – Item	Nikolay Moskvin																	S – DYN243 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN243.png – DYN243 – N			
 HER075	HER	Yoji, Royal Protector					22	4	P	Guardian, Hero, Young		Once per Turn Instant			**Once per Turn Instant** - {r}{r}{r}: The next time another target hero would be dealt damage this turn, instead that damage is dealt to Yoji and prevent 1 of that damage.		Guardian Hero – Young	Othon Nikolaidis																	C – HER075 – N	https://storage.googleapis.com/fabmaster/media/images/dyn_card_Yoji_Royal_Protector.width-10000.png – HER075 – N			
+LGS112	LGS	Quicksilver Dagger			1				P	Warrior, Weapon, Dagger, 1H	Go again	Once per Turn Action	Attack		"**Once per Turn Action** - {r}: **Attack**
+
+If another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**."		Warrior Weapon – Dagger (1H)	Alexis Susani																	C – LGS112 – N				
 LGS116	LGS	Blessing of Aether	1	1		2			P	Wizard, Action, Aura					At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 3.		Wizard Action – Aura	soyameii																	R – LGS116 – N – EA	https://storage.googleapis.com/fabmaster/media/images/dyn_card_Blessing_of_Aether_p1.width-10000.png – LGS116 – N – EA			
 LGS117	LGS	Blessing of Aether	2	1		2			P	Wizard, Action, Aura					At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 2.		Wizard Action – Aura	soyameii																	R – LGS117 – N – EA				
 LGS118	LGS	Blessing of Aether	3	1		2			P	Wizard, Action, Aura					At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 1.		Wizard Action – Aura	soyameii																	R – LGS118 – N – EA				
+LGS122	LGS	Predatory Streak	1	0		2			P	Ninja, Action	Go again				"Create 3 Crouching Tigers in your banished zone. You may play them this turn.
+
+**Go again**"		Ninja Action	Immanuela Crovius																	R – LGS122 – N – EA				
+LGS123	LGS	Predatory Streak	2	0		2			P	Ninja, Action	Go again				"Create 2 Crouching Tigers in your banished zone. You may play them this turn.
+
+**Go again**"		Ninja Action	Immanuela Crovius																	R – LGS123 – N – EA				
+LGS124	LGS	Predatory Streak	3	0		2			P	Ninja, Action	Go again				"Create 1 Crouching Tigers in your banished zone. You may play it this turn.
+
+**Go again**"		Ninja Action	Immanuela Crovius																	R – LGS124 – N – EA				
