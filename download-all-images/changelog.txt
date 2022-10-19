@@ -6,3 +6,6 @@
 
 06-04-22:
 - Change the script to create sub-folders for images if they do not exist
+
+10-18-22:
+- Updated README

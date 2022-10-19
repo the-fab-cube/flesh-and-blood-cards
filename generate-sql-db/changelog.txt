@@ -23,3 +23,6 @@
 08-03-22:
 - Updated to add new UPF Banned column
 - Cleaned up some code to make it easier to add new columns in the future
+
+10-18-22:
+- Updated README
