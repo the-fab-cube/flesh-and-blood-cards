@@ -4457,6 +4457,15 @@ Whenever an arrow is put face up in arsenal from your deck, put an aim counter o
 DYN171	DYN	Amethyst Tiara				1			M – DYN171 – N, V – DYN171 – N – AB	Runeblade, Equipment, Head	Blade Break	Instant		Spellvoid 1	"**Instant** - Destroy Amethyst Tiara: Runechants you control have **spellvoid 1** this turn.
 
 **Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Runeblade Equipment – Head	Joseph Qiu				No													S – DYN171 – N, C – DYN171 – N – AB				
+DYN188	DYN	Sky Fire Lanterns	1	0		2			C	Runeblade, Action	Go again				"Reveal the top card of your deck. If it’s red, create a Runechant token.
+
+**Go again**"		Runeblade Action	Shen Fei																	S R – DYN188 – N				
+DYN189	DYN	Sky Fire Lanterns	2	0		2			C	Runeblade, Action	Go again				"Reveal the top card of your deck. If it’s yellow, create a Runechant token.
+
+**Go again**"		Runeblade Action	Shen Fei																	S R – DYN189 – N				
+DYN190	DYN	Sky Fire Lanterns	3	0		2			C	Runeblade, Action	Go again				"Reveal the top card of your deck. If it’s blue, create a Runechant token.
+
+**Go again**"		Runeblade Action	Shen Fei																	S R – DYN190 – N				
 DYN192	DYN	Surgent Aethertide							M	Wizard, Weapon, Staff, 2H	Go again				"**Once per Turn Action** - {r}{r}: Deal 1 arcane damage to an opposing hero. **Go again**
 
 The first card you play each turn with an arcane damage effect, instead deals that much arcane damage plus X, where X is the damage dealt by Surgent Aethertide this turn."		Wizard Weapon – Staff (2H)	Alexis Susani				No													S – DYN192 – N, C – DYN192 – N – EA				
