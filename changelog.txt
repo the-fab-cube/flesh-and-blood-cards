@@ -255,7 +255,7 @@ IN PROGRESS:
 - Added card data for Dynasty set (with assistance from manwaring!)
 - Added card data for FAB115-FAB117, LGS112, and LGS122-LGS124
 - Added Overpower and Surge as keywords
-- Added Rock as a type
+- Added Assassin and Rock as a type
 - Added Sofia Akimova as an artist
 - Updated the FAB set to include the new max card id
 - Updated the variation of marvel Ash to be Alternate Border
