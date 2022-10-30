@@ -4451,6 +4451,12 @@ DYN088	DYN	Hanabi Blaster			5				M – DYN088 – N, V – DYN088 – N – AB	M
 
 The third time you play a card with **boost** each turn, put a steam counter on Hanabi Blaster."		Mechanologist Weapon – Gun (2H)	Joseph Qiu				No													S – DYN088 – N, C – DYN088 – N – AB				
 DYN094	DYN	Powder Keg	3	0					M	Mechanologist, Action, Item					Whenever a Mechanologist gun you control hits, you may destroy Powder Keg and a defending equipment.		Mechanologist Action – Item	Victoria Belyaeva				No													S – DYN094 – N				
+DYN113	DYN	Arakni, Huntsman					40	4	M	Assassin, Hero					Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.		Assassin Hero	Isuardi Therianto				No													S – DYN113 – N				
+DYN118	DYN	Mask of Perdition				1			M	Assassin, Equipment, Head	Battleworn	Attack Reaction			"While Mask of Perdition is in your graveyard, at the start of your turn, you may destroy 2 Silvers you control. If you do, equip Mask of Perdition.
+
+**Attack Reaction** – Destroy Mask of Perdition: Target Assassin attack action card gains ""When this hits a hero, banish the top card of their deck.""
+
+**Battleworn** *(When the combat chain closes, if this defended, put a -1{d} counter on it.)*"		Assasin Equipment – Head	Carlos Cruchaga				No													S – DYN118 – N				
 FAB122, DYN121	FAB, DYN	Regicide	3	0	3	3			P, M	Assassin, Action, Attack	Legendary, Arakni Specialization				"**Legendary Arakni Specialization** *(You may only have 1 Regicide in your deck and only if your hero is Arakni.)*
 
 When this hits a Royal hero, they lose the game.
@@ -4458,7 +4464,10 @@ When this hits a Royal hero, they lose the game.
 When the combat chain closes, you lose the game.
 
 Regicide can’t be defended by cards with the same name as cards in the defending hero’s banished zone."		Assassin Action – Attack	Sam Yang				No													S – FAB122 – N – AA, S – DYN121 – N				
-DYN123	DYN	Pay Day	3	0		3			M	Assassin, Action					If you've completed a contract this turn, create 4 Silver tokens.	"“Another day, another job, another rat to kill."" - Jackdaw   "	Assassin Action	Athiwut B.				No													S – DYN123 – N				
+DYN122	DYN	Surgical Extraction	3	2	4	3			M	Assassin, Action, Attack	Contract				"**Contract**  – You are contracted to banish opponents' blue cards. Whenever you complete this contract, create a Silver token.
+
+When this hits a hero, banish the top card of their deck, then look at their hand and banish a card."		Assassin Action – Attack	Wisnu Tan				No													S – DYN122 – N				
+DYN123	DYN	Pay Day	3	0		3			M	Assassin, Action					If you've completed a contract this turn, create 4 Silver tokens.	"”Another day, another job, another rat to kill."" - Jackdaw   "	Assassin Action	Athiwut B.				No													S – DYN123 – N				
 DYN151	DYN	Sandscour Greatbow							M – DYN151 – N, V – DYN151 – N – AB	Ranger, Weapon, Bow, 2H		Once per Turn Action	Go again		"**Once per Turn Action** - {r}: Look at the top card of your deck. You may put an arrow from your hand or the top of your deck face up into your arsenal. **Go again**
 
 Whenever an arrow is put face up in arsenal from your deck, put an aim counter on it."		Ranger Weapon – Bow (2H)	Carlos Cruchaga				No													S – DYN151 – N, C – DYN151 – N – AB				
