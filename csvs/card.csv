@@ -4458,6 +4458,11 @@ Whenever Merciless Battleaxe attacks, if its {p} is greater than twice its base 
 LGS112, DYN069, DYN070	LGS, DYN, DYN	Quicksilver Dagger			1				P, R, R	Warrior, Weapon, Dagger, 1H	Go again	Once per Turn Action	Attack		"**Once per Turn Action** – {r}: **Attack**
 
 If another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**."		Warrior Weapon – Dagger (1H)	Alexis Susani																	C – LGS112 – N, S R C – DYN069 – N, S R – DYN070 – N	https://storage.googleapis.com/fabmaster/media/images/DYN069.width-450.png – DYN069 – N, https://storage.googleapis.com/fabmaster/media/images/DYN070.width-450.png – DYN070 – N			
+DYN072	DYN	Ironsong Pride	1	1					M	Warrior, Instant, Aura					"Put a +1{p} counter on target sword you control.
+
+When Ironsong Pride leaves the arena, remove all +1{p} counters from swords you control.
+
+At the beginning of your end phase, if a sword has not hit this turn, destroy Ironsong Pride."		Warrior Instant – Aura	soyameii				No													S – DYN072 – N				
 DYN088	DYN	Hanabi Blaster			5				M – DYN088 – N, V – DYN088 – N – AB	Mechanologist, Weapon, Gun, 2H	Overpower	Once per Turn Action	Attack		"**Once per Turn Action** - Remove 2 steam counters from Hanabi Blaster: **Atttack**
 
 **Overpower** *(This can’t be defended by more than 1 action card.)*
