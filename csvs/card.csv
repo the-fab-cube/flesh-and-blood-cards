@@ -4484,7 +4484,7 @@ DYN122	DYN	Surgical Extraction	3	2	4	3			M	Assassin, Action, Attack	Contract				
 
 When this hits a hero, banish the top card of their deck, then look at their hand and banish a card."		Assassin Action – Attack	Wisnu Tan				No													S – DYN122 – N				
 DYN123	DYN	Pay Day	3	0		3			M	Assassin, Action					If you've completed a contract this turn, create 4 Silver tokens.	"”Another day, another job, another rat to kill."" - Jackdaw   "	Assassin Action	Athiwut B.				No													S – DYN123 – N				
-DYN124	DYN	Plunder the Poor	1	0	4	0			R	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' cards with cost 1 or less. Whenever you complete this contract, create a Silver token.
+DYN124	DYN	Plunder the Poor	1	0	4	3			R	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' cards with cost 1 or less. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Carlos Cruchaga				No													S – DYN124 – N				
 DYN127	DYN	Rob the Rich	1	1	5	3			R	Assassin, Action, Attack	Contract				**Contract** – You are contracted to banish opponents' cards with cost 2 or greater. Whenever you complete this contract, create a Silver token.  When this hits a hero, banish the top card of their deck.		Assassin Action – Attack	Narendra B Adi				No													S – DYN127 – N				
