@@ -4429,100 +4429,158 @@ Vynserakai – 1 pitch, 3 cost, 3 block
 Yendurai – 1 pitch, 1 cost, 3 block
 
 You may put this in your deck in place of an invocation you own. Mark the box next to the dragon’s name this invokes. When this card is played or put into your graveyard, swap it for the invocation card."		Invocation Placeholder Card	MJ Fetesio																	S – UPR225 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR225.png – UPR225 – N			
-DYN001	DYN	Emperor, Dracai of Aesir					15	4	L	Royal, Draconic, Warrior, Wizard, Hero, Young		Action	Attack		"You may only have red cards in your deck.
+DYN001	DYN	Emperor, Dracai of Aesir					15	4	L – DYN001 – N, V – DYN001 – N – AB, V – DYN001 – N – FA	Royal, Draconic, Warrior, Wizard, Hero, Young		Action	Attack		"You may only have red cards in your deck.
 
-**Action** - {r}{r}{r}: Search your deck for Command and Conquer, **attack** with it, then shuffle."		Royal Draconic Warrior Wizard Hero – Young	Federico Musetti				No													S – DYN001 - N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN001.png – DYN001 – N			
+**Action** - {r}{r}{r}: Search your deck for Command and Conquer, **attack** with it, then shuffle."		Royal Draconic Warrior Wizard Hero – Young	Federico Musetti				No													R C – DYN001 – N, C – DYN001 – N – AB, C – DYN001 – N – FA	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN001.png – DYN001 – N			
 DYN005	DYN	Rok			7				M – DYN005 – N, V – DYN005 – N – AB	Brute, Weapon, Rock, 2H		Once per Turn Action	Attack		"**Once per Turn Action** - {r}{r}{r}: **Attack**
 
 Activate Rok only if you have no cards in hand.
 
-Damage that would be dealt by Rok can’t be prevented."		Brute Weapon – Rock (2H)	Henrique Lindner																	S – DYN005 – N, C – DYN005 – N – AB				
-DYN026	DYN	Seasoned Saviour				3			M – DYN026 – N – EA, V – DYN026 – N – AB	Guardian, Equipment, Off-Hand	Battleworn				When you equip Seasoned Saviour, put two -1{d} counters on it. **Battleworn**		Guardian Equipment – Off-Hand	Sofia Akimova				No													S – DYN026 – N – EA, C – DYN026 – N – AB				
-DYN039	DYN	Reinforce Steel	1	2		3			C	Guardian, Action					Remove a -1{d} counter from a Guardian off-hand you control with 3 or less base {d}.	It is said that the Imperial Forge of Volcor produces the sturdiest armor in all of Rathe.	Guardian Action	Nathaniel Himawan																	S – DYN039 – N				
+Damage that would be dealt by Rok can’t be prevented."		Brute Weapon – Rock (2H)	Henrique Lindner																	S R – DYN005 – N, C – DYN005 – N – AB	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN005.png – DYN005 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN005_Marvel.png – DYN005 – N – AB			
+HER075, DYN025	HER, DYN	Yoji, Royal Protector					22	4	P, M	Guardian, Hero, Young		Once per Turn Instant			**Once per Turn Instant** - {r}{r}{r}: The next time another target hero would be dealt damage this turn, instead that damage is dealt to Yoji and prevent 1 of that damage.		Guardian Hero – Young	Othon Nikolaidis																	C – HER075 – N, S R – DYN025 – N	https://storage.googleapis.com/fabmaster/media/images/dyn_card_Yoji_Royal_Protector.width-10000.png – HER075 – N, https://storage.googleapis.com/fabmaster/media/images/DYN025.width-450.png – DYN025 – N			
+DYN026	DYN	Seasoned Saviour				3			M – DYN026 – N – EA, V – DYN026 – N – AB	Guardian, Equipment, Off-Hand	Battleworn				When you equip Seasoned Saviour, put two -1{d} counters on it. **Battleworn**		Guardian Equipment – Off-Hand	Sofia Akimova				No													S R – DYN026 – N – EA, C – DYN026 – N – AB	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN026.png – DYN026 – N – EA, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN026_Marvel.png – DYN026 – N – AB			
+DYN039	DYN	Reinforce Steel	1	2		3			C	Guardian, Action					Remove a -1{d} counter from a Guardian off-hand you control with 3 or less base {d}.	It is said that the Imperial Forge of Volcor produces the sturdiest armor in all of Rathe.	Guardian Action	Nathaniel Himawan																	S R – DYN039 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN039.png – DYN039 – N			
 DYN045	DYN	Blazen Yoroi				1			M – DYN045 – N, V – DYN045 – N – AB	Ninja, Equipment, Chest	Blade Break				"While Blazen Yoroi is defending on chain link 4 or higher, it has +4{d}.
 
-**Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Ninja Equipment – Chest	Shen Fei				No													S – DYN045 – N, C – DYN045 – N – AB				
+**Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Ninja Equipment – Chest	Shen Fei				No													S R – DYN045 – N, C – DYN045 – N – AB	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN045.png – DYN045 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN045_Marvel.png – DYN045 – N – AB			
+LGS122, DYN062	LGS, DYN	Predatory Streak	1	0		2			P, C	Ninja, Action	Go again				"Create 3 Crouching Tigers in your banished zone. You may play them this turn.
+
+**Go again**"		Ninja Action	Immanuela Crovius																	R – LGS122 – N – EA, S R – DYN062 – N	https://storage.googleapis.com/fabmaster/media/images/DYN062.width-450.png – DYN062 – N			
+LGS123, DYN063	LGS, DYN	Predatory Streak	2	0		2			P, C	Ninja, Action	Go again				"Create 2 Crouching Tigers in your banished zone. You may play them this turn.
+
+**Go again**"		Ninja Action	Immanuela Crovius																	R – LGS123 – N – EA, S R – DYN063 – N				
+LGS124, DYN064	LGS, DYN	Predatory Streak	3	0		2			P, C	Ninja, Action	Go again				"Create 1 Crouching Tigers in your banished zone. You may play it this turn.
+
+**Go again**"		Ninja Action	Immanuela Crovius																	R – LGS124 – N – EA, S R – DYN064 – N				
 DYN068	DYN	Merciless Battleaxe			3				M – DYN068 – N, V – DYN068 – N – AB	Warrior, Weapon, Axe, 2H	Overpower	Once per Turn Action	Attack		"**Once per Turn Action** - {r}{r}{r}: **Atttack**
 
-Whenever Merciless Battleaxe attacks, if its {p} is greater than twice its base {p}, the attack gains **overpower**. *(This can’t be defended by more than 1 action card.)*"		Warrior Weapon – Axe (2H)	Carlos Cruchaga				No													S – DYN068 – N, C – DYN068 – N – AB				
+Whenever Merciless Battleaxe attacks, if its {p} is greater than twice its base {p}, the attack gains **overpower**. *(This can’t be defended by more than 1 action card.)*"		Warrior Weapon – Axe (2H)	Carlos Cruchaga				No													S R – DYN068 – N, C – DYN068 – N – AB	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN068.png – DYN068 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN068_Marvel.png – DYN068 – N – AB			
+LGS112, DYN069, DYN070	LGS, DYN, DYN	Quicksilver Dagger			1				P, R, R	Warrior, Weapon, Dagger, 1H	Go again	Once per Turn Action	Attack		"**Once per Turn Action** – {r}: **Attack**
+
+If another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**."		Warrior Weapon – Dagger (1H)	Alexis Susani																	C – LGS112 – N, S R C – DYN069 – N, S R – DYN070 – N	https://storage.googleapis.com/fabmaster/media/images/DYN069.width-450.png – DYN069 – N, https://storage.googleapis.com/fabmaster/media/images/DYN070.width-450.png – DYN070 – N			
 DYN088	DYN	Hanabi Blaster			5				M – DYN088 – N, V – DYN088 – N – AB	Mechanologist, Weapon, Gun, 2H	Overpower	Once per Turn Action	Attack		"**Once per Turn Action** - Remove 2 steam counters from Hanabi Blaster: **Atttack**
 
 **Overpower** *(This can’t be defended by more than 1 action card.)*
 
-The third time you play a card with **boost** each turn, put a steam counter on Hanabi Blaster."		Mechanologist Weapon – Gun (2H)	Joseph Qiu				No													S – DYN088 – N, C – DYN088 – N – AB				
-DYN094	DYN	Powder Keg	3	0					M	Mechanologist, Action, Item					Whenever a Mechanologist gun you control hits, you may destroy Powder Keg and a defending equipment.		Mechanologist Action – Item	Victoria Belyaeva				No													S – DYN094 – N				
-DYN113	DYN	Arakni, Huntsman					40	4	M	Assassin, Hero					Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.		Assassin Hero	Isuardi Therianto				No													S – DYN113 – N				
+The third time you play a card with **boost** each turn, put a steam counter on Hanabi Blaster."		Mechanologist Weapon – Gun (2H)	Joseph Qiu				No													S R – DYN088 – N, C – DYN088 – N – AB	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN088.png – DYN088 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN088_Marvel.png – DYN088 – N – AB			
+DYN094	DYN	Powder Keg	3	0					M	Mechanologist, Action, Item					Whenever a Mechanologist gun you control hits, you may destroy Powder Keg and a defending equipment.		Mechanologist Action – Item	Victoria Belyaeva				No													S R C – DYN094 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN094.png – DYN094 – N			
+DYN113	DYN	Arakni, Huntsman					40	4	M	Assassin, Hero					Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.		Assassin Hero	Isuardi Therianto				No													S R – DYN113 – N	https://storage.googleapis.com/fabmaster/media/images/DYN113.width-450.png – DYN113 – N			
 DYN115, DYN116	DYN, DYN	Spider’s Bite			1				R, R	Assassin, Weapon, Dagger, 1H	Piercing 1	Once per Turn Action	Attack, Go again		"**Once per Turn Action** – {r}{r}: **Attack**. **Go again**
 
 **Piercing 1** *(If this is defended by an equipment, it has +1{p}.)*
 
-When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending."		Assassin Weapon – Dagger (1H)	Marcus Reyno																	S – DYN115 – N, S – DYN116 – N				
+When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending."		Assassin Weapon – Dagger (1H)	Marcus Reyno																	S R C – DYN115 – N, S R – DYN116 – N	https://storage.googleapis.com/fabmaster/media/images/DYN115.width-450.png – DYN115 – N, https://storage.googleapis.com/fabmaster/media/images/DYN116.width-450.png – DYN116 – N			
 DYN117	DYN	Blacktek Whisperers				1			L	Assassin, Equipment, Legs	Attack Reaction, Battleworn, Go again				"While Blacktek Whisperers is in your graveyard, at the start of your turn, you may destroy 2 Silvers you control. If you do, equip Blacktek Whisperers.
 
 **Attack Reaction** – Destroy Blacktek Whisperers: Target Assassin attack action card gains “When this hits a hero, it gains **go again**.”
 
-**Battleworn** *(When the combat chain closes, if this defended, put a -1 {d} counter on it.)*"		Assassin Equipment – Leg	Sarlya Asavametha				No													S – DYN117 – N				
+**Battleworn** *(When the combat chain closes, if this defended, put a -1{d} counter on it.)*"		Assassin Equipment – Leg	Sarlya Asavametha				No													R C – DYN117 – N	https://storage.googleapis.com/fabmaster/media/images/DYN117.width-450.png – DYN117 – N			
 DYN118	DYN	Mask of Perdition				1			M	Assassin, Equipment, Head	Battleworn	Attack Reaction			"While Mask of Perdition is in your graveyard, at the start of your turn, you may destroy 2 Silvers you control. If you do, equip Mask of Perdition.
 
 **Attack Reaction** – Destroy Mask of Perdition: Target Assassin attack action card gains ""When this hits a hero, banish the top card of their deck.""
 
-**Battleworn** *(When the combat chain closes, if this defended, put a -1{d} counter on it.)*"		Assasin Equipment – Head	Carlos Cruchaga				No													S – DYN118 – N				
+**Battleworn** *(When the combat chain closes, if this defended, put a -1{d} counter on it.)*"		Assasin Equipment – Head	Carlos Cruchaga				No													S R C – DYN118 – N	https://storage.googleapis.com/fabmaster/media/images/DYN118.width-450.png – DYN118 – N			
 DYN119	DYN	Eradicate	2	1	4	3			M	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' yellow cards. Whenever you complete this contract, create a Silver token.
 
-When this hits a hero, banish the top X cards of their deck, where X is the damage dealt by Eradicate."		Assassin Action – Attack	Alexander Mokhov				No													S – DYN119 – N				
+When this hits a hero, banish the top X cards of their deck, where X is the damage dealt by Eradicate."		Assassin Action – Attack	Alexander Mokhov				No													S R – DYN119 – N	https://storage.googleapis.com/fabmaster/media/images/DYN119.width-450.png – DYN119 – N			
 DYN120	DYN	Leave No Witnesses	1	0	4	3			M	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' red cards. Whenever you complete this contract, create a Silver token.
 
-When this hits a hero, banish the top card of their deck and up to 1 card in their arsenal."		Assassin Action – Attack	soyameii				No													S – DYN120 – N				
+When this hits a hero, banish the top card of their deck and up to 1 card in their arsenal."		Assassin Action – Attack	soyameii				No													S R – DYN120 – N	https://storage.googleapis.com/fabmaster/media/images/DYN120.width-450.png – DYN120 – N			
 FAB122, DYN121	FAB, DYN	Regicide	3	0	3	3			P, M	Assassin, Action, Attack	Legendary, Arakni Specialization				"**Legendary Arakni Specialization** *(You may only have 1 Regicide in your deck and only if your hero is Arakni.)*
 
 When this hits a Royal hero, they lose the game.
 
 When the combat chain closes, you lose the game.
 
-Regicide can’t be defended by cards with the same name as cards in the defending hero’s banished zone."		Assassin Action – Attack	Sam Yang				No													S – FAB122 – N – AA, S – DYN121 – N				
+Regicide can’t be defended by cards with the same name as cards in the defending hero’s banished zone."		Assassin Action – Attack	Sam Yang				No													S – FAB122 – N – AA, S R – DYN121 – N	https://storage.googleapis.com/fabmaster/media/images/DYN121.width-450.png – DYN121 – N			
 DYN122	DYN	Surgical Extraction	3	2	4	3			M	Assassin, Action, Attack	Contract				"**Contract**  – You are contracted to banish opponents' blue cards. Whenever you complete this contract, create a Silver token.
 
-When this hits a hero, banish the top card of their deck, then look at their hand and banish a card."		Assassin Action – Attack	Wisnu Tan				No													S – DYN122 – N				
-DYN123	DYN	Pay Day	3	0		3			M	Assassin, Action					If you've completed a contract this turn, create 4 Silver tokens.	"”Another day, another job, another rat to kill."" - Jackdaw   "	Assassin Action	Athiwut B.				No													S – DYN123 – N				
+When this hits a hero, banish the top card of their deck, then look at their hand and banish a card."		Assassin Action – Attack	Wisnu Tan				No													S R – DYN122 – N	https://storage.googleapis.com/fabmaster/media/images/DYN122.width-450.png – DYN122 – N			
+DYN123	DYN	Pay Day	3	0		3			M	Assassin, Action					If you've completed a contract this turn, create 4 Silver tokens.	"”Another day, another job, another rat to kill."" - Jackdaw   "	Assassin Action	Athiwut B.				No													S R – DYN123 – N	https://storage.googleapis.com/fabmaster/media/images/DYN123.width-450.png – DYN123 – N			
 DYN124	DYN	Plunder the Poor	1	0	4	3			R	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' cards with cost 1 or less. Whenever you complete this contract, create a Silver token.
 
-When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Carlos Cruchaga				No													S – DYN124 – N				
-DYN127	DYN	Rob the Rich	1	1	5	3			R	Assassin, Action, Attack	Contract				**Contract** – You are contracted to banish opponents' cards with cost 2 or greater. Whenever you complete this contract, create a Silver token.  When this hits a hero, banish the top card of their deck.		Assassin Action – Attack	Narendra B Adi				No													S – DYN127 – N				
-DYN130	DYN	Shred	1	0		3			R	Assassin, Attack Reaction					Target card defending an Assassin attack gets -4{d} this combat chain.		Assassin Attack Reaction	Henrique Lindner				No													S – DYN130 – N				
+When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Carlos Cruchaga				No													S R – DYN124 – N	https://storage.googleapis.com/fabmaster/media/images/DYN124.width-450.png – DYN124 – N			
+DYN125	DYN	Plunder the Poor	2	0	4	3			R	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' cards with cost 1 or less. Whenever you complete this contract, create a Silver token.
+
+When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Carlos Cruchaga				No													S R – DYN125 – N	https://storage.googleapis.com/fabmaster/media/images/DYN125.width-450.png – DYN125 – N			
+DYN126	DYN	Plunder the Poor	3	0	4	3			R	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' cards with cost 1 or less. Whenever you complete this contract, create a Silver token.
+
+When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Carlos Cruchaga				No													S R – DYN126 – N	https://storage.googleapis.com/fabmaster/media/images/DYN126.width-450.png – DYN126 – N			
+DYN127	DYN	Rob the Rich	1	1	5	3			R	Assassin, Action, Attack	Contract				**Contract** – You are contracted to banish opponents' cards with cost 2 or greater. Whenever you complete this contract, create a Silver token.  When this hits a hero, banish the top card of their deck.		Assassin Action – Attack	Narendra B Adi				No													S R – DYN127 – N	https://storage.googleapis.com/fabmaster/media/images/DYN127.width-450.png – DYN127 – N			
+DYN128	DYN	Rob the Rich	2	1	5	3			R	Assassin, Action, Attack	Contract				**Contract** – You are contracted to banish opponents' cards with cost 2 or greater. Whenever you complete this contract, create a Silver token.  When this hits a hero, banish the top card of their deck.		Assassin Action – Attack	Narendra B Adi				No													S R – DYN128 – N	https://storage.googleapis.com/fabmaster/media/images/DYN128.width-450.png – DYN128 – N			
+DYN129	DYN	Rob the Rich	3	1	5	3			R	Assassin, Action, Attack	Contract				**Contract** – You are contracted to banish opponents' cards with cost 2 or greater. Whenever you complete this contract, create a Silver token.  When this hits a hero, banish the top card of their deck.		Assassin Action – Attack	Narendra B Adi				No													S R – DYN129 – N	https://storage.googleapis.com/fabmaster/media/images/DYN129.width-450.png – DYN129 – N			
+DYN130	DYN	Shred	1	0		3			R	Assassin, Attack Reaction					Target card defending an Assassin attack gets -4{d} this combat chain.		Assassin Attack Reaction	Henrique Lindner				No													S R – DYN130 – N	https://storage.googleapis.com/fabmaster/media/images/DYN130.width-450.png – DYN130 – N			
+DYN131	DYN	Shred	2	0		3			R	Assassin, Attack Reaction					Target card defending an Assassin attack gets -3{d} this combat chain.		Assassin Attack Reaction	Henrique Lindner				No													S R – DYN131 – N	https://storage.googleapis.com/fabmaster/media/images/DYN131.width-450.png – DYN131 – N			
+DYN132	DYN	Shred	3	0		3			R	Assassin, Attack Reaction					Target card defending an Assassin attack gets -2{d} this combat chain.		Assassin Attack Reaction	Henrique Lindner				No													S R – DYN132 – N	https://storage.googleapis.com/fabmaster/media/images/DYN132.width-450.png – DYN132 – N			
 DYN133	DYN	Annihilate the Armed	1	1	5	3			C	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' attack action cards. Whenever you complete this contract, create a Silver token. *(A contract is active while it's face up in the arena.)*
 
-When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Shen Fei																	S – DYN133 – N				
-DYN136	DYN	Fleece the Frail	1	0	4	3			C	Assassin, Action, Attack	Contract				**Contract** – You are contracted to banish opponents' cards with 2 or less {d}. Whenever you complete this contract, create a Silver token. *(A contract is active while it's face up in the arena.)*  When this hits a hero, banish the top card of their deck.		Assassin Action – Attack	Marco Gonzalez																	S – DYN136 – N				
+When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Shen Fei																	S R – DYN133 – N	https://storage.googleapis.com/fabmaster/media/images/DYN133.width-450.png – DYN133 – N			
+DYN134	DYN	Annihilate the Armed	2	1	5	3			C	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' attack action cards. Whenever you complete this contract, create a Silver token. *(A contract is active while it's face up in the arena.)*
+
+When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Shen Fei																	S R – DYN134 – N	https://storage.googleapis.com/fabmaster/media/images/DYN134.width-450.png – DYN134 – N			
+DYN135	DYN	Annihilate the Armed	3	1	5	3			C	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' attack action cards. Whenever you complete this contract, create a Silver token. *(A contract is active while it's face up in the arena.)*
+
+When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Shen Fei																	S R – DYN135 – N	https://storage.googleapis.com/fabmaster/media/images/DYN135.width-450.png – DYN135 – N			
+DYN136	DYN	Fleece the Frail	1	0	4	3			C	Assassin, Action, Attack	Contract				**Contract** – You are contracted to banish opponents' cards with 2 or less {d}. Whenever you complete this contract, create a Silver token. *(A contract is active while it's face up in the arena.)*  When this hits a hero, banish the top card of their deck.		Assassin Action – Attack	Marco Gonzalez																	S R – DYN136 – N	https://storage.googleapis.com/fabmaster/media/images/DYN136.width-450.png – DYN136 – N			
+DYN137	DYN	Fleece the Frail	2	0	4	3			C	Assassin, Action, Attack	Contract				**Contract** – You are contracted to banish opponents' cards with 2 or less {d}. Whenever you complete this contract, create a Silver token. *(A contract is active while it's face up in the arena.)*  When this hits a hero, banish the top card of their deck.		Assassin Action – Attack	Marco Gonzalez																	S R – DYN137 – N	https://storage.googleapis.com/fabmaster/media/images/DYN137.width-450.png – DYN137 – N			
+DYN138	DYN	Fleece the Frail	3	0	4	3			C	Assassin, Action, Attack	Contract				**Contract** – You are contracted to banish opponents' cards with 2 or less {d}. Whenever you complete this contract, create a Silver token. *(A contract is active while it's face up in the arena.)*  When this hits a hero, banish the top card of their deck.		Assassin Action – Attack	Marco Gonzalez																	S R – DYN138 – N	https://storage.googleapis.com/fabmaster/media/images/DYN138.width-450.png – DYN138 – N			
 DYN139	DYN	Nix the Nimble	1	1	5	3			C	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' reaction cards. Whenever you complete this contract, create a Silver token. *(A contract is active while it's face up in the arena.)*
 
-When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Narendra B Adi																	S – DYN139 – N				
+When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Narendra B Adi																	S R – DYN139 – N	https://storage.googleapis.com/fabmaster/media/images/DYN139.width-450.png – DYN139 – N			
+DYN140	DYN	Nix the Nimble	2	1	5	3			C	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' reaction cards. Whenever you complete this contract, create a Silver token. *(A contract is active while it's face up in the arena.)*
+
+When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Narendra B Adi																	S R – DYN140 – N	https://storage.googleapis.com/fabmaster/media/images/DYN140.width-450.png – DYN140 – N			
+DYN141	DYN	Nix the Nimble	3	1	5	3			C	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' reaction cards. Whenever you complete this contract, create a Silver token. *(A contract is active while it's face up in the arena.)*
+
+When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Narendra B Adi																	S R – DYN141 – N	https://storage.googleapis.com/fabmaster/media/images/DYN141.width-450.png – DYN141 – N			
 DYN142	DYN	Sack the Shifty	1	0	4	3			C	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' cards with base **go again**. Whenever you complete this contract, create a Silver token. *(Base go again does not include go again gained by effects.)*
 
-When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Shen Fei																	S – DYN142 – N				
+When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Shen Fei																	S R – DYN142 – N	https://storage.googleapis.com/fabmaster/media/images/DYN142.width-450.png – DYN142 – N			
+DYN143	DYN	Sack the Shifty	2	0	4	3			C	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' cards with base **go again**. Whenever you complete this contract, create a Silver token. *(Base go again does not include go again gained by effects.)*
+
+When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Shen Fei																	S R – DYN143 – N	https://storage.googleapis.com/fabmaster/media/images/DYN143.width-450.png – DYN143 – N			
+DYN144	DYN	Sack the Shifty	3	0	4	3			C	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' cards with base **go again**. Whenever you complete this contract, create a Silver token. *(Base go again does not include go again gained by effects.)*
+
+When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Shen Fei																	S R – DYN144 – N	https://storage.googleapis.com/fabmaster/media/images/DYN144.width-450.png – DYN144 – N			
 DYN145	DYN	Slay the Scholars	1	0	4	3			C	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' 'non-attack' action cards. Whenever you complete this contract, create a Silver token. *(A contract is active while it's face up in the arena.)*
 
-When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Nikolay Moskvin																	S – DYN145 – N				
+When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Nikolay Moskvin																	S R – DYN145 – N	https://storage.googleapis.com/fabmaster/media/images/DYN145.width-450.png – DYN145 – N			
+DYN146	DYN	Slay the Scholars	2	0	4	3			C	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' 'non-attack' action cards. Whenever you complete this contract, create a Silver token. *(A contract is active while it's face up in the arena.)*
+
+When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Nikolay Moskvin																	S R – DYN146 – N	https://storage.googleapis.com/fabmaster/media/images/DYN146.width-450.png – DYN146 – N			
+DYN147	DYN	Slay the Scholars	3	0	4	3			C	Assassin, Action, Attack	Contract				"**Contract** – You are contracted to banish opponents' 'non-attack' action cards. Whenever you complete this contract, create a Silver token. *(A contract is active while it's face up in the arena.)*
+
+When this hits a hero, banish the top card of their deck."		Assassin Action – Attack	Nikolay Moskvin																	S R – DYN147 – N	https://storage.googleapis.com/fabmaster/media/images/DYN147.width-450.png – DYN147 – N			
 DYN148	DYN	Cut to the Chase	1	0		3			C	Assassin, Attack Reaction					"Target Assassin attack action card with **contract** gains +3{p}.
 
-Look at the top card of the defending hero's deck. You may put it on the bottom."		Assassin Attack Reaction	Narendra B Adi																	S – DYN148 – N				
+Look at the top card of the defending hero's deck. You may put it on the bottom."		Assassin Attack Reaction	Narendra B Adi																	S R – DYN148 – N	https://storage.googleapis.com/fabmaster/media/images/DYN148.width-450.png – DYN148 – N			
+DYN149	DYN	Cut to the Chase	2	0		3			C	Assassin, Attack Reaction					"Target Assassin attack action card with **contract** gains +2{p}.
+
+Look at the top card of the defending hero's deck. You may put it on the bottom."		Assassin Attack Reaction	Narendra B Adi																	S R – DYN149 – N	https://storage.googleapis.com/fabmaster/media/images/DYN149.width-450.png – DYN149 – N			
+DYN150	DYN	Cut to the Chase	3	0		3			C	Assassin, Attack Reaction					"Target Assassin attack action card with **contract** gains +1{p}.
+
+Look at the top card of the defending hero's deck. You may put it on the bottom."		Assassin Attack Reaction	Narendra B Adi																	S R – DYN150 – N	https://storage.googleapis.com/fabmaster/media/images/DYN150.width-450.png – DYN150 – N			
 DYN151	DYN	Sandscour Greatbow							M – DYN151 – N, V – DYN151 – N – AB	Ranger, Weapon, Bow, 2H		Once per Turn Action	Go again		"**Once per Turn Action** – {r}: Look at the top card of your deck. You may put an arrow from your hand or the top of your deck face up into your arsenal. **Go again**
 
-Whenever an arrow is put face up in arsenal from your deck, put an aim counter on it."		Ranger Weapon – Bow (2H)	Carlos Cruchaga				No													S – DYN151 – N, C – DYN151 – N – AB				
+Whenever an arrow is put face up in arsenal from your deck, put an aim counter on it."		Ranger Weapon – Bow (2H)	Carlos Cruchaga				No													S R – DYN151 – N, C – DYN151 – N – AB	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN151.png – DYN151 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN151_Marvel.png – DYN151 – N – AB			
 DYN171	DYN	Amethyst Tiara				1			M – DYN171 – N, V – DYN171 – N – AB	Runeblade, Equipment, Head	Blade Break	Instant		Spellvoid 1	"**Instant** – Destroy Amethyst Tiara: Runechants you control have **spellvoid 1** this turn.
 
-**Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Runeblade Equipment – Head	Joseph Qiu				No													S – DYN171 – N, C – DYN171 – N – AB				
+**Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Runeblade Equipment – Head	Joseph Qiu				No													S R – DYN171 – N, C – DYN171 – N – AB	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN171.png – DYN171 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN171_Marvel.png – DYN171 – N – AB			
 DYN188	DYN	Sky Fire Lanterns	1	0		2			C	Runeblade, Action	Go again				"Reveal the top card of your deck. If it’s red, create a Runechant token.
 
-**Go again**"		Runeblade Action	Shen Fei																	S R – DYN188 – N				
+**Go again**"		Runeblade Action	Shen Fei																	S R – DYN188 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN188.png – DYN188 – N			
 DYN189	DYN	Sky Fire Lanterns	2	0		2			C	Runeblade, Action	Go again				"Reveal the top card of your deck. If it’s yellow, create a Runechant token.
 
-**Go again**"		Runeblade Action	Shen Fei																	S R – DYN189 – N				
+**Go again**"		Runeblade Action	Shen Fei																	S R – DYN189 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN189.png – DYN189 – N			
 DYN190	DYN	Sky Fire Lanterns	3	0		2			C	Runeblade, Action	Go again				"Reveal the top card of your deck. If it’s blue, create a Runechant token.
 
-**Go again**"		Runeblade Action	Shen Fei																	S R – DYN190 – N				
+**Go again**"		Runeblade Action	Shen Fei																	S R – DYN190 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN190.png – DYN190 – N			
 DYN192	DYN	Surgent Aethertide							M	Wizard, Weapon, Staff, 2H	Go again				"**Once per Turn Action** – {r}{r}: Deal 1 arcane damage to an opposing hero. **Go again**
 
-The first card you play each turn with an arcane damage effect, instead deals that much arcane damage plus X, where X is the damage dealt by Surgent Aethertide this turn."		Wizard Weapon – Staff (2H)	Alexis Susani				No													S – DYN192 – N, C – DYN192 – N – EA				
+The first card you play each turn with an arcane damage effect, instead deals that much arcane damage plus X, where X is the damage dealt by Surgent Aethertide this turn."		Wizard Weapon – Staff (2H)	Alexis Susani				No													S R – DYN192 – N, C – DYN192 – N – EA	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN192.png – DYN192 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN192_Marvel.png – DYN192 – N – EA			
+LGS116, DYN200	LGS, DYN	Blessing of Aether	1	1		2			P, R	Wizard, Action, Aura					At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 3.		Wizard Action – Aura	soyameii																	R – LGS116 – N – EA, S R – DYN200 – N	https://storage.googleapis.com/fabmaster/media/images/dyn_card_Blessing_of_Aether_p1.width-10000.png – LGS116 – N – EA, https://storage.googleapis.com/fabmaster/media/images/DYN200.width-450.png – DYN200 – N			
+LGS117, DYN201	LGS, DYN	Blessing of Aether	2	1		2			P, R	Wizard, Action, Aura					At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 2.		Wizard Action – Aura	soyameii																	R – LGS117 – N – EA, S R – DYN201 – N	https://storage.googleapis.com/fabmaster/media/images/DYN201.width-450.png – DYN201 – N			
+LGS118, DYN202	LGS, DYN	Blessing of Aether	3	1		2			P, R	Wizard, Action, Aura					At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 1.		Wizard Action – Aura	soyameii																	R – LGS118 – N – EA, S R – DYN202 – N	https://storage.googleapis.com/fabmaster/media/images/DYN202.width-450.png – DYN202 – N			
 FAB115, DYN206	FAB, DYN	Sap	1	0		3			P, C	Wizard, Action	Surge				"Deal 3 arcane damage to target hero.
 
 **Surge** - If this deals more than 3 damage to a hero, you may remove an energy counter from a permanent they control."		Wizard Action	Riordan Delmiro, Asep Ariyanto																	R – FAB115 – N, S – DYN206 – N				
@@ -4534,31 +4592,17 @@ FAB117, DYN208	FAB, DYN	Sap	3	0		3			P, C	Wizard, Action	Surge				"Deal 1 arcane
 **Surge** – If this deals more than 1 damage to a hero, you may remove an energy counter from a permanent they control."		Wizard Action	Riordan Delmiro, Asep Ariyanto																	R – FAB117 – N, S – DYN208 – N				
 DYN230	DYN	Water Glow Lanterns	1	0		2			C	Illusionist, Action	Go again				"Reveal the top card of your deck. If it’s red, create a Spectral Shield token.
 
-**Go again**"		Illusionist Action	Mateusz Wisniewski																	S R – DYN230 – N				
+**Go again**"		Illusionist Action	Mateusz Wisniewski																	S R – DYN230 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN230.png – DYN230 – N			
 DYN231	DYN	Water Glow Lanterns	2	0		2			C	Illusionist, Action	Go again				"Reveal the top card of your deck. If it’s yellow, create a Spectral Shield token.
 
-**Go again**"		Illusionist Action	Mateusz Wisniewski																	S R – DYN231 – N				
+**Go again**"		Illusionist Action	Mateusz Wisniewski																	S R – DYN231 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN231.png – DYN231 – N			
 DYN232	DYN	Water Glow Lanterns	3	0		2			C	Illusionist, Action	Go again				"Reveal the top card of your deck. If it’s blue, create a Spectral Shield token.
 
-**Go again**"		Illusionist Action	Mateusz Wisniewski																	S R – DYN232 – N				
-DYN234	DYN	Crown of Dominion							L – DYN234 – N, V – DYN234 – N – FA	Generic, Equipment, Head					Your hero is Royal. When you equip Crown of Dominion, create a Gold token.	“I will watch over this Dynasty till my very last breath. Its power, riches, and enemies, I take as my own.” - Emperor, Dracai of Aesir	Generic Equipment – Head	Andy Aslamov				No													S – DYN234 – N, C – DYN234 – N – FA	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN234_Marvel.png – DYN234 – N – FA			
+**Go again**"		Illusionist Action	Mateusz Wisniewski																	S R – DYN232 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN232.png – DYN232 – N			
+DYN234	DYN	Crown of Dominion							L – DYN234 – N, V – DYN234 – N – FA	Generic, Equipment, Head					"Your hero is Royal.
+
+When you equip Crown of Dominion, create a Gold token."	“I will watch over this Dynasty till my very last breath. Its power, riches, and enemies, I take as my own.” - Emperor, Dracai of Aesir	Generic Equipment – Head	Andy Aslamov				No													R C – DYN234 – N, C – DYN234 – N – FA	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN234.png – DYN234 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN234_Marvel.png – DYN234 – N – FA			
 DYN242	DYN	Imperial Warhorn	1	2					M	Generic, Action, Item	Legendary	Action			"**Legendary** *(You may only have 1 Imperial Warhorn in your deck.)*
 
-**Action** – {r}, destroy Imperial Warhorn: Choose any number of heroes. Each of them chooses an ally, aura, item, or landmark permanent they control. Destroy each permanent chosen this way. If you are Royal, instead you choose the permanents."		Generic Action – Item	Othon Nikolaidis				No													S – DYN242 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN242.png – DYN242 – N			
+**Action** – {r}, destroy Imperial Warhorn: Choose any number of heroes. Each of them chooses an ally, aura, item, or landmark permanent they control. Destroy each permanent chosen this way. If you are Royal, instead you choose the permanents."		Generic Action – Item	Othon Nikolaidis				No													S R – DYN242 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN242.png – DYN242 – N			
 DYN243	DYN	Gold							C	Generic, Token, Item		Action	Go again		**Action** – {r}{r}, destroy Gold: Draw a card. **Go again**		Generic Token – Item	Nikolay Moskvin																	S – DYN243 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN243.png – DYN243 – N			
-HER075	HER	Yoji, Royal Protector					22	4	P	Guardian, Hero, Young		Once per Turn Instant			**Once per Turn Instant** - {r}{r}{r}: The next time another target hero would be dealt damage this turn, instead that damage is dealt to Yoji and prevent 1 of that damage.		Guardian Hero – Young	Othon Nikolaidis																	C – HER075 – N	https://storage.googleapis.com/fabmaster/media/images/dyn_card_Yoji_Royal_Protector.width-10000.png – HER075 – N			
-LGS112	LGS	Quicksilver Dagger			1				P	Warrior, Weapon, Dagger, 1H	Go again	Once per Turn Action	Attack		"**Once per Turn Action** – {r}: **Attack**
-
-If another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**."		Warrior Weapon – Dagger (1H)	Alexis Susani																	C – LGS112 – N				
-LGS116	LGS	Blessing of Aether	1	1		2			P	Wizard, Action, Aura					At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 3.		Wizard Action – Aura	soyameii																	R – LGS116 – N – EA	https://storage.googleapis.com/fabmaster/media/images/dyn_card_Blessing_of_Aether_p1.width-10000.png – LGS116 – N – EA			
-LGS117	LGS	Blessing of Aether	2	1		2			P	Wizard, Action, Aura					At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 2.		Wizard Action – Aura	soyameii																	R – LGS117 – N – EA				
-LGS118	LGS	Blessing of Aether	3	1		2			P	Wizard, Action, Aura					At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 1.		Wizard Action – Aura	soyameii																	R – LGS118 – N – EA				
-LGS122	LGS	Predatory Streak	1	0		2			P	Ninja, Action	Go again				"Create 3 Crouching Tigers in your banished zone. You may play them this turn.
-
-**Go again**"		Ninja Action	Immanuela Crovius																	R – LGS122 – N – EA				
-LGS123	LGS	Predatory Streak	2	0		2			P	Ninja, Action	Go again				"Create 2 Crouching Tigers in your banished zone. You may play them this turn.
-
-**Go again**"		Ninja Action	Immanuela Crovius																	R – LGS123 – N – EA				
-LGS124	LGS	Predatory Streak	3	0		2			P	Ninja, Action	Go again				"Create 1 Crouching Tigers in your banished zone. You may play it this turn.
-
-**Go again**"		Ninja Action	Immanuela Crovius																	R – LGS124 – N – EA				
