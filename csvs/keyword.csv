@@ -11,6 +11,7 @@ Combo	A Ninja mechanic that showcases the power of playing multiple attacks in a
 Contract	
 Crush	A Guardian mechanic that showcases the strength of the guardian. When an attack with **crush** deals 4 or more damage to a hero, an effect is applied.
 Dominate	An attack that is difficult to defend. Cards with **dominate** cannot be defended with more than 1 card from the defending hero’s hand.
+Ephemeral	If an ephemeral card would be put into a graveyard from anywhere, instead it ceases to exist.
 Essence	**Essence** is a keyword that exists on Elemental hero cards showing what Elements that hero specializes in and what Element cards can be included in the deck.
 Freeze	A **frozen** object can’t be played or activated.
 Fusion	**Fusion** is a keyword that **fuses** one or more elements with an elemental card to give an additional effect.

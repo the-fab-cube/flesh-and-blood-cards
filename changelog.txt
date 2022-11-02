@@ -254,7 +254,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 IN PROGRESS:
 - Added card data for Dynasty set (with assistance from manwaring!)
 - Added card data for FAB115-FAB117, LGS112, and LGS122-LGS124
-- Added Contract, Overpower, Piercing, and Surge as keywords
+- Added Contract, Ephemeral, Overpower, Piercing, and Surge as keywords
 - Added Assassin, Book, and Rock as a type
 - Added Aleksey Peregudov, Askapoj T, Grigoriy Parshakov, Irini Si, Nikita Bondarev, Sarlya Asavametha, and Sofia Akimova as artists
 - Updated the FAB set to include the new max card id

@@ -4460,6 +4460,10 @@ DYN041	DYN	Reinforce Steel	3	2		3			C	Guardian, Action					Remove a -1{d} counte
 DYN045	DYN	Blazen Yoroi				1			M – DYN045 – N, V – DYN045 – N – AB	Ninja, Equipment, Chest	Blade Break				"While Blazen Yoroi is defending on chain link 4 or higher, it has +4{d}.
 
 **Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Ninja Equipment – Chest	Shen Fei				No													S R – DYN045 – N, C – DYN045 – N – AB	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN045.png – DYN045 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN045_Marvel.png – DYN045 – N – AB			
+DYN048	DYN	Mindstate of Tiger	3	0					M	Ninja, Action, Aura					At the start of your turn, destroy Mindstate of Tiger then create a Crouching Tiger in your hand.	"""First you must believe, then see, and finally, become."" - Grandmaster Li"	Ninja Action – Aura	Shen Fei				No													S – DYN048 – N				
+DYN065	DYN	Crouching Tiger		0	0				C	Ninja, Action, Attack	Ephemeral, Go again				"**Ephemeral** *(If Crouching Tiger would be put into a graveyard from anywhere, instead it ceases to exist.)*
+
+**Go again**"		Ninja Action – Attack	Carlos Cruchaga																	S – DYN065 – N				
 LGS122, DYN062	LGS, DYN	Predatory Streak	1	0		2			P, C	Ninja, Action	Go again				"Create 3 Crouching Tigers in your banished zone. You may play them this turn.
 
 **Go again**"		Ninja Action	Immanuela Crovius																	R – LGS122 – N – EA, S R – DYN062 – N	https://storage.googleapis.com/fabmaster/media/images/DYN062.width-450.png – DYN062 – N			
