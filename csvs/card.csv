@@ -4466,15 +4466,7 @@ DYN048	DYN	Mindstate of Tiger	3	0					M	Ninja, Action, Aura					At the start of 
 DYN050	DYN	Flex Claws	1	1	4	2			R	Ninja, Action, Attack	Go again				"When this hits, create a Crouching Tiger in your banished zone. You may play it this turn.
 
 **Go again**"		Ninja Action – Attack	Isuardi Therianto				No													S – DYN050 – N				
-DYN051	DYN	Flex Claws	2	1	3	2			R	Ninja, Action, Attack	Go again				"When this hits, create a Crouching Tiger in your banished zone. You may play it this turn.
-
-**Go again**"		Ninja Action – Attack	Isuardi Therianto				No													S – DYN051 – N				
-DYN052	DYN	Flex Claws	3	1	2	2			R	Ninja, Action, Attack	Go again				"When this hits, create a Crouching Tiger in your banished zone. You may play it this turn.
-
-**Go again**"		Ninja Action – Attack	Isuardi Therianto				No													S – DYN052 – N				
 DYN056	DYN	Pouncing Qi	1	0	3	3			C	Ninja, Action, Attack	Combo, Go again				**Combo** - If Crouching Tiger was the last attack this combat chain, Pouncing Qi has +1{p} and **go again**.		Ninja Action – Attack	Rio Sabda																	S – DYN056 – N				
-DYN057	DYN	Pouncing Qi	2	0	2	3			C	Ninja, Action, Attack	Combo, Go again				**Combo** - If Crouching Tiger was the last attack this combat chain, Pouncing Qi has +1{p} and **go again**.		Ninja Action – Attack	Rio Sabda																	S – DYN057 – N				
-DYN058	DYN	Pouncing Qi	3	0	1	3			C	Ninja, Action, Attack	Combo, Go again				**Combo** - If Crouching Tiger was the last attack this combat chain, Pouncing Qi has +1{p} and **go again**.		Ninja Action – Attack	Rio Sabda																	S – DYN058 – N				
 DYN065	DYN	Crouching Tiger		0	0				C	Ninja, Action, Attack	Ephemeral, Go again				"**Ephemeral** *(If Crouching Tiger would be put into a graveyard from anywhere, instead it ceases to exist.)*
 
 **Go again**"		Ninja Action – Attack	Carlos Cruchaga																	S – DYN065 – N				
@@ -4688,6 +4680,10 @@ DYN190	DYN	Sky Fire Lanterns	3	0		2			C	Runeblade, Action	Go again				"Reveal th
 DYN192	DYN	Surgent Aethertide							M	Wizard, Weapon, Staff, 2H	Go again				"**Once per Turn Action** – {r}{r}: Deal 1 arcane damage to an opposing hero. **Go again**
 
 The first card you play each turn with an arcane damage effect, instead deals that much arcane damage plus X, where X is the damage dealt by Surgent Aethertide this turn."		Wizard Weapon – Staff (2H)	Alexis Susani				No													S R – DYN192 – N, C – DYN192 – N – EA	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN192.png – DYN192 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN192_Marvel.png – DYN192 – N – EA			
+DYN195	DYN	Swell Tidings	1	2		3			M	Wizard, Action	Surge				"Deal 5 arcane damage to target hero.
+
+**Surge** - If this deals more than 5 damage, create a Ponder token. *(It’s an aura with “At the beginning of your end phase, destroy Ponder and draw a card.”)*"		Wizard Action	Federico Musetti				No													S – DYN195 – N				
+DYN196	DYN	Brainstorm	3	3					M	Wizard, Instant					Until end of turn, your hero gains “Whenever you draw a card this action phase, deal 1 arcane damage to any target”. *(Brainstorm itself does not have an arcane damage effect. It is not modified by arcane damage modifiers.)*		Wizard Instant	Mark Poole				No													S – DYN196 – N				
 LGS116, DYN200	LGS, DYN	Blessing of Aether	1	1		2			P, R	Wizard, Action, Aura					At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 3.		Wizard Action – Aura	soyameii																	R – LGS116 – N – EA, S R – DYN200 – N	https://storage.googleapis.com/fabmaster/media/images/dyn_card_Blessing_of_Aether_p1.width-10000.png – LGS116 – N – EA, https://storage.googleapis.com/fabmaster/media/images/DYN200.width-450.png – DYN200 – N			
 LGS117, DYN201	LGS, DYN	Blessing of Aether	2	1		2			P, R	Wizard, Action, Aura					At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 2.		Wizard Action – Aura	soyameii																	R – LGS117 – N – EA, S R – DYN201 – N	https://storage.googleapis.com/fabmaster/media/images/DYN201.width-450.png – DYN201 – N			
 LGS118, DYN202	LGS, DYN	Blessing of Aether	3	1		2			P, R	Wizard, Action, Aura					At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 1.		Wizard Action – Aura	soyameii																	R – LGS118 – N – EA, S R – DYN202 – N	https://storage.googleapis.com/fabmaster/media/images/DYN202.width-450.png – DYN202 – N			
@@ -4700,12 +4696,25 @@ FAB116, DYN207	FAB, DYN	Sap	2	0		3			P, C	Wizard, Action	Surge				"Deal 2 arcane
 FAB117, DYN208	FAB, DYN	Sap	3	0		3			P, C	Wizard, Action	Surge				"Deal 1 arcane damage to target hero.
 
 **Surge** – If this deals more than 1 damage to a hero, you may remove an energy counter from a permanent they control."		Wizard Action	Riordan Delmiro, Asep Ariyanto																	R – FAB117 – N, S – DYN208 – N				
+DYN212	DYN	Invoke Suraya	2	2		3			L	Light, Illusionist, Action, Invocation	Legendary, Transform, Go again				"**Legendary** *(You may only have 1 Invoke Suraya in your deck.)*
+
+**Transform** target Spectral Shield you control into Suraya, Arcane Herald.
+
+**Go again**"		Light Illusionist Action – Invocation	Alexander Mokhov				No													S – DYN212 – N				
+DYN212	DYN	Suraya, Archangel of Knowledge			4		4		L	Light, Illusionist, Angel, Ally	Ward 4				"**Once per Turn Action** - {p}{p}: **Attack**. Whenever Suraya attacks, you may banish a Light card from your hero’s soul. If you do, Suraya deals 1 arcane damage to any target.
+
+Whenever Suraya deals damage, you gain that much {h}.
+
+**Ward 4** *(If your hero would be dealt damage, prevent 4 of that damage and destroy Suraya.)*"		Light Illusionist – Angel Ally	Alexander Mokhov				No													C – DYN212 – N – EA				
 DYN215	DYN	Phantasmal Symbiosis	2	1	6	3			M	Illusionist, Action, Attack	Phantasm				"When this attacks, name a card.  Cards with that name are Illusionist until end of turn.
 
 **Phantasm** *(When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this and close the combat chain.)*"		Illusionist Action – Attack	Othon Nikolaidis				No													S – DYN215 – N				
 DYN217	DYN	Tome of Aeo	3	1		2			M	Illusionist, Action, Aura	Ward 1				"At the beginning of your action phase, destroy Tome of Aeo then draw a card.
 
 **Ward 1** *(If your hero would be dealt damage, prevent 1 of that damage and destroy Tome of Aeo.)*"		Illusionist Action – Aura	Mark Poole				No													S – DYN217 – N				
+DYN218	DYN	Blessing of Spirits	1	1		2			R	Illusionist, Action, Aura	Ward 1				"At the start of your turn, destroy Blessing of Spirits then create 3 Spectral Shield tokens.
+
+**Ward 1** *(If your hero would be dealt damage, prevent 1 of that damage and destroy Blessing of Spirits.)*"		Illusionist Action – Aura	Ramza Ardyputra				No													S – DYN218 – N				
 DYN230	DYN	Water Glow Lanterns	1	0		2			C	Illusionist, Action	Go again				"Reveal the top card of your deck. If it’s red, create a Spectral Shield token.
 
 **Go again**"		Illusionist Action	Mateusz Wisniewski																	S R – DYN230 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN230.png – DYN230 – N			
@@ -4728,3 +4737,4 @@ DYN242	DYN	Imperial Warhorn	1	2					M	Generic, Action, Item	Legendary	Action			"
 
 **Action** – {r}, destroy Imperial Warhorn: Choose any number of heroes. Each of them chooses an ally, aura, item, or landmark permanent they control. Destroy each permanent chosen this way. If you are Royal, instead you choose the permanents."		Generic Action – Item	Othon Nikolaidis				No													S R – DYN242 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN242.png – DYN242 – N			
 DYN243	DYN	Gold							C	Generic, Token, Item		Action	Go again		**Action** – {r}{r}, destroy Gold: Draw a card. **Go again**		Generic Token – Item	Nikolay Moskvin																	S – DYN243 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN243.png – DYN243 – N			
+DYN244	DYN	Ponder							T	Generic, Token, Aura					At the beginning of your end phase, destroy Ponder and draw a card.		Generic Token – Item	Henrique Lindner																	S – DYN244 – N				
