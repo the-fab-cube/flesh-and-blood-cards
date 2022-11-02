@@ -4449,6 +4449,7 @@ DYN008	DYN	Skull Crack	1	2	6	3			M	Brute, Action, Attack					When Skull Crack is
 DYN009	DYN	Berserk	2	1		3			M	Brute, Action	Go again				"Until end of turn, whenever you discard a random card with 6 or more {p}, banish it. If you do, reveal the top card of your deck. If it has 6 or more {p}, draw a card.
 
 **Go again**"		Brute Action	Othon Nikolaidis				No													S – DYN009 - N				
+DYN011	DYN	Reincarnate	2	3	6	3			R	Brute, Action, Attack					When Reincarnate is discarded at random, put it on the bottom of your deck.		Brute Action – Attack	Mateusz Wisniewski				No													S – DYN011 - N				
 HER075, DYN025	HER, DYN	Yoji, Royal Protector					22	4	P, M	Guardian, Hero, Young		Once per Turn Instant			**Once per Turn Instant** - {r}{r}{r}: The next time another target hero would be dealt damage this turn, instead that damage is dealt to Yoji and prevent 1 of that damage.		Guardian Hero – Young	Othon Nikolaidis																	C – HER075 – N, S R – DYN025 – N	https://storage.googleapis.com/fabmaster/media/images/dyn_card_Yoji_Royal_Protector.width-10000.png – HER075 – N, https://storage.googleapis.com/fabmaster/media/images/DYN025.width-450.png – DYN025 – N			
 DYN026	DYN	Seasoned Saviour				3			M – DYN026 – N – EA, V – DYN026 – N – AB	Guardian, Equipment, Off-Hand	Battleworn				When you equip Seasoned Saviour, put two -1{d} counters on it. **Battleworn**		Guardian Equipment – Off-Hand	Sofia Akimova				No													S R – DYN026 – N – EA, C – DYN026 – N – AB	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN026.png – DYN026 – N – EA, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN026_Marvel.png – DYN026 – N – AB			
 DYN028	DYN	Buckle	3	3		3			M	Guardian, Action	Go again			Dominate	"Your next Guardian attack this turn gains +1{p}, **dominate**, and “When this hits a hero, destroy an equipment they control with a -1{d} counter on it.”
@@ -4460,7 +4461,20 @@ DYN041	DYN	Reinforce Steel	3	2		3			C	Guardian, Action					Remove a -1{d} counte
 DYN045	DYN	Blazen Yoroi				1			M – DYN045 – N, V – DYN045 – N – AB	Ninja, Equipment, Chest	Blade Break				"While Blazen Yoroi is defending on chain link 4 or higher, it has +4{d}.
 
 **Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Ninja Equipment – Chest	Shen Fei				No													S R – DYN045 – N, C – DYN045 – N – AB	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN045.png – DYN045 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN045_Marvel.png – DYN045 – N – AB			
+DYN047	DYN	Tiger Swipe	1	0	2	3			M	Ninja, Action, Attack	Combo, Go again				**Combo** - If Crouching Tiger was the last attack this combat chain, this has +2{p}, **go again**, and “When this hits, create X Crouching Tigers in your banished zone, where X is the number of Crouching Tigers you control. You may play them this turn.”		Ninja Action – Attack	Alexander Mokhov				No													S – DYN047 – N				
 DYN048	DYN	Mindstate of Tiger	3	0					M	Ninja, Action, Aura					At the start of your turn, destroy Mindstate of Tiger then create a Crouching Tiger in your hand.	"""First you must believe, then see, and finally, become."" - Grandmaster Li"	Ninja Action – Aura	Shen Fei				No													S – DYN048 – N				
+DYN050	DYN	Flex Claws	1	1	4	2			R	Ninja, Action, Attack	Go again				"When this hits, create a Crouching Tiger in your banished zone. You may play it this turn.
+
+**Go again**"		Ninja Action – Attack	Isuardi Therianto				No													S – DYN050 – N				
+DYN051	DYN	Flex Claws	2	1	3	2			R	Ninja, Action, Attack	Go again				"When this hits, create a Crouching Tiger in your banished zone. You may play it this turn.
+
+**Go again**"		Ninja Action – Attack	Isuardi Therianto				No													S – DYN051 – N				
+DYN052	DYN	Flex Claws	3	1	2	2			R	Ninja, Action, Attack	Go again				"When this hits, create a Crouching Tiger in your banished zone. You may play it this turn.
+
+**Go again**"		Ninja Action – Attack	Isuardi Therianto				No													S – DYN052 – N				
+DYN056	DYN	Pouncing Qi	1	0	3	3			C	Ninja, Action, Attack	Combo, Go again				**Combo** - If Crouching Tiger was the last attack this combat chain, Pouncing Qi has +1{p} and **go again**.		Ninja Action – Attack	Rio Sabda																	S – DYN056 – N				
+DYN057	DYN	Pouncing Qi	2	0	2	3			C	Ninja, Action, Attack	Combo, Go again				**Combo** - If Crouching Tiger was the last attack this combat chain, Pouncing Qi has +1{p} and **go again**.		Ninja Action – Attack	Rio Sabda																	S – DYN057 – N				
+DYN058	DYN	Pouncing Qi	3	0	1	3			C	Ninja, Action, Attack	Combo, Go again				**Combo** - If Crouching Tiger was the last attack this combat chain, Pouncing Qi has +1{p} and **go again**.		Ninja Action – Attack	Rio Sabda																	S – DYN058 – N				
 DYN065	DYN	Crouching Tiger		0	0				C	Ninja, Action, Attack	Ephemeral, Go again				"**Ephemeral** *(If Crouching Tiger would be put into a graveyard from anywhere, instead it ceases to exist.)*
 
 **Go again**"		Ninja Action – Attack	Carlos Cruchaga																	S – DYN065 – N				
@@ -4478,6 +4492,9 @@ DYN066	DYN	Spirit of Eirina	2	0					L	Light, Warrior, Action, Item	Legendary				
 If Spirit of Eirina would be put into your soul, instead put it into the arena.
 
 You may play Lumina Ascension as though it were an instant."	“Her spirit inside me, always.” - Boltyn	Light Warrior Action – Item	Henrique Lindner				No													S – DYN066 – N				
+DYN067	DYN	Jubeel, Spellbane			3				M	Warrior, Weapon, Sword, 2H					"**Once per Turn Action** - {p}: **Attack**
+
+Whenever this hits a hero and you don’t control a Spellbane Aegis, create a Spellbane Aegis token. *(It’s an aura with “If your hero would be dealt arcane damage, you may destroy this to prevent 1 of that damage.”)*"		Warrior Weapon – Sword (2H)	Andy Aslamov				No													S – DYN067 – N				
 DYN068	DYN	Merciless Battleaxe			3				M – DYN068 – N, V – DYN068 – N – AB	Warrior, Weapon, Axe, 2H	Overpower	Once per Turn Action	Attack		"**Once per Turn Action** - {r}{r}{r}: **Atttack**
 
 Whenever Merciless Battleaxe attacks, if its {p} is greater than twice its base {p}, the attack gains **overpower**. *(This can’t be defended by more than 1 action card.)*"		Warrior Weapon – Axe (2H)	Carlos Cruchaga				No													S R – DYN068 – N, C – DYN068 – N – AB	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN068.png – DYN068 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN068_Marvel.png – DYN068 – N – AB			
@@ -4492,6 +4509,10 @@ DYN072	DYN	Ironsong Pride	1	1					M	Warrior, Instant, Aura					"Put a +1{p} coun
 When Ironsong Pride leaves the arena, remove all +1{p} counters from swords you control.
 
 At the beginning of your end phase, if a sword has not hit this turn, destroy Ironsong Pride."		Warrior Instant – Aura	soyameii				No													S – DYN072 – N				
+DYN078	DYN	Precision Press	3	1		3			R	Warrior, Action	Go again, Piercing 1				"Your next sword or dagger attack this turn has **go again** and **piercing 1**. *(If it’s defended by an equipment, it has +1{p}.)*
+
+**Go again**"		Warrior Action	Federico Musetti				No													S – DYN078 – N				
+DYN079	DYN	Puncture	1	1		3			C	Warrior, Attack Reaction	Piercing 1				Target sword or dagger attack gains +3{p} and **piercing 1**. *(If it’s defended by an equipment, it has +1{p}.)*		Warrior Attack Reaction	Tommy Shuartono																	S – DYN079 – N				
 DYN088	DYN	Hanabi Blaster			5				M – DYN088 – N, V – DYN088 – N – AB	Mechanologist, Weapon, Gun, 2H	Overpower	Once per Turn Action	Attack		"**Once per Turn Action** - Remove 2 steam counters from Hanabi Blaster: **Atttack**
 
 **Overpower** *(This can’t be defended by more than 1 action card.)*
@@ -4523,6 +4544,7 @@ DYN093	DYN	Plasma Mainline	1	2					M	Mechanologist, Action, Item					"Plasma Mai
 When a Mechanologist item with cost 2 or less enters the arena under your control, you may move a steam counter from Plasma Mainline to that item."		Mechanologist Action – Item	Askapoj T				No													S – DYN093 – N				
 DYN094	DYN	Powder Keg	3	0					M	Mechanologist, Action, Item					Whenever a Mechanologist gun you control hits, you may destroy Powder Keg and a defending equipment.		Mechanologist Action – Item	Victoria Belyaeva				No													S R C – DYN094 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN094.png – DYN094 – N			
 DYN098	DYN	Blessing of Ingenuity	1	1		3			R	Mechanologist, Action, Aura					At the start of your turn, destroy Blessing of Ingenuity then put up to 3 Hyper Drivers from your graveyard and/or banished zone into the arena.	“Take care of your work, that one day it may take care of you.” - Teklovossen	Mechanologist Action – Aura	Kevin Sidharta				No													S – DYN098 – N				
+DYN107	DYN	Urgent Delivery	1	0	4	3			C	Mechanologist, Action, Attack					When this hits, you may put a Mechanologist item from your hand into the arena with cost less than or equal to the number of times you've **boosted** this combat chain.		Mechanologist Action – Attack	Rio Sabda																	S – DYN107 – N				
 DYN111	DYN	Hyper Driver	2	1					C	Mechanologist, Action, Item		Once per Turn Effect			"Hyper Driver enters the arena with 2 steam counters on it. When Hyper Driver has no steam counters on it, destroy it.
 
 **Once per Turn Effect** - When you **boost** a card, remove a steam counter from Hyper Driver and gain {r}."		Mechanologist Action – Item	Alexander Mokhov																	S – DYN111 – N				
@@ -4678,6 +4700,12 @@ FAB116, DYN207	FAB, DYN	Sap	2	0		3			P, C	Wizard, Action	Surge				"Deal 2 arcane
 FAB117, DYN208	FAB, DYN	Sap	3	0		3			P, C	Wizard, Action	Surge				"Deal 1 arcane damage to target hero.
 
 **Surge** – If this deals more than 1 damage to a hero, you may remove an energy counter from a permanent they control."		Wizard Action	Riordan Delmiro, Asep Ariyanto																	R – FAB117 – N, S – DYN208 – N				
+DYN215	DYN	Phantasmal Symbiosis	2	1	6	3			M	Illusionist, Action, Attack	Phantasm				"When this attacks, name a card.  Cards with that name are Illusionist until end of turn.
+
+**Phantasm** *(When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this and close the combat chain.)*"		Illusionist Action – Attack	Othon Nikolaidis				No													S – DYN215 – N				
+DYN217	DYN	Tome of Aeo	3	1		2			M	Illusionist, Action, Aura	Ward 1				"At the beginning of your action phase, destroy Tome of Aeo then draw a card.
+
+**Ward 1** *(If your hero would be dealt damage, prevent 1 of that damage and destroy Tome of Aeo.)*"		Illusionist Action – Aura	Mark Poole				No													S – DYN217 – N				
 DYN230	DYN	Water Glow Lanterns	1	0		2			C	Illusionist, Action	Go again				"Reveal the top card of your deck. If it’s red, create a Spectral Shield token.
 
 **Go again**"		Illusionist Action	Mateusz Wisniewski																	S R – DYN230 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN230.png – DYN230 – N			
