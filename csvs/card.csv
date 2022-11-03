@@ -4235,7 +4235,7 @@ UPR135	UPR	Ice Bolt	3	2		3			C	Ice, Wizard, Action					Deal 3 arcane damage to a
 FAB086, UPR136	FAB, UPR	Coronet Peak				2			P, L	Ice, Equipment, Head	Blade Break	Action			"**Action** - {r}{r}{r}: Target hero discards a card unless they pay {r}.
 
 **Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Ice Equipment – Head	soyameii				No													G – FAB086 – N, R C – UPR136 – N	https://storage.googleapis.com/fabmaster/media/images/FAB086.width-450.png – FAB086 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR136.png – UPR136 – N			
-UPR137	UPR	Glacial Horns				0			C	Ice, Equipment, Head		Action	Freeze, Go again		**Action** - Destroy Glacial Horns: Choose a hero. **Freeze** up to 1 card in their arsenal and 1 ally they control until the start of your next turn. **Go again** *(A frozen object can’t be played or activated.)*		Ice Equipment – Head	Yulia Tarushko																	S  R C – UPR137 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR137.png – UPR137 – N			
+UPR137	UPR	Glacial Horns				0			C	Ice, Equipment, Head		Action	Freeze, Go again		**Action** - Destroy Glacial Horns: Choose a hero. **Freeze** up to 1 card in their arsenal and 1 ally they control until the start of your next turn. **Go again** *(A frozen object can’t be played or activated.)*		Ice Equipment – Head	Yulia Tarushko																	S R C – UPR137 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR137.png – UPR137 – N			
 UPR138	UPR	Channel the Bleak Expanse	3	1		2			M	Ice, Action, Aura	Go again, Channel Ice				"**Go again**
 
 Heroes can’t reveal cards, search decks, or draw cards from effects.
