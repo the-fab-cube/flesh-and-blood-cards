@@ -617,7 +617,7 @@ At the beginning of your action phase, destroy Dissipation Shield unless you rem
 **Instant** - Destroy Dissipation Shield: The next time your hero would be dealt damage this turn, prevent X damage, where X is the number of steam counters on Dissipation Shield."		Mechanologist Action – Item	Alexander Mokhov																	S – 1HP217 – N, S R – ARC035 – F, S R – ARC035 – U	https://storage.googleapis.com/fabmaster/media/images/1HP217.width-450.png – 1HP217 – N, https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC035.png - ARC035 – F, https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC035.png – ARC035 – U			
 1HP218, ARC036, DYN110	1HP, ARC, DYN	Hyper Driver	1	1					C, C, C	Mechanologist, Action, Item		Once per Turn Effect			"Hyper Driver enters the arena with 3 steam counters on it. When Hyper Driver has no steam counters on it, destroy it.
 
-**Once per Turn Effect** - When you **boost** a card, remove a steam counter from Hyper Driver and gain {r}."		Mechanologist Action – Item	Alexander Mokhov																	S – 1HP218 – N, S R – ARC036 – F, S R – ARC036 – U, S – DYN110 – N	https://storage.googleapis.com/fabmaster/media/images/1HP218.width-450.png – 1HP218 – N, https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC036.png - ARC036 – F, https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC036.png – ARC036 – U			
+**Once per Turn Effect** - When you **boost** a card, remove a steam counter from Hyper Driver and gain {r}."		Mechanologist Action – Item	Alexander Mokhov																	S – 1HP218 – N, S R – ARC036 – F, S R – ARC036 – U, S C – DYN110 – N	https://storage.googleapis.com/fabmaster/media/images/1HP218.width-450.png – 1HP218 – N, https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC036.png - ARC036 – F, https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC036.png – ARC036 – U, https://storage.googleapis.com/fabmaster/media/images/DYN110.width-450.png – DYN110 – N			
 1HP219, ARC037	1HP, ARC	Optekal Monocle	3	0					C, C	Mechanologist, Action, Item		Action	Opt 1, Go again		"Optekal Monocle enters the arena with 5 steam counters on it. When Optekal Monocle has no steam counters on it, destroy it.
 
 **Action** - Remove a steam counter from Optekal Monocle: **Opt 1**. **Go again** *(Look at the top card of your deck. You may put it on the bottom.)*"		Mechanologist Action – Item	Sergey Gurskiy																	S – 1HP219 – N, S – ARC037 – F, R – ARC037 – F – AT, S R – ARC037 – U	https://storage.googleapis.com/fabmaster/media/images/1HP219.width-450.png – 1HP219 – N, https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC037.png - ARC037 – F, https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC037-RF.png - ARC037 – F – AT, https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC037.png – ARC037 – U			
@@ -4432,9 +4432,9 @@ You may put this in your deck in place of an invocation you own. Mark the box ne
 DYN001	DYN	Emperor, Dracai of Aesir					15	4	L – DYN001 – N, V – DYN001 – N – AB, V – DYN001 – N – FA	Royal, Draconic, Warrior, Wizard, Hero, Young		Action	Attack		"You may only have red cards in your deck.
 
 **Action** - {r}{r}{r}: Search your deck for Command and Conquer, **attack** with it, then shuffle."		Royal Draconic Warrior Wizard Hero – Young	Federico Musetti				No													R C – DYN001 – N, C – DYN001 – N – AB, C – DYN001 – N – FA	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN001.png – DYN001 – N			
-DYN002	DYN	Dust from the Golden Plains	1	0		3			M	Draconic, Illusionist, Action, Ash	Material			Phantasm	**Material** - While this is under a permanent other than Themai, that permanent has **phantasm**.	The Golden Plains of Solana, where the barley stands guard.	Draconic Illusionist Action – Ash	Asur Misoa				No													S – DYN002 - N				
-DYN003	DYN	Dust from the Red Desert	1	0		3			M	Draconic, Illusionist, Action, Ash	Material			Phantasm	**Material** - While this is under a permanent other than Vynserakai, that permanent has **phantasm**.	The Red Desert of Volcor, where the burning sands prowl.	Draconic Illusionist Action – Ash	Carlos Cruchaga				No													S – DYN003 - N				
-DYN004	DYN	Dust from the Shadow Crypts	1	0		3			M	Draconic, Illusionist, Action, Ash	Material			Phantasm	**Material** - While this is under a permanent other than Nekria, that permanent has **phantasm**.	The Shadow Crypts of the Demonastery, where flesh finds new form.	Draconic Illusionist Action – Ash	Nikita Bondarev				No													S – DYN004 - N				
+DYN002	DYN	Dust from the Golden Plains	1	0		3			M	Draconic, Illusionist, Action, Ash	Material			Phantasm	**Material** - While this is under a permanent other than Themai, that permanent has **phantasm**.	The Golden Plains of Solana, where the barley stands guard.	Draconic Illusionist Action – Ash	Asur Misoa				No													S R – DYN002 - N	https://storage.googleapis.com/fabmaster/media/images/DYN002.width-450.png – DYN002 - N			
+DYN003	DYN	Dust from the Red Desert	1	0		3			M	Draconic, Illusionist, Action, Ash	Material			Phantasm	**Material** - While this is under a permanent other than Vynserakai, that permanent has **phantasm**.	The Red Desert of Volcor, where the burning sands prowl.	Draconic Illusionist Action – Ash	Carlos Cruchaga				No													S R – DYN003 - N	https://storage.googleapis.com/fabmaster/media/images/DYN003.width-450.png – DYN003 - N			
+DYN004	DYN	Dust from the Shadow Crypts	1	0		3			M	Draconic, Illusionist, Action, Ash	Material			Phantasm	**Material** - While this is under a permanent other than Nekria, that permanent has **phantasm**.	The Shadow Crypts of the Demonastery, where flesh finds new form.	Draconic Illusionist Action – Ash	Nikita Bondarev				No													S R – DYN004 - N	https://storage.googleapis.com/fabmaster/media/images/DYN004.width-450.png – DYN004 - N			
 DYN005	DYN	Rok			7				M – DYN005 – N, V – DYN005 – N – AB	Brute, Weapon, Rock, 2H		Once per Turn Action	Attack		"**Once per Turn Action** - {r}{r}{r}: **Attack**
 
 Activate Rok only if you have no cards in hand.
@@ -4444,17 +4444,18 @@ DYN007	DYN	Savage Beatdown	1	3	6	3			M	Brute, Action, Attack					"Play Savage Be
 
 As an additional cost to play Savage Beatdown, discard a random card.
 
-If the discarded card has 6 or more {p}, Savage Beatdown has +6{p}."		Brute Action – Attack	Yugin Maffioli				No													S – DYN007 – N				
-DYN008	DYN	Skull Crack	1	2	6	3			M	Brute, Action, Attack					When Skull Crack is discarded at random, gain {r}.	Like most fruits of the forest, the good part’s inside the shell.	Brute Action – Attack	Phu Thieu				No													S – DYN008 – N				
+If the discarded card has 6 or more {p}, Savage Beatdown has +6{p}."		Brute Action – Attack	Yugin Maffioli				No													S R – DYN007 – N	https://storage.googleapis.com/fabmaster/media/images/DYN007.width-450.png – DYN007 – N			
+DYN008	DYN	Skull Crack	1	2	6	3			M	Brute, Action, Attack					When Skull Crack is discarded at random, gain {r}.	Like most fruits of the forest, the good part’s inside the shell.	Brute Action – Attack	Phu Thieu				No													S R – DYN008 – N	https://storage.googleapis.com/fabmaster/media/images/DYN008.width-450.png – DYN008 – N			
 DYN009	DYN	Berserk	2	1		3			M	Brute, Action	Go again				"Until end of turn, whenever you discard a random card with 6 or more {p}, banish it. If you do, reveal the top card of your deck. If it has 6 or more {p}, draw a card.
 
-**Go again**"		Brute Action	Othon Nikolaidis				No													S – DYN009 - N				
+**Go again**"		Brute Action	Othon Nikolaidis				No													S R – DYN009 - N	https://storage.googleapis.com/fabmaster/media/images/DYN009.width-450.png – DYN009 - N			
 DYN011	DYN	Reincarnate	2	3	6	3			R	Brute, Action, Attack					When Reincarnate is discarded at random, put it on the bottom of your deck.		Brute Action – Attack	Mateusz Wisniewski				No													S – DYN011 - N				
 HER075, DYN025	HER, DYN	Yoji, Royal Protector					22	4	P, M	Guardian, Hero, Young		Once per Turn Instant			**Once per Turn Instant** - {r}{r}{r}: The next time another target hero would be dealt damage this turn, instead that damage is dealt to Yoji and prevent 1 of that damage.		Guardian Hero – Young	Othon Nikolaidis																	C – HER075 – N, S R – DYN025 – N	https://storage.googleapis.com/fabmaster/media/images/dyn_card_Yoji_Royal_Protector.width-10000.png – HER075 – N, https://storage.googleapis.com/fabmaster/media/images/DYN025.width-450.png – DYN025 – N			
 DYN026	DYN	Seasoned Saviour				3			M – DYN026 – N – EA, V – DYN026 – N – AB	Guardian, Equipment, Off-Hand	Battleworn				When you equip Seasoned Saviour, put two -1{d} counters on it. **Battleworn**		Guardian Equipment – Off-Hand	Sofia Akimova				No													S R – DYN026 – N – EA, C – DYN026 – N – AB	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN026.png – DYN026 – N – EA, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN026_Marvel.png – DYN026 – N – AB			
 DYN028	DYN	Buckle	3	3		3			M	Guardian, Action	Go again			Dominate	"Your next Guardian attack this turn gains +1{p}, **dominate**, and “When this hits a hero, destroy an equipment they control with a -1{d} counter on it.”
 
-**Go again**"		Guardian Action	Federico Musetti				No													S – DYN028 – N				
+**Go again**"		Guardian Action	Federico Musetti				No													S R – DYN028 – N	https://storage.googleapis.com/fabmaster/media/images/DYN028.width-450.png – DYN028 – N			
+DYN033	DYN	Blessing of Patience	1	1		3			R	Guardian, Action, Aura					At the start of your turn, destroy Blessing of Patience then target hero gains 3{h}.	"Seek calm even as your enemies gather, for patience begets victory in the theater of war."" - General Nakami"	Guardian Action – Aura	Narendra B Adi				No													S – DYN033 – N				
 DYN039	DYN	Reinforce Steel	1	2		3			C	Guardian, Action					Remove a -1{d} counter from a Guardian off-hand you control with 3 or less base {d}.	It is said that the Imperial Forge of Volcor produces the sturdiest armor in all of Rathe.	Guardian Action	Nathaniel Himawan																	S R – DYN039 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN039.png – DYN039 – N			
 DYN040	DYN	Reinforce Steel	2	2		3			C	Guardian, Action					Remove a -1{d} counter from a Guardian off-hand you control with 2 or less base {d}.	It is said that the Imperial Forge of Volcor produces the sturdiest armor in all of Rathe.	Guardian Action	Nathaniel Himawan																	S R – DYN040 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN040.png – DYN040 – N			
 DYN041	DYN	Reinforce Steel	3	2		3			C	Guardian, Action					Remove a -1{d} counter from a Guardian off-hand you control with 1 or less base {d}.	It is said that the Imperial Forge of Volcor produces the sturdiest armor in all of Rathe.	Guardian Action	Nathaniel Himawan																	S R – DYN041 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN041.png – DYN041 – N			
@@ -4466,6 +4467,7 @@ DYN048	DYN	Mindstate of Tiger	3	0					M	Ninja, Action, Aura					At the start of 
 DYN050	DYN	Flex Claws	1	1	4	2			R	Ninja, Action, Attack	Go again				"When this hits, create a Crouching Tiger in your banished zone. You may play it this turn.
 
 **Go again**"		Ninja Action – Attack	Isuardi Therianto				No													S – DYN050 – N				
+DYN053	DYN	Blessing of Qi	1	1		3			R	Ninja, Action, Aura					At the start of your turn, destroy Blessing of Qi then create a Crouching Tiger in your banished zone. It gains +3{p} and you may play it this turn.		Ninja Action – Aura	Faizal Fikri				No													S – DYN053 – N				
 DYN056	DYN	Pouncing Qi	1	0	3	3			C	Ninja, Action, Attack	Combo, Go again				**Combo** - If Crouching Tiger was the last attack this combat chain, Pouncing Qi has +1{p} and **go again**.		Ninja Action – Attack	Rio Sabda																	S – DYN056 – N				
 DYN065	DYN	Crouching Tiger		0	0				C	Ninja, Action, Attack	Ephemeral, Go again				"**Ephemeral** *(If Crouching Tiger would be put into a graveyard from anywhere, instead it ceases to exist.)*
 
@@ -4483,7 +4485,7 @@ DYN066	DYN	Spirit of Eirina	2	0					L	Light, Warrior, Action, Item	Legendary				
 
 If Spirit of Eirina would be put into your soul, instead put it into the arena.
 
-You may play Lumina Ascension as though it were an instant."	“Her spirit inside me, always.” - Boltyn	Light Warrior Action – Item	Henrique Lindner				No													S – DYN066 – N				
+You may play Lumina Ascension as though it were an instant."	“Her spirit inside me, always.” - Boltyn	Light Warrior Action – Item	Henrique Lindner				No													R C – DYN066 – N	https://storage.googleapis.com/fabmaster/media/images/DYN066.width-450.png – DYN066 – N			
 DYN067	DYN	Jubeel, Spellbane			3				M	Warrior, Weapon, Sword, 2H					"**Once per Turn Action** - {p}: **Attack**
 
 Whenever this hits a hero and you don’t control a Spellbane Aegis, create a Spellbane Aegis token. *(It’s an aura with “If your hero would be dealt arcane damage, you may destroy this to prevent 1 of that damage.”)*"		Warrior Weapon – Sword (2H)	Andy Aslamov				No													S – DYN067 – N				
@@ -4495,12 +4497,12 @@ LGS112, DYN069, DYN070	LGS, DYN, DYN	Quicksilver Dagger			1				P, R, R	Warrior, 
 If another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**."		Warrior Weapon – Dagger (1H)	Alexis Susani																	C – LGS112 – N, S R C – DYN069 – N, S R – DYN070 – N	https://storage.googleapis.com/fabmaster/media/images/DYN069.width-450.png – DYN069 – N, https://storage.googleapis.com/fabmaster/media/images/DYN070.width-450.png – DYN070 – N			
 DYN071	DYN	Cleave	1	1		3			M	Warrior, Action	Go again				"Your next axe attack this turn gains +4{p} and “When this hits a hero or ally, you may deal that much damage to another ally controlled by the same hero.”
 
-**Go again**"		Warrior Action	Narendra B Adi				No													S – DYN071 – N				
+**Go again**"		Warrior Action	Narendra B Adi				No													S R – DYN071 – N	https://storage.googleapis.com/fabmaster/media/images/DYN071.width-450.png – DYN071 – N			
 DYN072	DYN	Ironsong Pride	1	1					M	Warrior, Instant, Aura					"Put a +1{p} counter on target sword you control.
 
 When Ironsong Pride leaves the arena, remove all +1{p} counters from swords you control.
 
-At the beginning of your end phase, if a sword has not hit this turn, destroy Ironsong Pride."		Warrior Instant – Aura	soyameii				No													S – DYN072 – N				
+At the beginning of your end phase, if a sword has not hit this turn, destroy Ironsong Pride."		Warrior Instant – Aura	soyameii				No													S R – DYN072 – N	https://storage.googleapis.com/fabmaster/media/images/DYN072.width-450.png – DYN072 – N			
 DYN078	DYN	Precision Press	3	1		3			R	Warrior, Action	Go again, Piercing 1				"Your next sword or dagger attack this turn has **go again** and **piercing 1**. *(If it’s defended by an equipment, it has +1{p}.)*
 
 **Go again**"		Warrior Action	Federico Musetti				No													S – DYN078 – N				
@@ -4512,39 +4514,39 @@ DYN088	DYN	Hanabi Blaster			5				M – DYN088 – N, V – DYN088 – N – AB	M
 The third time you play a card with **boost** each turn, put a steam counter on Hanabi Blaster."		Mechanologist Weapon – Gun (2H)	Joseph Qiu				No													S R – DYN088 – N, C – DYN088 – N – AB	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN088.png – DYN088 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN088_Marvel.png – DYN088 – N – AB			
 DYN089	DYN	Galvanic Bender				1			R	Mechanologist, Equipment, Arms	Material, Battleworn				"**Material** - While this is under a permanent, that permanent has +1{p}.
 
-**Battleworn** *(When the combat chain closes, if this defended, put a -1{d} counter on it.)*"		Mechanologist Equipment – Arms	Angelina Tyshchik				No													S – DYN089 – N				
+**Battleworn** *(When the combat chain closes, if this defended, put a -1{d} counter on it.)*"		Mechanologist Equipment – Arms	Angelina Tyshchik				No													S R C – DYN089 – N	https://storage.googleapis.com/fabmaster/media/images/DYN089.width-450.png – DYN089 – N			
 DYN090	DYN	Pulsewave Harpoon	1	1	4	3			M	Mechanologist, Action, Attack	Boost				"When this attacks a hero, they reveal X cards from their hand, where X is the number of times you’ve **boosted** this combat chain. Choose an action card with {d} less than or equal to X, then add it to this chain link as a defending card.
 
-**Boost**"		Mechanologist Action – Attack	Tanapon Wachirakul				No													S – DYN090 – N				
+**Boost**"		Mechanologist Action – Attack	Tanapon Wachirakul				No													S R – DYN090 – N	https://storage.googleapis.com/fabmaster/media/images/DYN090.width-450.png – DYN090 – N			
 DYN091	DYN	Bios Update	1	0		3			M	Mechanologist, Action	Go again				"The next attack action card you **boost** this turn gains +3{p}.
 
 The next time a Mechanologist item with cost 2 or less is banished to pay a **boost** cost this turn, put it into the arena.
 
-**Go again**"		Mechanologist Action	Isuardi Therianto				No													S – DYN091 – N				
-DYN092	DYN	Construct Nitro Mechanoid	2	4		3			M	Mechanologist, Action, Construct	Transform, Negate, Go again				"*(Constructs resolve flipped as an item in the arena.)*
+**Go again**"		Mechanologist Action	Isuardi Therianto				No													S R – DYN091 – N	https://storage.googleapis.com/fabmaster/media/images/DYN091.width-450.png – DYN091 – N			
+DYN092	DYN	Construct Nitro Mechanoid	2	4		3			M – DYN092 – N, V – DYN092 – N – EA	Mechanologist, Action, Construct	Transform, Negate, Go again				"*(Constructs resolve flipped as an item in the arena.)*
 
 **Transform** target Mechanologist head, chest, arms, legs, weapon, and 3 Hyper Drivers you control into Nitro Mechanoid. If you don’t, **negate** this. *(Put them under Nitro Mechanoid. If you don’t, put this in the graveyard.)
 
-**Go again**"		Mechanologist Action – Construct	Sam Yang				No													S – DYN092 – N				
-DYN092	DYN	Nitro Mechanoid			5	5			M	Mechanologist, Weapon, Equipment, Item	Overpower, Temper	Action	Attack		"**Action** - Banish a card from under Nitro Mechanoid: **Attack**
+**Go again**"		Mechanologist Action – Construct	Sam Yang				No													R C – DYN092 – N, C – DYN092 – N – EA	https://storage.googleapis.com/fabmaster/media/images/DYN092.width-450.png – DYN092 – N, https://storage.googleapis.com/fabmaster/media/images/DYN092_Marvel_Front.width-450.png – DYN092 – N – EA			
+DYN092	DYN	Nitro Mechanoid			5	5			M – DYN092 – N, V – DYN092 – N – FA	Mechanologist, Weapon, Equipment, Item	Overpower, Temper	Action	Attack		"**Action** - Banish a card from under Nitro Mechanoid: **Attack**
 
 **Overpower** *(The defending hero can’t defend Nitro Mechanoid with more than 1 action card.)*
 
-**Temper** *(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)*"		Mechanologist Weapon Equipment – Item	Sam Yang				No													C – DYN092 – N – EA				
+**Temper** *(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)*"		Mechanologist Weapon Equipment – Item	Sam Yang				No													R C – DYN092 – N, C – DYN092 – N – FA	https://storage.googleapis.com/fabmaster/media/images/DYN092_Special.width-450.png – DYN092 – N, https://storage.googleapis.com/fabmaster/media/images/DYN092_Marvel_Back.width-450.png – DYN092 – N – FA			
 DYN093	DYN	Plasma Mainline	1	2					M	Mechanologist, Action, Item					"Plasma Mainline enters the arena with 5 steam counters on it. When it has no steam counters, destroy it.
 
-When a Mechanologist item with cost 2 or less enters the arena under your control, you may move a steam counter from Plasma Mainline to that item."		Mechanologist Action – Item	Askapoj T				No													S – DYN093 – N				
+When a Mechanologist item with cost 2 or less enters the arena under your control, you may move a steam counter from Plasma Mainline to that item."		Mechanologist Action – Item	Askapoj T				No													S R C – DYN093 – N	https://storage.googleapis.com/fabmaster/media/images/DYN093.width-450.png – DYN093 – N			
 DYN094	DYN	Powder Keg	3	0					M	Mechanologist, Action, Item					Whenever a Mechanologist gun you control hits, you may destroy Powder Keg and a defending equipment.		Mechanologist Action – Item	Victoria Belyaeva				No													S R C – DYN094 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN094.png – DYN094 – N			
 DYN098	DYN	Blessing of Ingenuity	1	1		3			R	Mechanologist, Action, Aura					At the start of your turn, destroy Blessing of Ingenuity then put up to 3 Hyper Drivers from your graveyard and/or banished zone into the arena.	“Take care of your work, that one day it may take care of you.” - Teklovossen	Mechanologist Action – Aura	Kevin Sidharta				No													S – DYN098 – N				
 DYN107	DYN	Urgent Delivery	1	0	4	3			C	Mechanologist, Action, Attack					When this hits, you may put a Mechanologist item from your hand into the arena with cost less than or equal to the number of times you've **boosted** this combat chain.		Mechanologist Action – Attack	Rio Sabda																	S – DYN107 – N				
 DYN111	DYN	Hyper Driver	2	1					C	Mechanologist, Action, Item		Once per Turn Effect			"Hyper Driver enters the arena with 2 steam counters on it. When Hyper Driver has no steam counters on it, destroy it.
 
-**Once per Turn Effect** - When you **boost** a card, remove a steam counter from Hyper Driver and gain {r}."		Mechanologist Action – Item	Alexander Mokhov																	S – DYN111 – N				
+**Once per Turn Effect** - When you **boost** a card, remove a steam counter from Hyper Driver and gain {r}."		Mechanologist Action – Item	Alexander Mokhov																	S R C – DYN111 – N	https://storage.googleapis.com/fabmaster/media/images/DYN111.width-450.png – DYN111 – N			
 DYN112	DYN	Hyper Driver	3	1					C	Mechanologist, Action, Item		Once per Turn Effect			"Hyper Driver enters the arena with 1 steam counters on it. When Hyper Driver has no steam counters on it, destroy it.
 
-**Once per Turn Effect** - When you **boost** a card, remove a steam counter from Hyper Driver and gain {r}."		Mechanologist Action – Item	Alexander Mokhov																	S – DYN112 – N				
+**Once per Turn Effect** - When you **boost** a card, remove a steam counter from Hyper Driver and gain {r}."		Mechanologist Action – Item	Alexander Mokhov																	S R C – DYN112 – N	https://storage.googleapis.com/fabmaster/media/images/DYN112.width-450.png – DYN112 – N			
 DYN113	DYN	Arakni, Huntsman					40	4	M	Assassin, Hero					Whenever you play a card with **contract**, you may look at the top card of target opponent’s deck. You may put it on the bottom.		Assassin Hero	Isuardi Therianto				No													S R – DYN113 – N	https://storage.googleapis.com/fabmaster/media/images/DYN113.width-450.png – DYN113 – N			
-DYN114	DYN	Arakni					20	4	R	Assassin, Hero, Young	Contract				Whenever you play a card with **contract**, you may look at the top card of target opponent’s deck. You may put it on the bottom.		Assassin Hero – Young	Isuardi Therianto				No													S – DYN114 – N				
+DYN114	DYN	Arakni					20	4	R	Assassin, Hero, Young	Contract				Whenever you play a card with **contract**, you may look at the top card of target opponent’s deck. You may put it on the bottom.		Assassin Hero – Young	Isuardi Therianto				No													S R – DYN114 – N	https://storage.googleapis.com/fabmaster/media/images/DYN114.width-450.png – DYN114 – N			
 DYN115, DYN116	DYN, DYN	Spider’s Bite			1				R, R	Assassin, Weapon, Dagger, 1H	Piercing 1	Once per Turn Action	Attack, Go again		"**Once per Turn Action** – {r}{r}: **Attack**. **Go again**
 
 **Piercing 1** *(If this is defended by an equipment, it has +1{p}.)*
@@ -4645,29 +4647,36 @@ DYN151	DYN	Sandscour Greatbow							M – DYN151 – N, V – DYN151 – N – A
 Whenever an arrow is put face up in arsenal from your deck, put an aim counter on it."		Ranger Weapon – Bow (2H)	Carlos Cruchaga				No													S R – DYN151 – N, C – DYN151 – N – AB	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN151.png – DYN151 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN151_Marvel.png – DYN151 – N – AB			
 DYN152	DYN	Hornet’s Sting				1			R	Ranger, Equipment, Arms	Blade Break				"Whenever Hornet’s Sting defends, reveal the top card of your deck. If it’s an arrow, deal 1 damage to the attacking hero or ally. Otherwise, put it on the bottom of your deck.
 
-**Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Ranger Equipment – Arms	Grigoriy Parshakov				No													S – DYN152 – N				
+**Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Ranger Equipment – Arms	Grigoriy Parshakov				No													S R C – DYN152 – N	https://storage.googleapis.com/fabmaster/media/images/DYN152.width-450.png – DYN152 – N			
 DYN153	DYN	Heat Seeker	1	1	5	3			M	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
-When this hits, at the beginning of your end phase, put the top card of your deck face up into your arsenal."		Ranger Action – Arrow Attack	Irina Si																	S – DYN153 – N				
+When this hits, at the beginning of your end phase, put the top card of your deck face up into your arsenal."		Ranger Action – Arrow Attack	Irina Si																	S R – DYN153 – N	https://storage.googleapis.com/fabmaster/media/images/DYN153.width-450.png – DYN153 – N			
 DYN155	DYN	Dead Eye	2	1		3			M	Ranger, Action	Go again				"Your next arrow attack this turn gains +3{p}.
 
 If it has an aim counter, it gains “When this hits a hero, look at their hand and choose a card. They discard it.”
 
-**Go again**"		Ranger Action	Henrique Lindner				No													S – DYN155 – N				
+**Go again**"		Ranger Action	Henrique Lindner				No													S R – DYN155 – N	https://storage.googleapis.com/fabmaster/media/images/DYN155.width-450.png – DYN155 – N			
 DYN162	DYN	Hemorrhage Bore	1	1	5	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
 
-If Hemorrhage Bore has an aim counter, it has “When this hits a hero, destroy a card in their arsenal.”"		Ranger Action – Arrow Attack	Shen Fei																	S – DYN162 – N				
+If Hemorrhage Bore has an aim counter, it has “When this hits a hero, destroy a card in their arsenal.”"		Ranger Action – Arrow Attack	Shen Fei																	S R – DYN162 – N	https://storage.googleapis.com/fabmaster/media/images/DYN162.width-450.png – DYN162 – N			
+DYN163	DYN	Hemorrhage Bore	2	1	4	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Hemorrhage Bore has an aim counter, it has “When this hits a hero, destroy a card in their arsenal.”"		Ranger Action – Arrow Attack	Shen Fei																	S R – DYN163 – N	https://storage.googleapis.com/fabmaster/media/images/DYN163.width-450.png – DYN163 – N			
+DYN164	DYN	Hemorrhage Bore	3	1	3	3			C	Ranger, Action, Arrow, Attack					"*(Arrows can only be played from arsenal and only if you control a bow.)*
+
+If Hemorrhage Bore has an aim counter, it has “When this hits a hero, destroy a card in their arsenal.”"		Ranger Action – Arrow Attack	Shen Fei																	S R – DYN164 – N	https://storage.googleapis.com/fabmaster/media/images/DYN164.width-450.png – DYN164 – N			
 DYN171	DYN	Amethyst Tiara				1			M – DYN171 – N, V – DYN171 – N – AB	Runeblade, Equipment, Head	Blade Break	Instant		Spellvoid 1	"**Instant** – Destroy Amethyst Tiara: Runechants you control have **spellvoid 1** this turn.
 
 **Blade Break** *(When the combat chain closes, if this defended, destroy it.)*"		Runeblade Equipment – Head	Joseph Qiu				No													S R – DYN171 – N, C – DYN171 – N – AB	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN171.png – DYN171 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN171_Marvel.png – DYN171 – N – AB			
-DYN172	DYN	Annals of Sutcliffe							R	Runeblade, Weapon, Book, 2H					**Once per Turn Action**  - {r}{r}{r}: Draw a card. If an attack action card and a ‘non-attack’ action card were pitched this way, create a Runechant token.		Runeblade Weapon – Book	Nikolay Moskvin				No													S – DYN172 – N				
-DYN173	DYN	Cryptic Crossing	2	3	6	3			M	Runeblade, Action, Attack					If an attack action card and a ‘non-attack’ action card were pitched to play Cryptic Crossing, it has “The first time this deals damage to the defending hero, they discard a card and you draw a card.”		Runeblade Action – Attack	Ramza Ardyputra				No													S – DYN173 – N				
+DYN172	DYN	Annals of Sutcliffe							R	Runeblade, Weapon, Book, 2H					**Once per Turn Action**  - {r}{r}{r}: Draw a card. If an attack action card and a ‘non-attack’ action card were pitched this way, create a Runechant token.		Runeblade Weapon – Book	Nikolay Moskvin				No													S R C – DYN172 – N	https://storage.googleapis.com/fabmaster/media/images/DYN172.width-450.png – DYN172 – N			
+DYN173	DYN	Cryptic Crossing	2	3	6	3			M	Runeblade, Action, Attack					If an attack action card and a ‘non-attack’ action card were pitched to play Cryptic Crossing, it has “The first time this deals damage to the defending hero, they discard a card and you draw a card.”		Runeblade Action – Attack	Ramza Ardyputra				No													S R – DYN173 – N	https://storage.googleapis.com/fabmaster/media/images/DYN173.width-450.png – DYN173 – N			
 DYN174	DYN	Diabolic Ultimatum	1	3		2			M	Runeblade, Action					"If an attack action card was pitched to play Diabolic Ultimatum, each hero chooses and destroys an ally they control.
 
-If a ‘non-attack’ action card was pitched to play Diabolic Ultimatum, each hero chooses and destroys an aura they control."		Runeblade Action	Federico Musetti				No													S – DYN174 – N				
+If a ‘non-attack’ action card was pitched to play Diabolic Ultimatum, each hero chooses and destroys an aura they control."		Runeblade Action	Federico Musetti				No													S R – DYN174 – N	https://storage.googleapis.com/fabmaster/media/images/DYN174.width-450.png – DYN174 – N			
 DYN175	DYN	Looming Doom	3	3		3			M	Runeblade, Action, Aura					"When Looming Doom enters the arena, destroy all Runechants you control and put that many doom counters on Looming Doom.
 
-At the beginning of your end phase, remove a doom counter from Looming Doom. If you do, deal 2 arcane damage to any target. Otherwise, destroy Looming Doom."		Runeblade Action – Aura	Marco González				No													S – DYN175 – N				
+At the beginning of your end phase, remove a doom counter from Looming Doom. If you do, deal 2 arcane damage to any target. Otherwise, destroy Looming Doom."		Runeblade Action – Aura	Marco González				No													S R – DYN175 – N	https://storage.googleapis.com/fabmaster/media/images/DYN175.width-450.png – DYN175 – N			
+DYN179	DYN	Blessing of Occult	1	1		2			R	Runeblade, Action, Aura					At the start of your turn, destroy Blessing of Occult then create 3 Runechant tokens.	Borrowed power comes with debt unpaid. One day the Shadows will come to play.	Runeblade Action – Aura	Federico Musetti				No													S – DYN179 – N				
 DYN188	DYN	Sky Fire Lanterns	1	0		2			C	Runeblade, Action	Go again				"Reveal the top card of your deck. If it’s red, create a Runechant token.
 
 **Go again**"		Runeblade Action	Shen Fei																	S R – DYN188 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN188.png – DYN188 – N			
@@ -4729,10 +4738,10 @@ DYN234	DYN	Crown of Dominion							L – DYN234 – N, V – DYN234 – N – FA
 When you equip Crown of Dominion, create a Gold token."	“I will watch over this Dynasty till my very last breath. Its power, riches, and enemies, I take as my own.” - Emperor, Dracai of Aesir	Generic Equipment – Head	Andy Aslamov				No													R C – DYN234 – N, C – DYN234 – N – FA	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN234.png – DYN234 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN234_Marvel.png – DYN234 – N – FA			
 DYN240	DYN	Imperial Edict	1	1					M	Generic, Action, Item	Legendary	Action	Go again		"**Legendary** *(You may only have 1 Imperial Edict in your deck.)*
 
-**Action** – Destroy Imperial Edict: Name a card. The named card can’t be played until the start of your next turn. If you are Royal, instead each opponent reveals their hand, then name a card. **Go again**"		Generic Action – Item	Federico Musetti				No													S – DYN240 – N				
+**Action** – Destroy Imperial Edict: Name a card. The named card can’t be played until the start of your next turn. If you are Royal, instead each opponent reveals their hand, then name a card. **Go again**"		Generic Action – Item	Federico Musetti				No													S R C – DYN240 – N	https://storage.googleapis.com/fabmaster/media/images/DYN240.width-450.png – DYN240 – N			
 DYN241	DYN	Imperial Ledger	1	0					M	Generic, Action, Item	Legendary	Action			"**Legendary** *(You may only have 1 Imperial Ledger in your deck.)*
 
-**Action** – Shuffle Imperial Ledger into its owner’s deck: Create a Copper token. If you are Royal, instead create a Gold token."		Generic Action – Item	Aleksey Peregudov				No													S – DYN241 – N				
+**Action** – Shuffle Imperial Ledger into its owner’s deck: Create a Copper token. If you are Royal, instead create a Gold token."		Generic Action – Item	Aleksey Peregudov				No													S R C – DYN241 – N	https://storage.googleapis.com/fabmaster/media/images/DYN241.width-450.png – DYN241 – N			
 DYN242	DYN	Imperial Warhorn	1	2					M	Generic, Action, Item	Legendary	Action			"**Legendary** *(You may only have 1 Imperial Warhorn in your deck.)*
 
 **Action** – {r}, destroy Imperial Warhorn: Choose any number of heroes. Each of them chooses an ally, aura, item, or landmark permanent they control. Destroy each permanent chosen this way. If you are Royal, instead you choose the permanents."		Generic Action – Item	Othon Nikolaidis				No													S R – DYN242 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN242.png – DYN242 – N			
