@@ -9,3 +9,6 @@
 
 10-18-22:
 - Updated README
+
+11-2-22:
+- Changed the script to try and fix a bug when running on Windows where dashes weren't being recognized

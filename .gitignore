@@ -11,3 +11,4 @@ generate-unique-ids.sh
 cards.ods
 cards.csv
 node_modules
+*.pyc
