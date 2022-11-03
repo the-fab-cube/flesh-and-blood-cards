@@ -4689,6 +4689,9 @@ DYN190	DYN	Sky Fire Lanterns	3	0		2			C	Runeblade, Action	Go again				"Reveal th
 DYN192	DYN	Surgent Aethertide							M	Wizard, Weapon, Staff, 2H	Go again				"**Once per Turn Action** – {r}{r}: Deal 1 arcane damage to an opposing hero. **Go again**
 
 The first card you play each turn with an arcane damage effect, instead deals that much arcane damage plus X, where X is the damage dealt by Surgent Aethertide this turn."		Wizard Weapon – Staff (2H)	Alexis Susani				No													S R – DYN192 – N, C – DYN192 – N – EA	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN192.png – DYN192 – N, https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN192_Marvel.png – DYN192 – N – EA			
+DYN197	DYN	Aether Quickening	1	1		3			R	Wizard, Action	Surge, Go again				"Deal 4 arcane damage to target hero.
+
+**Surge** - If this deals more than 4 damage, it gains **go again**."		Wizard Action	Mateusz Wisniewski				No													S – DYN197 – N				
 DYN195	DYN	Swell Tidings	1	2		3			M	Wizard, Action	Surge				"Deal 5 arcane damage to target hero.
 
 **Surge** - If this deals more than 5 damage, create a Ponder token. *(It’s an aura with “At the beginning of your end phase, destroy Ponder and draw a card.”)*"		Wizard Action	Federico Musetti				No													S – DYN195 – N				
