@@ -253,3 +253,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 11-03-22:
 - Fixed an issue with an extra space in the variations field of Glacial Horns - bug notice credit: schubam
+
+11-04-22:
+- Fixed an issue with Scar for a Scar's UPR printing incorrectly being labeled as having rainbow foiling
