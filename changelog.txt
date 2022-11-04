@@ -252,7 +252,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed incorrect foiling for FAB075
 
 IN PROGRESS:
-- Added card data for Dynasty set (with assistance from manwaring!)
+- Added card data for Dynasty set (with assistance from manwaring and Magic Man!)
 - Added card data for FAB115-FAB117, LGS112, and LGS122-LGS124
 - Added Contract, Ephemeral, Overpower, Piercing, and Surge as keywords
 - Added Assassin, Book, and Rock as a type
