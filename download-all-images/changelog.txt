@@ -6,3 +6,6 @@
 
 06-04-22:
 - Change the script to create sub-folders for images if they do not exist
+
+11-04-22:
+- Add a '-s' option to the script to allow you to only download certain set ids
