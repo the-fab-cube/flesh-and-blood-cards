@@ -7,5 +7,11 @@
 06-04-22:
 - Change the script to create sub-folders for images if they do not exist
 
+10-18-22:
+- Updated README
+
+11-02-22:
+- Changed the script to try and fix a bug when running on Windows where dashes weren't being recognized
+
 11-04-22:
 - Add a '-s' option to the script to allow you to only download certain set ids
