@@ -10,12 +10,19 @@ with path.open(newline='') as csvfile:
     next(reader)
 
     for row in reader:
-        artists.add(row[2])
+        artist_column=row[18]
+        individual_artists=artist_column.split(',')
+        for artist in individual_artists:
+            artists.add(artist.strip())
 
-artists_sorted = sorted(artists)
+artists_sorted = sorted(artists, key=str.casefold)
 
-path = Path(__file__).parent / "../csvs/artists.csv"
+path = Path(__file__).parent / "../csvs/artist.csv"
 with path.open('w', newline='\n') as csvout:
     writer = csv.writer(csvout)
+
+    # Add title row
+    writer.writerow(["Name"])
+
     for artist in artists_sorted:
         writer.writerow([artist])
