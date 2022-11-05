@@ -263,6 +263,7 @@ IN PROGRESS:
 - Added card data for FAB115-FAB117, LGS112, and LGS122-LGS124
 - Added Contract, Ephemeral, Overpower, Piercing, and Surge as keywords
 - Added Assassin, Book, and Rock as a type
-- Added Aleksey Peregudov, Askapoj T, Grigoriy Parshakov, Irini Si, Nikita Bondarev, Sarlya Asavametha, and Sofia Akimova as artists
+- Added Aleksey Peregudov, Amelia Tan, Askapoj T, Grigoriy Parshakov, Irini Si, Kimberly Pantoni, Maria Mishina, Nikita Bondarev, Sarlya Asavametha, and Sofia Akimova as artists
 - Updated the FAB set to include the new max card id
 - Updated the variation of marvel Ash to be Alternate Border
+- Renamed create-artists script to generate-artists and added a bash script shortcut to run it
