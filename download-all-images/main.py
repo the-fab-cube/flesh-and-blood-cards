@@ -36,7 +36,7 @@ with path.open(newline='') as csvfile:
     next(reader)
 
     for row in reader:
-        image_urls = [re.split(" – | - ", url.strip())[0].strip() for url in row[36].split(',')]
+        image_urls = [re.split("— | – | - ", url.strip())[0].strip() for url in row[36].split(',')]
         for image_url in image_urls:
             download_image_from_url(image_url)
 
