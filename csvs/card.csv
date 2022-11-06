@@ -4946,6 +4946,9 @@ DYN214	DYN	Wave of Reality							R	Illusionist, Equipment, Arms	Ward 1				"When 
 DYN215	DYN	Phantasmal Symbiosis	2	1	6	3			M	Illusionist, Action, Attack	Phantasm				"When this attacks, name a card.  Cards with that name are Illusionist until end of turn.
 
 **Phantasm** *(When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this and close the combat chain.)*"		Illusionist Action – Attack	Othon Nikolaidis				No													S R – DYN215 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN215.png – DYN215 – N			
+DYN216	DYN	Spectral Procession	1	0	*	3			M	Illusionist, Action, Attack	Phantasm				"Spectral Procession’s {p} is equal to the number of Spectral Shields you control.
+
+**Phantasm** *(When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this and close the combat chain.)*"		Illusionist Action – Attack	Carlos Cruchaga				No													S – DYN216 – N				
 DYN217	DYN	Tome of Aeo	3	1		2			M	Illusionist, Action, Aura	Ward 1				"At the beginning of your action phase, destroy Tome of Aeo then draw a card.
 
 **Ward 1** *(If your hero would be dealt damage, prevent 1 of that damage and destroy Tome of Aeo.)*"		Illusionist Action – Aura	Mark Poole				No													S R – DYN217 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN217.png – DYN217 – N			
