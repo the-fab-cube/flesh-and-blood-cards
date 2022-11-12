@@ -4522,6 +4522,11 @@ DYN046	DYN	Tearing Shuko				1			R	Ninja, Equipment, Arms	Battleworn	Instant			"*
 **Battleworn** *(When the combat chain closes, if this defended, put a -1{d} counter on it.)*"		Ninja Equipment – Arms	Enmoire																	S R – DYN046 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN046.png – DYN046 – N			
 DYN047	DYN	Tiger Swipe	1	0	2	3			M	Ninja, Action, Attack	Combo, Go again				**Combo** - If Crouching Tiger was the last attack this combat chain, this has +2{p}, **go again**, and “When this hits, create X Crouching Tigers in your banished zone, where X is the number of Crouching Tigers you control. You may play them this turn.”		Ninja Action – Attack	Alexander Mokhov				No													S R – DYN047 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN047.png – DYN047 – N			
 DYN048	DYN	Mindstate of Tiger	3	0					M	Ninja, Action, Aura					At the start of your turn, destroy Mindstate of Tiger then create a Crouching Tiger in your hand.	"""First you must believe, then see, and finally, become."" - Grandmaster Li"	Ninja Action – Aura	Shen Fei				No													S R – DYN048 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN048.png – DYN048 – N			
+DYN049	DYN	Roar of the Tiger	2	0		3			M	Ninja, Action	Go again				"Create a Crouching Tiger in your hand.
+
+Crouching Tigers you control gain +1{p} this turn.
+
+**Go again**"		Ninja Action	Sariya Asavametha				No													S R – DYN049 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN049.png – DYN049 – N			
 DYN050	DYN	Flex Claws	1	1	4	2			R	Ninja, Action, Attack	Go again				"When this hits, create a Crouching Tiger in your banished zone. You may play it this turn.
 
 **Go again**"		Ninja Action – Attack	Isuardi Therianto				No													S R – DYN050 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN050.png – DYN050 – N			
@@ -4687,7 +4692,7 @@ DYN117	DYN	Blacktek Whisperers				1			L	Assassin, Equipment, Legs	Attack Reactio
 
 **Attack Reaction** – Destroy Blacktek Whisperers: Target Assassin attack action card gains “When this hits a hero, it gains **go again**.”
 
-**Battleworn** *(When the combat chain closes, if this defended, put a -1{d} counter on it.)*"		Assassin Equipment – Leg	Sarlya Asavametha				No													R C – DYN117 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN117.png – DYN117 – N			
+**Battleworn** *(When the combat chain closes, if this defended, put a -1{d} counter on it.)*"		Assassin Equipment – Leg	Sariya Asavametha				No													R C – DYN117 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN117.png – DYN117 – N			
 DYN118	DYN	Mask of Perdition				1			M	Assassin, Equipment, Head	Battleworn	Attack Reaction			"While Mask of Perdition is in your graveyard, at the start of your turn, you may destroy 2 Silvers you control. If you do, equip Mask of Perdition.
 
 **Attack Reaction** – Destroy Mask of Perdition: Target Assassin attack action card gains ""When this hits a hero, banish the top card of their deck.""
