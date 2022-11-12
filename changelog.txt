@@ -263,6 +263,10 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated Blitz Suspended status for Storm Striders, Aether Icevein, and Hypothermia
 - Updated Blitz Banned status for Aether Wildfire
 
+11-12-22:
+- Fixed an issue in the flavor text of Amplify the Arknight, Find Center, Tome of the Arknight, and Zealous Belting - bugfix credit: nathaneastwood
+- Fixed an issue in the name of Stony Woottonhog - bugfix credit: nathaneastwood
+
 IN PROGRESS:
 - Added card data for Dynasty set (with assistance from manwaring and Magic Man!)
 - Added card data for FAB115-FAB117, LGS112, and LGS122-LGS124
