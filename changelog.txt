@@ -266,3 +266,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 11-12-22:
 - Fixed an issue in the flavor text of Amplify the Arknight, Find Center, Tome of the Arknight, and Zealous Belting - bugfix credit: nathaneastwood
 - Fixed an issue in the name of Stony Woottonhog - bugfix credit: nathaneastwood
+
+11-17-22:
+- Fixed an issue in foiling for MON000, CRU006, CRU158, and WTR024 - bug notice credit: schubam
