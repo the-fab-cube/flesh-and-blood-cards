@@ -204,6 +204,7 @@ Note: Cards are organized by what main set they were initially released in, in o
 
 
 ### Alternate Art Variations (Shorthand - Name)
+* AB - Alternate Border
 * AA - Alternate Art
 * AT - Alternate Text
 * DS - Double Sided

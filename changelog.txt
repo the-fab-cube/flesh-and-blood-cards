@@ -269,3 +269,15 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 11-17-22:
 - Fixed an issue in foiling for MON000, CRU006, CRU158, and WTR024 - bug notice credit: schubam
+
+11-18-22:
+- Added card data for Dynasty set (with assistance from manwaring, nathaneastwood, and Magic Man!)
+- Added card data for FAB112-FAB114, FAB115-FAB117, LGS112, and LGS122-LGS124
+- Added Contract, Ephemeral, Overpower, Piercing, and Surge as keywords
+- Added Assassin, Book, Construct, and Rock as types
+- Added Aleksey Peregudov, Amelia Tan, Askapoj T, Grigoriy Parshakov, Irini Si, Kimberly Pantoni, Maria Mishina, Nikita Bondarev, Sariya Asavametha, and Sofia Akimova as artists
+- Updated the FAB and JDG sets to include the new max card ids
+- Updated the variation of marvel Ash to be Alternate Border
+- Updated and added the image urls for HER072, HER075, JDG003, JDG004, FAB035-FAB037, FAB058-FAB060, FAB089, FAB091, FAB092, LSS002-LSS005
+- Fixed an issue in the card ids of Embodiment of Lightning
+- Renamed create-artists script to generate-artists and added a bash script shortcut to run it
