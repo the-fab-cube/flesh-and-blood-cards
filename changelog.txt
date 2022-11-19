@@ -274,7 +274,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for Dynasty set (with assistance from manwaring, nathaneastwood, and Magic Man!)
 - Added card data for FAB112-FAB114, FAB115-FAB117, LGS112, and LGS122-LGS124
 - Added Contract, Ephemeral, Overpower, Piercing, and Surge as keywords
-- Added Assassin, Book, and Rock as a type
+- Added Assassin, Book, Construct, and Rock as types
 - Added Aleksey Peregudov, Amelia Tan, Askapoj T, Grigoriy Parshakov, Irini Si, Kimberly Pantoni, Maria Mishina, Nikita Bondarev, Sariya Asavametha, and Sofia Akimova as artists
 - Updated the FAB and JDG sets to include the new max card ids
 - Updated the variation of marvel Ash to be Alternate Border
