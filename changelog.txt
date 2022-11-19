@@ -283,5 +283,5 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Renamed create-artists script to generate-artists and added a bash script shortcut to run it
 
 11-19-22:
-- Added card data for for FAB110-FAB111
+- Added card data for FAB110-FAB111 and LGS099
 - Added high res images for all promos except for HER054-HER057, HER064, LGS005, and LGS099-LGS102
