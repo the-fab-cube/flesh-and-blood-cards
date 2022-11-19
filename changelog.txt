@@ -281,3 +281,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated and added the image urls for HER072, HER075, JDG003, JDG004, FAB035-FAB037, FAB058-FAB060, FAB089, FAB091, FAB092, LSS002-LSS005
 - Fixed an issue in the card ids of Embodiment of Lightning
 - Renamed create-artists script to generate-artists and added a bash script shortcut to run it
+
+11-19-22:
+- Added card data for FAB110-FAB111 and LGS099
+- Added high res images for all promos except for HER054-HER057, HER064, LGS005, and LGS099-LGS102
