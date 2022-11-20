@@ -287,4 +287,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added high res images for all promos except for HER054-HER057, HER064, LGS005, and LGS099-LGS102
 
 PENDING:
+- Added generate-json script
+- Fix a unicode issue in Runechant's variations and image_urls columns
 - Fixed a formatting issue in the card ids of Romping Club, Surging Strike, and Embodiment of Lightning
