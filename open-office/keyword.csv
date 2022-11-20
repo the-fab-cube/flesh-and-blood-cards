@@ -8,10 +8,9 @@ Boost	**Boost* is a Mechanologist mechanic that allows a Mechanologist attack ac
 Channel	**Channel** is a keyword that uses Element cards to maintain a powerful aura that requires a larger commitment each turn to maintain the channel.
 Charge	**Charge** is a keyword that exist on Light Warrior attacks. This showcases Boltyn’s eagerness to engage in battle and **charge** his soul in the process. As an additional cost to playing a card with **charge** you may put a card from your hand into your hero’s soul. This would turn on powerful effects that care about if you have **charged** this turn. *You may elect to not pay the additional cost o **charge** - however this would mean you did not **charge**.)*
 Combo	A Ninja mechanic that showcases the power of playing multiple attacks in a perfect sequence. **Combo** cares about the last (most recent previous) attack that was played in the combat chain.
-Contract	When a player is contracted, they are given a set of instructions to complete. If they perform those instructions, they are considered to have completed the contract.
+Contract	
 Crush	A Guardian mechanic that showcases the strength of the guardian. When an attack with **crush** deals 4 or more damage to a hero, an effect is applied.
 Dominate	An attack that is difficult to defend. Cards with **dominate** cannot be defended with more than 1 card from the defending hero’s hand.
-Ephemeral	If an ephemeral card would be put into a graveyard from anywhere, instead it ceases to exist.
 Essence	**Essence** is a keyword that exists on Elemental hero cards showing what Elements that hero specializes in and what Element cards can be included in the deck.
 Freeze	A **frozen** object can’t be played or activated.
 Fusion	**Fusion** is a keyword that **fuses** one or more elements with an elemental card to give an additional effect.
@@ -22,9 +21,8 @@ Legendary	You may only have 1 copy of this card in your deck.
 Material	An Illusionist mechanic that applies effects if it is under another permanent.
 Negate	**Negating** a card on a layer of the chain will prevent the card from resolving.
 Opt X	**Opt** is a keyword that allows you to look at the top X cards and put any number of them on the top and/or bottom of your deck in any order.
-Overpower	The defending hero can't defend this with more than one action card.
+Overpower	Attacks with **dominate** can’t be defend by more than 1 action card.
 Phantasm	**Phantasm** is a keyword that exists on Illusionist attacks. Illusionist attacks with **phantasm** are powerful but fragile. When an attack with **phantasm** is defended by a 6{p}+ non-Illusionist attack action card, the attack is destroyed and the combat chain closes.
-Piercing X	If this is defended by an equipment, it has +X{p}.
 Quell X	If your hero would be dealt damage, you may pay X{r} to prevent X of that damage. If you do, destroy this at the beginning of the end phase.
 Reload	**Reload** is a Ranger mechanic that allows you to put a card from your hand face down into your arsenal when the card resolves.
 Reprise	A Warrior mechanic that showcases the prowess a warrior has when they are engaged in close combat. **Reprise** effects “turn on” if the defending hero has defended with a card from their hand.
