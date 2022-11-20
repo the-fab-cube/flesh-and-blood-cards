@@ -1,59 +1,30 @@
 import csv
-import psycopg2
+import json
 from pathlib import Path
 
-def create_table(cur):
-    command = """
-        CREATE TABLE icons (
-            icon VARCHAR(255) PRIMARY KEY,
-            description VARCHAR(255) NOT NULL
-        )
-        """
+def generate_json_file():
+    print("Generating icon.json from icon.csv...")
 
-    try:
-        print("Creating icons table...")
+    icon_array = []
 
-        # create table
-        cur.execute(command)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
+    csvPath = Path(__file__).parent / "../../csvs/icon.csv"
+    jsonPath = Path(__file__).parent / "../../json/icon.json"
 
-def drop_table(cur):
-    command = """
-        DROP TABLE IF EXISTS icons
-        """
-
-    try:
-        print("Dropping icons table...")
-
-        # drop table
-        cur.execute(command)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-
-def insert(cur, icon, name):
-    sql = """INSERT INTO icons(icon, description)
-             VALUES(%s, %s) RETURNING icon;"""
-    try:
-        print("Inserting {} icon...".format(icon))
-
-        # execute the INSERT statement
-        cur.execute(sql, (icon,name))
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-
-def generate_table(cur):
-    print("Filling out icons table from icon.csv...\n")
-
-    path = Path(__file__).parent / "../../csvs/icon.csv"
-    with path.open(newline='') as csvfile:
+    with csvPath.open(newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
         next(reader)
 
         for row in reader:
-            icon = row[0]
-            description = row[1]
-            insert(cur, icon, description)
-            # print(', '.join(row))
+            icon_object = {}
 
-        print("\nSuccessfully filled icons table\n")
+            icon_object['icon'] = row[0]
+            icon_object['description'] = row[1]
+
+            icon_array.append(icon_object)
+
+    json_object = json.dumps(icon_array, indent=4)
+
+    with jsonPath.open('w', newline='\n') as outfile:
+        outfile.write(json_object)
+
+    print("Successfully generated icon.json\n")

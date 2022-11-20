@@ -1,0 +1,221 @@
+[
+    {
+        "name": "Action"
+    },
+    {
+        "name": "Adjudicator"
+    },
+    {
+        "name": "Affliction"
+    },
+    {
+        "name": "Ally"
+    },
+    {
+        "name": "Arms"
+    },
+    {
+        "name": "Arrow"
+    },
+    {
+        "name": "Ash"
+    },
+    {
+        "name": "Assassin"
+    },
+    {
+        "name": "Attack"
+    },
+    {
+        "name": "Attack Reaction"
+    },
+    {
+        "name": "Aura"
+    },
+    {
+        "name": "Axe"
+    },
+    {
+        "name": "Bard"
+    },
+    {
+        "name": "Book"
+    },
+    {
+        "name": "Bow"
+    },
+    {
+        "name": "Brute"
+    },
+    {
+        "name": "Chest"
+    },
+    {
+        "name": "Claw"
+    },
+    {
+        "name": "Club"
+    },
+    {
+        "name": "Construct"
+    },
+    {
+        "name": "Dagger"
+    },
+    {
+        "name": "Defense Reaction"
+    },
+    {
+        "name": "Demon"
+    },
+    {
+        "name": "Draconic"
+    },
+    {
+        "name": "Dragon"
+    },
+    {
+        "name": "Earth"
+    },
+    {
+        "name": "Elemental"
+    },
+    {
+        "name": "Equipment"
+    },
+    {
+        "name": "Flail"
+    },
+    {
+        "name": "Gem"
+    },
+    {
+        "name": "Generic"
+    },
+    {
+        "name": "Guardian"
+    },
+    {
+        "name": "Gun"
+    },
+    {
+        "name": "Hammer"
+    },
+    {
+        "name": "Head"
+    },
+    {
+        "name": "Hero"
+    },
+    {
+        "name": "Ice"
+    },
+    {
+        "name": "Illusionist"
+    },
+    {
+        "name": "Instant"
+    },
+    {
+        "name": "Invocation"
+    },
+    {
+        "name": "Item"
+    },
+    {
+        "name": "Landmark"
+    },
+    {
+        "name": "Legs"
+    },
+    {
+        "name": "Light"
+    },
+    {
+        "name": "Lightning"
+    },
+    {
+        "name": "Lute"
+    },
+    {
+        "name": "Mechanologist"
+    },
+    {
+        "name": "Mentor"
+    },
+    {
+        "name": "Merchant"
+    },
+    {
+        "name": "Ninja"
+    },
+    {
+        "name": "Off-Hand"
+    },
+    {
+        "name": "Orb"
+    },
+    {
+        "name": "Pistol"
+    },
+    {
+        "name": "Placeholder Card"
+    },
+    {
+        "name": "Ranger"
+    },
+    {
+        "name": "Resource"
+    },
+    {
+        "name": "Rock"
+    },
+    {
+        "name": "Royal"
+    },
+    {
+        "name": "Runeblade"
+    },
+    {
+        "name": "Scepter"
+    },
+    {
+        "name": "Scythe"
+    },
+    {
+        "name": "Shadow"
+    },
+    {
+        "name": "Shapeshifter"
+    },
+    {
+        "name": "Staff"
+    },
+    {
+        "name": "Sword"
+    },
+    {
+        "name": "Token"
+    },
+    {
+        "name": "Trap"
+    },
+    {
+        "name": "Warrior"
+    },
+    {
+        "name": "Weapon"
+    },
+    {
+        "name": "Wizard"
+    },
+    {
+        "name": "Young"
+    },
+    {
+        "name": "1H"
+    },
+    {
+        "name": "2H"
+    }
+]

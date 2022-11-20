@@ -1,59 +1,32 @@
 import csv
-import psycopg2
+import json
 from pathlib import Path
+from markdown_patch import unmark
 
-def create_table(cur):
-    command = """
-        CREATE TABLE keywords (
-            keyword VARCHAR(255) PRIMARY KEY,
-            description VARCHAR(1000) NOT NULL
-        )
-        """
+def generate_json_file():
+    print("Generating keyword.json from keyword.csv...")
 
-    try:
-        print("Creating keywords table...")
+    keyword_array = []
 
-        # create table
-        cur.execute(command)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
+    csvPath = Path(__file__).parent / "../../csvs/keyword.csv"
+    jsonPath = Path(__file__).parent / "../../json/keyword.json"
 
-def drop_table(cur):
-    command = """
-        DROP TABLE IF EXISTS keywords
-        """
-
-    try:
-        print("Dropping keywords table...")
-
-        # drop table
-        cur.execute(command)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-
-def insert(cur, keyword, name):
-    sql = """INSERT INTO keywords(keyword, description)
-             VALUES(%s, %s) RETURNING keyword;"""
-    try:
-        print("Inserting {} keyword...".format(keyword))
-
-        # execute the INSERT statement
-        cur.execute(sql, (keyword,name))
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-
-def generate_table(cur):
-    print("Filling out keywords table from keyword.csv...\n")
-
-    path = Path(__file__).parent / "../../csvs/keyword.csv"
-    with path.open(newline='') as csvfile:
+    with csvPath.open(newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
         next(reader)
 
         for row in reader:
-            keyword = row[0]
-            description = row[1]
-            insert(cur, keyword, description)
-            # print(', '.join(row))
+            keyword_object = {}
 
-        print("\nSuccessfully filled keywords table\n")
+            keyword_object['keyword'] = row[0]
+            keyword_object['description'] = row[1]
+            keyword_object['description_plain'] = unmark(keyword_object['description'])
+
+            keyword_array.append(keyword_object)
+
+    json_object = json.dumps(keyword_array, indent=4)
+
+    with jsonPath.open('w', newline='\n') as outfile:
+        outfile.write(json_object)
+
+    print("Successfully generated keyword.json\n")

@@ -1,56 +1,29 @@
 import csv
-import psycopg2
+import json
 from pathlib import Path
 
-def create_table(cur):
-    command = """
-        CREATE TABLE types (
-            name VARCHAR(255) PRIMARY KEY
-        )
-        """
+def generate_json_file():
+    print("Generating type.json from type.csv...")
 
-    try:
-        print("Creating types table...")
+    type_array = []
 
-        # create table
-        cur.execute(command)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
+    csvPath = Path(__file__).parent / "../../csvs/type.csv"
+    jsonPath = Path(__file__).parent / "../../json/type.json"
 
-def drop_table(cur):
-    command = """
-        DROP TABLE IF EXISTS types
-        """
-
-    try:
-        print("Dropping types table...")
-
-        # drop table
-        cur.execute(command)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-
-def insert(cur, name):
-    sql = """INSERT INTO types(name) VALUES('{}');"""
-    try:
-        print("Inserting {} type...".format(name))
-
-        # execute the INSERT statement
-        cur.execute(sql.format(name))
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-
-def generate_table(cur):
-    print("Filling out types table from type.csv...\n")
-
-    path = Path(__file__).parent / "../../csvs/type.csv"
-    with path.open(newline='') as csvfile:
+    with csvPath.open(newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
         next(reader)
 
         for row in reader:
-            name = row[0]
-            insert(cur, name)
-            # print(', '.join(row))
+            type_object = {}
 
-        print("\nSuccessfully filled types table\n")
+            type_object['name'] = row[0]
+
+            type_array.append(type_object)
+
+    json_object = json.dumps(type_array, indent=4)
+
+    with jsonPath.open('w', newline='\n') as outfile:
+        outfile.write(json_object)
+
+    print("Successfully generated type.json\n")
