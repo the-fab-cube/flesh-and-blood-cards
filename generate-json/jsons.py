@@ -25,7 +25,7 @@ def generate_json_file_data():
     generate_json_file.card.generate_json_file()
     generate_json_file.card_variation.generate_json_file()
     generate_json_file.edition.generate_json_file()
-    # generate_json_file.foiling.generate_json_file()
+    generate_json_file.foiling.generate_json_file()
     # generate_json_file.icon.generate_json_file()
     # generate_json_file.keyword.generate_json_file()
     # generate_json_file.rarity.generate_json_file()
