@@ -1,58 +1,30 @@
 import csv
-import psycopg2
+import json
 from pathlib import Path
 
-def create_table(cur):
-    command = """
-        CREATE TABLE editions (
-            id VARCHAR(255) PRIMARY KEY,
-            name VARCHAR(255) NOT NULL
-        )
-        """
+def generate_json_file():
+    print("Generating edition.json from edition.csv...")
 
-    try:
-        print("Creating editions table...")
+    edition_array = []
 
-        # create table
-        cur.execute(command)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
+    csvPath = Path(__file__).parent / "../../csvs/edition.csv"
+    jsonPath = Path(__file__).parent / "../../json/edition.json"
 
-def drop_table(cur):
-    command = """
-        DROP TABLE IF EXISTS editions
-        """
-
-    try:
-        print("Dropping editions table...")
-
-        # drop table
-        cur.execute(command)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-
-def insert(cur, id, name):
-    sql = """INSERT INTO editions(id, name)
-             VALUES(%s, %s) RETURNING id;"""
-    try:
-        print("Inserting {} edition...".format(id))
-        # execute the INSERT statement
-        cur.execute(sql, (id,name))
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-
-def generate_table(cur):
-    print("Filling out editions table from edition.csv...\n")
-
-    path = Path(__file__).parent / "../../csvs/edition.csv"
-    with path.open(newline='') as csvfile:
+    with csvPath.open(newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
         next(reader)
 
         for row in reader:
-            id = row[0]
-            name = row[1]
-            insert(cur, id, name)
-            # print(', '.join(row))
+            edition_object = {}
 
-        print("\nSuccessfully filled editions table\n")
+            edition_object['id'] = row[0]
+            edition_object['name'] = row[1]
+
+            edition_array.append(edition_object)
+
+    json_object = json.dumps(edition_array, indent=4)
+
+    with jsonPath.open('w', newline='\n') as outfile:
+        outfile.write(json_object)
+
+    print("Successfully generated edition.json\n")

@@ -1,0 +1,18 @@
+[
+    {
+        "id": "A",
+        "name": "Alpha"
+    },
+    {
+        "id": "F",
+        "name": "First"
+    },
+    {
+        "id": "U",
+        "name": "Unlimited"
+    },
+    {
+        "id": "N",
+        "name": "No specified edition (used for promos, non-set releases, etc.)"
+    }
+]

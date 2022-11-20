@@ -16,7 +16,7 @@ def convert_image_data(image_url):
     return image_url_data
 
 def generate_json_file():
-    print("Generating card_variation.json from card.json...\n")
+    print("Generating card_variation.json from card.json...")
 
     card_array = []
     card_variation_array = []
@@ -30,7 +30,7 @@ def generate_json_file():
         for card in card_array:
             card_object = json.loads(json.dumps(card))
 
-            for printing_index, printing in enumerate(card_object['printings']):
+            for _, printing in enumerate(card_object['printings']):
                 card_variation = json.loads(json.dumps(card_object))
 
                 card_variation['id'] = printing['id']
@@ -51,4 +51,4 @@ def generate_json_file():
     with outPath.open('w', newline='\n') as outfile:
         outfile.write(json_object)
 
-    print("\nSuccessfully generated card_variation.json\n")
+    print("Successfully generated card_variation.json\n")

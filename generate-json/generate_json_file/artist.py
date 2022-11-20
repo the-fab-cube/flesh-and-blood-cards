@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 
 def generate_json_file():
-    print("Generating artist.json from artist.csv...\n")
+    print("Generating artist.json from artist.csv...")
 
     artist_array = []
 
@@ -26,4 +26,4 @@ def generate_json_file():
     with jsonPath.open('w', newline='\n') as outfile:
         outfile.write(json_object)
 
-    print("\nSuccessfully generated artist.json\n")
+    print("Successfully generated artist.json\n")

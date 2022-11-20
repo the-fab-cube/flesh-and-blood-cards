@@ -36,7 +36,7 @@ def treat_blank_string_as_none(field):
     return None
 
 def generate_json_file():
-    print("Filling out card.json from card.csv...\n")
+    print("Filling out card.json from card.csv...")
 
     card_array = []
 
@@ -251,4 +251,4 @@ def generate_json_file():
     with jsonPath.open('w', newline='\n') as outfile:
         outfile.write(json_object)
 
-    print("\nSuccessfully generated card.csv\n")
+    print("Successfully generated card.csv\n")
