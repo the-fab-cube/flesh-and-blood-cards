@@ -2,6 +2,8 @@ import csv
 from os.path import exists
 from pathlib import Path
 
+print("Generating artist.csv from card.csv...")
+
 artists = set()
 
 path = Path(__file__).parent / "../csvs/card.csv"
@@ -26,3 +28,5 @@ with path.open('w', newline='\n') as csvout:
 
     for artist in artists_sorted:
         writer.writerow([artist])
+
+print("Successfully generated artist.csv\n")
