@@ -1,0 +1,195 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "array",
+    "items": [
+        {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "pitch": {
+                    "type": "string"
+                },
+                "cost": {
+                    "type": "string"
+                },
+                "power": {
+                    "type": "string"
+                },
+                "defense": {
+                    "type": "string"
+                },
+                "health": {
+                    "type": "string"
+                },
+                "intelligence": {
+                    "type": "string"
+                },
+                "types": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "card_keywords": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "abilities_and_effects": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "ability_and_effect_keywords": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "granted_keywords": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "functional_text": {
+                    "type": "string"
+                },
+                "functional_text_plain": {
+                    "type": "string"
+                },
+                "flavor_text": {
+                    "type": "string"
+                },
+                "flavor_text_plain": {
+                    "type": "string"
+                },
+                "type_text": {
+                    "type": "string"
+                },
+                "played_horizontally": {
+                    "type": "boolean"
+                },
+                "blitz_legal": {
+                    "type": "boolean"
+                },
+                "cc_legal": {
+                    "type": "boolean"
+                },
+                "commoner_legal": {
+                    "type": "boolean"
+                },
+                "blitz_living_legend": {
+                    "type": ["string", "null"]
+                },
+                "cc_living_legend": {
+                    "type": ["string", "null"]
+                },
+                "blitz_banned": {
+                    "type": ["string", "null"]
+                },
+                "cc_banned": {
+                    "type": ["string", "null"]
+                },
+                "commoner_banned": {
+                    "type": ["string", "null"]
+                },
+                "upf_banned": {
+                    "type": ["string", "null"]
+                },
+                "blitz_suspended_start": {
+                    "type": ["string", "null"]
+                },
+                "blitz_suspended_end": {
+                    "type": ["string", "null"]
+                },
+                "cc_suspended_start": {
+                    "type": ["string", "null"]
+                },
+                "cc_suspended_end": {
+                    "type": ["string", "null"]
+                },
+                "commoner_suspended_start": {
+                    "type": ["string", "null"]
+                },
+                "commoner_suspended_end": {
+                    "type": ["string", "null"]
+                },
+                "id": {
+                    "type": "string"
+                },
+                "set_id": {
+                    "type": "string"
+                },
+                "edition": {
+                    "type": "string"
+                },
+                "foilings": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "rarity": {
+                    "type": "string"
+                },
+                "artist": {
+                    "type": "string"
+                },
+                "art_variation": {
+                    "type": ["string", "null"]
+                },
+                "image_url": {
+                    "type": ["string", "null"]
+                }
+            },
+            "required": [
+                "name",
+                "pitch",
+                "cost",
+                "power",
+                "defense",
+                "health",
+                "intelligence",
+                "types",
+                "card_keywords",
+                "abilities_and_effects",
+                "ability_and_effect_keywords",
+                "granted_keywords",
+                "functional_text",
+                "functional_text_plain",
+                "flavor_text",
+                "flavor_text_plain",
+                "type_text",
+                "played_horizontally",
+                "blitz_legal",
+                "cc_legal",
+                "commoner_legal",
+                "blitz_living_legend",
+                "cc_living_legend",
+                "blitz_banned",
+                "cc_banned",
+                "commoner_banned",
+                "upf_banned",
+                "blitz_suspended_start",
+                "blitz_suspended_end",
+                "cc_suspended_start",
+                "cc_suspended_end",
+                "commoner_suspended_start",
+                "commoner_suspended_end",
+                "id",
+                "set_id",
+                "edition",
+                "foilings",
+                "rarity",
+                "artist",
+                "art_variation",
+                "image_url"
+            ]
+        }
+    ]
+}
