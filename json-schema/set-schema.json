@@ -1,0 +1,64 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "array",
+    "items": [
+        {
+            "type": "object",
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "start_card_id": {
+                    "type": "string"
+                },
+                "end_card_id": {
+                    "type": "string"
+                },
+                "editions": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "edition": {
+                                "type": "string"
+                            },
+                            "initial_release_date": {
+                                "type": ["string", "null"]
+                            },
+                            "out_of_print_date": {
+                                "type": ["string", "null"]
+                            },
+                            "product_page": {
+                                "type": ["string", "null"]
+                            },
+                            "collectors_center": {
+                                "type": ["string", "null"]
+                            },
+                            "card_gallery": {
+                                "type": ["string", "null"]
+                            }
+                        },
+                        "required": [
+                            "edition",
+                            "initial_release_date",
+                            "out_of_print_date",
+                            "product_page",
+                            "collectors_center",
+                            "card_gallery"
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "id",
+                "name",
+                "start_card_id",
+                "end_card_id",
+                "editions"
+            ]
+        }
+    ]
+}
