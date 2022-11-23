@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "generate-json-schema-htmls"
+version = "0.1.0"
+description = ""
+authors = [""]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+json-schema-for-humans = "^0.43.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
