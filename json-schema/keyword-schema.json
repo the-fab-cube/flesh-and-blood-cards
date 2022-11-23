@@ -1,25 +1,23 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema#",
     "type": "array",
-    "items": [
-        {
-            "type": "object",
-            "properties": {
-                "keyword": {
-                    "type": "string"
-                },
-                "description": {
-                    "type": "string"
-                },
-                "description_plain": {
-                    "type": "string"
-                }
+    "items": {
+        "type": "object",
+        "properties": {
+            "keyword": {
+                "type": "string"
             },
-            "required": [
-                "keyword",
-                "description",
-                "description_plain"
-            ]
-        }
-    ]
+            "description": {
+                "type": "string"
+            },
+            "description_plain": {
+                "type": "string"
+            }
+        },
+        "required": [
+            "keyword",
+            "description",
+            "description_plain"
+        ]
+    }
 }

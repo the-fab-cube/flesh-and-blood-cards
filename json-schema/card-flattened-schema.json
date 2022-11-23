@@ -33,7 +33,9 @@
             },
             "card_keywords": {
                 "type": "array",
-                "items": {}
+                "items": {
+                    "type": "string"
+                }
             },
             "abilities_and_effects": {
                 "type": "array",
@@ -49,7 +51,9 @@
             },
             "granted_keywords": {
                 "type": "array",
-                "items": {}
+                "items": {
+                    "type": "string"
+                }
             },
             "functional_text": {
                 "type": "string"
@@ -114,50 +118,32 @@
             "commoner_suspended_end": {
                 "type": ["string", "null"]
             },
-            "printings": {
+            "id": {
+                "type": "string"
+            },
+            "set_id": {
+                "type": "string"
+            },
+            "edition": {
+                "type": "string"
+            },
+            "foilings": {
                 "type": "array",
                 "items": {
-                    "type": "object",
-                    "properties": {
-                        "id": {
-                            "type": "string"
-                        },
-                        "set_id": {
-                            "type": "string"
-                        },
-                        "edition": {
-                            "type": "string"
-                        },
-                        "foilings": {
-                            "type": "array",
-                            "items": {
-                                "type": "string"
-                            }
-                        },
-                        "rarity": {
-                            "type": "string"
-                        },
-                        "artist": {
-                            "type": "string"
-                        },
-                        "art_variation": {
-                            "type": ["string", "null"]
-                        },
-                        "image_url": {
-                            "type": ["string", "null"]
-                        }
-                    },
-                    "required": [
-                        "id",
-                        "set_id",
-                        "edition",
-                        "foilings",
-                        "rarity",
-                        "artist",
-                        "art_variation",
-                        "image_url"
-                    ]
+                    "type": "string"
                 }
+            },
+            "rarity": {
+                "type": "string"
+            },
+            "artist": {
+                "type": "string"
+            },
+            "art_variation": {
+                "type": ["string", "null"]
+            },
+            "image_url": {
+                "type": ["string", "null"]
             }
         },
         "required": [
@@ -194,7 +180,14 @@
             "cc_suspended_end",
             "commoner_suspended_start",
             "commoner_suspended_end",
-            "printings"
+            "id",
+            "set_id",
+            "edition",
+            "foilings",
+            "rarity",
+            "artist",
+            "art_variation",
+            "image_url"
         ]
     }
 }

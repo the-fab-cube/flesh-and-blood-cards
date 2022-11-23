@@ -16,13 +16,13 @@ def convert_image_data(image_url):
     return image_url_data
 
 def generate_json_file():
-    print("Generating card_variation.json from card.json...")
+    print("Generating card-flattened.json from card.json...")
 
     card_array = []
     card_variation_array = []
 
     inPath = Path(__file__).parent / "../../json/card.json"
-    outPath = Path(__file__).parent / "../../json/card_variation.json"
+    outPath = Path(__file__).parent / "../../json/card-flattened.json"
 
     with inPath.open(newline='') as infile:
         card_array = json.load(infile)
@@ -51,4 +51,4 @@ def generate_json_file():
     with outPath.open('w', newline='\n') as outfile:
         outfile.write(json_object)
 
-    print("Successfully generated card_variation.json\n")
+    print("Successfully generated card-flattened.json\n")
