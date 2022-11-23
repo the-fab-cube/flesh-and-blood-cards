@@ -5,6 +5,7 @@
         "type": "object",
         "properties": {
             "name": {
+                "description": "The name of the artist.",
                 "type": "string"
             }
         },
