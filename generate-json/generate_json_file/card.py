@@ -20,12 +20,12 @@ def convert_image_data(image_url):
 
     return image_url_data
 
-def treat_string_as_boolean(field):
-    return bool(treat_blank_string_as_boolean(field))
+def treat_string_as_boolean(field, default_value=True):
+    return bool(treat_blank_string_as_boolean(field, default_value))
 
-def treat_blank_string_as_boolean(field, value=True):
+def treat_blank_string_as_boolean(field, default_value=True):
     if field == '':
-        return value
+        return default_value
 
     return field
 
@@ -113,7 +113,7 @@ def generate_json_file():
             artists = convert_to_array(row[rowId])
             rowId += 1
 
-            card_object['played_horizontally'] = row[rowId]
+            card_object['played_horizontally'] = treat_string_as_boolean(row[rowId], default_value=False)
             rowId += 1
 
             card_object['blitz_legal'] = treat_string_as_boolean(row[rowId])
