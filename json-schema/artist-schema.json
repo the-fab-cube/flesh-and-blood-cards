@@ -1,5 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema#",
+    "description": "An array of all of the current artists who have been credited on a Flesh and Blood card.",
     "type": "array",
     "items": {
         "type": "object",

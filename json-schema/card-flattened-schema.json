@@ -1,5 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema#",
+    "description": "A flattened array of all of the existing cards in Flesh and Blood, with with each item being a unique card printing.",
     "type": "array",
     "items": {
         "type": "object",
