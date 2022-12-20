@@ -47,7 +47,7 @@ if not exists(images_dir_path):
     makedirs(images_dir_path)
 
 path = Path(__file__).parent / "../../csvs/card.csv"
-with path.open(newline='') as csvfile:
+with path.open(newline='', encoding='utf-8') as csvfile:
     reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
     next(reader)
 
