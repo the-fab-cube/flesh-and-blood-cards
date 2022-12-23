@@ -1,4 +1,4 @@
-import csv
+import json
 import psycopg2
 from pathlib import Path
 
@@ -42,16 +42,14 @@ def insert(cur, name):
         print(error)
 
 def generate_table(cur):
-    print("Filling out artists table from artist.csv...\n")
+    print("Filling out artists table from artist.json...\n")
 
-    path = Path(__file__).parent / "../../../csvs/artist.csv"
-    with path.open(newline='') as csvfile:
-        reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
-        next(reader)
+    path = Path(__file__).parent / "../../../json/artist.json"
+    with path.open(newline='') as jsonfile:
+        artist_array = json.load(jsonfile)
 
-        for row in reader:
-            name = row[0]
+        for artist in artist_array:
+            name = artist['name']
             insert(cur, name)
-            # print(', '.join(row))
 
         print("\nSuccessfully filled artists table\n")

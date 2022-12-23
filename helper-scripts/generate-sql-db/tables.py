@@ -47,11 +47,12 @@ def generate_table_data(conn = None, url_for_images = None):
     cur = conn.cursor()
 
     generate_table.artist.generate_table(cur)
-    generate_table.card.generate_table(cur, url_for_images)
+    generate_table.card.generate_table(cur)
     generate_table.edition.generate_table(cur)
     generate_table.foiling.generate_table(cur)
     generate_table.icon.generate_table(cur)
     generate_table.keyword.generate_table(cur)
+    # generate_table.printing.generate_table(cur, url_for_images)
     generate_table.rarity.generate_table(cur)
     generate_table.set.generate_table(cur)
     generate_table.type.generate_table(cur)

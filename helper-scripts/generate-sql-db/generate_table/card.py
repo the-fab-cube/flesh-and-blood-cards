@@ -1,4 +1,4 @@
-import csv
+import json
 import psycopg2
 from pathlib import Path
 from markdown_patch import unmark
@@ -6,8 +6,6 @@ from markdown_patch import unmark
 def create_table(cur):
     command = """
         CREATE TABLE cards (
-            ids VARCHAR(15)[] NOT NULL COLLATE numeric,
-            set_ids VARCHAR(15)[] NOT NULL COLLATE numeric,
             name VARCHAR(255) NOT NULL,
             pitch VARCHAR(10) COLLATE numeric,
             cost VARCHAR(10) COLLATE numeric,
@@ -15,7 +13,6 @@ def create_table(cur):
             defense VARCHAR(10) COLLATE numeric,
             health VARCHAR(10) COLLATE numeric,
             intelligence VARCHAR(10) COLLATE numeric,
-            rarities VARCHAR(255)[] NOT NULL,
             types VARCHAR(255)[] NOT NULL,
             card_keywords VARCHAR(255)[],
             abilities_and_effects VARCHAR(255)[],
@@ -26,7 +23,6 @@ def create_table(cur):
             flavor_text VARCHAR(10000),
             flavor_text_plain VARCHAR(10000),
             type_text VARCHAR(1000),
-            artists VARCHAR(1000)[] NOT NULL,
             played_horizontally BOOLEAN NOT NULL DEFAULT FALSE,
             blitz_legal BOOLEAN NOT NULL DEFAULT TRUE,
             cc_legal BOOLEAN NOT NULL DEFAULT TRUE,
@@ -42,9 +38,7 @@ def create_table(cur):
             cc_suspended_start TIMESTAMP,
             cc_suspended_end VARCHAR(1000),
             commoner_suspended_start TIMESTAMP,
-            commoner_suspended_end VARCHAR(1000),
-            variations VARCHAR(255)[] NOT NULL,
-            image_urls VARCHAR(1000)[] NOT NULL
+            commoner_suspended_end VARCHAR(1000)
         )
         """
 
@@ -58,7 +52,7 @@ def create_table(cur):
 
 def drop_table(cur):
     command = """
-        DROP TABLE IF EXISTS cards
+        DROP TABLE IF EXISTS cards;
         """
 
     try:
@@ -69,30 +63,31 @@ def drop_table(cur):
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
-def insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
+def insert(cur, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
-            artists, played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
+            played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
             commoner_banned, upf_banned, blitz_suspended_start, blitz_suspended_end, cc_suspended_start, cc_suspended_end, commoner_suspended_start,
-            commoner_suspended_end, variations, image_urls):
-    sql = """INSERT INTO cards(ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
+            commoner_suspended_end):
+    sql = """INSERT INTO cards(name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
-            artists, played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
+            played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
             commoner_banned, upf_banned, blitz_suspended_start, blitz_suspended_end, cc_suspended_start, cc_suspended_end, commoner_suspended_start,
-            commoner_suspended_end, variations, image_urls)
-            VALUES('{{{0}}}', '{{{1}}}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{8}', '{{{9}}}', '{{{10}}}', '{{{11}}}', '{{{12}}}',
-            '{{{13}}}', '{{{14}}}', '{15}', '{16}', '{17}', '{18}', '{19}',
-            '{{{20}}}', '{21}', '{22}', '{23}', '{24}', {25}, {26}, {27}, {28},
-            {29}, {30}, {31}, {32}, {33}, {34}, {35},
-            {36}, '{{{37}}}', '{{{38}}}');"""
+            commoner_suspended_end)
+            VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s,
+            %s, %s, %s, %s, %s, %s, %s,
+            %s, %s, %s, %s, %s, %s, %s, %s,
+            %s, %s, %s, %s, %s, %s, %s,
+            %s);"""
+    data = (name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
+            ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
+            played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
+            commoner_banned, upf_banned, blitz_suspended_start, blitz_suspended_end, cc_suspended_start, cc_suspended_end, commoner_suspended_start,
+            commoner_suspended_end)
     try:
         print("Inserting {0} - {1} card...".format(name, pitch))
 
         # execute the INSERT statement
-        cur.execute(sql.format(ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
-            ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
-            artists, played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
-            commoner_banned, upf_banned, blitz_suspended_start, blitz_suspended_end, cc_suspended_start, cc_suspended_end, commoner_suspended_start,
-            commoner_suspended_end, variations, image_urls))
+        cur.execute(sql, data)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
         raise error
@@ -109,155 +104,52 @@ def treat_blank_string_as_none(field):
 
     return "'" + field + "'"
 
-def generate_table(cur, url_for_images = None):
+def generate_table(cur):
     print("Filling out cards table from card.csv...\n")
 
-    path = Path(__file__).parent / "../../../csvs/card.csv"
-    with path.open(newline='') as csvfile:
-        reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
-        next(reader)
+    path = Path(__file__).parent / "../../../json/card.json"
+    with path.open(newline='') as jsonfile:
+        card_array = json.load(jsonfile)
 
-        for row in reader:
-            rowId = 0
+        for card in card_array:
+            name = card['name']
+            pitch = card['pitch']
+            cost = card['cost']
+            power = card['power']
+            defense = card['defense']
+            health = card['health']
+            intelligence = card['intelligence']
+            types = card['types']
+            card_keywords = card['card_keywords']
+            abilities_and_effects = card['abilities_and_effects']
+            ability_and_effect_keywords = card['ability_and_effect_keywords']
+            granted_keywords = card['granted_keywords']
+            functional_text = card['functional_text']
+            functional_text_plain = card['functional_text_plain']
+            flavor_text = card['flavor_text']
+            flavor_text_plain = card['flavor_text_plain']
+            type_text = card['type_text']
+            played_horizontally = card['played_horizontally']
+            blitz_legal = card['blitz_legal']
+            cc_legal = card['cc_legal']
+            commoner_legal = card['commoner_legal']
+            blitz_living_legend = card['blitz_living_legend']
+            cc_living_legend = card['cc_living_legend']
+            blitz_banned = card['blitz_banned']
+            cc_banned = card['cc_banned']
+            commoner_banned = card['commoner_banned']
+            upf_banned = card['upf_banned']
+            blitz_suspended_start = card['blitz_suspended_start']
+            blitz_suspended_end = card['blitz_suspended_end']
+            cc_suspended_start = card['cc_suspended_start']
+            cc_suspended_end = card['cc_suspended_end']
+            commoner_suspended_start = card['commoner_suspended_start']
+            commoner_suspended_end = card['commoner_suspended_end']
 
-            ids = row[rowId]
-            rowId += 1
-
-            set_ids = row[rowId]
-            rowId += 1
-
-            name = row[rowId]
-            rowId += 1
-
-            pitch = row[rowId]
-            rowId += 1
-
-            cost = row[rowId]
-            rowId += 1
-
-            power = row[rowId]
-            rowId += 1
-
-            defense = row[rowId]
-            rowId += 1
-
-            health = row[rowId]
-            rowId += 1
-
-            intelligence = row[rowId]
-            rowId += 1
-
-            rarities = row[rowId]
-            rowId += 1
-
-            types = row[rowId]
-            rowId += 1
-
-            card_keywords = row[rowId]
-            rowId += 1
-
-            abilities_and_effects = row[rowId]
-            rowId += 1
-
-            ability_and_effect_keywords = row[rowId]
-            rowId += 1
-
-            granted_keywords = row[rowId]
-            rowId += 1
-
-            functional_text = row[rowId]
-            rowId += 1
-
-            flavor_text = row[rowId]
-            rowId += 1
-
-            type_text = row[rowId]
-            rowId += 1
-
-            artists = row[rowId]
-            rowId += 1
-
-            played_horizontally = row[rowId]
-            rowId += 1
-
-            blitz_legal = treat_blank_string_as_boolean(row[rowId])
-            rowId += 1
-
-            cc_legal = treat_blank_string_as_boolean(row[rowId])
-            rowId += 1
-
-            commoner_legal = treat_blank_string_as_boolean(row[rowId])
-            rowId += 1
-
-            blitz_living_legend = treat_blank_string_as_none(row[rowId])
-            rowId += 1
-
-            cc_living_legend = treat_blank_string_as_none(row[rowId])
-            rowId += 1
-
-            blitz_banned = treat_blank_string_as_none(row[rowId])
-            rowId += 1
-
-            cc_banned = treat_blank_string_as_none(row[rowId])
-            rowId += 1
-
-            commoner_banned = treat_blank_string_as_none(row[rowId])
-            rowId += 1
-
-            upf_banned = treat_blank_string_as_none(row[rowId])
-            rowId += 1
-
-            blitz_suspended_start = treat_blank_string_as_none(row[rowId])
-            rowId += 1
-
-            blitz_suspended_end = treat_blank_string_as_none(row[rowId])
-            rowId += 1
-
-            cc_suspended_start = treat_blank_string_as_none(row[rowId])
-            rowId += 1
-
-            cc_suspended_end = treat_blank_string_as_none(row[rowId])
-            rowId += 1
-
-            commoner_suspended_start = treat_blank_string_as_none(row[rowId])
-            rowId += 1
-
-            commoner_suspended_end = treat_blank_string_as_none(row[rowId])
-            rowId += 1
-
-            variations = row[rowId]
-            rowId += 1
-
-            image_urls = row[rowId]
-            rowId += 1
-
-            if played_horizontally == '':
-                played_horizontally = False
-            if blitz_legal == '':
-                blitz_legal = True
-            if cc_legal == '':
-                cc_legal = True
-            if commoner_legal == '':
-                commoner_legal = True
-
-            functional_text_plain = unmark(functional_text)
-            flavor_text_plain = unmark(flavor_text)
-
-            functional_text = functional_text.replace("'", "''")
-            functional_text_plain = functional_text_plain.replace("'", "''")
-            flavor_text = flavor_text.replace("'", "''")
-            flavor_text_plain = flavor_text_plain.replace("'", "''")
-
-            if url_for_images is not None:
-                image_urls = image_urls.replace("https://storage.googleapis.com/fabmaster/media/images/", url_for_images)
-                image_urls = image_urls.replace("https://storage.googleapis.com/fabmaster/cardfaces/", url_for_images)
-
-            insert(cur, ids, set_ids, name, pitch, cost, power, defense, health, intelligence, rarities, types, card_keywords, abilities_and_effects,
+            insert(cur, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
-            artists, played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
+            played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
             commoner_banned, upf_banned, blitz_suspended_start, blitz_suspended_end, cc_suspended_start, cc_suspended_end, commoner_suspended_start,
-            commoner_suspended_end, variations, image_urls)
-
-            # print(', '.join(row))
+            commoner_suspended_end)
 
         print("\nSuccessfully filled cards table\n")

@@ -33,7 +33,7 @@ def treat_blank_string_as_none(field):
     if field == '':
         return None
 
-    return None
+    return field
 
 def generate_json_file():
     print("Filling out card.json from card.csv...")
