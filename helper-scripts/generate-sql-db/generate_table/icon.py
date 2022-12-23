@@ -1,4 +1,4 @@
-import csv
+import json
 import psycopg2
 from pathlib import Path
 
@@ -31,29 +31,30 @@ def drop_table(cur):
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
-def insert(cur, icon, name):
+def insert(cur, icon, description):
     sql = """INSERT INTO icons(icon, description)
              VALUES(%s, %s) RETURNING icon;"""
+    data = (icon, description)
+
     try:
         print("Inserting {} icon...".format(icon))
 
         # execute the INSERT statement
-        cur.execute(sql, (icon,name))
+        cur.execute(sql, data)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
 def generate_table(cur):
-    print("Filling out icons table from icon.csv...\n")
+    print("Filling out icons table from icon.json...\n")
 
-    path = Path(__file__).parent / "../../../csvs/icon.csv"
-    with path.open(newline='') as csvfile:
-        reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
-        next(reader)
+    path = Path(__file__).parent / "../../../json/icon.json"
+    with path.open(newline='') as jsonfile:
+        icon_array = json.load(jsonfile)
 
-        for row in reader:
-            icon = row[0]
-            description = row[1]
+        for icon_entry in icon_array:
+            icon = icon_entry['icon']
+            description = icon_entry['description']
+
             insert(cur, icon, description)
-            # print(', '.join(row))
 
         print("\nSuccessfully filled icons table\n")

@@ -105,7 +105,7 @@ def treat_blank_string_as_none(field):
     return "'" + field + "'"
 
 def generate_table(cur):
-    print("Filling out cards table from card.csv...\n")
+    print("Filling out cards table from card.json...\n")
 
     path = Path(__file__).parent / "../../../json/card.json"
     with path.open(newline='') as jsonfile:

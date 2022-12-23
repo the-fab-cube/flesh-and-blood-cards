@@ -32,12 +32,14 @@ def drop_table(cur):
 
 def insert(cur, name):
     sql = """INSERT INTO artists(name)
-             VALUES('{0}') RETURNING name;""".format(name)
+             VALUES(%s) RETURNING name;"""
+    data = (name)
+
     try:
         print("Inserting {} artist...".format(name))
 
         # execute the INSERT statement
-        cur.execute(sql, (name))
+        cur.execute(sql, data)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
@@ -50,6 +52,7 @@ def generate_table(cur):
 
         for artist in artist_array:
             name = artist['name']
+
             insert(cur, name)
 
         print("\nSuccessfully filled artists table\n")

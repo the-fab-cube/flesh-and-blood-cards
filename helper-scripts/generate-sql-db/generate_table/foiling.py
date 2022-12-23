@@ -1,4 +1,4 @@
-import csv
+import json
 import psycopg2
 from pathlib import Path
 
@@ -34,26 +34,27 @@ def drop_table(cur):
 def insert(cur, id, name):
     sql = """INSERT INTO foilings(id, name)
              VALUES(%s, %s) RETURNING id;"""
+    data = (id, name)
+
     try:
         print("Inserting {} foiling...".format(id))
 
         # execute the INSERT statement
-        cur.execute(sql, (id,name))
+        cur.execute(sql, data)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
 def generate_table(cur):
-    print("Filling out foilings table from foiling.csv...\n")
+    print("Filling out foilings table from foiling.json...\n")
 
-    path = Path(__file__).parent / "../../../csvs/foiling.csv"
-    with path.open(newline='') as csvfile:
-        reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
-        next(reader)
+    path = Path(__file__).parent / "../../../json/foiling.json"
+    with path.open(newline='') as jsonfile:
+        foiling_array = json.load(jsonfile)
 
-        for row in reader:
-            id = row[0]
-            name = row[1]
+        for foiling in foiling_array:
+            id = foiling['id']
+            name = foiling['name']
+
             insert(cur, id, name)
-            # print(', '.join(row))
 
         print("\nSuccessfully filled foilings table\n")
