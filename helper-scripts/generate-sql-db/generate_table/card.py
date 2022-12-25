@@ -7,22 +7,22 @@ def create_table(cur):
     command = """
         CREATE TABLE cards (
             name VARCHAR(255) NOT NULL,
-            pitch VARCHAR(10) COLLATE numeric,
-            cost VARCHAR(10) COLLATE numeric,
-            power VARCHAR(10) COLLATE numeric,
-            defense VARCHAR(10) COLLATE numeric,
-            health VARCHAR(10) COLLATE numeric,
-            intelligence VARCHAR(10) COLLATE numeric,
+            pitch VARCHAR(10) COLLATE numeric NOT NULL,
+            cost VARCHAR(10) COLLATE numeric NOT NULL,
+            power VARCHAR(10) COLLATE numeric NOT NULL,
+            defense VARCHAR(10) COLLATE numeric NOT NULL,
+            health VARCHAR(10) COLLATE numeric NOT NULL,
+            intelligence VARCHAR(10) COLLATE numeric NOT NULL,
             types VARCHAR(255)[] NOT NULL,
-            card_keywords VARCHAR(255)[],
-            abilities_and_effects VARCHAR(255)[],
-            ability_and_effect_keywords VARCHAR(255)[],
-            granted_keywords VARCHAR(255)[],
-            functional_text VARCHAR(10000),
-            functional_text_plain VARCHAR(10000),
-            flavor_text VARCHAR(10000),
-            flavor_text_plain VARCHAR(10000),
-            type_text VARCHAR(1000),
+            card_keywords VARCHAR(255)[] NOT NULL,
+            abilities_and_effects VARCHAR(255)[] NOT NULL,
+            ability_and_effect_keywords VARCHAR(255)[] NOT NULL,
+            granted_keywords VARCHAR(255)[] NOT NULL,
+            functional_text VARCHAR(10000) NOT NULL,
+            functional_text_plain VARCHAR(10000) NOT NULL,
+            flavor_text VARCHAR(10000) NOT NULL,
+            flavor_text_plain VARCHAR(10000) NOT NULL,
+            type_text VARCHAR(1000) NOT NULL,
             played_horizontally BOOLEAN NOT NULL DEFAULT FALSE,
             blitz_legal BOOLEAN NOT NULL DEFAULT TRUE,
             cc_legal BOOLEAN NOT NULL DEFAULT TRUE,
@@ -38,7 +38,8 @@ def create_table(cur):
             cc_suspended_start TIMESTAMP,
             cc_suspended_end VARCHAR(1000),
             commoner_suspended_start TIMESTAMP,
-            commoner_suspended_end VARCHAR(1000)
+            commoner_suspended_end VARCHAR(1000),
+            PRIMARY KEY(name, pitch)
         )
         """
 
@@ -52,7 +53,7 @@ def create_table(cur):
 
 def drop_table(cur):
     command = """
-        DROP TABLE IF EXISTS cards;
+        DROP TABLE IF EXISTS cards CASCADE;
         """
 
     try:

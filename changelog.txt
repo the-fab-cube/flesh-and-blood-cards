@@ -294,3 +294,5 @@ PENDING:
 - Added generate-json and run-all-generators scripts
 - Fix a unicode issue in Runechant's variations and image_urls columns
 - Fixed a formatting issue in the card ids of Romping Club, Surging Strike, and Embodiment of Lightning
+- Fixed an issue with double inputted art variations for RNR024-RNR026
+- Fixed an issue with missing art variation info for the EA versions of EVR107-EVR109
