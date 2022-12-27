@@ -31,4 +31,5 @@ MON	Monarch	F, U	2021-05-07T00:00:00.000Z, 2021-06-04T00:00:00.000Z	2021-05-07T0
 ELE	Tales of Aria	F, U	2021-09-24T00:00:00.000Z, 2021-11-12T00:00:00.000Z	2021-09-24T00:00:00.000Z, null	ELE000	ELE237	https://fabtcg.com/products/booster-set/tales-first-ed/, https://fabtcg.com/products/booster-set/tales-aria-unlimited/	https://fabtcg.com/collectors-centre/tales-of-aria/, https://fabtcg.com/collectors-centre/tales-of-aria/	https://fabtcg.com/resources/card-galleries/tales-aria-booster/, https://fabtcg.com/resources/card-galleries/tales-aria-unlimited/
 EVR	Everfest	F	2022-02-04T00:00:00.000Z	2022-02-04T00:00:00.000Z	EVR000	EVR197	https://fabtcg.com/products/booster-set/everfest/	https://fabtcg.com/collectors-centre/everfest/	https://fabtcg.com/resources/card-galleries/everfest-booster/
 UPR	Uprising	N	2022-06-24T00:00:00.000Z	null	UPR000	UPR225	https://fabtcg.com/products/booster-set/uprising/	https://fabtcg.com/collectors-centre/uprising/	https://fabtcg.com/resources/card-galleries/uprising/
-DYN	Dynasty	N	2022-11-11T00:00:00.000Z	null	DYN000	DYN246	https://fabtcg.com/products/booster-set/dynasty/	https://fabtcg.com/collectors-centre/dynasty/	https://fabtcg.com/resources/card-galleries/dynasty/
+DYN	Dynasty	N	2022-11-11T00:00:00.000Z	null	DYN000	DYN246	null	null	null
+OUT	Outsiders	N	null	null	OUT042	OUT042	null	null	null
