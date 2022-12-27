@@ -5,7 +5,7 @@ from markdown_patch import unmark
 
 def create_table(cur):
     command = """
-        CREATE TABLE printings (
+        CREATE TABLE card_printings (
             id VARCHAR(15) NOT NULL COLLATE numeric,
             name VARCHAR(255) NOT NULL,
             pitch VARCHAR(10) COLLATE numeric NOT NULL,
@@ -22,7 +22,7 @@ def create_table(cur):
         """
 
     try:
-        print("Creating printings table...")
+        print("Creating card_printings table...")
 
         # create table
         cur.execute(command)
@@ -31,11 +31,11 @@ def create_table(cur):
 
 def drop_table(cur):
     command = """
-        DROP TABLE IF EXISTS printings
+        DROP TABLE IF EXISTS card_printings
         """
 
     try:
-        print("Dropping printings table...")
+        print("Dropping card_printings table...")
 
         # drop table
         cur.execute(command)
@@ -43,7 +43,7 @@ def drop_table(cur):
         print(error)
 
 def insert(cur, id, name, pitch, set_id, edition, foilings, rarity, artist, art_variation, image_url):
-    sql = """INSERT INTO printings(id, name, pitch, set_id, edition, foilings, rarity, artist, art_variation, image_url)
+    sql = """INSERT INTO card_printings(id, name, pitch, set_id, edition, foilings, rarity, artist, art_variation, image_url)
             VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"""
     data = (id, name, pitch, set_id, edition, foilings, rarity, artist, art_variation, image_url)
 

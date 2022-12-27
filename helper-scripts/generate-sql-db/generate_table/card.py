@@ -53,7 +53,7 @@ def create_table(cur):
 
 def drop_table(cur):
     command = """
-        DROP TABLE IF EXISTS cards CASCADE;
+        DROP TABLE IF EXISTS cards;
         """
 
     try:

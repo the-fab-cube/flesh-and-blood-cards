@@ -28,4 +28,4 @@
 - Updated README
 
 PENDING:
-- Update to import from JSON, and add new printing table
+- Update to import from JSON, and add new card_printings and set_editions tables
