@@ -195,15 +195,15 @@ def generate_json_file():
             for variation_index, variation in enumerate(variations):
                 card_variation = {}
 
-                variationSplit = re.split("— | – | - ", variation.strip())
-                imageUrlData = [convert_image_data(x) for x in image_urls]
+                variation_split = re.split("— | – | - ", variation.strip())
+                image_url_data = [convert_image_data(x) for x in image_urls]
 
-                foilings = variationSplit[0].strip().split(' ')
-                cardIdFromVariation = variationSplit[1]
-                setEdition = variationSplit[2]
+                foilings = variation_split[0].strip().split(' ')
+                cardIdFromVariation = variation_split[1]
+                setEdition = variation_split[2]
                 alternateArtType = None
-                if len(variationSplit) >= 4:
-                    alternateArtType = variationSplit[3]
+                if len(variation_split) >= 4:
+                    alternateArtType = variation_split[3]
 
                 cardIdIndex = ids.index(cardIdFromVariation)
 
@@ -228,7 +228,7 @@ def generate_json_file():
                 else:
                     rarity = rarities[0]
 
-                valid_image_urls = [data for data in imageUrlData if data['card_id'] == cardIdFromVariation and data['set_edition'] == setEdition and data['alternate_art_type'] == alternateArtType]
+                valid_image_urls = [data for data in image_url_data if data['card_id'] == cardIdFromVariation and data['set_edition'] == setEdition and data['alternate_art_type'] == alternateArtType]
                 image_url = valid_image_urls[0]['image_url'] if len(valid_image_urls) > 0 else None
 
                 card_variation['id'] = cardIdFromVariation
