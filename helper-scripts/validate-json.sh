@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd ../json-validation
+cd ./json-validation
 ./validate-json.sh
-cd ../helper-scripts
+cd ..

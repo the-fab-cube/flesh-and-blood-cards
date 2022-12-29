@@ -209,6 +209,7 @@
                         }
                     },
                     "required": [
+                        "unique_id",
                         "id",
                         "set_id",
                         "edition",
@@ -222,6 +223,7 @@
             }
         },
         "required": [
+            "unique_id",
             "name",
             "pitch",
             "cost",
