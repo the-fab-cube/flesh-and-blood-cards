@@ -1,4 +1,4 @@
-import csv
+import json
 import getopt
 import re
 import requests
@@ -46,16 +46,15 @@ if not exists(images_dir_path):
     print(images_dir_path + " does not exist, creating it")
     makedirs(images_dir_path)
 
-# TODO: Change to JSON
-path = Path(__file__).parent / "../../csvs/english/card.csv"
-with path.open(newline='', encoding='utf-8') as csvfile:
-    reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
-    next(reader)
+path = Path(__file__).parent / "../../json/english/card.json"
+with path.open(newline='') as jsonfile:
+    card_array = json.load(jsonfile)
 
-    for row in reader:
-        # indices: 0 is url, 1 is cardid, 2 is edition, 3 is variations
-        image_urls_split = [re.split("— | – | - ", url.strip()) for url in row[36].split(',')]
-        for image_url_data in image_urls_split:
-            if len(image_url_data) >= 3 and (set_id_to_download == None or image_url_data[1].find(set_id_to_download) >= 0):
-                download_image_from_url(image_url_data[0])
+    for card in card_array:
+        for printing in card['printings']:
+            image_url = printing['image_url']
+            set_id = printing['set_id']
+
+            if image_url is not None and (set_id_to_download == None or set_id == set_id_to_download):
+                    download_image_from_url(image_url)
 

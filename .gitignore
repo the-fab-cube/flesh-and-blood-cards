@@ -1,7 +1,5 @@
 download-all-images/images/*
 generate-db-*.sh
-download-all-images.sh
-generate-unique-ids.sh
 .vscode
 .~lock.card.csv#
 .~lock.card.ods#
