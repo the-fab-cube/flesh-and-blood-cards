@@ -26,3 +26,7 @@
 
 10-18-22:
 - Updated README
+
+PENDING:
+- Update script to work with new english specific CSV/JSON filepaths
+- Clean up some code

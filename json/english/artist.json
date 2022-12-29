@@ -1,884 +1,533 @@
 [
     {
-        "name": "Adjudicator Equipment \u2013 Off-Hand"
+        "name": "Adolfo Navarro"
     },
     {
-        "name": "Assasin Equipment \u2013 Head"
+        "name": "Agri Karuniawan"
     },
     {
-        "name": "Assassin Action"
+        "name": "Agus Setiawan"
     },
     {
-        "name": "Assassin Action \u2013 Attack"
+        "name": "Akifa Shahgeldleva"
     },
     {
-        "name": "Assassin Attack Reaction"
+        "name": "Aleksey Peregudov"
     },
     {
-        "name": "Assassin Equipment \u2013 Leg"
+        "name": "Alena Marchenko"
     },
     {
-        "name": "Assassin Hero"
+        "name": "Alexander Gering"
     },
     {
-        "name": "Assassin Hero \u2013 Young"
+        "name": "Alexander Mokhov"
     },
     {
-        "name": "Assassin Weapon \u2013 Dagger (1H)"
+        "name": "Alexander Nikolaev"
     },
     {
-        "name": "Bard Action"
+        "name": "Alexander Pachin"
     },
     {
-        "name": "Bard Hero \u2013 Young"
+        "name": "Alexander Staronosov"
     },
     {
-        "name": "Bard Weapon \u2013 Lute (2H)"
+        "name": "Alexandra Malygina"
     },
     {
-        "name": "Brute Action"
+        "name": "Alexey Peregrudov"
     },
     {
-        "name": "Brute Action \u2013 Attack"
+        "name": "Alexis Susani"
     },
     {
-        "name": "Brute Action \u2013 Aura"
+        "name": "Alief Rusdiatama"
     },
     {
-        "name": "Brute Defense Reaction"
+        "name": "Alsu Nurieva"
     },
     {
-        "name": "Brute Equipment - Legs"
+        "name": "Amelia Tan"
     },
     {
-        "name": "Brute Equipment \u2013 Arms"
+        "name": "Anastasia Alexandrova"
     },
     {
-        "name": "Brute Equipment \u2013 Chest"
+        "name": "Anastasiya Grintsova"
     },
     {
-        "name": "Brute Equipment \u2013 Head"
+        "name": "Andrew Chou"
     },
     {
-        "name": "Brute Equipment \u2013 Legs"
+        "name": "Andrey Savchuk"
     },
     {
-        "name": "Brute Hero"
+        "name": "Andy Aslamov"
     },
     {
-        "name": "Brute Hero \u2013 Young"
+        "name": "Angelina Tyshchik"
     },
     {
-        "name": "Brute Instant"
+        "name": "Anna Kharitonova"
     },
     {
-        "name": "Brute Mentor"
+        "name": "Anna Tanygina"
     },
     {
-        "name": "Brute Weapon - Club (2H)"
+        "name": "Arif Wijaya"
     },
     {
-        "name": "Brute Weapon \u2013 Axe (2H)"
+        "name": "Asep Ariyanto"
     },
     {
-        "name": "Brute Weapon \u2013 Claw (1H)"
+        "name": "Askapoj T"
     },
     {
-        "name": "Brute Weapon \u2013 Club (2H)"
+        "name": "Asur Misoa"
     },
     {
-        "name": "Brute Weapon \u2013 Rock (2H)"
+        "name": "Athiwut B."
     },
     {
-        "name": "Chest"
+        "name": "bimawithpencil"
     },
     {
-        "name": "Draconic Action"
+        "name": "Bramasta Aji"
     },
     {
-        "name": "Draconic Action \u2013 Attack"
+        "name": "Brian Adriel"
     },
     {
-        "name": "Draconic Adjudicator Hero"
+        "name": "BWusagi"
     },
     {
-        "name": "Draconic Attack Reaction"
+        "name": "Camille Alquier"
     },
     {
-        "name": "Draconic Equipment \u2013 Chest"
+        "name": "Carlos Cruchaga"
     },
     {
-        "name": "Draconic Illusionist Action"
+        "name": "Carlos Jose Camus"
     },
     {
-        "name": "Draconic Illusionist Action \u2013 Ash"
+        "name": "CGlas"
     },
     {
-        "name": "Draconic Illusionist Action \u2013 Attack"
+        "name": "Cindy Handoyo"
     },
     {
-        "name": "Draconic Illusionist Action \u2013 Aura"
+        "name": "Cristi\u00e1n Huerta"
     },
     {
-        "name": "Draconic Illusionist Action \u2013 Invocation"
+        "name": "Daniel Jim\u00e9nez"
     },
     {
-        "name": "Draconic Illusionist Equipment \u2013 Arms"
+        "name": "Daniil Goncharov"
     },
     {
-        "name": "Draconic Illusionist Hero"
+        "name": "Daria Cherkashina"
     },
     {
-        "name": "Draconic Illusionist Hero \u2013 Young"
+        "name": "Daria Khlebnikova"
     },
     {
-        "name": "Draconic Illusionist Instant"
+        "name": "David Ogilvie"
     },
     {
-        "name": "Draconic Illusionist Token \u2013 Ash"
+        "name": "Dmitry Isakevitch"
     },
     {
-        "name": "Draconic Illusionist Token \u2013 Dragon Ally"
+        "name": "Dmitry Solodovnikov"
     },
     {
-        "name": "Draconic Illusionist Weapon \u2013 Scepter (2H)"
+        "name": "Ekaterina Revazashvili"
     },
     {
-        "name": "Draconic Illusionist \u2013 Dragon Ally"
+        "name": "Elena Bakulina"
     },
     {
-        "name": "Draconic Instant"
+        "name": "Elena Danilova"
     },
     {
-        "name": "Draconic Ninja Action"
+        "name": "Elena Perelygina"
     },
     {
-        "name": "Draconic Ninja Action \u2013 Attack"
+        "name": "Eleonor Piteira"
     },
     {
-        "name": "Draconic Ninja Attack Reaction"
+        "name": "Elina Akhiamova"
     },
     {
-        "name": "Draconic Ninja Equipment \u2013 Arms"
+        "name": "Elizaveta Zaichikova"
     },
     {
-        "name": "Draconic Ninja Hero"
+        "name": "Emilis Emka"
     },
     {
-        "name": "Draconic Ninja Hero \u2013 Young"
+        "name": "Enmoire"
     },
     {
-        "name": "Draconic Ninja Weapon \u2013 Sword (2H)"
+        "name": "Faizal Fikri"
     },
     {
-        "name": "Draconic Resource \u2013 Gem"
+        "name": "Fajareka Setiawan"
     },
     {
-        "name": "Earth Action"
+        "name": "Federico Musetti"
     },
     {
-        "name": "Earth Action \u2013 Attack"
+        "name": "Fedor Barkhatov"
     },
     {
-        "name": "Earth Action \u2013 Aura"
+        "name": "Felicia Liang"
     },
     {
-        "name": "Earth Action \u2013 Item"
+        "name": "Gorshkov Stanislav"
     },
     {
-        "name": "Earth Equipment \u2013 Head"
+        "name": "Grant Griffin"
     },
     {
-        "name": "Earth Instant"
+        "name": "Grigoriy Parshakov"
     },
     {
-        "name": "Earth Lightning Action"
+        "name": "Gr\u00e9gory Nunkovics"
     },
     {
-        "name": "Elemental Action"
+        "name": "Hendry Iwanaga"
     },
     {
-        "name": "Elemental Action \u2013 Attack"
+        "name": "Henrique Lindner"
     },
     {
-        "name": "Elemental Action \u2013 Landmark"
+        "name": "Henry Leung"
     },
     {
-        "name": "Elemental Guardian Action \u2013 Attack"
+        "name": "Hilary Purnamasari"
     },
     {
-        "name": "Elemental Guardian Action \u2013 Aura"
+        "name": "Ho\u00e0ng L\u1eadp"
     },
     {
-        "name": "Elemental Guardian Defense Reaction"
+        "name": "Iain Miki"
     },
     {
-        "name": "Elemental Guardian Hero"
+        "name": "Igor Heras"
     },
     {
-        "name": "Elemental Guardian Hero \u2013 Young"
+        "name": "Immanuela Crovius"
     },
     {
-        "name": "Elemental Guardian Instant"
+        "name": "Inkognit"
     },
     {
-        "name": "Elemental Guardian Weapon \u2013 Hammer (1H)"
+        "name": "Irene Francisco"
     },
     {
-        "name": "Elemental Instant"
+        "name": "Irina Kononenko"
     },
     {
-        "name": "Elemental Ranger Action"
+        "name": "Irina Plotnikova"
     },
     {
-        "name": "Elemental Ranger Action \u2013 Arrow Attack"
+        "name": "Irina Si"
     },
     {
-        "name": "Elemental Ranger Hero"
+        "name": "Ironical Ghosty"
     },
     {
-        "name": "Elemental Ranger Hero \u2013 Young"
+        "name": "Isuardi Therianto"
     },
     {
-        "name": "Elemental Ranger Weapon \u2013 Bow (2H)"
+        "name": "J. Sebasti\u00e1n S.C."
     },
     {
-        "name": "Elemental Runeblade Action"
+        "name": "Jason Kiantoro"
     },
     {
-        "name": "Elemental Runeblade Action \u2013 Attack"
+        "name": "Jen Santos"
     },
     {
-        "name": "Elemental Runeblade Hero"
+        "name": "Jessada Sutthi"
     },
     {
-        "name": "Elemental Runeblade Hero \u2013 Young"
+        "name": "Joseph Qiu"
     },
     {
-        "name": "Elemental Token \u2013 Aura"
+        "name": "Joshua Raphael"
     },
     {
-        "name": "Elemental Wizard Action"
+        "name": "Jsraphael"
     },
     {
-        "name": "Elemental Wizard Defense Reaction"
+        "name": "Junaidi Lim"
     },
     {
-        "name": "Elemental Wizard Hero"
+        "name": "Kanadekana"
     },
     {
-        "name": "Elemental Wizard Hero \u2013 Young"
+        "name": "Kate Fox"
     },
     {
-        "name": "Equipment"
+        "name": "Kevin Sidharta"
     },
     {
-        "name": "Equipment \u2013 Head"
+        "name": "Kimberly Pantoni"
     },
     {
-        "name": "Generic Action"
+        "name": "King Fung Ng"
     },
     {
-        "name": "Generic Action \u2013 Attack"
+        "name": "Ksenia Belova"
     },
     {
-        "name": "Generic Action \u2013 Aura"
+        "name": "Kyxarie Peralta"
     },
     {
-        "name": "Generic Action \u2013 Item"
+        "name": "Le Vuong"
     },
     {
-        "name": "Generic Attack Reaction"
+        "name": "Leo Avero"
     },
     {
-        "name": "Generic Defense Reaction"
+        "name": "Leony Tobing"
     },
     {
-        "name": "Generic Equipment \u2013 Arms"
+        "name": "Lius Lasahido"
     },
     {
-        "name": "Generic Equipment \u2013 Chest"
+        "name": "Livia Prima"
     },
     {
-        "name": "Generic Equipment \u2013 Head"
+        "name": "Lizhe Liang"
     },
     {
-        "name": "Generic Equipment \u2013 Legs"
+        "name": "Maerel Hibadita"
     },
     {
-        "name": "Generic Equipment \u2013 Off-Hand"
+        "name": "Marco Gonz\u00e1lez"
     },
     {
-        "name": "Generic Instant"
+        "name": "Marco Wulfr"
     },
     {
-        "name": "Generic Resource"
+        "name": "Marcus Reyno"
     },
     {
-        "name": "Generic Resource \u2013 Gem"
+        "name": "Maria Mishina"
     },
     {
-        "name": "Generic Token \u2013 Aura"
+        "name": "Marina Lunina"
     },
     {
-        "name": "Generic Token \u2013 Item"
+        "name": "Mark Poole"
     },
     {
-        "name": "Generic Weapon \u2013 Sword (2H)"
+        "name": "Masha Mishina"
     },
     {
-        "name": "Guardian Action"
+        "name": "Mateusz Wisniewski"
     },
     {
-        "name": "Guardian Action \u2013 Attack"
+        "name": "Maxim Kostin"
     },
     {
-        "name": "Guardian Action \u2013 Aura"
+        "name": "Mihail Spil-Haufter"
     },
     {
-        "name": "Guardian Action \u2013\u00a0Aura"
+        "name": "Mike Dalzell"
     },
     {
-        "name": "Guardian Defense Reaction"
+        "name": "Mikhail Babkin"
     },
     {
-        "name": "Guardian Equipment \u2013 Arms"
+        "name": "Milena Vasyukova"
     },
     {
-        "name": "Guardian Equipment \u2013 Chest"
+        "name": "MJ Fetesio"
     },
     {
-        "name": "Guardian Equipment \u2013 Head"
+        "name": "Muhammad Fajri"
     },
     {
-        "name": "Guardian Equipment \u2013 Off-Hand"
+        "name": "Narendra B Adi"
     },
     {
-        "name": "Guardian Hero"
+        "name": "Nathaniel Himawan"
     },
     {
-        "name": "Guardian Hero \u2013 Young"
+        "name": "Nikita Bondarev"
     },
     {
-        "name": "Guardian Instant"
+        "name": "Nikolai Maslakov"
     },
     {
-        "name": "Guardian Resource \u2013 Gem"
+        "name": "Nikolay Moskvin"
     },
     {
-        "name": "Guardian Token \u2013 Aura"
+        "name": "Olga Khariton"
     },
     {
-        "name": "Guardian Weapon \u2013 Hammer (1H)"
+        "name": "Olga Krivolapova"
     },
     {
-        "name": "Guardian Weapon \u2013 Hammer (2H)"
+        "name": "Oliver Morit"
     },
     {
-        "name": "Head"
+        "name": "Othon Nikolaidis"
     },
     {
-        "name": "Hero \u2013 Merchant"
+        "name": "Oxana Turlay"
     },
     {
-        "name": "Ice Action"
+        "name": "Panji Bagus P"
     },
     {
-        "name": "Ice Action \u2013 Affliction Aura"
+        "name": "Patchanee Treedet"
     },
     {
-        "name": "Ice Action \u2013 Attack"
+        "name": "Pavel Chuvin"
     },
     {
-        "name": "Ice Action \u2013 Aura"
+        "name": "Pavel Kondrashov"
     },
     {
-        "name": "Ice Action \u2013 Item"
+        "name": "Peyeyo"
     },
     {
-        "name": "Ice Earth Defense Reaction"
+        "name": "Phu Thieu"
     },
     {
-        "name": "Ice Equipment \u2013 Chest"
+        "name": "Rachel Alderson"
     },
     {
-        "name": "Ice Equipment \u2013 Head"
+        "name": "Ramza Ardyputra"
     },
     {
-        "name": "Ice Guardian Equipment \u2013 Off-Hand"
+        "name": "Raphael Masalimov"
     },
     {
-        "name": "Ice Instant"
+        "name": "Regina Krivolapova"
     },
     {
-        "name": "Ice Wizard Action"
+        "name": "Reza Afshar"
     },
     {
-        "name": "Ice Wizard Action \u2013 Affliction Aura"
+        "name": "Richard Elrassi"
     },
     {
-        "name": "Ice Wizard Equipment \u2013 Arms"
+        "name": "Rio Sabda"
     },
     {
-        "name": "Illusionist"
+        "name": "Riordan Delmiro"
     },
     {
-        "name": "Illusionist Action"
+        "name": "Saad Irfan"
     },
     {
-        "name": "Illusionist Action \u2013 Attack"
+        "name": "Sam Yang"
     },
     {
-        "name": "Illusionist Action \u2013 Aura"
+        "name": "Sariya Asavametha"
     },
     {
-        "name": "Illusionist Equipment \u2013 Arms"
+        "name": "Septimius Ferdian"
     },
     {
-        "name": "Illusionist Equipment \u2013 Chest"
+        "name": "Sergey Averkin"
     },
     {
-        "name": "Illusionist Equipment \u2013 Head"
+        "name": "Sergey Gurskiy"
     },
     {
-        "name": "Illusionist Equipment \u2013 Legs"
+        "name": "Shen Fei"
     },
     {
-        "name": "Illusionist Instant"
+        "name": "Silvia Meiliani"
     },
     {
-        "name": "Illusionist Mentor"
+        "name": "Simon Wong"
     },
     {
-        "name": "Illusionist Token \u2013 Aura"
+        "name": "Sofia Akimova"
     },
     {
-        "name": "Illusionist Weapon \u2013 Orb (2H)"
+        "name": "Sonia Sandoval"
     },
     {
-        "name": "Instant"
+        "name": "Sooraj Babu"
     },
     {
-        "name": "Invocation Placeholder Card"
+        "name": "soyameii"
     },
     {
-        "name": "Light Action"
+        "name": "Stanislav Sherbakov"
     },
     {
-        "name": "Light Action \u2013 Attack"
+        "name": "Steve Argyle"
     },
     {
-        "name": "Light Action \u2013 Landmark"
+        "name": "Surya P"
     },
     {
-        "name": "Light Defense Reaction"
+        "name": "Surya Prasteya"
     },
     {
-        "name": "Light Equipment \u2013 Chest"
+        "name": "Tanapon Wachirakul"
     },
     {
-        "name": "Light Equipment \u2013 Head"
+        "name": "Tatiana Trubnikova"
     },
     {
-        "name": "Light Illusionist Action \u2013 Attack"
+        "name": "Tian Thongjomroon"
     },
     {
-        "name": "Light Illusionist Action \u2013 Invocation"
+        "name": "Todor Hristov"
     },
     {
-        "name": "Light Illusionist Hero"
+        "name": "Tommy Suhartono"
     },
     {
-        "name": "Light Illusionist Hero \u2013 Young"
+        "name": "Trung Tin Shinji"
     },
     {
-        "name": "Light Illusionist Instant \u2013 Aura"
+        "name": "Vadim Kalabukh"
     },
     {
-        "name": "Light Illusionist Weapon \u2013 Scepter (2H)"
+        "name": "Vathan Suwannaworn"
     },
     {
-        "name": "Light Illusionist \u2013 Angel Ally"
+        "name": "Victoria Belyaeva"
     },
     {
-        "name": "Light Instant"
+        "name": "Vito Vivodka"
     },
     {
-        "name": "Light Warrior Action"
+        "name": "Vlad Varlamov"
     },
     {
-        "name": "Light Warrior Action \u2013 Attack"
+        "name": "Vladimir Shatunov"
     },
     {
-        "name": "Light Warrior Action \u2013 Item"
+        "name": "Wisnu Tan"
     },
     {
-        "name": "Light Warrior Attack Reaction"
+        "name": "W\u00edrawan Pranoto"
     },
     {
-        "name": "Light Warrior Hero"
+        "name": "Yen Lee"
     },
     {
-        "name": "Light Warrior Hero \u2013 Young"
+        "name": "Yolanda Felicia"
     },
     {
-        "name": "Light Warrior Weapon \u2013 Sword (2H)"
+        "name": "Yugin Maffioli"
     },
     {
-        "name": "Lightning Action"
+        "name": "Yulia Litvinova"
     },
     {
-        "name": "Lightning Action \u2013 Attack"
-    },
-    {
-        "name": "Lightning Action \u2013 Aura"
-    },
-    {
-        "name": "Lightning Action \u2013 Item"
-    },
-    {
-        "name": "Lightning Equipment \u2013 Arms"
-    },
-    {
-        "name": "Lightning Ice Instant"
-    },
-    {
-        "name": "Lightning Instant"
-    },
-    {
-        "name": "Mechanologist"
-    },
-    {
-        "name": "Mechanologist Action"
-    },
-    {
-        "name": "Mechanologist Action \u2013 Attack"
-    },
-    {
-        "name": "Mechanologist Action \u2013 Aura"
-    },
-    {
-        "name": "Mechanologist Action \u2013 Construct"
-    },
-    {
-        "name": "Mechanologist Action \u2013 Item"
-    },
-    {
-        "name": "Mechanologist Equipment \u2013 Arms"
-    },
-    {
-        "name": "Mechanologist Equipment \u2013 Chest"
-    },
-    {
-        "name": "Mechanologist Equipment \u2013 Legs"
-    },
-    {
-        "name": "Mechanologist Hero"
-    },
-    {
-        "name": "Mechanologist Hero \u2013 Young"
-    },
-    {
-        "name": "Mechanologist Weapon Equipment \u2013 Item"
-    },
-    {
-        "name": "Mechanologist Weapon \u2013 Gun (2H)"
-    },
-    {
-        "name": "Mechanologist Weapon \u2013 Pistol (2H)"
-    },
-    {
-        "name": "Merchant Equipment \u2013 Arms"
-    },
-    {
-        "name": "Merchant Hero \u2013 Young"
-    },
-    {
-        "name": "Nina Action \u2013 Attack"
-    },
-    {
-        "name": "Ninja Action"
-    },
-    {
-        "name": "Ninja Action \u2013 Attack"
-    },
-    {
-        "name": "Ninja Action \u2013 Aura"
-    },
-    {
-        "name": "Ninja Attack Reaction"
-    },
-    {
-        "name": "Ninja Defense Reaction"
-    },
-    {
-        "name": "Ninja Equipment \u2013 Arms"
-    },
-    {
-        "name": "Ninja Equipment \u2013 Chest"
-    },
-    {
-        "name": "Ninja Equipment \u2013 Head"
-    },
-    {
-        "name": "Ninja Equipment \u2013 Legs"
-    },
-    {
-        "name": "Ninja Hero"
-    },
-    {
-        "name": "Ninja Hero \u2013 Young"
-    },
-    {
-        "name": "Ninja Token \u2013 Aura"
-    },
-    {
-        "name": "Ninja Weapon \u2013 Dagger (1H)"
-    },
-    {
-        "name": "Ninja Weapon \u2013 Sword (2H)"
-    },
-    {
-        "name": "Ninja \u2013 Attack Reaction"
-    },
-    {
-        "name": "Ninja \u2013 Defense Reaction"
-    },
-    {
-        "name": "Ranger Action"
-    },
-    {
-        "name": "Ranger Action \u2013 Arrow Attack"
-    },
-    {
-        "name": "Ranger Action \u2013\u00a0Arrow Attack"
-    },
-    {
-        "name": "Ranger Action \u2013\u00a0Aura"
-    },
-    {
-        "name": "Ranger Defense Reaction"
-    },
-    {
-        "name": "Ranger Defense Reaction \u2013 Trap"
-    },
-    {
-        "name": "Ranger Equipment \u2013 Arms"
-    },
-    {
-        "name": "Ranger Equipment \u2013 Head"
-    },
-    {
-        "name": "Ranger Equipment \u2013 Legs"
-    },
-    {
-        "name": "Ranger Hero"
-    },
-    {
-        "name": "Ranger Hero \u2013 Young"
-    },
-    {
-        "name": "Ranger Instant"
-    },
-    {
-        "name": "Ranger Weapon \u2013 Bow (2H)"
-    },
-    {
-        "name": "Royal Draconic Warrior Wizard Hero \u2013 Young"
-    },
-    {
-        "name": "Runeblade Action"
-    },
-    {
-        "name": "Runeblade Action \u2013 Attack"
-    },
-    {
-        "name": "Runeblade Action \u2013 Aura"
-    },
-    {
-        "name": "Runeblade Defense Reaction"
-    },
-    {
-        "name": "Runeblade Equipment \u2013 Arms"
-    },
-    {
-        "name": "Runeblade Equipment \u2013 Chest"
-    },
-    {
-        "name": "Runeblade Equipment \u2013 Head"
-    },
-    {
-        "name": "Runeblade Equipment \u2013 Legs"
-    },
-    {
-        "name": "Runeblade Hero"
-    },
-    {
-        "name": "Runeblade Hero \u2013 Young"
-    },
-    {
-        "name": "Runeblade Mentor"
-    },
-    {
-        "name": "Runeblade Resource \u2013 Gem"
-    },
-    {
-        "name": "Runeblade Token \u2013 Aura"
-    },
-    {
-        "name": "Runeblade Weapon \u2013 Book (2H)"
-    },
-    {
-        "name": "Runeblade Weapon \u2013 Scythe (2H)"
-    },
-    {
-        "name": "Runeblade Weapon \u2013 Sword (2H)"
-    },
-    {
-        "name": "Shadow"
-    },
-    {
-        "name": "Shadow Action"
-    },
-    {
-        "name": "Shadow Action \u2013 Attack"
-    },
-    {
-        "name": "Shadow Brute Action"
-    },
-    {
-        "name": "Shadow Brute Action \u2013 Attack"
-    },
-    {
-        "name": "Shadow Brute Equipment \u2013 Legs"
-    },
-    {
-        "name": "Shadow Brute Hero"
-    },
-    {
-        "name": "Shadow Brute Hero \u2013 Young"
-    },
-    {
-        "name": "Shadow Brute Weapon \u2013 Flail (2H)"
-    },
-    {
-        "name": "Shadow Defense Reaction"
-    },
-    {
-        "name": "Shadow Instant"
-    },
-    {
-        "name": "Shadow Runeblade Action"
-    },
-    {
-        "name": "Shadow Runeblade Action - Attack"
-    },
-    {
-        "name": "Shadow Runeblade Action \u2013 Aura"
-    },
-    {
-        "name": "Shadow Runeblade Hero"
-    },
-    {
-        "name": "Shadow Runeblade Hero \u2013 Young"
-    },
-    {
-        "name": "Shadow Runeblade Instant"
-    },
-    {
-        "name": "Shadow Runeblade Token \u2013 Aura"
-    },
-    {
-        "name": "Shadow Runeblade Weapon \u2013 Sword (2H)"
-    },
-    {
-        "name": "Shadow Token \u2013 Demon Ally"
-    },
-    {
-        "name": "Shapeshifter Hero \u2013 Young"
-    },
-    {
-        "name": "Warrior Action"
-    },
-    {
-        "name": "Warrior Action \u2013 Aura"
-    },
-    {
-        "name": "Warrior Attack Reaction"
-    },
-    {
-        "name": "Warrior Defense Reaction"
-    },
-    {
-        "name": "Warrior Equipment \u2013 Arms"
-    },
-    {
-        "name": "Warrior Equipment \u2013 Chest"
-    },
-    {
-        "name": "Warrior Equipment \u2013 Head"
-    },
-    {
-        "name": "Warrior Equipment \u2013 Legs"
-    },
-    {
-        "name": "Warrior Hero"
-    },
-    {
-        "name": "Warrior Hero \u2013 Young"
-    },
-    {
-        "name": "Warrior Instant \u2013 Aura"
-    },
-    {
-        "name": "Warrior Mentor"
-    },
-    {
-        "name": "Warrior Weapon \u2013 Axe (1H)"
-    },
-    {
-        "name": "Warrior Weapon \u2013 Axe (2H)"
-    },
-    {
-        "name": "Warrior Weapon \u2013 Dagger (1H)"
-    },
-    {
-        "name": "Warrior Weapon \u2013 Sword (1H)"
-    },
-    {
-        "name": "Warrior Weapon \u2013 Sword (2H)"
-    },
-    {
-        "name": "Wizard Action"
-    },
-    {
-        "name": "Wizard Action \u2013 Aura"
-    },
-    {
-        "name": "Wizard Defense Reaction"
-    },
-    {
-        "name": "Wizard Equipment \u2013 Arms"
-    },
-    {
-        "name": "Wizard Equipment \u2013 Chest"
-    },
-    {
-        "name": "Wizard Equipment \u2013 Legs"
-    },
-    {
-        "name": "Wizard Hero"
-    },
-    {
-        "name": "Wizard Hero \u2013 Young"
-    },
-    {
-        "name": "Wizard Instant"
-    },
-    {
-        "name": "Wizard Weapon \u2013 Staff (2H)"
-    },
-    {
-        "name": "Wizard Weapon \u2013\u00a0Orb (2H)"
+        "name": "Yulia Tarushko"
     }
 ]

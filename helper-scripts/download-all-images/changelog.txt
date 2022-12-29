@@ -18,3 +18,4 @@
 
 PENDING:
 - Change the script to pull from the JSON files instead of CSVs
+- Update comments

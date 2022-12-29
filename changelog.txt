@@ -292,7 +292,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 PENDING:
 - Added generate-json and run-all-generators scripts
-- Fix a unicode issue in Runechant's variations and image_urls columns
+- Fixed a unicode issue in Runechant's variations and image_urls columns
 - Fixed a formatting issue in the card ids of Romping Club, Surging Strike, and Embodiment of Lightning
 - Fixed an issue with double inputted art variations for RNR024-RNR026
 - Fixed an issue with missing art variation info for the EA versions of EVR107-EVR109
+- Cleaned up and updated READMEs

@@ -29,6 +29,7 @@ def download_image_from_url(image_url: str):
     with open(file_name, 'wb') as handler:
         handler.write(img_data)
 
+# Parse command line flags
 try:
     opts, args = getopt.getopt(sys.argv[1:], "hs:")
 except getopt.GetoptError:
@@ -46,6 +47,7 @@ if not exists(images_dir_path):
     print(images_dir_path + " does not exist, creating it")
     makedirs(images_dir_path)
 
+# Download the images
 path = Path(__file__).parent / "../../json/english/card.json"
 with path.open(newline='') as jsonfile:
     card_array = json.load(jsonfile)

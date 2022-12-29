@@ -1,7 +1,6 @@
 import json
 import psycopg2
 from pathlib import Path
-from markdown_patch import unmark
 
 def create_table(cur):
     command = """

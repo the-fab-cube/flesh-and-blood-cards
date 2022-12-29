@@ -10,3 +10,4 @@ cards.ods
 cards.csv
 node_modules
 *.pyc
+__pycache__
