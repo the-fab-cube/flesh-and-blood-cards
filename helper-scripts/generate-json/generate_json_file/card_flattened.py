@@ -21,8 +21,8 @@ def generate_json_file():
     card_array = []
     card_variation_array = []
 
-    inPath = Path(__file__).parent / "../../../json/english/english/card.json"
-    outPath = Path(__file__).parent / "../../../json/english/english/card-flattened.json"
+    inPath = Path(__file__).parent / "../../../json/english/card.json"
+    outPath = Path(__file__).parent / "../../../json/english/card-flattened.json"
 
     with inPath.open(newline='') as infile:
         card_array = json.load(infile)

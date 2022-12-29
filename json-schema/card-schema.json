@@ -167,6 +167,10 @@
                 "items": {
                     "type": "object",
                     "properties": {
+                        "unique_id": {
+                            "description": "A UUID representing the printing within this data set.",
+                            "type": "string"
+                        },
                         "id": {
                             "description": "The ID of the card printing.",
                             "type": "string"

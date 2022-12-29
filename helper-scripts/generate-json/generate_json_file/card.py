@@ -20,6 +20,20 @@ def convert_image_data(image_url):
 
     return image_url_data
 
+# TODO: Clean up redundant function
+def convert_variation_unique_id_data(variation_unique_id):
+    variation_unique_id_split = re.split("— | – | - ", variation_unique_id.strip())
+
+    variation_unique_id_data = {}
+    variation_unique_id_data['unique_id'] = variation_unique_id_split[0]
+    variation_unique_id_data['card_id'] = variation_unique_id_split[1]
+    variation_unique_id_data['set_edition'] = variation_unique_id_split[2]
+    variation_unique_id_data['alternate_art_type'] = None
+    if len(variation_unique_id_split) >= 4:
+        variation_unique_id_data['alternate_art_type'] = variation_unique_id_split[3]
+
+    return variation_unique_id_data
+
 def treat_string_as_boolean(field, default_value=True):
     return bool(treat_blank_string_as_boolean(field, default_value))
 
@@ -41,7 +55,7 @@ def generate_json_file():
     card_array = []
 
     csvPath = Path(__file__).parent / "../../../csvs/english/card.csv"
-    jsonPath = Path(__file__).parent / "../../../json/english/english/card.json"
+    jsonPath = Path(__file__).parent / "../../../json/english/card.json"
 
     with csvPath.open(newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
@@ -167,6 +181,9 @@ def generate_json_file():
             variations = convert_to_array(row[rowId])
             rowId += 1
 
+            variation_unique_ids = convert_to_array(row[rowId])
+            rowId += 1
+
             image_urls = convert_to_array(row[rowId])
             rowId += 1
 
@@ -200,15 +217,16 @@ def generate_json_file():
 
                 variation_split = re.split("— | – | - ", variation.strip())
                 image_url_data = [convert_image_data(x) for x in image_urls]
+                unique_id_data = [convert_variation_unique_id_data(x) for x in variation_unique_ids]
 
                 foilings = variation_split[0].strip().split(' ')
-                cardIdFromVariation = variation_split[1]
-                setEdition = variation_split[2]
-                alternateArtType = None
+                card_id_from_variation = variation_split[1]
+                set_edition = variation_split[2]
+                alternative_art_type = None
                 if len(variation_split) >= 4:
-                    alternateArtType = variation_split[3]
+                    alternative_art_type = variation_split[3]
 
-                cardIdIndex = ids.index(cardIdFromVariation)
+                cardIdIndex = ids.index(card_id_from_variation)
 
                 set_id = set_ids[cardIdIndex]
 
@@ -231,16 +249,20 @@ def generate_json_file():
                 else:
                     rarity = rarities[0]
 
-                valid_image_urls = [data for data in image_url_data if data['card_id'] == cardIdFromVariation and data['set_edition'] == setEdition and data['alternate_art_type'] == alternateArtType]
+                valid_image_urls = [data for data in image_url_data if data['card_id'] == card_id_from_variation and data['set_edition'] == set_edition and data['alternate_art_type'] == alternative_art_type]
                 image_url = valid_image_urls[0]['image_url'] if len(valid_image_urls) > 0 else None
 
-                card_variation['id'] = cardIdFromVariation
+                valid_unique_ids = [data for data in unique_id_data if data['card_id'] == card_id_from_variation and data['set_edition'] == set_edition and data['alternate_art_type'] == alternative_art_type]
+                unique_id = valid_unique_ids[0]['unique_id'] if len(valid_unique_ids) > 0 else None
+
+                card_variation['unique_id'] = unique_id
+                card_variation['id'] = card_id_from_variation
                 card_variation['set_id'] = set_id
-                card_variation['edition'] = setEdition
+                card_variation['edition'] = set_edition
                 card_variation['foilings'] = foilings
                 card_variation['rarity'] = rarity
                 card_variation['artist'] = artist
-                card_variation['art_variation'] = alternateArtType
+                card_variation['art_variation'] = alternative_art_type
                 card_variation['image_url'] = image_url
 
                 card_printing_array.append(card_variation)
