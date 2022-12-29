@@ -1,0 +1,884 @@
+[
+    {
+        "name": "Adjudicator Equipment \u2013 Off-Hand"
+    },
+    {
+        "name": "Assasin Equipment \u2013 Head"
+    },
+    {
+        "name": "Assassin Action"
+    },
+    {
+        "name": "Assassin Action \u2013 Attack"
+    },
+    {
+        "name": "Assassin Attack Reaction"
+    },
+    {
+        "name": "Assassin Equipment \u2013 Leg"
+    },
+    {
+        "name": "Assassin Hero"
+    },
+    {
+        "name": "Assassin Hero \u2013 Young"
+    },
+    {
+        "name": "Assassin Weapon \u2013 Dagger (1H)"
+    },
+    {
+        "name": "Bard Action"
+    },
+    {
+        "name": "Bard Hero \u2013 Young"
+    },
+    {
+        "name": "Bard Weapon \u2013 Lute (2H)"
+    },
+    {
+        "name": "Brute Action"
+    },
+    {
+        "name": "Brute Action \u2013 Attack"
+    },
+    {
+        "name": "Brute Action \u2013 Aura"
+    },
+    {
+        "name": "Brute Defense Reaction"
+    },
+    {
+        "name": "Brute Equipment - Legs"
+    },
+    {
+        "name": "Brute Equipment \u2013 Arms"
+    },
+    {
+        "name": "Brute Equipment \u2013 Chest"
+    },
+    {
+        "name": "Brute Equipment \u2013 Head"
+    },
+    {
+        "name": "Brute Equipment \u2013 Legs"
+    },
+    {
+        "name": "Brute Hero"
+    },
+    {
+        "name": "Brute Hero \u2013 Young"
+    },
+    {
+        "name": "Brute Instant"
+    },
+    {
+        "name": "Brute Mentor"
+    },
+    {
+        "name": "Brute Weapon - Club (2H)"
+    },
+    {
+        "name": "Brute Weapon \u2013 Axe (2H)"
+    },
+    {
+        "name": "Brute Weapon \u2013 Claw (1H)"
+    },
+    {
+        "name": "Brute Weapon \u2013 Club (2H)"
+    },
+    {
+        "name": "Brute Weapon \u2013 Rock (2H)"
+    },
+    {
+        "name": "Chest"
+    },
+    {
+        "name": "Draconic Action"
+    },
+    {
+        "name": "Draconic Action \u2013 Attack"
+    },
+    {
+        "name": "Draconic Adjudicator Hero"
+    },
+    {
+        "name": "Draconic Attack Reaction"
+    },
+    {
+        "name": "Draconic Equipment \u2013 Chest"
+    },
+    {
+        "name": "Draconic Illusionist Action"
+    },
+    {
+        "name": "Draconic Illusionist Action \u2013 Ash"
+    },
+    {
+        "name": "Draconic Illusionist Action \u2013 Attack"
+    },
+    {
+        "name": "Draconic Illusionist Action \u2013 Aura"
+    },
+    {
+        "name": "Draconic Illusionist Action \u2013 Invocation"
+    },
+    {
+        "name": "Draconic Illusionist Equipment \u2013 Arms"
+    },
+    {
+        "name": "Draconic Illusionist Hero"
+    },
+    {
+        "name": "Draconic Illusionist Hero \u2013 Young"
+    },
+    {
+        "name": "Draconic Illusionist Instant"
+    },
+    {
+        "name": "Draconic Illusionist Token \u2013 Ash"
+    },
+    {
+        "name": "Draconic Illusionist Token \u2013 Dragon Ally"
+    },
+    {
+        "name": "Draconic Illusionist Weapon \u2013 Scepter (2H)"
+    },
+    {
+        "name": "Draconic Illusionist \u2013 Dragon Ally"
+    },
+    {
+        "name": "Draconic Instant"
+    },
+    {
+        "name": "Draconic Ninja Action"
+    },
+    {
+        "name": "Draconic Ninja Action \u2013 Attack"
+    },
+    {
+        "name": "Draconic Ninja Attack Reaction"
+    },
+    {
+        "name": "Draconic Ninja Equipment \u2013 Arms"
+    },
+    {
+        "name": "Draconic Ninja Hero"
+    },
+    {
+        "name": "Draconic Ninja Hero \u2013 Young"
+    },
+    {
+        "name": "Draconic Ninja Weapon \u2013 Sword (2H)"
+    },
+    {
+        "name": "Draconic Resource \u2013 Gem"
+    },
+    {
+        "name": "Earth Action"
+    },
+    {
+        "name": "Earth Action \u2013 Attack"
+    },
+    {
+        "name": "Earth Action \u2013 Aura"
+    },
+    {
+        "name": "Earth Action \u2013 Item"
+    },
+    {
+        "name": "Earth Equipment \u2013 Head"
+    },
+    {
+        "name": "Earth Instant"
+    },
+    {
+        "name": "Earth Lightning Action"
+    },
+    {
+        "name": "Elemental Action"
+    },
+    {
+        "name": "Elemental Action \u2013 Attack"
+    },
+    {
+        "name": "Elemental Action \u2013 Landmark"
+    },
+    {
+        "name": "Elemental Guardian Action \u2013 Attack"
+    },
+    {
+        "name": "Elemental Guardian Action \u2013 Aura"
+    },
+    {
+        "name": "Elemental Guardian Defense Reaction"
+    },
+    {
+        "name": "Elemental Guardian Hero"
+    },
+    {
+        "name": "Elemental Guardian Hero \u2013 Young"
+    },
+    {
+        "name": "Elemental Guardian Instant"
+    },
+    {
+        "name": "Elemental Guardian Weapon \u2013 Hammer (1H)"
+    },
+    {
+        "name": "Elemental Instant"
+    },
+    {
+        "name": "Elemental Ranger Action"
+    },
+    {
+        "name": "Elemental Ranger Action \u2013 Arrow Attack"
+    },
+    {
+        "name": "Elemental Ranger Hero"
+    },
+    {
+        "name": "Elemental Ranger Hero \u2013 Young"
+    },
+    {
+        "name": "Elemental Ranger Weapon \u2013 Bow (2H)"
+    },
+    {
+        "name": "Elemental Runeblade Action"
+    },
+    {
+        "name": "Elemental Runeblade Action \u2013 Attack"
+    },
+    {
+        "name": "Elemental Runeblade Hero"
+    },
+    {
+        "name": "Elemental Runeblade Hero \u2013 Young"
+    },
+    {
+        "name": "Elemental Token \u2013 Aura"
+    },
+    {
+        "name": "Elemental Wizard Action"
+    },
+    {
+        "name": "Elemental Wizard Defense Reaction"
+    },
+    {
+        "name": "Elemental Wizard Hero"
+    },
+    {
+        "name": "Elemental Wizard Hero \u2013 Young"
+    },
+    {
+        "name": "Equipment"
+    },
+    {
+        "name": "Equipment \u2013 Head"
+    },
+    {
+        "name": "Generic Action"
+    },
+    {
+        "name": "Generic Action \u2013 Attack"
+    },
+    {
+        "name": "Generic Action \u2013 Aura"
+    },
+    {
+        "name": "Generic Action \u2013 Item"
+    },
+    {
+        "name": "Generic Attack Reaction"
+    },
+    {
+        "name": "Generic Defense Reaction"
+    },
+    {
+        "name": "Generic Equipment \u2013 Arms"
+    },
+    {
+        "name": "Generic Equipment \u2013 Chest"
+    },
+    {
+        "name": "Generic Equipment \u2013 Head"
+    },
+    {
+        "name": "Generic Equipment \u2013 Legs"
+    },
+    {
+        "name": "Generic Equipment \u2013 Off-Hand"
+    },
+    {
+        "name": "Generic Instant"
+    },
+    {
+        "name": "Generic Resource"
+    },
+    {
+        "name": "Generic Resource \u2013 Gem"
+    },
+    {
+        "name": "Generic Token \u2013 Aura"
+    },
+    {
+        "name": "Generic Token \u2013 Item"
+    },
+    {
+        "name": "Generic Weapon \u2013 Sword (2H)"
+    },
+    {
+        "name": "Guardian Action"
+    },
+    {
+        "name": "Guardian Action \u2013 Attack"
+    },
+    {
+        "name": "Guardian Action \u2013 Aura"
+    },
+    {
+        "name": "Guardian Action \u2013\u00a0Aura"
+    },
+    {
+        "name": "Guardian Defense Reaction"
+    },
+    {
+        "name": "Guardian Equipment \u2013 Arms"
+    },
+    {
+        "name": "Guardian Equipment \u2013 Chest"
+    },
+    {
+        "name": "Guardian Equipment \u2013 Head"
+    },
+    {
+        "name": "Guardian Equipment \u2013 Off-Hand"
+    },
+    {
+        "name": "Guardian Hero"
+    },
+    {
+        "name": "Guardian Hero \u2013 Young"
+    },
+    {
+        "name": "Guardian Instant"
+    },
+    {
+        "name": "Guardian Resource \u2013 Gem"
+    },
+    {
+        "name": "Guardian Token \u2013 Aura"
+    },
+    {
+        "name": "Guardian Weapon \u2013 Hammer (1H)"
+    },
+    {
+        "name": "Guardian Weapon \u2013 Hammer (2H)"
+    },
+    {
+        "name": "Head"
+    },
+    {
+        "name": "Hero \u2013 Merchant"
+    },
+    {
+        "name": "Ice Action"
+    },
+    {
+        "name": "Ice Action \u2013 Affliction Aura"
+    },
+    {
+        "name": "Ice Action \u2013 Attack"
+    },
+    {
+        "name": "Ice Action \u2013 Aura"
+    },
+    {
+        "name": "Ice Action \u2013 Item"
+    },
+    {
+        "name": "Ice Earth Defense Reaction"
+    },
+    {
+        "name": "Ice Equipment \u2013 Chest"
+    },
+    {
+        "name": "Ice Equipment \u2013 Head"
+    },
+    {
+        "name": "Ice Guardian Equipment \u2013 Off-Hand"
+    },
+    {
+        "name": "Ice Instant"
+    },
+    {
+        "name": "Ice Wizard Action"
+    },
+    {
+        "name": "Ice Wizard Action \u2013 Affliction Aura"
+    },
+    {
+        "name": "Ice Wizard Equipment \u2013 Arms"
+    },
+    {
+        "name": "Illusionist"
+    },
+    {
+        "name": "Illusionist Action"
+    },
+    {
+        "name": "Illusionist Action \u2013 Attack"
+    },
+    {
+        "name": "Illusionist Action \u2013 Aura"
+    },
+    {
+        "name": "Illusionist Equipment \u2013 Arms"
+    },
+    {
+        "name": "Illusionist Equipment \u2013 Chest"
+    },
+    {
+        "name": "Illusionist Equipment \u2013 Head"
+    },
+    {
+        "name": "Illusionist Equipment \u2013 Legs"
+    },
+    {
+        "name": "Illusionist Instant"
+    },
+    {
+        "name": "Illusionist Mentor"
+    },
+    {
+        "name": "Illusionist Token \u2013 Aura"
+    },
+    {
+        "name": "Illusionist Weapon \u2013 Orb (2H)"
+    },
+    {
+        "name": "Instant"
+    },
+    {
+        "name": "Invocation Placeholder Card"
+    },
+    {
+        "name": "Light Action"
+    },
+    {
+        "name": "Light Action \u2013 Attack"
+    },
+    {
+        "name": "Light Action \u2013 Landmark"
+    },
+    {
+        "name": "Light Defense Reaction"
+    },
+    {
+        "name": "Light Equipment \u2013 Chest"
+    },
+    {
+        "name": "Light Equipment \u2013 Head"
+    },
+    {
+        "name": "Light Illusionist Action \u2013 Attack"
+    },
+    {
+        "name": "Light Illusionist Action \u2013 Invocation"
+    },
+    {
+        "name": "Light Illusionist Hero"
+    },
+    {
+        "name": "Light Illusionist Hero \u2013 Young"
+    },
+    {
+        "name": "Light Illusionist Instant \u2013 Aura"
+    },
+    {
+        "name": "Light Illusionist Weapon \u2013 Scepter (2H)"
+    },
+    {
+        "name": "Light Illusionist \u2013 Angel Ally"
+    },
+    {
+        "name": "Light Instant"
+    },
+    {
+        "name": "Light Warrior Action"
+    },
+    {
+        "name": "Light Warrior Action \u2013 Attack"
+    },
+    {
+        "name": "Light Warrior Action \u2013 Item"
+    },
+    {
+        "name": "Light Warrior Attack Reaction"
+    },
+    {
+        "name": "Light Warrior Hero"
+    },
+    {
+        "name": "Light Warrior Hero \u2013 Young"
+    },
+    {
+        "name": "Light Warrior Weapon \u2013 Sword (2H)"
+    },
+    {
+        "name": "Lightning Action"
+    },
+    {
+        "name": "Lightning Action \u2013 Attack"
+    },
+    {
+        "name": "Lightning Action \u2013 Aura"
+    },
+    {
+        "name": "Lightning Action \u2013 Item"
+    },
+    {
+        "name": "Lightning Equipment \u2013 Arms"
+    },
+    {
+        "name": "Lightning Ice Instant"
+    },
+    {
+        "name": "Lightning Instant"
+    },
+    {
+        "name": "Mechanologist"
+    },
+    {
+        "name": "Mechanologist Action"
+    },
+    {
+        "name": "Mechanologist Action \u2013 Attack"
+    },
+    {
+        "name": "Mechanologist Action \u2013 Aura"
+    },
+    {
+        "name": "Mechanologist Action \u2013 Construct"
+    },
+    {
+        "name": "Mechanologist Action \u2013 Item"
+    },
+    {
+        "name": "Mechanologist Equipment \u2013 Arms"
+    },
+    {
+        "name": "Mechanologist Equipment \u2013 Chest"
+    },
+    {
+        "name": "Mechanologist Equipment \u2013 Legs"
+    },
+    {
+        "name": "Mechanologist Hero"
+    },
+    {
+        "name": "Mechanologist Hero \u2013 Young"
+    },
+    {
+        "name": "Mechanologist Weapon Equipment \u2013 Item"
+    },
+    {
+        "name": "Mechanologist Weapon \u2013 Gun (2H)"
+    },
+    {
+        "name": "Mechanologist Weapon \u2013 Pistol (2H)"
+    },
+    {
+        "name": "Merchant Equipment \u2013 Arms"
+    },
+    {
+        "name": "Merchant Hero \u2013 Young"
+    },
+    {
+        "name": "Nina Action \u2013 Attack"
+    },
+    {
+        "name": "Ninja Action"
+    },
+    {
+        "name": "Ninja Action \u2013 Attack"
+    },
+    {
+        "name": "Ninja Action \u2013 Aura"
+    },
+    {
+        "name": "Ninja Attack Reaction"
+    },
+    {
+        "name": "Ninja Defense Reaction"
+    },
+    {
+        "name": "Ninja Equipment \u2013 Arms"
+    },
+    {
+        "name": "Ninja Equipment \u2013 Chest"
+    },
+    {
+        "name": "Ninja Equipment \u2013 Head"
+    },
+    {
+        "name": "Ninja Equipment \u2013 Legs"
+    },
+    {
+        "name": "Ninja Hero"
+    },
+    {
+        "name": "Ninja Hero \u2013 Young"
+    },
+    {
+        "name": "Ninja Token \u2013 Aura"
+    },
+    {
+        "name": "Ninja Weapon \u2013 Dagger (1H)"
+    },
+    {
+        "name": "Ninja Weapon \u2013 Sword (2H)"
+    },
+    {
+        "name": "Ninja \u2013 Attack Reaction"
+    },
+    {
+        "name": "Ninja \u2013 Defense Reaction"
+    },
+    {
+        "name": "Ranger Action"
+    },
+    {
+        "name": "Ranger Action \u2013 Arrow Attack"
+    },
+    {
+        "name": "Ranger Action \u2013\u00a0Arrow Attack"
+    },
+    {
+        "name": "Ranger Action \u2013\u00a0Aura"
+    },
+    {
+        "name": "Ranger Defense Reaction"
+    },
+    {
+        "name": "Ranger Defense Reaction \u2013 Trap"
+    },
+    {
+        "name": "Ranger Equipment \u2013 Arms"
+    },
+    {
+        "name": "Ranger Equipment \u2013 Head"
+    },
+    {
+        "name": "Ranger Equipment \u2013 Legs"
+    },
+    {
+        "name": "Ranger Hero"
+    },
+    {
+        "name": "Ranger Hero \u2013 Young"
+    },
+    {
+        "name": "Ranger Instant"
+    },
+    {
+        "name": "Ranger Weapon \u2013 Bow (2H)"
+    },
+    {
+        "name": "Royal Draconic Warrior Wizard Hero \u2013 Young"
+    },
+    {
+        "name": "Runeblade Action"
+    },
+    {
+        "name": "Runeblade Action \u2013 Attack"
+    },
+    {
+        "name": "Runeblade Action \u2013 Aura"
+    },
+    {
+        "name": "Runeblade Defense Reaction"
+    },
+    {
+        "name": "Runeblade Equipment \u2013 Arms"
+    },
+    {
+        "name": "Runeblade Equipment \u2013 Chest"
+    },
+    {
+        "name": "Runeblade Equipment \u2013 Head"
+    },
+    {
+        "name": "Runeblade Equipment \u2013 Legs"
+    },
+    {
+        "name": "Runeblade Hero"
+    },
+    {
+        "name": "Runeblade Hero \u2013 Young"
+    },
+    {
+        "name": "Runeblade Mentor"
+    },
+    {
+        "name": "Runeblade Resource \u2013 Gem"
+    },
+    {
+        "name": "Runeblade Token \u2013 Aura"
+    },
+    {
+        "name": "Runeblade Weapon \u2013 Book (2H)"
+    },
+    {
+        "name": "Runeblade Weapon \u2013 Scythe (2H)"
+    },
+    {
+        "name": "Runeblade Weapon \u2013 Sword (2H)"
+    },
+    {
+        "name": "Shadow"
+    },
+    {
+        "name": "Shadow Action"
+    },
+    {
+        "name": "Shadow Action \u2013 Attack"
+    },
+    {
+        "name": "Shadow Brute Action"
+    },
+    {
+        "name": "Shadow Brute Action \u2013 Attack"
+    },
+    {
+        "name": "Shadow Brute Equipment \u2013 Legs"
+    },
+    {
+        "name": "Shadow Brute Hero"
+    },
+    {
+        "name": "Shadow Brute Hero \u2013 Young"
+    },
+    {
+        "name": "Shadow Brute Weapon \u2013 Flail (2H)"
+    },
+    {
+        "name": "Shadow Defense Reaction"
+    },
+    {
+        "name": "Shadow Instant"
+    },
+    {
+        "name": "Shadow Runeblade Action"
+    },
+    {
+        "name": "Shadow Runeblade Action - Attack"
+    },
+    {
+        "name": "Shadow Runeblade Action \u2013 Aura"
+    },
+    {
+        "name": "Shadow Runeblade Hero"
+    },
+    {
+        "name": "Shadow Runeblade Hero \u2013 Young"
+    },
+    {
+        "name": "Shadow Runeblade Instant"
+    },
+    {
+        "name": "Shadow Runeblade Token \u2013 Aura"
+    },
+    {
+        "name": "Shadow Runeblade Weapon \u2013 Sword (2H)"
+    },
+    {
+        "name": "Shadow Token \u2013 Demon Ally"
+    },
+    {
+        "name": "Shapeshifter Hero \u2013 Young"
+    },
+    {
+        "name": "Warrior Action"
+    },
+    {
+        "name": "Warrior Action \u2013 Aura"
+    },
+    {
+        "name": "Warrior Attack Reaction"
+    },
+    {
+        "name": "Warrior Defense Reaction"
+    },
+    {
+        "name": "Warrior Equipment \u2013 Arms"
+    },
+    {
+        "name": "Warrior Equipment \u2013 Chest"
+    },
+    {
+        "name": "Warrior Equipment \u2013 Head"
+    },
+    {
+        "name": "Warrior Equipment \u2013 Legs"
+    },
+    {
+        "name": "Warrior Hero"
+    },
+    {
+        "name": "Warrior Hero \u2013 Young"
+    },
+    {
+        "name": "Warrior Instant \u2013 Aura"
+    },
+    {
+        "name": "Warrior Mentor"
+    },
+    {
+        "name": "Warrior Weapon \u2013 Axe (1H)"
+    },
+    {
+        "name": "Warrior Weapon \u2013 Axe (2H)"
+    },
+    {
+        "name": "Warrior Weapon \u2013 Dagger (1H)"
+    },
+    {
+        "name": "Warrior Weapon \u2013 Sword (1H)"
+    },
+    {
+        "name": "Warrior Weapon \u2013 Sword (2H)"
+    },
+    {
+        "name": "Wizard Action"
+    },
+    {
+        "name": "Wizard Action \u2013 Aura"
+    },
+    {
+        "name": "Wizard Defense Reaction"
+    },
+    {
+        "name": "Wizard Equipment \u2013 Arms"
+    },
+    {
+        "name": "Wizard Equipment \u2013 Chest"
+    },
+    {
+        "name": "Wizard Equipment \u2013 Legs"
+    },
+    {
+        "name": "Wizard Hero"
+    },
+    {
+        "name": "Wizard Hero \u2013 Young"
+    },
+    {
+        "name": "Wizard Instant"
+    },
+    {
+        "name": "Wizard Weapon \u2013 Staff (2H)"
+    },
+    {
+        "name": "Wizard Weapon \u2013\u00a0Orb (2H)"
+    }
+]

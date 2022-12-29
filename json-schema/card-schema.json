@@ -5,6 +5,10 @@
     "items": {
         "type": "object",
         "properties": {
+            "unique_id": {
+                "description": "A UUID representing the card within this data set.",
+                "type": "string"
+            },
             "name": {
                 "description": "The name of the card.",
                 "type": "string"

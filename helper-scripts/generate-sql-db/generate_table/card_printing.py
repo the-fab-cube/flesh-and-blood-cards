@@ -78,7 +78,7 @@ def treat_blank_string_as_none(field):
 def generate_table(cur, url_for_images = None):
     print("Filling out cards table from card.json...\n")
 
-    path = Path(__file__).parent / "../../../json/card.json"
+    path = Path(__file__).parent / "../../../json/english/card.json"
     with path.open(newline='') as jsonfile:
         card_array = json.load(jsonfile)
 

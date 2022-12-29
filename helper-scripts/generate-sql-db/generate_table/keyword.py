@@ -47,7 +47,7 @@ def insert(cur, keyword, name):
 def generate_table(cur):
     print("Filling out keywords table from keyword.json...\n")
 
-    path = Path(__file__).parent / "../../../json/keyword.json"
+    path = Path(__file__).parent / "../../../json/english/keyword.json"
     with path.open(newline='') as jsonfile:
         keyword_array = json.load(jsonfile)
 

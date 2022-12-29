@@ -6,7 +6,7 @@ print("Generating artist.csv from card.csv...")
 
 artists = set()
 
-path = Path(__file__).parent / "../../csvs/card.csv"
+path = Path(__file__).parent / "../../csvs/english/card.csv"
 with path.open(newline='') as csvfile:
     reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
     next(reader)
@@ -19,7 +19,7 @@ with path.open(newline='') as csvfile:
 
 artists_sorted = sorted(artists, key=str.casefold)
 
-path = Path(__file__).parent / "../../csvs/artist.csv"
+path = Path(__file__).parent / "../../csvs/english/artist.csv"
 with path.open('w', newline='\n') as csvout:
     writer = csv.writer(csvout)
 

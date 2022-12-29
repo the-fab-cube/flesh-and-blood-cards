@@ -47,7 +47,7 @@ def insert(cur, icon, description):
 def generate_table(cur):
     print("Filling out icons table from icon.json...\n")
 
-    path = Path(__file__).parent / "../../../json/icon.json"
+    path = Path(__file__).parent / "../../../json/english/icon.json"
     with path.open(newline='') as jsonfile:
         icon_array = json.load(jsonfile)
 

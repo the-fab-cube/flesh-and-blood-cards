@@ -7,8 +7,8 @@ def generate_json_file():
 
     foiling_array = []
 
-    csvPath = Path(__file__).parent / "../../../csvs/foiling.csv"
-    jsonPath = Path(__file__).parent / "../../../json/foiling.json"
+    csvPath = Path(__file__).parent / "../../../csvs/english/foiling.csv"
+    jsonPath = Path(__file__).parent / "../../../json/english/english/foiling.json"
 
     with csvPath.open(newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter='\t', quotechar='"')

@@ -46,7 +46,8 @@ if not exists(images_dir_path):
     print(images_dir_path + " does not exist, creating it")
     makedirs(images_dir_path)
 
-path = Path(__file__).parent / "../../csvs/card.csv"
+# TODO: Change to JSON
+path = Path(__file__).parent / "../../csvs/english/card.csv"
 with path.open(newline='', encoding='utf-8') as csvfile:
     reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
     next(reader)

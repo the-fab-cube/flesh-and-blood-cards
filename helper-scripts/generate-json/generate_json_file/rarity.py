@@ -7,8 +7,8 @@ def generate_json_file():
 
     rarity_array = []
 
-    csvPath = Path(__file__).parent / "../../../csvs/rarity.csv"
-    jsonPath = Path(__file__).parent / "../../../json/rarity.json"
+    csvPath = Path(__file__).parent / "../../../csvs/english/rarity.csv"
+    jsonPath = Path(__file__).parent / "../../../json/english/english/rarity.json"
 
     with csvPath.open(newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter='\t', quotechar='"')

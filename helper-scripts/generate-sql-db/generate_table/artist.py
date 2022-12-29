@@ -46,7 +46,7 @@ def insert(cur, name):
 def generate_table(cur):
     print("Filling out artists table from artist.json...\n")
 
-    path = Path(__file__).parent / "../../../json/artist.json"
+    path = Path(__file__).parent / "../../../json/english/artist.json"
     with path.open(newline='') as jsonfile:
         artist_array = json.load(jsonfile)
 

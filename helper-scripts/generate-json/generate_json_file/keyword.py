@@ -8,8 +8,8 @@ def generate_json_file():
 
     keyword_array = []
 
-    csvPath = Path(__file__).parent / "../../../csvs/keyword.csv"
-    jsonPath = Path(__file__).parent / "../../../json/keyword.json"
+    csvPath = Path(__file__).parent / "../../../csvs/english/keyword.csv"
+    jsonPath = Path(__file__).parent / "../../../json/english/english/keyword.json"
 
     with csvPath.open(newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter='\t', quotechar='"')

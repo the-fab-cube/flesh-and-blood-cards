@@ -6,6 +6,7 @@ from markdown_patch import unmark
 def create_table(cur):
     command = """
         CREATE TABLE cards (
+            unique_id VARCHAR(21) NOT NULL,
             name VARCHAR(255) NOT NULL,
             pitch VARCHAR(10) COLLATE numeric NOT NULL,
             cost VARCHAR(10) COLLATE numeric NOT NULL,
@@ -64,28 +65,28 @@ def drop_table(cur):
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
-def insert(cur, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
+def insert(cur, unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
             played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
             commoner_banned, upf_banned, blitz_suspended_start, blitz_suspended_end, cc_suspended_start, cc_suspended_end, commoner_suspended_start,
             commoner_suspended_end):
-    sql = """INSERT INTO cards(name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
+    sql = """INSERT INTO cards(unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
             played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
             commoner_banned, upf_banned, blitz_suspended_start, blitz_suspended_end, cc_suspended_start, cc_suspended_end, commoner_suspended_start,
             commoner_suspended_end)
-            VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s,
+            VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s,
             %s, %s, %s, %s, %s, %s, %s,
             %s, %s, %s, %s, %s, %s, %s, %s,
             %s, %s, %s, %s, %s, %s, %s,
             %s);"""
-    data = (name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
+    data = (unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
             played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
             commoner_banned, upf_banned, blitz_suspended_start, blitz_suspended_end, cc_suspended_start, cc_suspended_end, commoner_suspended_start,
             commoner_suspended_end)
     try:
-        print("Inserting {0} - {1} card...".format(name, pitch))
+        print("Inserting {0} - {1} card with unique id {2}...".format(name, pitch, unique_id))
 
         # execute the INSERT statement
         cur.execute(sql, data)
@@ -108,11 +109,12 @@ def treat_blank_string_as_none(field):
 def generate_table(cur):
     print("Filling out cards table from card.json...\n")
 
-    path = Path(__file__).parent / "../../../json/card.json"
+    path = Path(__file__).parent / "../../../json/english/card.json"
     with path.open(newline='') as jsonfile:
         card_array = json.load(jsonfile)
 
         for card in card_array:
+            unique_id = card['unique_id']
             name = card['name']
             pitch = card['pitch']
             cost = card['cost']
@@ -147,7 +149,7 @@ def generate_table(cur):
             commoner_suspended_start = card['commoner_suspended_start']
             commoner_suspended_end = card['commoner_suspended_end']
 
-            insert(cur, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
+            insert(cur, unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
             played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, cc_living_legend, blitz_banned, cc_banned,
             commoner_banned, upf_banned, blitz_suspended_start, blitz_suspended_end, cc_suspended_start, cc_suspended_end, commoner_suspended_start,

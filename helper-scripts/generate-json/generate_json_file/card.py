@@ -40,8 +40,8 @@ def generate_json_file():
 
     card_array = []
 
-    csvPath = Path(__file__).parent / "../../../csvs/card.csv"
-    jsonPath = Path(__file__).parent / "../../../json/card.json"
+    csvPath = Path(__file__).parent / "../../../csvs/english/card.csv"
+    jsonPath = Path(__file__).parent / "../../../json/english/english/card.json"
 
     with csvPath.open(newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
@@ -51,6 +51,9 @@ def generate_json_file():
             card_object = {}
 
             rowId = 0
+
+            card_object['unique_id'] = row[rowId]
+            rowId += 1
 
             ids = convert_to_array(row[rowId])
             rowId += 1

@@ -47,7 +47,7 @@ def insert(cur, id, name):
 def generate_table(cur):
     print("Filling out foilings table from foiling.json...\n")
 
-    path = Path(__file__).parent / "../../../json/foiling.json"
+    path = Path(__file__).parent / "../../../json/english/foiling.json"
     with path.open(newline='') as jsonfile:
         foiling_array = json.load(jsonfile)
 

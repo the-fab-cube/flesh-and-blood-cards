@@ -49,7 +49,7 @@ def insert(cur, id, name, start_card_id, end_card_id):
 def generate_table(cur):
     print("Filling out sets table from set.json...\n")
 
-    path = Path(__file__).parent / "../../../json/set.json"
+    path = Path(__file__).parent / "../../../json/english/set.json"
     with path.open(newline='') as jsonfile:
         set_array = json.load(jsonfile)
 

@@ -46,7 +46,7 @@ def insert(cur, id, name):
 def generate_table(cur):
     print("Filling out editions table from edition.json...\n")
 
-    path = Path(__file__).parent / "../../../json/edition.json"
+    path = Path(__file__).parent / "../../../json/english/edition.json"
     with path.open(newline='') as jsonfile:
         edition_array = json.load(jsonfile)
 

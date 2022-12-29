@@ -57,7 +57,7 @@ def insert(cur, id, edition, initial_release_date, out_of_print_date, product_pa
 def generate_table(cur):
     print("Filling out set_editions table from set.json...\n")
 
-    path = Path(__file__).parent / "../../../json/set.json"
+    path = Path(__file__).parent / "../../../json/english/set.json"
     with path.open(newline='') as jsonfile:
         set_array = json.load(jsonfile)
 

@@ -47,7 +47,7 @@ def insert(cur, id, description):
 def generate_table(cur):
     print("Filling out rarities table from rarity.json...\n")
 
-    path = Path(__file__).parent / "../../../json/rarity.json"
+    path = Path(__file__).parent / "../../../json/english/rarity.json"
     with path.open(newline='') as jsonfile:
         rarity_array = json.load(jsonfile)
 

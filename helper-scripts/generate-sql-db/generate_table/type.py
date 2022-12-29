@@ -43,12 +43,13 @@ def insert(cur, name):
 def generate_table(cur):
     print("Filling out types table from type.json...\n")
 
-    path = Path(__file__).parent / "../../../json/type.json"
+    path = Path(__file__).parent / "../../../json/english/type.json"
     with path.open(newline='') as jsonfile:
         type_array = json.load(jsonfile)
 
         for type in type_array:
             name = type['name']
+
             insert(cur, name)
 
         print("\nSuccessfully filled types table\n")
