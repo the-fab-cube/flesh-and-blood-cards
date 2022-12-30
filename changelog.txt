@@ -291,7 +291,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue with the download-all-images script not working on windows - bugfix credit: kyuur
 
 PENDING:
-- Added generate-json and run-all-generators scripts
+- Added generate-json, run-all-generators, and generate-csv-htmls scripts
 - Fixed a unicode issue in Runechant's variations and image_urls columns
 - Fixed a formatting issue in the card ids of Romping Club, Surging Strike, and Embodiment of Lightning
 - Fixed an issue with double inputted art variations for RNR024-RNR026
