@@ -1,5 +1,4 @@
 import csv
-import json
 from os.path import exists
 from pathlib import Path
 
@@ -8,13 +7,15 @@ print("Generating artist.csv from card.json...")
 # Compile list of unique artists from card.json
 artists = set()
 
-path = Path(__file__).parent / "../../json/english/card.json"
-with path.open(newline='') as jsonfile:
-    card_array = json.load(jsonfile)
+path = Path(__file__).parent / "../../csvs/english/card.csv"
+with path.open(newline='') as csvfile:
+    reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
+    next(reader)
 
-    for card in card_array:
-        for printing in card['printings']:
-            artist = printing['artist']
+    for row in reader:
+        artist_column=row[19]
+        individual_artists=artist_column.split(',')
+        for artist in individual_artists:
             artists.add(artist.strip())
 
 # Sort the artists
