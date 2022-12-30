@@ -2,7 +2,7 @@
 
 Welcome!
 
-If you're reading this, hopefully you're interested in helping out with the maintenance of this data set by adding missing info or fixing mistakes I've made while entering the data. If you are interested, please continue reading for instructions on how to help. Otherwise, I hope this data set has been helpful to you, and even if you have no interest in contributing, if you notice any mistakes or have suggestions, please create an Issue so I or someone else can fix it!
+If you're reading this, hopefully you're interested in helping out with the maintenance of this data set by adding missing info or fixing mistakes I've made while entering the data. If you are interested, please continue reading for instructions on how to help. Otherwise, I hope this data set has been helpful to you, and even if you have no interest in contributing, if you notice any mistakes or have suggestions, please [create an issue](https://github.com/the-fab-cube/flesh-and-blood-cards/issues/new) so I or someone else can fix it!
 
 ## Getting Started
 1. Find an Issue you'd like to work on.
