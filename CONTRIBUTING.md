@@ -6,7 +6,7 @@ If you're reading this, hopefully you're interested in helping out with the main
 
 ## Getting Started
 1. Find an Issue you'd like to work on.
-    a. You can find a list of open issues [here](https://github.com/the-fab-cube/flesh-and-blood-cards/issues) and a summary of data entry milestones [here](https://github.com/flesh-cube/flesh-and-blood-cards/milestones).
+    * You can find a list of open issues [here](https://github.com/the-fab-cube/flesh-and-blood-cards/issues) and a summary of data entry milestones [here](https://github.com/flesh-cube/flesh-and-blood-cards/milestones).
 2. Check to make sure no one is assigned to the Issue.
 3. If no one is working on it, please leave a comment mentioning you would like to work on it and I will assign you to the Issue.
 4. When you are done with your work, create a PR to this repo's develop branch and tag the issue you were working on. I'll review it and if it's good to go, approve it!
