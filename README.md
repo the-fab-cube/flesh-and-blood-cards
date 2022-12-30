@@ -20,11 +20,11 @@ You can view the current JSON and CSV files through the web [here](https://the-f
 
 
 ## Approach to Reprints/Editions
-This repo treats a unique card (name + pitch value) as 1 entity. A unique card can have multiple printings, foils, editions, etc, but is considered 1 entry in the CSVs.
+This repo treats a unique card (name + pitch value) as 1 entity. A unique card can have multiple printings, foils, editions, etc, but is considered 1 entry in the data set.
 
 A card's text and other data will always be based off the latest erratas and printings.
 
-Similarly, a set is unique based on a setcode + name, and can have multiple editions, but is considered to be 1 entry within the CSV.
+Similarly, a set is unique based on a setcode + name, and can have multiple editions, but is considered to be 1 entry within the data set.
 
 
 ## Contributing
