@@ -33,6 +33,7 @@ def generate_json_file():
             for _, printing in enumerate(card_object['printings']):
                 card_variation = json.loads(json.dumps(card_object))
 
+                card_variation['variation_unique_id'] = printing['unique_id']
                 card_variation['id'] = printing['id']
                 card_variation['set_id'] = printing['set_id']
                 card_variation['edition'] = printing['edition']

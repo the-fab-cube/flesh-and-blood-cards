@@ -111,51 +111,87 @@
             },
             "blitz_living_legend": {
                 "description": "A boolean representing if the card is Living Legend in Blitz.",
-                "type": ["string", "null"]
+                "type": ["boolean"]
+            },
+            "blitz_living_legend_start": {
+                "description": "The date the card became Living Legend in Blitz (will not be present otherwise).",
+                "type": ["string"]
             },
             "cc_living_legend": {
                 "description": "A boolean representing if the card is Living Legend in Classic Constructed.",
-                "type": ["string", "null"]
+                "type": ["boolean"]
+            },
+            "cc_living_legend_start": {
+                "description": "The date the card became Living Legend in Classic Constructed (will not be present otherwise).",
+                "type": ["string"]
             },
             "blitz_banned": {
-                "description": "Represents if the card is currently banned in Blitz. Contains the date it was banned, otherwise it is null.",
-                "type": ["string", "null"]
+                "description": "A boolean representing if the card is currently banned in Blitz.",
+                "type": ["boolean"]
+            },
+            "blitz_banned_start": {
+                "description": "The date the card became banned in Blitz (will not be present otherwise).",
+                "type": ["string"]
             },
             "cc_banned": {
-                "description": "Represents if the card is currently banned in Classic Constructed. Contains the date it was banned, otherwise it is null.",
-                "type": ["string", "null"]
+                "description": "A boolean representing if the card is currently banned in Classic Constructed.",
+                "type": ["boolean"]
+            },
+            "cc_banned_start": {
+                "description": "The date the card became banned in Classic Constructed (will not be present otherwise).",
+                "type": ["string"]
             },
             "commoner_banned": {
-                "description": "Represents if the card is currently banned in Commoner. Contains the date it was banned, otherwise it is null.",
-                "type": ["string", "null"]
+                "description": "A boolean representing if the card is currently banned in Commoner.",
+                "type": ["boolean"]
+            },
+            "commoner_banned_start": {
+                "description": "The date the card became banned in Commoner (will not be present otherwise).",
+                "type": ["string"]
             },
             "upf_banned": {
-                "description": "Represents if the card is currently banned in Ultimate Pit Fight. Contains the date it was banned, otherwise it is null.",
-                "type": ["string", "null"]
+                "description": "A boolean representing if the card is currently banned in Ultimate Pit Fight.",
+                "type": ["boolean"]
+            },
+            "upf_banned_start": {
+                "description": "The date the card became banned in Ultimate Pit Fight (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "blitz_suspended": {
+                "description": "A boolean representing if the card is currently banned in Blitz.",
+                "type": ["boolean"]
             },
             "blitz_suspended_start": {
-                "description": "Represents if the card is currently suspended in Blitz. Contains the date it was suspended, otherwise it is null.",
-                "type": ["string", "null"]
+                "description": "The date the card became suspended in Blitz (will not be present otherwise).",
+                "type": ["string"]
             },
             "blitz_suspended_end": {
-                "description": "Represents when the card is set to be unsuspended in Blitz. Contains a displayable text describing when it will be unsuspended if it is currently suspended, otherwise it is null.",
-                "type": ["string", "null"]
+                "description": "Represents when the card is set to be unsuspended in Blitz. Contains a displayable text describing when it will be unsuspended if it is currently suspended (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "cc_suspended": {
+                "description": "A boolean representing if the card is currently banned in Classic Constructed.",
+                "type": ["boolean"]
             },
             "cc_suspended_start": {
-                "description": "Represents if the card is currently suspended in Classic Constructed. Contains the date it was suspended, otherwise it is null.",
-                "type": ["string", "null"]
+                "description": "The date the card became suspended in Classic Constructed (will not be present otherwise).",
+                "type": ["string"]
             },
             "cc_suspended_end": {
-                "description": "Represents when the card is set to be unsuspended in Classic Constructed. Contains a displayable text describing when it will be unsuspended if it is currently suspended, otherwise it is null.",
-                "type": ["string", "null"]
+                "description": "Represents when the card is set to be unsuspended in Classic Constructed. Contains a displayable text describing when it will be unsuspended if it is currently suspended (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "commoner_suspended": {
+                "description": "A boolean representing if the card is currently banned in Commoner.",
+                "type": ["boolean"]
             },
             "commoner_suspended_start": {
-                "description": "Represents if the card is currently suspended in Commoner. Contains the date it was suspended, otherwise it is null.",
-                "type": ["string", "null"]
+                "description": "The date the card became suspended in Commoner (will not be present otherwise).",
+                "type": ["string"]
             },
             "commoner_suspended_end": {
-                "description": "Represents when the card is set to be unsuspended in Commoner. Contains a displayable text describing when it will be unsuspended if it is currently suspended, otherwise it is null.",
-                "type": ["string", "null"]
+                "description": "Represents when the card is set to be unsuspended in Commoner. Contains a displayable text describing when it will be unsuspended if it is currently suspended (will not be present otherwise).",
+                "type": ["string"]
             },
             "id": {
                 "description": "The ID of the card printing.",
@@ -195,6 +231,7 @@
             }
         },
         "required": [
+            "unique_id",
             "name",
             "pitch",
             "cost",
@@ -222,12 +259,10 @@
             "cc_banned",
             "commoner_banned",
             "upf_banned",
-            "blitz_suspended_start",
-            "blitz_suspended_end",
-            "cc_suspended_start",
-            "cc_suspended_end",
-            "commoner_suspended_start",
-            "commoner_suspended_end",
+            "blitz_suspended",
+            "cc_suspended",
+            "commoner_suspended",
+            "variation_unique_id",
             "id",
             "set_id",
             "edition",

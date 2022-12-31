@@ -38,7 +38,7 @@ def treat_string_as_boolean(field, default_value=True):
     return bool(treat_blank_string_as_boolean(field, default_value))
 
 def treat_blank_string_as_boolean(field, default_value=True):
-    if field == '':
+    if field.strip() == '':
         return default_value
 
     return field
@@ -142,40 +142,70 @@ def generate_json_file():
             card_object['commoner_legal'] = treat_string_as_boolean(row[rowId])
             rowId += 1
 
-            card_object['blitz_living_legend'] = treat_blank_string_as_none(row[rowId])
+            blitz_living_legend_field = row[rowId]
+            card_object['blitz_living_legend'] = treat_blank_string_as_none(blitz_living_legend_field) != None
+            if card_object['blitz_living_legend']:
+                card_object['blitz_living_legend_start'] = blitz_living_legend_field
             rowId += 1
 
-            card_object['cc_living_legend'] = treat_blank_string_as_none(row[rowId])
+            cc_living_legend_field = row[rowId]
+            card_object['cc_living_legend'] = treat_blank_string_as_none(cc_living_legend_field) != None
+            if card_object['cc_living_legend']:
+                card_object['cc_living_legend_start'] = cc_living_legend_field
             rowId += 1
 
-            card_object['blitz_banned'] = treat_blank_string_as_none(row[rowId])
+            blitz_banned_field = row[rowId]
+            card_object['blitz_banned'] = treat_blank_string_as_none(blitz_banned_field) != None
+            if card_object['blitz_banned']:
+                card_object['blitz_banned_start'] = blitz_banned_field
             rowId += 1
 
-            card_object['cc_banned'] = treat_blank_string_as_none(row[rowId])
+            cc_banned_field = row[rowId]
+            card_object['cc_banned'] = treat_blank_string_as_none(cc_banned_field) != None
+            if card_object['cc_banned']:
+                card_object['cc_banned_start'] = cc_banned_field
             rowId += 1
 
-            card_object['commoner_banned'] = treat_blank_string_as_none(row[rowId])
+            commoner_banned_field = row[rowId]
+            card_object['commoner_banned'] = treat_blank_string_as_none(commoner_banned_field) != None
+            if card_object['commoner_banned']:
+                card_object['commoner_banned_start'] = commoner_banned_field
             rowId += 1
 
-            card_object['upf_banned'] = treat_blank_string_as_none(row[rowId])
+            upf_banned_field = row[rowId]
+            card_object['upf_banned'] = treat_blank_string_as_none(upf_banned_field) != None
+            if card_object['upf_banned']:
+                card_object['upf_banned_start'] = upf_banned_field
             rowId += 1
 
-            card_object['blitz_suspended_start'] = treat_blank_string_as_none(row[rowId])
+            blitz_suspended_start_field = row[rowId]
+            card_object['blitz_suspended'] = treat_blank_string_as_none(blitz_suspended_start_field) != None
+            if card_object['blitz_suspended']:
+                card_object['blitz_suspended_start'] = blitz_suspended_start_field
             rowId += 1
 
-            card_object['blitz_suspended_end'] = treat_blank_string_as_none(row[rowId])
+            if card_object['blitz_suspended']:
+                card_object['blitz_suspended_end'] = row[rowId]
             rowId += 1
 
-            card_object['cc_suspended_start'] = treat_blank_string_as_none(row[rowId])
+            cc_suspended_start_field = row[rowId]
+            card_object['cc_suspended'] = treat_blank_string_as_none(cc_suspended_start_field) != None
+            if card_object['cc_suspended']:
+                card_object['cc_suspended_start'] = cc_suspended_start_field
             rowId += 1
 
-            card_object['cc_suspended_end'] = treat_blank_string_as_none(row[rowId])
+            if card_object['cc_suspended']:
+                card_object['cc_suspended_end'] = row[rowId]
             rowId += 1
 
-            card_object['commoner_suspended_start'] = treat_blank_string_as_none(row[rowId])
+            commoner_suspended_start_field = row[rowId]
+            card_object['commoner_suspended'] = treat_blank_string_as_none(commoner_suspended_start_field) != None
+            if card_object['commoner_suspended']:
+                card_object['commoner_suspended_start'] = commoner_suspended_start_field
             rowId += 1
 
-            card_object['commoner_suspended_end'] = treat_blank_string_as_none(row[rowId])
+            if card_object['commoner_suspended']:
+                card_object['commoner_suspended_end'] = row[rowId]
             rowId += 1
 
             variations = convert_to_array(row[rowId])
