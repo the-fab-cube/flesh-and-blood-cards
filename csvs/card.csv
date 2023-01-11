@@ -5035,3 +5035,8 @@ DYN243	DYN	Gold							C	Generic, Token, Item		Action	Go again		**Action** – {r
 DYN244	DYN	Ponder							C	Generic, Token, Aura					At the beginning of your end phase, destroy Ponder and draw a card.		Generic Token – Aura	Henrique Lindner																	S R – DYN244 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN244.png – DYN244 – N			
 DYN246	DYN	Spellbane Aegis							C	Generic, Token, Aura	Spellvoid 1				**Spellvoid 1** *(If your hero would be dealt arcane damage, you may destroy Spellbane Aegis to prevent 1 of that damage.)*		Generic Token – Aura	Federico Musetti																	S R – DYN246 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN246.png – DYN246 – N			
 OUT042	OUT	Razor’s Edge	1	0		3			C	Assassin, Attack Reaction					Target attack action card with **stealth** gains +3{p}.	There’s hit men. There’s big game hunters. Then there’s king slayers.	Assassin Attack Reaction	Isuardi Therianto																	S – OUT042 – N	https://storage.googleapis.com/fabmaster/media/images/OUT042.original.png – OUT042 – N			
+OUT160	OUT	Codex of Frailty	2	0		2			M – OUT160 – N, V – OUT160 – N – AA	Assassin, Ranger, Action	Go again				"Each hero puts an attack action card from their graveyard face down into their arsenal. Each hero that does, discards a card.
+
+Create a Ponder token under your control and a Frailty token under each opponent's control.
+
+**Go again**"		Assassin / Ranger Action	Carlos Cruchaga																	S – OUT160 – N, S – OUT160 – N – AA				

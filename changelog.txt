@@ -291,4 +291,4 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue with the download-all-images script not working on windows - bugfix credit: kyuur
 
 PENDING:
-- Added card data for OUT042
+- Added card data for OUT042, OUT160
