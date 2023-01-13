@@ -13,7 +13,9 @@ If you're reading this, hopefully you're interested in helping out with the main
 
 
 ## Entering CSV Data
-I have LibreOffice files in the repo for easy editing. It is okay if you do not use them, I will update them with any changes other people make without using LibreOffice, but they are there for convenience. To use them, just open the .ods file and edit, and then when done, export the file as a .csv to the appropriate langue's folder in the csvs folder with Save As, making sure to choose Tabs as the delimiter and " as the string indicator.
+I have LibreOffice files in the repo for easy editing. It is okay if you do not use them, I will update them with any changes other people make without using LibreOffice, but they are there for convenience. To use them, just open the .ods file and edit, and then when done, export the file as a .csv to the appropriate language's folder in the csvs folder with Save As, making sure to choose Tabs as the delimiter and " as the string indicator.
+
+After entering the data, please run the [pre-commit-script bash script](/helper-scripts/README.md), which will take care of generating the various JSON, CSV, and HTML files. After running this, if you are using the LibreOffice ODS files and added a new card and/or card variation, please copy the newly generated unique ID back over to the ODS file so data isn't lost when you export the ODS file to CSV again in the future.
 
 NOTE: You can find the CSV schema data [here](/documentation/csv-schemas.md).
 

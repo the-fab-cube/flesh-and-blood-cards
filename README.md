@@ -3,11 +3,13 @@
 ## Table of Contents
 1. [General Overview](#general-overview)
 2. [Approach to Reprints/Editions](#approach-to-reprintseditions)
-3. [Contributing](#contributing)
-4. [Helper Scripts](#helper-scripts)
-5. [Further Documentation](#further-documentation)
-6. [Current Status on CSV Representation of Translated Cards](#current-status-on-csv-representation-of-translated-cards)
-7. [Projects Using This Data Set](#projects-using-this-data-set)
+3. [Approach to Versioning](#approach-to-versioning)
+4. [Changelogs and Contribution Credit](#changelogs-and-contribution-credit)
+5. [Contributing](#contributing)
+6. [Helper Scripts](#helper-scripts)
+7. [Further Documentation](#further-documentation)
+8. [Current Status on CSV Representation of Translated Cards](#current-status-on-csv-representation-of-translated-cards)
+9. [Projects Using This Data Set](#projects-using-this-data-set)
 
 ## General Overview
 This repo is intended as a comprehensive, open-source resource for representing all cards and sets from the Flesh and Blood TCG as JSON and CSV files.
@@ -27,8 +29,28 @@ A card's text and other data will always be based off the latest erratas and pri
 Similarly, a set is unique based on a setcode + name, and can have multiple editions, but is considered to be 1 entry within the data set.
 
 
+## Approach to Versioning
+To the best of my ability, I attempt to follow [Semantic Versioning](https://semver.org/) when releasing versions of this data set. You can find all released versions [here](https://github.com/the-fab-cube/flesh-and-blood-cards/releases).
+
+I try to increment version numbers with this general logic:
+
+* Major - The schema for the CSV / JSON was changed, large file organizational changes were made, etc.
+* Minor - New data was added, new scripts were added or updated, etc. (Scripts receiving breaking changes is not always guaranteed to warrant a major patch bump, use with caution!)
+* Patch - Errors in the data or helper scripts were fixed
+
+If you'd like a stable experience, please use the main branch and pin a specific tagged version. I try to keep the develop branch as clean as possible, but even that is broken or has big changes in-flight from time to time. For bigger changes to the data set or during spoiler seasons, I spin off feature branches to work in. You are welcome to use them while I am working on them, but please be aware things can break at any time!
+
+Unlike code packages, I do not go back and support past major/minor releases with bugfixes, so if you want the most up-to-date data, you will always need to be on the latest version, even if that version has breaking changes. The versioning system is purely to give you a heads up so that you don't update and find your project blowing up unexpectedly!
+
+
+## Changelogs and Contribution Credit
+I include text changelogs for more information on when something changed and to help me remember what changed when I release new versions and need to write-up patch notes for them. The changelog for the actual data is at the root of the repo [here](/changelog.txt), and the changelogs for the various scripts can all be found at the root of each script's folder.
+
+I do my best to include the usernames of who submitted specific data updates or bugfixes (or who even just notified me of an issue). If I missed crediting you, please let me know so I can fix it! Conversely, if I've credited you and you wish for me to remove your username or update it, please also let me know!
+
+
 ## Contributing
-This repo is primarily maintained by Tyler, but it's been a community effort finding bugs, suggesting and making improvements, and adding new card data! If you'd like to contribute, please take a look at [these instructions](/CONTRIBUTING.md).
+This repo is primarily maintained by Tyler ([luceleaftea](https://github.com/luceleaftea)), but it's been a community effort finding bugs, suggesting and making improvements, and adding new card data! If you'd like to contribute, please take a look at [these instructions](/CONTRIBUTING.md).
 
 ## Helper Scripts
 This project contains numerous helper scripts in order to help with data entry, generating JSON and HTML files, and spinning up PostgreSQL servers from the data. You can find more info on all of them [here](/helper-scripts/README.md).
