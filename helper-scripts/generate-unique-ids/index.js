@@ -7,6 +7,7 @@ function capitalizeFirstLetter(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
+// Set an index to null to omit generation for the associated unique ID
 const generateUniqueIds = (language, uniqueIdIndex, cardIdIndex, variationsIndex, variationUniqueIdsIndex) => {
     const inputCSV = `../../csvs/${language}/card.csv`
     const outputCSV = `./temp-${language}-card.csv`

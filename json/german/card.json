@@ -14,16 +14,16 @@
             "Edelstein"
         ],
         "card_keywords": [
-            "Legend\u00e4r"
+            "Legendär"
         ],
         "abilities_and_effects": [],
         "ability_and_effect_keywords": [],
         "granted_keywords": [],
-        "functional_text": "**Legend\u00e4r** *(Du darfst Herz von Fyendal nur einmal in deinem Deck haben.)*\n\nWenn du Herz von Fyendal pitchst und weniger {h} als ein gegnerischer Held hast, erh\u00e4lst du 1{h}.",
-        "functional_text_plain": "Legend\u00e4r (Du darfst Herz von Fyendal nur einmal in deinem Deck haben.)\nWenn du Herz von Fyendal pitchst und weniger {h} als ein gegnerischer Held hast, erh\u00e4lst du 1{h}.",
+        "functional_text": "**Legendär** *(Du darfst Herz von Fyendal nur einmal in deinem Deck haben.)*\n\nWenn du Herz von Fyendal pitchst und weniger {h} als ein gegnerischer Held hast, erhälst du 1{h}.",
+        "functional_text_plain": "Legendär (Du darfst Herz von Fyendal nur einmal in deinem Deck haben.)\nWenn du Herz von Fyendal pitchst und weniger {h} als ein gegnerischer Held hast, erhälst du 1{h}.",
         "flavor_text": "",
         "flavor_text_plain": "",
-        "type_text": "Allgemein Ressource \u2013 Edelstein",
+        "type_text": "Allgemein Ressource – Edelstein",
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": true,
@@ -68,17 +68,17 @@
             "Edelstein"
         ],
         "card_keywords": [
-            "Legend\u00e4r",
+            "Legendär",
             "sortiere 2 um"
         ],
         "abilities_and_effects": [],
         "ability_and_effect_keywords": [],
         "granted_keywords": [],
-        "functional_text": "**Legend\u00e4r** *(Du darfst Auge von Ophidia nur einmal in deinem Deck haben.)*\n\nWenn du Auge von Ophidia pitchst, **sortiere 2 um**.",
-        "functional_text_plain": "Legend\u00e4r (Du darfst Auge von Ophidia nur einmal in deinem Deck haben.)\nWenn du Auge von Ophidia pitchst, sortiere 2 um.",
+        "functional_text": "**Legendär** *(Du darfst Auge von Ophidia nur einmal in deinem Deck haben.)*\n\nWenn du Auge von Ophidia pitchst, **sortiere 2 um**.",
+        "functional_text_plain": "Legendär (Du darfst Auge von Ophidia nur einmal in deinem Deck haben.)\nWenn du Auge von Ophidia pitchst, sortiere 2 um.",
         "flavor_text": "",
         "flavor_text_plain": "",
-        "type_text": "Allgemein Ressource \u2013 Edelstein",
+        "type_text": "Allgemein Ressource – Edelstein",
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": true,
@@ -124,16 +124,16 @@
         ],
         "card_keywords": [
             "Viserai-Spezialisierung",
-            "Legend\u00e4r"
+            "Legendär"
         ],
         "abilities_and_effects": [],
         "ability_and_effect_keywords": [],
         "granted_keywords": [],
-        "functional_text": "**Legend\u00e4re Viserai-Spezialisierung** *(Du darfst Scherbe der Erznacht nur einmal in deinem Deck haben und nur dann, wenn Viserai dein Held ist.)*\n\nWenn du Scherbe der Erznacht pitchst, erstelle ein Runengesang-Token.",
-        "functional_text_plain": "Legend\u00e4re Viserai-Spezialisierung (Du darfst Scherbe der Erznacht nur einmal in deinem Deck haben und nur dann, wenn Viserai dein Held ist.)\nWenn du Scherbe der Erznacht pitchst, erstelle ein Runengesang-Token.",
+        "functional_text": "**Legendäre Viserai-Spezialisierung** *(Du darfst Scherbe der Erznacht nur einmal in deinem Deck haben und nur dann, wenn Viserai dein Held ist.)*\n\nWenn du Scherbe der Erznacht pitchst, erstelle ein Runengesang-Token.",
+        "functional_text_plain": "Legendäre Viserai-Spezialisierung (Du darfst Scherbe der Erznacht nur einmal in deinem Deck haben und nur dann, wenn Viserai dein Held ist.)\nWenn du Scherbe der Erznacht pitchst, erstelle ein Runengesang-Token.",
         "flavor_text": "",
         "flavor_text_plain": "",
-        "type_text": "Runenklinge Ressource \u2013 Edelstein",
+        "type_text": "Runenklinge Ressource – Edelstein",
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": true,

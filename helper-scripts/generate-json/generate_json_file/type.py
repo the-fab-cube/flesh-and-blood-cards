@@ -21,9 +21,9 @@ def generate_json_file():
 
             type_array.append(type_object)
 
-    json_object = json.dumps(type_array, indent=4)
+    json_object = json.dumps(type_array, indent=4, ensure_ascii=False)
 
-    with jsonPath.open('w', newline='\n') as outfile:
+    with jsonPath.open('w', newline='\n', encoding='utf8') as outfile:
         outfile.write(json_object)
 
     print("Successfully generated type.json\n")

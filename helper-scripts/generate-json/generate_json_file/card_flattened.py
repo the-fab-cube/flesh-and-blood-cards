@@ -47,9 +47,9 @@ def generate_json_file():
 
                 card_variation_array.append(card_variation)
 
-    json_object = json.dumps(card_variation_array, indent=4)
+    json_object = json.dumps(card_variation_array, indent=4, ensure_ascii=False)
 
-    with outPath.open('w', newline='\n') as outfile:
+    with outPath.open('w', newline='\n', encoding='utf8') as outfile:
         outfile.write(json_object)
 
     print("Successfully generated card-flattened.json\n")

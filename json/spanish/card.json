@@ -1,7 +1,7 @@
 [
     {
         "unique_id": "pBpLPQ7kg6mkBpNMMPdCD",
-        "name": "Coraz\u00f3n de Fyendal",
+        "name": "Corazón de Fyendal",
         "pitch": "3",
         "cost": "",
         "power": "",
@@ -10,7 +10,7 @@
         "intelligence": "",
         "types": [
             "Recurso",
-            "Gen\u00e9rico",
+            "Genérico",
             "Gema"
         ],
         "card_keywords": [
@@ -19,11 +19,11 @@
         "abilities_and_effects": [],
         "ability_and_effect_keywords": [],
         "granted_keywords": [],
-        "functional_text": "**Legendario** *(Solo puedes tener un Coraz\u00f3n de Fyendal en el mazo).*\n\nCuando lanzas Coraz\u00f3n de Fyendal, si tienes menos {h} que un h\u00e9roe oponente, ganas 1{h}.",
-        "functional_text_plain": "Legendario (Solo puedes tener un Coraz\u00f3n de Fyendal en el mazo).\nCuando lanzas Coraz\u00f3n de Fyendal, si tienes menos {h} que un h\u00e9roe oponente, ganas 1{h}.",
+        "functional_text": "**Legendario** *(Solo puedes tener un Corazón de Fyendal en el mazo).*\n\nCuando lanzas Corazón de Fyendal, si tienes menos {h} que un héroe oponente, ganas 1{h}.",
+        "functional_text_plain": "Legendario (Solo puedes tener un Corazón de Fyendal en el mazo).\nCuando lanzas Corazón de Fyendal, si tienes menos {h} que un héroe oponente, ganas 1{h}.",
         "flavor_text": "",
         "flavor_text_plain": "",
-        "type_text": "Recurso gen\u00e9rico \u2013 Gema",
+        "type_text": "Recurso genérico – Gema",
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": true,
@@ -64,7 +64,7 @@
         "intelligence": "",
         "types": [
             "Recurso",
-            "Gen\u00e9rico",
+            "Genérico",
             "Gema"
         ],
         "card_keywords": [
@@ -78,7 +78,7 @@
         "functional_text_plain": "Legendario (Solo puedes tener un Ojo de Ofidia en el mazo).\nCuando lanzas Ojo de Ofidia, opta 2.",
         "flavor_text": "",
         "flavor_text_plain": "",
-        "type_text": "Recurso gen\u00e9rico \u2013 Gema",
+        "type_text": "Recurso genérico – Gema",
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": true,
@@ -123,17 +123,17 @@
             "Gema"
         ],
         "card_keywords": [
-            "Especializaci\u00f3n de Viserai",
+            "Especialización de Viserai",
             "Legendario"
         ],
         "abilities_and_effects": [],
         "ability_and_effect_keywords": [],
         "granted_keywords": [],
-        "functional_text": "**Legendario** *(Solo puedes tener un Fragmento del archicaballero en el mazo, y solo si tu h\u00e9roe es Viserai).*\n\nCuando lanzas a Fragmento del archicaballero, crea una ficha de Canto de runas",
-        "functional_text_plain": "Legendario (Solo puedes tener un Fragmento del archicaballero en el mazo, y solo si tu h\u00e9roe es Viserai).\nCuando lanzas a Fragmento del archicaballero, crea una ficha de Canto de runas",
+        "functional_text": "**Legendario** *(Solo puedes tener un Fragmento del archicaballero en el mazo, y solo si tu héroe es Viserai).*\n\nCuando lanzas a Fragmento del archicaballero, crea una ficha de Canto de runas",
+        "functional_text_plain": "Legendario (Solo puedes tener un Fragmento del archicaballero en el mazo, y solo si tu héroe es Viserai).\nCuando lanzas a Fragmento del archicaballero, crea una ficha de Canto de runas",
         "flavor_text": "",
         "flavor_text_plain": "",
-        "type_text": "Recurso de filorruna \u2013 Gema",
+        "type_text": "Recurso de filorruna – Gema",
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": true,

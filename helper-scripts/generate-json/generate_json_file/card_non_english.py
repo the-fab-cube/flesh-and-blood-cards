@@ -242,9 +242,9 @@ def generate_json_file(language):
 
                 card_array.append(card_object)
 
-    json_object = json.dumps(card_array, indent=4)
+    json_object = json.dumps(card_array, indent=4, ensure_ascii=False)
 
-    with jsonPath.open('w', newline='\n') as outfile:
+    with jsonPath.open('w', newline='\n', encoding='utf8') as outfile:
         outfile.write(json_object)
 
     print(f"Successfully generated {language} card.csv\n")
