@@ -1,0 +1,166 @@
+[
+    {
+        "unique_id": "pBpLPQ7kg6mkBpNMMPdCD",
+        "name": "C\u0153ur de Fyendal",
+        "pitch": "3",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "types": [
+            "G\u00e9n\u00e9rique",
+            "Ressource",
+            "Pierre pr\u00e9cieuse"
+        ],
+        "card_keywords": [
+            "L\u00e9gendaire"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "functional_text": "**L\u00e9gendaire** *(Vous ne pouvez avoir qu\u2019un C\u0153ur de Fyendal dans votre deck.)*\n\nLorsque vous lancez Coeur de Fyendal, si vous avez moins de {h} que votre adversaire, gagnez 1{h}.",
+        "functional_text_plain": "L\u00e9gendaire (Vous ne pouvez avoir qu\u2019un C\u0153ur de Fyendal dans votre deck.)\nLorsque vous lancez Coeur de Fyendal, si vous avez moins de {h} que votre adversaire, gagnez 1{h}.",
+        "flavor_text": "",
+        "flavor_text_plain": "",
+        "type_text": "G\u00e9n\u00e9rique Ressource \u2013 Pierre pr\u00e9cieuse",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "printings": [
+            {
+                "unique_id": "zPG97HKzdmzJGdncK8nnG",
+                "id": "1HP000",
+                "set_id": "1HP",
+                "edition": "N",
+                "foilings": [
+                    "R"
+                ],
+                "rarity": "F",
+                "artist": "Adolfo Navarro",
+                "art_variation": null,
+                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/FR/FR_1HP000_1.png"
+            }
+        ]
+    },
+    {
+        "unique_id": "N77hdGp96fNQnzc79hqN9",
+        "name": "\u0152il d\u2019Ophidie",
+        "pitch": "3",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "types": [
+            "G\u00e9n\u00e9rique",
+            "Ressource",
+            "Pierre pr\u00e9cieuse"
+        ],
+        "card_keywords": [
+            "L\u00e9gendaire",
+            "Optez 2"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "functional_text": "**L\u00e9gendaire** *(Vous ne pouvez avoir qu\u2019un \u0152il d\u2019Ophidie dans votre deck.)*\n\nLorsque vous lanchez \u0152il d\u2019Ophidie, **optez 2**.",
+        "functional_text_plain": "L\u00e9gendaire (Vous ne pouvez avoir qu\u2019un \u0152il d\u2019Ophidie dans votre deck.)\nLorsque vous lanchez \u0152il d\u2019Ophidie, optez 2.",
+        "flavor_text": "",
+        "flavor_text_plain": "",
+        "type_text": "G\u00e9n\u00e9rique Ressource \u2013 Pierre pr\u00e9cieuse",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "printings": [
+            {
+                "unique_id": "BBqrPDLK8RpDLfF99Cr8d",
+                "id": "1HP000",
+                "set_id": "1HP",
+                "edition": "N",
+                "foilings": [
+                    "R"
+                ],
+                "rarity": "F",
+                "artist": "Alexandra Malygina",
+                "art_variation": null,
+                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/FR/FR_1HP000_2.png"
+            }
+        ]
+    },
+    {
+        "unique_id": "pkMGCRh9fDT98dRgnQF8W",
+        "name": "\u00c9clat d\u2019Archenuit",
+        "pitch": "3",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "types": [
+            "Lamederune",
+            "Ressource",
+            "Pierre pr\u00e9cieuse"
+        ],
+        "card_keywords": [
+            "Sp\u00e9cialisation de Viserai",
+            "L\u00e9gendaire"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "functional_text": "**Sp\u00e9cialisation de Viserai l\u00e9gendaire** *(Vous ne pouvez avoir qu\u2019un \u00c9clat d\u2019Archenuit dans votre deck et uniquement si Viserai est votre h\u00e9ros.)*\n\nLorsque vous lanchez \u00c9clat d\u2019Archenuit, cr\u00e9ez un jeton Chantderune.",
+        "functional_text_plain": "Sp\u00e9cialisation de Viserai l\u00e9gendaire (Vous ne pouvez avoir qu\u2019un \u00c9clat d\u2019Archenuit dans votre deck et uniquement si Viserai est votre h\u00e9ros.)\nLorsque vous lanchez \u00c9clat d\u2019Archenuit, cr\u00e9ez un jeton Chantderune.",
+        "flavor_text": "",
+        "flavor_text_plain": "",
+        "type_text": "Lamederune Ressource \u2013 Pierre pr\u00e9cieuse",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "printings": [
+            {
+                "unique_id": "LQmdBgHpTGLTpLmftWkbz",
+                "id": "1HP000",
+                "set_id": "1HP",
+                "edition": "N",
+                "foilings": [
+                    "R"
+                ],
+                "rarity": "F",
+                "artist": "Maxim Kostin",
+                "art_variation": null,
+                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/FR/FR_1HP000_3.png"
+            }
+        ]
+    }
+]

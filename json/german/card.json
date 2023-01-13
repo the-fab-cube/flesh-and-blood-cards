@@ -1,0 +1,166 @@
+[
+    {
+        "unique_id": "pBpLPQ7kg6mkBpNMMPdCD",
+        "name": "Herz von Fyendal",
+        "pitch": "3",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "types": [
+            "Allgemein",
+            "Ressource",
+            "Edelstein"
+        ],
+        "card_keywords": [
+            "Legend\u00e4r"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "functional_text": "**Legend\u00e4r** *(Du darfst Herz von Fyendal nur einmal in deinem Deck haben.)*\n\nWenn du Herz von Fyendal pitchst und weniger {h} als ein gegnerischer Held hast, erh\u00e4lst du 1{h}.",
+        "functional_text_plain": "Legend\u00e4r (Du darfst Herz von Fyendal nur einmal in deinem Deck haben.)\nWenn du Herz von Fyendal pitchst und weniger {h} als ein gegnerischer Held hast, erh\u00e4lst du 1{h}.",
+        "flavor_text": "",
+        "flavor_text_plain": "",
+        "type_text": "Allgemein Ressource \u2013 Edelstein",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "printings": [
+            {
+                "unique_id": "fWrG7GN6Wh9GkNBjWdkkh",
+                "id": "1HP000",
+                "set_id": "1HP",
+                "edition": "N",
+                "foilings": [
+                    "R"
+                ],
+                "rarity": "F",
+                "artist": "Adolfo Navarro",
+                "art_variation": null,
+                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/DE/DE_1HP000_1.png"
+            }
+        ]
+    },
+    {
+        "unique_id": "N77hdGp96fNQnzc79hqN9",
+        "name": "Auge von Ophidia",
+        "pitch": "3",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "types": [
+            "Allgemein",
+            "Ressource",
+            "Edelstein"
+        ],
+        "card_keywords": [
+            "Legend\u00e4r",
+            "sortiere 2 um"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "functional_text": "**Legend\u00e4r** *(Du darfst Auge von Ophidia nur einmal in deinem Deck haben.)*\n\nWenn du Auge von Ophidia pitchst, **sortiere 2 um**.",
+        "functional_text_plain": "Legend\u00e4r (Du darfst Auge von Ophidia nur einmal in deinem Deck haben.)\nWenn du Auge von Ophidia pitchst, sortiere 2 um.",
+        "flavor_text": "",
+        "flavor_text_plain": "",
+        "type_text": "Allgemein Ressource \u2013 Edelstein",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "printings": [
+            {
+                "unique_id": "zrDP7JGF6hnMLhTrpHRhK",
+                "id": "1HP000",
+                "set_id": "1HP",
+                "edition": "N",
+                "foilings": [
+                    "R"
+                ],
+                "rarity": "F",
+                "artist": "Alexandra Malygina",
+                "art_variation": null,
+                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/DE/DE_1HP000_2.png"
+            }
+        ]
+    },
+    {
+        "unique_id": "pkMGCRh9fDT98dRgnQF8W",
+        "name": "Scherbe der Erznacht",
+        "pitch": "3",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "types": [
+            "Runenklinge",
+            "Ressource",
+            "Edelstein"
+        ],
+        "card_keywords": [
+            "Viserai-Spezialisierung",
+            "Legend\u00e4r"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "functional_text": "**Legend\u00e4re Viserai-Spezialisierung** *(Du darfst Scherbe der Erznacht nur einmal in deinem Deck haben und nur dann, wenn Viserai dein Held ist.)*\n\nWenn du Scherbe der Erznacht pitchst, erstelle ein Runengesang-Token.",
+        "functional_text_plain": "Legend\u00e4re Viserai-Spezialisierung (Du darfst Scherbe der Erznacht nur einmal in deinem Deck haben und nur dann, wenn Viserai dein Held ist.)\nWenn du Scherbe der Erznacht pitchst, erstelle ein Runengesang-Token.",
+        "flavor_text": "",
+        "flavor_text_plain": "",
+        "type_text": "Runenklinge Ressource \u2013 Edelstein",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "printings": [
+            {
+                "unique_id": "BLNk76c8brjQGFJGdT9Km",
+                "id": "1HP000",
+                "set_id": "1HP",
+                "edition": "N",
+                "foilings": [
+                    "R"
+                ],
+                "rarity": "F",
+                "artist": "Maxim Kostin",
+                "art_variation": null,
+                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/DE/DE_1HP000_3.png"
+            }
+        ]
+    }
+]

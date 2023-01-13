@@ -4,6 +4,7 @@ from os.path import exists
 import generate_json_file.artist
 import generate_json_file.card
 import generate_json_file.card_flattened
+import generate_json_file.card_non_english
 import generate_json_file.edition
 import generate_json_file.foiling
 import generate_json_file.icon
@@ -35,5 +36,10 @@ generate_json_file.keyword.generate_json_file()
 generate_json_file.rarity.generate_json_file()
 generate_json_file.set.generate_json_file()
 generate_json_file.type.generate_json_file()
+
+generate_json_file.card_non_english.generate_json_file("french")
+generate_json_file.card_non_english.generate_json_file("german")
+generate_json_file.card_non_english.generate_json_file("italian")
+generate_json_file.card_non_english.generate_json_file("spanish")
 
 print("Finished generating JSON data")
