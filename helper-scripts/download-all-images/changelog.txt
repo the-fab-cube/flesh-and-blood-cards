@@ -16,6 +16,9 @@
 11-04-22:
 - Add a '-s' option to the script to allow you to only download certain set ids
 
+01-13-22:
+- Fixed a space missing in the image url split regex
+
 PENDING:
 - Change the script to pull from the JSON files instead of CSVs
 - Update comments
