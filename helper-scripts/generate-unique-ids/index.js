@@ -124,7 +124,7 @@ const generateUniqueIds = (language, uniqueIdIndex, cardIdIndex, variationsIndex
 }
 
 generateUniqueIds("english", 0, 1, 36, 37)
-generateUniqueIds("french", null, null, 13, 14)
-generateUniqueIds("german", null, null, 13, 14)
-generateUniqueIds("italian", null, null, 13, 14)
-generateUniqueIds("spanish", null, null, 13, 14)
+generateUniqueIds("french", null, null, 14, 15)
+generateUniqueIds("german", null, null, 14, 15)
+generateUniqueIds("italian", null, null, 14, 15)
+generateUniqueIds("spanish", null, null, 14, 15)
