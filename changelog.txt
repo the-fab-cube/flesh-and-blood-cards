@@ -290,5 +290,21 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue in the name of Hala Goldenhelm - bug notice credit: Souire
 - Fixed an issue with the download-all-images script not working on windows - bugfix credit: kyuur
 
+12-23-22:
+- Fixed an issue with a bad spacing character in DYN191 - bugfix credit: manwaring
+- Fixed an issue with Argh... Smash incorrectly being labeled as an Attack - bugfix credit: manwaring
+- Fixed an issue in the cost of Coax a Commotion - bugfix credit: manwaring
+- Fixed an issue with Cash In not having Go Again - bugfix credit: manwaring
+- Updated all mentors to be marked as not legal in CC (since young heroes no longer are) - bugfix credit: manwaring
+
+01-02-23:
+- Fixed an issue with the power and defense of Blossom of Spring - bug notice credit: OotTheMonk
+
+01-13-23:
+- Added card data for LGS113-LGS115, HER074, and WIN020 (without images)
+- Added card data for DYN121 and DYN175 extended arts
+- Added high res images for DYN092 (Nitro Mechanoid), LGS005, and LGS099
+- Added high res images for HER054-HER057 (the images at the links currently seem to be the 450-width images, but if/when that is changed the links should still be correct)
+
 PENDING:
 - Added card data for OUT042, OUT160
