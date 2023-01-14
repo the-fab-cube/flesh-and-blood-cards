@@ -53,7 +53,7 @@ with path.open(newline='', encoding='utf-8') as csvfile:
 
     for row in reader:
         # indices: 0 is url, 1 is cardid, 2 is edition, 3 is variations
-        image_urls_split = [re.split("— | – | - ", url.strip()) for url in row[36].split(',')]
+        image_urls_split = [re.split(" — | – | - ", url.strip()) for url in row[36].split(',')]
         for image_url_data in image_urls_split:
             if len(image_url_data) >= 3 and (set_id_to_download == None or image_url_data[1].find(set_id_to_download) >= 0):
                 download_image_from_url(image_url_data[0])
