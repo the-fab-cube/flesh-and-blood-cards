@@ -242,12 +242,13 @@ def generate_json_file():
             artists_switched_mid_print = len([x for x in artists if " — " in x or " – " in x or " - " in x]) > 0
             rarities_switched_mid_print = len([x for x in rarities if " — " in x or " – " in x or " - " in x]) > 0
 
+            image_url_data = [convert_image_data(x) for x in image_urls]
+            unique_id_data = [convert_variation_unique_id_data(x) for x in variation_unique_ids]
+
             for variation_index, variation in enumerate(variations):
                 card_variation = {}
 
                 variation_split = re.split("— | – | - ", variation.strip())
-                image_url_data = [convert_image_data(x) for x in image_urls]
-                unique_id_data = [convert_variation_unique_id_data(x) for x in variation_unique_ids]
 
                 foilings = variation_split[0].strip().split(' ')
                 card_id_from_variation = variation_split[1]

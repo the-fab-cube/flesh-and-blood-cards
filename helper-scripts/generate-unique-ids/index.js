@@ -2,13 +2,14 @@ const fs = require("fs");
 const csv = require('csv');
 const nanoid = require('nanoid')
 const nanoidDictionary = require('nanoid-dictionary')
+const customNanoId = nanoid.customAlphabet(nanoidDictionary.nolookalikesSafe)
 
 function capitalizeFirstLetter(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
 // Set an index to null to omit generation for the associated unique ID
-const generateUniqueIds = (language, uniqueIdIndex, cardIdIndex, variationsIndex, variationUniqueIdsIndex) => {
+const generateCardUniqueIds = (language, uniqueIdIndex, cardIdIndex, variationsIndex, variationUniqueIdsIndex) => {
     const inputCSV = `../../csvs/${language}/card.csv`
     const outputCSV = `./temp-${language}-card.csv`
 
@@ -19,14 +20,14 @@ const generateUniqueIds = (language, uniqueIdIndex, cardIdIndex, variationsIndex
 
     const capitalizedLanguage = capitalizeFirstLetter(language)
 
-    const customNanoId = nanoid.customAlphabet(nanoidDictionary.nolookalikesSafe)
-
-    const csvStreamFinished = function () {
+    const csvStreamFinished = function (cardIdsAdded, variationIdsAdded) {
         fs.renameSync(outputCSV, inputCSV)
-        console.log(`Unique ID generation completed for ${capitalizedLanguage}!`)
+        console.log(`Unique ID generation completed for ${capitalizedLanguage} cards with ${cardIdsAdded} new card IDs and ${variationIdsAdded} new variation IDs!`)
     }
 
     var headerRead = false
+    var cardIdsAdded = 0
+    var variationIdsAdded = 0
 
     csvStream.on("data", function(data) {
         // Skip header
@@ -47,9 +48,10 @@ const generateUniqueIds = (language, uniqueIdIndex, cardIdIndex, variationsIndex
             // generate unique ID for card
             if (!uniqueIdExists) {
                 console.log(`Generating unique ID for ${capitalizedLanguage} card ${cardID}`)
+                cardIdsAdded += 1
                 data[uniqueIdIndex] = customNanoId()
             } else {
-                console.log(`No new unique ID needed for ${capitalizedLanguage} card ${cardID}`)
+                // console.log(`No new unique ID needed for ${capitalizedLanguage} card ${cardID}`)
             }
         }
 
@@ -98,9 +100,10 @@ const generateUniqueIds = (language, uniqueIdIndex, cardIdIndex, variationsIndex
 
                 if (!variationUniqueIdExists) {
                     console.log(`Generating unique ID for ${capitalizedLanguage} variation ${variation}`)
+                    variationIdsAdded += 1
                     variationUniqueId = customNanoId()
                 } else {
-                    console.log(`No new unique ID needed for ${capitalizedLanguage} variation ${variation}`)
+                    // console.log(`No new unique ID needed for ${capitalizedLanguage} variation ${variation}`)
                 }
 
                 return variationUniqueId + " – " + variation
@@ -113,7 +116,7 @@ const generateUniqueIds = (language, uniqueIdIndex, cardIdIndex, variationsIndex
         stringifier.write(data)
     })
     .on('end', () => {
-        csvStreamFinished()
+        csvStreamFinished(cardIdsAdded, variationIdsAdded)
     })
     .on("error", function (error) {
         console.log(error.message)
@@ -123,8 +126,100 @@ const generateUniqueIds = (language, uniqueIdIndex, cardIdIndex, variationsIndex
     readStream.pipe(csvStream)
 }
 
-generateUniqueIds("english", 0, 1, 36, 37)
-generateUniqueIds("french", null, null, 14, 15)
-generateUniqueIds("german", null, null, 14, 15)
-generateUniqueIds("italian", null, null, 14, 15)
-generateUniqueIds("spanish", null, null, 14, 15)
+// Set an index to null to omit generation for the associated unique ID
+const generateSetUniqueIds = (language, editionsIndex, editionUniqueIdsIndex) => {
+    const inputCSV = `../../csvs/${language}/set.csv`
+    const outputCSV = `./temp-${language}-set.csv`
+
+    const readStream = fs.createReadStream(inputCSV)
+    const writeStream = fs.createWriteStream(outputCSV)
+    const csvStream = csv.parse({ delimiter: "\t" })
+    const stringifier = csv.stringify({ delimiter: "\t" });
+
+    const capitalizedLanguage = capitalizeFirstLetter(language)
+
+    const csvStreamFinished = function (editionIdsAdded) {
+        fs.renameSync(outputCSV, inputCSV)
+        console.log(`Unique ID generation completed for ${capitalizedLanguage} sets with ${editionIdsAdded} new edition IDs!`)
+    }
+
+    var headerRead = false
+    var editionIdsAdded = 0
+
+    csvStream.on("data", function(data) {
+        // Skip header
+        if (!headerRead) {
+            headerRead = true
+            stringifier.write(data)
+            return
+        }
+
+        // Edition Unique ID
+        if (editionsIndex !== null && editionsIndex !== undefined && editionUniqueIdsIndex !== null && editionUniqueIdsIndex !== undefined) {
+            // current edition unique IDs data
+            var editions = data[editionsIndex]
+                .split(",")
+                .filter(x => x.trim() !== '' && x !== undefined)
+                .map(x => x.trim())
+
+            var existingEditionUniqueIDs = {}
+            data[editionUniqueIdsIndex]
+                .split(",")
+                .filter(x => x.trim() !== '' && x !== undefined)
+                .forEach(x => {
+                    var splitEdition = x.trim().split(RegExp(" — | – | - "))
+
+                    if (splitEdition.length !== 2) {
+                        return
+                    }
+
+                    var editionUniqueId = splitEdition[0].trim()
+                    var edition = splitEdition[1].trim()
+
+                    existingEditionUniqueIDs[edition] = editionUniqueId
+                })
+
+            // generate unique IDs for editions
+            var editionUniqueIds = editions.map(edition => {
+                var editionUniqueId = existingEditionUniqueIDs[edition]
+                var editionUniqueIdExists = editionUniqueId !== undefined
+
+                if (!editionUniqueIdExists) {
+                    console.log(`Generating unique ID for ${capitalizedLanguage} edition ${edition}`)
+                    editionIdsAdded += 1
+                    editionUniqueId = customNanoId()
+                } else {
+                    // console.log(`No new unique ID needed for ${capitalizedLanguage} edition ${edition}`)
+                }
+
+                return editionUniqueId + " – " + edition
+            });
+
+            data[editionUniqueIdsIndex] = editionUniqueIds.join(", ")
+        }
+
+        // save CSV row
+        stringifier.write(data)
+    })
+    .on('end', () => {
+        csvStreamFinished(editionIdsAdded)
+    })
+    .on("error", function (error) {
+        console.log(error.message)
+    })
+
+    stringifier.pipe(writeStream)
+    readStream.pipe(csvStream)
+}
+
+generateCardUniqueIds("english", 0, 1, 36, 37)
+generateCardUniqueIds("french", null, null, 14, 15)
+generateCardUniqueIds("german", null, null, 14, 15)
+generateCardUniqueIds("italian", null, null, 14, 15)
+generateCardUniqueIds("spanish", null, null, 14, 15)
+
+generateSetUniqueIds("english", 2, 3)
+generateSetUniqueIds("french", 2, 3)
+generateSetUniqueIds("german", 2, 3)
+generateSetUniqueIds("italian", 2, 3)
+generateSetUniqueIds("spanish", 2, 3)

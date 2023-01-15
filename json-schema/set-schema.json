@@ -21,6 +21,9 @@
                 "items": {
                     "type": "object",
                     "properties": {
+                        "unique_id": {
+                            "type": "string"
+                        },
                         "edition": {
                             "type": "string"
                         },
@@ -41,6 +44,7 @@
                         }
                     },
                     "required": [
+                        "unique_id",
                         "edition",
                         "initial_release_date",
                         "out_of_print_date",

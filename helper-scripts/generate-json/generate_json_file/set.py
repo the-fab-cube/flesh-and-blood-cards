@@ -1,5 +1,6 @@
 import csv
 import json
+import re
 from pathlib import Path
 
 def convert_to_null(field):
@@ -11,13 +12,23 @@ def convert_to_null(field):
 def convert_to_array(field):
     return [convert_to_null(x) for x in field.split(", ") if x.strip() != ""]
 
-def generate_json_file():
-    print("Generating set.json from set.csv...")
+# TODO: Clean up redundant function
+def convert_edition_unique_id_data(edition_unique_id):
+    edition_unique_id_split = re.split("— | – | - ", edition_unique_id.strip())
+
+    edition_unique_id_data = {}
+    edition_unique_id_data['unique_id'] = edition_unique_id_split[0]
+    edition_unique_id_data['edition'] = edition_unique_id_split[1]
+
+    return edition_unique_id_data
+
+def generate_json_file(language):
+    print(f"Generating {language} set.json from set.csv...")
 
     set_array = []
 
-    csvPath = Path(__file__).parent / "../../../csvs/english/set.csv"
-    jsonPath = Path(__file__).parent / "../../../json/english/set.json"
+    csvPath = Path(__file__).parent / f"../../../csvs/{language}/set.csv"
+    jsonPath = Path(__file__).parent / f"../../../json/{language}/set.json"
 
     with csvPath.open(newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
@@ -26,24 +37,52 @@ def generate_json_file():
         for row in reader:
             set_object = {}
 
-            set_object['id'] = row[0]
-            set_object['name'] = row[1]
-            editions = convert_to_array(row[2])
-            initial_release_dates = convert_to_array(row[3]) # row[3].lower().replace("null", "infinity") # Uses infinity instead of null because some parsers break parsing timestamp arrays with null
-            out_of_print_dates = convert_to_array(row[4]) # row[4].lower().replace("null", "infinity") # Uses infinity instead of null because some parsers break parsing timestamp arrays with null
+            rowId = 0
 
-            set_object['start_card_id'] = row[5]
-            set_object['end_card_id'] = row[6]
+            set_object['id'] = row[rowId]
+            rowId += 1
 
-            product_pages = convert_to_array(row[7])
-            collectors_center = convert_to_array(row[8])
-            card_galleries = convert_to_array(row[9])
+            set_object['name'] = row[rowId]
+            rowId += 1
+
+            editions = convert_to_array(row[rowId])
+            rowId += 1
+
+            edition_unique_ids = convert_to_array(row[rowId])
+            rowId += 1
+
+            initial_release_dates = convert_to_array(row[rowId])
+            rowId += 1
+
+            out_of_print_dates = convert_to_array(row[rowId])
+            rowId += 1
+
+            set_object['start_card_id'] = row[rowId]
+            rowId += 1
+
+            set_object['end_card_id'] = row[rowId]
+            rowId += 1
+
+            product_pages = convert_to_array(row[rowId])
+            rowId += 1
+
+            collectors_center = convert_to_array(row[rowId])
+            rowId += 1
+
+            card_galleries = convert_to_array(row[rowId])
+            rowId += 1
 
             editions_array = []
+
+            unique_id_data = [convert_edition_unique_id_data(x) for x in edition_unique_ids]
 
             for index, edition in enumerate(editions):
                 edition_object = {}
 
+                valid_unique_ids = [data for data in unique_id_data if data['edition'] == edition]
+                unique_id = valid_unique_ids[0]['unique_id'] if len(valid_unique_ids) > 0 else None
+
+                edition_object['unique_id'] = unique_id
                 edition_object['edition'] = edition
                 edition_object['initial_release_date'] = initial_release_dates[index]
                 edition_object['out_of_print_date'] = out_of_print_dates[index]
@@ -62,4 +101,4 @@ def generate_json_file():
     with jsonPath.open('w', newline='\n', encoding='utf8') as outfile:
         outfile.write(json_object)
 
-    print("Successfully generated set.json\n")
+    print(f"Successfully generated {language} set.json\n")

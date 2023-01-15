@@ -1,0 +1,19 @@
+[
+    {
+        "id": "1HP",
+        "name": "History Pack 1 – Black Label",
+        "start_card_id": "1HP000",
+        "end_card_id": "1HP427",
+        "editions": [
+            {
+                "unique_id": "TJn6DFWGBDfHJMntFCcmR",
+                "edition": "N",
+                "initial_release_date": "2022-06-01T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/history-pack-1-black-label/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/history-pack-1/",
+                "card_gallery": "https://fabtcg.com/resources/card-galleries/history-pack-1-black-label-de-fr-sp-it/history-pack-1-black-label-german/"
+            }
+        ]
+    }
+]
