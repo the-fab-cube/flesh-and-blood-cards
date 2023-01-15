@@ -2,13 +2,13 @@ import csv
 import json
 from pathlib import Path
 
-def generate_json_file():
-    print("Generating artist.json from artist.csv...")
+def generate_json_file(language):
+    print(f"Generating {language} artist.json from artist.csv...")
 
     artist_array = []
 
-    csvPath = Path(__file__).parent / "../../../csvs/english/artist.csv"
-    jsonPath = Path(__file__).parent / "../../../json/english/artist.json"
+    csvPath = Path(__file__).parent / f"../../../csvs/{language}/artist.csv"
+    jsonPath = Path(__file__).parent / f"../../../json/{language}/artist.json"
 
     with csvPath.open(newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
@@ -26,4 +26,4 @@ def generate_json_file():
     with jsonPath.open('w', newline='\n', encoding='utf8') as outfile:
         outfile.write(json_object)
 
-    print("Successfully generated artist.json\n")
+    print(f"Successfully generated {language} artist.json\n")

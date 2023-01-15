@@ -26,7 +26,7 @@ if not exists(english_json_dir_path):
     print(english_json_dir_path + " does not exist, creating it")
     makedirs(english_json_dir_path)
 
-generate_json_file.artist.generate_json_file()
+generate_json_file.artist.generate_json_file("english")
 generate_json_file.card.generate_json_file()
 generate_json_file.card_flattened.generate_json_file()
 generate_json_file.edition.generate_json_file()
@@ -36,6 +36,11 @@ generate_json_file.keyword.generate_json_file()
 generate_json_file.rarity.generate_json_file()
 generate_json_file.set.generate_json_file()
 generate_json_file.type.generate_json_file()
+
+generate_json_file.artist.generate_json_file("french")
+generate_json_file.artist.generate_json_file("german")
+generate_json_file.artist.generate_json_file("italian")
+generate_json_file.artist.generate_json_file("spanish")
 
 generate_json_file.card_non_english.generate_json_file("french")
 generate_json_file.card_non_english.generate_json_file("german")
