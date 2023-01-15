@@ -1,19 +1,5 @@
 import json
 from pathlib import Path
-import re
-
-def convert_image_data(image_url):
-    image_url_split = re.split("— | – | - ", image_url.strip())
-
-    image_url_data = {}
-    image_url_data['image_url'] = image_url_split[0]
-    image_url_data['card_id'] = image_url_split[1]
-    image_url_data['set_edition'] = image_url_split[2]
-    image_url_data['alternate_art_type'] = None
-    if len(image_url_split) >= 4:
-        image_url_data['alternate_art_type'] = image_url_split[3]
-
-    return image_url_data
 
 def generate_json_file(language):
     print(f"Generating {language} card-flattened.json from card.json...")

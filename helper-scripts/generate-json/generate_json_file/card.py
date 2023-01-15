@@ -4,50 +4,7 @@ import re
 from pathlib import Path
 from markdown_patch import unmark
 
-def convert_to_array(field):
-    return [x for x in field.split(", ") if x.strip() != ""]
-
-def convert_image_data(image_url):
-    image_url_split = re.split("— | – | - ", image_url.strip())
-
-    image_url_data = {}
-    image_url_data['image_url'] = image_url_split[0]
-    image_url_data['card_id'] = image_url_split[1]
-    image_url_data['set_edition'] = image_url_split[2]
-    image_url_data['alternate_art_type'] = None
-    if len(image_url_split) >= 4:
-        image_url_data['alternate_art_type'] = image_url_split[3]
-
-    return image_url_data
-
-# TODO: Clean up redundant function
-def convert_variation_unique_id_data(variation_unique_id):
-    variation_unique_id_split = re.split("— | – | - ", variation_unique_id.strip())
-
-    variation_unique_id_data = {}
-    variation_unique_id_data['unique_id'] = variation_unique_id_split[0]
-    variation_unique_id_data['card_id'] = variation_unique_id_split[1]
-    variation_unique_id_data['set_edition'] = variation_unique_id_split[2]
-    variation_unique_id_data['alternate_art_type'] = None
-    if len(variation_unique_id_split) >= 4:
-        variation_unique_id_data['alternate_art_type'] = variation_unique_id_split[3]
-
-    return variation_unique_id_data
-
-def treat_string_as_boolean(field, default_value=True):
-    return bool(treat_blank_string_as_boolean(field, default_value))
-
-def treat_blank_string_as_boolean(field, default_value=True):
-    if field.strip() == '':
-        return default_value
-
-    return field
-
-def treat_blank_string_as_none(field):
-    if field == '':
-        return None
-
-    return field
+import helper_functions
 
 def generate_json_file():
     print("Filling out english card.json from card.csv...")
@@ -69,10 +26,10 @@ def generate_json_file():
             card_object['unique_id'] = row[rowId]
             rowId += 1
 
-            ids = convert_to_array(row[rowId])
+            ids = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
-            set_ids = convert_to_array(row[rowId])
+            set_ids = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
             card_object['name'] = row[rowId]
@@ -96,22 +53,22 @@ def generate_json_file():
             card_object['intelligence'] = row[rowId]
             rowId += 1
 
-            rarities = convert_to_array(row[rowId])
+            rarities = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
-            card_object['types'] = convert_to_array(row[rowId])
+            card_object['types'] = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
-            card_object['card_keywords'] = convert_to_array(row[rowId])
+            card_object['card_keywords'] = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
-            card_object['abilities_and_effects'] = convert_to_array(row[rowId])
+            card_object['abilities_and_effects'] = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
-            card_object['ability_and_effect_keywords'] = convert_to_array(row[rowId])
+            card_object['ability_and_effect_keywords'] = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
-            card_object['granted_keywords'] = convert_to_array(row[rowId])
+            card_object['granted_keywords'] = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
             card_object['functional_text'] = row[rowId]
@@ -127,59 +84,59 @@ def generate_json_file():
             card_object['type_text'] = row[rowId]
             rowId += 1
 
-            artists = convert_to_array(row[rowId])
+            artists = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
-            card_object['played_horizontally'] = treat_string_as_boolean(row[rowId], default_value=False)
+            card_object['played_horizontally'] = helper_functions.treat_string_as_boolean(row[rowId], default_value=False)
             rowId += 1
 
-            card_object['blitz_legal'] = treat_string_as_boolean(row[rowId])
+            card_object['blitz_legal'] = helper_functions.treat_string_as_boolean(row[rowId])
             rowId += 1
 
-            card_object['cc_legal'] = treat_string_as_boolean(row[rowId])
+            card_object['cc_legal'] = helper_functions.treat_string_as_boolean(row[rowId])
             rowId += 1
 
-            card_object['commoner_legal'] = treat_string_as_boolean(row[rowId])
+            card_object['commoner_legal'] = helper_functions.treat_string_as_boolean(row[rowId])
             rowId += 1
 
             blitz_living_legend_field = row[rowId]
-            card_object['blitz_living_legend'] = treat_blank_string_as_none(blitz_living_legend_field) != None
+            card_object['blitz_living_legend'] = helper_functions.treat_blank_string_as_none(blitz_living_legend_field) != None
             if card_object['blitz_living_legend']:
                 card_object['blitz_living_legend_start'] = blitz_living_legend_field
             rowId += 1
 
             cc_living_legend_field = row[rowId]
-            card_object['cc_living_legend'] = treat_blank_string_as_none(cc_living_legend_field) != None
+            card_object['cc_living_legend'] = helper_functions.treat_blank_string_as_none(cc_living_legend_field) != None
             if card_object['cc_living_legend']:
                 card_object['cc_living_legend_start'] = cc_living_legend_field
             rowId += 1
 
             blitz_banned_field = row[rowId]
-            card_object['blitz_banned'] = treat_blank_string_as_none(blitz_banned_field) != None
+            card_object['blitz_banned'] = helper_functions.treat_blank_string_as_none(blitz_banned_field) != None
             if card_object['blitz_banned']:
                 card_object['blitz_banned_start'] = blitz_banned_field
             rowId += 1
 
             cc_banned_field = row[rowId]
-            card_object['cc_banned'] = treat_blank_string_as_none(cc_banned_field) != None
+            card_object['cc_banned'] = helper_functions.treat_blank_string_as_none(cc_banned_field) != None
             if card_object['cc_banned']:
                 card_object['cc_banned_start'] = cc_banned_field
             rowId += 1
 
             commoner_banned_field = row[rowId]
-            card_object['commoner_banned'] = treat_blank_string_as_none(commoner_banned_field) != None
+            card_object['commoner_banned'] = helper_functions.treat_blank_string_as_none(commoner_banned_field) != None
             if card_object['commoner_banned']:
                 card_object['commoner_banned_start'] = commoner_banned_field
             rowId += 1
 
             upf_banned_field = row[rowId]
-            card_object['upf_banned'] = treat_blank_string_as_none(upf_banned_field) != None
+            card_object['upf_banned'] = helper_functions.treat_blank_string_as_none(upf_banned_field) != None
             if card_object['upf_banned']:
                 card_object['upf_banned_start'] = upf_banned_field
             rowId += 1
 
             blitz_suspended_start_field = row[rowId]
-            card_object['blitz_suspended'] = treat_blank_string_as_none(blitz_suspended_start_field) != None
+            card_object['blitz_suspended'] = helper_functions.treat_blank_string_as_none(blitz_suspended_start_field) != None
             if card_object['blitz_suspended']:
                 card_object['blitz_suspended_start'] = blitz_suspended_start_field
             rowId += 1
@@ -189,7 +146,7 @@ def generate_json_file():
             rowId += 1
 
             cc_suspended_start_field = row[rowId]
-            card_object['cc_suspended'] = treat_blank_string_as_none(cc_suspended_start_field) != None
+            card_object['cc_suspended'] = helper_functions.treat_blank_string_as_none(cc_suspended_start_field) != None
             if card_object['cc_suspended']:
                 card_object['cc_suspended_start'] = cc_suspended_start_field
             rowId += 1
@@ -199,7 +156,7 @@ def generate_json_file():
             rowId += 1
 
             commoner_suspended_start_field = row[rowId]
-            card_object['commoner_suspended'] = treat_blank_string_as_none(commoner_suspended_start_field) != None
+            card_object['commoner_suspended'] = helper_functions.treat_blank_string_as_none(commoner_suspended_start_field) != None
             if card_object['commoner_suspended']:
                 card_object['commoner_suspended_start'] = commoner_suspended_start_field
             rowId += 1
@@ -208,13 +165,13 @@ def generate_json_file():
                 card_object['commoner_suspended_end'] = row[rowId]
             rowId += 1
 
-            variations = convert_to_array(row[rowId])
+            variations = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
-            variation_unique_ids = convert_to_array(row[rowId])
+            variation_unique_ids = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
-            image_urls = convert_to_array(row[rowId])
+            image_urls = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
             # Clean up fields
@@ -242,8 +199,8 @@ def generate_json_file():
             artists_switched_mid_print = len([x for x in artists if " — " in x or " – " in x or " - " in x]) > 0
             rarities_switched_mid_print = len([x for x in rarities if " — " in x or " – " in x or " - " in x]) > 0
 
-            image_url_data = [convert_image_data(x) for x in image_urls]
-            unique_id_data = [convert_variation_unique_id_data(x) for x in variation_unique_ids]
+            image_url_data = [helper_functions.convert_image_data(x) for x in image_urls]
+            unique_id_data = [helper_functions.convert_variation_unique_id_data(x) for x in variation_unique_ids]
 
             for variation_index, variation in enumerate(variations):
                 card_variation = {}

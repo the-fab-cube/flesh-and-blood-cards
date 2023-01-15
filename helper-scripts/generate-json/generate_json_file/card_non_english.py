@@ -4,35 +4,7 @@ import re
 from pathlib import Path
 from markdown_patch import unmark
 
-def convert_to_array(field):
-    return [x for x in field.split(", ") if x.strip() != ""]
-
-def convert_image_data(image_url):
-    image_url_split = re.split("— | – | - ", image_url.strip())
-
-    image_url_data = {}
-    image_url_data['image_url'] = image_url_split[0]
-    image_url_data['card_id'] = image_url_split[1]
-    image_url_data['set_edition'] = image_url_split[2]
-    image_url_data['alternate_art_type'] = None
-    if len(image_url_split) >= 4:
-        image_url_data['alternate_art_type'] = image_url_split[3]
-
-    return image_url_data
-
-# TODO: Clean up redundant function
-def convert_variation_unique_id_data(variation_unique_id):
-    variation_unique_id_split = re.split("— | – | - ", variation_unique_id.strip())
-
-    variation_unique_id_data = {}
-    variation_unique_id_data['unique_id'] = variation_unique_id_split[0]
-    variation_unique_id_data['card_id'] = variation_unique_id_split[1]
-    variation_unique_id_data['set_edition'] = variation_unique_id_split[2]
-    variation_unique_id_data['alternate_art_type'] = None
-    if len(variation_unique_id_split) >= 4:
-        variation_unique_id_data['alternate_art_type'] = variation_unique_id_split[3]
-
-    return variation_unique_id_data
+import helper_functions
 
 def generate_json_file(language):
     print(f"Filling out {language} card.json from card.csv...")
@@ -61,10 +33,10 @@ def generate_json_file(language):
                 english_card = [x for x in english_card_array if x['unique_id'] == unique_id][0]
                 rowId += 1
 
-                ids = convert_to_array(row[rowId])
+                ids = helper_functions.convert_to_array(row[rowId])
                 rowId += 1
 
-                set_ids = convert_to_array(row[rowId])
+                set_ids = helper_functions.convert_to_array(row[rowId])
                 rowId += 1
 
                 card_object['name'] = row[rowId]
@@ -77,22 +49,22 @@ def generate_json_file(language):
                 card_object['health'] = english_card['health']
                 card_object['intelligence'] = english_card['intelligence']
 
-                rarities = convert_to_array(row[rowId])
+                rarities = helper_functions.convert_to_array(row[rowId])
                 rowId += 1
 
-                card_object['types'] = convert_to_array(row[rowId])
+                card_object['types'] = helper_functions.convert_to_array(row[rowId])
                 rowId += 1
 
-                card_object['card_keywords'] = convert_to_array(row[rowId])
+                card_object['card_keywords'] = helper_functions.convert_to_array(row[rowId])
                 rowId += 1
 
-                card_object['abilities_and_effects'] = convert_to_array(row[rowId])
+                card_object['abilities_and_effects'] = helper_functions.convert_to_array(row[rowId])
                 rowId += 1
 
-                card_object['ability_and_effect_keywords'] = convert_to_array(row[rowId])
+                card_object['ability_and_effect_keywords'] = helper_functions.convert_to_array(row[rowId])
                 rowId += 1
 
-                card_object['granted_keywords'] = convert_to_array(row[rowId])
+                card_object['granted_keywords'] = helper_functions.convert_to_array(row[rowId])
                 rowId += 1
 
                 card_object['functional_text'] = row[rowId]
@@ -108,7 +80,7 @@ def generate_json_file(language):
                 card_object['type_text'] = row[rowId]
                 rowId += 1
 
-                artists = convert_to_array(row[rowId])
+                artists = helper_functions.convert_to_array(row[rowId])
                 rowId += 1
 
                 card_object['played_horizontally'] = english_card['played_horizontally']
@@ -158,13 +130,13 @@ def generate_json_file(language):
                 if 'commoner_suspended_end' in english_card:
                     card_object['commoner_suspended_end'] = english_card['commoner_suspended_end']
 
-                variations = convert_to_array(row[rowId])
+                variations = helper_functions.convert_to_array(row[rowId])
                 rowId += 1
 
-                variation_unique_ids = convert_to_array(row[rowId])
+                variation_unique_ids = helper_functions.convert_to_array(row[rowId])
                 rowId += 1
 
-                image_urls = convert_to_array(row[rowId])
+                image_urls = helper_functions.convert_to_array(row[rowId])
                 rowId += 1
 
                 # Clean up fields
@@ -187,8 +159,8 @@ def generate_json_file(language):
                     card_variation = {}
 
                     variation_split = re.split("— | – | - ", variation.strip())
-                    image_url_data = [convert_image_data(x) for x in image_urls]
-                    unique_id_data = [convert_variation_unique_id_data(x) for x in variation_unique_ids]
+                    image_url_data = [helper_functions.convert_image_data(x) for x in image_urls]
+                    unique_id_data = [helper_functions.convert_variation_unique_id_data(x) for x in variation_unique_ids]
 
                     foilings = variation_split[0].strip().split(' ')
                     card_id_from_variation = variation_split[1]

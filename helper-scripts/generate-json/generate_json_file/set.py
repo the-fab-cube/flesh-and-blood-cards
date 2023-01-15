@@ -3,14 +3,7 @@ import json
 import re
 from pathlib import Path
 
-def convert_to_null(field):
-    if field.strip().lower() == "null":
-        return None
-    else:
-        return field
-
-def convert_to_array(field):
-    return [convert_to_null(x) for x in field.split(", ") if x.strip() != ""]
+import helper_functions
 
 # TODO: Clean up redundant function
 def convert_edition_unique_id_data(edition_unique_id):
@@ -45,16 +38,16 @@ def generate_json_file(language):
             set_object['name'] = row[rowId]
             rowId += 1
 
-            editions = convert_to_array(row[rowId])
+            editions = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
-            edition_unique_ids = convert_to_array(row[rowId])
+            edition_unique_ids = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
-            initial_release_dates = convert_to_array(row[rowId])
+            initial_release_dates = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
-            out_of_print_dates = convert_to_array(row[rowId])
+            out_of_print_dates = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
             set_object['start_card_id'] = row[rowId]
@@ -63,13 +56,13 @@ def generate_json_file(language):
             set_object['end_card_id'] = row[rowId]
             rowId += 1
 
-            product_pages = convert_to_array(row[rowId])
+            product_pages = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
-            collectors_center = convert_to_array(row[rowId])
+            collectors_center = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
-            card_galleries = convert_to_array(row[rowId])
+            card_galleries = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
             editions_array = []
