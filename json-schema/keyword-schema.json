@@ -4,6 +4,9 @@
     "items": {
         "type": "object",
         "properties": {
+            "unique_id": {
+                "type": "string"
+            },
             "keyword": {
                 "type": "string"
             },
@@ -15,6 +18,7 @@
             }
         },
         "required": [
+            "unique_id",
             "keyword",
             "description",
             "description_plain"
