@@ -28,7 +28,7 @@ if not exists(english_json_dir_path):
 
 generate_json_file.artist.generate_json_file("english")
 generate_json_file.card.generate_json_file()
-generate_json_file.card_flattened.generate_json_file()
+generate_json_file.card_flattened.generate_json_file("english")
 generate_json_file.edition.generate_json_file()
 generate_json_file.foiling.generate_json_file()
 generate_json_file.icon.generate_json_file()
@@ -46,5 +46,10 @@ generate_json_file.card_non_english.generate_json_file("french")
 generate_json_file.card_non_english.generate_json_file("german")
 generate_json_file.card_non_english.generate_json_file("italian")
 generate_json_file.card_non_english.generate_json_file("spanish")
+
+generate_json_file.card_flattened.generate_json_file("french")
+generate_json_file.card_flattened.generate_json_file("german")
+generate_json_file.card_flattened.generate_json_file("italian")
+generate_json_file.card_flattened.generate_json_file("spanish")
 
 print("Finished generating JSON data")
