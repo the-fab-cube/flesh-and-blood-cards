@@ -42,6 +42,11 @@ generate_json_file.artist.generate_json_file("german")
 generate_json_file.artist.generate_json_file("italian")
 generate_json_file.artist.generate_json_file("spanish")
 
+generate_json_file.keyword.generate_json_file("french")
+generate_json_file.keyword.generate_json_file("german")
+generate_json_file.keyword.generate_json_file("italian")
+generate_json_file.keyword.generate_json_file("spanish")
+
 generate_json_file.card_non_english.generate_json_file("french")
 generate_json_file.card_non_english.generate_json_file("german")
 generate_json_file.card_non_english.generate_json_file("italian")
