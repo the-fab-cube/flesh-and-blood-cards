@@ -35,6 +35,10 @@ def convert_variation_unique_id_data(variation_unique_id):
 
     return variation_unique_id_data
 
+# Used for gendered language translations
+def get_hero_gender(hero):
+    return "Male"
+
 def treat_blank_string_as_boolean(field, default_value=True):
     if field.strip() == '':
         return default_value
