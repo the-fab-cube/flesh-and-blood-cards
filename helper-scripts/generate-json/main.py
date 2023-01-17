@@ -35,7 +35,7 @@ generate_json_file.icon.generate_json_file()
 generate_json_file.keyword.generate_json_file("english")
 generate_json_file.rarity.generate_json_file()
 generate_json_file.set.generate_json_file("english")
-generate_json_file.type.generate_json_file()
+generate_json_file.type.generate_json_file("english")
 
 generate_json_file.artist.generate_json_file("french")
 generate_json_file.artist.generate_json_file("german")
