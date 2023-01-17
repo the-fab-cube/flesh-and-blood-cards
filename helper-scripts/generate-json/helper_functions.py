@@ -36,8 +36,49 @@ def convert_variation_unique_id_data(variation_unique_id):
     return variation_unique_id_data
 
 # Used for gendered language translations
-def get_hero_gender(hero):
-    return "Male"
+def get_hero_gender_identity(hero):
+    hero_gender_identity = {
+        'Arakni': None,
+        'Azalea': 'Female',
+        'Benji': 'Male',
+        'Boltyn': 'Male',
+        'Bravo': 'Male',
+        'Briar': 'Female',
+        'Chane': 'Male',
+        'Dash': 'Female',
+        'Data Doll': 'Female',
+        'Dorinthea': 'Female',
+        'Dromai': 'Female',
+        'Emperor': 'Male',
+        'Fai': 'Male',
+        'Genis': 'Male',
+        'Ira': 'Female',
+        'Iyslander': 'Female',
+        'Kano': 'Male',
+        'Kassai': 'Female',
+        'Katsu': 'Male',
+        'Kavdaen': 'Male',
+        'Kayo': 'Male',
+        'Levia': 'Female',
+        'Lexi': 'Female',
+        'Oldhim': 'Male',
+        'Prism': 'Female',
+        'Rhinar': 'Male',
+        'Ruu\'di': 'Male',
+        'Shiyana': 'Female',
+        'Taipanis': 'Male',
+        'Taylor': 'Female',
+        'Valda': 'Female',
+        'Viserai': 'Male',
+        'Yoji': 'Male',
+        'Yorick': 'Male',
+    }
+
+    try:
+        return hero_gender_identity[hero]
+    except:
+        print(f"ERROR: The hero {hero}'s gender could not be found, please make sure they're in the get_hero_gender_identity function (Yes I know this sounds weird, it's used for language translations that are affected by gender)")
+        exit()
 
 def treat_blank_string_as_boolean(field, default_value=True):
     if field.strip() == '':

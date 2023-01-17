@@ -116,7 +116,7 @@ def convert_generalized_keyword_data_to_language_text(language, generalized_card
             keyword += f" {keyword_extra}"
 
     if extracted_specialization_hero_data is not None:
-        hero_gender = helper_functions.get_hero_gender(extracted_specialization_hero_data)
+        hero_gender = helper_functions.get_hero_gender_identity(extracted_specialization_hero_data)
         match language:
             case "english":
                 keyword = f"{extracted_specialization_hero_data} {keyword}"
