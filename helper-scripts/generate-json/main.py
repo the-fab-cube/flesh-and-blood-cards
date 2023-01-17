@@ -62,4 +62,9 @@ generate_json_file.set.generate_json_file("german")
 generate_json_file.set.generate_json_file("italian")
 generate_json_file.set.generate_json_file("spanish")
 
+generate_json_file.type.generate_json_file("french")
+generate_json_file.type.generate_json_file("german")
+generate_json_file.type.generate_json_file("italian")
+generate_json_file.type.generate_json_file("spanish")
+
 print("Finished generating JSON data")
