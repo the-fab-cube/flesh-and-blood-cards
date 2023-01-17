@@ -72,22 +72,18 @@ def generate_json_file(language):
 
             english_card_types = english_card['types']
             card_object['types'] = convert_english_types_to_language.convert_english_types_to_language(language, english_card_types, english_type_array, language_type_array)
-            rowId += 1
 
             english_card_keywords = english_card['card_keywords']
             card_object['card_keywords'] = convert_english_keywords_to_language.convert_english_keywords_to_language(language, english_card_keywords, english_keyword_array, language_keyword_array)
-            rowId += 1
 
             card_object['abilities_and_effects'] = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
             english_card_ability_and_effect_keywords = english_card['ability_and_effect_keywords']
             card_object['ability_and_effect_keywords'] = convert_english_keywords_to_language.convert_english_keywords_to_language(language, english_card_ability_and_effect_keywords, english_keyword_array, language_keyword_array)
-            rowId += 1
 
             english_card_granted_keywords = english_card['granted_keywords']
             card_object['granted_keywords'] = convert_english_keywords_to_language.convert_english_keywords_to_language(language, english_card_granted_keywords, english_keyword_array, language_keyword_array)
-            rowId += 1
 
             card_object['functional_text'] = row[rowId]
             rowId += 1
