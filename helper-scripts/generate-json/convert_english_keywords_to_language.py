@@ -2,7 +2,7 @@ import re
 
 import helper_functions
 
-# Generalize all english card keyword text (ex: Opt 2 -> Opt X with stored data of 2)
+# Generalize all english card keyword text (ex: Opt 2 -> Opt X with stored data of 2 or Viserai Specialization -> Specialization with stored data of Viserai)
 # ->
 # Find unique_id of english card keywords
 # ->

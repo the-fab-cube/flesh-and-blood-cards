@@ -6,6 +6,7 @@ from markdown_patch import unmark
 
 import helper_functions
 import convert_english_keywords_to_language
+import convert_english_types_to_language
 
 def generate_json_file(language):
     print(f"Filling out {language} card.json from card.csv...")
@@ -14,14 +15,26 @@ def generate_json_file(language):
 
     english_json_path = Path(__file__).parent / "../../../json/english/card.json"
     english_keyword_json_path = Path(__file__).parent / f"../../../json/english/keyword.json"
-    csv_path = Path(__file__).parent / f"../../../csvs/{language}/card.csv"
-    card_json_path = Path(__file__).parent / f"../../../json/{language}/card.json"
-    language_keyword_json_path = Path(__file__).parent / f"../../../json/{language}/keyword.json"
+    english_type_json_path = Path(__file__).parent / f"../../../json/english/type.json"
 
-    with csv_path.open(newline='') as csv_file, english_json_path.open(newline='') as english_card_json_file, english_keyword_json_path.open(newline='') as english_keyword_json_file, language_keyword_json_path.open(newline='') as language_keyword_json_file:
+    language_csv_path = Path(__file__).parent / f"../../../csvs/{language}/card.csv"
+    language_card_json_path = Path(__file__).parent / f"../../../json/{language}/card.json"
+    language_keyword_json_path = Path(__file__).parent / f"../../../json/{language}/keyword.json"
+    language_type_json_path = Path(__file__).parent / f"../../../json/{language}/type.json"
+
+    with (
+        language_csv_path.open(newline='') as csv_file,
+        english_json_path.open(newline='') as english_card_json_file,
+        english_keyword_json_path.open(newline='') as english_keyword_json_file,
+        english_type_json_path.open(newline='') as english_type_json_file,
+        language_keyword_json_path.open(newline='') as language_keyword_json_file,
+        language_type_json_path.open(newline='') as language_type_json_file
+    ):
         english_card_array = json.load(english_card_json_file)
         english_keyword_array = json.load(english_keyword_json_file)
+        english_type_array = json.load(english_type_json_file)
         language_keyword_array = json.load(language_keyword_json_file)
+        language_type_array = json.load(language_type_json_file)
 
         reader = csv.reader(csv_file, delimiter='\t', quotechar='"')
         next(reader)
@@ -57,7 +70,8 @@ def generate_json_file(language):
             rarities = helper_functions.convert_to_array(row[rowId])
             rowId += 1
 
-            card_object['types'] = helper_functions.convert_to_array(row[rowId])
+            english_card_types = english_card['types']
+            card_object['types'] = convert_english_types_to_language.convert_english_types_to_language(language, english_card_types, english_type_array, language_type_array)
             rowId += 1
 
             english_card_keywords = english_card['card_keywords']
@@ -224,7 +238,7 @@ def generate_json_file(language):
 
     json_object = json.dumps(card_array, indent=4, ensure_ascii=False)
 
-    with card_json_path.open('w', newline='\n', encoding='utf8') as outfile:
+    with language_card_json_path.open('w', newline='\n', encoding='utf8') as outfile:
         outfile.write(json_object)
 
     print(f"Successfully generated {language} card.csv\n")

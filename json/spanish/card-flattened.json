@@ -9,8 +9,8 @@
         "health": "",
         "intelligence": "",
         "types": [
-            "Recurso",
             "Genérico",
+            "Recurso",
             "Gema"
         ],
         "card_keywords": [
@@ -59,8 +59,8 @@
         "health": "",
         "intelligence": "",
         "types": [
-            "Recurso",
             "Genérico",
+            "Recurso",
             "Gema"
         ],
         "card_keywords": [
@@ -110,8 +110,8 @@
         "health": "",
         "intelligence": "",
         "types": [
-            "Recurso",
             "Filorruna",
+            "Recurso",
             "Gema"
         ],
         "card_keywords": [
