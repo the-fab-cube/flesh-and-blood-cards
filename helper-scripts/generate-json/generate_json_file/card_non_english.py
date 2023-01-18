@@ -5,6 +5,7 @@ from pathlib import Path
 from markdown_patch import unmark
 
 import helper_functions
+import convert_english_abilities_to_language
 import convert_english_keywords_to_language
 import convert_english_types_to_language
 
@@ -14,25 +15,31 @@ def generate_json_file(language):
     card_array = []
 
     english_json_path = Path(__file__).parent / "../../../json/english/card.json"
+    english_ability_json_path = Path(__file__).parent / f"../../../json/english/ability.json"
     english_keyword_json_path = Path(__file__).parent / f"../../../json/english/keyword.json"
     english_type_json_path = Path(__file__).parent / f"../../../json/english/type.json"
 
     language_csv_path = Path(__file__).parent / f"../../../csvs/{language}/card.csv"
     language_card_json_path = Path(__file__).parent / f"../../../json/{language}/card.json"
+    language_ability_json_path = Path(__file__).parent / f"../../../json/{language}/ability.json"
     language_keyword_json_path = Path(__file__).parent / f"../../../json/{language}/keyword.json"
     language_type_json_path = Path(__file__).parent / f"../../../json/{language}/type.json"
 
     with (
         language_csv_path.open(newline='') as csv_file,
         english_json_path.open(newline='') as english_card_json_file,
+        english_ability_json_path.open(newline='') as english_ability_json_file,
         english_keyword_json_path.open(newline='') as english_keyword_json_file,
         english_type_json_path.open(newline='') as english_type_json_file,
+        language_ability_json_path.open(newline='') as language_ability_json_file,
         language_keyword_json_path.open(newline='') as language_keyword_json_file,
         language_type_json_path.open(newline='') as language_type_json_file
     ):
         english_card_array = json.load(english_card_json_file)
+        english_ability_array = json.load(english_ability_json_file)
         english_keyword_array = json.load(english_keyword_json_file)
         english_type_array = json.load(english_type_json_file)
+        language_ability_array = json.load(language_ability_json_file)
         language_keyword_array = json.load(language_keyword_json_file)
         language_type_array = json.load(language_type_json_file)
 
@@ -76,8 +83,8 @@ def generate_json_file(language):
             english_card_keywords = english_card['card_keywords']
             card_object['card_keywords'] = convert_english_keywords_to_language.convert_english_keywords_to_language(language, english_card_keywords, english_keyword_array, language_keyword_array)
 
-            card_object['abilities_and_effects'] = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
+            english_card_abilities = english_card['abilities_and_effects']
+            card_object['abilities_and_effects'] = convert_english_abilities_to_language.convert_english_abilities_to_language(language, english_card_abilities, english_ability_array, language_ability_array)
 
             english_card_ability_and_effect_keywords = english_card['ability_and_effect_keywords']
             card_object['ability_and_effect_keywords'] = convert_english_keywords_to_language.convert_english_keywords_to_language(language, english_card_ability_and_effect_keywords, english_keyword_array, language_keyword_array)

@@ -38,7 +38,7 @@ def create_artists_csv_from_card_csv(language, artist_column_index):
 
 
 create_artists_csv_from_card_csv("english", 19)
-create_artists_csv_from_card_csv("french", 9)
-create_artists_csv_from_card_csv("german", 9)
-create_artists_csv_from_card_csv("italian", 9)
-create_artists_csv_from_card_csv("spanish", 9)
+create_artists_csv_from_card_csv("french", 8)
+create_artists_csv_from_card_csv("german", 8)
+create_artists_csv_from_card_csv("italian", 8)
+create_artists_csv_from_card_csv("spanish", 8)
