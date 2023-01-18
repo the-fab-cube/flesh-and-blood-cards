@@ -11,7 +11,7 @@
 * A - Alpha
 * F - First
 * U - Unlimited
-* N - No specified edition (used for promos, non-set releases, etc.)
+* N - No specified edition (used for promos, releases without different editions, non-set releases, etc.)
 
 ## Foiling (Shorthand - Name)
 * S - Standard
@@ -25,6 +25,7 @@
 * {d} - Defense Value
 * {h} - Life (of a hero card)
 * {i} - Intellect (of a hero card)
+
 ## Rarity (Shorthand - Text)
 * C - Common
 * R - Rare

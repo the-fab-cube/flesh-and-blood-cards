@@ -28,5 +28,6 @@
 - Updated README
 
 PENDING:
-- Update script to work with new english specific CSV/JSON filepaths
-- Clean up some code
+- Updated script to work with new english specific CSV/JSON filepaths
+- Updated script to work with all lanugage data
+- Cleaned up some code
