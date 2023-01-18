@@ -1,5 +1,6 @@
 #!/bin/bash
 
+./node_modules/pajv/index.js validate -s ../../json-schema/ability-schema.json -d ../../json/english/ability.json
 ./node_modules/pajv/index.js validate -s ../../json-schema/artist-schema.json -d ../../json/english/artist.json
 ./node_modules/pajv/index.js validate -s ../../json-schema/card-schema.json -d ../../json/english/card.json
 ./node_modules/pajv/index.js validate -s ../../json-schema/card-flattened-schema.json -d ../../json/english/card-flattened.json

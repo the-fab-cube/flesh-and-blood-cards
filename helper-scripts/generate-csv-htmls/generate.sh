@@ -1,5 +1,6 @@
 #!/bin/bash
 
+pyenv exec poetry run csvtotable ../../csvs/english/ability.csv ../../web/csvs/ability.html -d $'\t' -q $'"' -o
 pyenv exec poetry run csvtotable ../../csvs/english/artist.csv ../../web/csvs/artist.html -d $'\t' -q $'"' -o
 pyenv exec poetry run csvtotable ../../csvs/english/card.csv ../../web/csvs/card.html -d $'\t' -q $'"' -o
 pyenv exec poetry run csvtotable ../../csvs/english/edition.csv ../../web/csvs/edition.html -d $'\t' -q $'"' -o

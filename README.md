@@ -35,12 +35,12 @@ To the best of my ability, I attempt to follow [Semantic Versioning](https://sem
 I try to increment version numbers with this general logic:
 
 * Major - The schema for the CSV / JSON was changed, large file organizational changes were made, etc.
-* Minor - New data was added, new scripts were added or updated, etc. (Scripts receiving breaking changes is not always guaranteed to warrant a major patch bump, use with caution!)
+* Minor - New data was added, new scripts were added or updated, etc. (Scripts receiving breaking changes are not always guaranteed to warrant a major patch bump, use with caution!)
 * Patch - Errors in the data or helper scripts were fixed
 
 If you'd like a stable experience, please use the main branch and pin a specific tagged version. I try to keep the develop branch as clean as possible, but even that is broken or has big changes in-flight from time to time. For bigger changes to the data set or during spoiler seasons, I spin off feature branches to work in. You are welcome to use them while I am working on them, but please be aware things can break at any time!
 
-Unlike code packages, I do not go back and support past major/minor releases with bugfixes, so if you want the most up-to-date data, you will always need to be on the latest version, even if that version has breaking changes. The versioning system is purely to give you a heads up so that you don't update and find your project blowing up unexpectedly!
+Unlike many code packages, I do not go back and support past major/minor releases with bugfixes, so if you want the most up-to-date data, you will always need to be on the latest version, even if that version has breaking changes. The versioning system is purely to give you a heads up so that you don't update and find your project blowing up unexpectedly!
 
 
 ## Changelogs and Contribution Credit
