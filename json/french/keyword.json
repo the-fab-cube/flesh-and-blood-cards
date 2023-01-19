@@ -1,97 +1,97 @@
 [
     {
         "unique_id": "77JKJwz6k8BRrGbmRDPTT",
-        "keyword": "Blocage Arcane X",
+        "name": "Blocage Arcane X",
         "description": "",
         "description_plain": ""
     },
     {
         "unique_id": "tHNMT9DMtgRNTBrnCjdWq",
-        "keyword": "Attaque",
+        "name": "Attaque",
         "description": "",
         "description_plain": ""
     },
     {
         "unique_id": "bKgtwKPTzJ69QdFDfm9bR",
-        "keyword": "Usure de Guerre",
+        "name": "Usure de Guerre",
         "description": "",
         "description_plain": ""
     },
     {
         "unique_id": "cG88qzrJhwLnJH6TJ9cpp",
-        "keyword": "Lame Brisée",
+        "name": "Lame Brisée",
         "description": "",
         "description_plain": ""
     },
     {
         "unique_id": "wPWTbtBBwWkLhTz7hMrn7",
-        "keyword": "Boostez",
+        "name": "Boostez",
         "description": "",
         "description_plain": ""
     },
     {
         "unique_id": "H6nNm6Nndrp8qTGFJL7GB",
-        "keyword": "Combo",
+        "name": "Combo",
         "description": "",
         "description_plain": ""
     },
     {
         "unique_id": "rG7F9GkDcmwNMczRbtwhL",
-        "keyword": "Écrasement",
+        "name": "Écrasement",
         "description": "",
         "description_plain": ""
     },
     {
         "unique_id": "LdpzkhTrrcHJJtLFnctGW",
-        "keyword": "Dominer",
+        "name": "Dominer",
         "description": "",
         "description_plain": ""
     },
     {
         "unique_id": "mmf6BdTtrbCGrhdhg8K9g",
-        "keyword": "Go again",
+        "name": "Go again",
         "description": "",
         "description_plain": ""
     },
     {
         "unique_id": "NdTgddPBhJLhG7HRjqPG6",
-        "keyword": "Intimidez",
+        "name": "Intimidez",
         "description": "",
         "description_plain": ""
     },
     {
         "unique_id": "TrD8trBHtDqmdKtd9jMWr",
-        "keyword": "Légendaire",
+        "name": "Légendaire",
         "description": "",
         "description_plain": ""
     },
     {
         "unique_id": "bfRPRwTzzCPNRmNbfhdq7",
-        "keyword": "Optez X",
+        "name": "Optez X",
         "description": "",
         "description_plain": ""
     },
     {
         "unique_id": "CMkCBFwkdRTkckLfBwhjL",
-        "keyword": "Rechargez",
+        "name": "Rechargez",
         "description": "",
         "description_plain": ""
     },
     {
         "unique_id": "BN9pfqWtQjNgCHFrgmNHJ",
-        "keyword": "Reprise",
+        "name": "Reprise",
         "description": "",
         "description_plain": ""
     },
     {
         "unique_id": "cjn8CBRWPmdG8fwJNTBJt",
-        "keyword": "Spécialisation",
+        "name": "Spécialisation",
         "description": "",
         "description_plain": ""
     },
     {
         "unique_id": "RnrzPrG6KfnCPhDCF8bpB",
-        "keyword": "Temper",
+        "name": "Temper",
         "description": "",
         "description_plain": ""
     }

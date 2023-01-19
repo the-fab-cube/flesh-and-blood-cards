@@ -7,7 +7,7 @@
             "unique_id": {
                 "type": "string"
             },
-            "keyword": {
+            "name": {
                 "type": "string"
             },
             "description": {
@@ -19,7 +19,7 @@
         },
         "required": [
             "unique_id",
-            "keyword",
+            "name",
             "description",
             "description_plain"
         ]

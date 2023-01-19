@@ -30,7 +30,7 @@ def get_keyword_text_by_unique_id(unique_id, all_keyword_data):
         print(f"ERROR: Could not properly find the keyword for the unique_id {unique_id}")
         exit()
 
-    return matched_keyword_data[0]['keyword']
+    return matched_keyword_data[0]['name']
 
 def generalize_english_card_keyword_text(card_keyword):
     # Find number/X data
@@ -65,7 +65,7 @@ def generalize_english_card_keyword_text(card_keyword):
     return generalized_data
 
 def add_unique_id_to_generalized_card_keyword_data(generalized_card_keyword_data, all_keyword_data):
-    matched_keyword_data = [keyword_data for keyword_data in all_keyword_data if generalized_card_keyword_data['keyword'] == keyword_data['keyword']]
+    matched_keyword_data = [keyword_data for keyword_data in all_keyword_data if generalized_card_keyword_data['keyword'] == keyword_data['name']]
 
     if len(matched_keyword_data) != 1:
         print(f"ERROR: Could not properly find the unique_id for the keyword {generalized_card_keyword_data['keyword']}")

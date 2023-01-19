@@ -19,7 +19,7 @@ def generate_json_file(language):
             keyword_object = {}
 
             keyword_object['unique_id'] = row[0]
-            keyword_object['keyword'] = row[1]
+            keyword_object['name'] = row[1]
             keyword_object['description'] = row[2]
             keyword_object['description_plain'] = unmark(keyword_object['description'])
 
