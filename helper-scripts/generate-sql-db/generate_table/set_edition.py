@@ -5,15 +5,17 @@ from pathlib import Path
 def create_table(cur):
     command = """
         CREATE TABLE set_editions (
-            id VARCHAR(255) NOT NULL,
+            unique_id VARCHAR(21) NOT NULL,
+            set_id VARCHAR(255) NOT NULL,
             edition VARCHAR(255) NOT NULL,
             initial_release_date TIMESTAMP,
             out_of_print_date TIMESTAMP,
             product_page VARCHAR(1000),
             collectors_center VARCHAR(1000),
             card_gallery VARCHAR(1000),
-            FOREIGN KEY (id) REFERENCES sets (id),
-            PRIMARY KEY (id, edition)
+            FOREIGN KEY (set_id) REFERENCES sets (id),
+            PRIMARY KEY (unique_id),
+            UNIQUE (set_id, edition)
         )
         """
 
@@ -38,10 +40,10 @@ def drop_table(cur):
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
-def insert(cur, id, edition, initial_release_date, out_of_print_date, product_page, collectors_center, card_gallery):
-    sql = """INSERT INTO set_editions(id, edition, initial_release_date, out_of_print_date, product_page, collectors_center, card_gallery)
+def insert(cur, unique_id, set_id, edition, initial_release_date, out_of_print_date, product_page, collectors_center, card_gallery):
+    sql = """INSERT INTO set_editions(unique_id, set_id, edition, initial_release_date, out_of_print_date, product_page, collectors_center, card_gallery)
              VALUES(%s, %s, %s, %s, %s, %s, %s);"""
-    data = (id, edition, initial_release_date, out_of_print_date, product_page, collectors_center, card_gallery)
+    data = (unique_id, set_id, edition, initial_release_date, out_of_print_date, product_page, collectors_center, card_gallery)
 
     try:
         print("Inserting {0} printing for set {1}...".format(
@@ -62,9 +64,10 @@ def generate_table(cur):
         set_array = json.load(jsonfile)
 
         for set in set_array:
-            id = set['id']
+            set_id = set['id']
 
             for edition_entry in set['editions']:
+                unique_id = edition_entry['unique_id']
                 edition = edition_entry['edition']
                 initial_release_date = edition_entry['initial_release_date'] #.lower().replace("null", "infinity") # Uses infinity instead of null because some parsers break parsing timestamp arrays with null
                 out_of_print_date = edition_entry['out_of_print_date'] #.lower().replace("null", "infinity") # Uses infinity instead of null because some parsers break parsing timestamp arrays with null
@@ -72,6 +75,6 @@ def generate_table(cur):
                 collectors_center = edition_entry['collectors_center']
                 card_gallery = edition_entry['card_gallery']
 
-                insert(cur, id, edition, initial_release_date, out_of_print_date, product_page, collectors_center, card_gallery)
+                insert(cur, unique_id, set_id, edition, initial_release_date, out_of_print_date, product_page, collectors_center, card_gallery)
 
         print("\nSuccessfully filled set_editions table\n")

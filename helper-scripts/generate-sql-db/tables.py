@@ -1,6 +1,7 @@
 import generate_table.artist
 import generate_table.card
 import generate_table.card_printing
+import generate_table.card_translations
 import generate_table.edition
 import generate_table.foiling
 import generate_table.icon
@@ -17,6 +18,7 @@ def create_tables(conn = None):
     generate_table.artist.create_table(cur)
     generate_table.card.create_table(cur)
     generate_table.card_printing.create_table(cur)
+    generate_table.card_translations.create_table(cur)
     generate_table.edition.create_table(cur)
     generate_table.foiling.create_table(cur)
     generate_table.icon.create_table(cur)
@@ -34,6 +36,7 @@ def drop_tables(conn = None):
     cur = conn.cursor()
 
     generate_table.artist.drop_table(cur)
+    generate_table.card_translations.drop_table(cur)
     generate_table.card_printing.drop_table(cur)
     generate_table.card.drop_table(cur)
     generate_table.edition.drop_table(cur)
@@ -55,6 +58,10 @@ def generate_table_data(conn = None, url_for_images = None):
     generate_table.artist.generate_table(cur)
     generate_table.card.generate_table(cur)
     generate_table.card_printing.generate_table(cur, url_for_images)
+    generate_table.card_translations.generate_table(cur, "french")
+    generate_table.card_translations.generate_table(cur, "german")
+    generate_table.card_translations.generate_table(cur, "italian")
+    generate_table.card_translations.generate_table(cur, "spanish")
     generate_table.edition.generate_table(cur)
     generate_table.foiling.generate_table(cur)
     generate_table.icon.generate_table(cur)

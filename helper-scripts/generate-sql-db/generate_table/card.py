@@ -48,7 +48,8 @@ def create_table(cur):
             commoner_suspended BOOLEAN NOT NULL DEFAULT FALSE,
             commoner_suspended_start TIMESTAMP,
             commoner_suspended_end VARCHAR(1000),
-            PRIMARY KEY(name, pitch)
+            PRIMARY KEY (unique_id),
+            UNIQUE (name, pitch)
         )
         """
 

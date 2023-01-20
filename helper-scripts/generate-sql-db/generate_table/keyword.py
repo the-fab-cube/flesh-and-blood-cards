@@ -5,7 +5,7 @@ from pathlib import Path
 def create_table(cur):
     command = """
         CREATE TABLE keywords (
-            keyword VARCHAR(255) PRIMARY KEY,
+            name VARCHAR(255) PRIMARY KEY,
             description VARCHAR(1000) NOT NULL
         )
         """
@@ -31,13 +31,13 @@ def drop_table(cur):
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
-def insert(cur, keyword, name):
-    sql = """INSERT INTO keywords(keyword, description)
-             VALUES(%s, %s) RETURNING keyword;"""
-    data = (keyword, name)
+def insert(cur, name, description):
+    sql = """INSERT INTO keywords(name, description)
+             VALUES(%s, %s) RETURNING name;"""
+    data = (name, description)
 
     try:
-        print("Inserting {} keyword...".format(keyword))
+        print("Inserting {} keyword...".format(name))
 
         # execute the INSERT statement
         cur.execute(sql, data)
@@ -52,9 +52,9 @@ def generate_table(cur):
         keyword_array = json.load(jsonfile)
 
         for keyword_entry in keyword_array:
-            keyword = keyword_entry['keyword']
+            name = keyword_entry['name']
             description = keyword_entry['description']
 
-            insert(cur, keyword, description)
+            insert(cur, name, description)
 
         print("\nSuccessfully filled keywords table\n")

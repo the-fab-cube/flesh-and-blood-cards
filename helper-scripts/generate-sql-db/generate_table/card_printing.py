@@ -5,9 +5,9 @@ from pathlib import Path
 def create_table(cur):
     command = """
         CREATE TABLE card_printings (
-            id VARCHAR(15) NOT NULL COLLATE numeric,
-            name VARCHAR(255) NOT NULL,
-            pitch VARCHAR(10) COLLATE numeric NOT NULL,
+            unique_id VARCHAR(21) NOT NULL,
+            card_unique_id VARCHAR(21) NOT NULL,
+            card_id VARCHAR(15) NOT NULL COLLATE numeric,
             set_id VARCHAR(15) NOT NULL COLLATE numeric,
             edition VARCHAR(15) NOT NULL,
             foilings VARCHAR(15)[] NOT NULL,
@@ -15,8 +15,9 @@ def create_table(cur):
             artist VARCHAR(1000) NOT NULL,
             art_variation VARCHAR(15) NOT NULL,
             image_url VARCHAR(1000) NOT NULL,
-            FOREIGN KEY (name, pitch) REFERENCES cards (name, pitch),
-            PRIMARY KEY(id, name, pitch, edition, art_variation)
+            FOREIGN KEY (card_unique_id) REFERENCES cards (unique_id),
+            PRIMARY KEY (unique_id),
+            UNIQUE (unique_id, card_id, edition, art_variation)
         )
         """
 
@@ -41,19 +42,18 @@ def drop_table(cur):
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 
-def insert(cur, id, name, pitch, set_id, edition, foilings, rarity, artist, art_variation, image_url):
-    sql = """INSERT INTO card_printings(id, name, pitch, set_id, edition, foilings, rarity, artist, art_variation, image_url)
+def insert(cur, unique_id, card_unique_id, card_id, set_id, edition, foilings, rarity, artist, art_variation, image_url):
+    sql = """INSERT INTO card_printings(unique_id, card_unique_id, card_id, set_id, edition, foilings, rarity, artist, art_variation, image_url)
             VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"""
-    data = (id, name, pitch, set_id, edition, foilings, rarity, artist, art_variation, image_url)
+    data = (unique_id, card_unique_id, card_id, set_id, edition, foilings, rarity, artist, art_variation, image_url)
 
     try:
-        print("Inserting {0} - {1} - {2} printing for card {3} ({4} - {5})...".format(
+        print("Inserting {0} - {1} - {2} printing for card {3} ({4})...".format(
             edition,
             rarity,
             art_variation if art_variation != '' else 'null',
-            id,
-            name,
-            pitch
+            card_id,
+            card_unique_id
         ))
 
         # execute the INSERT statement
@@ -75,18 +75,18 @@ def treat_blank_string_as_none(field):
     return "'" + field + "'"
 
 def generate_table(cur, url_for_images = None):
-    print("Filling out cards table from card.json...\n")
+    print("Filling out card_printings table from english card.json...\n")
 
     path = Path(__file__).parent / "../../../json/english/card.json"
     with path.open(newline='') as jsonfile:
         card_array = json.load(jsonfile)
 
         for card in card_array:
-            name = card['name']
-            pitch = card['pitch']
+            card_unique_id = card['unique_id']
 
             for printing in card['printings']:
-                id = printing['id']
+                unique_id = printing['unique_id']
+                card_id = printing['id']
                 set_id = printing['set_id']
                 edition = printing['edition']
                 foilings = printing['foilings']
@@ -104,6 +104,6 @@ def generate_table(cur, url_for_images = None):
                 if image_url is None:
                     image_url = ""
 
-                insert(cur, id, name, pitch, set_id, edition, foilings, rarity, artist, art_variation, image_url)
+                insert(cur, unique_id, card_unique_id, card_id, set_id, edition, foilings, rarity, artist, art_variation, image_url)
 
-        print("\nSuccessfully filled cards table\n")
+        print("\nSuccessfully filled card_printings table\n")
