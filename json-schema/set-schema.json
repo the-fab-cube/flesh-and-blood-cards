@@ -4,6 +4,9 @@
     "items": {
         "type": "object",
         "properties": {
+            "unique_id": {
+                "type": "string"
+            },
             "id": {
                 "type": "string"
             },

@@ -16,7 +16,7 @@ const generateAbilityUniqueIds = (language, uniqueIdIndex, abilityNameIndex) => 
 
     const csvStreamFinished = function (abilityIdsAdded) {
         fs.renameSync(outputCSV, inputCSV)
-        console.log(`Unique ID generation completed for ${capitalizedLanguage} abilitys with ${abilityIdsAdded} new ability IDs!`)
+        console.log(`Unique ID generation completed for ${capitalizedLanguage} abilities with ${abilityIdsAdded} new ability IDs!`)
     }
 
     var headerRead = false

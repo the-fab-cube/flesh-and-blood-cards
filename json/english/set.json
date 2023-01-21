@@ -1,5 +1,6 @@
 [
     {
+        "unique_id": "zpj7gQ6k67FP97MMMhFRr",
         "id": "FAB",
         "name": "Promos",
         "start_card_id": "FAB001",
@@ -17,6 +18,7 @@
         ]
     },
     {
+        "unique_id": "zQFpFP9kJrcgWJmR8w6Nr",
         "id": "HER",
         "name": "Hero Card Promos",
         "start_card_id": "HER000",
@@ -34,6 +36,7 @@
         ]
     },
     {
+        "unique_id": "Q7kcdgCRNm6fWmNjgTbnF",
         "id": "JDG",
         "name": "Judge Unique Promos",
         "start_card_id": "JDG001",
@@ -51,6 +54,7 @@
         ]
     },
     {
+        "unique_id": "Q7pWcKBwRPzjFthNTWWnR",
         "id": "LGS",
         "name": "Local Game Store Promos",
         "start_card_id": "LGS001",
@@ -68,6 +72,7 @@
         ]
     },
     {
+        "unique_id": "FbC6d7CCD9frkFTJ8BMLJ",
         "id": "LSS",
         "name": "LSS Promos",
         "start_card_id": "LSS001",
@@ -85,6 +90,7 @@
         ]
     },
     {
+        "unique_id": "bNCWTDLLz6CHGDJzCMCjk",
         "id": "OXO",
         "name": "Slingshot Underground Promos",
         "start_card_id": "OXO001",
@@ -102,6 +108,7 @@
         ]
     },
     {
+        "unique_id": "bKWKRDkTtWgGww6kjtfhR",
         "id": "WIN",
         "name": "Worlds / Pro Tour Prize Cards",
         "start_card_id": "WIN001",
@@ -119,6 +126,7 @@
         ]
     },
     {
+        "unique_id": "CbWCHFq7RhQzDBjCtLcRj",
         "id": "XXX",
         "name": "OP Event Tokens",
         "start_card_id": "XXX001",
@@ -136,6 +144,7 @@
         ]
     },
     {
+        "unique_id": "HPKkthwQKdFTDgK6WTQqR",
         "id": "BOL",
         "name": "Boltyn Blitz Deck",
         "start_card_id": "BOL001",
@@ -153,6 +162,7 @@
         ]
     },
     {
+        "unique_id": "h8mR6RdH6nnMFGTdF6ffF",
         "id": "BRI",
         "name": "Briar Blitz Deck",
         "start_card_id": "BRI001",
@@ -170,6 +180,7 @@
         ]
     },
     {
+        "unique_id": "6T9cpCjmwNtMRkD6c6pNC",
         "id": "BVO",
         "name": "Bravo Hero Deck",
         "start_card_id": "BVO001",
@@ -187,6 +198,7 @@
         ]
     },
     {
+        "unique_id": "t8PhhW96tJJTnN7f77C7b",
         "id": "CHN",
         "name": "Chane Blitz Deck",
         "start_card_id": "CHN001",
@@ -204,6 +216,7 @@
         ]
     },
     {
+        "unique_id": "KhcHnWztNdGbLgJbtzbHC",
         "id": "DRO",
         "name": "Dromai Blitz Deck",
         "start_card_id": "DRO001",
@@ -221,6 +234,7 @@
         ]
     },
     {
+        "unique_id": "GN9B6QcH6BCdcJtNCNTwJ",
         "id": "FAI",
         "name": "Fai Blitz Deck",
         "start_card_id": "FAI001",
@@ -238,6 +252,7 @@
         ]
     },
     {
+        "unique_id": "NJH6TM8ThDgd6GKNbMbKm",
         "id": "IRA",
         "name": "Ira Welcome Deck",
         "start_card_id": "IRA001",
@@ -255,6 +270,7 @@
         ]
     },
     {
+        "unique_id": "Wp8RnQbnhjM8dPR7CjJLj",
         "id": "KSU",
         "name": "Katsu Hero Deck",
         "start_card_id": "KSU001",
@@ -272,6 +288,7 @@
         ]
     },
     {
+        "unique_id": "Mm8n6LDWrjhRKmghDpH8F",
         "id": "LEV",
         "name": "Levia Blitz Deck",
         "start_card_id": "LEV001",
@@ -289,6 +306,7 @@
         ]
     },
     {
+        "unique_id": "NtFmMN7FrrD9T7wNmRfbP",
         "id": "LXI",
         "name": "Lexi Blitz Deck",
         "start_card_id": "LXI001",
@@ -306,6 +324,7 @@
         ]
     },
     {
+        "unique_id": "jHCNJwm8Q6Gm7L8mLQ8Tg",
         "id": "OLD",
         "name": "Oldhim Blitz Deck",
         "start_card_id": "OLD001",
@@ -323,6 +342,7 @@
         ]
     },
     {
+        "unique_id": "NGqTPbzCC6QN6Nkwjrthj",
         "id": "PSM",
         "name": "Prism Blitz Deck",
         "start_card_id": "PSM001",
@@ -340,6 +360,7 @@
         ]
     },
     {
+        "unique_id": "PNQNFFcPRnMQMHmB6t9t6",
         "id": "RNR",
         "name": "Rhinar Hero Deck",
         "start_card_id": "RNR001",
@@ -357,6 +378,7 @@
         ]
     },
     {
+        "unique_id": "dnrqf9WmFbQNHTkkk6htL",
         "id": "TEA",
         "name": "Dorinthea Hero Deck",
         "start_card_id": "TEA001",
@@ -374,6 +396,7 @@
         ]
     },
     {
+        "unique_id": "kqQtDHQ8pMgcGBRBRFT7c",
         "id": "DVR",
         "name": "Classic Battles: Rhinar vs Dorinthea – Dorinthea",
         "start_card_id": "DVR001",
@@ -391,6 +414,7 @@
         ]
     },
     {
+        "unique_id": "fwzFkTTtW8gqwTCbLRNbP",
         "id": "RVD",
         "name": "Classic Battles: Rhinar vs Dorinthea – Rhinar",
         "start_card_id": "RVD001",
@@ -408,6 +432,7 @@
         ]
     },
     {
+        "unique_id": "QpnqjpTwQfwKpmdtd8H6N",
         "id": "1HP",
         "name": "History Pack 1",
         "start_card_id": "1HP001",
@@ -425,6 +450,7 @@
         ]
     },
     {
+        "unique_id": "z76hC7kM6jcNzPgqkTwqf",
         "id": "WTR",
         "name": "Welcome to Rathe",
         "start_card_id": "WTR000",
@@ -440,7 +466,7 @@
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/welcome-rathe-booster/"
             },
             {
-                "unique_id": "jnkCHc6Rn9gwfrKPGCtLC",
+                "unique_id": "6CntKbGMhcBqqnHmgGM99",
                 "edition": "U",
                 "initial_release_date": "2020-11-06T00:00:00.000Z",
                 "out_of_print_date": "2021-12-01T00:00:00.000Z",
@@ -451,6 +477,7 @@
         ]
     },
     {
+        "unique_id": "F7brMw6wh6mW98Ln9Hh6f",
         "id": "ARC",
         "name": "Arcane Rising",
         "start_card_id": "ARC000",
@@ -466,7 +493,7 @@
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/arcane-rising/"
             },
             {
-                "unique_id": "NkjNBF8CcfB99fRmMDhfr",
+                "unique_id": "CwPrBwgWTjRL9kPchD6G7",
                 "edition": "U",
                 "initial_release_date": "2020-11-20T00:00:00.000Z",
                 "out_of_print_date": "2021-11-11T00:00:00.000Z",
@@ -477,6 +504,7 @@
         ]
     },
     {
+        "unique_id": "K8MGfzFdqWGwrcJgpDqRR",
         "id": "CRU",
         "name": "Crucible of War",
         "start_card_id": "CRU000",
@@ -492,7 +520,7 @@
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/crucible-war-booster/"
             },
             {
-                "unique_id": "jHWMhDgqDnK6RpCJtcn9C",
+                "unique_id": "7bHMKdmh9wJkpqH6Hk7rM",
                 "edition": "U",
                 "initial_release_date": "2021-06-30T00:00:00.000Z",
                 "out_of_print_date": "2021-10-13T00:00:00.000Z",
@@ -503,6 +531,7 @@
         ]
     },
     {
+        "unique_id": "RqqtdMH8fDBPCnjDcLNdT",
         "id": "MON",
         "name": "Monarch",
         "start_card_id": "MON000",
@@ -518,7 +547,7 @@
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/monarch-booster/"
             },
             {
-                "unique_id": "7j8Q9L8RBbwHjz9Bp8Kjm",
+                "unique_id": "GbmNLthWjCHfML9thPbbt",
                 "edition": "U",
                 "initial_release_date": "2021-06-04T00:00:00.000Z",
                 "out_of_print_date": null,
@@ -529,6 +558,7 @@
         ]
     },
     {
+        "unique_id": "TWQdqjJfGzCjjCRJzM6PG",
         "id": "ELE",
         "name": "Tales of Aria",
         "start_card_id": "ELE000",
@@ -544,7 +574,7 @@
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/tales-aria-booster/"
             },
             {
-                "unique_id": "W9TQPNkd7K7cMQTt6FwcK",
+                "unique_id": "LdhWCQdJmzHn9gChmWRPG",
                 "edition": "U",
                 "initial_release_date": "2021-11-12T00:00:00.000Z",
                 "out_of_print_date": null,
@@ -555,6 +585,7 @@
         ]
     },
     {
+        "unique_id": "pfLLLbcmBpfkqrR9fKGtj",
         "id": "EVR",
         "name": "Everfest",
         "start_card_id": "EVR000",
@@ -572,6 +603,7 @@
         ]
     },
     {
+        "unique_id": "dBgRbDmcFzW9kGnPFrqQ8",
         "id": "UPR",
         "name": "Uprising",
         "start_card_id": "UPR000",
@@ -589,6 +621,7 @@
         ]
     },
     {
+        "unique_id": "HWKQRtfbPPRGqh6dMdQFK",
         "id": "DYN",
         "name": "Dynasty",
         "start_card_id": "DYN000",

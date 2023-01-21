@@ -6,11 +6,11 @@ generators.generateCardUniqueIds("german", null, null, 9, 10)
 generators.generateCardUniqueIds("italian", null, null, 9, 10)
 generators.generateCardUniqueIds("spanish", null, null, 9, 10)
 
-generators.generateSetUniqueIds("english", 2, 3)
-generators.generateSetUniqueIds("french", 2, 3)
-generators.generateSetUniqueIds("german", 2, 3)
-generators.generateSetUniqueIds("italian", 2, 3)
-generators.generateSetUniqueIds("spanish", 2, 3)
+generators.generateSetUniqueIds("english", 0, 1, 3, 4)
+generators.generateSetUniqueIds("french", 0, 1, 3, 4)
+generators.generateSetUniqueIds("german", 0, 1, 3, 4)
+generators.generateSetUniqueIds("italian", 0, 1, 3, 4)
+generators.generateSetUniqueIds("spanish", 0, 1, 3, 4)
 
 generators.generateAbilityUniqueIds("english", 0, 1)
 

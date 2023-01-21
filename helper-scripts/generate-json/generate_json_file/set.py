@@ -32,6 +32,9 @@ def generate_json_file(language):
 
             rowId = 0
 
+            set_object['unique_id'] = row[rowId]
+            rowId += 1
+
             set_object['id'] = row[rowId]
             rowId += 1
 
