@@ -42,7 +42,7 @@ def drop_table(cur):
 
 def insert(cur, unique_id, set_id, edition, initial_release_date, out_of_print_date, product_page, collectors_center, card_gallery):
     sql = """INSERT INTO set_editions(unique_id, set_id, edition, initial_release_date, out_of_print_date, product_page, collectors_center, card_gallery)
-             VALUES(%s, %s, %s, %s, %s, %s, %s);"""
+             VALUES(%s, %s, %s, %s, %s, %s, %s, %s);"""
     data = (unique_id, set_id, edition, initial_release_date, out_of_print_date, product_page, collectors_center, card_gallery)
 
     try:
