@@ -60,6 +60,7 @@ def create_table(cur):
         cur.execute(command)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
+        exit()
 
 def drop_table(cur):
     command = """
@@ -73,6 +74,7 @@ def drop_table(cur):
         cur.execute(command)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
+        exit()
 
 def insert(cur, unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
@@ -105,6 +107,7 @@ def insert(cur, unique_id, name, pitch, cost, power, defense, health, intelligen
         cur.execute(sql, data)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
+        exit()
         raise error
 
 def treat_blank_string_as_boolean(field, value=True):
@@ -119,7 +122,7 @@ def treat_blank_string_as_none(field):
 
     return "'" + field + "'"
 
-def generate_table(cur):
+def generate_table_data(cur):
     print("Filling out cards table from card.json...\n")
 
     path = Path(__file__).parent / "../../../json/english/card.json"

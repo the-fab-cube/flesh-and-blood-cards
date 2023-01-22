@@ -1,32 +1,32 @@
-import generate_table.artist
-import generate_table.card
-import generate_table.card_printing
-import generate_table.card_translations
-import generate_table.edition
-import generate_table.foiling
-import generate_table.icon
-import generate_table.keyword
-import generate_table.rarity
-import generate_table.set
-import generate_table.set_edition
-import generate_table.type
+import generate_table_data.artist
+import generate_table_data.card
+import generate_table_data.card_printing
+import generate_table_data.card_translations
+import generate_table_data.edition
+import generate_table_data.foiling
+import generate_table_data.icon
+import generate_table_data.keyword
+import generate_table_data.rarity
+import generate_table_data.set
+import generate_table_data.set_edition
+import generate_table_data.type
 
 def create_tables(conn = None):
     print("Creating tables...")
     cur = conn.cursor()
 
-    generate_table.artist.create_table(cur)
-    generate_table.card.create_table(cur)
-    generate_table.card_printing.create_table(cur)
-    generate_table.card_translations.create_table(cur)
-    generate_table.edition.create_table(cur)
-    generate_table.foiling.create_table(cur)
-    generate_table.icon.create_table(cur)
-    generate_table.keyword.create_table(cur)
-    generate_table.rarity.create_table(cur)
-    generate_table.set.create_table(cur)
-    generate_table.set_edition.create_table(cur)
-    generate_table.type.create_table(cur)
+    generate_table_data.artist.create_table(cur)
+    generate_table_data.card.create_table(cur)
+    generate_table_data.card_printing.create_table(cur)
+    generate_table_data.card_translations.create_table(cur)
+    generate_table_data.edition.create_table(cur)
+    generate_table_data.foiling.create_table(cur)
+    generate_table_data.icon.create_table(cur)
+    generate_table_data.keyword.create_table(cur)
+    generate_table_data.rarity.create_table(cur)
+    generate_table_data.set.create_table(cur)
+    generate_table_data.set_edition.create_table(cur)
+    generate_table_data.type.create_table(cur)
 
     cur.close()
     print("Finished creating tables")
@@ -35,41 +35,53 @@ def drop_tables(conn = None):
     print("Dropping tables...")
     cur = conn.cursor()
 
-    generate_table.artist.drop_table(cur)
-    generate_table.card_translations.drop_table(cur)
-    generate_table.card_printing.drop_table(cur)
-    generate_table.card.drop_table(cur)
-    generate_table.edition.drop_table(cur)
-    generate_table.foiling.drop_table(cur)
-    generate_table.icon.drop_table(cur)
-    generate_table.keyword.drop_table(cur)
-    generate_table.rarity.drop_table(cur)
-    generate_table.set_edition.drop_table(cur)
-    generate_table.set.drop_table(cur)
-    generate_table.type.drop_table(cur)
+    generate_table_data.artist.drop_table(cur)
+    generate_table_data.card_translations.drop_table(cur)
+    generate_table_data.card_printing.drop_table(cur)
+    generate_table_data.card.drop_table(cur)
+    generate_table_data.edition.drop_table(cur)
+    generate_table_data.foiling.drop_table(cur)
+    generate_table_data.icon.drop_table(cur)
+    generate_table_data.keyword.drop_table(cur)
+    generate_table_data.rarity.drop_table(cur)
+    generate_table_data.set_edition.drop_table(cur)
+    generate_table_data.set.drop_table(cur)
+    generate_table_data.type.drop_table(cur)
 
     cur.close()
     print("Finished dropping tables")
 
-def generate_table_data(conn = None, url_for_images = None):
+def generate_all_table_data(conn = None, url_for_images = None):
     print("Generating table data...")
     cur = conn.cursor()
 
-    generate_table.artist.generate_table(cur)
-    generate_table.card.generate_table(cur)
-    generate_table.card_printing.generate_table(cur, url_for_images)
-    generate_table.card_translations.generate_table(cur, "french")
-    generate_table.card_translations.generate_table(cur, "german")
-    generate_table.card_translations.generate_table(cur, "italian")
-    generate_table.card_translations.generate_table(cur, "spanish")
-    generate_table.edition.generate_table(cur)
-    generate_table.foiling.generate_table(cur)
-    generate_table.icon.generate_table(cur)
-    generate_table.keyword.generate_table(cur)
-    generate_table.rarity.generate_table(cur)
-    generate_table.set.generate_table(cur)
-    generate_table.set_edition.generate_table(cur)
-    generate_table.type.generate_table(cur)
+    generate_table_data.artist.generate_table_data(cur, "english")
+    generate_table_data.artist.generate_table_data(cur, "french")
+    generate_table_data.artist.generate_table_data(cur, "german")
+    generate_table_data.artist.generate_table_data(cur, "italian")
+    generate_table_data.artist.generate_table_data(cur, "spanish")
+    generate_table_data.card.generate_table_data(cur)
+    generate_table_data.card_printing.generate_table_data(cur, url_for_images)
+    generate_table_data.card_translations.generate_table_data(cur, "french")
+    generate_table_data.card_translations.generate_table_data(cur, "german")
+    generate_table_data.card_translations.generate_table_data(cur, "italian")
+    generate_table_data.card_translations.generate_table_data(cur, "spanish")
+    generate_table_data.edition.generate_table_data(cur)
+    generate_table_data.foiling.generate_table_data(cur)
+    generate_table_data.icon.generate_table_data(cur)
+    generate_table_data.keyword.generate_table_data(cur)
+    generate_table_data.rarity.generate_table_data(cur)
+    generate_table_data.set.generate_table_data(cur, "english")
+    generate_table_data.set.generate_table_data(cur, "french")
+    generate_table_data.set.generate_table_data(cur, "german")
+    generate_table_data.set.generate_table_data(cur, "italian")
+    generate_table_data.set.generate_table_data(cur, "spanish")
+    generate_table_data.set_edition.generate_table_data(cur, "english")
+    generate_table_data.set_edition.generate_table_data(cur, "french")
+    generate_table_data.set_edition.generate_table_data(cur, "german")
+    generate_table_data.set_edition.generate_table_data(cur, "italian")
+    generate_table_data.set_edition.generate_table_data(cur, "spanish")
+    generate_table_data.type.generate_table_data(cur)
 
     cur.close()
     print("Finished generating table data")

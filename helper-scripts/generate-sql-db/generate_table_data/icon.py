@@ -17,6 +17,7 @@ def create_table(cur):
         cur.execute(command)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
+        exit()
 
 def drop_table(cur):
     command = """
@@ -30,6 +31,7 @@ def drop_table(cur):
         cur.execute(command)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
+        exit()
 
 def insert(cur, icon, description):
     sql = """INSERT INTO icons(icon, description)
@@ -43,8 +45,9 @@ def insert(cur, icon, description):
         cur.execute(sql, data)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
+        exit()
 
-def generate_table(cur):
+def generate_table_data(cur):
     print("Filling out icons table from icon.json...\n")
 
     path = Path(__file__).parent / "../../../json/english/icon.json"

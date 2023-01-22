@@ -16,6 +16,7 @@ def create_table(cur):
         cur.execute(command)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
+        exit()
 
 def drop_table(cur):
     command = """
@@ -29,11 +30,29 @@ def drop_table(cur):
         cur.execute(command)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
+        exit()
 
 def insert(cur, name):
+    def check_if_artist_exists():
+        select_sql = """SELECT name FROM artists WHERE name = %s;"""
+        select_data = (name,)
+
+        try:
+            cur.execute(select_sql, select_data)
+            selected_data = cur.fetchone()
+
+            return selected_data is not None
+        except (Exception, psycopg2.DatabaseError) as error:
+            print(error)
+            exit()
+
+    if check_if_artist_exists():
+        print(f"Artist {name} already exists, skipping")
+        return
+
     sql = """INSERT INTO artists(name)
              VALUES(%s) RETURNING name;"""
-    data = (name)
+    data = (name,)
 
     try:
         print("Inserting {} artist...".format(name))
@@ -42,11 +61,12 @@ def insert(cur, name):
         cur.execute(sql, data)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
+        exit()
 
-def generate_table(cur):
-    print("Filling out artists table from artist.json...\n")
+def generate_table_data(cur, language):
+    print(f"Filling out artists table from {language} artist.json...\n")
 
-    path = Path(__file__).parent / "../../../json/english/artist.json"
+    path = Path(__file__).parent / f"../../../json/{language}/artist.json"
     with path.open(newline='') as jsonfile:
         artist_array = json.load(jsonfile)
 
@@ -55,4 +75,4 @@ def generate_table(cur):
 
             insert(cur, name)
 
-        print("\nSuccessfully filled artists table\n")
+        print(f"\nSuccessfully filled artists table with {language} data\n")

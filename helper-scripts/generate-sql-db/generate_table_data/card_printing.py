@@ -28,6 +28,7 @@ def create_table(cur):
         cur.execute(command)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
+        exit()
 
 def drop_table(cur):
     command = """
@@ -41,6 +42,7 @@ def drop_table(cur):
         cur.execute(command)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
+        exit()
 
 def insert(cur, unique_id, card_unique_id, card_id, set_id, edition, foilings, rarity, artist, art_variation, image_url):
     sql = """INSERT INTO card_printings(unique_id, card_unique_id, card_id, set_id, edition, foilings, rarity, artist, art_variation, image_url)
@@ -60,6 +62,7 @@ def insert(cur, unique_id, card_unique_id, card_id, set_id, edition, foilings, r
         cur.execute(sql, data)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
+        exit()
         raise error
 
 def treat_blank_string_as_boolean(field, value=True):
@@ -74,7 +77,7 @@ def treat_blank_string_as_none(field):
 
     return "'" + field + "'"
 
-def generate_table(cur, url_for_images = None):
+def generate_table_data(cur, url_for_images = None):
     print("Filling out card_printings table from english card.json...\n")
 
     path = Path(__file__).parent / "../../../json/english/card.json"

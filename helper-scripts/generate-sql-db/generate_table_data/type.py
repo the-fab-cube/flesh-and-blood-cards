@@ -16,6 +16,7 @@ def create_table(cur):
         cur.execute(command)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
+        exit()
 
 def drop_table(cur):
     command = """
@@ -29,6 +30,7 @@ def drop_table(cur):
         cur.execute(command)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
+        exit()
 
 def insert(cur, name):
     sql = """INSERT INTO types(name) VALUES('{}');"""
@@ -39,8 +41,9 @@ def insert(cur, name):
         cur.execute(sql.format(name))
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
+        exit()
 
-def generate_table(cur):
+def generate_table_data(cur):
     print("Filling out types table from type.json...\n")
 
     path = Path(__file__).parent / "../../../json/english/type.json"
