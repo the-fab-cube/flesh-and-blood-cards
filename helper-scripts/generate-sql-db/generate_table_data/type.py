@@ -5,7 +5,9 @@ from pathlib import Path
 def create_table(cur):
     command = """
         CREATE TABLE types (
-            name VARCHAR(255) PRIMARY KEY
+            unique_id VARCHAR(21) NOT NULL,
+            name VARCHAR(255) NOT NULL,
+            PRIMARY KEY (unique_id)
         )
         """
 
@@ -32,13 +34,15 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, name):
-    sql = """INSERT INTO types(name) VALUES('{}');"""
+def insert(cur, unique_id, name):
+    sql = """INSERT INTO types(unique_id, name)
+        VALUES(%s, %s) RETURNING name;"""
+    data = (unique_id, name)
     try:
         print("Inserting {} type...".format(name))
 
         # execute the INSERT statement
-        cur.execute(sql.format(name))
+        cur.execute(sql, data)
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
         exit()
@@ -51,8 +55,9 @@ def generate_table_data(cur):
         type_array = json.load(jsonfile)
 
         for type in type_array:
+            unique_id = type['unique_id']
             name = type['name']
 
-            insert(cur, name)
+            insert(cur, unique_id, name)
 
         print("\nSuccessfully filled types table\n")
