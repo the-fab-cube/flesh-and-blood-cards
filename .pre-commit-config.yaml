@@ -1,0 +1,9 @@
+repos:
+-   repo: local
+    hooks:
+    -   id: clean_csvs
+        name: clean_csvs
+        entry: scripts/clean_csvs.py
+        language: script
+        types: [python]
+        always_run: true
