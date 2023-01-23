@@ -1,74 +1,74 @@
-Name
-Action
-Adjudicator
-Affliction
-Ally
-Arms
-Arrow
-Ash
-Assassin
-Attack
-Attack Reaction
-Aura
-Axe
-Bard
-Book
-Bow
-Brute
-Chest
-Claw
-Club
-Construct
-Dagger
-Defense Reaction
-Demon
-Draconic
-Dragon
-Earth
-Elemental
-Equipment
-Flail
-Gem
-Generic
-Guardian
-Gun
-Hammer
-Head
-Hero
-Ice
-Illusionist
-Instant
-Invocation
-Item
-Landmark
-Legs
-Light
-Lightning
-Lute
-Mechanologist
-Mentor
-Merchant
-Ninja
-Off-Hand
-Orb
-Pistol
-Placeholder Card
-Ranger
-Resource
-Rock
-Royal
-Runeblade
-Scepter
-Scythe
-Shadow
-Shapeshifter
-Staff
-Sword
-Token
-Trap
-Warrior
-Weapon
-Wizard
-Young
-1H
-2H
+Name	Category
+Action	Card Type
+Adjudicator	Class
+Affliction	Subtype
+Ally	Subtype
+Arms	Subtype
+Arrow	Subtype
+Ash	Subtype
+Assassin	Class
+Attack	Subtype
+Attack Reaction	Card Type
+Aura	Subtype
+Axe	Subtype
+Bard	Class
+Book	Subtype
+Bow	Subtype
+Brute	Class
+Chest	Subtype 
+Claw	Subtype
+Club	Subtype
+Construct	Subtype
+Dagger	Subtype
+Defense Reaction	Card Type
+Demon	Subtype
+Draconic	Talent
+Dragon	Subtype
+Earth	Talent
+Elemental	Talent
+Equipment	Card Type
+Flail	Subtype
+Gem	Subtype
+Generic	Class
+Guardian	Class
+Gun	Subtype
+Hammer	Subtype
+Head	Subtype
+Hero	Card Type
+Ice	Talent
+Illusionist	Class
+Instant	Card Type
+Invocation	Subtype
+Item	Subtype
+Landmark	Subtype
+Legs	Subtype
+Light	Talent
+Lightning	Talent
+Lute	Subtype
+Mechanologist	Class
+Mentor	Card Type
+Merchant	Class
+Ninja	Class
+Off-Hand	Subtype
+Orb	Subtype
+Pistol	Subtype
+Placeholder Card	Card Type
+Ranger	Class
+Resource	Card Type
+Rock	Subtype
+Royal	Talent
+Runeblade	Class
+Scepter	Subtype
+Scythe	Subtype
+Shadow	Talent
+Shapeshifter	Class
+Staff	Subtype
+Sword	Subtype
+Token	Card Type
+Trap	Subtype
+Warrior	Class
+Weapon	Card Type
+Wizard	Class
+Young	Subtype
+1H	Subtype
+2H	Subtype
