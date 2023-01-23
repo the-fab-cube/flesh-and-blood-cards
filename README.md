@@ -4,12 +4,13 @@
 1. [General Overview](#general-overview)
 2. [Approach to Reprints/Editions](#approach-to-reprintseditions)
 3. [Approach to Versioning](#approach-to-versioning)
-4. [Changelogs and Contribution Credit](#changelogs-and-contribution-credit)
-5. [Contributing](#contributing)
-6. [Helper Scripts](#helper-scripts)
-7. [Further Documentation](#further-documentation)
-8. [Current Status on CSV Representation of Translated Cards](#current-status-on-csv-representation-of-translated-cards)
-9. [Projects Using This Data Set](#projects-using-this-data-set)
+4. [Approach to Languages](#approach-to-languages)
+5. [Changelogs and Contribution Credit](#changelogs-and-contribution-credit)
+6. [Contributing](#contributing)
+7. [Helper Scripts](#helper-scripts)
+8. [Further Documentation](#further-documentation)
+9. [Current Status on CSV Representation of Translated Cards](#current-status-on-csv-representation-of-translated-cards)
+10. [Projects Using This Data Set](#projects-using-this-data-set)
 
 ## General Overview
 This repo is intended as a comprehensive, open-source resource for representing all cards and sets from the Flesh and Blood TCG as JSON and CSV files.
@@ -28,6 +29,8 @@ A card's text and other data will always be based off the latest erratas and pri
 
 Similarly, a set is unique based on a setcode + name, and can have multiple editions, but is considered to be 1 entry within the data set.
 
+All cards, printings, sets, set editions, and other data in the data set is also assigned a unique generated unique_id when they are added that is consistent throughout the data set. Once a unique_id is added to the data set, it will never be changed and should be a stable way to refer to that particular piece of data. (NOTE: By "will never be changed" I mean "if this is changed, something went horribly wrong and I need to revert the unique_id back to its original value, and if you notice this please let me know!".)
+
 
 ## Approach to Versioning
 To the best of my ability, I attempt to follow [Semantic Versioning](https://semver.org/) when releasing versions of this data set. You can find all released versions [here](https://github.com/the-fab-cube/flesh-and-blood-cards/releases).
@@ -41,6 +44,30 @@ I try to increment version numbers with this general logic:
 If you'd like a stable experience, please use the main branch and pin a specific tagged version. I try to keep the develop branch as clean as possible, but even that is broken or has big changes in-flight from time to time. For bigger changes to the data set or during spoiler seasons, I spin off feature branches to work in. You are welcome to use them while I am working on them, but please be aware things can break at any time!
 
 Unlike many code packages, I do not go back and support past major/minor releases with bugfixes, so if you want the most up-to-date data, you will always need to be on the latest version, even if that version has breaking changes. The versioning system is purely to give you a heads up so that you don't update and find your project blowing up unexpectedly!
+
+## Approach to Languages
+This data set currently supports the following languages:
+- English
+- French
+- German
+- Italian
+- Spanish
+
+In this data set, English is considered the "default" language. All cards, keywords, types, etc. should be added in English first, with the exception of sets. These are all contained within the `english/` subfolders of the `json/` and `csvs/`.
+
+All other languages have their own subfolders with translated data, with unique_ids corresponding to the English data. These include:
+- Abilities
+- Cards
+- Keywords
+- Types
+
+There are three types of data that are handled somewhat differently in other languages.
+
+Sets do not have to have a corresponding unique_id in the English data, because some sets have only been published in non-English languages (ex: History Pack - Black Label).
+
+Similarly, each language folder has its own artist data to account for the possibility that a card variation in one language has an artist that another language does not.
+
+Finally, while the card data should be consistent across all languages with just the text being translated, the card printings are not. Each languages card data only has data on the printings that card has had in that language.
 
 
 ## Changelogs and Contribution Credit
