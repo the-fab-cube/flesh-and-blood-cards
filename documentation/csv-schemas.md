@@ -45,6 +45,7 @@ The CSVs are tab delimited and use " as string indicators.
 | Blitz Banned | datetime | The date the card was or will be banned in the Blitz format. No given value means the card is not banned. | 2021-12-01T00:00:00.000Z |
 | CC Banned | datetime | The date the card was or will be banned in the Classic Constructed format. No given value means the card is not banned. | 2021-12-01T00:00:00.000Z |
 | Commoner Banned | datetime | The date the card was or will be banned in the Commoner format. No given value means the card is not banned. | 2021-12-01T00:00:00.000Z |
+| UPF Banned | datetime | The date the card was or will be banned in the Ultimate Pit Fight format. No given value means the card is not banned. | 2021-12-01T00:00:00.000Z |
 | Blitz Suspended Start | datetime | The date the card was or will be suspended in the Blitz format. No given value means the card is not suspended. | 2021-12-01T00:00:00.000Z |
 | Blitz Suspended End | string | Info on when the card is planned to be unsuspended in the Blitz format. No given value means the card is not suspended. | Until Chane hits Living Legend |
 | CC Suspended Start | datetime | The date the card was or will be suspended in the Classic Constructed format. No given value means the card is not suspended. | 2021-12-01T00:00:00.000Z |
