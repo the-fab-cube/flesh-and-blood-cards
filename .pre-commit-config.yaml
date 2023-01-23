@@ -7,3 +7,9 @@ repos:
         language: script
         types: [python]
         always_run: true
+    -   id: validate_references
+        name: validate_references
+        entry: scripts/validate_references.py
+        language: script
+        types: [python]
+        always_run: true
