@@ -306,6 +306,9 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added high res images for DYN092 (Nitro Mechanoid), LGS005, and LGS099
 - Added high res images for HER054-HER057 (the images at the links currently seem to be the 450-width images, but if/when that is changed the links should still be correct)
 
+01-23-23:
+- Fixed an issue with the missing Angel type - bugfix credit: dcollinsn
+
 PENDING:
 - Added generate-json, run-all-generators, and generate-csv-htmls scripts
 - Fixed a unicode issue in Runechant's variations and image_urls columns
