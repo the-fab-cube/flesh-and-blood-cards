@@ -310,5 +310,5 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue with the missing Angel type - bugfix credit: dcollinsn
 
 01-24-23:
-- Updated CC Suspended status for AMulet of Ice and Hypothermia
+- Updated CC Suspended status for Amulet of Ice and Hypothermia
 - Updated CC Banned status for Belittle and Winter's Wail
