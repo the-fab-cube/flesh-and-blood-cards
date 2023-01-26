@@ -23,6 +23,7 @@ def generate_json_file(language):
     language_card_json_path = Path(__file__).parent / f"../../../json/{language}/card.json"
     language_ability_json_path = Path(__file__).parent / f"../../../json/{language}/ability.json"
     language_keyword_json_path = Path(__file__).parent / f"../../../json/{language}/keyword.json"
+    language_set_json_path = Path(__file__).parent / f"../../../json/{language}/set.json"
     language_type_json_path = Path(__file__).parent / f"../../../json/{language}/type.json"
 
     with (
@@ -33,6 +34,7 @@ def generate_json_file(language):
         english_type_json_path.open(newline='') as english_type_json_file,
         language_ability_json_path.open(newline='') as language_ability_json_file,
         language_keyword_json_path.open(newline='') as language_keyword_json_file,
+        language_set_json_path.open(newline='') as language_set_json_file,
         language_type_json_path.open(newline='') as language_type_json_file
     ):
         english_card_array = json.load(english_card_json_file)
@@ -41,7 +43,10 @@ def generate_json_file(language):
         english_type_array = json.load(english_type_json_file)
         language_ability_array = json.load(language_ability_json_file)
         language_keyword_array = json.load(language_keyword_json_file)
+        language_set_array = json.load(language_set_json_file)
         language_type_array = json.load(language_type_json_file)
+
+        set_unique_id_cache = {}
 
         reader = csv.reader(csv_file, delimiter='\t', quotechar='"')
         next(reader)
@@ -224,6 +229,7 @@ def generate_json_file(language):
                 unique_id = valid_unique_ids[0]['unique_id'] if len(valid_unique_ids) > 0 else None
 
                 card_variation['unique_id'] = unique_id
+                card_variation['set_unique_id'] = helper_functions.get_set_unique_id(set_id, language, language_set_array, set_unique_id_cache)
                 card_variation['id'] = card_id_from_variation
                 card_variation['set_id'] = set_id
                 card_variation['edition'] = set_edition

@@ -11,12 +11,21 @@ def generate_json_file():
 
     card_array = []
 
+
+    setJsonPath = Path(__file__).parent / "../../../json/english/set.json"
+
     csvPath = Path(__file__).parent / "../../../csvs/english/card.csv"
     jsonPath = Path(__file__).parent / "../../../json/english/card.json"
 
-    with csvPath.open(newline='') as csvfile:
+    with (
+        csvPath.open(newline='') as csvfile,
+        setJsonPath.open(newline='') as set_json_file,
+    ):
         reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
         next(reader)
+
+        set_array = json.load(set_json_file)
+        set_unique_id_cache = {}
 
         for row in reader:
             card_object = {}
@@ -244,6 +253,7 @@ def generate_json_file():
                 unique_id = valid_unique_ids[0]['unique_id'] if len(valid_unique_ids) > 0 else None
 
                 card_variation['unique_id'] = unique_id
+                card_variation['set_unique_id'] = helper_functions.get_set_unique_id(set_id, "english", set_array, set_unique_id_cache)
                 card_variation['id'] = card_id_from_variation
                 card_variation['set_id'] = set_id
                 card_variation['edition'] = set_edition

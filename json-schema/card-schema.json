@@ -207,6 +207,10 @@
                             "description": "A UUID representing the printing within this data set.",
                             "type": "string"
                         },
+                        "set_unique_id": {
+                            "description": "A UUID representing the set the printing belongs to within this data set.",
+                            "type": "string"
+                        },
                         "id": {
                             "description": "The ID of the card printing.",
                             "type": "string"
@@ -246,6 +250,7 @@
                     },
                     "required": [
                         "unique_id",
+                        "set_unique_id",
                         "id",
                         "set_id",
                         "edition",

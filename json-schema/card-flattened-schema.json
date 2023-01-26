@@ -193,6 +193,14 @@
                 "description": "Represents when the card is set to be unsuspended in Commoner. Contains a displayable text describing when it will be unsuspended if it is currently suspended (will not be present otherwise).",
                 "type": ["string"]
             },
+            "variation_unique_id": {
+                "description": "A UUID representing the printing within this data set.",
+                "type": "string"
+            },
+            "set_unique_id": {
+                "description": "A UUID representing the set the printing belongs to within this data set.",
+                "type": "string"
+            },
             "id": {
                 "description": "The ID of the card printing.",
                 "type": "string"
@@ -263,6 +271,7 @@
             "cc_suspended",
             "commoner_suspended",
             "variation_unique_id",
+            "set_unique_id",
             "id",
             "set_id",
             "edition",

@@ -7,6 +7,7 @@ def create_table(cur):
         CREATE TABLE card_printings (
             unique_id VARCHAR(21) NOT NULL,
             card_unique_id VARCHAR(21) NOT NULL,
+            set_unique_id VARCHAR(21) NOT NULL,
             card_id VARCHAR(15) NOT NULL COLLATE numeric,
             set_id VARCHAR(15) NOT NULL COLLATE numeric,
             edition VARCHAR(15) NOT NULL,
