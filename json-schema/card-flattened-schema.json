@@ -197,8 +197,8 @@
                 "description": "A UUID representing the printing within this data set.",
                 "type": "string"
             },
-            "set_unique_id": {
-                "description": "A UUID representing the set the printing belongs to within this data set.",
+            "set_edition_unique_id": {
+                "description": "A UUID representing the set edition the printing belongs to within this data set.",
                 "type": "string"
             },
             "id": {
@@ -271,7 +271,7 @@
             "cc_suspended",
             "commoner_suspended",
             "variation_unique_id",
-            "set_unique_id",
+            "set_edition_unique_id",
             "id",
             "set_id",
             "edition",

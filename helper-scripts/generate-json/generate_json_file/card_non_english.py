@@ -46,7 +46,7 @@ def generate_json_file(language):
         language_set_array = json.load(language_set_json_file)
         language_type_array = json.load(language_type_json_file)
 
-        set_unique_id_cache = {}
+        set_edition_unique_id_cache = {}
 
         reader = csv.reader(csv_file, delimiter='\t', quotechar='"')
         next(reader)
@@ -229,7 +229,7 @@ def generate_json_file(language):
                 unique_id = valid_unique_ids[0]['unique_id'] if len(valid_unique_ids) > 0 else None
 
                 card_variation['unique_id'] = unique_id
-                card_variation['set_unique_id'] = helper_functions.get_set_unique_id(set_id, language, language_set_array, set_unique_id_cache)
+                card_variation['set_edition_unique_id'] = helper_functions.get_set_edition_unique_id(set_id, set_edition, language, language_set_array, set_edition_unique_id_cache)
                 card_variation['id'] = card_id_from_variation
                 card_variation['set_id'] = set_id
                 card_variation['edition'] = set_edition

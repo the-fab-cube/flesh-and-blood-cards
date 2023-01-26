@@ -80,17 +80,18 @@ def get_hero_gender_identity(hero):
         print(f"ERROR: The hero {hero}'s gender could not be found, please make sure they're in the get_hero_gender_identity function (Yes I know this sounds weird, it's used for language translations that are affected by gender)")
         exit()
 
-def get_set_unique_id(set_id, language, language_set_array, set_unique_id_cache):
-    if set_id in set_unique_id_cache:
-        return set_unique_id_cache[set_id]
+def get_set_edition_unique_id(set_id, edition, language, language_set_array, set_edition_unique_id_cache):
+    if (set_id, edition) in set_edition_unique_id_cache:
+        return set_edition_unique_id_cache[(set_id, edition)]
 
     for set in language_set_array:
-        if set['id'] == set_id:
-            unique_id = set['unique_id']
-            set_unique_id_cache[set_id] = unique_id
-            return unique_id
+        for set_edition in set['editions']:
+            if set['id'] == set_id and set_edition['edition'] == edition:
+                unique_id = set_edition['unique_id']
+                set_edition_unique_id_cache[(set_id, edition)] = unique_id
+                return unique_id
 
-    print(f"Could not find the set with id {set_id} in the {language} set.json")
+    print(f"Could not find the set with id {set_id} and edition {edition} in the {language} set.json")
     exit()
 
 def treat_blank_string_as_boolean(field, default_value=True):

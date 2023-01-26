@@ -7,7 +7,7 @@ def create_table(cur):
         CREATE TABLE card_printings (
             unique_id VARCHAR(21) NOT NULL,
             card_unique_id VARCHAR(21) NOT NULL,
-            set_unique_id VARCHAR(21) NOT NULL,
+            set_edition_unique_id VARCHAR(21) NOT NULL,
             card_id VARCHAR(15) NOT NULL COLLATE numeric,
             set_id VARCHAR(15) NOT NULL COLLATE numeric,
             edition VARCHAR(15) NOT NULL,
@@ -17,6 +17,7 @@ def create_table(cur):
             art_variation VARCHAR(15) NOT NULL,
             image_url VARCHAR(1000) NOT NULL,
             FOREIGN KEY (card_unique_id) REFERENCES cards (unique_id),
+            FOREIGN KEY (set_edition_unique_id) REFERENCES set_editions (unique_id),
             PRIMARY KEY (unique_id),
             UNIQUE (unique_id, card_id, edition, art_variation)
         )
@@ -45,10 +46,10 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, unique_id, card_unique_id, card_id, set_id, edition, foilings, rarity, artist, art_variation, image_url):
-    sql = """INSERT INTO card_printings(unique_id, card_unique_id, card_id, set_id, edition, foilings, rarity, artist, art_variation, image_url)
-            VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"""
-    data = (unique_id, card_unique_id, card_id, set_id, edition, foilings, rarity, artist, art_variation, image_url)
+def insert(cur, unique_id, card_unique_id, set_edition_unique_id, card_id, set_id, edition, foilings, rarity, artist, art_variation, image_url):
+    sql = """INSERT INTO card_printings(unique_id, card_unique_id, set_edition_unique_id, card_id, set_id, edition, foilings, rarity, artist, art_variation, image_url)
+            VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"""
+    data = (unique_id, card_unique_id, set_edition_unique_id, card_id, set_id, edition, foilings, rarity, artist, art_variation, image_url)
 
     try:
         print("Inserting {0} - {1} - {2} printing for card {3} ({4})...".format(
@@ -90,6 +91,7 @@ def generate_table_data(cur, url_for_images = None):
 
             for printing in card['printings']:
                 unique_id = printing['unique_id']
+                set_edition_unique_id = printing['set_edition_unique_id']
                 card_id = printing['id']
                 set_id = printing['set_id']
                 edition = printing['edition']
@@ -108,6 +110,6 @@ def generate_table_data(cur, url_for_images = None):
                 if image_url is None:
                     image_url = ""
 
-                insert(cur, unique_id, card_unique_id, card_id, set_id, edition, foilings, rarity, artist, art_variation, image_url)
+                insert(cur, unique_id, card_unique_id, set_edition_unique_id, card_id, set_id, edition, foilings, rarity, artist, art_variation, image_url)
 
         print("\nSuccessfully filled card_printings table\n")

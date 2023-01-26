@@ -20,7 +20,7 @@ def generate_json_file(language):
                 card_variation = json.loads(json.dumps(card_object))
 
                 card_variation['variation_unique_id'] = printing['unique_id']
-                card_variation['set_unique_id'] = printing['set_unique_id']
+                card_variation['set_edition_unique_id'] = printing['set_edition_unique_id']
                 card_variation['id'] = printing['id']
                 card_variation['set_id'] = printing['set_id']
                 card_variation['edition'] = printing['edition']
