@@ -310,5 +310,16 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue with the missing Angel type - bugfix credit: dcollinsn
 
 01-24-23:
-- Updated CC Suspended status for AMulet of Ice and Hypothermia
+- Updated CC Suspended status for Amulet of Ice and Hypothermia
 - Updated CC Banned status for Belittle and Winter's Wail
+
+01-30-23:
+- Fixed an issue with the functional text of Bloodspill Invocation, Rapid Fire, and Blood on Her Hands - bugfix credit: dcollinsn
+- Fixed an issue with the abilities text of Zephyr Needle - bugfix credit: dcollinsn
+- Fixed an issue with extra columns added to Arknight Shard - bugfix credit: dcollinsn
+- Added generate-json, run-all-generators, and generate-csv-htmls scripts
+- Fixed a unicode issue in Runechant's variations and image_urls columns
+- Fixed a formatting issue in the card ids of Romping Club, Surging Strike, and Embodiment of Lightning
+- Fixed an issue with double inputted art variations for RNR024-RNR026
+- Fixed an issue with missing art variation info for the EA versions of EVR107-EVR109
+- Cleaned up and updated READMEs

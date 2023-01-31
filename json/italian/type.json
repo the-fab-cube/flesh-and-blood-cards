@@ -1,0 +1,162 @@
+[
+    {
+        "unique_id": "FwdBrBrwHWcPN78TcRCMT",
+        "name": "Azione"
+    },
+    {
+        "unique_id": "Wd89Lr6DnQJqzrhQW9TRj",
+        "name": "Braccia"
+    },
+    {
+        "unique_id": "6MTGJdkzNnb8hqcWQTLgC",
+        "name": "Freccia"
+    },
+    {
+        "unique_id": "qHmjDmN7LDCHJGjKjdMCM",
+        "name": "Attacco"
+    },
+    {
+        "unique_id": "mDMr9FKqzmfJdCwNkjRbw",
+        "name": "Reazione d'attacco"
+    },
+    {
+        "unique_id": "7tJLNpqPWnPgzqhMpdjwz",
+        "name": "Aura"
+    },
+    {
+        "unique_id": "6jDWMLHn6jQgr9hKBDT8F",
+        "name": "Arco"
+    },
+    {
+        "unique_id": "7HG9GDqGdrtdnTPDgLjRL",
+        "name": "Bruto"
+    },
+    {
+        "unique_id": "Bp7wdKfgzKBz88hPDPGm6",
+        "name": "Torace"
+    },
+    {
+        "unique_id": "jTMPmqBz8fWwJdP6W7qff",
+        "name": "Artiglio"
+    },
+    {
+        "unique_id": "NnTDtPCgbNq7GgprgwC7r",
+        "name": "Bastone"
+    },
+    {
+        "unique_id": "RPdWRCcPnQ8K7nDwngnmd",
+        "name": "Pugnale"
+    },
+    {
+        "unique_id": "Fpr7Gq7zcGDkdcHjNPr8n",
+        "name": "Reazione difensiva"
+    },
+    {
+        "unique_id": "NGBgjq76Q7GHNH9P9nHgM",
+        "name": "Equipaggiamento"
+    },
+    {
+        "unique_id": "zCCRjbKknh6F9tntDRdLQ",
+        "name": "Gemma"
+    },
+    {
+        "unique_id": "8HG6FhngNkB8rBT6FTfjw",
+        "name": "Generica"
+    },
+    {
+        "unique_id": "9KRj8FQtKGtLCngNCGMdr",
+        "name": "Guardiano"
+    },
+    {
+        "unique_id": "pGRgW7zBRLQLC9hT9hwBB",
+        "name": "Pistola"
+    },
+    {
+        "unique_id": "HmrBcLmRWhht6dfKC6dNP",
+        "name": "Martello"
+    },
+    {
+        "unique_id": "7hNgDbPfcWLKzdMkpcfKn",
+        "name": "Testa"
+    },
+    {
+        "unique_id": "b8G7cnjcNcGLktWj8WLDb",
+        "name": "Eroe"
+    },
+    {
+        "unique_id": "RGQzKRLNwRbLFK67DpdhH",
+        "name": "Istantanea"
+    },
+    {
+        "unique_id": "PbrQDwRQtwNg7KbHKCTQN",
+        "name": "Oggetto"
+    },
+    {
+        "unique_id": "PPC6QtBhhmGJBCnjfbjBg",
+        "name": "Gambe"
+    },
+    {
+        "unique_id": "Bppz9JbPnKhzjMKtNKPDF",
+        "name": "Meccanologo"
+    },
+    {
+        "unique_id": "J8QjfW6zKK89wPpprJncb",
+        "name": "Mercante"
+    },
+    {
+        "unique_id": "GC7qTwCNRhnM89fNqHGRf",
+        "name": "Ninja"
+    },
+    {
+        "unique_id": "CK6bh8fzPQnFnn7qMNnhq",
+        "name": "Pistola"
+    },
+    {
+        "unique_id": "6JtD7ktRzGL7k9d7W7fbM",
+        "name": "Ranger"
+    },
+    {
+        "unique_id": "zR7c8LwRqgJF6NgmrqHhN",
+        "name": "Risorsa"
+    },
+    {
+        "unique_id": "bNCJdHthWMNkHGJ8Rc6kP",
+        "name": "Lama Runica"
+    },
+    {
+        "unique_id": "kK6NKKTFHQnmBJFFpFGgT",
+        "name": "Bastone"
+    },
+    {
+        "unique_id": "j8rMtdHFnFhGrcgC8CdnN",
+        "name": "Spada"
+    },
+    {
+        "unique_id": "KwNFJtj8Ft7TgmKqPkP9b",
+        "name": "Pedina"
+    },
+    {
+        "unique_id": "KQTDHtfnk7r6BGJwNb7Rh",
+        "name": "Guerriero"
+    },
+    {
+        "unique_id": "GLtLrRtKJ8HzhBqW8KjJR",
+        "name": "Arma"
+    },
+    {
+        "unique_id": "q9GWTdPwD8QQFtwtRTPTj",
+        "name": "Mago"
+    },
+    {
+        "unique_id": "QPtmrBGhLFbnpFMQznnwH",
+        "name": "Giovane"
+    },
+    {
+        "unique_id": "rTHPJJPwtDCgDfcwPGQGF",
+        "name": "1H"
+    },
+    {
+        "unique_id": "Gww6n8bCkqKpnFDpGRLcP",
+        "name": "2H"
+    }
+]

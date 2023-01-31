@@ -1,0 +1,162 @@
+[
+    {
+        "unique_id": "FwdBrBrwHWcPN78TcRCMT",
+        "name": "Action"
+    },
+    {
+        "unique_id": "Wd89Lr6DnQJqzrhQW9TRj",
+        "name": "Arms"
+    },
+    {
+        "unique_id": "6MTGJdkzNnb8hqcWQTLgC",
+        "name": "Flèche"
+    },
+    {
+        "unique_id": "qHmjDmN7LDCHJGjKjdMCM",
+        "name": "Attaque"
+    },
+    {
+        "unique_id": "mDMr9FKqzmfJdCwNkjRbw",
+        "name": "Réaction d’Attaque"
+    },
+    {
+        "unique_id": "7tJLNpqPWnPgzqhMpdjwz",
+        "name": "Aura"
+    },
+    {
+        "unique_id": "6jDWMLHn6jQgr9hKBDT8F",
+        "name": "Arc"
+    },
+    {
+        "unique_id": "7HG9GDqGdrtdnTPDgLjRL",
+        "name": "Brute"
+    },
+    {
+        "unique_id": "Bp7wdKfgzKBz88hPDPGm6",
+        "name": "Bras"
+    },
+    {
+        "unique_id": "jTMPmqBz8fWwJdP6W7qff",
+        "name": "Griffe"
+    },
+    {
+        "unique_id": "NnTDtPCgbNq7GgprgwC7r",
+        "name": "Gourdin"
+    },
+    {
+        "unique_id": "RPdWRCcPnQ8K7nDwngnmd",
+        "name": "Dague"
+    },
+    {
+        "unique_id": "Fpr7Gq7zcGDkdcHjNPr8n",
+        "name": "Réaction de Défense"
+    },
+    {
+        "unique_id": "NGBgjq76Q7GHNH9P9nHgM",
+        "name": "Équipement"
+    },
+    {
+        "unique_id": "zCCRjbKknh6F9tntDRdLQ",
+        "name": "Pierre précieuse"
+    },
+    {
+        "unique_id": "8HG6FhngNkB8rBT6FTfjw",
+        "name": "Générique"
+    },
+    {
+        "unique_id": "9KRj8FQtKGtLCngNCGMdr",
+        "name": "Gardien"
+    },
+    {
+        "unique_id": "pGRgW7zBRLQLC9hT9hwBB",
+        "name": "Revolver"
+    },
+    {
+        "unique_id": "HmrBcLmRWhht6dfKC6dNP",
+        "name": "Marteau"
+    },
+    {
+        "unique_id": "7hNgDbPfcWLKzdMkpcfKn",
+        "name": "Tête"
+    },
+    {
+        "unique_id": "b8G7cnjcNcGLktWj8WLDb",
+        "name": "Héros"
+    },
+    {
+        "unique_id": "RGQzKRLNwRbLFK67DpdhH",
+        "name": "Instantané"
+    },
+    {
+        "unique_id": "PbrQDwRQtwNg7KbHKCTQN",
+        "name": "Objet"
+    },
+    {
+        "unique_id": "PPC6QtBhhmGJBCnjfbjBg",
+        "name": "Jambes"
+    },
+    {
+        "unique_id": "Bppz9JbPnKhzjMKtNKPDF",
+        "name": "Mécanologue"
+    },
+    {
+        "unique_id": "J8QjfW6zKK89wPpprJncb",
+        "name": "Marchand"
+    },
+    {
+        "unique_id": "GC7qTwCNRhnM89fNqHGRf",
+        "name": "Ninja"
+    },
+    {
+        "unique_id": "CK6bh8fzPQnFnn7qMNnhq",
+        "name": "Pistolet"
+    },
+    {
+        "unique_id": "6JtD7ktRzGL7k9d7W7fbM",
+        "name": "Coureur"
+    },
+    {
+        "unique_id": "zR7c8LwRqgJF6NgmrqHhN",
+        "name": "Ressource"
+    },
+    {
+        "unique_id": "bNCJdHthWMNkHGJ8Rc6kP",
+        "name": "Lamederune"
+    },
+    {
+        "unique_id": "kK6NKKTFHQnmBJFFpFGgT",
+        "name": "Bâton"
+    },
+    {
+        "unique_id": "j8rMtdHFnFhGrcgC8CdnN",
+        "name": "Épée"
+    },
+    {
+        "unique_id": "KwNFJtj8Ft7TgmKqPkP9b",
+        "name": "Jeton"
+    },
+    {
+        "unique_id": "KQTDHtfnk7r6BGJwNb7Rh",
+        "name": "Guerrier"
+    },
+    {
+        "unique_id": "GLtLrRtKJ8HzhBqW8KjJR",
+        "name": "Arme"
+    },
+    {
+        "unique_id": "q9GWTdPwD8QQFtwtRTPTj",
+        "name": "Sorcier"
+    },
+    {
+        "unique_id": "QPtmrBGhLFbnpFMQznnwH",
+        "name": "Jeune"
+    },
+    {
+        "unique_id": "rTHPJJPwtDCgDfcwPGQGF",
+        "name": "1H"
+    },
+    {
+        "unique_id": "Gww6n8bCkqKpnFDpGRLcP",
+        "name": "2H"
+    }
+]

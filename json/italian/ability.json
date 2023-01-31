@@ -1,0 +1,30 @@
+[
+    {
+        "unique_id": "HCCWPfFrNzCwPDntPw6gH",
+        "name": "Azione"
+    },
+    {
+        "unique_id": "kQNwpnQqhC8RGPcpDKdJD",
+        "name": "Reazione d'attacco"
+    },
+    {
+        "unique_id": "GJdGNktHCbbzmHNkkNfDz",
+        "name": "Istantanea"
+    },
+    {
+        "unique_id": "7jJ7hBjrMQd6fcWcqTb6D",
+        "name": "Una volta per turno, Azione"
+    },
+    {
+        "unique_id": "9DbtWdGfndKG7CCDPmb9t",
+        "name": "Una volta per turno, Reazione d'attacco"
+    },
+    {
+        "unique_id": "7mcpJ8zrDHJWkf9r68bhH",
+        "name": "Una volta per turno, Effetto"
+    },
+    {
+        "unique_id": "t7KdJFMrpcTDBBnGWf6wK",
+        "name": "Una volta per turno, Istantanea"
+    }
+]

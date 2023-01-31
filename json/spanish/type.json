@@ -1,0 +1,162 @@
+[
+    {
+        "unique_id": "FwdBrBrwHWcPN78TcRCMT",
+        "name": "Acción"
+    },
+    {
+        "unique_id": "Wd89Lr6DnQJqzrhQW9TRj",
+        "name": "Brazos"
+    },
+    {
+        "unique_id": "6MTGJdkzNnb8hqcWQTLgC",
+        "name": "Flecha"
+    },
+    {
+        "unique_id": "qHmjDmN7LDCHJGjKjdMCM",
+        "name": "Ataque"
+    },
+    {
+        "unique_id": "mDMr9FKqzmfJdCwNkjRbw",
+        "name": "Reacción de ataque"
+    },
+    {
+        "unique_id": "7tJLNpqPWnPgzqhMpdjwz",
+        "name": "Aura"
+    },
+    {
+        "unique_id": "6jDWMLHn6jQgr9hKBDT8F",
+        "name": "Arco"
+    },
+    {
+        "unique_id": "7HG9GDqGdrtdnTPDgLjRL",
+        "name": "Bruto"
+    },
+    {
+        "unique_id": "Bp7wdKfgzKBz88hPDPGm6",
+        "name": "Pecho"
+    },
+    {
+        "unique_id": "jTMPmqBz8fWwJdP6W7qff",
+        "name": "Garra"
+    },
+    {
+        "unique_id": "NnTDtPCgbNq7GgprgwC7r",
+        "name": "Garrote"
+    },
+    {
+        "unique_id": "RPdWRCcPnQ8K7nDwngnmd",
+        "name": "Daga"
+    },
+    {
+        "unique_id": "Fpr7Gq7zcGDkdcHjNPr8n",
+        "name": "Reacción de defensa"
+    },
+    {
+        "unique_id": "NGBgjq76Q7GHNH9P9nHgM",
+        "name": "Equipo"
+    },
+    {
+        "unique_id": "zCCRjbKknh6F9tntDRdLQ",
+        "name": "Gema"
+    },
+    {
+        "unique_id": "8HG6FhngNkB8rBT6FTfjw",
+        "name": "Genérico"
+    },
+    {
+        "unique_id": "9KRj8FQtKGtLCngNCGMdr",
+        "name": "Guardián"
+    },
+    {
+        "unique_id": "pGRgW7zBRLQLC9hT9hwBB",
+        "name": "Arma de fuego"
+    },
+    {
+        "unique_id": "HmrBcLmRWhht6dfKC6dNP",
+        "name": "Martillo"
+    },
+    {
+        "unique_id": "7hNgDbPfcWLKzdMkpcfKn",
+        "name": "Cabeza"
+    },
+    {
+        "unique_id": "b8G7cnjcNcGLktWj8WLDb",
+        "name": "Héroe"
+    },
+    {
+        "unique_id": "RGQzKRLNwRbLFK67DpdhH",
+        "name": "Instantánea"
+    },
+    {
+        "unique_id": "PbrQDwRQtwNg7KbHKCTQN",
+        "name": "Artículo"
+    },
+    {
+        "unique_id": "PPC6QtBhhmGJBCnjfbjBg",
+        "name": "Piernas"
+    },
+    {
+        "unique_id": "Bppz9JbPnKhzjMKtNKPDF",
+        "name": "Mecanólogo"
+    },
+    {
+        "unique_id": "J8QjfW6zKK89wPpprJncb",
+        "name": "Comerciante"
+    },
+    {
+        "unique_id": "GC7qTwCNRhnM89fNqHGRf",
+        "name": "Ninja"
+    },
+    {
+        "unique_id": "CK6bh8fzPQnFnn7qMNnhq",
+        "name": "Pistola"
+    },
+    {
+        "unique_id": "6JtD7ktRzGL7k9d7W7fbM",
+        "name": "Vigilante"
+    },
+    {
+        "unique_id": "zR7c8LwRqgJF6NgmrqHhN",
+        "name": "Recurso"
+    },
+    {
+        "unique_id": "bNCJdHthWMNkHGJ8Rc6kP",
+        "name": "Filorruna"
+    },
+    {
+        "unique_id": "kK6NKKTFHQnmBJFFpFGgT",
+        "name": "Báculo"
+    },
+    {
+        "unique_id": "j8rMtdHFnFhGrcgC8CdnN",
+        "name": "Espada"
+    },
+    {
+        "unique_id": "KwNFJtj8Ft7TgmKqPkP9b",
+        "name": "Ficha"
+    },
+    {
+        "unique_id": "KQTDHtfnk7r6BGJwNb7Rh",
+        "name": "Guerrero"
+    },
+    {
+        "unique_id": "GLtLrRtKJ8HzhBqW8KjJR",
+        "name": "Arma"
+    },
+    {
+        "unique_id": "q9GWTdPwD8QQFtwtRTPTj",
+        "name": "Hechicero"
+    },
+    {
+        "unique_id": "QPtmrBGhLFbnpFMQznnwH",
+        "name": "Joven"
+    },
+    {
+        "unique_id": "rTHPJJPwtDCgDfcwPGQGF",
+        "name": "1H"
+    },
+    {
+        "unique_id": "Gww6n8bCkqKpnFDpGRLcP",
+        "name": "2H"
+    }
+]
