@@ -314,6 +314,14 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated CC Banned status for Belittle and Winter's Wail
 
 01-30-23:
+- Added JSON data as the primary data format of the data set
+- Added JSON schema data
+- Added ability to support multiple languages in the data set
+- Refactored the file structure of the data set
+- Updated helper scripts to use JSON data when possible
+- Updated GitHub pages site to display JSON/JSON schema and all CSVs
+- Added generate-json, run-all-generators, and generate-csv-htmls scripts
+- Cleaned up and updated READMEs and documentation
 - Fixed an issue with the functional text of Bloodspill Invocation, Rapid Fire, and Blood on Her Hands - bugfix credit: dcollinsn
 - Fixed an issue with the abilities text of Zephyr Needle - bugfix credit: dcollinsn
 - Fixed an issue with extra columns added to Arknight Shard - bugfix credit: dcollinsn
@@ -322,4 +330,3 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed a formatting issue in the card ids of Romping Club, Surging Strike, and Embodiment of Lightning
 - Fixed an issue with double inputted art variations for RNR024-RNR026
 - Fixed an issue with missing art variation info for the EA versions of EVR107-EVR109
-- Cleaned up and updated READMEs
