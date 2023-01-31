@@ -19,7 +19,7 @@
 01-13-22:
 - Fixed a space missing in the image url split regex
 
-PENDING:
+01-30-23:
 - Changed the script to pull from the JSON files instead of CSVs
 - Changed the script to pull from all language data
 - Updated comments

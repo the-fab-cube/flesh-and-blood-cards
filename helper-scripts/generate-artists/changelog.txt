@@ -4,6 +4,6 @@
 11-04-22:
 - Fixed up script
 
-PENDING:
+01-30-23:
 - Change the script to pull from the JSON files instead of CSVs
 - Update comments
