@@ -317,6 +317,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added JSON data as the primary data format of the data set
 - Added JSON schema data
 - Added ability to support multiple languages in the data set
+- Added unique_ids to various data structures that are consistent across the data set
 - Refactored the file structure of the data set
 - Updated helper scripts to use JSON data when possible
 - Updated GitHub pages site to display JSON/JSON schema and all CSVs
