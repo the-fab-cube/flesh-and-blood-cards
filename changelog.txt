@@ -313,6 +313,11 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated CC Suspended status for Amulet of Ice and Hypothermia
 - Updated CC Banned status for Belittle and Winter's Wail
 
+01-30-23:
+- Fixed an issue with the functional text of Bloodspill Invocation, Rapid Fire, and Blood on Her Hands - bugfix credit: dcollinsn
+- Fixed an issue with the abilities text of Zephyr Needle - bugfix credit: dcollinsn
+- Fixed an issue with extra columns added to Arknight Shard - bugfix credit: dcollinsn
+
 
 PENDING:
 - Added generate-json, run-all-generators, and generate-csv-htmls scripts
