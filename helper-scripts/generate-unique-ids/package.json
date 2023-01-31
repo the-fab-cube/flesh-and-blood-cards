@@ -1,0 +1,17 @@
+{
+  "name": "generate-unique-ids",
+  "version": "1.0.0",
+  "description": "Add unique ids to any lines on english/card.csv that need it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.2.0",
+    "nanoid": "^3.3.4",
+    "nanoid-dictionary": "^4.3.0"
+  }
+}

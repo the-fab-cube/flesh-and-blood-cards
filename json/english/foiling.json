@@ -1,0 +1,18 @@
+[
+    {
+        "id": "S",
+        "name": "Standard"
+    },
+    {
+        "id": "R",
+        "name": "Rainbow Foil"
+    },
+    {
+        "id": "C",
+        "name": "Cold Foil"
+    },
+    {
+        "id": "G",
+        "name": "Gold Cold Foil"
+    }
+]

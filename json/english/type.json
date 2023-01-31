@@ -1,0 +1,298 @@
+[
+    {
+        "unique_id": "FwdBrBrwHWcPN78TcRCMT",
+        "name": "Action"
+    },
+    {
+        "unique_id": "CrdDGWjRqJd7MJqjHtbWc",
+        "name": "Adjudicator"
+    },
+    {
+        "unique_id": "RMrgQ7bnBFcJnrWk6NKnw",
+        "name": "Affliction"
+    },
+    {
+        "unique_id": "jb97wGkbpTwGMCtQTCjpT",
+        "name": "Ally"
+    },
+    {
+        "unique_id": "HgGMr7rWdzLRhckPzQWgW",
+        "name": "Angel"
+    },
+    {
+        "unique_id": "Wd89Lr6DnQJqzrhQW9TRj",
+        "name": "Arms"
+    },
+    {
+        "unique_id": "6MTGJdkzNnb8hqcWQTLgC",
+        "name": "Arrow"
+    },
+    {
+        "unique_id": "NmdcQHj7TwLTbNDBKmtdj",
+        "name": "Ash"
+    },
+    {
+        "unique_id": "CFJGmDDqtQCr6MRG88LbC",
+        "name": "Assassin"
+    },
+    {
+        "unique_id": "qHmjDmN7LDCHJGjKjdMCM",
+        "name": "Attack"
+    },
+    {
+        "unique_id": "mDMr9FKqzmfJdCwNkjRbw",
+        "name": "Attack Reaction"
+    },
+    {
+        "unique_id": "7tJLNpqPWnPgzqhMpdjwz",
+        "name": "Aura"
+    },
+    {
+        "unique_id": "dJ9Tp8bJWQQc8ndKWP8DK",
+        "name": "Axe"
+    },
+    {
+        "unique_id": "zBF7kRDNmDzWMqQkMqgJw",
+        "name": "Bard"
+    },
+    {
+        "unique_id": "KNJrMrb9HkWffrRC9tK98",
+        "name": "Book"
+    },
+    {
+        "unique_id": "6jDWMLHn6jQgr9hKBDT8F",
+        "name": "Bow"
+    },
+    {
+        "unique_id": "7HG9GDqGdrtdnTPDgLjRL",
+        "name": "Brute"
+    },
+    {
+        "unique_id": "Bp7wdKfgzKBz88hPDPGm6",
+        "name": "Chest"
+    },
+    {
+        "unique_id": "jTMPmqBz8fWwJdP6W7qff",
+        "name": "Claw"
+    },
+    {
+        "unique_id": "NnTDtPCgbNq7GgprgwC7r",
+        "name": "Club"
+    },
+    {
+        "unique_id": "HrgTfm7hGrDQ8bLcTpjB9",
+        "name": "Construct"
+    },
+    {
+        "unique_id": "RPdWRCcPnQ8K7nDwngnmd",
+        "name": "Dagger"
+    },
+    {
+        "unique_id": "Fpr7Gq7zcGDkdcHjNPr8n",
+        "name": "Defense Reaction"
+    },
+    {
+        "unique_id": "kchhNfctqPFht6DFNRWhJ",
+        "name": "Demon"
+    },
+    {
+        "unique_id": "dGBzCkJ7FWTFbWmjGbQjT",
+        "name": "Draconic"
+    },
+    {
+        "unique_id": "CtWWmwrGBjQWT7B9HtRq9",
+        "name": "Dragon"
+    },
+    {
+        "unique_id": "pKLrMNbbrhNwqhBHkbTGC",
+        "name": "Earth"
+    },
+    {
+        "unique_id": "QKcmJKbLdCtWkFPrD8nrq",
+        "name": "Elemental"
+    },
+    {
+        "unique_id": "NGBgjq76Q7GHNH9P9nHgM",
+        "name": "Equipment"
+    },
+    {
+        "unique_id": "CGT9kkqBNBgHJtTgWwqLn",
+        "name": "Flail"
+    },
+    {
+        "unique_id": "zCCRjbKknh6F9tntDRdLQ",
+        "name": "Gem"
+    },
+    {
+        "unique_id": "8HG6FhngNkB8rBT6FTfjw",
+        "name": "Generic"
+    },
+    {
+        "unique_id": "9KRj8FQtKGtLCngNCGMdr",
+        "name": "Guardian"
+    },
+    {
+        "unique_id": "pGRgW7zBRLQLC9hT9hwBB",
+        "name": "Gun"
+    },
+    {
+        "unique_id": "HmrBcLmRWhht6dfKC6dNP",
+        "name": "Hammer"
+    },
+    {
+        "unique_id": "7hNgDbPfcWLKzdMkpcfKn",
+        "name": "Head"
+    },
+    {
+        "unique_id": "b8G7cnjcNcGLktWj8WLDb",
+        "name": "Hero"
+    },
+    {
+        "unique_id": "8Jt7j6JwCjjLMtr8jDQtD",
+        "name": "Ice"
+    },
+    {
+        "unique_id": "9dqjFMpC6zTg6cPCzkRn9",
+        "name": "Illusionist"
+    },
+    {
+        "unique_id": "RGQzKRLNwRbLFK67DpdhH",
+        "name": "Instant"
+    },
+    {
+        "unique_id": "N6jK6rQp8WjRRctf8pFtH",
+        "name": "Invocation"
+    },
+    {
+        "unique_id": "PbrQDwRQtwNg7KbHKCTQN",
+        "name": "Item"
+    },
+    {
+        "unique_id": "NzWNjQJp8N7TDMtmfGgPR",
+        "name": "Landmark"
+    },
+    {
+        "unique_id": "PPC6QtBhhmGJBCnjfbjBg",
+        "name": "Legs"
+    },
+    {
+        "unique_id": "KFmTFHkDbF6QGrh6PjLfC",
+        "name": "Light"
+    },
+    {
+        "unique_id": "KrCgRB9kHnrpFDBDrqT8B",
+        "name": "Lightning"
+    },
+    {
+        "unique_id": "JGjBnHQ7JzFMGdPnRFwRd",
+        "name": "Lute"
+    },
+    {
+        "unique_id": "Bppz9JbPnKhzjMKtNKPDF",
+        "name": "Mechanologist"
+    },
+    {
+        "unique_id": "bwTjFPPD6BPQRmzGTMQC8",
+        "name": "Mentor"
+    },
+    {
+        "unique_id": "J8QjfW6zKK89wPpprJncb",
+        "name": "Merchant"
+    },
+    {
+        "unique_id": "GC7qTwCNRhnM89fNqHGRf",
+        "name": "Ninja"
+    },
+    {
+        "unique_id": "fW8KBrG7WdKWRqgQLjpBK",
+        "name": "Off-Hand"
+    },
+    {
+        "unique_id": "dqzwT8hJbqChq7btnP7R8",
+        "name": "Orb"
+    },
+    {
+        "unique_id": "CK6bh8fzPQnFnn7qMNnhq",
+        "name": "Pistol"
+    },
+    {
+        "unique_id": "dpKFPnnBFdfh6gcGGcj99",
+        "name": "Placeholder Card"
+    },
+    {
+        "unique_id": "6JtD7ktRzGL7k9d7W7fbM",
+        "name": "Ranger"
+    },
+    {
+        "unique_id": "zR7c8LwRqgJF6NgmrqHhN",
+        "name": "Resource"
+    },
+    {
+        "unique_id": "LgFRWWjCpQ8Bk9BznncWt",
+        "name": "Rock"
+    },
+    {
+        "unique_id": "RCTkdzmcK8rfB7wRqtCgT",
+        "name": "Royal"
+    },
+    {
+        "unique_id": "bNCJdHthWMNkHGJ8Rc6kP",
+        "name": "Runeblade"
+    },
+    {
+        "unique_id": "DTkFqTdJDpGpnmhMCwnnC",
+        "name": "Scepter"
+    },
+    {
+        "unique_id": "MMRzw7RhQmHQpbN9MPHTD",
+        "name": "Scythe"
+    },
+    {
+        "unique_id": "9kqztjtRn6RkBCHcf9hpJ",
+        "name": "Shadow"
+    },
+    {
+        "unique_id": "zkcmP7DQJMrr6Dgg8GBRJ",
+        "name": "Shapeshifter"
+    },
+    {
+        "unique_id": "kK6NKKTFHQnmBJFFpFGgT",
+        "name": "Staff"
+    },
+    {
+        "unique_id": "j8rMtdHFnFhGrcgC8CdnN",
+        "name": "Sword"
+    },
+    {
+        "unique_id": "KwNFJtj8Ft7TgmKqPkP9b",
+        "name": "Token"
+    },
+    {
+        "unique_id": "tTjm9CpwRnRdFHzWTG8MW",
+        "name": "Trap"
+    },
+    {
+        "unique_id": "KQTDHtfnk7r6BGJwNb7Rh",
+        "name": "Warrior"
+    },
+    {
+        "unique_id": "GLtLrRtKJ8HzhBqW8KjJR",
+        "name": "Weapon"
+    },
+    {
+        "unique_id": "q9GWTdPwD8QQFtwtRTPTj",
+        "name": "Wizard"
+    },
+    {
+        "unique_id": "QPtmrBGhLFbnpFMQznnwH",
+        "name": "Young"
+    },
+    {
+        "unique_id": "rTHPJJPwtDCgDfcwPGQGF",
+        "name": "1H"
+    },
+    {
+        "unique_id": "Gww6n8bCkqKpnFDpGRLcP",
+        "name": "2H"
+    }
+]

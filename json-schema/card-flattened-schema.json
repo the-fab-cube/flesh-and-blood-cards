@@ -1,0 +1,285 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "description": "A flattened array of all of the existing cards in Flesh and Blood, with with each item being a unique card printing.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "name": {
+                "description": "The name of the card.",
+                "type": "string"
+            },
+            "pitch": {
+                "description": "The pitch value of the card. Can be a number or blank.",
+                "type": "string"
+            },
+            "cost": {
+                "description": "The cost of the card. Can be a number, X, XX, X and a number, or blank.",
+                "type": "string"
+            },
+            "power": {
+                "description": "The power of the card. Can be a number, *, X, or blank.",
+                "type": "string"
+            },
+            "defense": {
+                "description": "The defense of the card. Can be a number, *, or blank.",
+                "type": "string"
+            },
+            "health": {
+                "description": "The health of the card. Can be a number or blank.",
+                "type": "string"
+            },
+            "intelligence": {
+                "description": "The intelligence of the card. Can be a number or blank.",
+                "type": "string"
+            },
+            "types": {
+                "description": "The types of the card (includes all types, subtypes, etc).",
+                "type": "array",
+                "items": {
+                    "description": "An individual type.",
+                    "type": "string"
+                }
+            },
+            "card_keywords": {
+                "description": "The keywords inherent to the card. Includes conditional keywords, but does not include keywords that are part of the card's activated and triggered abilities.",
+                "type": "array",
+                "items": {
+                    "description": "An individual keyword.",
+                    "type": "string"
+                }
+            },
+            "abilities_and_effects": {
+                "description": "The activated abilities and once per turn effects of the cards. Just contains what type of ability it is, not the ability itself. (Ex: Once per Turn Action)",
+                "type": "array",
+                "items": {
+                    "description": "An individual ability.",
+                    "type": "string"
+                }
+            },
+            "ability_and_effect_keywords": {
+                "description": "The keywords that are part of the card's activated and triggered abilities.",
+                "type": "array",
+                "items": {
+                    "description": "An individual keyword.",
+                    "type": "string"
+                }
+            },
+            "granted_keywords": {
+                "description": "The keywords that the card grants to other objects.",
+                "type": "array",
+                "items": {
+                    "description": "An individual keyword.",
+                    "type": "string"
+                }
+            },
+            "functional_text": {
+                "description": "The functional text of the card, formatted in Markdown.",
+                "type": "string"
+            },
+            "functional_text_plain": {
+                "description": "The functional text of the card, formatted in plain text.",
+                "type": "string"
+            },
+            "flavor_text": {
+                "description": "The flavor text of the card, formatted in Markdown.",
+                "type": "string"
+            },
+            "flavor_text_plain": {
+                "description": "The flavor text of the card, formatted in plain text.",
+                "type": "string"
+            },
+            "type_text": {
+                "description": "The full type text box of the card.",
+                "type": "string"
+            },
+            "played_horizontally": {
+                "description": "A boolean representing if the card is played and displayed horizontally.",
+                "type": "boolean"
+            },
+            "blitz_legal": {
+                "description": "A boolean representing if the card is legal in Blitz (not including bans or suspensions).",
+                "type": "boolean"
+            },
+            "cc_legal": {
+                "description": "A boolean representing if the card is legal in Classic Constructed (not including bans or suspensions).",
+                "type": "boolean"
+            },
+            "commoner_legal": {
+                "description": "A boolean representing if the card is legal in Commoner (not including bans or suspensions).",
+                "type": "boolean"
+            },
+            "blitz_living_legend": {
+                "description": "A boolean representing if the card is Living Legend in Blitz.",
+                "type": ["boolean"]
+            },
+            "blitz_living_legend_start": {
+                "description": "The date the card became Living Legend in Blitz (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "cc_living_legend": {
+                "description": "A boolean representing if the card is Living Legend in Classic Constructed.",
+                "type": ["boolean"]
+            },
+            "cc_living_legend_start": {
+                "description": "The date the card became Living Legend in Classic Constructed (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "blitz_banned": {
+                "description": "A boolean representing if the card is currently banned in Blitz.",
+                "type": ["boolean"]
+            },
+            "blitz_banned_start": {
+                "description": "The date the card became banned in Blitz (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "cc_banned": {
+                "description": "A boolean representing if the card is currently banned in Classic Constructed.",
+                "type": ["boolean"]
+            },
+            "cc_banned_start": {
+                "description": "The date the card became banned in Classic Constructed (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "commoner_banned": {
+                "description": "A boolean representing if the card is currently banned in Commoner.",
+                "type": ["boolean"]
+            },
+            "commoner_banned_start": {
+                "description": "The date the card became banned in Commoner (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "upf_banned": {
+                "description": "A boolean representing if the card is currently banned in Ultimate Pit Fight.",
+                "type": ["boolean"]
+            },
+            "upf_banned_start": {
+                "description": "The date the card became banned in Ultimate Pit Fight (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "blitz_suspended": {
+                "description": "A boolean representing if the card is currently banned in Blitz.",
+                "type": ["boolean"]
+            },
+            "blitz_suspended_start": {
+                "description": "The date the card became suspended in Blitz (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "blitz_suspended_end": {
+                "description": "Represents when the card is set to be unsuspended in Blitz. Contains a displayable text describing when it will be unsuspended if it is currently suspended (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "cc_suspended": {
+                "description": "A boolean representing if the card is currently banned in Classic Constructed.",
+                "type": ["boolean"]
+            },
+            "cc_suspended_start": {
+                "description": "The date the card became suspended in Classic Constructed (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "cc_suspended_end": {
+                "description": "Represents when the card is set to be unsuspended in Classic Constructed. Contains a displayable text describing when it will be unsuspended if it is currently suspended (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "commoner_suspended": {
+                "description": "A boolean representing if the card is currently banned in Commoner.",
+                "type": ["boolean"]
+            },
+            "commoner_suspended_start": {
+                "description": "The date the card became suspended in Commoner (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "commoner_suspended_end": {
+                "description": "Represents when the card is set to be unsuspended in Commoner. Contains a displayable text describing when it will be unsuspended if it is currently suspended (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "variation_unique_id": {
+                "description": "A UUID representing the printing within this data set.",
+                "type": "string"
+            },
+            "set_edition_unique_id": {
+                "description": "A UUID representing the set edition the printing belongs to within this data set.",
+                "type": "string"
+            },
+            "id": {
+                "description": "The ID of the card printing.",
+                "type": "string"
+            },
+            "set_id": {
+                "description": "The ID of the set the card is printed in.",
+                "type": "string"
+            },
+            "edition": {
+                "description": "The edition of the set the card is printed in.",
+                "type": "string"
+            },
+            "foilings": {
+                "description": "The foilings the card printing comes in.",
+                "type": "array",
+                "items": {
+                    "description": "A shortcode representing an individual foiling.",
+                    "type": "string"
+                }
+            },
+            "rarity": {
+                "description": "A shortcode representing the rarity the card printing was printed at.",
+                "type": "string"
+            },
+            "artist": {
+                "description": "The artist of the card printing.",
+                "type": "string"
+            },
+            "art_variation": {
+                "description": "A shortcode representing the special art treatment or variation the card was printed with, if any.",
+                "type": ["string", "null"]
+            },
+            "image_url": {
+                "description": "An official LSS image URL of the card printing, if it exists.",
+                "type": ["string", "null"]
+            }
+        },
+        "required": [
+            "unique_id",
+            "name",
+            "pitch",
+            "cost",
+            "power",
+            "defense",
+            "health",
+            "intelligence",
+            "types",
+            "card_keywords",
+            "abilities_and_effects",
+            "ability_and_effect_keywords",
+            "granted_keywords",
+            "functional_text",
+            "functional_text_plain",
+            "flavor_text",
+            "flavor_text_plain",
+            "type_text",
+            "played_horizontally",
+            "blitz_legal",
+            "cc_legal",
+            "commoner_legal",
+            "blitz_living_legend",
+            "cc_living_legend",
+            "blitz_banned",
+            "cc_banned",
+            "commoner_banned",
+            "upf_banned",
+            "blitz_suspended",
+            "cc_suspended",
+            "commoner_suspended",
+            "variation_unique_id",
+            "set_edition_unique_id",
+            "id",
+            "set_id",
+            "edition",
+            "foilings",
+            "rarity",
+            "artist",
+            "art_variation",
+            "image_url"
+        ]
+    }
+}

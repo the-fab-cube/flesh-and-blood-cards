@@ -306,5 +306,31 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added high res images for DYN092 (Nitro Mechanoid), LGS005, and LGS099
 - Added high res images for HER054-HER057 (the images at the links currently seem to be the 450-width images, but if/when that is changed the links should still be correct)
 
+01-23-23:
+- Fixed an issue with the missing Angel type - bugfix credit: dcollinsn
+
+01-24-23:
+- Updated CC Suspended status for Amulet of Ice and Hypothermia
+- Updated CC Banned status for Belittle and Winter's Wail
+
+01-30-23:
+- Added JSON data as the primary data format of the data set
+- Added JSON schema data
+- Added ability to support multiple languages in the data set
+- Added unique_ids to various data structures that are consistent across the data set
+- Refactored the file structure of the data set
+- Updated helper scripts to use JSON data when possible
+- Updated GitHub pages site to display JSON/JSON schema and all CSVs
+- Added generate-json, run-all-generators, and generate-csv-htmls scripts
+- Cleaned up and updated READMEs and documentation
+- Fixed an issue with the functional text of Bloodspill Invocation, Rapid Fire, and Blood on Her Hands - bugfix credit: dcollinsn
+- Fixed an issue with the abilities text of Zephyr Needle - bugfix credit: dcollinsn
+- Fixed an issue with extra columns added to Arknight Shard - bugfix credit: dcollinsn
+- Added generate-json, run-all-generators, and generate-csv-htmls scripts
+- Fixed a unicode issue in Runechant's variations and image_urls columns
+- Fixed a formatting issue in the card ids of Romping Club, Surging Strike, and Embodiment of Lightning
+- Fixed an issue with double inputted art variations for RNR024-RNR026
+- Fixed an issue with missing art variation info for the EA versions of EVR107-EVR109
+
 PENDING:
 - Added card data for OUT042, OUT160

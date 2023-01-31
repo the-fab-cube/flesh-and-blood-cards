@@ -1,0 +1,38 @@
+[
+    {
+        "id": "C",
+        "description": "Common"
+    },
+    {
+        "id": "R",
+        "description": "Rare"
+    },
+    {
+        "id": "S",
+        "description": "Super Rare"
+    },
+    {
+        "id": "M",
+        "description": "Majestic"
+    },
+    {
+        "id": "L",
+        "description": "Legendary"
+    },
+    {
+        "id": "F",
+        "description": "Fabled"
+    },
+    {
+        "id": "T",
+        "description": "Token"
+    },
+    {
+        "id": "V",
+        "description": "Marvel"
+    },
+    {
+        "id": "P",
+        "description": "Promo"
+    }
+]
