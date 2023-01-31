@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import csv
+import os
 import re
 
 
@@ -28,12 +29,12 @@ def clean_comma_separated(data):
     return ', '.join(fields)
 
 
-def clean_image_urls(data):
+def clean_hyphens_inside_commas(data):
     """
-    A cleaner for the "Image URLs" field in the card.csv file. This field is comma-separated, and
-    each item of that is then hyphen-separated. This function cleans up extra or missing whitespace
-    after the comma, and calls out to `clean_hyphen_separated` to deal with the dashes and
-    whitespace around them.
+    A cleaner for fields like the "Image URLs" field in the card.csv file. This field is
+    comma-separated, and each item of that is then hyphen-separated. This function cleans up extra
+    or missing whitespace after the comma, and calls out to `clean_hyphen_separated` to deal with
+    the dashes and whitespace around them.
     """
 
     # First, we split on the commas which separate the data for each printing of the card. They may
@@ -52,9 +53,20 @@ def clean_image_urls(data):
 
 
 CLEANERS = {
-    "Image URLs": clean_image_urls,
-    "Variations": clean_hyphen_separated,
-    "Identifier": clean_comma_separated,
+    "Identifiers": clean_comma_separated,
+    "Set Identifiers": clean_comma_separated,
+    "Rarities": clean_comma_separated,
+    "Types": clean_comma_separated,
+    "Card Keywords": clean_comma_separated,
+    "Abilities and Effects": clean_comma_separated,
+    "Ability and Effect Keywords": clean_comma_separated,
+    "Granted Keywords": clean_comma_separated,
+    "Artists": clean_comma_separated,
+    "Variations": clean_hyphens_inside_commas,
+    "Variation Unique IDs": clean_hyphens_inside_commas,
+    "Image URLs": clean_hyphens_inside_commas,
+    "Editions": clean_comma_separated,
+    "Edition Unique IDs": clean_hyphens_inside_commas,
 }
 
 def clean_fields(reader, fieldnames):
@@ -65,9 +77,13 @@ def clean_fields(reader, fieldnames):
 
     cleaned_data = []
     for row in reader:
-        for key, cleaner_callable in CLEANERS.items():
-            if key in row:
-                row[key] = cleaner_callable(row[key])
+        for key in row:
+            # Always normalize smart quotes
+            row[key] = row[key].replace('“','"').replace('”','"')
+            row[key] = row[key].replace('‘',"'").replace('’',"'")
+
+            if key in CLEANERS:
+                row[key] = CLEANERS[key](row[key])
         cleaned_data.append(row)
     return cleaned_data
 
@@ -89,4 +105,11 @@ def process_file(filename):
 
 
 # Add any additional files to be cleaned here.
-process_file('csvs/card.csv')
+csvs_path = 'csvs'
+for language_name in os.listdir(csvs_path):
+    language_path = os.path.join(csvs_path, language_name)
+    if os.path.isdir(language_path):
+        for file_name in os.listdir(language_path):
+            if file_name.endswith('.csv'):
+                file_path = os.path.join(language_path, file_name)
+                process_file(file_path)

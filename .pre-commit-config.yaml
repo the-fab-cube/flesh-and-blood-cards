@@ -3,13 +3,36 @@ repos:
     hooks:
     -   id: clean_csvs
         name: clean_csvs
-        entry: scripts/clean_csvs.py
+        entry: helper-scripts/clean_csvs.py
         language: script
-        types: [python]
         always_run: true
     -   id: validate_references
         name: validate_references
-        entry: scripts/validate_references.py
+        entry: helper-scripts/validate_references.py
         language: script
-        types: [python]
+        always_run: true
+    -   id: generate_artists
+        name: generate_artists
+        entry: helper-scripts/generate-artists.sh
+        language: script
+        always_run: true
+    -   id: generate_unique_ids
+        name: generate_unique_ids
+        entry: helper-scripts/generate-unique-ids.sh
+        language: script
+        always_run: true
+    -   id: generate_json
+        name: generate_json
+        entry: helper-scripts/generate-json.sh
+        language: script
+        always_run: true
+    -   id: validate_json
+        name: validate_json
+        entry: helper-scripts/validate-json.sh
+        language: script
+        always_run: true
+    -   id: generate_htmls
+        name: generate_htmls
+        entry: helper-scripts/generate-htmls.sh
+        language: script
         always_run: true

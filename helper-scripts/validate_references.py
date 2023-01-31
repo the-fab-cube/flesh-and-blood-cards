@@ -19,19 +19,19 @@ pre-commit to detect a failure.
 errors = False
 
 # Build a list of card types
-type_filename = 'csvs/type.csv'
+type_filename = 'csvs/english/type.csv'
 with open(type_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     allowed_types = [x['Name'] for x in reader]
 
 # Build a list of sets
-set_filename = 'csvs/set.csv'
+set_filename = 'csvs/english/set.csv'
 with open(set_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     allowed_sets = {x['Identifier']:x for x in reader}
 
 # Scan card.csv for errors
-card_filename = 'csvs/card.csv'
+card_filename = 'csvs/english/card.csv'
 with open(card_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     for row in reader:
