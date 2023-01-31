@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "description": "An array of all of the current types of foilings Flesh and Blood cards can come in.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "id": {
+                "description": "The foiling shortcode.",
+                "type": "string"
+            },
+            "name": {
+                "description": "The foiling name.",
+                "type": "string"
+            }
+        },
+        "required": [
+            "id",
+            "name"
+        ]
+    }
+}

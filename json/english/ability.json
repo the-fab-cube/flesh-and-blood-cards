@@ -1,0 +1,38 @@
+[
+    {
+        "unique_id": "HCCWPfFrNzCwPDntPw6gH",
+        "name": "Action"
+    },
+    {
+        "unique_id": "kQNwpnQqhC8RGPcpDKdJD",
+        "name": "Attack Reaction"
+    },
+    {
+        "unique_id": "GJdGNktHCbbzmHNkkNfDz",
+        "name": "Instant"
+    },
+    {
+        "unique_id": "7jJ7hBjrMQd6fcWcqTb6D",
+        "name": "Once Per Turn Action"
+    },
+    {
+        "unique_id": "9DbtWdGfndKG7CCDPmb9t",
+        "name": "Once Per Turn Attack Reaction"
+    },
+    {
+        "unique_id": "KzGJdT7tz9LfLhWfbnFwb",
+        "name": "Once Per Turn Defense Reaction"
+    },
+    {
+        "unique_id": "7mcpJ8zrDHJWkf9r68bhH",
+        "name": "Once Per Turn Effect"
+    },
+    {
+        "unique_id": "t7KdJFMrpcTDBBnGWf6wK",
+        "name": "Once per Turn Instant"
+    },
+    {
+        "unique_id": "cTkzhh6mR7NHCWnBRnbWW",
+        "name": "Twice per Turn Instant"
+    }
+]

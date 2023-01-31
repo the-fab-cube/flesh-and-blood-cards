@@ -1,0 +1,31 @@
+04-02-22:
+- Added numeric collation on relevent fields in the card table
+
+04-18-22:
+- Updated card table to include plaintext columns of functional_text and flavor_text to facilitate text searching
+
+04-27-22:
+- Updated set table to include collectors_center and card_galleries columns, rename product_sites to product_pages, and reorder columns
+- Ensured that nulls are converted to infinity values on timestamp values in the set table because some parsers (ex: C#'s Npgsql) break on null values in timestamp arrays
+
+04-28-22:
+- Updated set table to use all the new card legality columns
+
+05-15-22:
+- Updated to handle some more image urls
+
+06-06-22:
+- Updated to have the entire table update be wrapped in a transaction that can be rolled back
+
+06-24-22:
+- Updated to allow image folders, instead of replacing image folders with base URL
+
+08-03-22:
+- Updated to add new UPF Banned column
+- Cleaned up some code to make it easier to add new columns in the future
+
+10-18-22:
+- Updated README
+
+01-30-23:
+- Updated to import from JSON, and add new card_printings and set_editions tables
