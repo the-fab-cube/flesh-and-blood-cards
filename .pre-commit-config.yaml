@@ -1,38 +1,38 @@
 repos:
 -   repo: local
     hooks:
-    -   id: clean_csvs
-        name: clean_csvs
-        entry: helper-scripts/clean_csvs.py
+    -   id: clean-csvs
+        name: clean-csvs
+        entry: helper-scripts/clean-csvs.py
         language: script
         always_run: true
-    -   id: validate_references
-        name: validate_references
-        entry: helper-scripts/validate_references.py
+    -   id: validate-references
+        name: validate-references
+        entry: helper-scripts/validate-references.py
         language: script
         always_run: true
-    -   id: generate_artists
-        name: generate_artists
+    -   id: generate-artists
+        name: generate-artists
         entry: helper-scripts/generate-artists.sh
         language: script
         always_run: true
-    -   id: generate_unique_ids
-        name: generate_unique_ids
+    -   id: generate-unique-ids
+        name: generate-unique-ids
         entry: helper-scripts/generate-unique-ids.sh
         language: script
         always_run: true
-    -   id: generate_json
-        name: generate_json
+    -   id: generate-json
+        name: generate-json
         entry: helper-scripts/generate-json.sh
         language: script
         always_run: true
-    -   id: validate_json
-        name: validate_json
+    -   id: validate-json
+        name: validate-json
         entry: helper-scripts/validate-json.sh
         language: script
         always_run: true
-    -   id: generate_htmls
-        name: generate_htmls
+    -   id: generate-htmls
+        name: generate-htmls
         entry: helper-scripts/generate-htmls.sh
         language: script
         always_run: true
