@@ -4691,7 +4691,7 @@ chD7n8jHMM6brNhDGJtfG	DYN112	DYN	Hyper Driver	3	1					C	Mechanologist, Action, I
 
 Once per turn, when you **boost** a card, remove a steam counter from Hyper Driver and gain {r}."		Mechanologist Action – Item	Alexander Mokhov																	S R C – DYN112 – N	brRmgFhQFqp9mHzJtdHjD – DYN112 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN112.png – DYN112 – N
 CKtFCgnGdwMDBh7dzDqqz	DYN113	DYN	Arakni, Huntsman					40	4	M	Assassin, Hero					Whenever you play a card with **contract**, you may look at the top card of target opponent’s deck. You may put it on the bottom.		Assassin Hero	Isuardi Therianto				No													S R – DYN113 – N	rbMRhbhc9GRcmw6Gkhd67 – DYN113 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN113.png – DYN113 – N
-9F7RHWjLgCDRqwMww99GN	DYN114	DYN	Arakni					20	4	R	Assassin, Hero, Young					Whenever you play a card with **contract**, you may look at the top card of target opponent’s deck. You may put it on the bottom.		Assassin Hero – Young	Isuardi Therianto																	S R – DYN114 – N	bqWpM79CBDMMdThW7r78j – DYN114 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN114.png – DYN114 – N
+9F7RHWjLgCDRqwMww99GN	HER073, DYN114	HER, DYN	Arakni					20	4	P, R	Assassin, Hero, Young					Whenever you play a card with **contract**, you may look at the top card of target opponent’s deck. You may put it on the bottom.		Assassin Hero – Young	Isuardi Therianto																	C – HER073 – N, S R – DYN114 – N	7WrHDjT9KhdpmbW6WkkT8 – HER073 – N, bqWpM79CBDMMdThW7r78j – DYN114 – N	https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN114.png – DYN114 – N
 hDzHTgkgGfqFCn8mmR9M6	DYN115, DYN116	DYN, DYN	Spider’s Bite			1				R, R	Assassin, Weapon, Dagger, 1H	Piercing 1	Once per Turn Action	Attack, Go again		"**Once per Turn Action** – {r}{r}: **Attack**. **Go again**
 
 **Piercing 1** *(If this is defended by an equipment, it has +1{p}.)*
@@ -5046,3 +5046,6 @@ rpWjb6pnqgzTH7Cgcf98w	OUT042	OUT	Razor’s Edge	1	0		3			C	Assassin, Attack Reac
 Create a Ponder token under your control and a Frailty token under each opponent's control.
 
 **Go again**"		Assassin / Ranger Action	Carlos Cruchaga																	S – OUT160 – N, S – OUT160 – N – AA	GPffH7K8Wndw9zpwCJJzC – OUT160 – N, Khf8DBdC8zTn7PFRkpNG7 – OUT160 – N – AA	
+TRjmqFgtPrwmJf9grJR6K	FAB132	FAB	Death Touch	1	1	6	2			P	Assassin, Ranger, Action, Attack					"Death Touch can't be played from hand.
+
+When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control."		Assassin / Ranger Action - Attack	Saad Irfan																	R - FAB132 - N - EA	dwPQNkj7nmPBMWNLqBG9z – FAB132 – N – EA	

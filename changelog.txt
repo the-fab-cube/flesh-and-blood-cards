@@ -333,4 +333,5 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue with missing art variation info for the EA versions of EVR107-EVR109
 
 PENDING:
+- Added card data for FAB132, HER073
 - Added card data for OUT042, OUT160
