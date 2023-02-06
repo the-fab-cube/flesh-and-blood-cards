@@ -331,3 +331,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed a formatting issue in the card ids of Romping Club, Surging Strike, and Embodiment of Lightning
 - Fixed an issue with double inputted art variations for RNR024-RNR026
 - Fixed an issue with missing art variation info for the EA versions of EVR107-EVR109
+
+02-06-23:
+- Fixed an error where the wrong rarity was being listed in numerous card printings in the cards.json and cards-flattened.json
