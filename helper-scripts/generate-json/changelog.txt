@@ -31,3 +31,6 @@
 - Updated script to work with new english specific CSV/JSON filepaths
 - Updated script to work with all lanugage data
 - Cleaned up some code
+
+02-06-23:
+- Fixed an error where card rarities were not being appropriately assigned

@@ -244,7 +244,7 @@ def generate_json_file():
                     if len([x for x in rarities if " — " in x or " – " in x or " - " in x]) > 0:
                             rarity = re.split("— | – | - ", rarity)[0]
                 else:
-                    rarity = rarities[0]
+                    rarity = rarities[cardIdIndex]
 
                 valid_image_urls = [data for data in image_url_data if data['card_id'] == card_id_from_variation and data['set_edition'] == set_edition and data['alternate_art_type'] == alternative_art_type]
                 image_url = valid_image_urls[0]['image_url'] if len(valid_image_urls) > 0 else None
