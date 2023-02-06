@@ -333,4 +333,4 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue with missing art variation info for the EA versions of EVR107-EVR109
 
 02-06-23:
-- Fixed an issue where the wrong rarity was being listed in numerous card printings in the cards.json and cards-flattened.json
+- Fixed an issue where the wrong rarity was being listed in numerous card printings in the cards.json and cards-flattened.json - bug notice credit: nathaneastwood
