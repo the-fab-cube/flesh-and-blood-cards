@@ -6,6 +6,7 @@ repos:
         entry: helper-scripts/clean-csvs.py
         language: script
         always_run: true
+        pass_filenames: false
     -   id: validate-references
         name: validate-references
         entry: helper-scripts/validate-references.py
