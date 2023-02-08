@@ -44,8 +44,8 @@
     {
         "unique_id": "WBBLK99pg7LTHM8JRNgzg",
         "name": "Charge",
-        "description": "**Charge** is a keyword that exist on Light Warrior attacks. This showcases Boltyn’s eagerness to engage in battle and **charge** his soul in the process. As an additional cost to playing a card with **charge** you may put a card from your hand into your hero’s soul. This would turn on powerful effects that care about if you have **charged** this turn. *You may elect to not pay the additional cost o **charge** - however this would mean you did not **charge**.)*",
-        "description_plain": "Charge is a keyword that exist on Light Warrior attacks. This showcases Boltyn’s eagerness to engage in battle and charge his soul in the process. As an additional cost to playing a card with charge you may put a card from your hand into your hero’s soul. This would turn on powerful effects that care about if you have charged this turn. You may elect to not pay the additional cost o charge - however this would mean you did not charge.)"
+        "description": "**Charge** is a keyword that exist on Light Warrior attacks. This showcases Boltyn's eagerness to engage in battle and **charge** his soul in the process. As an additional cost to playing a card with **charge** you may put a card from your hand into your hero's soul. This would turn on powerful effects that care about if you have **charged** this turn. *You may elect to not pay the additional cost o **charge** - however this would mean you did not **charge**.)*",
+        "description_plain": "Charge is a keyword that exist on Light Warrior attacks. This showcases Boltyn's eagerness to engage in battle and charge his soul in the process. As an additional cost to playing a card with charge you may put a card from your hand into your hero's soul. This would turn on powerful effects that care about if you have charged this turn. You may elect to not pay the additional cost o charge - however this would mean you did not charge.)"
     },
     {
         "unique_id": "H6nNm6Nndrp8qTGFJL7GB",
@@ -68,8 +68,8 @@
     {
         "unique_id": "LdpzkhTrrcHJJtLFnctGW",
         "name": "Dominate",
-        "description": "An attack that is difficult to defend. Cards with **dominate** cannot be defended with more than 1 card from the defending hero’s hand.",
-        "description_plain": "An attack that is difficult to defend. Cards with dominate cannot be defended with more than 1 card from the defending hero’s hand."
+        "description": "An attack that is difficult to defend. Cards with **dominate** cannot be defended with more than 1 card from the defending hero's hand.",
+        "description_plain": "An attack that is difficult to defend. Cards with dominate cannot be defended with more than 1 card from the defending hero's hand."
     },
     {
         "unique_id": "rDb7KpRGqJcWP8jRpt78K",
@@ -86,8 +86,8 @@
     {
         "unique_id": "g6BD6HNFJBRDDdwD9kBWK",
         "name": "Freeze",
-        "description": "A **frozen** object can’t be played or activated.",
-        "description_plain": "A frozen object can’t be played or activated."
+        "description": "A **frozen** object can't be played or activated.",
+        "description_plain": "A frozen object can't be played or activated."
     },
     {
         "unique_id": "rwhcqgpkPpTtFrNM6n7Pw",
@@ -170,8 +170,8 @@
     {
         "unique_id": "BN9pfqWtQjNgCHFrgmNHJ",
         "name": "Reprise",
-        "description": "A Warrior mechanic that showcases the prowess a warrior has when they are engaged in close combat. **Reprise** effects “turn on” if the defending hero has defended with a card from their hand.",
-        "description_plain": "A Warrior mechanic that showcases the prowess a warrior has when they are engaged in close combat. Reprise effects “turn on” if the defending hero has defended with a card from their hand."
+        "description": "A Warrior mechanic that showcases the prowess a warrior has when they are engaged in close combat. **Reprise** effects \"turn on\" if the defending hero has defended with a card from their hand.",
+        "description_plain": "A Warrior mechanic that showcases the prowess a warrior has when they are engaged in close combat. Reprise effects \"turn on\" if the defending hero has defended with a card from their hand."
     },
     {
         "unique_id": "FL9rFc6hKw7WbRnCBqBzR",
@@ -200,8 +200,8 @@
     {
         "unique_id": "CKRGw9dCnNdKpNTdTBqgz",
         "name": "Surge",
-        "description": "**Surge** is an effect that applies if a card deals more arcane damage than it’s printed amount.",
-        "description_plain": "Surge is an effect that applies if a card deals more arcane damage than it’s printed amount."
+        "description": "**Surge** is an effect that applies if a card deals more arcane damage than it's printed amount.",
+        "description_plain": "Surge is an effect that applies if a card deals more arcane damage than it's printed amount."
     },
     {
         "unique_id": "RnrzPrG6KfnCPhDCF8bpB",
