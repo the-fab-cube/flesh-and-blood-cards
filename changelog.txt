@@ -338,3 +338,4 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 02-07-23:
 - Add card data for FAB095-FAB103, FAB105-FAB109, HER070-HER071, LGS111, and LGS119-LGS121 (without images)
 - Fixed an issue where LGS080-LGS082 were incorrectly marked as Cold Foils, not Rainbow Foils - bug notice credit: nathaneastwood
+- Added a pre-commit-config.yaml to the repo - feature credit: dcollinsn
