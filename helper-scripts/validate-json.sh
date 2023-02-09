@@ -2,4 +2,3 @@
 
 cd ./json-validation
 ./validate-json.sh
-cd ..
