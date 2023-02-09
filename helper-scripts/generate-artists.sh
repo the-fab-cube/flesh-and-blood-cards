@@ -1,5 +1,11 @@
 #!/bin/bash
 
+[ -d "helper-scripts" ] && cd helper-scripts
+
 cd ./generate-artists
-pyenv exec poetry run python main.py
+if type pyenv; then
+    pyenv exec poetry run python main.py
+else
+    python main.py
+fi
 cd ..
