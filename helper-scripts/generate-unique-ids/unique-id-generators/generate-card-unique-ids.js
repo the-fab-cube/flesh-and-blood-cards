@@ -57,10 +57,10 @@ const generateCardUniqueIds = (language, uniqueIdIndex, cardIdIndex, variationsI
                 .filter(x => x.trim() !== '' && x !== undefined)
                 .map(x => {
                     var splitVariation = x.trim().split(RegExp(" — | – | - "))
-                    var variation = splitVariation[1] + " – " + splitVariation[2]
+                    var variation = splitVariation[1] + " - " + splitVariation[2]
 
                     if (splitVariation.length > 3) {
-                        variation +=  " – " + splitVariation[3]
+                        variation +=  " - " + splitVariation[3]
                     }
 
                     return variation
@@ -78,10 +78,10 @@ const generateCardUniqueIds = (language, uniqueIdIndex, cardIdIndex, variationsI
                     }
 
                     var variationUniqueId = splitVariation[0]
-                    var variation = splitVariation[1] + " – " + splitVariation[2]
+                    var variation = splitVariation[1] + " - " + splitVariation[2]
 
                     if (splitVariation.length > 3) {
-                        variation +=  " – " + splitVariation[3]
+                        variation +=  " - " + splitVariation[3]
                     }
 
                     existingVariationUniqueIDs[variation] = variationUniqueId
@@ -100,7 +100,7 @@ const generateCardUniqueIds = (language, uniqueIdIndex, cardIdIndex, variationsI
                     // console.log(`No new unique ID needed for ${capitalizedLanguage} variation ${variation}`)
                 }
 
-                return variationUniqueId + " – " + variation
+                return variationUniqueId + " - " + variation
             });
 
             data[variationUniqueIdsIndex] = variationUniqueIds.join(", ")

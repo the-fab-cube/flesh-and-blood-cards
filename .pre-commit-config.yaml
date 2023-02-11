@@ -12,28 +12,28 @@ repos:
         entry: helper-scripts/validate-references.py
         language: script
         always_run: true
-    # -   id: generate-artists
-    #     name: generate-artists
-    #     entry: helper-scripts/generate-artists.sh
-    #     language: script
-    #     always_run: true
-    # -   id: generate-unique-ids
-    #     name: generate-unique-ids
-    #     entry: helper-scripts/generate-unique-ids.sh
-    #     language: script
-    #     always_run: true
-    # -   id: generate-json
-    #     name: generate-json
-    #     entry: helper-scripts/generate-json.sh
-    #     language: script
-    #     always_run: true
-    # -   id: validate-json
-    #     name: validate-json
-    #     entry: helper-scripts/validate-json.sh
-    #     language: script
-    #     always_run: true
-    # -   id: generate-htmls
-    #     name: generate-htmls
-    #     entry: helper-scripts/generate-htmls.sh
-    #     language: script
-    #     always_run: true
+    -   id: generate-artists
+        name: generate-artists
+        entry: helper-scripts/generate-artists.sh
+        files: '.csv'
+        language: script
+    -   id: generate-unique-ids
+        name: generate-unique-ids
+        entry: helper-scripts/generate-unique-ids.sh
+        files: '.csv'
+        language: script
+    -   id: generate-json
+        name: generate-json
+        entry: helper-scripts/generate-json.sh
+        files: '.csv'
+        language: script
+    -   id: validate-json
+        name: validate-json
+        entry: helper-scripts/validate-json.sh
+        language: script
+        files: '.json'
+    -   id: generate-htmls
+        name: generate-htmls
+        entry: helper-scripts/generate-htmls.sh
+        files: '.json'
+        language: script
