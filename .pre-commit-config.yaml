@@ -32,8 +32,8 @@ repos:
         entry: helper-scripts/validate-json.sh
         language: script
         files: '.json'
-    -   id: generate-htmls
-        name: generate-htmls
-        entry: helper-scripts/generate-htmls.sh
-        files: '.json'
-        language: script
+    # -   id: generate-htmls
+    #     name: generate-htmls
+    #     entry: helper-scripts/generate-htmls.sh
+    #     files: '.json'
+    #     language: script
