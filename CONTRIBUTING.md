@@ -28,9 +28,18 @@ Finally, it is also worth noting that sets may not have an existing unique ID in
 
 (Please note that if you are adding data for a set in multiple languages at once, you will need to run the unique ID generator for **one** language and then use that unique ID for the set in the other languages!)
 
+## Running Git Hooks with Pre-Commit
+You can install git hooks to clean and validate the CSV data using pre-commit. To do so, follow these steps:
+
+1. Install [pre-commit](https://pre-commit.com/)
+2. Run `pre-commit install`
+3. The git hook should now run every time you make a commit!
+4. You can also optionally manually run the git hook with `pre-commit run`
+
 ## Other Data Requirements
 - All image links must be from LSS' site.
 - Functional text must be the latest oracle text.
+- Cards that have already been entered into the CSVs should not change ordering drastically through PRs. (I may re-organize them in the future, but keeping them consistent helps keep PRs easier to review!)
 
 Thanks again for helping out! Please let me know if you have any questions or if I could make anything clearer!
 
