@@ -3,3 +3,6 @@
 
 11-04-22:
 - Fixed up script
+
+02-11-23:
+- Updated README

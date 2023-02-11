@@ -9,4 +9,3 @@ if type pyenv >/dev/null 2>&1; then
 else
     python main.py
 fi
-cd ..

@@ -7,3 +7,6 @@
 01-30-23:
 - Change the script to pull from the JSON files instead of CSVs
 - Update comments
+
+02-11-23:
+- Updated README
