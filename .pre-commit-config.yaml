@@ -15,25 +15,25 @@ repos:
     -   id: generate-artists
         name: generate-artists
         entry: helper-scripts/generate-artists.sh
+        files: '.csv'
         language: script
-        always_run: true
     -   id: generate-unique-ids
         name: generate-unique-ids
         entry: helper-scripts/generate-unique-ids.sh
+        files: '.csv'
         language: script
-        always_run: true
     -   id: generate-json
         name: generate-json
         entry: helper-scripts/generate-json.sh
+        files: '.csv'
         language: script
-        always_run: true
     -   id: validate-json
         name: validate-json
         entry: helper-scripts/validate-json.sh
         language: script
-        always_run: true
+        files: '.json'
     -   id: generate-htmls
         name: generate-htmls
         entry: helper-scripts/generate-htmls.sh
+        files: '.json'
         language: script
-        always_run: true

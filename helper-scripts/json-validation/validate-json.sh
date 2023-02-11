@@ -1,5 +1,7 @@
 #!/bin/bash
 
+[ -x ./node_modules/pajv/index.js ] || npm i
+
 ./node_modules/pajv/index.js validate -s ../../json-schema/ability-schema.json -d ../../json/english/ability.json
 ./node_modules/pajv/index.js validate -s ../../json-schema/artist-schema.json -d ../../json/english/artist.json
 ./node_modules/pajv/index.js validate -s ../../json-schema/card-schema.json -d ../../json/english/card.json

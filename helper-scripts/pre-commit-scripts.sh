@@ -1,5 +1,7 @@
 #!/bin/bash
 
+[ -d "helper-scripts" ] && cd helper-scripts
+
 ./generate-artists.sh
 echo ""
 ./generate-unique-ids.sh
