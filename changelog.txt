@@ -339,3 +339,11 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Add card data for FAB095-FAB103, FAB105-FAB109, HER070-HER071, LGS111, and LGS119-LGS121 (without images)
 - Fixed an issue where LGS080-LGS082 were incorrectly marked as Cold Foils, not Rainbow Foils - bug notice credit: nathaneastwood
 - Added a pre-commit-config.yaml to the repo - feature credit: dcollinsn
+
+02-10-23:
+- Remove reminder text from all card functional text (due to possible outdated information) - data entry assistance credit: PvtVoid
+- Various functional text fixes
+
+02-11-23:
+- Fixed an issue with the functional text of Blessing of Deliverance, 'Blasmophet, the Soul Harvester', Blood on Her Hands, Emeritus Scolding, Coalescence Mirage, and Flock of the Feather Walkers - bugfix credit: dcollinsn
+- Fixed an error with the helper-scripts bash files where they would not return an exit code if they failed - bugfix credit: dcollinsn

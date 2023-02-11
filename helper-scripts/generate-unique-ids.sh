@@ -6,4 +6,3 @@ cd ./generate-unique-ids
 
 [ -d "node_packages" ] && npm i
 npm run start
-cd ..
