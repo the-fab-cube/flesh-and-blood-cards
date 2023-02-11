@@ -194,10 +194,10 @@ def generate_json_file():
             if card_object['commoner_legal'] == '':
                 card_object['commoner_legal'] = True
 
-            card_object['functional_text'] = card_object['functional_text'].replace("'", "''")
-            card_object['functional_text_plain'] = card_object['functional_text_plain'].replace("'", "''")
-            card_object['flavor_text'] = card_object['flavor_text'].replace("'", "''")
-            card_object['flavor_text_plain'] = card_object['flavor_text_plain'].replace("'", "''")
+            card_object['functional_text'] = card_object['functional_text']
+            card_object['functional_text_plain'] = card_object['functional_text_plain']
+            card_object['flavor_text'] = card_object['flavor_text']
+            card_object['flavor_text_plain'] = card_object['flavor_text_plain']
 
 
             # Card Printings

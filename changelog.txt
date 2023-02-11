@@ -333,4 +333,22 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue with missing art variation info for the EA versions of EVR107-EVR109
 
 02-06-23:
-- Fixed an error where the wrong rarity was being listed in numerous card printings in the cards.json and cards-flattened.json
+- Fixed an issue where the wrong rarity was being listed in numerous card printings in the cards.json and cards-flattened.json - bug notice credit: nathaneastwood
+
+02-07-23:
+- Add card data for FAB095-FAB103, FAB105-FAB109, HER070-HER071, LGS111, and LGS119-LGS121 (without images)
+- Fixed an issue where LGS080-LGS082 were incorrectly marked as Cold Foils, not Rainbow Foils - bug notice credit: nathaneastwood
+- Added a pre-commit-config.yaml to the repo - feature credit: dcollinsn
+
+02-10-23:
+- Remove reminder text from all card functional text (due to possible outdated information) - data entry assistance credit: PvtVoid
+- Various functional text fixes
+
+02-11-23:
+- Fixed an issue with the functional text of Blessing of Deliverance, 'Blasmophet, the Soul Harvester', Blood on Her Hands, Emeritus Scolding, Coalescence Mirage, and Flock of the Feather Walkers - bugfix credit: dcollinsn
+- Fixed an issue with the helper-scripts bash scripts where they would not return an exit code if they failed - bugfix credit: dcollinsn
+- Updated helper-scripts bash scripts to be able to be run from the repo root and default to system python if pyenv is not installed - feature credit: dcollinsn
+- Updated .pre-commit-config.yaml to only run generate-artists, generate-unique-ids, validate-json, and generate-htmls scripts if relevant files changed
+- Fixed an issue with DYN046 where it was missing a C foiling - bug notice credit: nathaneastwood
+- Fixed an issue with DYN192 and DYN213 where they each had a printing listed as EA when it should have been AB - bug notice credit: nathaneastwood
+- Fixed an issue with DYN234 where it had a printing listed as FA when it should have been EA

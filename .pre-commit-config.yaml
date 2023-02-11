@@ -1,0 +1,39 @@
+repos:
+-   repo: local
+    hooks:
+    -   id: clean-csvs
+        name: clean-csvs
+        entry: helper-scripts/clean-csvs.py
+        language: script
+        always_run: true
+        pass_filenames: false
+    -   id: validate-references
+        name: validate-references
+        entry: helper-scripts/validate-references.py
+        language: script
+        always_run: true
+    -   id: generate-artists
+        name: generate-artists
+        entry: helper-scripts/generate-artists.sh
+        files: '.csv'
+        language: script
+    -   id: generate-unique-ids
+        name: generate-unique-ids
+        entry: helper-scripts/generate-unique-ids.sh
+        files: '.csv'
+        language: script
+    -   id: generate-json
+        name: generate-json
+        entry: helper-scripts/generate-json.sh
+        files: '.csv'
+        language: script
+    -   id: validate-json
+        name: validate-json
+        entry: helper-scripts/validate-json.sh
+        language: script
+        files: '.json'
+    -   id: generate-htmls
+        name: generate-htmls
+        entry: helper-scripts/generate-htmls.sh
+        files: '.json'
+        language: script
