@@ -24,8 +24,8 @@ def create_artists_csv_from_card_csv(language, artist_column_index):
 
     # Output the sorted list of unique artists as a CSV
     path = Path(__file__).parent / f"../../csvs/{language}/artist.csv"
-    with path.open('w', newline='\n') as csvout:
-        writer = csv.writer(csvout)
+    with path.open('w', newline='') as csvout:
+        writer = csv.writer(csvout, lineterminator="\n")
 
         # Add title row
         writer.writerow(["Name"])
