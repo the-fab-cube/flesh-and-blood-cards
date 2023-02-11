@@ -23,3 +23,6 @@
 - Changed the script to pull from the JSON files instead of CSVs
 - Changed the script to pull from all language data
 - Updated comments
+
+02-11-23:
+- Updated README

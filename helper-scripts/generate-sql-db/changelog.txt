@@ -29,3 +29,6 @@
 
 01-30-23:
 - Updated to import from JSON, and add new card_printings and set_editions tables
+
+02-11-23:
+- Updated README

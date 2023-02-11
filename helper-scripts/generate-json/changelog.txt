@@ -34,3 +34,6 @@
 
 02-06-23:
 - Fixed an error where card rarities were not being appropriately assigned
+
+02-11-23:
+- Updated README

@@ -1,5 +1,12 @@
 #!/bin/bash
 
+[ -d "helper-scripts" ] && cd helper-scripts
+
 cd ./generate-json
-pyenv exec poetry run python main.py
+
+if type pyenv >/dev/null 2>&1; then
+    pyenv exec poetry run python main.py
+else
+    python main.py
+fi
 cd ..

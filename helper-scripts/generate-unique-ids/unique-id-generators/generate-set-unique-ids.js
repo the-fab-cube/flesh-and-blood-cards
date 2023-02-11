@@ -87,7 +87,7 @@ const generateSetUniqueIds = (language, uniqueIdIndex, setIdIndex, editionsIndex
                     // console.log(`No new unique ID needed for ${capitalizedLanguage} edition ${edition}`)
                 }
 
-                return editionUniqueId + " – " + edition
+                return editionUniqueId + " - " + edition
             });
 
             data[editionUniqueIdsIndex] = editionUniqueIds.join(", ")
