@@ -2,4 +2,3 @@
 
 cd ./generate-unique-ids
 npm run start
-cd ..
