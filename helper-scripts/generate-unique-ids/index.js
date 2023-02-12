@@ -1,6 +1,6 @@
 const generators = require('./unique-id-generators')
 
-generators.generateCardUniqueIds("english", 0, 1, 36, 37)
+generators.generateCardUniqueIds("english", 0, 1, 24, 25)
 generators.generateCardUniqueIds("french", null, null, 9, 10)
 generators.generateCardUniqueIds("german", null, null, 9, 10)
 generators.generateCardUniqueIds("italian", null, null, 9, 10)
