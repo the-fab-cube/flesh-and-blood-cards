@@ -11,20 +11,46 @@ def generate_json_file():
 
     card_array = []
 
-
-    setJsonPath = Path(__file__).parent / "../../../json/english/set.json"
+    set_json_path = Path(__file__).parent / "../../../json/english/set.json"
+    banned_blitz_json_path = Path(__file__).parent / "../../../json/english/banned-blitz.json"
+    banned_cc_json_path = Path(__file__).parent / "../../../json/english/banned-cc.json"
+    banned_commoner_json_path = Path(__file__).parent / "../../../json/english/banned-commoner.json"
+    banned_upf_json_path = Path(__file__).parent / "../../../json/english/banned-upf.json"
+    living_legend_blitz_json_path = Path(__file__).parent / "../../../json/english/living-legend-blitz.json"
+    living_legend_cc_json_path = Path(__file__).parent / "../../../json/english/living-legend-cc.json"
+    suspended_blitz_json_path = Path(__file__).parent / "../../../json/english/suspended-blitz.json"
+    suspended_cc_json_path = Path(__file__).parent / "../../../json/english/suspended-cc.json"
+    suspended_commoner_json_path = Path(__file__).parent / "../../../json/english/suspended-commoner.json"
 
     csvPath = Path(__file__).parent / "../../../csvs/english/card.csv"
     jsonPath = Path(__file__).parent / "../../../json/english/card.json"
 
     with (
         csvPath.open(newline='') as csvfile,
-        setJsonPath.open(newline='') as set_json_file,
+        set_json_path.open(newline='') as set_json_file,
+        banned_blitz_json_path.open(newline='') as banned_blitz_json_file,
+        banned_cc_json_path.open(newline='') as banned_cc_json_file,
+        banned_commoner_json_path.open(newline='') as banned_commoner_json_file,
+        banned_upf_json_path.open(newline='') as banned_upf_json_file,
+        living_legend_blitz_json_path.open(newline='') as living_legend_blitz_json_file,
+        living_legend_cc_json_path.open(newline='') as living_legend_cc_json_file,
+        suspended_blitz_json_path.open(newline='') as suspended_blitz_json_file,
+        suspended_cc_json_path.open(newline='') as suspended_cc_json_file,
+        suspended_commoner_json_path.open(newline='') as suspended_commoner_json_file,
     ):
         reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
         next(reader)
 
         set_array = json.load(set_json_file)
+        banned_blitz_array = json.load(banned_blitz_json_file)
+        banned_cc_array = json.load(banned_cc_json_file)
+        banned_commoner_array = json.load(banned_commoner_json_file)
+        banned_upf_array = json.load(banned_upf_json_file)
+        living_legend_blitz_array = json.load(living_legend_blitz_json_file)
+        living_legend_cc_array = json.load(living_legend_cc_json_file)
+        suspended_blitz_array = json.load(suspended_blitz_json_file)
+        suspended_cc_array = json.load(suspended_cc_json_file)
+        suspended_commoner_array = json.load(suspended_commoner_json_file)
         set_edition_unique_id_cache = {}
 
         for row in reader:
@@ -32,7 +58,8 @@ def generate_json_file():
 
             rowId = 0
 
-            card_object['unique_id'] = row[rowId]
+            unique_id = row[rowId]
+            card_object['unique_id'] = unique_id
             rowId += 1
 
             ids = helper_functions.convert_to_array(row[rowId])
@@ -108,70 +135,112 @@ def generate_json_file():
             card_object['commoner_legal'] = helper_functions.treat_string_as_boolean(row[rowId])
             rowId += 1
 
-            blitz_living_legend_field = row[rowId]
-            card_object['blitz_living_legend'] = helper_functions.treat_blank_string_as_none(blitz_living_legend_field) != None
+            living_legend_blitz_info_array = [x for x in living_legend_blitz_array if x['card_unique_id'] == unique_id]
+            living_legend_blitz_info = living_legend_blitz_info_array[-1] if len(living_legend_blitz_info_array) > 0 else None
+            # blitz_living_legend_field = row[rowId]
+            card_object['blitz_living_legend'] = living_legend_blitz_info['status_active'] if living_legend_blitz_info != None else False
             if card_object['blitz_living_legend']:
-                card_object['blitz_living_legend_start'] = blitz_living_legend_field
+                card_object['blitz_living_legend_start'] = living_legend_blitz_info['date_in_effect']
             rowId += 1
 
-            cc_living_legend_field = row[rowId]
-            card_object['cc_living_legend'] = helper_functions.treat_blank_string_as_none(cc_living_legend_field) != None
+            living_legend_cc_info_array = [x for x in living_legend_cc_array if x['card_unique_id'] == unique_id]
+            living_legend_cc_info = living_legend_cc_info_array[-1] if len(living_legend_cc_info_array) > 0 else None
+            # cc_living_legend_field = row[rowId]
+            card_object['cc_living_legend'] = living_legend_cc_info['status_active'] if living_legend_cc_info != None else False
             if card_object['cc_living_legend']:
-                card_object['cc_living_legend_start'] = cc_living_legend_field
+                card_object['cc_living_legend_start'] = living_legend_cc_info['date_in_effect']
             rowId += 1
 
-            blitz_banned_field = row[rowId]
-            card_object['blitz_banned'] = helper_functions.treat_blank_string_as_none(blitz_banned_field) != None
+            banned_blitz_info_array = [x for x in banned_blitz_array if x['card_unique_id'] == unique_id]
+            banned_blitz_info = banned_blitz_info_array[-1] if len(banned_blitz_info_array) > 0 else None
+            # blitz_banned_field = row[rowId]
+            card_object['blitz_banned'] = banned_blitz_info['status_active'] if banned_blitz_info != None else False
             if card_object['blitz_banned']:
-                card_object['blitz_banned_start'] = blitz_banned_field
+                card_object['blitz_banned_start'] = banned_blitz_info['date_in_effect']
             rowId += 1
 
-            cc_banned_field = row[rowId]
-            card_object['cc_banned'] = helper_functions.treat_blank_string_as_none(cc_banned_field) != None
+            banned_cc_info_array = [x for x in banned_cc_array if x['card_unique_id'] == unique_id]
+            banned_cc_info = banned_cc_info_array[-1] if len(banned_cc_info_array) > 0 else None
+            # cc_banned_field = row[rowId]
+            card_object['cc_banned'] = banned_cc_info['status_active'] if banned_cc_info != None else False
             if card_object['cc_banned']:
-                card_object['cc_banned_start'] = cc_banned_field
+                card_object['cc_banned_start'] = banned_cc_info['date_in_effect']
             rowId += 1
 
-            commoner_banned_field = row[rowId]
-            card_object['commoner_banned'] = helper_functions.treat_blank_string_as_none(commoner_banned_field) != None
+            banned_commoner_info_array = [x for x in banned_commoner_array if x['card_unique_id'] == unique_id]
+            banned_commoner_info = banned_commoner_info_array[-1] if len(banned_commoner_info_array) > 0 else None
+            # commoner_banned_field = row[rowId]
+            card_object['commoner_banned'] = banned_commoner_info['status_active'] if banned_commoner_info != None else False
             if card_object['commoner_banned']:
-                card_object['commoner_banned_start'] = commoner_banned_field
+                card_object['commoner_banned_start'] = banned_commoner_info['date_in_effect']
             rowId += 1
 
-            upf_banned_field = row[rowId]
-            card_object['upf_banned'] = helper_functions.treat_blank_string_as_none(upf_banned_field) != None
+            banned_upf_info_array = [x for x in banned_upf_array if x['card_unique_id'] == unique_id]
+            banned_upf_info = banned_upf_info_array[-1] if len(banned_upf_info_array) > 0 else None
+            # upf_banned_field = row[rowId]
+            card_object['upf_banned'] = banned_upf_info['status_active'] if banned_upf_info != None else False
             if card_object['upf_banned']:
-                card_object['upf_banned_start'] = upf_banned_field
+                card_object['upf_banned_start'] = banned_upf_info['date_in_effect']
             rowId += 1
 
-            blitz_suspended_start_field = row[rowId]
-            card_object['blitz_suspended'] = helper_functions.treat_blank_string_as_none(blitz_suspended_start_field) != None
+            suspended_blitz_info_array = [x for x in suspended_blitz_array if x['card_unique_id'] == unique_id]
+            suspended_blitz_info = suspended_blitz_info_array[-1] if len(suspended_blitz_info_array) > 0 else None
+            # blitz_suspended_start_field = row[rowId]
+            card_object['blitz_suspended'] = suspended_blitz_info['status_active'] if suspended_blitz_info != None else False
             if card_object['blitz_suspended']:
-                card_object['blitz_suspended_start'] = blitz_suspended_start_field
+                start_info = suspended_blitz_info
+
+                # Loop backwards through the info array and find when the card originally was suspended this time
+                for info in suspended_blitz_info_array[::-1]:
+                    if not info['status_active']:
+                        break
+
+                    start_info = info
+
+                card_object['blitz_suspended_start'] = start_info['date_in_effect']
+                card_object['blitz_suspended_end'] = suspended_blitz_info['planned_end']
+
+            rowId += 1
             rowId += 1
 
-            if card_object['blitz_suspended']:
-                card_object['blitz_suspended_end'] = row[rowId]
-            rowId += 1
-
-            cc_suspended_start_field = row[rowId]
-            card_object['cc_suspended'] = helper_functions.treat_blank_string_as_none(cc_suspended_start_field) != None
+            suspended_cc_info_array = [x for x in suspended_cc_array if x['card_unique_id'] == unique_id]
+            suspended_cc_info = suspended_cc_info_array[-1] if len(suspended_cc_info_array) > 0 else None
+            # cc_suspended_start_field = row[rowId]
+            card_object['cc_suspended'] = suspended_cc_info['status_active'] if suspended_cc_info != None else False
             if card_object['cc_suspended']:
-                card_object['cc_suspended_start'] = cc_suspended_start_field
+                start_info = suspended_cc_info
+
+                # Loop backwards through the info array and find when the card originally was suspended this time
+                for info in suspended_cc_info_array[::-1]:
+                    if not info['status_active']:
+                        break
+
+                    start_info = info
+
+                card_object['cc_suspended_start'] = start_info['date_in_effect']
+                card_object['cc_suspended_end'] = suspended_cc_info['planned_end']
+
+            rowId += 1
             rowId += 1
 
-            if card_object['cc_suspended']:
-                card_object['cc_suspended_end'] = row[rowId]
-            rowId += 1
-
-            commoner_suspended_start_field = row[rowId]
-            card_object['commoner_suspended'] = helper_functions.treat_blank_string_as_none(commoner_suspended_start_field) != None
+            suspended_commoner_info_array = [x for x in suspended_commoner_array if x['card_unique_id'] == unique_id]
+            suspended_commoner_info = suspended_commoner_info_array[-1] if len(suspended_commoner_info_array) > 0 else None
+            # commoner_suspended_start_field = row[rowId]
+            card_object['commoner_suspended'] = suspended_commoner_info['status_active'] if suspended_commoner_info != None else False
             if card_object['commoner_suspended']:
-                card_object['commoner_suspended_start'] = commoner_suspended_start_field
-            rowId += 1
+                start_info = suspended_commoner_info
 
-            if card_object['commoner_suspended']:
-                card_object['commoner_suspended_end'] = row[rowId]
+                # Loop backwards through the info array and find when the card originally was suspended this time
+                for info in suspended_commoner_info_array[::-1]:
+                    if not info['status_active']:
+                        break
+
+                    start_info = info
+
+                card_object['commoner_suspended_start'] = start_info['date_in_effect']
+                card_object['commoner_suspended_end'] = suspended_commoner_info['planned_end']
+
+            rowId += 1
             rowId += 1
 
             variations = helper_functions.convert_to_array(row[rowId])
