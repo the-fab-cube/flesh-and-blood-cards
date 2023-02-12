@@ -17,3 +17,13 @@ generators.generateAbilityUniqueIds("english", 0, 1)
 generators.generateKeywordUniqueIds("english", 0, 1)
 
 generators.generateTypeUniqueIds("english", 0, 1)
+
+generators.generateLegalityUniqueIds("banned-blitz", 0, 2)
+generators.generateLegalityUniqueIds("banned-cc", 0, 2)
+generators.generateLegalityUniqueIds("banned-commoner", 0, 2)
+generators.generateLegalityUniqueIds("banned-upf", 0, 2)
+generators.generateLegalityUniqueIds("living-legend-blitz", 0, 2)
+generators.generateLegalityUniqueIds("living-legend-cc", 0, 2)
+generators.generateLegalityUniqueIds("suspended-blitz", 0, 2)
+generators.generateLegalityUniqueIds("suspended-cc", 0, 2)
+generators.generateLegalityUniqueIds("suspended-commoner", 0, 2)

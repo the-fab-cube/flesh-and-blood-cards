@@ -37,3 +37,4 @@
 
 02-11-23:
 - Updated README
+- Updated script to handle legality files

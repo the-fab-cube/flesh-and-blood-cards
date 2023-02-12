@@ -1,0 +1,46 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "description": "An array of all of the current card legality changes for a particular Flesh and Blood format and legality type (banned, suspended, or living legend).",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "unique_id": {
+                "description": "The unique identifier for this legality change entry within the data set.",
+                "type": "string"
+            },
+            "card_unique_id": {
+                "description": "The unique identifier for the card the legality change is for.",
+                "type": "string"
+            },
+            "status_active": {
+                "description": "If this legality change was becoming active or inactive (True means this card is now banned/suspended/living legend, False means this card stopped being banned/suspended/living legend).",
+                "type": "boolean"
+            },
+            "date_announced": {
+                "description": "The date this legality change was announced on, but did not necessarily become active on.",
+                "type": "string"
+            },
+            "date_in_effect": {
+                "description": "The date this legality change went into effect on.",
+                "type": "string"
+            },
+            "planned_end": {
+                "description": "The date this legality change was planned to revert on.",
+                "type": "string"
+            },
+            "legality_article": {
+                "description": "The URL to the article detailing this change.",
+                "type": "string"
+            }
+        },
+        "required": [
+            "unique_id",
+            "card_unique_id",
+            "status_active",
+            "date_announced",
+            "date_in_effect",
+            "legality_article"
+        ]
+    }
+}
