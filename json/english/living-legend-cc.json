@@ -1,0 +1,42 @@
+[
+    {
+        "unique_id": "LDnrPtTN9dzCQrhwnKt8z",
+        "card_unique_id": "PFJnMWQNfr6jMMzJhjB9H",
+        "status_active": true,
+        "date_announced": "2022-06-24T00:00:00.000Z",
+        "date_in_effect": "2022-06-24T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-suspended-announcement-june-2022/"
+    },
+    {
+        "unique_id": "GjJLF8cJkwpwdf68kgQFp",
+        "card_unique_id": "MhBTRHCCft7RbrMmkwwGw",
+        "status_active": true,
+        "date_announced": "2022-06-24T00:00:00.000Z",
+        "date_in_effect": "2022-06-24T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-suspended-announcement-june-2022/"
+    },
+    {
+        "unique_id": "JchW8rpMgHwfkwdpkKqbn",
+        "card_unique_id": "r8Bq8zBCNdzGPkmMcr6QL",
+        "status_active": true,
+        "date_announced": "2022-06-24T00:00:00.000Z",
+        "date_in_effect": "2022-06-24T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-suspended-announcement-june-2022/"
+    },
+    {
+        "unique_id": "DgWD9pDz7mNkhgmPznkrg",
+        "card_unique_id": "F7rQpTDjHFWPgQhcGg7RT",
+        "status_active": true,
+        "date_announced": "2022-08-29T00:00:00.000Z",
+        "date_in_effect": "2022-08-30T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-suspended-announced/"
+    },
+    {
+        "unique_id": "wtjFb6JncgRT8nHh8jG7q",
+        "card_unique_id": "TQ7Twhtm6zfkTTHTKdpJK",
+        "status_active": true,
+        "date_announced": "2022-08-29T00:00:00.000Z",
+        "date_in_effect": "2022-08-30T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-suspended-announced/"
+    }
+]

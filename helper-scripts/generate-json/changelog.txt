@@ -37,3 +37,5 @@
 
 02-11-23:
 - Updated README
+- Updated script to handle legality files
+- Updated script to pull legality info from the various card legality JSON files whene generating card.json and card-flattened.json
