@@ -4,6 +4,7 @@ from os.path import exists
 import generate_json_file.ability
 import generate_json_file.artist
 import generate_json_file.card
+import generate_json_file.card_face_association
 import generate_json_file.card_flattened
 import generate_json_file.card_non_english
 import generate_json_file.edition
@@ -32,6 +33,7 @@ if not exists(english_json_dir_path):
 generate_json_file.ability.generate_json_file("english")
 generate_json_file.artist.generate_json_file("english")
 generate_json_file.set.generate_json_file("english")
+generate_json_file.card_face_association.generate_json_file("english")
 
 generate_json_file.legality.generate_json_file("banned-blitz")
 generate_json_file.legality.generate_json_file("banned-cc")
