@@ -71,20 +71,8 @@ def insert(cur, card_unique_id, language, name, pitch, types, card_keywords, abi
         exit()
         raise error
 
-def treat_blank_string_as_boolean(field, value=True):
-    if field == '':
-        return value
-
-    return field
-
-def treat_blank_string_as_none(field):
-    if field == '':
-        return 'NULL'
-
-    return "'" + field + "'"
-
 def generate_table_data(cur, language):
-    print(f"Filling out cards table from {language} card.json...\n")
+    print(f"Filling out card_translations table from {language} card.json...\n")
 
     path = Path(__file__).parent / f"../../../json/{language}/card.json"
     with path.open(newline='') as jsonfile:
