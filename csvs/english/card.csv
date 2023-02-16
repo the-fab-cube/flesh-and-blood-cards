@@ -3185,7 +3185,7 @@ GBDFTmjdTmgRCdHngGWNR	EVR037	EVR	Mask of the Pouncing Lynx				2			M	Ninja, Equip
 wgLPnnJb8QW7WH6zRFbNr	EVR038	EVR	Break Tide	2	0	2	3			M	Ninja, Action, Attack	Combo, Dominate				"**Combo** - If Rushing River or Flood of Force was the last attack this combat chain, Break Tide gains +3{p}, **dominate**, and ""If Break Tide hits, banish the top card of your deck. Until the end of your next turn, you may play it."""		Ninja Action – Attack	Faizal Fikri				No													S R - EVR038 - F	WWtbfcNFGfmLF8MpgBpRd - EVR038 - F	https://storage.googleapis.com/fabmaster/media/images/EVR038.width-450.png - EVR038 - F
 HMFLP9L76wCJBGGhBKChT	EVR039	EVR	Spring Tidings	2	0	2	3			M	Ninja, Action, Attack	Benji Specialization, Go again				"**Benji Specialization**
 
-When Spring Tidings hits, draw a card for each other attack action card with 2 or less base{p} you control on the combat chain.
+When Spring Tidings hits, draw a card for each other attack action card with 2 or less base {p} you control on the combat chain.
 
 **Go again**"		Ninja Action – Attack	Rio Sabda				No													S R - EVR039 - F	HcmHL7Bc7nQ9dcMMHzDn9 - EVR039 - F	https://storage.googleapis.com/fabmaster/media/images/EVR039.width-450.png - EVR039 - F
 zcrgwbPhb8wr7MFmMDTzw	EVR040	EVR	Winds of Eternity	3	0	2	3			M	Ninja, Action, Attack	Combo				"**Combo** - If Winds of Eternity was the last attack this combat chain, Winds of Eternity gains +2{p} and ""If this hits, shuffle all cards named Hundred Winds you control on this combat chain into your deck."""		Ninja Action – Attack	Jessada Sutthi				No													S R - EVR040 - F, R - EVR040 - F - EA	QPcMRQBnRnCTkcdH8jD7g - EVR040 - F, phDLt7QWBmmfRGKpPbgbg - EVR040 - F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR040.width-450.png - EVR040 - F, https://storage.googleapis.com/fabmaster/cardfaces/2022-EVR/EVR040-RF.png - EVR040 - F - EA
@@ -4833,6 +4833,15 @@ Pc9dDNQmwKnmDbgf6jrLH	OUT096	OUT	Quiver of Rustling Leaves							M	Ranger, Equip
 Create a Ponder token under your control and a Frailty token under each opponent's control.
 
 **Go again**"		Assassin / Ranger Action	Carlos Cruchaga				No													S - OUT160 - N, S - OUT160 - N - AA	GPffH7K8Wndw9zpwCJJzC - OUT160 - N, Khf8DBdC8zTn7PFRkpNG7 - OUT160 - N - AA	
+nKjQcnRRWtmQqQQj9kbpH	FAB131, OUT231	FAB, OUT	Peace of Mind	1	2					P, C	Generic, Instant					"The next time you would be dealt {p} damage, prevent 4 of that damage.
+
+Create a Ponder token."		Generic Instant	Henrique Lindner, Nikolay Moskvin																	R - FAB131 - N, S - OUT231 - N	hdNJMgHD9kJBmGntGkmcF - FAB131 - N, W88gLQnw8zBqBCGrBwpcL - OUT231 - N	
+GJtD6jcDgdmcNN6cPMqrH	OUT232	OUT	Peace of Mind	2	2					C	Generic, Instant					"The next time you would be dealt {p} damage, prevent 3 of that damage.
+
+Create a Ponder token."		Generic Instant	Nikolay Moskvin																	S - OUT232 - N	tfHRK9f7gTjcKqkCCnzhC - OUT232 - N	
+wmLh9mhk89MnLKzFzWkcm	OUT233	OUT	Peace of Mind	3	2					C	Generic, Instant					"The next time you would be dealt {p} damage, prevent 2 of that damage.
+
+Create a Ponder token."		Generic Instant	Nikolay Moskvin																	S - OUT233 - N	KrhMcMNm69jRDFmQ9bqw7 - OUT233 - N	
 TRjmqFgtPrwmJf9grJR6K	FAB132	FAB	Death Touch	1	1	6	2			P	Assassin, Ranger, Action, Attack					"Death Touch can't be played from hand.
 
 When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control."		Assassin / Ranger Action - Attack	Saad Irfan																	R - FAB132 - N - EA	dwPQNkj7nmPBMWNLqBG9z - FAB132 - N - EA	

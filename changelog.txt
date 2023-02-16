@@ -356,3 +356,4 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 PENDING:
 - Added card data for FAB132, HER073, LGS125, LGS126, LGS127
 - Added card data for OUT cards
+- Fixed an error in the functional text of Spring Tidings
