@@ -354,6 +354,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue with DYN234 where it had a printing listed as FA when it should have been EA
 
 PENDING:
-- Added card data for FAB132, HER073, LGS125, LGS126, LGS127
+- Added card data for FAB131-FAB132, HER073-HER074, LGS125-LGS127, LGS129-LGS132, LGS150-LGS152
+- Added image links for LGS150-LGS152, LGS111, LGS113, LGS119
 - Added card data for OUT cards
 - Fixed an error in the functional text of Spring Tidings
