@@ -67,18 +67,6 @@ def insert(cur, unique_id, card_unique_id, set_edition_unique_id, card_id, set_i
         exit()
         raise error
 
-def treat_blank_string_as_boolean(field, value=True):
-    if field == '':
-        return value
-
-    return field
-
-def treat_blank_string_as_none(field):
-    if field == '':
-        return 'NULL'
-
-    return "'" + field + "'"
-
 def generate_table_data(cur, url_for_images = None):
     print("Filling out card_printings table from english card.json...\n")
 

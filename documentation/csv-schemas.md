@@ -46,6 +46,16 @@ The CSVs are tab delimited and use " as string indicators.
 
 Note: Cards in are organized by what main set they were initially released in in that language, in order of release. If they were never released in a main set, they are organized by non-set/promo in order of release, with non-set/promo cards above main set cards.
 
+## Card Face Association
+| Field Name | Intended Data Type | Explanation | Example |
+| --- | --- | --- | --- |
+| Front Card Variation Unique ID | string | The unique identifier for the card that is on the front of the double-sided card. This corresponds to the Unique ID field in the Card CSV. | cJtC9QKfTGBtdJngJfgd6  |
+| Front Card Name | string | Name of the card that is on the front of the double-sided card. This field is purely for readability when maintaining the CSV and to help scripts verify data integrity, and is not used when generated JSON data. | Invoke Tomeltai  |
+| Front Card Variation | string | Variatio data for the card that is on the front of the double-sided card. This field is purely for readability when maintaining the CSV and to help scripts verify data integrity, and is not used when generated JSON data. | UPR007 – N  |
+| Back Card Variation Unique ID | string | The unique identifier for the card that is on the back of the double-sided card. This corresponds to the Unique ID field in the Card CSV. | QNkHgfg9hDrqFh6jqzQK6  |
+| Back Card Name | string | Name of the card that is on the back of the double-sided card. This field is purely for readability when maintaining the CSV and to help scripts verify data integrity, and is not used when generated JSON data. | Tomeltai  |
+| Back Card Variation | string | Variatio data for the card that is on the back of the double-sided card. This field is purely for readability when maintaining the CSV and to help scripts verify data integrity, and is not used when generated JSON data. | UPR007 – N  |
+
 ## Edition
 | Field Name | Intended Data Type | Explanation | Example |
 | --- | --- | --- | --- |

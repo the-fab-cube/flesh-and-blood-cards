@@ -12,6 +12,7 @@ def generate_json_file():
     card_array = []
 
     set_json_path = Path(__file__).parent / "../../../json/english/set.json"
+    card_face_association_json_path = Path(__file__).parent / "../../../json/english/card-face-association.json"
     banned_blitz_json_path = Path(__file__).parent / "../../../json/english/banned-blitz.json"
     banned_cc_json_path = Path(__file__).parent / "../../../json/english/banned-cc.json"
     banned_commoner_json_path = Path(__file__).parent / "../../../json/english/banned-commoner.json"
@@ -28,6 +29,7 @@ def generate_json_file():
     with (
         csvPath.open(newline='') as csvfile,
         set_json_path.open(newline='') as set_json_file,
+        card_face_association_json_path.open(newline='') as card_face_association_json_file,
         banned_blitz_json_path.open(newline='') as banned_blitz_json_file,
         banned_cc_json_path.open(newline='') as banned_cc_json_file,
         banned_commoner_json_path.open(newline='') as banned_commoner_json_file,
@@ -42,6 +44,7 @@ def generate_json_file():
         next(reader)
 
         set_array = json.load(set_json_file)
+        card_face_association_array = json.load(card_face_association_json_file)
         banned_blitz_array = json.load(banned_blitz_json_file)
         banned_cc_array = json.load(banned_cc_json_file)
         banned_commoner_array = json.load(banned_commoner_json_file)
@@ -297,6 +300,26 @@ def generate_json_file():
                 valid_unique_ids = [data for data in unique_id_data if data['card_id'] == card_id_from_variation and data['set_edition'] == set_edition and data['alternate_art_type'] == alternative_art_type]
                 unique_id = valid_unique_ids[0]['unique_id'] if len(valid_unique_ids) > 0 else None
 
+                double_sided_card_info = []
+
+                for x in [x for x in card_face_association_array if x['front_unique_id'] == unique_id]:
+                    double_sided_card_info.append(
+                        {
+                            'other_face_unique_id': x['back_unique_id'],
+                            'is_front': True,
+                            'is_DFC': x['is_DFC']
+                        }
+                    )
+
+                for x in [x for x in card_face_association_array if x['back_unique_id'] == unique_id]:
+                    double_sided_card_info.append(
+                        {
+                            'other_face_unique_id': x['back_unique_id'],
+                            'is_front': False,
+                            'is_DFC': x['is_DFC']
+                        }
+                    )
+
                 card_variation['unique_id'] = unique_id
                 card_variation['set_edition_unique_id'] = helper_functions.get_set_edition_unique_id(set_id, set_edition, "english", set_array, set_edition_unique_id_cache)
                 card_variation['id'] = card_id_from_variation
@@ -307,6 +330,8 @@ def generate_json_file():
                 card_variation['artist'] = artist
                 card_variation['art_variation'] = alternative_art_type
                 card_variation['image_url'] = image_url
+                if len(double_sided_card_info) > 0:
+                    card_variation['double_sided_card_info'] = double_sided_card_info
 
                 card_printing_array.append(card_variation)
 
