@@ -110,18 +110,6 @@ def insert(cur, unique_id, name, pitch, cost, power, defense, health, intelligen
         exit()
         raise error
 
-def treat_blank_string_as_boolean(field, value=True):
-    if field == '':
-        return value
-
-    return field
-
-def treat_blank_string_as_none(field):
-    if field == '':
-        return 'NULL'
-
-    return "'" + field + "'"
-
 def generate_table_data(cur):
     print("Filling out cards table from card.json...\n")
 

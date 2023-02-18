@@ -3,3 +3,4 @@
 
 02-11-23:
 - Updated script to modify CSVs using standard dash
+- Updated script to handle legality files

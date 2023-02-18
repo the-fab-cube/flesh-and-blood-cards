@@ -29,6 +29,8 @@ def generate_json_file(language):
                 card_variation['artist'] = printing['artist']
                 card_variation['art_variation'] = printing['art_variation']
                 card_variation['image_url'] = printing['image_url']
+                if 'double_sided_card_info' in printing:
+                    card_variation['double_sided_card_info'] = printing['double_sided_card_info']
 
                 del card_variation['printings']
 

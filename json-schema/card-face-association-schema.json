@@ -1,0 +1,27 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "description": "An array of representing all of the double-sided cards in Flesh and Blood.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "front_unique_id": {
+                "description": "The Unique ID of the card printing that is the front face of this double-sided card.",
+                "type": "string"
+            },
+            "back_unique_id": {
+                "description": "The Unique ID of the card printing that is the back face of this double-sided card.",
+                "type": "string"
+            },
+            "is_DFC": {
+                "description": "A boolean representing whether this double-sided card is a Double Face Card (ex: Invoke Tomeltai / Tomeltai).",
+                "type": "boolean"
+            }
+        },
+        "required": [
+            "front_unique_id",
+            "back_unique_id",
+            "is_DFC"
+        ]
+    }
+}

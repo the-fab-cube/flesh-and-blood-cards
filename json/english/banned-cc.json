@@ -1,0 +1,186 @@
+[
+    {
+        "unique_id": "rJwrR6BLCFfhrtHC8WnBT",
+        "card_unique_id": "9bQFfTFGQWJFWrcJnfQgz",
+        "status_active": true,
+        "date_announced": "2021-03-18T00:00:00.000Z",
+        "date_in_effect": "2021-03-26T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-restricted-announcement/"
+    },
+    {
+        "unique_id": "DrNzmFfHWRKmdkkB6BqBC",
+        "card_unique_id": "Nhmj8MBNCmWFC68JkhkNC",
+        "status_active": true,
+        "date_announced": "2021-03-18T00:00:00.000Z",
+        "date_in_effect": "2021-03-26T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-restricted-announcement/"
+    },
+    {
+        "unique_id": "FKCcJfChmrMjtKtQkh6Gm",
+        "card_unique_id": "hJt6FwT8mhQbcWQLzgHMT",
+        "status_active": true,
+        "date_announced": "2021-03-18T00:00:00.000Z",
+        "date_in_effect": "2021-03-26T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-restricted-announcement/"
+    },
+    {
+        "unique_id": "tF6j9KMpJLc8NNGTfRDhW",
+        "card_unique_id": "bkwMDWGMmKTMd9dKQMt76",
+        "status_active": true,
+        "date_announced": "2021-09-21T00:00:00.000Z",
+        "date_in_effect": "2021-09-24T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-restricted-announcement-sept21/"
+    },
+    {
+        "unique_id": "MJ7wpFt8JKRPhM8PwPJLh",
+        "card_unique_id": "g9ckPjGmpNNkmbgChTQNR",
+        "status_active": true,
+        "date_announced": "2021-09-21T00:00:00.000Z",
+        "date_in_effect": "2021-09-24T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-restricted-announcement-sept21/"
+    },
+    {
+        "unique_id": "JzdzHnKwC6CgPfkWfMFdF",
+        "card_unique_id": "BnQtggKJtBNmpqKR7NWBH",
+        "status_active": true,
+        "date_announced": "2021-09-21T00:00:00.000Z",
+        "date_in_effect": "2021-09-24T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-restricted-announcement-sept21/"
+    },
+    {
+        "unique_id": "Pn9DPDTCfTQ8HwmmMLkkp",
+        "card_unique_id": "HkDzFgnhCBGn6K9w7RWtC",
+        "status_active": true,
+        "date_announced": "2021-09-21T00:00:00.000Z",
+        "date_in_effect": "2021-09-24T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-restricted-announcement-sept21/"
+    },
+    {
+        "unique_id": "k7g8jzTnkQrCmt76zTGCN",
+        "card_unique_id": "TJdbQPDBpnLGpNmmN7fhg",
+        "status_active": true,
+        "date_announced": "2022-01-12T00:00:00.000Z",
+        "date_in_effect": "2022-01-17T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-restricted-announcement-errata-bulletin/"
+    },
+    {
+        "unique_id": "zRLrqDjPLdrTCpR6nnrDr",
+        "card_unique_id": "w77m97tB9GPDzK6ccgkjr",
+        "status_active": true,
+        "date_announced": "2022-01-12T00:00:00.000Z",
+        "date_in_effect": "2022-01-17T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-restricted-announcement-errata-bulletin/"
+    },
+    {
+        "unique_id": "kpQDh6tgtqrjTRqTG8HrD",
+        "card_unique_id": "QnKbrhtk7HFcckCBbFmkt",
+        "status_active": true,
+        "date_announced": "2022-01-12T00:00:00.000Z",
+        "date_in_effect": "2022-01-17T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-restricted-announcement-errata-bulletin/"
+    },
+    {
+        "unique_id": "bKJkzrpJCbqpWjPhnWBjp",
+        "card_unique_id": "fwF67FGHHq7rCKdPRz77f",
+        "status_active": true,
+        "date_announced": "2022-01-12T00:00:00.000Z",
+        "date_in_effect": "2022-01-17T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-restricted-announcement-errata-bulletin/"
+    },
+    {
+        "unique_id": "rjd8MmHCQBNpzTpt8m7qg",
+        "card_unique_id": "7MGt8wLQqdFk9F8LBQnD9",
+        "status_active": true,
+        "date_announced": "2022-01-12T00:00:00.000Z",
+        "date_in_effect": "2022-01-17T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-restricted-announcement-errata-bulletin/"
+    },
+    {
+        "unique_id": "MBzRRjwkk69mP7QRqTjHP",
+        "card_unique_id": "rpFFbrjQdDFGHgtwmjqKP",
+        "status_active": true,
+        "date_announced": "2022-01-12T00:00:00.000Z",
+        "date_in_effect": "2022-01-17T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-restricted-announcement-errata-bulletin/"
+    },
+    {
+        "unique_id": "DG6cgHD8RPBHNjJbtgDDW",
+        "card_unique_id": "phCFwdjG8dKDCmr7d7F7M",
+        "status_active": true,
+        "date_announced": "2022-04-25T00:00:00.000Z",
+        "date_in_effect": "2022-05-02T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-suspended-announcement/"
+    },
+    {
+        "unique_id": "68mQrCMGrHRczphBzLJw6",
+        "card_unique_id": "bkwMDWGMmKTMd9dKQMt76",
+        "status_active": false,
+        "date_announced": "2022-04-25T00:00:00.000Z",
+        "date_in_effect": "2022-05-02T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-suspended-announcement/"
+    },
+    {
+        "unique_id": "HJPPDQHbRhCK7K8gNCKTQ",
+        "card_unique_id": "g9ckPjGmpNNkmbgChTQNR",
+        "status_active": false,
+        "date_announced": "2022-04-25T00:00:00.000Z",
+        "date_in_effect": "2022-05-02T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-suspended-announcement/"
+    },
+    {
+        "unique_id": "MfCwKjK7TgkjgzKwLbhGL",
+        "card_unique_id": "BnQtggKJtBNmpqKR7NWBH",
+        "status_active": false,
+        "date_announced": "2022-04-25T00:00:00.000Z",
+        "date_in_effect": "2022-05-02T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-suspended-announcement/"
+    },
+    {
+        "unique_id": "mMwPKNHLrHTGPrRjDbhMm",
+        "card_unique_id": "wj7qpMrzMjDbn8tmtfPL7",
+        "status_active": true,
+        "date_announced": "2022-07-29T00:00:00.000Z",
+        "date_in_effect": "2022-08-01T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-suspended-announcement/"
+    },
+    {
+        "unique_id": "8RwmqhJhBzMLDzTJfgzzt",
+        "card_unique_id": "rDLHG8PWgWpbJ87hRd6fD",
+        "status_active": true,
+        "date_announced": "2022-10-03T00:00:00.000Z",
+        "date_in_effect": "2022-10-07T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-suspended-oct-3/"
+    },
+    {
+        "unique_id": "nkHRGmPj7MrHKtjBqtrnn",
+        "card_unique_id": "CtgLqKpjrGRtLnwbHjd9f",
+        "status_active": true,
+        "date_announced": "2023-01-24T00:00:00.000Z",
+        "date_in_effect": "2023-01-30T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-suspended-announcement/"
+    },
+    {
+        "unique_id": "Lz9wmwLrQ7FRHNtLkN88j",
+        "card_unique_id": "8b9Fj6hL8WbNF6zDgzJFp",
+        "status_active": true,
+        "date_announced": "2023-01-24T00:00:00.000Z",
+        "date_in_effect": "2023-01-30T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-suspended-announcement/"
+    },
+    {
+        "unique_id": "nhW6jpJtd8wqHR8gbk7HP",
+        "card_unique_id": "dgBTMrWQ8F7gTCt6m7ngM",
+        "status_active": true,
+        "date_announced": "2023-01-24T00:00:00.000Z",
+        "date_in_effect": "2023-01-30T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-suspended-announcement/"
+    },
+    {
+        "unique_id": "bHNrwtrt9mgWTp7cQGRJQ",
+        "card_unique_id": "pCdJMzmgBMD8Mt8qhM7nC",
+        "status_active": true,
+        "date_announced": "2023-01-24T00:00:00.000Z",
+        "date_in_effect": "2023-01-30T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-and-suspended-announcement/"
+    }
+]
