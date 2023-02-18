@@ -33,5 +33,5 @@
 02-11-23:
 - Updated README
 
-PENDING:
+02-17-23:
 - Added new card_face_associations table

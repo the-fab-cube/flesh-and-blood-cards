@@ -353,7 +353,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue with DYN192 and DYN213 where they each had a printing listed as EA when it should have been AB - bug notice credit: nathaneastwood
 - Fixed an issue with DYN234 where it had a printing listed as FA when it should have been EA
 
-PENDING:
+02-17-23:
 - Added the card-face-association CSV and JSON files and associated schemas and documentation
 - Updated the card CSV and JSON files with info on card printing's double-sided card data (if they exist)
 - Updated the pre-commit-scripts.sh file to emit an error code if any of the component scripts fail
