@@ -35,3 +35,6 @@
 
 02-17-23:
 - Added new card_face_associations table
+
+PENDING:
+- Added new card_references table
