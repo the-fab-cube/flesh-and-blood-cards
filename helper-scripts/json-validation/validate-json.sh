@@ -13,6 +13,7 @@ validate_json ../../json-schema/artist-schema.json ../../json/english/artist.jso
 validate_json ../../json-schema/card-schema.json ../../json/english/card.json
 validate_json ../../json-schema/card-flattened-schema.json ../../json/english/card-flattened.json
 validate_json ../../json-schema/card-face-association-schema.json ../../json/english/card-face-association.json
+validate_json ../../json-schema/card-reference-schema.json ../../json/english/card-reference.json
 validate_json ../../json-schema/edition-schema.json ../../json/english/edition.json
 validate_json ../../json-schema/foiling-schema.json ../../json/english/foiling.json
 validate_json ../../json-schema/icon-schema.json ../../json/english/icon.json

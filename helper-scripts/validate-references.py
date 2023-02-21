@@ -125,5 +125,25 @@ with open(card_face_association_filename, newline='') as csvfile:
                 errors = True
 
 
+# Scan card-reference.csv for errors
+card_reference_filename = 'csvs/english/card-reference.csv'
+with open(card_reference_filename, newline='') as csvfile:
+    reader = csv.DictReader(csvfile, delimiter="\t")
+    for row in reader:
+        card_unique_id = re.split(',\s*', row['Card Unique ID'])
+        for unique_id in card_unique_id:
+            if unique_id not in allowed_card_unique_ids:
+                print(f"Warning: unrecognized card unique id {unique_id} in {card_reference_filename} entry for "
+                      f"{row['Card Name']} ({row['Card Pitch']}). Check your spelling or add this to {card_filename}.")
+                errors = True
+
+        referenced_card_unique_id = re.split(',\s*', row['Referenced Card Unique ID'])
+        for unique_id in referenced_card_unique_id:
+            if unique_id not in allowed_card_unique_ids:
+                print(f"Warning: unrecognized card unique id {unique_id} in {card_reference_filename} entry for "
+                      f"{row['Referenced Card Name']} ({row['Referenced Card Pitch']}). Check your spelling or add this to {card_filename}.")
+                errors = True
+
+
 if errors:
     sys.exit(1)
