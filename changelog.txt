@@ -357,3 +357,9 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added the card-face-association CSV and JSON files and associated schemas and documentation
 - Updated the card CSV and JSON files with info on card printing's double-sided card data (if they exist)
 - Updated the pre-commit-scripts.sh file to emit an error code if any of the component scripts fail
+
+PENDING:
+- Added the card-reference CSV and JSON files and associated schemas and documentation
+- Fixed an issue with the functional text of Herald of Rebirth's not having phantasm bolded
+- Fixed an issue in the functional text of Iris of Reality, 'Hexagore, the Death Hydra', Lunartide Plunderer, Captain's Call, Yinti Yanti, Snow Under, Shiver, and Explosive Growth
+- Fixed an issue where Invoke Suraya was missing flavor text
