@@ -364,3 +364,4 @@ PENDING:
 - Fixed an issue in the functional text of Iris of Reality, 'Hexagore, the Death Hydra', Lunartide Plunderer, Captain's Call, Yinti Yanti, Snow Under, Shiver, and Explosive Growth
 - Fixed an issue where Invoke Suraya was missing flavor text
 - Fixed an issue where Iyslander's marvel UPR printing had the incorrect artist
+- Fixed an issue with Light it Up where it had a capitalization error in the name

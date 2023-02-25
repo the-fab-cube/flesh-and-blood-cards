@@ -1,5 +1,17 @@
 Card Unique ID	Card Name	Card Pitch	Referenced Card Unique ID	Referenced Card Name	Referenced Card Pitch
+GgDFFHhLh8Kc7tJK8nBLj	Alpha Rampage	1	wr9wBtTWwRrPrdhCRHCdN	Rhinar, Reckless Rampage	
+GgDFFHhLh8Kc7tJK8nBLj	Alpha Rampage	1	wNRqrHCn6rrKLhrDkqPwp	Rhinar	
+BpjDRjGcMhFQkKQLnLLkQ	Sand Sketched Plan	3	wr9wBtTWwRrPrdhCRHCdN	Rhinar, Reckless Rampage	
+BpjDRjGcMhFQkKQLnLLkQ	Sand Sketched Plan	3	wNRqrHCn6rrKLhrDkqPwp	Rhinar	
 TN6DmN7GK9DtMKd9pnmwF	Tectonic Plating		Rf8CHpzmhJNppCtDDKWDm	Seismic Surge	
+j8jjnw6NmpTpf9cWThfgg	Crippling Crush	1	NtLDgPBR7HqDqhDzJMHmk	Bravo, Showstopper	
+j8jjnw6NmpTpf9cWThfgg	Crippling Crush	1	tzTbzLkLhDzmW9QMJr9KF	Bravo	
+j8jjnw6NmpTpf9cWThfgg	Crippling Crush	1	PFJnMWQNfr6jMMzJhjB9H	Bravo, Star of the Show	
+hMQTg6qwCLqnHBdGbP6wH	Show Time!	3	NtLDgPBR7HqDqhDzJMHmk	Bravo, Showstopper	
+hMQTg6qwCLqnHBdGbP6wH	Show Time!	3	tzTbzLkLhDzmW9QMJr9KF	Bravo	
+hMQTg6qwCLqnHBdGbP6wH	Show Time!	3	PFJnMWQNfr6jMMzJhjB9H	Bravo, Star of the Show	
+hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	nM8BHGHd9qLGTPgwtWzkJ	Katsu, the Wanderer	
+hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	QnGJNBGBFw98q9n9NCdRW	Katsu	
 hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	zjzpNfJzKkkQPptTjCthC	Mugenshi: RELEASE	2
 hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	GqNTpPW79fHNzj7kB8Kkb	Surging Strike	1
 hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	Hpq8jQm9H97HbfhBKgctd	Surging Strike	2
@@ -7,6 +19,8 @@ hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	KtHkGCQfc6Td7Dg8htCcJ	Surging Strike	3
 hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	zgP9HWNCqbrQPLMNP8Bwf	Whelming Gustwave	1
 hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	jCrd8h9kPW8rJ9KwgRr8L	Whelming Gustwave	2
 hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	M7gFnB7zpwHWCbzWCWKpd	Whelming Gustwave	3
+zjzpNfJzKkkQPptTjCthC	Mugenshi: RELEASE	3	nM8BHGHd9qLGTPgwtWzkJ	Katsu, the Wanderer	
+zjzpNfJzKkkQPptTjCthC	Mugenshi: RELEASE	3	QnGJNBGBFw98q9n9NCdRW	Katsu	
 zjzpNfJzKkkQPptTjCthC	Mugenshi: RELEASE	2	hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3
 zjzpNfJzKkkQPptTjCthC	Mugenshi: RELEASE	2	GqNTpPW79fHNzj7kB8Kkb	Surging Strike	1
 zjzpNfJzKkkQPptTjCthC	Mugenshi: RELEASE	2	Hpq8jQm9H97HbfhBKgctd	Surging Strike	2
@@ -62,6 +76,12 @@ jCrd8h9kPW8rJ9KwgRr8L	Whelming Gustwave	2	KtHkGCQfc6Td7Dg8htCcJ	Surging Strike	3
 M7gFnB7zpwHWCbzWCWKpd	Whelming Gustwave	3	GqNTpPW79fHNzj7kB8Kkb	Surging Strike	1
 M7gFnB7zpwHWCbzWCWKpd	Whelming Gustwave	3	Hpq8jQm9H97HbfhBKgctd	Surging Strike	2
 M7gFnB7zpwHWCbzWCWKpd	Whelming Gustwave	3	KtHkGCQfc6Td7Dg8htCcJ	Surging Strike	3
+LD76nrjCTwzcf6Qk8cCjW	Steelblade Supremacy	1	Djhg6DMpCpFHD9rcPNFrN	Dorinthea Ironsong	
+LD76nrjCTwzcf6Qk8cCjW	Steelblade Supremacy	1	KGqRPDfRrnPqdj7Cm76fr	Dorinthea	
+LD76nrjCTwzcf6Qk8cCjW	Steelblade Supremacy	1	NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy	
+Crtn9djMPnRdwjKnhWRpk	Singing Steelblade	2	Djhg6DMpCpFHD9rcPNFrN	Dorinthea Ironsong	
+Crtn9djMPnRdwjKnhWRpk	Singing Steelblade	2	KGqRPDfRrnPqdj7Cm76fr	Dorinthea	
+Crtn9djMPnRdwjKnhWRpk	Singing Steelblade	2	NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy	
 C6NjgQKQBjDBcCJFg6cGd	Flock of the Feather Walkers	1	cDpMQnr8LwPFGMdgffNb8	Quicken	
 bbJnkTkktrTJPPwGdWg7h	Flock of the Feather Walkers	2	cDpMQnr8LwPFGMdgffNb8	Quicken	
 6fB9pCdHTN9WBhTBF7D6D	Flock of the Feather Walkers	3	cDpMQnr8LwPFGMdgffNb8	Quicken	
@@ -83,13 +103,25 @@ W7kjMQq9pJGQrBDPhhbgT	Regurgitating Slog	2	PhTkFwKHqwmWW8NjCbKHG	Sloggism	3
 br9CQqckKLHbJmqnrLnfR	Regurgitating Slog	3	kgTjdTtWrFMCqpHh9mn8C	Sloggism	1
 br9CQqckKLHbJmqnrLnfR	Regurgitating Slog	3	b9jb87Hf88HzTMTFBRtwB	Sloggism	2
 br9CQqckKLHbJmqnrLnfR	Regurgitating Slog	3	PhTkFwKHqwmWW8NjCbKHG	Sloggism	3
+WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	6CcjWGnThrTmTQFQ9zHMN	Dash, Inventor Extraordinaire	
+WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	kftPnNkrBLJ7rPmFGgQCm	Dash	
+tqpr9PgWLMcrmggBmfL9B	Spark of Genius	2	6CcjWGnThrTmTQFQ9zHMN	Dash, Inventor Extraordinaire	
+tqpr9PgWLMcrmggBmfL9B	Spark of Genius	2	kftPnNkrBLJ7rPmFGgQCm	Dash	
+FLHmj9MjCgFPBzgFGKRFW	Red in the Ledger	1	PTFnJCdhWD9cFgMMNPqQj	Azalea, Ace in the Hole	
+FLHmj9MjCgFPBzgFGKRFW	Red in the Ledger	1	Fc8mPQBjrNq6Fg9LW9RLc	Azalea	
+zDLrkgc8QGm77T8qPGwqd	Nock the Deathwhistle	3	PTFnJCdhWD9cFgMMNPqQj	Azalea, Ace in the Hole	
+zDLrkgc8QGm77T8qPGwqd	Nock the Deathwhistle	3	Fc8mPQBjrNq6Fg9LW9RLc	Azalea	
 TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood		zfrHQjbPkpBmdQGrWcTMB	Runechant	
 RHnFkKb8FKdFzp9rdzGjF	Viserai		zfrHQjbPkpBmdQGrWcTMB	Runechant	
 RWwk8hgBdnRdWfjkrfJHt	Nebula Blade		zfrHQjbPkpBmdQGrWcTMB	Runechant	
 6WM7PKt9BCGmw7wQzn7k6	Grasp of the Arknight		zfrHQjbPkpBmdQGrWcTMB	Runechant	
+hKGMtQDHtqLhzg8Lzmjmc	Arknight Ascendancy	1	TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood	
+hKGMtQDHtqLhzg8Lzmjmc	Arknight Ascendancy	1	RHnFkKb8FKdFzp9rdzGjF	Viserai	
 hKGMtQDHtqLhzg8Lzmjmc	Arknight Ascendancy	1	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 8djTKwBRrz8W69BGtCbk9	Mordred Tide	1	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 rz79tn8mdQLDqNnhFdngk	Ninth Blade of the Blood Oath	2	zfrHQjbPkpBmdQGrWcTMB	Runechant	
+FzmdMTfjQrhzn8bNBhhDw	Become the Arknight	3	TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood	
+FzmdMTfjQrhzn8bNBhhDw	Become the Arknight	3	RHnFkKb8FKdFzp9rdzGjF	Viserai	
 QnWbfrP7C7ttrrWgtbMcp	Spellblade Assault	1	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 nR9RFbHQBGnNffDLqhfLB	Spellblade Assault	2	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 mFQfCDptGgjpTkDmdH6FP	Spellblade Assault	3	zfrHQjbPkpBmdQGrWcTMB	Runechant	
@@ -117,6 +149,10 @@ qbzLPGM6RCTWWhGKdnCNf	Bloodspill Invocation	3	zfrHQjbPkpBmdQGrWcTMB	Runechant
 gt9cjT8zwMBHj77R76H77	Read the Runes	1	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 McR66NfcGM8bnwMGbPL8H	Read the Runes	2	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 6QfkfBbmfr77GMbDTTbLw	Read the Runes	3	zfrHQjbPkpBmdQGrWcTMB	Runechant	
+mjKPwTWCd7MTFkBpg6QzM	Blazing Aether	1	kRPqHdCckKBKfRwjbfzNT	Kano, Dracai of Aether	
+mjKPwTWCd7MTFkBpg6QzM	Blazing Aether	1	Q9B8TDhTdfDLN8ccnBThK	Kano	
+DGNn7nRKwBjzf9f9rmzJM	Lesson in Lava	2	kRPqHdCckKBKfRwjbfzNT	Kano, Dracai of Aether	
+DGNn7nRKwBjzf9f9rmzJM	Lesson in Lava	2	Q9B8TDhTdfDLN8ccnBThK	Kano	
 mhLrKM6RbWGGHNrTGjtMw	Moon Wish	1	QqKLnDCDCgnqtz8bzgFRt	Sun Kiss	1
 mhLrKM6RbWGGHNrTGjtMw	Moon Wish	1	tnCRf6pBMHN7tLRBMRB9p	Sun Kiss	2
 mhLrKM6RbWGGHNrTGjtMw	Moon Wish	1	rcCgrhCWrcPC9RGFqMqm9	Sun Kiss	3
@@ -135,6 +171,8 @@ tnCRf6pBMHN7tLRBMRB9p	Sun Kiss	2	KdMNrGqDGQ9JPMbWjrr8M	Moon Wish	3
 rcCgrhCWrcPC9RGFqMqm9	Sun Kiss	3	mhLrKM6RbWGGHNrTGjtMw	Moon Wish	1
 rcCgrhCWrcPC9RGFqMqm9	Sun Kiss	3	B6bKcfDKzkQrTgCnbQKW7	Moon Wish	2
 rcCgrhCWrcPC9RGFqMqm9	Sun Kiss	3	KdMNrGqDGQ9JPMbWjrr8M	Moon Wish	3
+pkMGCRh9fDT98dRgnQF8W	Arknight Shard	3	TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood	
+pkMGCRh9fDT98dRgnQF8W	Arknight Shard	3	RHnFkKb8FKdFzp9rdzGjF	Viserai	
 pkMGCRh9fDT98dRgnQF8W	Arknight Shard	3	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 PHz8kWCt6rw6Q6jMgbdQC	Find Center	3	b9Hw6NhDgfdQWLDQffTPC	Crane Dance	1
 PHz8kWCt6rw6Q6jMgbdQC	Find Center	3	hdwcfGdrfcJ9bK78tPgRW	Crane Dance	2
@@ -164,6 +202,7 @@ cdcnJRkcCzJkDmb7NwnPQ	Rushing River	2	hRbLKmtGT7DJQqr9Q7MNN	Torrent of Tempo	3
 tMDDnhBrcpCL8c9MW7BgC	Rushing River	3	9F67fMDKzMkLMJFr7GN67	Torrent of Tempo	1
 tMDDnhBrcpCL8c9MW7BgC	Rushing River	3	TR8gpGqrWD7JrKtjMqKbJ	Torrent of Tempo	2
 tMDDnhBrcpCL8c9MW7BgC	Rushing River	3	hRbLKmtGT7DJQqr9Q7MNN	Torrent of Tempo	3
+w98kfFNz9prGgmD88ptJR	Whirling Mist Blossom	2	GCRQMpBtqBHWrk68GqnGP	Ira, Crimson Haze	
 wWmP8RJRq7MWk7kBh9q7w	Kassai, Cintari Sellsword		gzDGmdfm6gHWctgrcgfKf	Copper	
 LKTc8bNLczk7p78FwWzTw	Spoils of War	1	gzDGmdfm6gHWctgrcgfKf	Copper	
 rgq8FqBMdhn9khbwjDK6Q	Kavdaen, Trader of Skins		gzDGmdfm6gHWctgrcgfKf	Copper	
@@ -185,7 +224,11 @@ Ld6twwNTNGTcWFw9rRWfh	Cash In	2	TNJz9fCgqmhhLz9rP9tkt	Silver
 Ld6twwNTNGTcWFw9rRWfh	Cash In	2	8qdmprPg7kckn8ktMTKQh	Gold	
 F7rQpTDjHFWPgQhcGg7RT	Prism, Sculptor of Arc Light		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 NGkHQHjzkFqfmGLKmRCpj	Prism		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
+hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	2	F7rQpTDjHFWPgQhcGg7RT	Prism, Sculptor of Arc Light	
+hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	2	NGkHQHjzkFqfmGLKmRCpj	Prism	
 8TtCrkgJBC6h8TWjMgk8m	Genesis	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
+z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	2	F7rQpTDjHFWPgQhcGg7RT	Prism, Sculptor of Arc Light	
+z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	2	NGkHQHjzkFqfmGLKmRCpj	Prism	
 LrjRbqHNNKbLGfqDPjp7R	Herald of Protection	1	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 GpWJp9RKt7nrzt6dCMnbH	Herald of Protection	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 kWCjCDmt6k6Rq7bkf7pGr	Herald of Protection	3	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
@@ -194,10 +237,22 @@ GwNppkqrrrfrMgRWhT9rr	Prismatic Shield	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield
 bFjnrzdmFLkwdBbWHnGfR	Prismatic Shield	3	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 99B9LdcMnLqBhwjQmrHRG	Hatchet of Body		TCDKdFdzFT6nJnBBRbCLL	Hatchet of Mind	
 TCDKdFdzFT6nJnBBRbCLL	Hatchet of Mind		99B9LdcMnLqBhwjQmrHRG	Hatchet of Body	
+L8wq9HzdqTwM8tLWCRGcR	Lumina Ascension	2	QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breaker of Dawn	
+L8wq9HzdqTwM8tLWCRGcR	Lumina Ascension	2	Fmf8trg9w8B8BBbWrf8w9	Boltyn	
+bChp6GBR8QhHJLgpzKC6J	V of the Vanguard	2	QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breaker of Dawn	
+bChp6GBR8QhHJLgpzKC6J	V of the Vanguard	2	Fmf8trg9w8B8BBbWrf8w9	Boltyn	
 MhBTRHCCft7RbrMmkwwGw	Chane, Bound by Shadow		9F6H6kTdQdcHrDrRCDmLP	Soul Shackle	
 mCCnJrJQkqJ7KfqKNHGnc	Chane		9F6H6kTdQdcHrDrRCDmLP	Soul Shackle	
-w7HdMtLpHDBRNJcKHWHpc	Doomsday		qJ8HCWnpHbPRGRGpt86Cb	Blasmophet, the Soul Harvester	
-PDHFDfPrn8TwBGw6h7cFr	Eclipse		pN9zPNQfc6GGrwdgMBLkj	Ursur, the Soul Reaper	
+w7HdMtLpHDBRNJcKHWHpc	Doomsday	3	KCwnGqDJtnmJfth7fn8Qq	Levia, Shadowborn Abomination	
+w7HdMtLpHDBRNJcKHWHpc	Doomsday	3	WwzJLfPwhRTkFLDNjJPrk	Levia	
+w7HdMtLpHDBRNJcKHWHpc	Doomsday	3	qJ8HCWnpHbPRGRGpt86Cb	Blasmophet, the Soul Harvester	
+PDHFDfPrn8TwBGw6h7cFr	Eclipse	3	MhBTRHCCft7RbrMmkwwGw	Chane, Bound by Shadow	
+PDHFDfPrn8TwBGw6h7cFr	Eclipse	3	mCCnJrJQkqJ7KfqKNHGnc	Chane	
+PDHFDfPrn8TwBGw6h7cFr	Eclipse	3	pN9zPNQfc6GGrwdgMBLkj	Ursur, the Soul Reaper	
+G8kbQ7Q6wgqdrcQgLGQpP	Soul Harvest	3	KCwnGqDJtnmJfth7fn8Qq	Levia, Shadowborn Abomination	
+G8kbQ7Q6wgqdrcQgLGQpP	Soul Harvest	3	WwzJLfPwhRTkFLDNjJPrk	Levia	
+wbTGmgDqLtMmbDgcPzCmJ	Soul Reaping	1	MhBTRHCCft7RbrMmkwwGw	Chane, Bound by Shadow	
+wbTGmgDqLtMmbDgcPzCmJ	Soul Reaping	1	mCCnJrJQkqJ7KfqKNHGnc	Chane	
 CtgLqKpjrGRtLnwbHjd9f	Belittle	1	hFFjjMfRw6J8KhBC7Tdzj	Minnowism	1
 CtgLqKpjrGRtLnwbHjd9f	Belittle	1	CbJgbPBCGkgwbwkLRPd8m	Minnowism	2
 CtgLqKpjrGRtLnwbHjd9f	Belittle	1	BNMTzb6WbFTGp7PFnHD6d	Minnowism	3
@@ -208,8 +263,10 @@ dgBTMrWQ8F7gTCt6m7ngM	Belittle	3	hFFjjMfRw6J8KhBC7Tdzj	Minnowism	1
 dgBTMrWQ8F7gTCt6m7ngM	Belittle	3	CbJgbPBCGkgwbwkLRPd8m	Minnowism	2
 dgBTMrWQ8F7gTCt6m7ngM	Belittle	3	BNMTzb6WbFTGp7PFnHD6d	Minnowism	3
 pCdJMzmgBMD8Mt8qhM7nC	Winter's Wail		GHG6KkBzPkHDnMf7hL7K7	Frostbite	
-dncM8DzP7fJ9JWDqqWfHj	Endless Winter		GHG6KkBzPkHDnMf7hL7K7	Frostbite	
-phCFwdjG8dKDCmr7d7F7M	Awakening		Rf8CHpzmhJNppCtDDKWDm	Seismic Surge	
+dncM8DzP7fJ9JWDqqWfHj	Endless Winter	1	bh96L8jp69mNpjcGRCDbj	Oldhim, Grandfather of Eternity	
+dncM8DzP7fJ9JWDqqWfHj	Endless Winter	1	hw6qHfWdqQGfRPfKJMgR7	Oldhim	
+dncM8DzP7fJ9JWDqqWfHj	Endless Winter	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
+phCFwdjG8dKDCmr7d7F7M	Awakening	3	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge	
 q8rqGffz6jP9D7w8DbkcL	Snow Under	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 MLkbJDtPDkLWPNpfwfTDJ	Snow Under	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 NzNjkqqJgrbPbJpWQ8RWp	Snow Under	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
@@ -221,6 +278,8 @@ LgRfr8GwTMrwtm9HwFJkb	Strength of Sequoia	2	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge
 NwfdR79tdkkfRMH7RmjKr	Strength of Sequoia	3	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge	
 PFmgFK9dFr8q6PrpJFpPG	Lexi, Livewire		GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 GFc7t8wNTwC8rCFwrqTfh	Lexi		GHG6KkBzPkHDnMf7hL7K7	Frostbite	
+7hLgJ6QwzWmFrG8phh9qb	Light it Up	2	PFmgFK9dFr8q6PrpJFpPG	Lexi, Livewire	
+7hLgJ6QwzWmFrG8phh9qb	Light it Up	2	GFc7t8wNTwC8rCFwrqTfh	Lexi	
 8f6PJ8ztqJhcQRFDLR9nG	Ice Storm	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 wfzwGpLbJTtQ9DDhCchdP	Blizzard Bolt	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 wqm8d9NngqkJN7dDNwtHJ	Blizzard Bolt	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
@@ -229,6 +288,8 @@ cjDzkKdjNrGqL9tnDc7zd	Briar, Warden of Thorns		jrcdWNnMQCtrjQqKjd9Fw	Embodiment 
 cjDzkKdjNrGqL9tnDc7zd	Briar, Warden of Thorns		QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning	
 7TjkgnbJ8tghfrkMRnTfW	Briar		jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth	
 7TjkgnbJ8tghfrkMRnTfW	Briar		QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning	
+GwJdwRwJFbjNNWLzCqr6M	Force of Nature	3	cjDzkKdjNrGqL9tnDc7zd	Briar, Warden of Thorns	
+GwJdwRwJFbjNNWLzCqr6M	Force of Nature	3	7TjkgnbJ8tghfrkMRnTfW	Briar	
 KdPWDMfBd8BQp66B9chCQ	Coat of Frost		GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 dMw97RJqc6PgTctzgWWK9	Ice Quake	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 kTNdJ7FzJFNzgLpBWgTPM	Ice Quake	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
@@ -240,6 +301,7 @@ hn6Jp8hBLgpwRPd8gNnN7	Chill to the Bone	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite
 78zTbm7gJD7r866HNpHGW	Chill to the Bone	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 dmcWqBfNRjBTbCtfLWtmH	Chill to the Bone	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 pwfB8pHmJRDD8CfP8mTbr	Grandeur of Valahai		Rf8CHpzmhJNppCtDDKWDm	Seismic Surge	
+ppcpmnFc99GT8bbwbCBth	Ready to Roll	3	NcQMQ79gb9P7CTMfWfBz8	Kayo, Berserker Runt	
 jPMgW9kwNF8Cj69gwJntt	Swing Big	1	cDpMQnr8LwPFGMdgffNb8	Quicken	
 BCpDT6GfzNwKW8qz7WbrN	Stalagmite, Bastion of Isenloft		GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 zWhGF8kMMdmKdhMNdj6NH	Valda Brightaxe		Rf8CHpzmhJNppCtDDKWDm	Seismic Surge	
@@ -251,6 +313,7 @@ wgLPnnJb8QW7WH6zRFbNr	Break Tide	2	wmN6kmKhktkmfhWtqLmHm	Rushing River	1
 wgLPnnJb8QW7WH6zRFbNr	Break Tide	2	cdcnJRkcCzJkDmb7NwnPQ	Rushing River	2
 wgLPnnJb8QW7WH6zRFbNr	Break Tide	2	tMDDnhBrcpCL8c9MW7BgC	Rushing River	3
 wgLPnnJb8QW7WH6zRFbNr	Break Tide	2	9QkzLM66JjHbrMD9M6KDf	Flood of Force	2
+HMFLP9L76wCJBGGhBKChT	Spring Tidings	2	HT8r8mg8rHmbWJthCFHfH	Benji, the Piercing Wind	
 zcrgwbPhb8wr7MFmMDTzw	Winds of Eternity	3	pGDD7t8RQzK7gdJkjdhdQ	Hundred Winds	1
 zcrgwbPhb8wr7MFmMDTzw	Winds of Eternity	3	gcfNgcdDLzRGCmpfWnKqF	Hundred Winds	2
 zcrgwbPhb8wr7MFmMDTzw	Winds of Eternity	3	JbrwN8cw6hzWNFg9cMrFH	Hundred Winds	3
@@ -263,10 +326,12 @@ gcfNgcdDLzRGCmpfWnKqF	Hundred Winds	2	JbrwN8cw6hzWNFg9cMrFH	Hundred Winds	3
 JbrwN8cw6hzWNFg9cMrFH	Hundred Winds	3	pGDD7t8RQzK7gdJkjdhdQ	Hundred Winds	1
 JbrwN8cw6hzWNFg9cMrFH	Hundred Winds	3	gcfNgcdDLzRGCmpfWnKqF	Hundred Winds	2
 JbrwN8cw6hzWNFg9cMrFH	Hundred Winds	3	JbrwN8cw6hzWNFg9cMrFH	Hundred Winds	3
+RHrBnDBNJwLh8PDLGBmch	Blood On Her Hands	2	wWmP8RJRq7MWk7kBh9q7w	Kassai, Cintari Sellsword	
 RHrBnDBNJwLh8PDLGBmch	Blood On Her Hands	2	gzDGmdfm6gHWctgrcgfKf	Copper	
 cbKTjfkmpJCCQcRpKbPCJ	Outland Skirmish	1	gzDGmdfm6gHWctgrcgfKf	Copper	
 h7cHBbCqJnRKPFFLHmbHL	Outland Skirmish	2	gzDGmdfm6gHWctgrcgfKf	Copper	
 6NqHrDGMBKrbmcCKQG6Hd	Outland Skirmish	3	gzDGmdfm6gHWctgrcgfKf	Copper	
+r8fjLMCFnQhFrRjwpMTgK	Micro-processor	3	kbdzm8R7MHCpWC79RdTGH	Data Doll MKII	
 Mqj9K8NgJ7LFBwMKWk6L7	Genis Wotchuneed		TNJz9fCgqmhhLz9rP9tkt	Silver	
 gCgcRpmr76G6zmFgpprRw	Silver Palms		TNJz9fCgqmhhLz9rP9tkt	Silver	
 wQh8rPTLTrzGqHhfbGnq6	Vexing Quillhand		zfrHQjbPkpBmdQGrWcTMB	Runechant	
@@ -284,6 +349,30 @@ tWjDdc6FFdnDNk7dLgzt7	Cash Out	3	TNJz9fCgqmhhLz9rP9tkt	Silver
 jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	gzDGmdfm6gHWctgrcgfKf	Copper	
 jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	TNJz9fCgqmhhLz9rP9tkt	Silver	
 jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	8qdmprPg7kckn8ktMTKQh	Gold	
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	nHTP6hGgLz6zfpdFH9Fpt	Energy Potion	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	fNMMHHpLGMCjHh8KQG8nW	Potion of Strength	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	mjww7bNnkN6g7DtDfRcmW	Timesnap Potion	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	8PgrwjDp8NNrz9mDGDP8B	Amulet of Earth	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	t6MkmHjPRNghmMcMQbqch	Amulet of Ice	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	fCzgQtjJ9Q8gdrPq9t7Wc	Amulet of Lightning	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	zDfRfgF6fn7WGTKcj67JK	Amulet of Assertiveness	2
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	fgWtKprkRGWMhWwkCPJFm	Amulet of Echoes	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	77rfcbF6JzTp98njhmLrq	Amulet of Havencall	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	LPkdwMCjwHHMC6wkHCbRb	Amulet of Ignition	2
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	77HjThGWgwMQMqDRNBLMc	Amulet of Intervention	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	rtq8MPBRKQzBpWTWRpj8t	Amulet of Oblation	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	M8HJKTz7QwHTjGtjdHqDM	Clarity Potion	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	mRhKjfhKd6K6DPB8f6Twg	Healing Potion	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	HkNT7zKrjgzBDp6Mq76Nm	Potion of Seeing	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	qLwNCBR9FCfnnPtPjkWNp	Potion of Déjà Vu	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	LRdKLkdKnTJ8CCczKmwzw	Potion of Ironhide	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	K6NjFFzbnPdFpFCDRLMrK	Potion of Luck	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	LWWn7QHqCdDCQRFqPKBJM	Talisman of Balance	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	gndDzrf8p9pprWwb6HwtL	Talisman of Cremation	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	6hDkMpLkc7DhKgtNQFwHP	Talisman of Featherfoot	2
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	9ttJWT9drbGLKtmTFMDqM	Talisman of Recompense	2
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	zhgmgL9kJnkNLdL9LK6kn	Talisman of Tithes	3
+jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	prmFpdjrdCqD9hDmHTfPK	Talisman of Warfare	2
 LJ9FRbpjJLcpHMM6wk6HW	Life of the Party	1	zHBTDcDtMLgTrqfnmTB9q	Crazy Brew	3
 7frtgrpJFT9fmwbnbfrP6	Life of the Party	2	zHBTDcDtMLgTrqfnmTB9q	Crazy Brew	3
 bbgPwChkMppQBfwfrfTtL	Life of the Party	3	zHBTDcDtMLgTrqfnmTB9q	Crazy Brew	3
@@ -296,6 +385,11 @@ NqrpkQtGmHDTpHHdjWHHb	Pick a Card, Any Card	2	TNJz9fCgqmhhLz9rP9tkt	Silver
 WQQFCnb8FKJn9HrzCNDmG	Even Bigger Than That!	1	cDpMQnr8LwPFGMdgffNb8	Quicken	
 QbtQ6rBPTTD99TNC7PGRM	Even Bigger Than That!	2	cDpMQnr8LwPFGMdgffNb8	Quicken	
 LDCrQmNm8bFk8wcCJ6pj9	Even Bigger Than That!	3	cDpMQnr8LwPFGMdgffNb8	Quicken	
+7BHmLFHMLWwnzR7Fhf667	Glistening Steelblade	2	Djhg6DMpCpFHD9rcPNFrN	Dorinthea Ironsong	
+7BHmLFHMLWwnzR7Fhf667	Glistening Steelblade	2	KGqRPDfRrnPqdj7Cm76fr	Dorinthea	
+7BHmLFHMLWwnzR7Fhf667	Glistening Steelblade	2	NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy	
+PrJkWBKNgtNdzhqhWLGFw	Dromai, Ash Artist		G6CnbFqjfGgKqqqmnCbMh	Ash	
+Dz6FcRBNMFdBt9fJPMB7d	Dromai		G6CnbFqjfGgKqqqmnCbMh	Ash	
 DgTbtnmDPchPRckcHTjpz	Silken Form		pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing	
 BPPzktrTM7CqMKmbmmkDH	Invoke Dracona Optimai	1	78FGMN9nn9QR9FDzC9z68	Dracona Optimai	
 C7PG6mkm7JPNTBWKJwHpt	Invoke Tomeltai	1	JQqp6Ctw7QMLRDMgTnW6g	Tomeltai	
@@ -346,6 +440,14 @@ MgfGgqG7wRNbwNGNmjKJr	Rise from the Ashes	1	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	
 bnBcm8CFRhPzFPbNmwbRG	Rise from the Ashes	2	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1
 JNchKhPQf6PpwzgqNQQM9	Rise from the Ashes	3	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1
 dJCRQcRmp7mhMTNDRgFN8	Thaw	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
+GRJN6ctjz9wPmFn9K7WHn	Red Hot	1	PrJkWBKNgtNdzhqhWLGFw	Dromai, Ash Artist	
+GRJN6ctjz9wPmFn9K7WHn	Red Hot	1	Dz6FcRBNMFdBt9fJPMB7d	Dromai	
+GRJN6ctjz9wPmFn9K7WHn	Red Hot	1	RjNJbgTJn7bJrjJHBdfC8	Fai, Rising Rebellion	
+GRJN6ctjz9wPmFn9K7WHn	Red Hot	1	QHNfbDkffrKWgwDw7MjwQ	Fai	
+7G8RpL8NqHQQH86gGbnwk	Rise Up	1	PrJkWBKNgtNdzhqhWLGFw	Dromai, Ash Artist	
+7G8RpL8NqHQQH86gGbnwk	Rise Up	1	Dz6FcRBNMFdBt9fJPMB7d	Dromai	
+7G8RpL8NqHQQH86gGbnwk	Rise Up	1	RjNJbgTJn7bJrjJHBdfC8	Fai, Rising Rebellion	
+7G8RpL8NqHQQH86gGbnwk	Rise Up	1	QHNfbDkffrKWgwDw7MjwQ	Fai	
 7G8RpL8NqHQQH86gGbnwk	Rise Up	1	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1
 kDgcBghDT7wRQwQWmpWRb	Burn Away	1	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1
 WnBPzmt9KKqqBpccHPJTG	Flameborn Retribution	1	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1
@@ -357,10 +459,14 @@ bTtrCGpnGPrnC7pNFt6pw	Freezing Point	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite
 NHCQbrdqqK7FbcWgKnwWn	Sigil of Permafrost	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 ng9bzdmgC7KjJKR87Qn8B	Sigil of Permafrost	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 7ffzcpNTNGrMwzNHkqWKH	Sigil of Permafrost	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
+zBQGRp777Mj9QPL7zTb9d	Ice Eternal	3	8KRCDf6drqhFMKK7hJhbM	Iyslander, Stormbind	
+zBQGRp777Mj9QPL7zTb9d	Ice Eternal	3	TmKrpP8tDg8bmpnqMPtgj	Iyslander	
 zBQGRp777Mj9QPL7zTb9d	Ice Eternal	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 pdJnb8zmwpRcmqbcH7JTH	Polar Cap	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 rfqChPM7KDBRhh789TtDm	Polar Cap	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 L9QHgTrJMCPMd6DfgDCNr	Polar Cap	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
+rNW8mjhb6qbTfr9PHLQqb	Frost Hex	3	8KRCDf6drqhFMKK7hJhbM	Iyslander, Stormbind	
+rNW8mjhb6qbTfr9PHLQqb	Frost Hex	3	TmKrpP8tDg8bmpnqMPtgj	Iyslander	
 rNW8mjhb6qbTfr9PHLQqb	Frost Hex	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 FHLMhFd7rHFC8LqNmLcJR	Isenhowl Weathervane	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 KwLBJgTd78DwgLWdpqRhN	Isenhowl Weathervane	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
@@ -424,6 +530,8 @@ HpMt88NkhFBNw7fpC6tkN	Blacktek Whisperers		TNJz9fCgqmhhLz9rP9tkt	Silver
 RnjfWPNBLBd9nGR8RdhnT	Mask of Perdition		TNJz9fCgqmhhLz9rP9tkt	Silver	
 CnzHmjrhb7TTzGJppkpfc	Eradicate	2	TNJz9fCgqmhhLz9rP9tkt	Silver	
 zWjNwt6zMt9hMq9TDKJWp	Leave No Witnesses	1	TNJz9fCgqmhhLz9rP9tkt	Silver	
+NBHQRhkBP8d99d8Nm96zb	Regicide	3	CKtFCgnGdwMDBh7dzDqqz	Arakni, Huntsman	
+NBHQRhkBP8d99d8Nm96zb	Regicide	3	9F7RHWjLgCDRqwMww99GN	Arakni	
 Wkmf8d6QjLGFqWMF8bcw6	Surgical Extraction	3	TNJz9fCgqmhhLz9rP9tkt	Silver	
 JJcft9d6mrcTCbwbkQTcB	Pay Day	3	TNJz9fCgqmhhLz9rP9tkt	Silver	
 6QdjhDLqHJ9DB8GHD6fmf	Plunder the Poor	1	TNJz9fCgqmhhLz9rP9tkt	Silver	
