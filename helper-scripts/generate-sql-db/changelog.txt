@@ -36,5 +36,5 @@
 02-17-23:
 - Added new card_face_associations table
 
-PENDING:
+02-25-23:
 - Added new card_references table
