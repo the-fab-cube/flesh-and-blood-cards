@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "description": "An array of representing all of the cards in Flesh and Blood that reference other cards by name (full or partial).",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "card_unique_id": {
+                "description": "The Unique ID of the card that is referencing another card.",
+                "type": "string"
+            },
+            "referenced_card_unique_id": {
+                "description": "The Unique ID of the card that is being referenced.",
+                "type": "string"
+            }
+        },
+        "required": [
+            "card_unique_id",
+            "referenced_card_unique_id"
+        ]
+    }
+}

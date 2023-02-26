@@ -56,6 +56,16 @@ Note: Cards in are organized by what main set they were initially released in in
 | Back Card Name | string | Name of the card that is on the back of the double-sided card. This field is purely for readability when maintaining the CSV and to help scripts verify data integrity, and is not used when generated JSON data. | Tomeltai  |
 | Back Card Variation | string | Variatio data for the card that is on the back of the double-sided card. This field is purely for readability when maintaining the CSV and to help scripts verify data integrity, and is not used when generated JSON data. | UPR007 – N  |
 
+## Card References
+| Field Name | Intended Data Type | Explanation | Example |
+| --- | --- | --- | --- |
+| Card Unique ID | string | The unique identifier for the card that is referencing another card. | r9GQj9McpQbr8Jf9jhkch  |
+| Card Name | string | Name of the card that is referencing another card. This field is purely for readability when maintaining the CSV and to help scripts verify data integrity, and is not used when generated JSON data. | Predatory Streak  |
+| Card Pitch | string | Pitch of the card that is referencing another card. This field is purely for readability when maintaining the CSV and to help scripts verify data integrity, and is not used when generated JSON data. | 1  |
+| Referenced Card Unique Id | string | The unique identifier for the card that is being referenced. | cJtC9QKfTGBtdJngJfgd6  |
+| Referenced Card Name | string | Name of the card that is being referenced. This field is purely for readability when maintaining the CSV and to help scripts verify data integrity, and is not used when generated JSON data. | Crouching Tiger  |
+| Referenced Card Pitch | string | Pitch of the card that is being referenced. This field is purely for readability when maintaining the CSV and to help scripts verify data integrity, and is not used when generated JSON data. |  |
+
 ## Edition
 | Field Name | Intended Data Type | Explanation | Example |
 | --- | --- | --- | --- |

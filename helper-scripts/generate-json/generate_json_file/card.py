@@ -13,6 +13,7 @@ def generate_json_file():
 
     set_json_path = Path(__file__).parent / "../../../json/english/set.json"
     card_face_association_json_path = Path(__file__).parent / "../../../json/english/card-face-association.json"
+    card_refrence_json_path = Path(__file__).parent / "../../../json/english/card-reference.json"
     banned_blitz_json_path = Path(__file__).parent / "../../../json/english/banned-blitz.json"
     banned_cc_json_path = Path(__file__).parent / "../../../json/english/banned-cc.json"
     banned_commoner_json_path = Path(__file__).parent / "../../../json/english/banned-commoner.json"
@@ -30,6 +31,7 @@ def generate_json_file():
         csvPath.open(newline='') as csvfile,
         set_json_path.open(newline='') as set_json_file,
         card_face_association_json_path.open(newline='') as card_face_association_json_file,
+        card_refrence_json_path.open(newline='') as card_reference_json_file,
         banned_blitz_json_path.open(newline='') as banned_blitz_json_file,
         banned_cc_json_path.open(newline='') as banned_cc_json_file,
         banned_commoner_json_path.open(newline='') as banned_commoner_json_file,
@@ -45,6 +47,7 @@ def generate_json_file():
 
         set_array = json.load(set_json_file)
         card_face_association_array = json.load(card_face_association_json_file)
+        card_reference_array = json.load(card_reference_json_file)
         banned_blitz_array = json.load(banned_blitz_json_file)
         banned_cc_array = json.load(banned_cc_json_file)
         banned_commoner_array = json.load(banned_commoner_json_file)
@@ -246,6 +249,22 @@ def generate_json_file():
             card_object['functional_text_plain'] = card_object['functional_text_plain']
             card_object['flavor_text'] = card_object['flavor_text']
             card_object['flavor_text_plain'] = card_object['flavor_text_plain']
+
+            referenced_cards = []
+            cards_referenced_by = []
+
+            for x in [x for x in card_reference_array]:
+                if x['card_unique_id'] == unique_id:
+                    referenced_cards.append(x['referenced_card_unique_id'])
+
+                if x['referenced_card_unique_id'] == unique_id:
+                    cards_referenced_by.append(x['card_unique_id'])
+
+            if len(referenced_cards) > 0:
+                card_object['referenced_cards'] = referenced_cards
+
+            if len(cards_referenced_by) > 0:
+                card_object['cards_referenced_by'] = cards_referenced_by
 
 
             # Card Printings
