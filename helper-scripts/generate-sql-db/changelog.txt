@@ -35,3 +35,6 @@
 
 02-17-23:
 - Added new card_face_associations table
+
+02-25-23:
+- Added new card_references table

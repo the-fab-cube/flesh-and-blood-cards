@@ -4,6 +4,7 @@ import generate_table_data.artist
 import generate_table_data.card
 import generate_table_data.card_face_association
 import generate_table_data.card_printing
+import generate_table_data.card_reference
 import generate_table_data.card_translation
 import generate_table_data.edition
 import generate_table_data.foiling
@@ -28,6 +29,7 @@ def create_tables(conn = None):
     generate_table_data.card.create_table(cur)
     generate_table_data.card_printing.create_table(cur)
     generate_table_data.card_face_association.create_table(cur)
+    generate_table_data.card_reference.create_table(cur)
     generate_table_data.card_translation.create_table(cur)
     generate_table_data.edition.create_table(cur)
     generate_table_data.foiling.create_table(cur)
@@ -49,6 +51,7 @@ def drop_tables(conn = None):
     generate_table_data.ability.drop_table(cur)
     generate_table_data.artist.drop_table(cur)
     generate_table_data.card_translation.drop_table(cur)
+    generate_table_data.card_reference.drop_table(cur)
     generate_table_data.card_face_association.drop_table(cur)
     generate_table_data.card_printing.drop_table(cur)
     generate_table_data.card.drop_table(cur)
@@ -86,6 +89,7 @@ def generate_all_table_data(conn = None, url_for_images = None):
     generate_table_data.card.generate_table_data(cur)
     generate_table_data.card_printing.generate_table_data(cur, url_for_images)
     generate_table_data.card_face_association.generate_table_data(cur, "english")
+    generate_table_data.card_reference.generate_table_data(cur)
     generate_table_data.edition.generate_table_data(cur)
     generate_table_data.foiling.generate_table_data(cur)
     generate_table_data.icon.generate_table_data(cur)

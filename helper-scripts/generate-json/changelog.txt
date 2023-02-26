@@ -42,3 +42,6 @@
 
 02-17-23:
 - Updated script to work with new card-face-association files and double-sided card data
+
+02-25-23:
+- Updated script to work with new card-reference files

@@ -358,8 +358,17 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated the card CSV and JSON files with info on card printing's double-sided card data (if they exist)
 - Updated the pre-commit-scripts.sh file to emit an error code if any of the component scripts fail
 
+02-25-23:
+- Added card data for LGS150-LGS152 and updated the functional text for Tripwire Trap, Pitfall Trap, and Rockslide Trap with the new errata - data entry credit: dcollinsn
+- Added the card-reference CSV and JSON files and associated schemas and documentation
+- Fixed an issue with the functional text of Herald of Rebirth's not having phantasm bolded
+- Fixed an issue in the functional text of Iris of Reality, 'Hexagore, the Death Hydra', Lunartide Plunderer, Captain's Call, Yinti Yanti, Snow Under, Shiver, and Explosive Growth
+- Fixed an issue where Invoke Suraya was missing flavor text
+- Fixed an issue where Iyslander's marvel UPR printing had the incorrect artist
+- Fixed an issue with Light it Up where it had a capitalization error in the name
+
 PENDING:
-- Added card data for FAB131-FAB132, HER073-HER074, LGS125-LGS127, LGS129-LGS132, LGS150-LGS152
+- Added card data for FAB131-FAB132, HER073-HER074, LGS125-LGS127, LGS129-LGS132
 - Added image links for LGS150-LGS152, LGS111, LGS113, LGS119
 - Added card data for OUT cards
 - Fixed an error in the functional text of Spring Tidings
