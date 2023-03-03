@@ -22,7 +22,7 @@
         "id": "HER",
         "name": "Hero Card Promos",
         "start_card_id": "HER000",
-        "end_card_id": "HER075",
+        "end_card_id": "HER077",
         "editions": [
             {
                 "unique_id": "NrpJFBQQGpNM8D9w8BBfG",
@@ -642,7 +642,7 @@
         "unique_id": "rqprmGL98FMqcPzPBpKmQ",
         "id": "OUT",
         "name": "Outsiders",
-        "start_card_id": "OUT021",
+        "start_card_id": "OUT001",
         "end_card_id": "OUT233",
         "editions": [
             {
