@@ -372,3 +372,4 @@ PENDING:
 - Added image links for LGS150-LGS152, LGS111, LGS113, LGS119
 - Added card data for OUT cards
 - Fixed an error in the functional text of Spring Tidings
+- Fixed a mispelling in Mateusz Wiśniewski's name (had been entered as Mateusz Wisniewski)
