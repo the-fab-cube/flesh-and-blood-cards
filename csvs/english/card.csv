@@ -4822,6 +4822,11 @@ pdMgMzHwDgBpCNjD7WGLD	DYN246	DYN	Spellbane Aegis							C	Generic, Token, Aura	Sp
 rNhtnPWtDDBzBp7mNdQtT	HER077, OUT001	HER, OUT	Uzuri, Switchblade					40	4	P, T	Assassin, Hero		Once per Turn Attack Reaction			**Once per Turn Attack Reaction** - Banish a card from your hand face down: Turn the card banished this way face up. If it's an attack action card with cost 2 or less, put target attacking card with **stealth** from the active chain link on the bottom of its owner's deck, then put the banished card onto the active chain link as the attacking card.		Assassin Hero	Jessada Sutthi				No	C - HER077 - N, S - OUT001 - N	k9bcjMqNccKmKpMKzr9fN - HER077 - N, ctrCNh8jrpmrtDnF8JLTD - OUT001 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT001.width-450.png - OUT001 - N						
 QmqN6fJJMnLDjLHKF7g97	HER076, OUT002	HER, OUT	Uzuri					20	4	P, T	Assassin, Hero, Young		Once per Turn Attack Reaction			**Once per Turn Attack Reaction** - Banish a card from your hand face down: Turn the card banished this way face up. If it's an attack action card with cost 2 or less, put target attacking card with **stealth** from the active chain link on the bottom of its owner's deck, then put the banished card onto the active chain link as the attacking card.		Assassin Hero – Young	soyameii					C - HER076 - N, S - OUT002 - N	GgwN9qCDDqtgTr98fzgmq - HER076 - N, T88ghT69FPDhBLJ6bLCcz - OUT002 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT002.width-450.png - OUT002 - N						
 jkwfjdcDbhRnDrPWDnwT9	HER079, OUT003	HER, OUT	Arakni, Solitary Confinement					19	4	P, T	Assassin, Hero, Young				Go again	Your first attack with **stealth** each turn has **go again**.		Assassin Hero – Young	Tomasz Jedruszek					C - HER079 - N, S - OUT003 - N	zT8mHNpjBRGfTg6Jz9QwQ - HER079 - N, CrMrwzB7FNRpP8wzMdbK6 - OUT003 - N							
+rFTttdrTGWGwd8dbpfN6M	OUT009	OUT	Scale Peeler			1				M	Assassin, Weapon, Dagger, 1H	Piercing 1	Once per Turn Action	Attack, Go again		"**Once per Turn Action** - {r}{r}: **Attack**. **Go again**
+
+**Piercing 1**
+
+When this hits a hero, the next time they defend with 1 or more equipment this turn, those equipment have -1{d} while defending."		Assassin Weapon - Dagger (1H)	Federico Musetti				No	S - OUT009 - N	K77JLDLHqwHwP9Wd87cqf - OUT009 - N							
 86gQBcFRPDjmJwnLd8dpL	OUT012	OUT	Infiltrate	1	0	3	3			M	Assassin, Action, Attack	Stealth				"**Stealth**
 
 When this hits a hero, banish the top card of their deck. You may play it until the end of your next turn."		Assassin Action - Attack	Isuardi Therianto				No	S - OUT012 - N	rkpPtCg8crLDN9hPNQmmH - OUT012 - N							
@@ -4912,13 +4917,15 @@ jNbd7cDQccq8zTwgTT8Rb	OUT101	OUT	Barbed Undertow	1	1	5	3			M	Ranger, Action, Arr
 NzT7pTMkkPCfNr79ftFtG	OUT103	OUT	Collapsing Trap	3	0		3			M	Ranger, Defense Reaction, Trap	Legendary, Riptide Specialization				"**Legendary Riptide Specialization**
 
 When this defends an attack with **go again**, the attacking hero discards their hand then draws that many cards minus 1."		Ranger Defense Reaction - Trap	Raphael Pinna				No	S - OUT103 - N	kc7BP8RPCn97rtmDkC9Lf - OUT103 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT103.width-350.png - OUT103 - N						
-RmJbJDhmdzRFfHhj96G9f	OUT124	OUT	Sedation Shot	1	1	5	3			C	Ranger, Action, Arrow, Attack					"If Sedation Shot has an aim counter, it has +1{p}.
+TKbhhR76bQGjhdtNJhTBR	OUT124	OUT	Sedation Shot	1	1	5	3			C	Ranger, Action, Arrow, Attack					"If Sedation Shot has an aim counter, it has plus 1 {p}.
 
-When this hits a hero, create an Inertia token under their control."		Ranger Action - Arrow Attack	Elena Bakulina					S - OUT124 - N	CGmMpbkqPmcgbcn7DCMGc - OUT124 - N							
+When this hits a hero, create an Inertia token under their control."		Ranger Action - Arrow Attack	Elena Bakulina					S - OUT124 - N	gKPLBzqRcNJL9khng98GB - OUT124 - N							
 Bh6NHMCNrhdwbHb7CJRb7	OUT139	OUT	Flick Knives				1			L	Assassin, Ninja, Equipment, Arms	Blade Break	Once per Turn Attack Reaction			"**Once per Turn Attack Reaction** - 0: Target dagger you control that isn't on the active chain link deals 1 damage to target hero. If damage is dealt this way, the dagger has hit. Destroy the dagger.
 
 **Blade Break**"		Assassin / Ninja Equipment - Arms	Nathaniel Himawan				No	S - OUT139 - N	r8hNttwmQ7QPktRrq8mwk - OUT139 - N							
-mkfz8NnwhFzcrPbf6KMjF	OUT142	OUT	Stab Wound	3	0	2	3			M	Assassin, Ninja, Action, Attack					When this hits a hero, they lose X{h}, where X is the number of times a dagger has hit this combat chain.		Assassin / Ninja Action - Attack	Narendra B Adi				No	S - OUT142 - N	CkLrzj6hDBCzMWCq8pBjD - OUT142 - N							
+RmJbJDhmdzRFfHhj96G9f	OUT124	OUT	Sedation Shot	1	1	5	3			C	Ranger, Action, Arrow, Attack					"If Sedation Shot has an aim counter, it has +1{p}.
+
+When this hits a hero, create an Inertia token under their control."		Ranger Action - Arrow Attack	Elena Bakulina					S - OUT124 - N	CGmMpbkqPmcgbcn7DCMGc - OUT124 - N							
 D9hnm7hf7fWbFWtqKbKFb	OUT148	OUT	Hurl	1	0	3	2			R	Assassin, Ninja, Action, Attack	Go Again				"As an additional cost to play Hurl, you may pay {R}. When you do, it gains When this attack, target dagger you control deals 1 damage to target hero. If damage is dealth this way, the dagger has hit. Destroy the dagger.""
 
 **Go again**"		Assassin / Ninja Action - Attack	Tanapon Wachirakul				No	S - OUT148 - N	qjkfpJJgwqbhpf8RmGfcP - OUT148 - N							
