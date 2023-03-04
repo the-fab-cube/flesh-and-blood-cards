@@ -4822,11 +4822,11 @@ pdMgMzHwDgBpCNjD7WGLD	DYN246	DYN	Spellbane Aegis							C	Generic, Token, Aura	Sp
 rNhtnPWtDDBzBp7mNdQtT	HER077, OUT001	HER, OUT	Uzuri, Switchblade					40	4	P, T	Assassin, Hero		Once per Turn Attack Reaction			**Once per Turn Attack Reaction** - Banish a card from your hand face down: Turn the card banished this way face up. If it's an attack action card with cost 2 or less, put target attacking card with **stealth** from the active chain link on the bottom of its owner's deck, then put the banished card onto the active chain link as the attacking card.		Assassin Hero	Jessada Sutthi				No	C - HER077 - N, S - OUT001 - N	k9bcjMqNccKmKpMKzr9fN - HER077 - N, ctrCNh8jrpmrtDnF8JLTD - OUT001 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT001.width-450.png - OUT001 - N						
 QmqN6fJJMnLDjLHKF7g97	HER076, OUT002	HER, OUT	Uzuri					20	4	P, T	Assassin, Hero, Young		Once per Turn Attack Reaction			**Once per Turn Attack Reaction** - Banish a card from your hand face down: Turn the card banished this way face up. If it's an attack action card with cost 2 or less, put target attacking card with **stealth** from the active chain link on the bottom of its owner's deck, then put the banished card onto the active chain link as the attacking card.		Assassin Hero – Young	soyameii					C - HER076 - N, S - OUT002 - N	GgwN9qCDDqtgTr98fzgmq - HER076 - N, T88ghT69FPDhBLJ6bLCcz - OUT002 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT002.width-450.png - OUT002 - N						
 jkwfjdcDbhRnDrPWDnwT9	HER079, OUT003	HER, OUT	Arakni, Solitary Confinement					19	4	P, T	Assassin, Hero, Young				Go again	Your first attack with **stealth** each turn has **go again**.		Assassin Hero – Young	Tomasz Jedruszek					C - HER079 - N, S - OUT003 - N	zT8mHNpjBRGfTg6Jz9QwQ - HER079 - N, CrMrwzB7FNRpP8wzMdbK6 - OUT003 - N							
-wrBpz9J66tTJtRK67FWdp	OUT007	OUT	Orbitoclast			1				M	Assassin, Weapon, Dagger, 1H	Piercing 1	Once per Turn Action	Attack, Go again		"**Once per Turn Action** - {r}{r}: **Attack**. **Go again**
+wrBpz9J66tTJtRK67FWdp	OUT007, OUT008	OUT, OUT	Orbitoclast			1				M, M	Assassin, Weapon, Dagger, 1H	Piercing 1	Once per Turn Action	Attack, Go again		"**Once per Turn Action** - {r}{r}: **Attack**. **Go again**
 
 **Piercing 1**
 
-When this hits a hero, the next time they defend with 1 or more 'non-attack' action cards this turn, those cards have -1{d} while defending."		Assassin Weapon - Dagger (1H)	Alexis Susani				No	S - OUT007 - N	DGFkH9mDFgtgpLmfWdJ8z - OUT007 - N							
+When this hits a hero, the next time they defend with 1 or more 'non-attack' action cards this turn, those cards have -1{d} while defending."		Assassin Weapon - Dagger (1H)	Alexis Susani				No	S - OUT007 - N, S - OUT008 - N	DGFkH9mDFgtgpLmfWdJ8z - OUT007 - N, HKHpbmnc86fghHBwFkHRP - OUT008 - N							
 rFTttdrTGWGwd8dbpfN6M	OUT009, OUT010	OUT, OUT	Scale Peeler			1				M, M	Assassin, Weapon, Dagger, 1H	Piercing 1	Once per Turn Action	Attack, Go again		"**Once per Turn Action** - {r}{r}: **Attack**. **Go again**
 
 **Piercing 1**
@@ -4965,6 +4965,9 @@ When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under th
 tHhztGzBGFRrLKTWCtg7f	OUT164	OUT	Death Touch	3	1	4	2			R	Assassin, Ranger, Action, Attack					"Death Touch can't be played from hand.
 
 When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control."	"""Inoculate yourself with this merciful madness, that you may survive the horrors to come..."" - book of the raven, l'Apocalypta"	Assassin / Ranger Action - Attack	Saad Irfan					S - OUT164 - N	FNkLfDpQz7Q9pkQFwnzrH - OUT164 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT164.width-450.png - OUT164 - N						
+JrjbG9mbwQC8zQcnPRhHg	OUT168	OUT	Virulent Touch	1	0	4	2			C	Assassin, Ranger, Action, Attack					"Virulent Touch can't be played from hand.
+
+When this chain link resolves, if Virulent Touch is defended by a card from hand, create a Bloodrot Pox token under the defending hero's control."		Assassin / Ranger Action - Attack	Mark Poole					S - OUT168 - N	nLh6wnwCbBn7wMnfHMCn9 - OUT168 - N							
 JckmT8QFTgHWrGCBPNWKh	OUT195	OUT	Looking for a Scrap	1	1	4	2			R	Generic, Action, Attack	Go again				As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.		Generic Action - Attack	Shen Fei				No	S - OUT195 - N	gcPwtPgKq76n7kNwtThFm - OUT195 - N							
 JwTrbpHfNtCHmMnBmqrtb	OUT198	OUT	Wreck Havoc	1	2	6	2			R	Generic, Action, Attack					"Defense reactions can't be played to Wreck Havoc's chain link.
 
