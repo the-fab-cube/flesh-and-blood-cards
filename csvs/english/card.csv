@@ -4912,10 +4912,13 @@ jNbd7cDQccq8zTwgTT8Rb	OUT101	OUT	Barbed Undertow	1	1	5	3			M	Ranger, Action, Arr
 NzT7pTMkkPCfNr79ftFtG	OUT103	OUT	Collapsing Trap	3	0		3			M	Ranger, Defense Reaction, Trap	Legendary, Riptide Specialization				"**Legendary Riptide Specialization**
 
 When this defends an attack with **go again**, the attacking hero discards their hand then draws that many cards minus 1."		Ranger Defense Reaction - Trap	Raphael Pinna				No	S - OUT103 - N	kc7BP8RPCn97rtmDkC9Lf - OUT103 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT103.width-350.png - OUT103 - N						
+RmJbJDhmdzRFfHhj96G9f	OUT124	OUT	Sedation Shot	1	1	5	3			C	Ranger, Action, Arrow, Attack					"If Sedation Shot has an aim counter, it has +1{p}.
+
+When this hits a hero, create an Inertia token under their control."		Ranger Action - Arrow Attack	Elena Bakulina					S - OUT124 - N	CGmMpbkqPmcgbcn7DCMGc - OUT124 - N							
 Bh6NHMCNrhdwbHb7CJRb7	OUT139	OUT	Flick Knives				1			L	Assassin, Ninja, Equipment, Arms	Blade Break	Once per Turn Attack Reaction			"**Once per Turn Attack Reaction** - 0: Target dagger you control that isn't on the active chain link deals 1 damage to target hero. If damage is dealt this way, the dagger has hit. Destroy the dagger.
 
 **Blade Break**"		Assassin / Ninja Equipment - Arms	Nathaniel Himawan				No	S - OUT139 - N	r8hNttwmQ7QPktRrq8mwk - OUT139 - N							
-kGnRg6Kgz9P68LnjncPGj	OUT142	OUT	Stab Wound	3	0	2	3			M	Assassin, Ninja, Action, Attack					When this hits a hero, they lose X{h}, where X is the number of times a dagger has hit this combat chain.		Assassin / Ninja Action - Attack	Narendra B Adi				No	S - OUT142 - N	wnzhLmtnCTh9cQq9dPGpN - OUT142 - N							
+mkfz8NnwhFzcrPbf6KMjF	OUT142	OUT	Stab Wound	3	0	2	3			M	Assassin, Ninja, Action, Attack					When this hits a hero, they lose X{h}, where X is the number of times a dagger has hit this combat chain.		Assassin / Ninja Action - Attack	Narendra B Adi				No	S - OUT142 - N	CkLrzj6hDBCzMWCq8pBjD - OUT142 - N							
 D9hnm7hf7fWbFWtqKbKFb	OUT148	OUT	Hurl	1	0	3	2			R	Assassin, Ninja, Action, Attack	Go Again				"As an additional cost to play Hurl, you may pay {R}. When you do, it gains When this attack, target dagger you control deals 1 damage to target hero. If damage is dealth this way, the dagger has hit. Destroy the dagger.""
 
 **Go again**"		Assassin / Ninja Action - Attack	Tanapon Wachirakul				No	S - OUT148 - N	qjkfpJJgwqbhpf8RmGfcP - OUT148 - N							
