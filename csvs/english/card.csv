@@ -4908,6 +4908,7 @@ rpWjb6pnqgzTH7Cgcf98w	OUT042	OUT	Razor's Edge	1	0		3			C	Assassin, Attack Reacti
 7qrdPcNmtPt9HN6TQHNJR	OUT049	OUT	Mask of Many Faces				1			C	Ninja, Equipment, Head	Blade Break	Instant			"**Instant** - {r}, destroy Mask of Many Faces: Name a card. The next attack action card you play this turn gains that name.
 
 **Blade Break**"		Ninja Equipment - Head	Carlos Cruchaga					S - OUT049 - N	9mkWMFKFtn8rnJtTtz8NT - OUT049 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT049.width-450.png - OUT049 - N						
+fMTdMtzzft7bLzG9DpjNc	OUT050	OUT	Cyclone Roundhouse	2	2	5	3			M	Ninja, Action, Attack	Combo				"**Combo** - If Spinning Wheel Kick was the last attack this combat chain, this has ""At the beginning of the reaction step, banish a random defending card from each chain link."""		Ninja Action - Attack	Narendra B Adi				No	S - OUT050 - N	CkFNKjHkw8h9QmkQgFdQ9 - OUT050 - N							
 WRhC8n6HHNkRn6MjzDHDL	OUT051	OUT	Dishonor	3	0	2	3			M	Ninja, Action, Attack	Combo				"**Combo** - If Bonds of Ancestry was the last attack this combat chain, this has +2{p}.
 
 When this hits a hero, if you control Surging Strike, Descendent Gustwave, and Bonds of Ancestry, that hero loses all abilities for the rest of the game."		Ninja Action - Attack	Faizal Fikri				No	S - OUT051 - N	KJzcJWqWB6rwmNHp6FmrC - OUT051 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT051_tyYCr6g.width-450.png - OUT051 - N						
@@ -4924,6 +4925,9 @@ RMH9HdzcjCWdzLR7qwgbm	OUT056	OUT	Bonds of Ancestry	1	2	4	3			R	Ninja, Action, At
 dPTR67DTztNrb8wdFHnGW	OUT057	OUT	Bonds of Ancestry	2	2	3	3			R	Ninja, Action, Attack	Combo, Go again				"**Combo** - If a card with Gustwave in its name was the last attack this combat chain, this costs {r}{r} less to play, and has **go again** and ""When this attacks, you may banish a card with **combo** from your graveyard. If you do, search your deck for a card with the same name, banish it, then shuffle. You may play it this combat chain."""		Ninja Action - Attack	Faizal Fikri				No	S - OUT057 - N	WrLKH98PC78dNWQHp8pfw - OUT057 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT057.width-450.png - OUT057 - N						
 jrHMpbmnF6Hh97PffFzG8	OUT058	OUT	Bonds of Ancestry	3	2	2	3			R	Ninja, Action, Attack	Combo, Go again				"**Combo** - If a card with Gustwave in its name was the last attack this combat chain, this costs {r}{r} less to play, and has **go again** and ""When this attacks, you may banish a card with **combo** from your graveyard. If you do, search your deck for a card with the same name, banish it, then shuffle. You may play it this combat chain."""		Ninja Action - Attack	Faizal Fikri				No	S - OUT058 - N	kcn6L7NgKrBcqH9krdtCK - OUT058 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT058.width-450.png - OUT058 - N						
 bPqdbNw8HjNhTcGFGnQrB	OUT059	OUT	Recoil	1	0	3	3			R	Ninja, Action, Attack	Combo, Go again				"**Combo** - If Head Jab was the last attack this combat chain, this has ""When this hits a hero, they put a card from their hand on top of their deck."""		Ninja Action - Attack	Le Vuong				No	S - OUT059 - N	K9WzfGwDcj7whMgGN7BMB - OUT059 - N							
+8w9NwkkKWrtCGbmBBcfJR	OUT062	OUT	Spinning Wheel Kick	1	1	4	2			R	Ninja, Action, Attack	Combo, Go again				"**Combo** - If Twin Twisters or Spinning Wheel Kick was the last attack this combat chain, this has +1{p} and ""When this hits, put it on the bottom of its owner's deck.""
+
+**Go again**"		Ninja Action - Attack	Le Vuong				No	S - OUT062 - N	ghpNqKbHJDRQK9QFGBMW9 - OUT062 - N							
 PJDPmhdhzfMjC6BqnTfRQ	OUT065	OUT	Back Heel Kick	1	0	3	3			C	Ninja, Action, Attack	Combo				**Combo** - If Twin Twisters was the last attack this combat chain, this has If Back Heel Kick would gain {p}, instead it gains that much plus 1.		Ninja Action - Attack	Phu Thieu					S - OUT065 - N	cc8LC6drN9mzkzTgwWK9R - OUT065 - N							
 F6FCWBgBckkm8pn89TCfn	OUT068	OUT	Be Like Water	1	0	3	2			C	Ninja, Action, Attack	Go again				"When this hits, you may pay {r}. If you do, choose Head Jab, Surging Strike, or Twin Twisters. This gains the chosen name.
 
@@ -4938,22 +4942,44 @@ ppcfhRgNk9GH8QWRpMbdt	OUT074	OUT	Descendent Gustwave	1	1	3	2			C	Ninja, Action, 
 
 **Go again**"		Ninja Action - Attack	Faizal Fikri					S - OUT074 - N	HDbGBTgmBHmhHRKPRmfmR - OUT074 - N							
 pFLwpNDCLLMNtd7rRqNMf	OUT080	OUT	One-Two Punch	1	0	3	3			C	Ninja, Action, Attack	Combo, Go again				**Combo** - If Head Jab was the last attack this combat chain, this has When this hits a hero, deal 2 damage to them.		Ninja Action - Attack	Tommy Suhartono					S - OUT080 - N	fqg9TqG6WC6P8pDcnL89C - OUT080 - N							
+RNfgGmc8wHgBrmC6gkqBd	OUT091	OUT	Riptide, Lurker of the Deep					38	4	T	Ranger, Hero					"Whenever you play a card from hand, you may put a card from hand face down into your arsenal.
+
+Whenever a trap you control triggers, deal 1 damage to the attacking hero."		Ranger Hero	Joseph Qiu					S - OUT091 - N	bzbhhTKHjBNDDd9BfMBBd - OUT091 - N							
+DhffBQC7PHwzdJpjTjNBm	OUT092	OUT	Riptide					19	4	T	Ranger, Hero, Young					"Whenever you play a card from hand, you may put a card from hand face down into your arsenal.
+
+Whenever a trap you control triggers, deal 1 damage to the attacking hero."		Ranger Hero – Young	Joseph Qiu					S - OUT092 - N	8pBgMgRTnkDhkqtzNmqM6 - OUT092 - N							
 jPfMCnKDptNbCbp6T96dT	LGS129, OUT093	LGS, OUT	Barbed Castaway							P, T	Ranger, Weapon, Bow, 2H	Once per Turn Instant				"**Once per Turn Instant** - {r}: You may put an arrow card from your hand face up into your arsenal.
 
 **Once per Turn Instant** - {r}: You may turn a face down arrow in your arsenal face up. If you do, put an aim counter on it."		Ranger Weapon - Bow (2H)	Tanapon Wachirakul					C - LGS129 - N, S - OUT093 - N	bpLfzdqbBjCwpcggTTBkB - LGS129 - N, 76NptkhBwCm7FCCQfHf78 - OUT093 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/card_Barbed_Castaway.width-10000.png - LGS129 - N, https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT093.width-450.png - OUT093 - N						
+rmTKDcDNJrDFRMdKrRmdH	OUT094	OUT	Trench of Sunken Treasure				1			L	Ranger, Equipment, Chest	Arcane Barrier 1, Blade Break	Instant			"**Once per Turn Instant** - Put a face down card from your arsenal on the bottom of your deck: Gain {r}
+
+**Arcane Barrier 1**
+
+**Blade Break**"		Ranger Equipment - Chest	Federico Musetti					S - OUT094 - N	FzqRRtbF6mrQHphJjbGqf - OUT094 - N							
 Pc9dDNQmwKnmDbgf6jrLH	OUT096	OUT	Quiver of Rustling Leaves							M	Ranger, Equipment, Quiver		Instant			" *(A quiver can be equipped in a weapon zone in addition to a bow.)*
 
 **Instant** - {r}{r}{r}: Reveal the top card of your deck. If it's an arrow, put it face up into your arsenal and destroy Quiver of Rustling Leaves."		Ranger Equipment - Quiver	Mark Poole				No	S - OUT096 - N	drWwbqQjHrfnw8TLKJLrm - OUT096 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT096.width-450.png - OUT096 - N						
+QqNbkbMnDhQrdrBj77Qpr	OUT097	OUT	Crow's Nest							T	Ranger, Equipment, Quiver	Azalea Specialization				"**Azalea Specialization**
+
+Whenever an arrow is put face up into your arsenal from your deck, you may pay {r}. If you do, put an aim counter on it."		Ranger Equipment - Quiver	Carlos Cruchaga					S - OUT097 - N	jBhwf8wDqL6fBczBBLhRN - OUT097 - N							
+6GbtFTnH86TCFdKLMdrPk	OUT098	OUT	Driftwood Quiver							T	Ranger, Equipment, Quiver	Riptide Specialization	Instant			"**Riptide Specialization**
+
+**Instant** - Destroy Driftwood Quiver: Put a card from your arsenal on the bottom of your deck."		Ranger Equipment - Quiver	Jessada Sutthi					S - OUT098 - N	dqrjDnBNDHwhTMTrjwCrK - OUT098 - N							
 jNbd7cDQccq8zTwgTT8Rb	OUT101	OUT	Barbed Undertow	1	1	5	3			M	Ranger, Action, Arrow, Attack					"If Barbed Undertow has an aim counter, it gains ""When this hits a hero, choose red, yellow, or blue. Until the start of your next turn, they can't pitch cards of the chosen color."""		Ranger Action - Arrow Attack	Junaidi Lim				No	S - OUT101 - N	Bjc8pqfnKBG6dJm7MrjzG - OUT101 - N							
 NzT7pTMkkPCfNr79ftFtG	OUT103	OUT	Collapsing Trap	3	0		3			M	Ranger, Defense Reaction, Trap	Legendary, Riptide Specialization				"**Legendary Riptide Specialization**
 
 When this defends an attack with **go again**, the attacking hero discards their hand then draws that many cards minus 1."		Ranger Defense Reaction - Trap	Raphael Pinna				No	S - OUT103 - N	kc7BP8RPCn97rtmDkC9Lf - OUT103 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT103.width-350.png - OUT103 - N						
+zRPmCL8MkNKkwkKb7GRbn	OUT104	OUT	Spike Pit Trap	3	0		3			M	Ranger, Defense Reaction, Trap	Legendary, Riptide Specialization				"**Legendary Riptide Specialization**
+
+When this defends and the attacking hero has played or activated a reaction this chain link, put the top card of their deck into their graveyard, then they lose X{l}, where X is the number of cards in their graveyard with that name."		Ranger Defense Reaction - Trap	Henrique Lindner				No	S - OUT104 - N	DdGBBRRGjcnQ6M8TnLFcB - OUT104 - N							
 CfdKKTqndtGPNzdh6gJ8w	OUT105	OUT	Melting Point	1	1		3			M	Ranger, Action	Go again				"Your next arrow attack this turn gains +4{p}.
 
 If it has an aim counter, it gains ""When this hits a hero, destroy a 1H weapon they control with 1 base {p}.""
 
 **Go again**"		Ranger Action	Carlos Cruchaga				No	S - OUT105 - N	h6TcKMhHBCKpnJkNFP79k - OUT105 - N							
+9T6MpdKGz7bnbQpJrNQjq	OUT106	OUT	Boulder Trap	2	0		3			R	Ranger, Defense Reaction, Trap					When this defends an attack with {p} greater than its base, put a -1{d} counter on an equipment the attacking hero controls.		Ranger Defense Reaction - Trap	Mateusz Wiśniewski				No	S - OUT106 - N	kbLJ9JfbNTqgm9nnBR7th - OUT106 - N							
 QGHNhTQCTGmdJ9FRDbTNC	OUT107	OUT	Pendulum Trap	2	0		3			R	Ranger, Defense Reaction, Trap					When this defends and the attacking hero has played or activated a reaction this chain link, put the top 2 cards of their deck into their graveyard.		Ranger Defense Reaction - Trap	Rio Sabda				No	S - OUT107 - N	7q6GNpWfn6NWTpLrfLbcG - OUT107 - N							
+BPHDqTPTT6nKHGjRqjFzR	OUT108	OUT	Tarpit Trap	2	0		3			R	Ranger, Defense Reaction, Trap					When this defends an attack with **go again**, the next time an attack action card hits this turn, effects don't trigger.		Ranger Defense Reaction - Trap	Rio Sabda				No	S - OUT108 - N	hc9kK8GR6FQhKfrHhm9FB - OUT108 - N							
 pj8DmGTHp6bDzpLdz968F	OUT109	OUT	Fletch a Red Tail	1	1		2			R	Ranger, Action	Go again				"Your next arrow attack this turn gains +4{p}.
 
 If it has an aim counter, it gains ""Red cards have -1{d} while defending this.""
@@ -4969,9 +4995,15 @@ wQHKQHcJLKwBRwgNG8QMB	OUT111	OUT	Fletch a Blue Tail	3	1		2			R	Ranger, Action	Go
 If it has an aim counter, it gains ""Blue cards have -1{d} while defending this.""
 
 **Go again**"		Ranger Action	Alexis Susani				No	S - OUT111 - N	jqnRwFfJMtHThdKwmHftb - OUT111 - N							
+gdFrmMtzgg8DcqjN6tfBM	OUT112	OUT	Lace with Bloodrot	1	0		2			R	Ranger, Action	Go again				"Your next arrow attack this turn gains +3{p} and ""When this hits a hero, create a Bloodrot Pox token under their control.""
+
+**Go again**"		Ranger Action	Phu Thieu				No	S - OUT112 - N	drhL8ndR7pnckTNWtrhQd - OUT112 - N							
 n877nqgWkLDfjQBwM7DM7	OUT114	OUT	Lace with Inertia	1	0		2			R	Ranger, Action	Go again				"Your next arrow attack this turn gains +3{p} and ""When this hits a hero, create an Inertia token under their control.""
 
 **Go again**"		Ranger Action	Shen Fei				No	S - OUT114 - N	zmhgBHFDH6tkgjPLdCmQL - OUT114 - N							
+8fFPCT68cgF9gbWKppDgQ	OUT118	OUT	Infecting Shot	1	1	5	3			C	Ranger, Action, Arrow, Attack					"If Infecting Shot has an aim counter, it has +1{p}.
+
+When this hits a hero, create a Bloodrot Pox token under their control."		Ranger Action - Arrow Attack	Kalashnikova N.					S - OUT118 - N	hbn8F7pQghWjbCTTdKRqF - OUT118 - N							
 pwFkWbwFjKnnhTNQzgLJK	OUT121	OUT	Murkmire Grapnel	1	0	4	3			C	Ranger, Action, Arrow, Attack					"If Murkmire Grapnel has an aim counter, it has +1{p}.
 
 Damage that would be dealt by Murkmire Grapnel can't be prevented"		Ranger Action - Arrow Attack	Marco González					S - OUT121 - N	bCHh9jNwqhnbkM9d6WQ7b - OUT121 - N							
@@ -5003,6 +5035,9 @@ D9hnm7hf7fWbFWtqKbKFb	OUT148	OUT	Hurl	1	0	3	2			R	Assassin, Ninja, Action, Attac
 w9HnkqMCpr6WNFKF8wpH6	OUT154	OUT	Short and Sharp	1	1		2			C	Assassin, Ninja, Attack Reaction					"Choose 1;
 - Target dagger attack gains +3{p}.
 - Target attack action card with 2 or less base {p} gains +3{p}."		Assassin / Ninja Attack Reaction	Tommy Suhartono					S - OUT154 - N	69fprcBTnhbC6Nrwq6CQp - OUT154 - N							
+WLbcgwmGhWDWgdcbdjgWt	OUT157	OUT	Mask of Malicious Manifestations				1			C	Assassin, Ranger, Equipment, Head	Blade break	Action	Go again		"**Action** - {r}, put a card from your hand or arsenal on the bottom of your deck, destroy Mask of Malicious Manifestations: Reveal cards from the top of your deck until you reveal an attack action card. Put it into your hand, then shuffle. **Go again**
+
+**Blade break**"		Assassin / Ranger Equipment - Head	Isuardi Therianto					S - OUT157 - N	Bfwtg6BnqCPrtdWDPTkJz - OUT157 - N							
 QCKJqg6QMPR9pLPBCJQJK	OUT158	OUT	Toxic Tips				1			C	Assassin, Ranger, Equipment, Arms	Blade Break	Action	Go again		"**Action** - {r}, destroy Toxic Tips: The next attack action card you play this turn gains ""When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control."" **Go again**
 
 **Blade Break**"		Assassin / Ranger Equipment - Arms	Shen Fei					S - OUT158 - N	TdpTpz9jrrmDKLwB6LKRm - OUT158 - N							
