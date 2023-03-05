@@ -4945,6 +4945,9 @@ wLNgpgF6DJHmgfFHMnnpK	OUT141	OUT	Blade Cuff				1			C	Assassin, Ninja, Equipment,
 
 **Blade Break**"		Assassin / Ninja Equipment - Arms	Federico Musetti					S - OUT141 - N	bNtfq8Jb6tmwGBbgjkwC7 - OUT141 - N							
 kGnRg6Kgz9P68LnjncPGj	OUT142	OUT	Stab Wound	3	0	2	3			M	Assassin, Ninja, Action, Attack					When this hits a hero, they lose X{h}, where X is the number of times a dagger has hit this combat chain.		Assassin / Ninja Action - Attack	Narendra B Adi				No	S - OUT142 - N	wnzhLmtnCTh9cQq9dPGpN - OUT142 - N							
+gcnq79gmpgkBRdwdGMmTw	OUT145	OUT	Bleed Out	1	2	4	2			R	Assassin, Ninja, Action, Attack	Go again				"Bleed Out costs X resource points less to play, where X is the total damage you've dealt with daggers this combat chain.
+
+**Go again**"		Assassin / Ninja Action - Attack	Marco González				No	S - OUT145 - N	CHmKntnm9mJcGRnGmw8DN - OUT145 - N							
 D9hnm7hf7fWbFWtqKbKFb	OUT148	OUT	Hurl	1	0	3	2			R	Assassin, Ninja, Action, Attack	Go Again				"As an additional cost to play Hurl, you may pay {R}. When you do, it gains When this attack, target dagger you control deals 1 damage to target hero. If damage is dealth this way, the dagger has hit. Destroy the dagger.""
 
 **Go again**"		Assassin / Ninja Action - Attack	Tanapon Wachirakul				No	S - OUT148 - N	qjkfpJJgwqbhpf8RmGfcP - OUT148 - N							
@@ -4973,10 +4976,14 @@ When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under th
 tHhztGzBGFRrLKTWCtg7f	OUT164	OUT	Death Touch	3	1	4	2			R	Assassin, Ranger, Action, Attack					"Death Touch can't be played from hand.
 
 When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control."	"""Inoculate yourself with this merciful madness, that you may survive the horrors to come..."" - book of the raven, l'Apocalypta"	Assassin / Ranger Action - Attack	Saad Irfan					S - OUT164 - N	FNkLfDpQz7Q9pkQFwnzrH - OUT164 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT164.width-450.png - OUT164 - N						
+zwgLwBLL7dKzhJDdBtNrt	OUT165	OUT	Toxicity	1	0		2			R	Assassin, Ranger, Action	Go again				"The next Assassin or Ranger attack action card you play this turn gains ""When this hits a hero, they lose 5{h}.""
+
+**Go again**"		Assassin / Ranger Action	Federico Musetti				No	S - OUT165 - N	rwbQBT7MhHmrCnTrtg9QP - OUT165 - N							
 JrjbG9mbwQC8zQcnPRhHg	OUT168	OUT	Virulent Touch	1	0	4	2			C	Assassin, Ranger, Action, Attack					"Virulent Touch can't be played from hand.
 
 When this chain link resolves, if Virulent Touch is defended by a card from hand, create a Bloodrot Pox token under the defending hero's control."		Assassin / Ranger Action - Attack	Mark Poole					S - OUT168 - N	nLh6wnwCbBn7wMnfHMCn9 - OUT168 - N							
 87BJMWWHfPLKMqPbtmFHQ	OUT183	OUT	Amnesia	1	2	6	3			M	Generic, Action, Attack					When this hits a hero, cards and tokens they own lose and can't gain names until the start of your next turn.		Generic Action - Attack	Riordan Delmiro				No	S - OUT183 - N	Pqjztg9JMpWHBrbDGmRMM - OUT183 - N							
+mJbdJCLQD9jgQRMPjBrLB	OUT186	OUT	Gore Belching	1	0	7				M	Generic, Action, Attack					When this attacks, reveal cards from the top of your deck until you reveal an attack action card. If you do, banish it and this gets -X{p}, where X is the {p} of the card banished this way. Otherwise, this gets -7{p}. Shuffle.		Generic Action - Attack	Nikolay Moskvin				No	S - OUT186 - N	dFhRWH9Hp9GJLPnJDNn7t - OUT186 - N							
 JckmT8QFTgHWrGCBPNWKh	OUT195	OUT	Looking for a Scrap	1	1	4	2			R	Generic, Action, Attack	Go again				As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.		Generic Action - Attack	Shen Fei				No	S - OUT195 - N	gcPwtPgKq76n7kNwtThFm - OUT195 - N							
 JwTrbpHfNtCHmMnBmqrtb	OUT198	OUT	Wreck Havoc	1	2	6	2			R	Generic, Action, Attack					"Defense reactions can't be played to Wreck Havoc's chain link.
 
