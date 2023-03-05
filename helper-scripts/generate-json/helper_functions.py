@@ -107,4 +107,9 @@ def treat_blank_string_as_none(field):
     return field
 
 def treat_string_as_boolean(field, default_value=True):
+    if field == 'No':
+        return False
+    if field == 'Yes':
+        return True
+
     return bool(treat_blank_string_as_boolean(field, default_value))
