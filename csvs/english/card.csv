@@ -5056,13 +5056,13 @@ cztrB96QNb9CqKDgBRwcN	OUT113	OUT	Lace with Frailty	1	0		2			R	Ranger, Action	Go 
 n877nqgWkLDfjQBwM7DM7	OUT114	OUT	Lace with Inertia	1	0		2			R	Ranger, Action	Go again				"Your next arrow attack this turn gains +3{p} and ""When this hits a hero, create an Inertia token under their control.""
 
 **Go again**"		Ranger Action	Shen Fei				No	S - OUT114 - N	zmhgBHFDH6tkgjPLdCmQL - OUT114 - N							
-6KgPjKJBhMkRQgKDdhnbL	OUT115	OUT	Falcon Wing	1	0	3	3			C	Ranger, Action	Go again				"If Falcon Wing has an aim counter, it has +1{p}.
+6KgPjKJBhMkRQgKDdhnbL	OUT115	OUT	Falcon Wing	1	0	3	3			C	Ranger, Action, Arrow, Attack	Go again				"If Falcon Wing has an aim counter, it has +1{p}.
 
 **Go again**"		Ranger Action	Alief Rusdiatama					S - OUT115 - N	TMJKmJTdwhKgcKQnmjGHK - OUT115 - N							
-tpbMRQDzgf7p8WGmMm9wt	OUT116	OUT	Falcon Wing	2	0	2	3			C	Ranger, Action	Go again				"If Falcon Wing has an aim counter, it has +1{p}.
+tpbMRQDzgf7p8WGmMm9wt	OUT116	OUT	Falcon Wing	2	0	2	3			C	Ranger, Action, Arrow, Attack	Go again				"If Falcon Wing has an aim counter, it has +1{p}.
 
 **Go again**"		Ranger Action	Alief Rusdiatama					S - OUT116 - N	bpkjccrgcQpjWkJTkthgn - OUT116 - N							
-MgM8rpdGfh97ChtG7RQ9L	OUT117	OUT	Falcon Wing	3	0	1	3			C	Ranger, Action	Go again				"If Falcon Wing has an aim counter, it has +1{p}.
+MgM8rpdGfh97ChtG7RQ9L	OUT117	OUT	Falcon Wing	3	0	1	3			C	Ranger, Action, Arrow, Attack	Go again				"If Falcon Wing has an aim counter, it has +1{p}.
 
 **Go again**"		Ranger Action	Alief Rusdiatama					S - OUT117 - N	BT7tt6C7pLWBnQDFbfQWr - OUT117 - N							
 8fFPCT68cgF9gbWKppDgQ	OUT118	OUT	Infecting Shot	1	1	5	3			C	Ranger, Action, Arrow, Attack					"If Infecting Shot has an aim counter, it has +1{p}.
