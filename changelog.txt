@@ -369,3 +369,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 02-26-23:
 - Added missing card references on `Hummingbird, Adventurer's Call` and Tales of Adventure
+
+03-12-23:
+- Fixed an issue where legality fields were not being properly parsed from the CSV files
