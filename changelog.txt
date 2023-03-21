@@ -379,4 +379,4 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for OUT cards - data entry assitance credit: beisei, Firecrest, FloatingSkull, manwaring, Mofte, and Tune Star
 - Fixed an error in the functional text of Spring Tidings, Katsu, and `Katsu, the Wanderer`
 - Fixed a mispelling in Mateusz Wiśniewski's name (had been entered as Mateusz Wisniewski)
-- Updated the functional text of Harmonized Kodachi and Ravenous Rabble
+- Updated the functional text of Harmonized Kodachi, Ravenous Rabble, and `Benji, the Piercing Wind`
