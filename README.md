@@ -1,4 +1,5 @@
 # Flesh and Blood Cards
+[Patreon](https://www.patreon.com/TheFabCube) &#183; [Releases](https://github.com/the-fab-cube/flesh-and-blood-cards/releases)
 
 ## Table of Contents
 1. [General Overview](#general-overview)
@@ -100,5 +101,6 @@ One of my favorite parts of maintaining this data set has been seeing all the co
 * Fabrary - [Website](https://fabrary.net/)
 * Flesh and Blood TCG Analysis Environment - [Repo](https://github.com/HarrisonTotty/fab)
 * Legendary Stories - [Website](https://legendarystories.net/) • [Repo](https://github.com/nathaneastwood/fablore)
+* Rules of Rathe - [Splash Page](https://rulesofrathe.com/) • [iOS](https://apps.apple.com/de/app/rules-of-rathe/id1585516530) • [Android](https://play.google.com/store/apps/details?id=com.rulesofrathe&pli=1) • [Website](https://rulesofrathe.com/m/)
 * Talishar Online - [Website](https://talishar.net/) • [Repo](https://github.com/Talishar/Talishar)
 * The Fab Cube - [Website](https://www.thefabcube.com/)

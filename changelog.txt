@@ -174,7 +174,7 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 
 08-26-22:
 - Fixed Dromai incorrectly being marked as not legal in Blitz - bugfix credit: manwaring
-- Updated Hummingbird, Adventurer's Call's functional text
+- Updated `Hummingbird, Adventurer's Call`'s functional text
 - Added Royal as a type
 
 08-29-22:
@@ -352,3 +352,31 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue with DYN046 where it was missing a C foiling - bug notice credit: nathaneastwood
 - Fixed an issue with DYN192 and DYN213 where they each had a printing listed as EA when it should have been AB - bug notice credit: nathaneastwood
 - Fixed an issue with DYN234 where it had a printing listed as FA when it should have been EA
+
+02-17-23:
+- Added the card-face-association CSV and JSON files and associated schemas and documentation
+- Updated the card CSV and JSON files with info on card printing's double-sided card data (if they exist)
+- Updated the pre-commit-scripts.sh file to emit an error code if any of the component scripts fail
+
+02-25-23:
+- Added card data for LGS150-LGS152 and updated the functional text for Tripwire Trap, Pitfall Trap, and Rockslide Trap with the new errata - data entry credit: dcollinsn
+- Added the card-reference CSV and JSON files and associated schemas and documentation
+- Fixed an issue with the functional text of Herald of Rebirth's not having phantasm bolded
+- Fixed an issue in the functional text of Iris of Reality, 'Hexagore, the Death Hydra', Lunartide Plunderer, Captain's Call, Yinti Yanti, Snow Under, Shiver, and Explosive Growth
+- Fixed an issue where Invoke Suraya was missing flavor text
+- Fixed an issue where Iyslander's marvel UPR printing had the incorrect artist
+- Fixed an issue with Light it Up where it had a capitalization error in the name
+
+02-26-23:
+- Added missing card references on `Hummingbird, Adventurer's Call` and Tales of Adventure
+
+03-12-23:
+- Fixed an issue where legality fields were not being properly parsed from the CSV files
+
+03-21-23:
+- Added card data (minus images) for FAB123-FAB135, FAB137, HER073-HER083, LGS125-LGS133, LGS137, LGS141-LGS143, LGS150-LGS152, LSS007, and WIN020-WIN022
+- Added image links for LGS150-LGS152, LGS111, LGS113, LGS119
+- Added card data for OUT cards - data entry assitance credit: beisei, Firecrest, FloatingSkull, manwaring, Mofte, and Tune Star
+- Fixed an error in the functional text of Spring Tidings, Katsu, and `Katsu, the Wanderer`
+- Fixed a mispelling in Mateusz Wiśniewski's name (had been entered as Mateusz Wisniewski)
+- Updated the functional text of Harmonized Kodachi and Ravenous Rabble

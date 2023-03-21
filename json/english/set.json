@@ -4,7 +4,7 @@
         "id": "FAB",
         "name": "Promos",
         "start_card_id": "FAB001",
-        "end_card_id": "FAB122",
+        "end_card_id": "FAB137",
         "editions": [
             {
                 "unique_id": "j76qTFctqc8krqh9GKGmT",
@@ -22,7 +22,7 @@
         "id": "HER",
         "name": "Hero Card Promos",
         "start_card_id": "HER000",
-        "end_card_id": "HER075",
+        "end_card_id": "HER083",
         "editions": [
             {
                 "unique_id": "NrpJFBQQGpNM8D9w8BBfG",
@@ -58,7 +58,7 @@
         "id": "LGS",
         "name": "Local Game Store Promos",
         "start_card_id": "LGS001",
-        "end_card_id": "LGS124",
+        "end_card_id": "LGS152",
         "editions": [
             {
                 "unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
@@ -76,7 +76,7 @@
         "id": "LSS",
         "name": "LSS Promos",
         "start_card_id": "LSS001",
-        "end_card_id": "LSS005",
+        "end_card_id": "LSS007",
         "editions": [
             {
                 "unique_id": "B8Nwc79RrDqgRrqPCczFb",
@@ -112,7 +112,7 @@
         "id": "WIN",
         "name": "Worlds / Pro Tour Prize Cards",
         "start_card_id": "WIN001",
-        "end_card_id": "WIN020",
+        "end_card_id": "WIN022",
         "editions": [
             {
                 "unique_id": "LWc9gCNhcGWHCP6KcGzbj",
@@ -635,6 +635,24 @@
                 "product_page": "https://fabtcg.com/products/booster-set/dynasty/",
                 "collectors_center": "https://fabtcg.com/collectors-centre/dynasty/",
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/dynasty/"
+            }
+        ]
+    },
+    {
+        "unique_id": "rqprmGL98FMqcPzPBpKmQ",
+        "id": "OUT",
+        "name": "Outsiders",
+        "start_card_id": "OUT000",
+        "end_card_id": "OUT238",
+        "editions": [
+            {
+                "unique_id": "zd6wBL7zcQR7zrJhwCjrh",
+                "edition": "N",
+                "initial_release_date": "2023-03-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": "https://fabtcg.com/collectors-centre/outsiders/",
+                "card_gallery": "https://fabtcg.com/resources/card-galleries/outsiders/"
             }
         ]
     }

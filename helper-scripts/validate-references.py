@@ -30,6 +30,19 @@ with open(set_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     allowed_sets = {x['Identifier']:x for x in reader}
 
+# Build a list of card unique_ids
+set_filename = 'csvs/english/card.csv'
+with open(set_filename, newline='') as csvfile:
+    reader = csv.DictReader(csvfile, delimiter="\t")
+    allowed_card_unique_ids = []
+    allowed_card_variation_unique_ids = []
+
+    for row in reader:
+        allowed_card_unique_ids.append(row['Unique ID'])
+        variation_unique_ids = [re.split(r'\s+[-–—]\s+', id)[0] for id in re.split(',\s*', row['Variation Unique IDs'])]
+        for id in variation_unique_ids:
+            allowed_card_variation_unique_ids.append(id)
+
 # Scan card.csv for errors
 card_filename = 'csvs/english/card.csv'
 with open(card_filename, newline='') as csvfile:
@@ -84,6 +97,8 @@ with open(card_filename, newline='') as csvfile:
 
         image_urls = re.split(',\s*', row['Image URLs'])
         for image_url in image_urls:
+            if len(image_url) == 0:
+                continue
             img_data = re.split(r'\s+[-–—]\s+', image_url)
             card_id = img_data[1]
             if card_id not in card_ids:
@@ -91,6 +106,46 @@ with open(card_filename, newline='') as csvfile:
                       f"{card_filename} for {row['Name']}. Found {card_id} but that isn't in "
                       "the Identifiers field. Check this entry for consistency.")
                 errors = True
+
+# Scan card-face-association.csv for errors
+card_face_association_filename = 'csvs/english/card-face-association.csv'
+with open(card_face_association_filename, newline='') as csvfile:
+    reader = csv.DictReader(csvfile, delimiter="\t")
+    for row in reader:
+        front_card_variation_unique_ids = re.split(',\s*', row['Front Card Variation Unique ID'])
+        for unique_id in front_card_variation_unique_ids:
+            if unique_id not in allowed_card_variation_unique_ids:
+                print(f"Warning: unrecognized card variation unique id {unique_id} in {card_face_association_filename} entry for "
+                      f"{row['Front Card Name']} {row['Front Card Variation']}. Check your spelling or add this to {card_filename}.")
+                errors = True
+
+        back_card_variation_unique_ids = re.split(',\s*', row['Back Card Variation Unique ID'])
+        for unique_id in back_card_variation_unique_ids:
+            if unique_id not in allowed_card_variation_unique_ids:
+                print(f"Warning: unrecognized card variation unique id {unique_id} in {card_face_association_filename} entry for "
+                      f"{row['Back Card Name']} {row['Back Card Variation']}. Check your spelling or add this to {card_filename}.")
+                errors = True
+
+
+# Scan card-reference.csv for errors
+card_reference_filename = 'csvs/english/card-reference.csv'
+with open(card_reference_filename, newline='') as csvfile:
+    reader = csv.DictReader(csvfile, delimiter="\t")
+    for row in reader:
+        card_unique_id = re.split(',\s*', row['Card Unique ID'])
+        for unique_id in card_unique_id:
+            if unique_id not in allowed_card_unique_ids:
+                print(f"Warning: unrecognized card unique id {unique_id} in {card_reference_filename} entry for "
+                      f"{row['Card Name']} ({row['Card Pitch']}). Check your spelling or add this to {card_filename}.")
+                errors = True
+
+        referenced_card_unique_id = re.split(',\s*', row['Referenced Card Unique ID'])
+        for unique_id in referenced_card_unique_id:
+            if unique_id not in allowed_card_unique_ids:
+                print(f"Warning: unrecognized card unique id {unique_id} in {card_reference_filename} entry for "
+                      f"{row['Referenced Card Name']} ({row['Referenced Card Pitch']}). Check your spelling or add this to {card_filename}.")
+                errors = True
+
 
 if errors:
     sys.exit(1)

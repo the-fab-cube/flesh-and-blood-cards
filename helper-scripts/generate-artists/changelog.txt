@@ -11,3 +11,6 @@
 02-11-23:
 - Updated README
 - Updated the script to properly use newlines - bugfix credit: dcollinsn
+
+02-25-23:
+- Fixed an issue where the artists that change mid-printing weren't properly parsed

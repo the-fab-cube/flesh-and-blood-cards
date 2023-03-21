@@ -56,18 +56,6 @@ def insert(cur, keyword_unique_id, language, name, description):
         exit()
         raise error
 
-def treat_blank_string_as_boolean(field, value=True):
-    if field == '':
-        return value
-
-    return field
-
-def treat_blank_string_as_none(field):
-    if field == '':
-        return 'NULL'
-
-    return "'" + field + "'"
-
 def generate_table_data(cur, language):
     print(f"Filling out keywords table from {language} card.json...\n")
 

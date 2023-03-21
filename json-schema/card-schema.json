@@ -197,6 +197,20 @@
                 "description": "Represents when the card is set to be unsuspended in Commoner. Contains a displayable text describing when it will be unsuspended if it is currently suspended (will not be present otherwise).",
                 "type": ["string"]
             },
+            "referenced_cards": {
+                "description": "Contains a list of unique IDs representing the various cards referenced by this card.",
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            },
+            "cards_referenced_by": {
+                "description": "Contains a list of unique IDs representing the various cards that reference this card.",
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            },
             "printings": {
                 "description": "Contains a list of objects representing the various printings of the card.",
                 "type": "array",
@@ -246,6 +260,32 @@
                         "image_url": {
                             "description": "An official LSS image URL of the card printing, if it exists.",
                             "type": ["string", "null"]
+                        },
+                        "double_sided_card_info": {
+                            "description": "All of the data for the double-sided cards this card printing is a part of.",
+                            "type": "array",
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "other_face_unique_id": {
+                                        "description": "The Unique ID of the card printing that is the other face of this double-sided card.",
+                                        "type": "string"
+                                    },
+                                    "is_front": {
+                                        "description": "A boolean representing whether this card printing is the front or back of the double-sided card.",
+                                        "type": "boolean"
+                                    },
+                                    "is_DFC": {
+                                        "description": "A boolean representing whether this double-sided card is a Double Face Card (ex: Invoke Tomeltai / Tomeltai).",
+                                        "type": "boolean"
+                                    }
+                                },
+                                "required": [
+                                    "other_face_unique_id",
+                                    "is_front",
+                                    "is_DFC"
+                                ]
+                            }
                         }
                     },
                     "required": [
