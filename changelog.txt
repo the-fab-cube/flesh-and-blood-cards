@@ -174,7 +174,7 @@ Pack Hunt, Ravenous Rabble, Salvage Shot, and Savage Feast to match new HP1 prin
 
 08-26-22:
 - Fixed Dromai incorrectly being marked as not legal in Blitz - bugfix credit: manwaring
-- Updated Hummingbird, Adventurer's Call's functional text
+- Updated `Hummingbird, Adventurer's Call`'s functional text
 - Added Royal as a type
 
 08-29-22:
@@ -367,7 +367,13 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue where Iyslander's marvel UPR printing had the incorrect artist
 - Fixed an issue with Light it Up where it had a capitalization error in the name
 
-PENDING:
+02-26-23:
+- Added missing card references on `Hummingbird, Adventurer's Call` and Tales of Adventure
+
+03-12-23:
+- Fixed an issue where legality fields were not being properly parsed from the CSV files
+
+03-21-23:
 - Added card data (minus images) for FAB123-FAB135, FAB137, HER073-HER083, LGS125-LGS133, LGS137, LGS141-LGS143, LGS150-LGS152, LSS007, and WIN020-WIN022
 - Added image links for LGS150-LGS152, LGS111, LGS113, LGS119
 - Added card data for OUT cards - data entry assitance credit: beisei, Firecrest, FloatingSkull, manwaring, Mofte, and Tune Star
