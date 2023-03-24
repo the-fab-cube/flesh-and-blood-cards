@@ -380,3 +380,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an error in the functional text of Spring Tidings, Katsu, and `Katsu, the Wanderer`
 - Fixed a mispelling in Mateusz Wiśniewski's name (had been entered as Mateusz Wisniewski)
 - Updated the functional text of Harmonized Kodachi, Ravenous Rabble, and `Benji, the Piercing Wind`
+
+03-23-23:
+- Added card data (minus images) for ARA set - data entry credit: manwaring
