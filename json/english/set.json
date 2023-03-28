@@ -664,7 +664,25 @@
         "end_card_id": "ARA029",
         "editions": [
             {
-                "unique_id": "7DBPcBhdhMMmHdJkNbN6b",
+                "unique_id": "WcjfRJCbhGChDhr87thKC",
+                "edition": "N",
+                "initial_release_date": "2023-03-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "7DwGmMt7dfMKMwTKFQ6hB",
+        "id": "AZL",
+        "name": "Azalea Blitz Deck",
+        "start_card_id": "AZL001",
+        "end_card_id": "AZL030",
+        "editions": [
+            {
+                "unique_id": "zjqQPB9QdmmthRGQ8KNjB",
                 "edition": "N",
                 "initial_release_date": "2023-03-24T00:00:00.000Z",
                 "out_of_print_date": null,
