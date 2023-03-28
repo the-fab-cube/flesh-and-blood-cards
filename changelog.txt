@@ -383,3 +383,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 03-23-23:
 - Added card data (minus images) for ARA set - data entry credit: manwaring
+
+03-27-23:
+- Add image links for extended art Redback Shroud and Trench of Sunken Treasure
