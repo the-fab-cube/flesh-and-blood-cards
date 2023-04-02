@@ -691,5 +691,41 @@
                 "card_gallery": null
             }
         ]
+    },
+    {
+        "unique_id": "bppTqJLgqJpNMjBcRrcp7",
+        "id": "BEN",
+        "name": "Benji Blitz Deck",
+        "start_card_id": "BEN001",
+        "end_card_id": "BEN026",
+        "editions": [
+            {
+                "unique_id": "tNfDb6TzCPmLhPd7H7qkF",
+                "edition": "N",
+                "initial_release_date": "2023-03-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "MMLdCDCHzbczh9qc9bzGp",
+        "id": "KAT",
+        "name": "Katsu Blitz Deck",
+        "start_card_id": "KAT001",
+        "end_card_id": "KAT026",
+        "editions": [
+            {
+                "unique_id": "Kw8MWFJtGCLg6hRRjbw9w",
+                "edition": "N",
+                "initial_release_date": "2023-03-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
     }
 ]
