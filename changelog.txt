@@ -389,7 +389,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data (minus images) for AZL set
 
 04-02-23:
-- Added card data (minus images) for BEN and KAT sets
+- Added card data (minus images) for BEN, KAT, RIP, and UZU sets
 - Added card data (minus images) for FAB079 and FAB136
 - Fixed an issue with Cranial Crush's rarity
 - Fixed missing data for cold foil Imperial Warhorn
