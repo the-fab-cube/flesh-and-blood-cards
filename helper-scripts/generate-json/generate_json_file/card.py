@@ -42,8 +42,7 @@ def generate_json_file():
         suspended_cc_json_path.open(newline='') as suspended_cc_json_file,
         suspended_commoner_json_path.open(newline='') as suspended_commoner_json_file,
     ):
-        reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
-        next(reader)
+        reader = csv.DictReader(csvfile, delimiter='\t', quotechar='"')
 
         set_array = json.load(set_json_file)
         card_face_association_array = json.load(card_face_association_json_file)
@@ -62,84 +61,40 @@ def generate_json_file():
         for row in reader:
             card_object = {}
 
-            rowId = 0
-
-            unique_id = row[rowId]
+            unique_id = row['Unique ID']
             card_object['unique_id'] = unique_id
-            rowId += 1
+            ids = helper_functions.convert_to_array(row['Identifiers'])
+            set_ids = helper_functions.convert_to_array(row['Set Identifiers'])
 
-            ids = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
+            card_object['name'] = row['Name']
+            card_object['pitch'] = row['Pitch']
+            card_object['cost'] = row['Cost']
+            card_object['power'] = row['Power']
+            card_object['defense'] = row['Defense']
+            card_object['health'] = row['Health']
+            card_object['intelligence'] = row['Intelligence']
 
-            set_ids = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
+            rarities = helper_functions.convert_to_array(row['Rarity'])
+            card_object['types'] = helper_functions.convert_to_array(row['Types'])
+            card_object['card_keywords'] = helper_functions.convert_to_array(row['Card Keywords'])
+            card_object['abilities_and_effects'] = helper_functions.convert_to_array(row['Abilities and Effects'])
+            card_object['ability_and_effect_keywords'] = helper_functions.convert_to_array(row['Ability and Effect Keywords'])
+            card_object['granted_keywords'] = helper_functions.convert_to_array(row['Granted Keywords'])
+            card_object['removed_keywords'] = helper_functions.convert_to_array(row['Removed Keywords'])
+            card_object['interacts_with_keywords'] = helper_functions.convert_to_array(row['Interacts with Keywords'])
 
-            card_object['name'] = row[rowId]
-            rowId += 1
-
-            card_object['pitch'] = row[rowId]
-            rowId += 1
-
-            card_object['cost'] = row[rowId]
-            rowId += 1
-
-            card_object['power'] = row[rowId]
-            rowId += 1
-
-            card_object['defense'] = row[rowId]
-            rowId += 1
-
-            card_object['health'] = row[rowId]
-            rowId += 1
-
-            card_object['intelligence'] = row[rowId]
-            rowId += 1
-
-            rarities = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            card_object['types'] = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            card_object['card_keywords'] = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            card_object['abilities_and_effects'] = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            card_object['ability_and_effect_keywords'] = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            card_object['granted_keywords'] = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            card_object['functional_text'] = row[rowId]
-            rowId += 1
-
+            card_object['functional_text'] = row['Functional Text']
             card_object['functional_text_plain'] = unmark(card_object['functional_text'])
 
-            card_object['flavor_text'] = row[rowId]
-            rowId += 1
-
+            card_object['flavor_text'] = row['Flavor Text']
             card_object['flavor_text_plain'] = unmark(card_object['flavor_text'])
 
-            card_object['type_text'] = row[rowId]
-            rowId += 1
-
-            artists = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            card_object['played_horizontally'] = helper_functions.treat_string_as_boolean(row[rowId], default_value=False)
-            rowId += 1
-
-            card_object['blitz_legal'] = helper_functions.treat_string_as_boolean(row[rowId])
-            rowId += 1
-
-            card_object['cc_legal'] = helper_functions.treat_string_as_boolean(row[rowId])
-            rowId += 1
-
-            card_object['commoner_legal'] = helper_functions.treat_string_as_boolean(row[rowId])
-            rowId += 1
+            card_object['type_text'] = row['Type Text']
+            artists = helper_functions.convert_to_array(row['Artists'])
+            card_object['played_horizontally'] = helper_functions.treat_string_as_boolean(row['Card Played Horizontally'], default_value=False)
+            card_object['blitz_legal'] = helper_functions.treat_string_as_boolean(row['Blitz Legal'])
+            card_object['cc_legal'] = helper_functions.treat_string_as_boolean(row['CC Legal'])
+            card_object['commoner_legal'] = helper_functions.treat_string_as_boolean(row['Commoner Legal'])
 
             living_legend_blitz_info_array = [x for x in living_legend_blitz_array if x['card_unique_id'] == unique_id]
             living_legend_blitz_info = living_legend_blitz_info_array[-1] if len(living_legend_blitz_info_array) > 0 else None
@@ -225,14 +180,9 @@ def generate_json_file():
                 card_object['commoner_suspended_start'] = start_info['date_in_effect']
                 card_object['commoner_suspended_end'] = suspended_commoner_info['planned_end']
 
-            variations = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            variation_unique_ids = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            image_urls = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
+            variations = helper_functions.convert_to_array(row['Variations'])
+            variation_unique_ids = helper_functions.convert_to_array(row['Variation Unique IDs'])
+            image_urls = helper_functions.convert_to_array(row['Image URLs'])
 
             # Clean up fields
 

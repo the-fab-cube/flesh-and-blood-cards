@@ -11,13 +11,12 @@ def generate_json_file(language):
     jsonPath = Path(__file__).parent / f"../../../json/{language}/artist.json"
 
     with csvPath.open(newline='') as csvfile:
-        reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
-        next(reader)
+        reader = csv.DictReader(csvfile, delimiter='\t', quotechar='"')
 
         for row in reader:
             artist_object = {}
 
-            artist_object['name'] = row[0]
+            artist_object['name'] = row['Name']
 
             artist_array.append(artist_object)
 

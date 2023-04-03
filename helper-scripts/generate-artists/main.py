@@ -3,7 +3,7 @@ from os.path import exists
 from pathlib import Path
 import re
 
-def create_artists_csv_from_card_csv(language, artist_column_index):
+def create_artists_csv_from_card_csv(language):
     print(f"Generating {language} artist.csv from {language} card.json...")
 
     # Compile list of unique artists from all languages' card.csv
@@ -11,11 +11,10 @@ def create_artists_csv_from_card_csv(language, artist_column_index):
 
     path = Path(__file__).parent / f"../../csvs/{language}/card.csv"
     with path.open(newline='') as csvfile:
-        reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
-        next(reader)
+        reader = csv.DictReader(csvfile, delimiter='\t', quotechar='"')
 
         for row in reader:
-            artist_column=row[artist_column_index]
+            artist_column=row['Artists']
             individual_artists=artist_column.split(',')
             for artist in individual_artists:
                 artists.add(re.split(r'\s+[-–—]\s+', artist)[0].strip())
@@ -38,8 +37,8 @@ def create_artists_csv_from_card_csv(language, artist_column_index):
 
 
 
-create_artists_csv_from_card_csv("english", 19)
-create_artists_csv_from_card_csv("french", 8)
-create_artists_csv_from_card_csv("german", 8)
-create_artists_csv_from_card_csv("italian", 8)
-create_artists_csv_from_card_csv("spanish", 8)
+create_artists_csv_from_card_csv("english")
+create_artists_csv_from_card_csv("french")
+create_artists_csv_from_card_csv("german")
+create_artists_csv_from_card_csv("italian")
+create_artists_csv_from_card_csv("spanish")

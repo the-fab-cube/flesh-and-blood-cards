@@ -48,29 +48,21 @@ def generate_json_file(language):
 
         set_edition_unique_id_cache = {}
 
-        reader = csv.reader(csv_file, delimiter='\t', quotechar='"')
-        next(reader)
+        reader = csv.DictReader(csv_file, delimiter='\t', quotechar='"')
 
         for row in reader:
             card_object = {}
 
-            rowId = 0
-
-            unique_id = row[rowId]
-
+            unique_id = row['Unique ID']
             card_object['unique_id'] = unique_id
+
             # assumes there is an english card - script will throw an exception otherwise
             english_card = [x for x in english_card_array if x['unique_id'] == unique_id][0]
-            rowId += 1
 
-            ids = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
+            ids = helper_functions.convert_to_array(row['Identifiers'])
+            set_ids = helper_functions.convert_to_array(row['Set Identifiers'])
 
-            set_ids = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            card_object['name'] = row[rowId]
-            rowId += 1
+            card_object['name'] = row['Name']
 
             card_object['pitch'] = english_card['pitch']
             card_object['cost'] = english_card['cost']
@@ -79,8 +71,7 @@ def generate_json_file(language):
             card_object['health'] = english_card['health']
             card_object['intelligence'] = english_card['intelligence']
 
-            rarities = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
+            rarities = helper_functions.convert_to_array(row['Rarity'])
 
             english_card_types = english_card['types']
             card_object['types'] = convert_english_types_to_language.convert_english_types_to_language(language, english_card_types, english_type_array, language_type_array)
@@ -97,21 +88,20 @@ def generate_json_file(language):
             english_card_granted_keywords = english_card['granted_keywords']
             card_object['granted_keywords'] = convert_english_keywords_to_language.convert_english_keywords_to_language(language, english_card_granted_keywords, english_keyword_array, language_keyword_array)
 
-            card_object['functional_text'] = row[rowId]
-            rowId += 1
+            english_card_removed_keywords = english_card['removed_keywords']
+            card_object['removed_keywords'] = convert_english_keywords_to_language.convert_english_keywords_to_language(language, english_card_removed_keywords, english_keyword_array, language_keyword_array)
 
+            english_card_interacts_with_keywords = english_card['interacts_with_keywords']
+            card_object['interacts_with_keywords'] = convert_english_keywords_to_language.convert_english_keywords_to_language(language, english_card_interacts_with_keywords, english_keyword_array, language_keyword_array)
+
+            card_object['functional_text'] = row['Functional Text']
             card_object['functional_text_plain'] = unmark(card_object['functional_text'])
 
-            card_object['flavor_text'] = row[rowId]
-            rowId += 1
-
+            card_object['flavor_text'] = row['Flavor Text']
             card_object['flavor_text_plain'] = unmark(card_object['flavor_text'])
 
-            card_object['type_text'] = row[rowId]
-            rowId += 1
-
-            artists = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
+            card_object['type_text'] = row['Type Text']
+            artists = helper_functions.convert_to_array(row['Artists'])
 
             card_object['played_horizontally'] = english_card['played_horizontally']
             card_object['blitz_legal'] = english_card['blitz_legal']
@@ -160,14 +150,9 @@ def generate_json_file(language):
             if 'commoner_suspended_end' in english_card:
                 card_object['commoner_suspended_end'] = english_card['commoner_suspended_end']
 
-            variations = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            variation_unique_ids = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            image_urls = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
+            variations = helper_functions.convert_to_array(row['Variations'])
+            variation_unique_ids = helper_functions.convert_to_array(row['Variation Unique IDs'])
+            image_urls = helper_functions.convert_to_array(row['Image URLs'])
 
             # Clean up fields
 
