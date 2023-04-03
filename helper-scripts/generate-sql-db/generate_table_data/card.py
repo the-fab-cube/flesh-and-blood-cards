@@ -18,6 +18,8 @@ def create_table(cur):
             abilities_and_effects VARCHAR(255)[] NOT NULL,
             ability_and_effect_keywords VARCHAR(255)[] NOT NULL,
             granted_keywords VARCHAR(255)[] NOT NULL,
+            removed_keywords VARCHAR(255)[] NOT NULL,
+            interacts_with_keywords VARCHAR(255)[] NOT NULL,
             functional_text VARCHAR(10000) NOT NULL,
             functional_text_plain VARCHAR(10000) NOT NULL,
             flavor_text VARCHAR(10000) NOT NULL,
@@ -76,30 +78,34 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
-            ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
-            played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
-            blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
-            blitz_suspended, blitz_suspended_start, blitz_suspended_end, cc_suspended, cc_suspended_start, cc_suspended_end,
-            commoner_suspended, commoner_suspended_start, commoner_suspended_end):
+def insert(cur, unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords,
+           abilities_and_effects, ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords,
+           functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text, played_horizontally,
+           blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend,
+           cc_living_legend_start, blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned,
+           commoner_banned_start, upf_banned, upf_banned_start, blitz_suspended, blitz_suspended_start, blitz_suspended_end,
+           cc_suspended, cc_suspended_start, cc_suspended_end, commoner_suspended, commoner_suspended_start,
+           commoner_suspended_end):
     sql = """INSERT INTO cards(unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
-            ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
+            ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
             played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
             blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
             blitz_suspended, blitz_suspended_start, blitz_suspended_end, cc_suspended, cc_suspended_start, cc_suspended_end,
             commoner_suspended, commoner_suspended_start, commoner_suspended_end)
             VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s,
-            %s, %s, %s, %s, %s, %s, %s,
+            %s, %s, %s, %s, %s, %s, %s, %s, %s,
             %s, %s, %s, %s, %s, %s, %s, %s,
             %s, %s, %s, %s, %s, %s, %s, %s,
             %s, %s, %s, %s, %s, %s,
             %s, %s, %s);"""
-    data = (unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
-            ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
-            played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
-            blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
-            blitz_suspended, blitz_suspended_start, blitz_suspended_end, cc_suspended, cc_suspended_start, cc_suspended_end,
-            commoner_suspended, commoner_suspended_start, commoner_suspended_end)
+    data = (unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords,
+            abilities_and_effects, ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords,
+            functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text, played_horizontally,
+            blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend,
+            cc_living_legend_start, blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned,
+            commoner_banned_start, upf_banned, upf_banned_start, blitz_suspended, blitz_suspended_start, blitz_suspended_end,
+            cc_suspended, cc_suspended_start, cc_suspended_end, commoner_suspended, commoner_suspended_start,
+            commoner_suspended_end)
     try:
         print("Inserting {0} - {1} card with unique id {2}...".format(name, pitch, unique_id))
 
@@ -131,6 +137,8 @@ def generate_table_data(cur):
             abilities_and_effects = card['abilities_and_effects']
             ability_and_effect_keywords = card['ability_and_effect_keywords']
             granted_keywords = card['granted_keywords']
+            removed_keywords = card['removed_keywords']
+            interacts_with_keywords = card['interacts_with_keywords']
             functional_text = card['functional_text']
             functional_text_plain = card['functional_text_plain']
             flavor_text = card['flavor_text']
@@ -162,11 +170,13 @@ def generate_table_data(cur):
             commoner_suspended_start = card.get('commoner_suspended_start')
             commoner_suspended_end = card.get('commoner_suspended_end')
 
-            insert(cur, unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
-            ability_and_effect_keywords, granted_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text,
-            played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
-            blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
-            blitz_suspended, blitz_suspended_start, blitz_suspended_end, cc_suspended, cc_suspended_start, cc_suspended_end,
-            commoner_suspended, commoner_suspended_start, commoner_suspended_end)
+            insert(cur, unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords,
+                   abilities_and_effects, ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords,
+                   functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text, played_horizontally,
+                   blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend,
+                   cc_living_legend_start, blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned,
+                   commoner_banned_start, upf_banned, upf_banned_start, blitz_suspended, blitz_suspended_start, blitz_suspended_end,
+                   cc_suspended, cc_suspended_start, cc_suspended_end, commoner_suspended, commoner_suspended_start,
+                   commoner_suspended_end)
 
         print("\nSuccessfully filled cards table\n")
