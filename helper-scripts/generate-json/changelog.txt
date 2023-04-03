@@ -45,3 +45,6 @@
 
 02-25-23:
 - Updated script to work with new card-reference files
+
+03-12-23:
+- Fixed an issue where boolean fields were not being properly parsed

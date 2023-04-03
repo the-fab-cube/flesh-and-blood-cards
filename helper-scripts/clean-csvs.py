@@ -82,6 +82,9 @@ def clean_fields(reader, fieldnames):
             row[key] = row[key].replace('“','"').replace('”','"')
             row[key] = row[key].replace('‘',"'").replace('’',"'")
 
+            # Always normalize non-normal spaces
+            row[key] = row[key].replace(' '," ")
+
             if key in CLEANERS:
                 row[key] = CLEANERS[key](row[key])
         cleaned_data.append(row)

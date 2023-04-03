@@ -92,6 +92,7 @@ def generate_table_data(cur, url_for_images = None):
                 if url_for_images is not None and image_url is not None:
                     image_url = image_url.replace("https://storage.googleapis.com/fabmaster/media/images/", url_for_images)
                     image_url = image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/", url_for_images)
+                    image_url = image_url.replace("https://dhhim4ltzu1pj.cloudfront.net/media/images/", url_for_images)
 
                 if art_variation is None:
                     art_variation = ""

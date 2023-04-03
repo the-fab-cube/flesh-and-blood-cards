@@ -28,6 +28,7 @@ def download_images_from_language_data(language):
 def download_image_from_url(image_url: str):
     cleaned_up_image_url = image_url.replace("https://storage.googleapis.com/fabmaster/media/images/", "")
     cleaned_up_image_url = cleaned_up_image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/", "")
+    cleaned_up_image_url = cleaned_up_image_url.replace("https://dhhim4ltzu1pj.cloudfront.net/media/images/", "")
 
     file_name = "images/" + cleaned_up_image_url
     if exists(file_name):

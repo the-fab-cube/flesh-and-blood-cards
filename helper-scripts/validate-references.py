@@ -97,6 +97,8 @@ with open(card_filename, newline='') as csvfile:
 
         image_urls = re.split(',\s*', row['Image URLs'])
         for image_url in image_urls:
+            if len(image_url) == 0:
+                continue
             img_data = re.split(r'\s+[-–—]\s+', image_url)
             card_id = img_data[1]
             if card_id not in card_ids:

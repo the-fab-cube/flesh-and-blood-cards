@@ -369,3 +369,28 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 02-26-23:
 - Added missing card references on `Hummingbird, Adventurer's Call` and Tales of Adventure
+
+03-12-23:
+- Fixed an issue where legality fields were not being properly parsed from the CSV files
+
+03-21-23:
+- Added card data (minus images) for FAB123-FAB135, FAB137, HER073-HER083, LGS125-LGS133, LGS137, LGS141-LGS143, LGS150-LGS152, LSS007, and WIN020-WIN022
+- Added image links for LGS150-LGS152, LGS111, LGS113, LGS119
+- Added card data for OUT cards - data entry assitance credit: beisei, Firecrest, FloatingSkull, manwaring, Mofte, and Tune Star
+- Fixed an error in the functional text of Spring Tidings, Katsu, and `Katsu, the Wanderer`
+- Fixed a mispelling in Mateusz Wiśniewski's name (had been entered as Mateusz Wisniewski)
+- Updated the functional text of Harmonized Kodachi, Ravenous Rabble, and `Benji, the Piercing Wind`
+
+03-23-23:
+- Added card data (minus images) for ARA set - data entry credit: manwaring
+
+03-27-23:
+- Add image links for extended art Redback Shroud and Trench of Sunken Treasure
+- Added card data (minus images) for AZL set
+
+04-02-23:
+- Added card data (minus images) for BEN, KAT, RIP, and UZU sets
+- Added card data (minus images) for FAB079 and FAB136
+- Fixed an issue with Cranial Crush's rarity
+- Fixed missing data for cold foil Imperial Warhorn
+- Fixed missing flavor text for Invoke Nekria
