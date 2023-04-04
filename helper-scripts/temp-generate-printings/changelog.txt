@@ -1,0 +1,16 @@
+10-02-22:
+- Added script to create files
+
+11-04-22:
+- Fixed up script
+
+01-30-23:
+- Changed the script to pull from the JSON files instead of CSVs
+- Updated comments
+
+02-11-23:
+- Updated README
+- Updated the script to properly use newlines - bugfix credit: dcollinsn
+
+02-25-23:
+- Fixed an issue where the artists that change mid-printing weren't properly parsed

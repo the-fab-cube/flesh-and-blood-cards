@@ -4,7 +4,7 @@ from pathlib import Path
 import re
 
 def create_artists_csv_from_card_csv(language):
-    print(f"Generating {language} artist.csv from {language} card.json...")
+    print(f"Generating {language} artist.csv from {language} card.csv...")
 
     # Compile list of unique artists from all languages' card.csv
     artists = set()
