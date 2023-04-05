@@ -3,9 +3,9 @@ const csv = require('csv');
 const helper = require('../helper-functions')
 
 // Set an index to null to omit generation for the associated unique ID
-const generateCardUniqueIds = (language, uniqueIdIndex, nameIdIndex, pitchIdIndex) => {
-    const inputCSV = `../../csvs/${language}/card.csv`
-    const outputCSV = `./temp-${language}-card.csv`
+const generateCardPrintingUniqueIds = (language, uniqueIdIndex, cardIdIndex, editionIdIndex, foilingIdIndex, artVariationIndex) => {
+    const inputCSV = `../../csvs/${language}/card-printing.csv`
+    const outputCSV = `./temp-${language}-card-printing.csv`
 
     const readStream = fs.createReadStream(inputCSV)
     const writeStream = fs.createWriteStream(outputCSV)
@@ -14,13 +14,13 @@ const generateCardUniqueIds = (language, uniqueIdIndex, nameIdIndex, pitchIdInde
 
     const capitalizedLanguage = helper.capitalizeFirstLetter(language)
 
-    const csvStreamFinished = function (cardIdsAdded) {
+    const csvStreamFinished = function (cardPrintingIdsAdded) {
         fs.renameSync(outputCSV, inputCSV)
-        console.log(`Unique ID generation completed for ${capitalizedLanguage} cards with ${cardIdsAdded} new card IDs!`)
+        console.log(`Unique ID generation completed for ${capitalizedLanguage} card printings with ${cardPrintingIdsAdded} new card printing IDs!`)
     }
 
     var headerRead = false
-    var cardIdsAdded = 0
+    var cardPrintingIdsAdded = 0
 
     csvStream.on("data", function(data) {
         // Skip header
@@ -30,29 +30,33 @@ const generateCardUniqueIds = (language, uniqueIdIndex, nameIdIndex, pitchIdInde
             return
         }
 
-        // Card Unique ID
+        // Card Printing Unique ID
         if (
             uniqueIdIndex !== null && uniqueIdIndex !== undefined &&
-            nameIdIndex !== null && nameIdIndex !== undefined &&
-            pitchIdIndex !== null && pitchIdIndex !== undefined
+            cardIdIndex !== null && cardIdIndex !== undefined &&
+            editionIdIndex !== null && editionIdIndex !== undefined &&
+            foilingIdIndex !== null && foilingIdIndex !== undefined &&
+            artVariationIndex !== null && artVariationIndex !== undefined
         ) {
             // current card unique ID data
             var uniqueID = data[uniqueIdIndex]
-            var name = data[nameIdIndex]
-            var pitch = data[pitchIdIndex]
+            var cardID = data[cardIdIndex]
+            var edition = data[editionIdIndex]
+            var foiling = data[foilingIdIndex]
+            var artVariation = data[artVariationIndex]
 
             var uniqueIdExists = uniqueID.trim() !== ''
 
             // generate unique ID for card
             if (!uniqueIdExists) {
-                var loggingText = `Generating unique ID for ${capitalizedLanguage} card ${name}`
+                var loggingText = `Generating unique ID for ${capitalizedLanguage} card printing ${cardID} - ${edition} - ${foiling}`
 
-                if (pitch.trim() !== '') {
-                    loggingText += ` - ${pitch}`
+                if (artVariation.trim() !== '') {
+                    loggingText += ` - ${artVariation}`
                 }
 
                 console.log(loggingText)
-                cardIdsAdded += 1
+                cardPrintingIdsAdded += 1
                 data[uniqueIdIndex] = helper.customNanoId()
             }
         }
@@ -61,7 +65,7 @@ const generateCardUniqueIds = (language, uniqueIdIndex, nameIdIndex, pitchIdInde
         stringifier.write(data)
     })
     .on('end', () => {
-        csvStreamFinished(cardIdsAdded)
+        csvStreamFinished(cardPrintingIdsAdded)
     })
     .on("error", function (error) {
         console.log(error.message)
@@ -72,5 +76,5 @@ const generateCardUniqueIds = (language, uniqueIdIndex, nameIdIndex, pitchIdInde
 }
 
 module.exports = {
-    generateCardUniqueIds
+    generateCardPrintingUniqueIds
 }
