@@ -655,5 +655,113 @@
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/outsiders/"
             }
         ]
+    },
+    {
+        "unique_id": "7LbfKJbkWGGwFJDWJn8GB",
+        "id": "ARA",
+        "name": "Arakni Blitz Deck",
+        "start_card_id": "ARA001",
+        "end_card_id": "ARA029",
+        "editions": [
+            {
+                "unique_id": "WcjfRJCbhGChDhr87thKC",
+                "edition": "N",
+                "initial_release_date": "2023-03-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "7DwGmMt7dfMKMwTKFQ6hB",
+        "id": "AZL",
+        "name": "Azalea Blitz Deck",
+        "start_card_id": "AZL001",
+        "end_card_id": "AZL030",
+        "editions": [
+            {
+                "unique_id": "zjqQPB9QdmmthRGQ8KNjB",
+                "edition": "N",
+                "initial_release_date": "2023-03-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "bppTqJLgqJpNMjBcRrcp7",
+        "id": "BEN",
+        "name": "Benji Blitz Deck",
+        "start_card_id": "BEN001",
+        "end_card_id": "BEN026",
+        "editions": [
+            {
+                "unique_id": "tNfDb6TzCPmLhPd7H7qkF",
+                "edition": "N",
+                "initial_release_date": "2023-03-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "MMLdCDCHzbczh9qc9bzGp",
+        "id": "KAT",
+        "name": "Katsu Blitz Deck",
+        "start_card_id": "KAT001",
+        "end_card_id": "KAT026",
+        "editions": [
+            {
+                "unique_id": "Kw8MWFJtGCLg6hRRjbw9w",
+                "edition": "N",
+                "initial_release_date": "2023-03-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "7tp6jGn6pHTfDJLhKTpFz",
+        "id": "UZU",
+        "name": "Uzuri Blitz Deck",
+        "start_card_id": "UZU001",
+        "end_card_id": "UZU031",
+        "editions": [
+            {
+                "unique_id": "6NGWpLQ6bGfKLrghCJD9m",
+                "edition": "N",
+                "initial_release_date": "2023-03-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "kjKBztc6Jwkbjm8FfTgtL",
+        "id": "RIP",
+        "name": "Riptide Blitz Deck",
+        "start_card_id": "RIP001",
+        "end_card_id": "RIP030",
+        "editions": [
+            {
+                "unique_id": "9kpCbmwz6ckdqc8B7kKkC",
+                "edition": "N",
+                "initial_release_date": "2023-03-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
     }
 ]

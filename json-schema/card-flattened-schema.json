@@ -73,6 +73,22 @@
                     "type": "string"
                 }
             },
+            "removed_keywords": {
+                "description": "The keywords that the card removes from other objects.",
+                "type": "array",
+                "items": {
+                    "description": "An individual keyword.",
+                    "type": "string"
+                }
+            },
+            "interacts_with_keywords": {
+                "description": "The keywords that the card interacts with outside of granting/removing.",
+                "type": "array",
+                "items": {
+                    "description": "An individual keyword.",
+                    "type": "string"
+                }
+            },
             "functional_text": {
                 "description": "The functional text of the card, formatted in Markdown.",
                 "type": "string"
@@ -292,6 +308,8 @@
             "abilities_and_effects",
             "ability_and_effect_keywords",
             "granted_keywords",
+            "removed_keywords",
+            "interacts_with_keywords",
             "functional_text",
             "functional_text_plain",
             "flavor_text",

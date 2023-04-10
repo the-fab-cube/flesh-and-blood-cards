@@ -379,4 +379,21 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for OUT cards - data entry assitance credit: beisei, Firecrest, FloatingSkull, manwaring, Mofte, and Tune Star
 - Fixed an error in the functional text of Spring Tidings, Katsu, and `Katsu, the Wanderer`
 - Fixed a mispelling in Mateusz Wiśniewski's name (had been entered as Mateusz Wisniewski)
-- Updated the functional text of Harmonized Kodachi and Ravenous Rabble
+- Updated the functional text of Harmonized Kodachi, Ravenous Rabble, and `Benji, the Piercing Wind`
+
+03-23-23:
+- Added card data (minus images) for ARA set - data entry credit: manwaring
+
+03-27-23:
+- Add image links for extended art Redback Shroud and Trench of Sunken Treasure
+- Added card data (minus images) for AZL set
+
+04-02-23:
+- Added card data (minus images) for BEN, KAT, RIP, and UZU sets
+- Added card data (minus images) for FAB079 and FAB136
+- Fixed an issue with Cranial Crush's rarity
+- Fixed missing data for cold foil Imperial Warhorn
+- Fixed missing flavor text for Invoke Nekria
+- Added removed_keywords and interacts_with_keywords fields to JSON/CSV files
+- Fixed missing card references between Hala Goldenhelm + Glistening Steelblade and Chief Ruk'utan + Alpha Rampage
+- Fixed Nerves of Steel incorrectly having Battleworn and Temper listed as keywords (moved to removed_keywords)

@@ -38,3 +38,6 @@
 
 02-25-23:
 - Added new card_references table
+
+04-02-23:
+- Added removed_keywords and interacts_with_keywords columns to the cards and card_translations tables
