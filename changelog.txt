@@ -406,3 +406,5 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue with Razor's Edge (yellow) having the Stealth keyword - bugfix credit: manwaring
 - Fixed an issue with Death Touch being marked as legal in commoner format - bugfix credit: manwaring
 - Fixed an issue with Carlos Cruchaga missing from Codex of Bloodrot Marvel - bugfix credit: manwaring
+- Add card data (minus images) for JDG005, JDG006, JDG009, and JDG012
+- Add Pairs keyword (minus description)
