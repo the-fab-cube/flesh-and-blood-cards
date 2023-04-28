@@ -13,12 +13,12 @@ zbnpfqW7d6CqN9wT8Dcft	LSS005	LSS	Tales of Adventure	3	0		3			P	Bard, Action	Yori
 Each other hero chooses and creates a token that hasn't been chosen; Aether Ashwing, Embodiment of Earth, Embodiment of Lightning, Ponder, Quicken, Runechant, Seismic Surge, Soul Shackle, Spectral Shield, Zen State.
 
 You create a Copper, Silver, and Gold."		Bard Action	Andy Aslamov		No	No	No	R - LSS005 - N - EA	JB9hPdDctpQ7mKhpghqhh - LSS005 - N - EA	https://storage.googleapis.com/fabmaster/cardfaces/promos/LSS005.png - LSS005 - N - EA
-nnFHwzGctzmqqwMTrfBpQ	LSS006	LSS	Good Deeds Don’t Go Unnoticed	2	0		3			P	Generic, Action, Auru							"At the start of each other hero’s turn, choose 1; they draw a card, they gain {r}, they gain 1{h}, or their next attack this turn gains +1{p}.
+nnFHwzGctzmqqwMTrfBpQ	LSS006	LSS	Good Deeds Don't Go Unnoticed	2	0		3			P	Generic, Action, Aura							"At the start of each other hero's turn, choose 1; they draw a card, they gain {r}, they gain 1{h}, or their next attack this turn gains +1{p}.
 
-At the start of your turn, destroy this. If another hero drew a card from this, you draw a card, then repeat for {r}, {h}, and {p}."		Generic Action – Aura	Andy Aslamov		No	No	No	R – LSS006 - N	zj6npkFhLcTQJpnKPkk6f - LSS006 - N	
+At the start of your turn, destroy this. If another hero drew a card from this, you draw a card, then repeat for {r}, {h}, and {p}."		Generic Action – Aura	Andy Aslamov		No	No	No	R - LSS006 - N	zj6npkFhLcTQJpnKPkk6f - LSS006 - N	
 fq6Pbr7BmJdqbLFqdfdTW	LSS007	LSS	Pink Visor							P	Merchant, Equipment, Head	Ruu'di Specialization	Once per Turn Action					"**Ruu'di Specialization**
 
-**Once per Turn Action** - {r}: The next card you reveal this turn has its grade increased by 1. **Go again**"	"""Pump it Timmy"""	Merchant Equipment – Head	Riordan Delmiro		No	No	No	C – LSS007 - N	8GRCLJJFbhgkQMgWPWh9h - LSS007 - N	
+**Once per Turn Action** - {r}: The next card you reveal this turn has its grade increased by 1. **Go again**"	"""Pump it Timmy"""	Merchant Equipment – Head	Riordan Delmiro		No	No	No	C - LSS007 - N	8GRCLJJFbhgkQMgWPWh9h - LSS007 - N	
 mgrmPqRmdHfMbptFfDcbC	FAB094	FAB	Hummingbird, Adventurer's Call							P – FAB094 – N, P – FAB094 – N – AT	Bard, Weapon, Lute, 2H							"At the start of your turn, choose 1;
 - Each hero creates a Quicken token.
 - Each hero draws a card.
@@ -3163,7 +3163,7 @@ zWhGF8kMMdmKdhMNdj6NH	HER051, EVR019	HER, EVR	Valda Brightaxe					21	4	P, M	Guar
 At the start of your turn, if you control 3 or more Seismic Surge tokens, cards you own with **crush** gain **dominate** this turn."		Guardian Hero – Young	Wisnu Tan			No	No	C - HER051 - N, S R - EVR019 - F	H9wCfj8Q7jGNDdDmt6pBR - HER051 - N, PtDp8pMgTqLLnhnHP7hgc - EVR019 - F	https://storage.googleapis.com/fabmaster/cardfaces/promos/HER051.png - HER051 - N, https://storage.googleapis.com/fabmaster/media/images/EVR019.width-450.png - EVR019 - F
 qCwM6LGq87rrqGQFk8rKG	FAB076, EVR020	FAB, EVR	Earthlore Bounty				2			P, M	Guardian, Equipment, Chest	Temper						"Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.
 
-**Temper**"		Guardian Equipment – Chest	Alexander Mokhov				No	G - FAB076 - N, S C - EVR020 – F, C  - EVR020 – F – EA	BCfrPtQJNMBgnc8KTbT99 - FAB076 - N, nKbrTfqMGL78LnTGtrkd7 - EVR020 - F, cDcmNtt79mmqrgFFKtCmC - EVR020 - F - EA	https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB076.png - FAB076 - N, https://storage.googleapis.com/fabmaster/media/images/EVR020.width-450.png - EVR020 – F, https://dhhim4ltzu1pj.cloudfront.net/media/images/EVR020-CF.width-450.png – EVR020 – F – EA
+**Temper**"		Guardian Equipment – Chest	Alexander Mokhov				No	G - FAB076 - N, S C - EVR020 - F, C - EVR020 - F - EA	BCfrPtQJNMBgnc8KTbT99 - FAB076 - N, nKbrTfqMGL78LnTGtrkd7 - EVR020 - F, cDcmNtt79mmqrgFFKtCmC - EVR020 - F - EA	https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB076.png - FAB076 - N, https://storage.googleapis.com/fabmaster/media/images/EVR020.width-450.png - EVR020 - F, https://dhhim4ltzu1pj.cloudfront.net/media/images/EVR020-CF.width-450.png - EVR020 - F - EA
 FkNKF7G8Tn79TtGrgKNpn	EVR021	EVR	Pulverize	1	10	14	3			M	Guardian, Action, Attack	Heave 3						"**Heave 3**
 
 If Pulverize hits a hero, their first attack during their next turn has -4{p}."		Guardian Action – Attack	Federico Musetti				No	S R - EVR021 - F, R - EVR021 - F - EA	mTKLK6DTHdtCQpwCpm87m - EVR021 - F, WKkChwGGrrMtF7JqtqdJJ - EVR021 - F - EA	https://storage.googleapis.com/fabmaster/media/images/EVR021.width-450.png - EVR021 - F, https://storage.googleapis.com/fabmaster/cardfaces/2022-EVR/EVR021-RF.png - EVR021 - F - EA

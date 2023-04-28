@@ -397,3 +397,12 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added removed_keywords and interacts_with_keywords fields to JSON/CSV files
 - Fixed missing card references between Hala Goldenhelm + Glistening Steelblade and Chief Ruk'utan + Alpha Rampage
 - Fixed Nerves of Steel incorrectly having Battleworn and Temper listed as keywords (moved to removed_keywords)
+
+04-27-23:
+- Added Good Deeds Don’t Go Unnoticed card data (minus image) - data entry credit: manwaring
+- Added Pink Visor card data (minus image) - data entry credit: manwaring
+- Added missing EA data for Earthlore Bounty - data entry credit: manwaring
+- Fixed an issue with T-Bone (blue) being marked as Common - bugfix credit: manwaring
+- Fixed an issue with Razor's Edge (yellow) having the Stealth keyword - bugfix credit: manwaring
+- Fixed an issue with Death Touch being marked as legal in commoner format - bugfix credit: manwaring
+- Fixed an issue with Carlos Cruchaga missing from Codex of Bloodrot Marvel - bugfix credit: manwaring
