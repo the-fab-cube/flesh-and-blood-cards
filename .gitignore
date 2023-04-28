@@ -1,4 +1,4 @@
-download-all-images/images/*
+helper-scripts/download-all-images/images/*
 generate-db-*.sh
 .vscode
 .~lock.card.csv#
