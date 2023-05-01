@@ -408,3 +408,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue with Carlos Cruchaga missing from Codex of Bloodrot Marvel - bugfix credit: manwaring
 - Added card data (minus images) for JDG005, JDG006, JDG009, JDG012, and HER069
 - Added Pairs keyword (minus description)
+
+PENDING:
+- Added DTD card data

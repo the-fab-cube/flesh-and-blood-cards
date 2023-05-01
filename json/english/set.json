@@ -763,5 +763,23 @@
                 "card_gallery": null
             }
         ]
+    },
+    {
+        "unique_id": "hBbjgHPhf9pP8pRCwGGpF",
+        "id": "DTD",
+        "name": "Dusk till Dawn",
+        "start_card_id": "DTD012",
+        "end_card_id": "DTD012",
+        "editions": [
+            {
+                "unique_id": "9Lzt8JMgtLrcPJLWhGwPW",
+                "edition": "N",
+                "initial_release_date": null,
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
     }
 ]
