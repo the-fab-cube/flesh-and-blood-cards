@@ -418,3 +418,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an error where Riptide had the card id HER083 instead of HER081
 - Fixed an error where Uzuri had the card id HER082 instead of HER083
 - Fixed an error where FAB122's foiling was incorrectly marked as S instead of R
+- Updated Blitz suspended status for Aether Icevein, Crown of Seeds, and Hypothermia
+- Updated Blitz banned status for Drone of Brutality
+- Updated Blitz Living Legend status for Iyslander, Kraken's Aethervein, Oldhim, and Winter's Wail
+- Updated UPF banned status for Go Bananas
