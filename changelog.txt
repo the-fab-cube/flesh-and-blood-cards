@@ -427,3 +427,5 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for FAB080
 - Added image links for FAB079, FAB095-FAB103, FAB105-FAB109, and HER079
 - Updated image link for LGS119
+- Updated functional text for Heart of Fyendal and Command and Conquer
+- Fixed typos in the type text for Ancestral Empowerment, Flic Flak, Viziertronic Model i, Herald of Judgment, Phantasmify, Carrion Husk, and Ebon Fold
