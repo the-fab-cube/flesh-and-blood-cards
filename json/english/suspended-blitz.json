@@ -259,5 +259,77 @@
         "date_in_effect": "2023-01-30T00:00:00.000Z",
         "planned_end": "until the next banned and suspended announcement (March 20, 2023)",
         "legality_article": "https://fabtcg.com/articles/banned-and-suspended-announcement/"
+    },
+    {
+        "unique_id": "WDFMkQtmdm8DBtCkHNk9b",
+        "card_unique_id": "jGzKJnCwkjfHhPhRzk7gj",
+        "status_active": true,
+        "date_announced": "2023-03-13T00:00:00.000Z",
+        "date_in_effect": "2023-03-13T00:00:00.000Z",
+        "planned_end": "until the next banned and suspended announcement (May 4, 2023)",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-suspended-announcement/"
+    },
+    {
+        "unique_id": "gMn6pNW98FqRQNPtzJ7dr",
+        "card_unique_id": "DJDqrcJFQNWHPfPjhQNG8",
+        "status_active": true,
+        "date_announced": "2023-03-13T00:00:00.000Z",
+        "date_in_effect": "2023-03-13T00:00:00.000Z",
+        "planned_end": "until the next banned and suspended announcement (May 4, 2023)",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-suspended-announcement/"
+    },
+    {
+        "unique_id": "8QBLmtBfhBHK6mBNKwtCH",
+        "card_unique_id": "PRDqBbn6d9cWtWjMjptKj",
+        "status_active": true,
+        "date_announced": "2023-03-13T00:00:00.000Z",
+        "date_in_effect": "2023-03-13T00:00:00.000Z",
+        "planned_end": "until the next banned and suspended announcement (May 4, 2023)",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-suspended-announcement/"
+    },
+    {
+        "unique_id": "8WKkCRNWCnfCbQtmrJ7Jq",
+        "card_unique_id": "jGzKJnCwkjfHhPhRzk7gj",
+        "status_active": false,
+        "date_announced": "2023-05-04T00:00:00.000Z",
+        "date_in_effect": "2023-05-05T00:00:00.000Z",
+        "planned_end": "",
+        "legality_article": "https://fabtcg.com/articles/banned-suspended-may-2023/"
+    },
+    {
+        "unique_id": "WnjFKgm9F7zGFcgj8ggcF",
+        "card_unique_id": "DJDqrcJFQNWHPfPjhQNG8",
+        "status_active": false,
+        "date_announced": "2023-05-04T00:00:00.000Z",
+        "date_in_effect": "2023-05-05T00:00:00.000Z",
+        "planned_end": "",
+        "legality_article": "https://fabtcg.com/articles/banned-suspended-may-2023/"
+    },
+    {
+        "unique_id": "bmKjPkcWDb8mqW9RWJ9LH",
+        "card_unique_id": "PRDqBbn6d9cWtWjMjptKj",
+        "status_active": false,
+        "date_announced": "2023-05-04T00:00:00.000Z",
+        "date_in_effect": "2023-05-05T00:00:00.000Z",
+        "planned_end": "",
+        "legality_article": "https://fabtcg.com/articles/banned-suspended-may-2023/"
+    },
+    {
+        "unique_id": "hwbfrNBj7DcNmKfCTMbmw",
+        "card_unique_id": "Lbp8pFhph9wMqMHDw8JWq",
+        "status_active": false,
+        "date_announced": "2023-05-04T00:00:00.000Z",
+        "date_in_effect": "2023-05-05T00:00:00.000Z",
+        "planned_end": "",
+        "legality_article": "https://fabtcg.com/articles/banned-suspended-may-2023/"
+    },
+    {
+        "unique_id": "k7RNzk8wmPrFRkKw8JB9G",
+        "card_unique_id": "HFwjczQFRKCgTFHdbjdzW",
+        "status_active": false,
+        "date_announced": "2023-05-04T00:00:00.000Z",
+        "date_in_effect": "2023-05-05T00:00:00.000Z",
+        "planned_end": "",
+        "legality_article": "https://fabtcg.com/articles/banned-suspended-may-2023/"
     }
 ]
