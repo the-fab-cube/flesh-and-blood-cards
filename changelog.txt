@@ -413,7 +413,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated HER081-HER083
 - Added card data (including images) for LGS134-LGS136
 - Added image links for FAB123-FAB131, FAB133-FAB135, FAB137, HER069-HER071, HER073, HER076-HER078, HER082, HER083, LGS100-LGS102, LGS112-LGS115, LGS120, LGS121, LGS125-LGS128, LGS133, LGS137, XXX011-XXX012
-- Updated image link for HER074 and LGS111, LGS113, LGS129, LGS130-LGS132
+- Updated image links for HER074 and LGS111, LGS113, LGS129, LGS130-LGS132
 - Fixed an error where Arakni, Solitary Confinement had the card id HER081 instead of HER082
 - Fixed an error where Riptide had the card id HER083 instead of HER081
 - Fixed an error where Uzuri had the card id HER082 instead of HER083
@@ -422,3 +422,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated Blitz banned status for Drone of Brutality
 - Updated Blitz Living Legend status for Iyslander, Kraken's Aethervein, Oldhim, and Winter's Wail
 - Updated UPF banned status for Go Bananas
+
+05-04-23:
+- Added card data for FAB080
+- Added image links for FAB079, FAB095-FAB103, FAB105-FAB109, and HER079
+- Updated image link for LGS119
