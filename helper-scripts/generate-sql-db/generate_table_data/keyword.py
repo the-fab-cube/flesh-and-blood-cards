@@ -54,7 +54,7 @@ def generate_table_data(cur):
     print("Filling out keywords table from english keyword.json...\n")
 
     path = Path(__file__).parent / "../../../json/english/keyword.json"
-    with path.open(newline='') as jsonfile:
+    with path.open(newline='', encoding="utf8") as jsonfile:
         keyword_array = json.load(jsonfile)
 
         for keyword_entry in keyword_array:

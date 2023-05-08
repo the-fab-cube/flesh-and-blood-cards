@@ -50,7 +50,7 @@ def generate_table_data(cur):
     print("Filling out editions table from edition.json...\n")
 
     path = Path(__file__).parent / "../../../json/english/edition.json"
-    with path.open(newline='') as jsonfile:
+    with path.open(newline='', encoding="utf8") as jsonfile:
         edition_array = json.load(jsonfile)
 
         for edition in edition_array:

@@ -65,7 +65,7 @@ def generate_table_data(cur, language):
     print(f"Filling out set_editions table from {language} set.json...\n")
 
     path = Path(__file__).parent / f"../../../json/{language}/set.json"
-    with path.open(newline='') as jsonfile:
+    with path.open(newline='', encoding="utf8") as jsonfile:
         set_array = json.load(jsonfile)
 
         for set in set_array:

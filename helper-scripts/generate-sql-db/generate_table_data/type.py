@@ -51,7 +51,7 @@ def generate_table_data(cur):
     print("Filling out types table from type.json...\n")
 
     path = Path(__file__).parent / "../../../json/english/type.json"
-    with path.open(newline='') as jsonfile:
+    with path.open(newline='', encoding="utf8") as jsonfile:
         type_array = json.load(jsonfile)
 
         for type in type_array:

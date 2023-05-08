@@ -120,7 +120,7 @@ def generate_table_data(cur):
     print("Filling out cards table from card.json...\n")
 
     path = Path(__file__).parent / "../../../json/english/card.json"
-    with path.open(newline='') as jsonfile:
+    with path.open(newline='', encoding="utf8") as jsonfile:
         card_array = json.load(jsonfile)
 
         for card in card_array:

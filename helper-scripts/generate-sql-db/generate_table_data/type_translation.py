@@ -58,7 +58,7 @@ def generate_table_data(cur, language):
     print(f"Filling out type_translations table from {language} type.json...\n")
 
     path = Path(__file__).parent / f"../../../json/{language}/type.json"
-    with path.open(newline='') as jsonfile:
+    with path.open(newline='', encoding="utf8") as jsonfile:
         type_array = json.load(jsonfile)
 
         for type_entry in type_array:
