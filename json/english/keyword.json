@@ -180,6 +180,12 @@
         "description_plain": "A Warrior mechanic that showcases the prowess a warrior has when they are engaged in close combat. Reprise effects \"turn on\" if the defending hero has defended with a card from their hand."
     },
     {
+        "unique_id": "qhmLJGzNtDRbd9HLFbLFp",
+        "name": "Rune Gate",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "FL9rFc6hKw7WbRnCBqBzR",
         "name": "Rupture",
         "description": "A Draconic mechanic that applies certain effects if the card is played at chain link 4 or higher.",

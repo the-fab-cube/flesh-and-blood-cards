@@ -58,7 +58,7 @@
         "id": "LGS",
         "name": "Local Game Store Promos",
         "start_card_id": "LGS001",
-        "end_card_id": "LGS152",
+        "end_card_id": "LGS159",
         "editions": [
             {
                 "unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
@@ -765,14 +765,14 @@
         ]
     },
     {
-        "unique_id": "hBbjgHPhf9pP8pRCwGGpF",
+        "unique_id": "bJBqr7QFQcKcdNMbw9JMB",
         "id": "DTD",
         "name": "Dusk till Dawn",
         "start_card_id": "DTD012",
         "end_card_id": "DTD012",
         "editions": [
             {
-                "unique_id": "9Lzt8JMgtLrcPJLWhGwPW",
+                "unique_id": "TtNrjrtMbCbMW8JqLNNzt",
                 "edition": "N",
                 "initial_release_date": null,
                 "out_of_print_date": null,
