@@ -234,6 +234,12 @@
         "description_plain": "Removes Freeze from an object."
     },
     {
+        "unique_id": "H6QfMpMdgD8Fhcfqgq6rm",
+        "name": "Unity",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "hWpPNJ8jcqTHpgnQcPNkm",
         "name": "Ward X",
         "description": "If your hero would be dealt damage, prevent X of that damage and destroy this.",

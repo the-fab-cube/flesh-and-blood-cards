@@ -5324,6 +5324,26 @@ QLkz9dFQmJGnCtCRLJ9QC	DTD012	DTD	Bellona, Archangel of War			4		4		M – DTD012 
 When Bellona attacks, you may banish a card from your hero's soul. If you do, put a +1{p} counter on each Angel you control.
 
 **Ward 4**"		Light – Angel Ally	Alexander Mokhov					S - DTD012 - N, S - DTD012 - N - FA	cFFCjbLNQRNPCC97KRqQ6 - DTD012 - N, p6KkCjPKRfLcPnBGPQcRR - DTD012 - N - FA	
+wJQMt6Lpf6D9JFQ8BW898	DTD196	DTD	Anthem of Spring	3	0		2			M	Earth, Action	Briar Specialization, Unity, Go again						"**Briar Specialization**
+
+The next attack action card you play this turn gets +1{p}. **Go again**
+
+**Unity** - When this defends together with a card from hand, create an Embodiment of Earth token under any number of heroes' control."		Earth Action	Othon Nikolaidis				No	S - DTD196 - N	8bgFmnqGJ8jTcb6BHWtWC - DTD196 - N	
+zzHRCMBmNTF9KpJMqKWq8	DTD203	DTD	Star Struck	2	7	10	3			M	Guardian, Action, Attack	Bravo Specialization, Crush, Unity						"**Bravo Specialization**
+
+**Crush** - When this deals 4 or more damage to a hero, the only attacks they may play or activate during their next turn are attacks with base {p} greater than the damage dealt this way.
+
+**Unity** - When this defends together with a card from hand, create a Seismic Surge token under any number of heroes' control."		Guardian Action - Attack	Andy Aslamov				No	S - DTD203 - N	B69z7P6Pdb768JdR7TJTd - DTD203 - N	
+hcnpwrf6Brdq9rjc9TCJ7	DTD208	DTD	Chorus of Ironsong	2	1		3			M	Warrior, Attack Reaction	Unity, Dorinthea Specialization						"**Dorinthea Specialization**
+
+Until end of turn, target Dawnblade gets +1{p} and ""Damage this would deal can't be prevented.""
+
+**Unity** - When this defends together with a card from hand, create a Courage token under any number of heroes' control."		Warrior Attack Reaction	Narendra B Adi				No	S - DTD208 - N	qLGTLQmqqKkJrmLk6wN6g - DTD208 - N	
+nBf66Gt7ghRTqhn7nNqKh	DTD215	DTD	Alluring Inducement	2	2	2	2			M	Shapeshifter, Action, Attack	Shiyana Specialization, Unity						"**Shiyana Specialization**
+
+When this attacks, the defending hero reveals their hand. You may choose an attack action card revealed this way. If you do, this becomes the chosen card.
+
+**Unity** - When this defends together with a card from hand, create an Eloquence token under any number of heroes' control."		Shapeshifter Action - Attack	Andy Aslamov				No	S - DTD215 - N	wckcJ99jFqmGJDprFBRwb - DTD215 - N	
 KthQj9HCRMDRfngK88kCw	LGS156	LGS	Flail of Agony			1				P	Shadow, Runeblade, Weapon, Flail, 1H	Vynnset Specialization	Once per Turn Action	Attack				"**Vynnset Specialization**
 
 **Once per Turn Action** - {h}: **Attack**
@@ -5338,3 +5358,5 @@ FhWgTR7RdKBTrfDhPWGrt	LGS158	LGS	Vantom Banshee	2	3	6	3			P	Shadow, Runeblade, A
 tfJTWDjLzBdrDjWm9NnmN	LGS159	LGS	Vantom Banshee	3	3	5	3			P	Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
 
 **Blood Debt**"		Shadow Runeblade Action - Attack	Muhammad Fajri					R - LGS159 - N - EA	CkkLHHbN9mwBTr68pTb9B - LGS159 - N - EA	
+jKhMgndCGwjzKLHQMM7Cj	FAB154	FAB	Eloquence							P	Generic, Token, Aura				Go again			When you play a non-attack action card, destroy this and the card gets **go again**.		Generic Token - Aura	Othon Nikolaidis					C - FAB154 - N	NcGfbbBk7KmbK69NQwMMz - FAB154 - N	
+z8GG8N7Lkg6BQR7FnWcwp	FAB166	FAB	Luminaris, Celestial Fury							P	Light, Illusionist, Weapon, Scepter, 2H	Instant, Go again						**Once per Turn Instant - {r}{r}:** Target angel attack or attack action card with Herald in its name gets **go again**.		Light Illusionist Weapon - Scepter (2H)	Jessketchin					R - FAB166 - N	6RpRrtbdN6krRFPccLdHB - FAB166 - N	
