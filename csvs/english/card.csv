@@ -2165,7 +2165,7 @@ While Ursur is attacking a hero with 1 or more cards in their soul, the attack h
 Kfqdk6PhqBd9tKM8T8hmN	LGS047, LEV003, MON221	LGS, LEV, MON	Ravenous Meataxe			3				P, C, T	Brute, Weapon, Axe, 2H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
 Whenever you attack with Ravenous Meataxe, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Ravenous Meataxe gains +2{p} until end of turn."		Brute Weapon – Axe (2H)	Pavel Chuvin					C - LGS047 - N, S - LEV003 - N, S - MON221 - F, S - MON221 - U	RmnqzFW68hng66MWjGtTw - LGS047 - N, wfbqkbRLKTgfW9DkfFPm9 - LEV003 - N, gBrgqQk9KftpRN6f9rmDB - MON221 - F, gP7bp9zBnthqpTn6T6HMb - MON221 - U	https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS047.png - LGS047 - N, https://storage.googleapis.com/fabmaster/media/images/LEV003.width-450.png - LEV003 - N, https://storage.googleapis.com/fabmaster/media/images/MON221.width-450.png - MON221 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON221.width-450.png - MON221 - U
-6FrqKM6Ckpz9NCG8wGcGq	MON222	MON	Tear Limb from Limb	3	2					M	Brute, Action							"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, the next Brute attack action card you play this turn gains +X{p}, where X is its base {p}.
+6FrqKM6Ckpz9NCG8wGcGq	MON222	MON	Tear Limb from Limb	3	2					M	Brute, Action	Go again						"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, the next Brute attack action card you play this turn gains +X{p}, where X is its base {p}.
 
 **Go again**"		Brute Action	Muhammad Fajri				No	S R - MON222 - F, S R - MON222 - U	BkjCctpcwgJn7nQTfqpBC - MON222 - F, PqqnBDJLf7tBFdFbKWtzR - MON222 - U	https://storage.googleapis.com/fabmaster/media/images/MON222.width-450.png - MON222 - F, https://storage.googleapis.com/fabmaster/media/images/U-MON222.width-450.png - MON222 - U
 Hpdjj6RbkDfKMmNqQmwTR	LGS051, MON223	LGS, MON	Pulping	1	2	6				P, R	Brute, Action, Attack	Dominate, Go again						"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**.
@@ -3150,13 +3150,13 @@ g7DBTGtKGzCtWWfLKdFcr	EVR010	EVR	Bare Fangs	3	2	4				C	Brute, Action, Attack				
 TKR9cWhRJgWjgjjL7kWmf	RVD012, EVR011	RVD, EVR	Wild Ride	1	2	6				C, C	Brute, Action, Attack							When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Everyone who knows how to have a good time is welcome in Aria.	Brute Action – Attack	Federico Musetti					S - RVD012 - N, S R - EVR011 - F	TFw6968rpqDwkrQhGpnNg - RVD012 - N, C9qF9GcLLbRBBTcpMthr8 - EVR011 - F	https://storage.googleapis.com/fabmaster/media/images/RVD012.width-450.png - RVD012 - N, https://storage.googleapis.com/fabmaster/media/images/EVR011.width-450.png - EVR011 - F
 bPtqgMTnhqqJcHF7BJJWw	EVR012	EVR	Wild Ride	2	2	5				C	Brute, Action, Attack							When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Everyone who knows how to have a good time is welcome in Aria.	Brute Action – Attack	Federico Musetti					S R - EVR012 - F	CrMgkB6DBGWfFhBNQCPtf - EVR012 - F	https://storage.googleapis.com/fabmaster/media/images/EVR012.width-450.png - EVR012 - F
 fwHfwDjtckfDmGQQQrKLw	EVR013	EVR	Wild Ride	3	2	4				C	Brute, Action, Attack							When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Everyone who knows how to have a good time is welcome in Aria.	Brute Action – Attack	Federico Musetti					S R - EVR013 - F	Gdd7Hk8mzr8hKmnk7RjBJ - EVR013 - F	https://storage.googleapis.com/fabmaster/media/images/EVR013.width-450.png - EVR013 - F
-khm9tznHm9dhKz9kWpCQt	EVR014	EVR	Bad Beats	1	0		3			C	Brute, Action							"Roll a 6 sided die. If the number rolled is a 4, 5, or 6, the next Brute attack action card you play this turn gains +5{p}.
+khm9tznHm9dhKz9kWpCQt	EVR014	EVR	Bad Beats	1	0		3			C	Brute, Action	Go again						"Roll a 6 sided die. If the number rolled is a 4, 5, or 6, the next Brute attack action card you play this turn gains +5{p}.
 
 **Go again**"		Brute Action	bimawithpencil					S R - EVR014 - F	GnC8TwPjbFPDNrhDHFwQb - EVR014 - F	https://storage.googleapis.com/fabmaster/media/images/EVR014.width-450.png - EVR014 - F
-TbhnTBPLncChnLHTcG7jz	EVR015	EVR	Bad Beats	2	0		3			C	Brute, Action							"Roll a 6 sided die. If the number rolled is a 5 or 6, the next Brute attack action card you play this turn gains +5{p}.
+TbhnTBPLncChnLHTcG7jz	EVR015	EVR	Bad Beats	2	0		3			C	Brute, Action	Go again						"Roll a 6 sided die. If the number rolled is a 5 or 6, the next Brute attack action card you play this turn gains +5{p}.
 
 **Go again**"		Brute Action	bimawithpencil					S R - EVR015 - F	9GzgHfwBQgqrpQD9tNMRr - EVR015 - F	https://storage.googleapis.com/fabmaster/media/images/EVR015.width-450.png - EVR015 - F
-B7rWtLgFHDgNJ6LJmCqJc	EVR016	EVR	Bad Beats	3	0		3			C	Brute, Action							"Roll a 6 sided die. If the number rolled is a 6, the next Brute attack action card you play this turn gains +5{p}.
+B7rWtLgFHDgNJ6LJmCqJc	EVR016	EVR	Bad Beats	3	0		3			C	Brute, Action	Go again						"Roll a 6 sided die. If the number rolled is a 6, the next Brute attack action card you play this turn gains +5{p}.
 
 **Go again**"		Brute Action	bimawithpencil					S R - EVR016 - F	dCM8c6dcHdL7hjDWR6tgL - EVR016 - F	https://storage.googleapis.com/fabmaster/media/images/EVR016.width-450.png - EVR016 - F
 PFJnMWQNfr6jMMzJhjB9H	WIN016, EVR017	WIN, EVR	Bravo, Star of the Show					40	4	P, M	Elemental, Guardian, Hero	Essence of Earth, Ice, and Lightning			Dominate, Go again			"**Essence of Earth, Ice, and Lightning**
@@ -3260,7 +3260,7 @@ As an additional cost to play Blood on Her Hands, destroy any number of Copper y
 - Target 1H weapon may attack twice this turn.
 
 **Go again**"		Warrior Action	Othon Nikolaidis				No	S R - EVR055 - F	nRfDzJKPcpPbLcDwDdhTG - EVR055 - F	https://storage.googleapis.com/fabmaster/media/images/EVR055.width-450.png - EVR055 - F
-mKPnFPDQQW6DJjfktTKm7	EVR056	EVR	Oath of Steel	1	0		3			M	Warrior, Action							"Whenever you attack with a weapon this turn, put a +1{p} counter on it.
+mKPnFPDQQW6DJjfktTKm7	EVR056	EVR	Oath of Steel	1	0		3			M	Warrior, Action	Go again						"Whenever you attack with a weapon this turn, put a +1{p} counter on it.
 
 At the beginning of your end phase, remove all +1{p} counters from weapons you control.
 
@@ -4069,13 +4069,13 @@ At the beginning of your end phase, destroy Hypothermia."		Ice Action – Afflic
 gfrwTGTGJhqjTPKbcd96P	UPR140	UPR	Insidious Chill	3	3		2			M	Ice, Action, Aura							"Insidious Chill enters the arena with 3 frost counters on it. When it has no frost counters on it, destroy it.
 
 Whenever you **Ice Fuse**, remove a frost counter from Insidious Chill. If you do, target hero discards a card unless they pay {r}{r}."		Ice Action – Aura	Mark Poole				No	S R - UPR140 - N	DRbmdnHjgrJMJDbcJtJPD - UPR140 - N	https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR140.png - UPR140 - N
-FHLMhFd7rHFC8LqNmLcJR	UPR141	UPR	Isenhowl Weathervane	1	1		2			R	Ice, Action							"The next time you **Ice fuse** this turn, create 4 Frostbite tokens under target hero's control.
+FHLMhFd7rHFC8LqNmLcJR	UPR141	UPR	Isenhowl Weathervane	1	1		2			R	Ice, Action	Go again						"The next time you **Ice fuse** this turn, create 4 Frostbite tokens under target hero's control.
 
 **Go again**"		Ice Action	Lizhe Liang				No	S R - UPR141 - N	RwWHpWHn7b9tfNGDRT9Wr - UPR141 - N	https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR141.png - UPR141 - N
-KwLBJgTd78DwgLWdpqRhN	UPR142	UPR	Isenhowl Weathervane	2	1		2			R	Ice, Action							"The next time you **Ice fuse** this turn, create 3 Frostbite tokens under target hero's control.
+KwLBJgTd78DwgLWdpqRhN	UPR142	UPR	Isenhowl Weathervane	2	1		2			R	Ice, Action	Go again						"The next time you **Ice fuse** this turn, create 3 Frostbite tokens under target hero's control.
 
 **Go again**"		Ice Action	Lizhe Liang				No	S R - UPR142 - N	fktRrFBTLpW8WdjkTGC7R - UPR142 - N	https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR142.png - UPR142 - N
-QcJHqRnCpgHQ7KBMHmbWT	UPR143	UPR	Isenhowl Weathervane	3	1		2			R	Ice, Action							"The next time you **Ice fuse** this turn, create 2 Frostbite tokens under target hero's control.
+QcJHqRnCpgHQ7KBMHmbWT	UPR143	UPR	Isenhowl Weathervane	3	1		2			R	Ice, Action	Go again						"The next time you **Ice fuse** this turn, create 2 Frostbite tokens under target hero's control.
 
 **Go again**"		Ice Action	Lizhe Liang				No	S R - UPR143 - N	CJkrffc9CzRJDNQ8KhQHT - UPR143 - N	https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR143.png - UPR143 - N
 rWtcmPrWgJwnmKNhj8nMk	UPR144	UPR	Arctic Incarceration	1	0		2			C	Ice, Action							Create 3 Frostbite tokens under target hero's control.	Tales be told, the kiss of an ice nymph draws the last breath from a soul lost to the Bleak Expanse.	Ice Action	Narendra B Adi					S R - UPR144 - N	JTC7BpqF7p6McgbnnKdb6 - UPR144 - N	https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR144.png - UPR144 - N
@@ -4972,12 +4972,12 @@ wdbnJz7TQDCJ6gWW7WNch	LGS143, OUT064	LGS, OUT	Spinning Wheel Kick	3	1	2	2			P, R
 PJDPmhdhzfMjC6BqnTfRQ	OUT065, BEN008	OUT, BEN	Back Heel Kick	1	0	3	3			C, C	Ninja, Action, Attack	Combo						**Combo** - If Twin Twisters was the last attack this combat chain, while this is face-up in any zone and would gain {p}, instead it gains that much plus 1.		Ninja Action - Attack	Phu Thieu					S R - OUT065 - N, S - BEN008 - N	cc8LC6drN9mzkzTgwWK9R - OUT065 - N, HB8rLKkRRBMdqtKfg7cdJ - BEN008 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT065.width-450.png - OUT065 - N
 6gMmQCFkPbTT7hJ7frhrJ	OUT066, BEN014	OUT, BEN	Back Heel Kick	2	0	2	3			C, C	Ninja, Action, Attack	Combo						**Combo** - If Twin Twisters was the last attack this combat chain, while this is face-up in any zone and would gain {p}, instead it gains that much plus 1.		Ninja Action - Attack	Phu Thieu					S R - OUT066 - N, S - BEN014 - N	HMwzDdc8chWkpWJ9fbztk - OUT066 - N, K8hJBNfFpbzHmLQWQJmj6 - BEN014 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT066.width-450.png - OUT066 - N
 96HNgW7HDCffhbnngQb6P	OUT067	OUT	Back Heel Kick	3	0	1	3			C	Ninja, Action, Attack	Combo						**Combo** - If Twin Twisters was the last attack this combat chain, while this is face-up in any zone and would gain {p}, instead it gains that much plus 1.		Ninja Action - Attack	Phu Thieu					S R - OUT067 - N	t9RpJgmtt67qd8MkNBwDW - OUT067 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT067.width-450.png - OUT067 - N
-F6FCWBgBckkm8pn89TCfn	OUT068, BEN018, KAT014	OUT, BEN, KAT	Be Like Water	1	0	3	2			C, C, C	Ninja, Action, Attack	Go again						"When this hits, you may pay {r}. If you do, choose Head Jab, Surging Strike, or Twin Twisters. This gains the chosen name.
+F6FCWBgBckkm8pn89TCfn	OUT068, KAT014	OUT, KAT	Be Like Water	1	0	3	2			C, C	Ninja, Action, Attack	Go again						"When this hits, you may pay {r}. If you do, choose Head Jab, Surging Strike, or Twin Twisters. This gains the chosen name.
 
-**Go again**"		Ninja Action - Attack	Enmoire					S R - OUT068 - N, S - BEN018 - N, S - KAT014 - N	zjqqkfJ7LNggdzj8z8KRm - OUT068 - N, CCwKhfQGMKWB6c7zzwFzf - BEN018 - N, 8gQcTmp9fPCFdpPQwPr78 - KAT014 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT068.width-450.png - OUT068 - N
-h8P7JrccDgT7kRb67RHPm	OUT069, KAT020	OUT, KAT	Be Like Water	2	0	2	2			C, C	Ninja, Action, Attack	Go again						"When this hits, you may pay {r}. If you do, choose Head Jab, Surging Strike, or Twin Twisters. This gains the chosen name.
+**Go again**"		Ninja Action - Attack	Enmoire					S R - OUT068 - N, S - KAT014 - N	zjqqkfJ7LNggdzj8z8KRm - OUT068 - N, 8gQcTmp9fPCFdpPQwPr78 - KAT014 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT068.width-450.png - OUT068 - N
+h8P7JrccDgT7kRb67RHPm	OUT069, BEN018, KAT020	OUT, BEN, KAT	Be Like Water	2	0	2	2			C, C, C	Ninja, Action, Attack	Go again						"When this hits, you may pay {r}. If you do, choose Head Jab, Surging Strike, or Twin Twisters. This gains the chosen name.
 
-**Go again**"		Ninja Action - Attack	Enmoire					S R - OUT069 - N, S - KAT020 - N	TMJqbTGGncDWNRN7mhqRW - OUT069 - N, rLKLdzcTmRMRQwLFRkwH8 - KAT020 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT069.width-450.png - OUT069 - N
+**Go again**"		Ninja Action - Attack	Enmoire					S R - OUT069 - N, S - BEN018 - N, S - KAT020 - N	TMJqbTGGncDWNRN7mhqRW - OUT069 - N, CCwKhfQGMKWB6c7zzwFzf - BEN018 - N, rLKLdzcTmRMRQwLFRkwH8 - KAT020 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT069.width-450.png - OUT069 - N
 CWzQb9qFn88pbQbfjRnWW	OUT070, BEN021, KAT025	OUT, BEN, KAT	Be Like Water	3	0	1	2			C, C, C	Ninja, Action, Attack	Go again						"When this hits, you may pay {r}. If you do, choose Head Jab, Surging Strike, or Twin Twisters. This gains the chosen name.
 
 **Go again**"		Ninja Action - Attack	Enmoire					S R - OUT070 - N, S - BEN021 - N, S - KAT025 - N	qWHBcGDnzBQ9wHNbwzwTG - OUT070 - N, wmLdFqLhKrdMrQzDWFfD6 - BEN021 - N, rrR8RQc7R7rQ8MmnFCGbm - KAT025 - N	https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT070.width-450.png - OUT070 - N
