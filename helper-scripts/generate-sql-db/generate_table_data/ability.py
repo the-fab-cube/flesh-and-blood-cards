@@ -51,7 +51,7 @@ def generate_table_data(cur):
     print("Filling out abilities table from ability.json...\n")
 
     path = Path(__file__).parent / "../../../json/english/ability.json"
-    with path.open(newline='') as jsonfile:
+    with path.open(newline='', encoding="utf8") as jsonfile:
         ability_array = json.load(jsonfile)
 
         for ability in ability_array:

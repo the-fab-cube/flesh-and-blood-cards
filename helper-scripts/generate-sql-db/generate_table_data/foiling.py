@@ -51,7 +51,7 @@ def generate_table_data(cur):
     print("Filling out foilings table from foiling.json...\n")
 
     path = Path(__file__).parent / "../../../json/english/foiling.json"
-    with path.open(newline='') as jsonfile:
+    with path.open(newline='', encoding="utf8") as jsonfile:
         foiling_array = json.load(jsonfile)
 
         for foiling in foiling_array:

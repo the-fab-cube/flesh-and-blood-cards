@@ -59,7 +59,7 @@ def generate_table_data(cur, language):
     print(f"Filling out card_face_associations table from {language} card-face-association.json...\n")
 
     path = Path(__file__).parent / f"../../../json/{language}/card-face-association.json"
-    with path.open(newline='') as jsonfile:
+    with path.open(newline='', encoding="utf8") as jsonfile:
         association_array = json.load(jsonfile)
 
         for association in association_array:

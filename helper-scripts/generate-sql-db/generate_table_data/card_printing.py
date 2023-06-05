@@ -71,7 +71,7 @@ def generate_table_data(cur, url_for_images = None):
     print("Filling out card_printings table from english card.json...\n")
 
     path = Path(__file__).parent / "../../../json/english/card.json"
-    with path.open(newline='') as jsonfile:
+    with path.open(newline='', encoding="utf8") as jsonfile:
         card_array = json.load(jsonfile)
 
         for card in card_array:
