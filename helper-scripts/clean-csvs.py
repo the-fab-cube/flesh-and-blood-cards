@@ -53,20 +53,12 @@ def clean_hyphens_inside_commas(data):
 
 
 CLEANERS = {
-    "Identifiers": clean_comma_separated,
-    "Set Identifiers": clean_comma_separated,
-    "Rarities": clean_comma_separated,
     "Types": clean_comma_separated,
     "Card Keywords": clean_comma_separated,
     "Abilities and Effects": clean_comma_separated,
     "Ability and Effect Keywords": clean_comma_separated,
     "Granted Keywords": clean_comma_separated,
     "Artists": clean_comma_separated,
-    "Variations": clean_hyphens_inside_commas,
-    "Variation Unique IDs": clean_hyphens_inside_commas,
-    "Image URLs": clean_hyphens_inside_commas,
-    "Editions": clean_comma_separated,
-    "Edition Unique IDs": clean_hyphens_inside_commas,
 }
 
 def clean_fields(reader, fieldnames):

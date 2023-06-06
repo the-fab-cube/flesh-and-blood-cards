@@ -397,3 +397,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added removed_keywords and interacts_with_keywords fields to JSON/CSV files
 - Fixed missing card references between Hala Goldenhelm + Glistening Steelblade and Chief Ruk'utan + Alpha Rampage
 - Fixed Nerves of Steel incorrectly having Battleworn and Temper listed as keywords (moved to removed_keywords)
+
+PENDING:
+- Fixed double sided "marvel" `Bravo, Star of the Show` having an incorrect represenation
+- Fixed some double sided marvel Hero cards being incorrectly marked as being DFCs
+- Added art-variation.csv

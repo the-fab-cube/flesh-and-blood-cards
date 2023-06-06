@@ -15,14 +15,39 @@ If it detects an error, it will report a filename and line number, and return no
 pre-commit to detect a failure.
 """
 
+print("Validating CSV references...\n")
 
 errors = False
+
+# Build a list of art variations
+variation_filename = 'csvs/english/art-variation.csv'
+with open(variation_filename, newline='') as csvfile:
+    reader = csv.DictReader(csvfile, delimiter="\t")
+    allowed_variations = [x['Shorthand'] for x in reader]
 
 # Build a list of card types
 type_filename = 'csvs/english/type.csv'
 with open(type_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     allowed_types = [x['Name'] for x in reader]
+
+# Build a list of editions
+edition_filename = 'csvs/english/edition.csv'
+with open(edition_filename, newline='') as csvfile:
+    reader = csv.DictReader(csvfile, delimiter="\t")
+    allowed_editions = [x['Shorthand'] for x in reader]
+
+# Build a list of foilings
+foiling_filename = 'csvs/english/foiling.csv'
+with open(foiling_filename, newline='') as csvfile:
+    reader = csv.DictReader(csvfile, delimiter="\t")
+    allowed_foilings = [x['Shorthand'] for x in reader]
+
+# Build a list of rarities
+rarity_filename = 'csvs/english/rarity.csv'
+with open(rarity_filename, newline='') as csvfile:
+    reader = csv.DictReader(csvfile, delimiter="\t")
+    allowed_rarities = [x['Shorthand'] for x in reader]
 
 # Build a list of sets
 set_filename = 'csvs/english/set.csv'
@@ -43,10 +68,10 @@ with open(card_filename, newline='') as csvfile:
 card_printing_filename = 'csvs/english/card-printing.csv'
 with open(card_printing_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
-    allowed_card_variation_unique_ids = []
+    allowed_card_printing_unique_ids = []
 
     for row in reader:
-        allowed_card_variation_unique_ids.append(row['Unique ID'])
+        allowed_card_printing_unique_ids.append(row['Unique ID'])
 
 # Scan card legality CSVs for errors
 legality_csv_filenames = [
@@ -93,17 +118,21 @@ with open(card_printing_filename, newline='') as csvfile:
     for row in reader:
         # TODO: Duplicate Unique ID
 
+        card_printing_summary = f"{row['Card ID']} (Edition: {row['Edition']} - Foiling: {row['Foiling']} - Art Variation: {row['Art Variation']})"
+
+        # Set ID
         set_id = row['Set ID']
         if set_id not in allowed_sets:
-            print(f"Warning: unrecognized set {set_id} in {card_filename} entry for "
-                  f"{row['Name']}. Check your spelling or add this to {set_filename}.")
+            print(f"Warning: unrecognized set {set_id} in {card_printing_filename} entry for "
+                  f"{card_printing_summary}. Check your spelling or add this to {set_filename}.")
             errors = True
 
+        # Card ID
         card_id = row['Card ID']
         set_id_from_card_id = card_id[0:3]
         if set_id != set_id:
             print("Warning: card has a card ID for a set that isn't associated with that "
-                  f"card. Found {card_id} for {row['Name']} in {card_filename}. Check "
+                  f"card. Found {card_id} for {card_printing_summary} in {card_printing_filename}. Check "
                   "this entry for consistency.")
             errors = True
 
@@ -117,14 +146,37 @@ with open(card_printing_filename, newline='') as csvfile:
             # Weird check of this_set because I /don't/ want to catch exceptions anymore
             if not (this_set['Start Card Id'] <= card_id <= this_set['End Card Id']):
                 print(f"Warning: card ID out of range for this set. Found {card_id} in "
-                        f"{card_filename} entry for {row['Name']} but {set_filename} gives "
+                        f"{card_printing_filename} entry for {card_printing_summary} but {set_filename} gives "
                         f"range {this_set['Start Card Id']} - {this_set['End Card Id']}.")
                 errors = True
 
-        # TODO: Edition
-        # TODO: Rarity
-        # TODO: Foiling
-        # TODO: Art Variation
+        # Art Variation
+        variation = row['Art Variation']
+        if variation != '' and variation not in allowed_variations:
+            print(f"Warning: unrecognized variation {variation} in {card_printing_filename} entry for "
+                  f"{card_printing_summary}. Check your spelling or add this to {variation_filename}.")
+            errors = True
+
+        # Edition
+        edition = row['Edition']
+        if edition not in allowed_editions:
+            print(f"Warning: unrecognized edition {edition} in {card_printing_filename} entry for "
+                  f"{card_printing_summary}. Check your spelling or add this to {edition_filename}.")
+            errors = True
+
+        # Foiling
+        foiling = row['Foiling']
+        if foiling not in allowed_foilings:
+            print(f"Warning: unrecognized foiling {foiling} in {card_printing_filename} entry for "
+                  f"{card_printing_summary}. Check your spelling or add this to {foiling_filename}.")
+            errors = True
+
+        # Rarity
+        rarity = row['Rarity']
+        if rarity not in allowed_rarities:
+            print(f"Warning: unrecognized rarity {rarity} in {card_printing_filename} entry for "
+                  f"{card_printing_summary}. Check your spelling or add this to {rarity_filename}.")
+            errors = True
 
 
 # Scan card-face-association.csv for errors
@@ -134,15 +186,15 @@ with open(card_face_association_filename, newline='') as csvfile:
     for row in reader:
         front_card_variation_unique_ids = re.split(',\s*', row['Front Card Variation Unique ID'])
         for unique_id in front_card_variation_unique_ids:
-            if unique_id not in allowed_card_variation_unique_ids:
-                print(f"Warning: unrecognized card variation unique id {unique_id} in {card_face_association_filename} entry for "
+            if unique_id not in allowed_card_printing_unique_ids:
+                print(f"Warning: unrecognized card printing unique id {unique_id} in {card_face_association_filename} entry for "
                       f"{row['Front Card Name']} {row['Front Card Variation']}. Check your spelling or add this to {card_filename}.")
                 errors = True
 
         back_card_variation_unique_ids = re.split(',\s*', row['Back Card Variation Unique ID'])
         for unique_id in back_card_variation_unique_ids:
-            if unique_id not in allowed_card_variation_unique_ids:
-                print(f"Warning: unrecognized card variation unique id {unique_id} in {card_face_association_filename} entry for "
+            if unique_id not in allowed_card_printing_unique_ids:
+                print(f"Warning: unrecognized card printing unique id {unique_id} in {card_face_association_filename} entry for "
                       f"{row['Back Card Name']} {row['Back Card Variation']}. Check your spelling or add this to {card_filename}.")
                 errors = True
 
@@ -168,4 +220,5 @@ with open(card_reference_filename, newline='') as csvfile:
 
 
 if errors:
+    print("\n")
     sys.exit(1)

@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "description": "An array of all of the current art variations Flesh and Blood cards can have.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "id": {
+                "description": "The art variation shortcode.",
+                "type": "string"
+            },
+            "name": {
+                "description": "The art variation name.",
+                "type": "string"
+            }
+        },
+        "required": [
+            "id",
+            "name"
+        ]
+    }
+}

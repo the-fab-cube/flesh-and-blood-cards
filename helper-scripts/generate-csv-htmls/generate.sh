@@ -7,6 +7,7 @@ else
 fi
 
 $CMD ../../csvs/english/ability.csv ../../web/csvs/english/ability.html -d $'\t' -q $'"' -o
+$CMD ../../csvs/english/art-variation.csv ../../web/csvs/english/art-variation.html -d $'\t' -q $'"' -o
 $CMD ../../csvs/english/artist.csv ../../web/csvs/english/artist.html -d $'\t' -q $'"' -o
 $CMD ../../csvs/english/card.csv ../../web/csvs/english/card.html -d $'\t' -q $'"' -o
 $CMD ../../csvs/english/edition.csv ../../web/csvs/english/edition.html -d $'\t' -q $'"' -o
