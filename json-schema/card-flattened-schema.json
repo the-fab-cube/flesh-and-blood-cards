@@ -243,13 +243,9 @@
                 "description": "The edition of the set the card is printed in.",
                 "type": "string"
             },
-            "foilings": {
-                "description": "The foilings the card printing comes in.",
-                "type": "array",
-                "items": {
-                    "description": "A shortcode representing an individual foiling.",
-                    "type": "string"
-                }
+            "foiling": {
+                "description": "The foiling the card printing comes in.",
+                "type": "string"
             },
             "rarity": {
                 "description": "A shortcode representing the rarity the card printing was printed at.",
@@ -333,7 +329,7 @@
             "id",
             "set_id",
             "edition",
-            "foilings",
+            "foiling",
             "rarity",
             "artist",
             "art_variation",

@@ -24,10 +24,12 @@ def generate_json_file(language):
                 card_variation['id'] = printing['id']
                 card_variation['set_id'] = printing['set_id']
                 card_variation['edition'] = printing['edition']
-                card_variation['foilings'] = printing['foilings']
+                card_variation['foiling'] = printing['foiling']
                 card_variation['rarity'] = printing['rarity']
                 card_variation['artist'] = printing['artist']
                 card_variation['art_variation'] = printing['art_variation']
+                card_variation['flavor_text'] = printing['flavor_text']
+                card_variation['flavor_text_plain'] = printing['flavor_text_plain']
                 card_variation['image_url'] = printing['image_url']
                 if 'double_sided_card_info' in printing:
                     card_variation['double_sided_card_info'] = printing['double_sided_card_info']
