@@ -34,7 +34,6 @@ CLEANERS = {
     "Abilities and Effects": clean_comma_separated,
     "Ability and Effect Keywords": clean_comma_separated,
     "Granted Keywords": clean_comma_separated,
-    "Artists": clean_comma_separated,
     "Functional Text": clean_hyphen,
     "Flavor Text": clean_hyphen,
     "Type Text": clean_hyphen,
@@ -51,14 +50,15 @@ def clean_fields(reader, fieldnames):
     for row in reader:
         for key in row:
             # Always normalize smart quotes
-            row[key] = row[key].replace('“','"').replace('”','"')
-            row[key] = row[key].replace('‘',"'").replace('’',"'")
+            if row[key] is not None:
+                row[key] = row[key].replace('“','"').replace('”','"')
+                row[key] = row[key].replace('‘',"'").replace('’',"'")
 
-            # Always normalize non-normal spaces
-            row[key] = row[key].replace(' '," ")
+                # Always normalize non-normal spaces
+                row[key] = row[key].replace(' '," ")
 
-            if key in CLEANERS:
-                row[key] = CLEANERS[key](row[key])
+                if key in CLEANERS:
+                    row[key] = CLEANERS[key](row[key])
         cleaned_data.append(row)
     return cleaned_data
 

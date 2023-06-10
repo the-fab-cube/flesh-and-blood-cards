@@ -23,9 +23,7 @@
         "interacts_with_keywords": [],
         "functional_text": "**Legendär** *(Du darfst Herz von Fyendal nur einmal in deinem Deck haben.)*\n\nWenn du Herz von Fyendal pitchst und weniger {h} als ein gegnerischer Held hast, erhälst du 1{h}.",
         "functional_text_plain": "Legendär (Du darfst Herz von Fyendal nur einmal in deinem Deck haben.)\nWenn du Herz von Fyendal pitchst und weniger {h} als ein gegnerischer Held hast, erhälst du 1{h}.",
-        "flavor_text": "",
-        "flavor_text_plain": "",
-        "type_text": "Allgemein Ressource – Edelstein",
+        "type_text": "Allgemein Ressource - Edelstein",
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": true,
@@ -44,12 +42,12 @@
         "id": "1HP000",
         "set_id": "1HP",
         "edition": "N",
-        "foilings": [
-            "R"
-        ],
+        "foiling": "R",
         "rarity": "F",
         "artist": "Adolfo Navarro",
         "art_variation": null,
+        "flavor_text": "",
+        "flavor_text_plain": "",
         "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/DE/DE_1HP000_1.png"
     },
     {
@@ -77,9 +75,7 @@
         "interacts_with_keywords": [],
         "functional_text": "**Legendär** *(Du darfst Auge von Ophidia nur einmal in deinem Deck haben.)*\n\nWenn du Auge von Ophidia pitchst, **sortiere 2 um**.",
         "functional_text_plain": "Legendär (Du darfst Auge von Ophidia nur einmal in deinem Deck haben.)\nWenn du Auge von Ophidia pitchst, sortiere 2 um.",
-        "flavor_text": "",
-        "flavor_text_plain": "",
-        "type_text": "Allgemein Ressource – Edelstein",
+        "type_text": "Allgemein Ressource - Edelstein",
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": true,
@@ -98,12 +94,12 @@
         "id": "1HP000",
         "set_id": "1HP",
         "edition": "N",
-        "foilings": [
-            "R"
-        ],
+        "foiling": "R",
         "rarity": "F",
         "artist": "Alexandra Malygina",
         "art_variation": null,
+        "flavor_text": "",
+        "flavor_text_plain": "",
         "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/DE/DE_1HP000_2.png"
     },
     {
@@ -131,9 +127,7 @@
         "interacts_with_keywords": [],
         "functional_text": "**Legendäre Viserai-Spezialisierung** *(Du darfst Scherbe der Erznacht nur einmal in deinem Deck haben und nur dann, wenn Viserai dein Held ist.)*\n\nWenn du Scherbe der Erznacht pitchst, erstelle ein Runengesang-Token.",
         "functional_text_plain": "Legendäre Viserai-Spezialisierung (Du darfst Scherbe der Erznacht nur einmal in deinem Deck haben und nur dann, wenn Viserai dein Held ist.)\nWenn du Scherbe der Erznacht pitchst, erstelle ein Runengesang-Token.",
-        "flavor_text": "",
-        "flavor_text_plain": "",
-        "type_text": "Runenklinge Ressource – Edelstein",
+        "type_text": "Runenklinge Ressource - Edelstein",
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": true,
@@ -152,12 +146,12 @@
         "id": "1HP000",
         "set_id": "1HP",
         "edition": "N",
-        "foilings": [
-            "R"
-        ],
+        "foiling": "R",
         "rarity": "F",
         "artist": "Maxim Kostin",
         "art_variation": null,
+        "flavor_text": "",
+        "flavor_text_plain": "",
         "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/DE/DE_1HP000_3.png"
     }
 ]

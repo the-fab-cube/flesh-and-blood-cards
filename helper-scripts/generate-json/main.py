@@ -85,15 +85,14 @@ generate_json_file.type.generate_json_file("italian")
 generate_json_file.type.generate_json_file("spanish")
 
 # These rely on the other Non-English JSON files being generated first
-# FIXME
-# generate_json_file.card_non_english.generate_json_file("french")
-# generate_json_file.card_non_english.generate_json_file("german")
-# generate_json_file.card_non_english.generate_json_file("italian")
-# generate_json_file.card_non_english.generate_json_file("spanish")
+generate_json_file.card_non_english.generate_json_file("french")
+generate_json_file.card_non_english.generate_json_file("german")
+generate_json_file.card_non_english.generate_json_file("italian")
+generate_json_file.card_non_english.generate_json_file("spanish")
 
-# generate_json_file.card_flattened.generate_json_file("french")
-# generate_json_file.card_flattened.generate_json_file("german")
-# generate_json_file.card_flattened.generate_json_file("italian")
-# generate_json_file.card_flattened.generate_json_file("spanish")
+generate_json_file.card_flattened.generate_json_file("french")
+generate_json_file.card_flattened.generate_json_file("german")
+generate_json_file.card_flattened.generate_json_file("italian")
+generate_json_file.card_flattened.generate_json_file("spanish")
 
 print("Finished generating JSON data")

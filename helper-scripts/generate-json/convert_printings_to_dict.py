@@ -4,17 +4,20 @@ from markdown_patch import unmark
 
 import helper_functions
 
-def convert_printings_to_dict(card_printing_csv_path, card_face_association_json_path):
+def convert_printings_to_dict(card_printing_csv_path, card_face_association_json_path=None):
     # index is the card unique id
     card_printing_dict = {}
 
     with (
         card_printing_csv_path.open(newline='') as csvfile,
-        card_face_association_json_path.open(newline='') as card_face_association_json_file,
     ):
         reader = csv.DictReader(csvfile, delimiter='\t', quotechar='"')
 
-        card_face_association_array = json.load(card_face_association_json_file)
+        card_face_association_array = []
+
+        if card_face_association_json_path is not None:
+            with card_face_association_json_path.open(newline='') as card_face_association_json_file:
+                card_face_association_array = json.load(card_face_association_json_file)
 
         for row in reader:
             card_variation = {}
@@ -42,7 +45,7 @@ def convert_printings_to_dict(card_printing_csv_path, card_face_association_json
                 )
 
             card_variation['unique_id'] = printing_unique_id
-            card_variation['set_edition_unique_id'] = row['Set Unique ID']
+            card_variation['set_edition_unique_id'] = row['Set Edition Unique ID']
             card_variation['id'] = row['Card ID']
             card_variation['set_id'] = row['Set ID']
             card_variation['edition'] = row['Edition']

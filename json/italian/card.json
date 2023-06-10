@@ -23,9 +23,7 @@
         "interacts_with_keywords": [],
         "functional_text": "**Leggendaria** *(Puoi avere solo 1 Cuore di Fyendal nel tuo mazzo.)*\n\nQuando lanci Cuore di Fyendal, se hai meno {h} del tuo avversario, guadagna 1{h}.",
         "functional_text_plain": "Leggendaria (Puoi avere solo 1 Cuore di Fyendal nel tuo mazzo.)\nQuando lanci Cuore di Fyendal, se hai meno {h} del tuo avversario, guadagna 1{h}.",
-        "flavor_text": "",
-        "flavor_text_plain": "",
-        "type_text": "Generica Risorsa – Gemma",
+        "type_text": "Generica Risorsa - Gemma",
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": true,
@@ -46,12 +44,12 @@
                 "id": "1HP000",
                 "set_id": "1HP",
                 "edition": "N",
-                "foilings": [
-                    "R"
-                ],
+                "foiling": "R",
                 "rarity": "F",
                 "artist": "Adolfo Navarro",
                 "art_variation": null,
+                "flavor_text": "",
+                "flavor_text_plain": "",
                 "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/IT/IT_1HP000_1.png"
             }
         ]
@@ -81,9 +79,7 @@
         "interacts_with_keywords": [],
         "functional_text": "**Leggendaria** *(Puoi avere solo 1 Occhio di Ophidia nel tuo mazzo.)*\n\nQuando lanci Occhio di Ophidia, **opta 2**.",
         "functional_text_plain": "Leggendaria (Puoi avere solo 1 Occhio di Ophidia nel tuo mazzo.)\nQuando lanci Occhio di Ophidia, opta 2.",
-        "flavor_text": "",
-        "flavor_text_plain": "",
-        "type_text": "Generica Risorsa – Gemma",
+        "type_text": "Generica Risorsa - Gemma",
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": true,
@@ -104,12 +100,12 @@
                 "id": "1HP000",
                 "set_id": "1HP",
                 "edition": "N",
-                "foilings": [
-                    "R"
-                ],
+                "foiling": "R",
                 "rarity": "F",
                 "artist": "Alexandra Malygina",
                 "art_variation": null,
+                "flavor_text": "",
+                "flavor_text_plain": "",
                 "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/IT/IT_1HP000_2.png"
             }
         ]
@@ -139,9 +135,7 @@
         "interacts_with_keywords": [],
         "functional_text": "**Specializzazione leggendaria di Viserai** *(Puoi avere solo 1 Frammento del Cavaliere Oscuro nel tuo mazzo, e solo se il tuo eroe è Viserai.)*\n\nQuando lanci Frammento del Cavaliere Oscuro, crea una pedina Canto Runico.",
         "functional_text_plain": "Specializzazione leggendaria di Viserai (Puoi avere solo 1 Frammento del Cavaliere Oscuro nel tuo mazzo, e solo se il tuo eroe è Viserai.)\nQuando lanci Frammento del Cavaliere Oscuro, crea una pedina Canto Runico.",
-        "flavor_text": "",
-        "flavor_text_plain": "",
-        "type_text": "Lamederune Ressource – Pierre précieuse",
+        "type_text": "Lamederune Ressource - Pierre précieuse",
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": true,
@@ -162,12 +156,12 @@
                 "id": "1HP000",
                 "set_id": "1HP",
                 "edition": "N",
-                "foilings": [
-                    "R"
-                ],
+                "foiling": "R",
                 "rarity": "F",
                 "artist": "Maxim Kostin",
                 "art_variation": null,
+                "flavor_text": "",
+                "flavor_text_plain": "",
                 "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/IT/IT_1HP000_3.png"
             }
         ]
