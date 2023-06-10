@@ -435,6 +435,10 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue where BEN018 was associated with Be Like Water (red) instead of Be Like Water (yellow) - bug notice credit: manwaring
 - Fixed an issue where Bad Beats, Isenhowl Weathervane, Oath of Steel, and Tear Limb From Limb were missing the Go Again keyword  - bug notice credit: Firecrest
 
+06-10-23:
+- Updated functional text for Wounded Bull and Arc Light Sentinel
+- Added card data (minus images) for JDG011, JDG013, and JDG014
+
 PENDING:
 - Added DTD card data
 - Added card data (minus images) for LGS156-LGS159
