@@ -4,7 +4,7 @@ from markdown_patch import unmark
 
 import helper_functions
 
-def convert_printings_to_dict(card_printing_csv_path, card_face_association_json_path=None):
+def convert_card_printings_to_dict(card_printing_csv_path, card_face_association_json_path=None):
     # index is the card unique id
     card_printing_dict = {}
 
@@ -20,7 +20,7 @@ def convert_printings_to_dict(card_printing_csv_path, card_face_association_json
                 card_face_association_array = json.load(card_face_association_json_file)
 
         for row in reader:
-            card_variation = {}
+            card_printing = {}
             double_sided_card_info = []
 
             printing_unique_id = row['Unique ID']
@@ -44,24 +44,24 @@ def convert_printings_to_dict(card_printing_csv_path, card_face_association_json
                     }
                 )
 
-            card_variation['unique_id'] = printing_unique_id
-            card_variation['set_edition_unique_id'] = row['Set Edition Unique ID']
-            card_variation['id'] = row['Card ID']
-            card_variation['set_id'] = row['Set ID']
-            card_variation['edition'] = row['Edition']
-            card_variation['foiling'] = row['Foiling']
-            card_variation['rarity'] = row['Rarity']
-            card_variation['artist'] = row['Artist']
-            card_variation['art_variation'] = helper_functions.treat_blank_string_as_none(row['Art Variation'])
-            card_variation['flavor_text'] = row['Flavor Text']
-            card_variation['flavor_text_plain'] = unmark(card_variation['flavor_text'])
-            card_variation['image_url'] = row['Image URL']
+            card_printing['unique_id'] = printing_unique_id
+            card_printing['set_edition_unique_id'] = row['Set Edition Unique ID']
+            card_printing['id'] = row['Card ID']
+            card_printing['set_id'] = row['Set ID']
+            card_printing['edition'] = row['Edition']
+            card_printing['foiling'] = row['Foiling']
+            card_printing['rarity'] = row['Rarity']
+            card_printing['artist'] = row['Artist']
+            card_printing['art_variation'] = helper_functions.treat_blank_string_as_none(row['Art Variation'])
+            card_printing['flavor_text'] = row['Flavor Text']
+            card_printing['flavor_text_plain'] = unmark(card_printing['flavor_text'])
+            card_printing['image_url'] = row['Image URL']
             if len(double_sided_card_info) > 0:
-                card_variation['double_sided_card_info'] = double_sided_card_info
+                card_printing['double_sided_card_info'] = double_sided_card_info
 
             if card_unique_id not in card_printing_dict:
                 card_printing_dict[card_unique_id] = []
 
-            card_printing_dict[card_unique_id].append(card_variation)
+            card_printing_dict[card_unique_id].append(card_printing)
 
     return card_printing_dict

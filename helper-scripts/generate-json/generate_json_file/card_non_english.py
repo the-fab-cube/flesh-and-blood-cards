@@ -1,14 +1,12 @@
 import csv
 import json
-import re
 from pathlib import Path
 from markdown_patch import unmark
 
 import convert_english_abilities_to_language
 import convert_english_keywords_to_language
 import convert_english_types_to_language
-import convert_printings_to_dict
-import helper_functions
+import convert_card_printings_to_dict
 
 def generate_json_file(language):
     print(f"Filling out {language} card.json from card.csv...")
@@ -29,7 +27,7 @@ def generate_json_file(language):
     language_set_json_path = Path(__file__).parent / f"../../../json/{language}/set.json"
     language_type_json_path = Path(__file__).parent / f"../../../json/{language}/type.json"
 
-    card_printing_dict = convert_printings_to_dict.convert_printings_to_dict(language_card_printing_csv_path)
+    card_printing_dict = convert_card_printings_to_dict.convert_card_printings_to_dict(language_card_printing_csv_path)
 
     with (
         language_csv_path.open(newline='') as csv_file,
