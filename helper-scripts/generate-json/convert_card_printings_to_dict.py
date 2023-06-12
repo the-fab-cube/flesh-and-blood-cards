@@ -45,7 +45,7 @@ def convert_card_printings_to_dict(card_printing_csv_path, card_face_association
                 )
 
             card_printing['unique_id'] = printing_unique_id
-            card_printing['set_edition_unique_id'] = row['Set Edition Unique ID']
+            card_printing['set_printing_unique_id'] = row['Set Printing Unique ID']
             card_printing['id'] = row['Card ID']
             card_printing['set_id'] = row['Set ID']
             card_printing['edition'] = row['Edition']

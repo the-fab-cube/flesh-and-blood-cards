@@ -55,6 +55,12 @@ with open(set_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     allowed_sets = {x['Identifier']:x for x in reader}
 
+# Build a list of set printings
+set_printing_filename = 'csvs/english/set-printing.csv'
+with open(set_printing_filename, newline='') as csvfile:
+    reader = csv.DictReader(csvfile, delimiter="\t")
+    allowed_set_printings = {x['Unique ID']:x for x in reader}
+
 # Build a list of card unique_ids
 card_filename = 'csvs/english/card.csv'
 with open(card_filename, newline='') as csvfile:
@@ -120,6 +126,16 @@ with open(card_printing_filename, newline='') as csvfile:
 
         card_printing_summary = f"{row['Card ID']} (Edition: {row['Edition']} - Foiling: {row['Foiling']} - Art Variation: {row['Art Variation']})"
 
+        # Set Printing Unique ID
+        set_printing_unique_id = row['Set Printing Unique ID']
+        this_set_printing = None
+        try:
+            this_set_printing = allowed_set_printings[set_printing_unique_id]
+        except KeyError:
+            print(f"Warning: unrecognized set printing unique id {set_printing_unique_id} in {card_printing_filename} entry for "
+                  f"{card_printing_summary}. Check your spelling or add this to {set_printing_filename}.")
+            errors = True
+
         # Set ID
         set_id = row['Set ID']
         if set_id not in allowed_sets:
@@ -130,24 +146,18 @@ with open(card_printing_filename, newline='') as csvfile:
         # Card ID
         card_id = row['Card ID']
         set_id_from_card_id = card_id[0:3]
-        if set_id != set_id:
+        if set_id != set_id_from_card_id:
             print("Warning: card has a card ID for a set that isn't associated with that "
                   f"card. Found {card_id} for {card_printing_summary} in {card_printing_filename}. Check "
                   "this entry for consistency.")
             errors = True
 
-        this_set = None
-        try:
-            this_set = allowed_sets[set_id]
-        except KeyError:
-            # This should have been caught already, but make sure we fail anyway
-            errors = True
-        if this_set:
-            # Weird check of this_set because I /don't/ want to catch exceptions anymore
-            if not (this_set['Start Card Id'] <= card_id <= this_set['End Card Id']):
-                print(f"Warning: card ID out of range for this set. Found {card_id} in "
-                        f"{card_printing_filename} entry for {card_printing_summary} but {set_filename} gives "
-                        f"range {this_set['Start Card Id']} - {this_set['End Card Id']}.")
+        if this_set_printing:
+            # Weird check of this_set_printing because I /don't/ want to catch exceptions anymore
+            if not (this_set_printing['Start Card Id'] <= card_id <= this_set_printing['End Card Id']):
+                print(f"Warning: card ID out of range for this set printing. Found {card_id} in "
+                        f"{card_printing_filename} entry for {card_printing_summary} but {set_printing_filename} gives "
+                        f"range {this_set_printing['Start Card Id']} - {this_set_printing['End Card Id']}.")
                 errors = True
 
         # Art Variation

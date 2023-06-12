@@ -229,8 +229,8 @@
                             "description": "A UUID representing the printing within this data set.",
                             "type": "string"
                         },
-                        "set_edition_unique_id": {
-                            "description": "A UUID representing the set edition the printing belongs to within this data set.",
+                        "set_printing_unique_id": {
+                            "description": "A UUID representing the set printing the printing belongs to within this data set.",
                             "type": "string"
                         },
                         "id": {
@@ -302,7 +302,7 @@
                     },
                     "required": [
                         "unique_id",
-                        "set_edition_unique_id",
+                        "set_printing_unique_id",
                         "id",
                         "set_id",
                         "edition",

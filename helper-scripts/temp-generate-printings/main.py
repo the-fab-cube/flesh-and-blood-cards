@@ -19,7 +19,7 @@ def create_csv_from_card_csv(language):
         reader = csv.DictReader(csvfile, delimiter='\t', quotechar='"')
 
         set_array = json.load(set_json_file)
-        set_edition_unique_id_cache = {}
+        set_printing_unique_id_cache = {}
 
         for row in reader:
             card_unique_id = row['Unique ID']
@@ -92,7 +92,7 @@ def create_csv_from_card_csv(language):
                 card_variation['Unique ID'] = unique_id
                 card_variation['Card Unique ID'] = card_unique_id
                 card_variation['Card ID'] = card_id_from_variation
-                card_variation['Set Unique ID'] = helper_functions.get_set_edition_unique_id(set_id, set_edition, "english", set_array, set_edition_unique_id_cache)
+                card_variation['Set Unique ID'] = helper_functions.get_set_edition_unique_id(set_id, set_edition, "english", set_array, set_printing_unique_id_cache)
                 card_variation['Set ID'] = set_id
                 card_variation['Edition'] = set_edition
                 card_variation['Rarity'] = rarity
