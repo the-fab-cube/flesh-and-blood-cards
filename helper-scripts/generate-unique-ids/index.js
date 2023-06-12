@@ -1,14 +1,5 @@
 import * as generators from './unique-id-generators/index.js'
 
-
-// TODO: Fix
-// generators.generateCardUniqueIds("french", null, null, 9, 10)
-// generators.generateCardUniqueIds("german", null, null, 9, 10)
-// generators.generateCardUniqueIds("italian", null, null, 9, 10)
-// generators.generateCardUniqueIds("spanish", null, null, 9, 10)
-
-// TODO: Add card printing unique id generator for non-english cards
-
 // Setup a loop to wait for all generators to be finished
 var timeout
 
@@ -25,9 +16,13 @@ waitForPromisesToFinishLoop()
 // Kick-off all generators
 
 await Promise.allSettled([
-    // generators.generateCardUniqueIds("english", 0, 1, 2),
+    generators.generateCardUniqueIds("english", 0, 1, 2),
 
     generators.generateCardPrintingUniqueIds("english", 0, 4, 7, 9, 10),
+    generators.generateCardPrintingUniqueIds("french", 0, 4, 7, 9, 10),
+    generators.generateCardPrintingUniqueIds("german", 0, 4, 7, 9, 10),
+    generators.generateCardPrintingUniqueIds("italian", 0, 4, 7, 9, 10),
+    generators.generateCardPrintingUniqueIds("spanish", 0, 4, 7, 9, 10),
 
     generators.generateSetUniqueIds("english", 0, 1, 2),
 
