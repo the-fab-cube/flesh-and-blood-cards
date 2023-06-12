@@ -3,10 +3,10 @@ import * as csv from 'csv'
 import * as helper from '../helper-functions.js'
 
 // Set an index to null to omit generation for the associated unique ID
-export const generateSetUniqueIds = (language, uniqueIdIndex, setIdIndex, nameIndex) => {
+export const generateSetPrintingUniqueIds = (language, uniqueIdIndex, startCardIdIndex, editionIndex) => {
     return new Promise((resolve, reject) => {
-        const inputCSV = `../../csvs/${language}/set.csv`
-        const outputCSV = `./temp-${language}-set.csv`
+        const inputCSV = `../../csvs/${language}/set-printing.csv`
+        const outputCSV = `./temp-${language}-set-printing.csv`
 
         const readStream = fs.createReadStream(inputCSV)
         const writeStream = fs.createWriteStream(outputCSV)
@@ -15,13 +15,13 @@ export const generateSetUniqueIds = (language, uniqueIdIndex, setIdIndex, nameIn
 
         const capitalizedLanguage = helper.capitalizeFirstLetter(language)
 
-        const csvStreamFinished = function (setIdsAdded) {
+        const csvStreamFinished = function (printingIdsAdded) {
             fs.renameSync(outputCSV, inputCSV)
-            console.log(`Unique ID generation completed for ${capitalizedLanguage} sets with ${setIdsAdded} new set IDs!`)
+            console.log(`Unique ID generation completed for ${capitalizedLanguage} set printings with ${printingIdsAdded} new set printing IDs!`)
         }
 
         var headerRead = false
-        var setIdsAdded = 0
+        var printingIdsAdded = 0
 
         csvStream.on("data", function(data) {
             // Skip header
@@ -31,26 +31,27 @@ export const generateSetUniqueIds = (language, uniqueIdIndex, setIdIndex, nameIn
                 return
             }
 
-            // Set Unique ID
+            // Set Printing Unique ID
             if (
                 uniqueIdIndex !== null && uniqueIdIndex !== undefined &&
-                setIdIndex !== null && setIdIndex !== undefined &&
-                nameIndex !== null && nameIndex !== undefined
+                startCardIdIndex !== null && startCardIdIndex !== undefined &&
+                editionIndex !== null && editionIndex !== undefined
             ) {
-                // current set unique ID data
-                var uniqueID = data[uniqueIdIndex]
-                var setID = data[setIdIndex]
-                var name = data[nameIndex]
+                // current set printing unique ID data
+                var uniqueId = data[uniqueIdIndex]
+                var startCardId = data[startCardIdIndex]
+                var edition = data[editionIndex]
+                var setId = startCardId.substring(0, 3)
 
-                var uniqueIdExists = uniqueID.trim() !== ''
+                var uniqueIdExists = uniqueId.trim() !== ''
 
-                // generate unique ID for set
+                // generate unique ID for set printing
                 if (!uniqueIdExists) {
-                    console.log(`Generating unique ID for ${capitalizedLanguage} set ${setID} - ${name}`)
-                    setIdsAdded += 1
+                    console.log(`Generating unique ID for ${capitalizedLanguage} set printing ${setId} - ${edition}`)
+                    printingIdsAdded += 1
                     data[uniqueIdIndex] = helper.customNanoId()
                 } else {
-                    // console.log(`No new unique ID needed for ${capitalizedLanguage} set ${cardID}`)
+                    // console.log(`No new unique ID needed for ${capitalizedLanguage} set printing ${cardID}`)
                 }
             }
 
@@ -58,7 +59,7 @@ export const generateSetUniqueIds = (language, uniqueIdIndex, setIdIndex, nameIn
             stringifier.write(data)
         })
         .on('end', () => {
-            csvStreamFinished(setIdsAdded)
+            csvStreamFinished(printingIdsAdded)
             resolve()
         })
         .on("error", function (error) {
