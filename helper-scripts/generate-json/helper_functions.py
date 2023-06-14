@@ -22,19 +22,6 @@ def convert_to_null(field):
     else:
         return field
 
-def convert_variation_unique_id_data(variation_unique_id):
-    variation_unique_id_split = re.split("— | – | - ", variation_unique_id.strip())
-
-    variation_unique_id_data = {}
-    variation_unique_id_data['unique_id'] = variation_unique_id_split[0]
-    variation_unique_id_data['card_id'] = variation_unique_id_split[1]
-    variation_unique_id_data['set_edition'] = variation_unique_id_split[2]
-    variation_unique_id_data['alternate_art_type'] = None
-    if len(variation_unique_id_split) >= 4:
-        variation_unique_id_data['alternate_art_type'] = variation_unique_id_split[3]
-
-    return variation_unique_id_data
-
 # Used for gendered language translations
 def get_hero_gender_identity(hero):
     hero_gender_identity = {

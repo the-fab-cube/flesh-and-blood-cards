@@ -97,9 +97,9 @@ for legality_filename in legality_csv_filenames:
     with open(legality_filename, newline='') as csvfile:
         reader = csv.DictReader(csvfile, delimiter="\t")
         for row in reader:
-            card_variation_unique_id = row['Card Unique ID']
-            if card_variation_unique_id not in allowed_card_unique_ids:
-                print(f"Warning: unrecognized card variation unique id {card_variation_unique_id} in {legality_filename} entry for "
+            card_unique_id = row['Card Unique ID']
+            if card_unique_id not in allowed_card_unique_ids:
+                print(f"Warning: unrecognized card variation unique id {card_unique_id} in {legality_filename} entry for "
                         f"{row['Card Name']} - {row['Card Pitch']}. Check your spelling or add this to {card_filename}.")
                 errors = True
 
@@ -169,9 +169,14 @@ with open(card_printing_filename, newline='') as csvfile:
 
         # Edition
         edition = row['Edition']
+        set_printing_edition = this_set_printing['Edition']
         if edition not in allowed_editions:
             print(f"Warning: unrecognized edition {edition} in {card_printing_filename} entry for "
                   f"{card_printing_summary}. Check your spelling or add this to {edition_filename}.")
+            errors = True
+        if set_printing_edition != edition:
+            print(f"Warning: edition {edition} in {card_printing_filename} entry for "
+                  f"{card_printing_summary} does not match the associated set's edition of {set_printing_edition}.")
             errors = True
 
         # Foiling
@@ -194,18 +199,18 @@ card_face_association_filename = 'csvs/english/card-face-association.csv'
 with open(card_face_association_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     for row in reader:
-        front_card_variation_unique_ids = re.split(',\s*', row['Front Card Variation Unique ID'])
-        for unique_id in front_card_variation_unique_ids:
+        front_card_printing_unique_ids = re.split(',\s*', row['Front Card Printing Unique ID'])
+        for unique_id in front_card_printing_unique_ids:
             if unique_id not in allowed_card_printing_unique_ids:
                 print(f"Warning: unrecognized card printing unique id {unique_id} in {card_face_association_filename} entry for "
-                      f"{row['Front Card Name']} {row['Front Card Variation']}. Check your spelling or add this to {card_filename}.")
+                      f"{row['Front Card Name']} {row['Front Card Printing']}. Check your spelling or add this to {card_filename}.")
                 errors = True
 
-        back_card_variation_unique_ids = re.split(',\s*', row['Back Card Variation Unique ID'])
-        for unique_id in back_card_variation_unique_ids:
+        back_card_printing_unique_ids = re.split(',\s*', row['Back Card Printing Unique ID'])
+        for unique_id in back_card_printing_unique_ids:
             if unique_id not in allowed_card_printing_unique_ids:
                 print(f"Warning: unrecognized card printing unique id {unique_id} in {card_face_association_filename} entry for "
-                      f"{row['Back Card Name']} {row['Back Card Variation']}. Check your spelling or add this to {card_filename}.")
+                      f"{row['Back Card Name']} {row['Back Card Printing']}. Check your spelling or add this to {card_filename}.")
                 errors = True
 
 

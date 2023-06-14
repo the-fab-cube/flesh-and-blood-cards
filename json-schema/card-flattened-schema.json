@@ -223,7 +223,7 @@
                     "type": "string"
                 }
             },
-            "variation_unique_id": {
+            "printing_unique_id": {
                 "description": "A UUID representing the printing within this data set.",
                 "type": "string"
             },
@@ -332,7 +332,7 @@
             "blitz_suspended",
             "cc_suspended",
             "commoner_suspended",
-            "variation_unique_id",
+            "printing_unique_id",
             "set_printing_unique_id",
             "id",
             "set_id",
