@@ -263,6 +263,14 @@
                 "description": "An official LSS image URL of the card printing, if it exists.",
                 "type": ["string", "null"]
             },
+            "tcgplayer_product_id": {
+                "description": "The TCGPlayer product ID of the card printing, if it exists.",
+                "type": ["string", "null"]
+            },
+            "tcgplayer_url": {
+                "description": "A URL to TCPlayer product listing of the card printing, if it exists.",
+                "type": ["string", "null"]
+            },
             "double_sided_card_info": {
                 "description": "All of the data for the double-sided cards this card printing is a part of.",
                 "type": "array",

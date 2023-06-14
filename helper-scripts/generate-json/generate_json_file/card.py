@@ -27,7 +27,7 @@ def generate_json_file():
     card_csv_path = Path(__file__).parent / "../../../csvs/english/card.csv"
     card_printing_csv_path = Path(__file__).parent / "../../../csvs/english/card-printing.csv"
 
-    card_printing_dict = convert_card_printings_to_dict.convert_card_printings_to_dict(card_printing_csv_path, card_face_association_json_path)
+    card_printing_dict = convert_card_printings_to_dict.convert_card_printings_to_dict("english", card_printing_csv_path, card_face_association_json_path)
 
     with (
         card_csv_path.open(newline='') as csvfile,

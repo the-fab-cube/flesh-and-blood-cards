@@ -31,6 +31,10 @@ def generate_json_file(language):
                 card_variation['flavor_text'] = printing['flavor_text']
                 card_variation['flavor_text_plain'] = printing['flavor_text_plain']
                 card_variation['image_url'] = printing['image_url']
+                if 'tcgplayer_product_id' in printing:
+                    card_variation['tcgplayer_product_id'] = printing['tcgplayer_product_id']
+                if 'tcgplayer_url' in printing:
+                    card_variation['tcgplayer_url'] = printing['tcgplayer_url']
                 if 'double_sided_card_info' in printing:
                     card_variation['double_sided_card_info'] = printing['double_sided_card_info']
 

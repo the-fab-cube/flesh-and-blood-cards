@@ -27,7 +27,7 @@ def generate_json_file(language):
     language_set_json_path = Path(__file__).parent / f"../../../json/{language}/set.json"
     language_type_json_path = Path(__file__).parent / f"../../../json/{language}/type.json"
 
-    card_printing_dict = convert_card_printings_to_dict.convert_card_printings_to_dict(language_card_printing_csv_path)
+    card_printing_dict = convert_card_printings_to_dict.convert_card_printings_to_dict(language, language_card_printing_csv_path)
 
     with (
         language_csv_path.open(newline='') as csv_file,
