@@ -18,8 +18,6 @@ def create_table(cur):
             interacts_with_keywords VARCHAR(255)[] NOT NULL,
             functional_text VARCHAR(10000) NOT NULL,
             functional_text_plain VARCHAR(10000) NOT NULL,
-            flavor_text VARCHAR(10000) NOT NULL,
-            flavor_text_plain VARCHAR(10000) NOT NULL,
             type_text VARCHAR(1000) NOT NULL,
             FOREIGN KEY (card_unique_id) REFERENCES cards (unique_id),
             PRIMARY KEY (card_unique_id, language)
@@ -50,16 +48,13 @@ def drop_table(cur):
         exit()
 
 def insert(cur, card_unique_id, language, name, pitch, types, card_keywords, abilities_and_effects, ability_and_effect_keywords,
-        granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, flavor_text,
-        flavor_text_plain, type_text):
+        granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text):
     sql = """INSERT INTO card_translations(card_unique_id, language, name, pitch, types, card_keywords, abilities_and_effects, ability_and_effect_keywords,
-                granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, flavor_text, flavor_text_plain, type_text)
+                granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text)
             VALUES(%s, %s, %s, %s, %s, %s, %s, %s,
-                %s, %s, %s, %s, %s, %s,
-                %s, %s);"""
+                %s, %s, %s, %s, %s, %s);"""
     data = (card_unique_id, language, name, pitch, types, card_keywords, abilities_and_effects, ability_and_effect_keywords,
-        granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, flavor_text,
-        flavor_text_plain, type_text)
+        granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text)
 
     try:
         print("Inserting {0} printing for card {1} ({2} - {3})...".format(
@@ -97,12 +92,9 @@ def generate_table_data(cur, language):
             interacts_with_keywords = card['interacts_with_keywords']
             functional_text = card['functional_text']
             functional_text_plain = card['functional_text_plain']
-            flavor_text = card['flavor_text']
-            flavor_text_plain = card['flavor_text_plain']
             type_text = card['type_text']
 
             insert(cur, card_unique_id, language, name, pitch, types, card_keywords, abilities_and_effects, ability_and_effect_keywords,
-                   granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, flavor_text,
-                   flavor_text_plain, type_text)
+                   granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text)
 
         print(f"\nSuccessfully filled cards table with {language} data\n")
