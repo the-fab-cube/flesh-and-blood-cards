@@ -198,6 +198,12 @@
         "description_plain": "A Draconic mechanic that applies certain effects if the card is played at chain link 4 or higher."
     },
     {
+        "unique_id": "8mqHH6LQfddFgnbbm8pLp",
+        "name": "Solflare",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "cjn8CBRWPmdG8fwJNTBJt",
         "name": "Specialization",
         "description": "You may only have this card in your deck if your hero is the specified hero.",
