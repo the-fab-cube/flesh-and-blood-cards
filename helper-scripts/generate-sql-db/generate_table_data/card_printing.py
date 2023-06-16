@@ -18,6 +18,8 @@ def create_table(cur):
             flavor_text VARCHAR(10000) NOT NULL,
             flavor_text_plain VARCHAR(10000) NOT NULL,
             image_url VARCHAR(1000) NOT NULL,
+            tcgplayer_product_id VARCHAR(100) NOT NULL,
+            tcgplayer_url VARCHAR(1000) NOT NULL,
             FOREIGN KEY (card_unique_id) REFERENCES cards (unique_id),
             FOREIGN KEY (set_printing_unique_id) REFERENCES set_printings (unique_id),
             PRIMARY KEY (unique_id),
@@ -48,10 +50,13 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, unique_id, card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artist, art_variation, flavor_text, flavor_text_plain, image_url):
-    sql = """INSERT INTO card_printings(unique_id, card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artist, art_variation, flavor_text, flavor_text_plain, image_url)
-            VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"""
-    data = (unique_id, card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artist, art_variation, flavor_text, flavor_text_plain, image_url)
+def insert(cur, unique_id, card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artist,
+            art_variation, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url):
+    sql = """INSERT INTO card_printings(unique_id, card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artist,
+                art_variation, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url)
+            VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"""
+    data = (unique_id, card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artist,
+                art_variation, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url)
 
     try:
         print("Inserting {0} - {1} - {2} printing for card {3} ({4})...".format(
@@ -67,7 +72,6 @@ def insert(cur, unique_id, card_unique_id, set_printing_unique_id, card_id, set_
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
         exit()
-        raise error
 
 # TODO: Add non-english cards
 def generate_table_data(cur, url_for_images = None):
@@ -93,6 +97,13 @@ def generate_table_data(cur, url_for_images = None):
                 flavor_text = printing['flavor_text']
                 flavor_text_plain = printing['flavor_text_plain']
                 image_url = printing['image_url']
+                tcgplayer_product_id = ""
+                tcgplayer_url = ""
+
+                if 'tcgplayer_product_id' in printing:
+                    tcgplayer_product_id = printing['tcgplayer_product_id']
+                if 'tcgplayer_url' in printing:
+                    tcgplayer_url = printing['tcgplayer_url']
 
                 if url_for_images is not None and image_url is not None:
                     image_url = image_url.replace("https://storage.googleapis.com/fabmaster/media/images/", url_for_images)
@@ -104,6 +115,7 @@ def generate_table_data(cur, url_for_images = None):
                 if image_url is None:
                     image_url = ""
 
-                insert(cur, unique_id, card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artist, art_variation, flavor_text, flavor_text_plain, image_url)
+                insert(cur, unique_id, card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artist,
+                        art_variation, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url)
 
         print("\nSuccessfully filled card_printings table\n")
