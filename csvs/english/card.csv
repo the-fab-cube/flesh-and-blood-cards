@@ -16,6 +16,9 @@ You create a Copper, Silver, and Gold."	Bard Action		No	No	No
 fq6Pbr7BmJdqbLFqdfdTW	Pink Visor							Merchant, Equipment, Head	Ruu'di Specialization	Once per Turn Action					"**Ruu'di Specialization**
 
 **Once per Turn Action** - {r}: The next card you reveal this turn has its grade increased by 1. **Go again**"	Merchant Equipment - Head		No	No	No
+nnFHwzGctzmqqwMTrfBpQ	Good Deeds Don't Go Unnoticed	2	0		3			Generic, Action, Aura							"At the start of each other hero's turn, choose 1; they draw a card, they gain {r}, they gain 1{h}, or their next attack this turn gains +1{p}.
+
+At the start of your turn, destroy this. If another hero drew a card from this, you draw a card, then repeat for {r}, {h}, and {p}."	Generic Action - Aura		No	No	No
 mgrmPqRmdHfMbptFfDcbC	Hummingbird, Adventurer's Call							Bard, Weapon, Lute, 2H							"At the start of your turn, choose 1;
 - Each hero creates a Quicken token.
 - Each hero draws a card.
@@ -4913,8 +4916,8 @@ gqc6jdDMpF8RNbBhLw9G9	Wither	3	0	1	3			Assassin, Action, Attack	Stealth						"**
 
 When this hits a hero, create a Frailty token under their control."	Assassin Action - Attack				
 rpWjb6pnqgzTH7Cgcf98w	Razor's Edge	1	0		3			Assassin, Attack Reaction						Stealth	Target attack action card with **stealth** gains +3{p}.	Assassin Attack Reaction				
-mTdJmRRRjjqGBGbPHLcRq	Razor's Edge	2	0		3			Assassin, Attack Reaction	Stealth					Stealth	Target attack action card with **stealth** gains +2{p}.	Assassin Attack Reaction				
-DzdfLNnTQbw7t99Bz8KqB	Razor's Edge	3	0		3			Assassin, Attack Reaction	Stealth					Stealth	Target attack action card with **stealth** gains +1{p}.	Assassin Attack Reaction				
+mTdJmRRRjjqGBGbPHLcRq	Razor's Edge	2	0		3			Assassin, Attack Reaction						Stealth	Target attack action card with **stealth** gains +2{p}.	Assassin Attack Reaction				
+DzdfLNnTQbw7t99Bz8KqB	Razor's Edge	3	0		3			Assassin, Attack Reaction						Stealth	Target attack action card with **stealth** gains +1{p}.	Assassin Attack Reaction				
 7qrdPcNmtPt9HN6TQHNJR	Mask of Many Faces				1			Ninja, Equipment, Head	Blade Break	Instant					"**Instant** - {r}, destroy Mask of Many Faces: Name a card. The next attack action card you play this turn gains that name.
 
 **Blade Break**"	Ninja Equipment - Head				
@@ -4995,7 +4998,7 @@ rmTKDcDNJrDFRMdKrRmdH	Trench of Sunken Treasure				1			Ranger, Equipment, Chest	
 
 **Arcane Barrier 1**
 
-**Blade Break**"	Ranger Equipment - Chest				
+**Blade Break**"	Ranger Equipment - Chest				No
 FcJ9DMBN6LLbBJGhJ9Kkt	Quiver of Abyssal Depths							Ranger, Equipment, Quiver	Instant						**Instant** - {r}{r}{r}, destroy Quiver of Abyssal Depths: Shuffle up to 3 arrows with different names from your graveyard into your deck.	Ranger Equipment - Quiver				No
 Pc9dDNQmwKnmDbgf6jrLH	Quiver of Rustling Leaves							Ranger, Equipment, Quiver		Instant					**Instant** - {r}{r}{r}: Reveal the top card of your deck. If it's an arrow, put it face up into your arsenal and destroy Quiver of Rustling Leaves.	Ranger Equipment - Quiver				No
 QqNbkbMnDhQrdrBj77Qpr	Crow's Nest							Ranger, Equipment, Quiver	Azalea Specialization						"**Azalea Specialization**
@@ -5179,13 +5182,13 @@ Create a Ponder token under your control and an Inertia token under each opponen
 **Go again**"	Assassin / Ranger Action				No
 TRjmqFgtPrwmJf9grJR6K	Death Touch	1	1	6	2			Assassin, Ranger, Action, Attack							"Death Touch can't be played from hand.
 
-When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control."	Assassin / Ranger Action - Attack				
+When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control."	Assassin / Ranger Action - Attack				No
 tcFhTrPwdbbKHnPL6rGzp	Death Touch	2	1	5	2			Assassin, Ranger, Action, Attack							"Death Touch can't be played from hand.
 
-When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control."	Assassin / Ranger Action - Attack				
+When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control."	Assassin / Ranger Action - Attack				No
 tHhztGzBGFRrLKTWCtg7f	Death Touch	3	1	4	2			Assassin, Ranger, Action, Attack							"Death Touch can't be played from hand.
 
-When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control."	Assassin / Ranger Action - Attack				
+When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control."	Assassin / Ranger Action - Attack				No
 zwgLwBLL7dKzhJDdBtNrt	Toxicity	1	0		2			Assassin, Ranger, Action	Go again						"The next Assassin or Ranger attack action card you play this turn gains ""When this hits a hero, they lose 5{h}.""
 
 **Go again**"	Assassin / Ranger Action				No
