@@ -690,9 +690,9 @@
         "is_DFC": false
     },
     {
-        "front_unique_id": "FKC8qdBgdwgfrLmkq8htq",
-        "back_unique_id": "DFjQGNbTkNqjWhJPFL78C",
-        "is_DFC": true
+        "front_unique_id": "DFjQGNbTkNqjWhJPFL78C",
+        "back_unique_id": "nRMnPD6nnmCpFf7WkwTN7",
+        "is_DFC": false
     },
     {
         "front_unique_id": "CwtwCz8T8RWDhghCTTjdP",
@@ -857,7 +857,7 @@
     {
         "front_unique_id": "BCdjbHJtgtN6NDp7HbHTk",
         "back_unique_id": "tmgGmpmgrKcKtzLMdPkRr",
-        "is_DFC": true
+        "is_DFC": false
     },
     {
         "front_unique_id": "RMQzBfHk7cTFpNfbT6KQz",
@@ -877,7 +877,7 @@
     {
         "front_unique_id": "qW78NRQmkKP6GPDh6dRCB",
         "back_unique_id": "FdMrN6bCqQwtWTBGHJNMP",
-        "is_DFC": true
+        "is_DFC": false
     },
     {
         "front_unique_id": "PjqTbqPPDpBTNwHDp6bBt",

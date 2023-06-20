@@ -1,8 +1,8 @@
-module.exports = {
-    generateAbilityUniqueIds: require('./generate-ability-unique-ids').generateAbilityUniqueIds,
-    generateCardUniqueIds: require('./generate-card-unique-ids').generateCardUniqueIds,
-    generateKeywordUniqueIds: require('./generate-keyword-unique-ids').generateKeywordUniqueIds,
-    generateLegalityUniqueIds: require('./generate-legality-unique-ids').generateLegalityUniqueIds,
-    generateSetUniqueIds: require('./generate-set-unique-ids').generateSetUniqueIds,
-    generateTypeUniqueIds: require('./generate-type-unique-ids').generateTypeUniqueIds,
-}
+export * from './generate-ability-unique-ids.js'
+export * from './generate-card-unique-ids.js'
+export * from './generate-card-printing-unique-ids.js'
+export * from './generate-keyword-unique-ids.js'
+export * from './generate-legality-unique-ids.js'
+export * from './generate-set-unique-ids.js'
+export * from './generate-set-printing-unique-ids.js'
+export * from './generate-type-unique-ids.js'

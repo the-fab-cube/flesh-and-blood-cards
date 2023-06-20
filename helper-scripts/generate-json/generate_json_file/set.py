@@ -3,98 +3,46 @@ import json
 import re
 from pathlib import Path
 
-import helper_functions
-
-# TODO: Clean up redundant function
-def convert_edition_unique_id_data(edition_unique_id):
-    edition_unique_id_split = re.split("— | – | - ", edition_unique_id.strip())
-
-    edition_unique_id_data = {}
-    edition_unique_id_data['unique_id'] = edition_unique_id_split[0]
-    edition_unique_id_data['edition'] = edition_unique_id_split[1]
-
-    return edition_unique_id_data
+import convert_set_printings_to_dict
 
 def generate_json_file(language):
     print(f"Generating {language} set.json from set.csv...")
 
     set_array = []
 
-    csvPath = Path(__file__).parent / f"../../../csvs/{language}/set.csv"
-    jsonPath = Path(__file__).parent / f"../../../json/{language}/set.json"
+    set_csv_path = Path(__file__).parent / f"../../../csvs/english/set.csv"
+    set_printing_csv_path = Path(__file__).parent / f"../../../csvs/{language}/set-printing.csv"
 
-    with csvPath.open(newline='') as csvfile:
-        reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
-        next(reader)
+    set_json_path = Path(__file__).parent / f"../../../json/{language}/set.json"
+
+    set_printing_dict = convert_set_printings_to_dict.convert_set_printings_to_dict(set_printing_csv_path)
+
+    with set_csv_path.open(newline='') as csvfile:
+        reader = csv.DictReader(csvfile, delimiter='\t', quotechar='"')
 
         for row in reader:
+            set_unique_id = row['Unique ID']
+
+            if set_unique_id not in set_printing_dict:
+                continue
+
             set_object = {}
 
-            rowId = 0
+            set_object['unique_id'] = set_unique_id
+            set_object['id'] = row['Identifier']
+            set_object['name'] = row['Name']
 
-            set_object['unique_id'] = row[rowId]
-            rowId += 1
+            # Set Printings
 
-            set_object['id'] = row[rowId]
-            rowId += 1
+            set_printing_array = set_printing_dict[set_unique_id]
 
-            set_object['name'] = row[rowId]
-            rowId += 1
-
-            editions = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            edition_unique_ids = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            initial_release_dates = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            out_of_print_dates = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            set_object['start_card_id'] = row[rowId]
-            rowId += 1
-
-            set_object['end_card_id'] = row[rowId]
-            rowId += 1
-
-            product_pages = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            collectors_center = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            card_galleries = helper_functions.convert_to_array(row[rowId])
-            rowId += 1
-
-            editions_array = []
-
-            unique_id_data = [convert_edition_unique_id_data(x) for x in edition_unique_ids]
-
-            for index, edition in enumerate(editions):
-                edition_object = {}
-
-                valid_unique_ids = [data for data in unique_id_data if data['edition'] == edition]
-                unique_id = valid_unique_ids[0]['unique_id'] if len(valid_unique_ids) > 0 else None
-
-                edition_object['unique_id'] = unique_id
-                edition_object['edition'] = edition
-                edition_object['initial_release_date'] = initial_release_dates[index]
-                edition_object['out_of_print_date'] = out_of_print_dates[index]
-                edition_object['product_page'] = product_pages[index]
-                edition_object['collectors_center'] = collectors_center[index]
-                edition_object['card_gallery'] = card_galleries[index]
-
-                editions_array.append(edition_object)
-
-            set_object['editions'] = editions_array
+            set_object['printings'] = set_printing_array
 
             set_array.append(set_object)
 
     json_object = json.dumps(set_array, indent=4, ensure_ascii=False)
 
-    with jsonPath.open('w', newline='\n', encoding='utf8') as outfile:
+    with set_json_path.open('w', newline='\n', encoding='utf8') as outfile:
         outfile.write(json_object)
 
     print(f"Successfully generated {language} set.json\n")

@@ -9,3 +9,6 @@
 
 02-25-23:
 - Updated script to work with new card-reference files
+
+06-19-23:
+- Updated script to handle new CSVs

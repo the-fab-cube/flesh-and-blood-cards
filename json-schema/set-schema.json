@@ -13,13 +13,7 @@
             "name": {
                 "type": "string"
             },
-            "start_card_id": {
-                "type": "string"
-            },
-            "end_card_id": {
-                "type": "string"
-            },
-            "editions": {
+            "printings": {
                 "type": "array",
                 "items": {
                     "type": "object",
@@ -28,6 +22,12 @@
                             "type": "string"
                         },
                         "edition": {
+                            "type": "string"
+                        },
+                        "start_card_id": {
+                            "type": "string"
+                        },
+                        "end_card_id": {
                             "type": "string"
                         },
                         "initial_release_date": {
@@ -49,6 +49,8 @@
                     "required": [
                         "unique_id",
                         "edition",
+                        "start_card_id",
+                        "end_card_id",
                         "initial_release_date",
                         "out_of_print_date",
                         "product_page",
@@ -61,9 +63,7 @@
         "required": [
             "id",
             "name",
-            "start_card_id",
-            "end_card_id",
-            "editions"
+            "printings"
         ]
     }
 }

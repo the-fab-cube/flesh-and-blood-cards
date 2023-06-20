@@ -4,3 +4,8 @@
 02-11-23:
 - Updated script to modify CSVs using standard dash
 - Updated script to handle legality files
+
+06-19-23:
+- Cleaned up script's handling of async generators
+- Updated script to handle new CSVs
+- Ensured script throws error when run through bash

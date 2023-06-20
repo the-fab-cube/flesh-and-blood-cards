@@ -4,17 +4,17 @@ from pathlib import Path
 import re
 
 def create_artists_csv_from_card_csv(language):
-    print(f"Generating {language} artist.csv from {language} card.json...")
+    print(f"Generating {language} artist.csv from {language} card-printing.csv...")
 
     # Compile list of unique artists from all languages' card.csv
     artists = set()
 
-    path = Path(__file__).parent / f"../../csvs/{language}/card.csv"
+    path = Path(__file__).parent / f"../../csvs/{language}/card-printing.csv"
     with path.open(newline='') as csvfile:
         reader = csv.DictReader(csvfile, delimiter='\t', quotechar='"')
 
         for row in reader:
-            artist_column=row['Artists']
+            artist_column=row['Artist']
             individual_artists=artist_column.split(',')
             for artist in individual_artists:
                 artists.add(re.split(r'\s+[-–—]\s+', artist)[0].strip())
