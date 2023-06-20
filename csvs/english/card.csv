@@ -5297,9 +5297,9 @@ When this hits a hero, create a Frailty token under their control."	Ranger Actio
 DGN6wbTkHFhrzGfLjQ6jg	Withering Shot	3	1	3	3			Ranger, Action, Arrow, Attack							"If Withering Shot has an aim counter, it has +1{p}.
 
 When this hits a hero, create a Frailty token under their control."	Ranger Action - Arrow Attack				
-KtFRrP9HJRGKTJtHrCtwD	Withstand	1	2		3			Guardian, Instant							The next time target Guardian off-hand defends this turn, it gains +6{d} until the combat chain closes.	Guardian Instant				
-Qk8tQfhtfP8mpHgcJBRD6	Withstand	2	2		3			Guardian, Instant							The next time target Guardian off-hand defends this turn, it gains +5{d} until the combat chain closes.	Guardian Instant				
-TTGpGFzh9Kb8RPDDbTmnw	Withstand	3	2		3			Guardian, Instant							The next time target Guardian off-hand defends this turn, it gains +4{d} until the combat chain closes.	Guardian Instant				
+KtFRrP9HJRGKTJtHrCtwD	Withstand	1	2					Guardian, Instant							The next time target Guardian off-hand defends this turn, it gains +6{d} until the combat chain closes.	Guardian Instant				
+Qk8tQfhtfP8mpHgcJBRD6	Withstand	2	2					Guardian, Instant							The next time target Guardian off-hand defends this turn, it gains +5{d} until the combat chain closes.	Guardian Instant				
+TTGpGFzh9Kb8RPDDbTmnw	Withstand	3	2					Guardian, Instant							The next time target Guardian off-hand defends this turn, it gains +4{d} until the combat chain closes.	Guardian Instant				
 cbD6dqdgnLGk8zjjQqHCt	Wounded Bull	1	3	7	2			Generic, Action, Attack							When you play this, if you have less {h} than an opposing hero, this gains +1{p}.	Generic Action - Attack				
 WdmT8cBmQFfGfdR8hknCT	Wounded Bull	2	3	6	2			Generic, Action, Attack							When you play this, if you have less {h} than an opposing hero, this gains +1{p}.	Generic Action - Attack				
 gFQQLWKpNnLW9TPg86kL7	Wounded Bull	3	3	5	2			Generic, Action, Attack							When you play this, if you have less {h} than an opposing hero, this gains +1{p}.	Generic Action - Attack				

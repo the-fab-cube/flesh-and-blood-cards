@@ -454,6 +454,9 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added a release-template.md for an easier time prepping future release notes
 - Updated CSV documentation
 
+06-20-23:
+- Fixed an issue with Withstand incorrectly having defense values listed
+
 PENDING:
 - Added DTD card data
 - Added card data (minus images) for LGS153-LGS163, LGS172-LGS174
