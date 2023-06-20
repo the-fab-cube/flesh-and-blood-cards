@@ -37,7 +37,7 @@ ct8dbmGW77wb6TkJwJkFT	Spell Fray Gloves				0			Generic, Equipment, Arms	Spellvoi
 8JHRBmh8WLLgMgCrP7Tpk	Spell Fray Leggings				0			Generic, Equipment, Legs	Spellvoid 1						**Spellvoid 1**	Generic Equipment - Legs				
 pBpLPQ7kg6mkBpNMMPdCD	Heart of Fyendal	3						Generic, Resource, Gem	Legendary						"**Legendary**
 
-When you pitch Heart of Fyendal, if you have less {h} than your opponent, gain 1{h}."	Generic Resource - Gem				No
+When you pitch Heart of Fyendal, if you have less {h} than an opposing hero, gain 1{h}."	Generic Resource - Gem				No
 wr9wBtTWwRrPrdhCRHCdN	Rhinar, Reckless Rampage					40	4	Brute, Hero	Intimidate						Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**.	Brute Hero		No		No
 wNRqrHCn6rrKLhrDkqPwp	Rhinar					20	4	Brute, Hero, Young	Intimidate						Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**.	Brute Hero - Young			No	
 QT8JfjzmzqRR9MWgtgPLR	Romping Club			4				Brute, Weapon, Club, 2H		Once per Turn Action, Once per Turn Effect	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
@@ -243,7 +243,7 @@ hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	0	2	3			Ninja, Action, Attack	Katsu Special
 **Combo** - If Mugenshi: RELEASE was the last attack this combat chain, as an additional cost to play Lord of Wind, you may pay any amount of {r}. If you do, shuffle that many target cards named Surging Strike, Whelming Gustwave and/or Mugenshi: RELEASE from your graveyard into your deck, then Lord of Wind gains that much {p}."	Ninja Action - Attack				No
 qCDqQNmzPzM8DfbRPBqWj	Ancestral Empowerment	1	0		3			Ninja, Attack Reaction							"Target Ninja attack action card gains +1{p}.
 
-Draw a card."	Ninja - Attack Reaction				No
+Draw a card."	Ninja Attack Reaction				No
 zjzpNfJzKkkQPptTjCthC	Mugenshi: RELEASE	2	1	4	3			Ninja, Action, Attack	Katsu Specialization, Combo, Go again						"**Katsu Specialization**
 
 **Combo** - If Whelming Gustwave was the last attack this combat chain, Mugenshi: RELEASE gains +1{p}, **go again**, and ""If this hits, search your deck for any number of cards named Lord of Wind, reveal them, put them into your hand, then shuffle your deck."""	Ninja Action - Attack				No
@@ -255,9 +255,9 @@ HGNCdBCQmdRqQGggmrLjg	Fluster Fist	2	0	3	3			Ninja, Action, Attack	Combo						**
 BdktjfJkbNJzMfKQ6Mtrd	Blackout Kick	1	1	4	3			Ninja, Action, Attack	Combo						**Combo** - If Rising Knee Thrust was the last attack this combat chain, Blackout Kick gains +3{p}.	Ninja Action - Attack				No
 BKjJWmhTkQrpQLCcgr8Jb	Blackout Kick	2	1	3	3			Ninja, Action, Attack	Combo						**Combo** - If Rising Knee Thrust was the last attack this combat chain, Blackout Kick gains +3{p}.	Ninja Action - Attack				No
 gp98bCGp7DPjk8KTpHqJr	Blackout Kick	3	1	2	3			Ninja, Action, Attack	Combo						**Combo** - If Rising Knee Thrust was the last attack this combat chain, Blackout Kick gains +3{p}.	Ninja Action - Attack				No
-WtGtPtHBQMNnjzBdcdLNd	Flic Flak	1	0		4			Ninja, Defense Reaction						Combo	If the next card you defend with this turn is a card with **combo**, it gains +2{d}.	Ninja - Defense Reaction				No
-NWTPMPpLT7TL7qzkBLTHF	Flic Flak	2	0		3			Ninja, Defense Reaction						Combo	If the next card you defend with this turn is a card with **combo**, it gains +2{d}.	Ninja - Defense Reaction				No
-tNwNjDkrznjwrPP6bHBtD	Flic Flak	3	0		2			Ninja, Defense Reaction						Combo	If the next card you defend with this turn is a card with **combo**, it gains +2{d}.	Ninja - Defense Reaction				No
+WtGtPtHBQMNnjzBdcdLNd	Flic Flak	1	0		4			Ninja, Defense Reaction						Combo	If the next card you defend with this turn is a card with **combo**, it gains +2{d}.	Ninja Defense Reaction				No
+NWTPMPpLT7TL7qzkBLTHF	Flic Flak	2	0		3			Ninja, Defense Reaction						Combo	If the next card you defend with this turn is a card with **combo**, it gains +2{d}.	Ninja Defense Reaction				No
+tNwNjDkrznjwrPP6bHBtD	Flic Flak	3	0		2			Ninja, Defense Reaction						Combo	If the next card you defend with this turn is a card with **combo**, it gains +2{d}.	Ninja Defense Reaction				No
 TkCWdhw8pfcpfckC9MLNm	Open the Center	1	2	5	3			Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack				
 BfQnT8rqMhTBmDWCFgdhW	Open the Center	2	2	4	3			Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack				
 CChttCnwGwHMcBKm6LhNR	Open the Center	3	2	3	3			Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack				
@@ -882,9 +882,7 @@ T6b7mmKBRHjBq9TQwfRB7	Mage Master Boots				0			Generic, Equipment, Legs		Action	
 TKd8jdfqgWnjdNRBmkKfB	Nullrune Robe				0			Generic, Equipment, Chest	Arcane Barrier 1						**Arcane Barrier 1**	Generic Equipment - Chest				
 9bWHjnFmfDBDtkmKtCCrw	Nullrune Gloves				0			Generic, Equipment, Arms	Arcane Barrier 1						**Arcane Barrier 1**	Generic Equipment - Arms				
 n8rcTcmmLzzwTWHCwgtRP	Nullrune Boots				0			Generic, Equipment, Legs	Arcane Barrier 1						**Arcane Barrier 1**	Generic Equipment - Legs				
-kMRjHHLzPtgLw7j7PmQqf	Command and Conquer	1	2	6	3			Generic, Action, Attack							"Defense reaction cards can't be played to Command and Conquer's chain link.
-
-If Command and Conquer hits a hero, destroy all cards in their arsenal."	Generic Action - Attack				No
+kMRjHHLzPtgLw7j7PmQqf	Command and Conquer	1	2	6	3			Generic, Action, Attack							Defense reaction cards can't be played this chain link. When this hits a hero, destroy all cards in their arsenal.	Generic Action - Attack				No
 G7bRDqbhCJD76fH77Mfm7	Art of War	2	1					Generic, Instant							"Choose 2;
 
 - Attack action cards you control gain +1{p} and +1{d} this turn.
@@ -1234,7 +1232,7 @@ KPMtkfh8Dd6Dt9LJjGQLw	Plasma Barrel Shot			X				Mechanologist, Weapon, Gun, 2H		
 X is equal to 1 plus the number of times you have **boosted** this combat chain."	Mechanologist Weapon - Gun (2H)				
 PFbLkp7H79TMzLwJfGMCp	Viziertronic Model i				0			Mechanologist, Equipment, Head	Arcane Barrier 2	Action	Go again				"**Action** - destroy Vizertronic Model i: Whenever you **boost** this turn, draw a card then put a card from your hand on top of your deck. **Go again**
 
-**Arcane Barrier 2**"	Mechanologist, Equipment - Head				No
+**Arcane Barrier 2**"	Mechanologist Equipment - Head				No
 8hKgjhRrpGHqPGg76pzBN	Meganetic Shockwave	3	2	4	3			Mechanologist, Action, Attack						Boost	The defending hero must defend Meganetic Shockwave with X equipment they control, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack				No
 6j7RrdTPfczH7PhHm8Brq	Absorption Dome	2	0					Mechanologist, Action, Item						Boost	"Absorption Dome enters the arena with steam counters on it equal to the number of times you have **boosted** this turn.
 
@@ -1483,7 +1481,7 @@ z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	2	2	6	3			Light, Illusionist, Action, A
 
 If Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase.
 
-**Phantasm**"	Light Illusionist Instant - Aura				No
+**Phantasm**"	Light Illusionist Action - Attack				No
 QD7K9HmH9g9CLWRPcz87n	Herald of Triumph	1	2	7	3			Light, Illusionist, Action, Attack	Phantasm						"Attack action cards have -1{p} while defending Herald of Triumph.
 
 If Herald of Triumph hits, put it into your hero's soul.
@@ -1703,13 +1701,13 @@ GwNppkqrrrfrMgRWhT9rr	Prismatic Shield	2	3					Illusionist, Instant							Create
 bFjnrzdmFLkwdBbWHnGfR	Prismatic Shield	3	3					Illusionist, Instant							Create a Spectral Shield token.	Illusionist Instant				No
 jw6p7dcmQGwMF86LfJrbF	Phantasmify	1	1		2			Illusionist, Action	Go again			Phantasm			"The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5{p} and **phantasm**.
 
-**Go again**"	Illusionist, Instant				No
+**Go again**"	Illusionist Instant				No
 dPbDhHRWLfGK8tDtRNmHg	Phantasmify	2	1		2			Illusionist, Action	Go again			Phantasm			"The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +4{p} and **phantasm**.
 
-**Go again**"	Illusionist, Instant				No
+**Go again**"	Illusionist Instant				No
 cFhn8KcQF7jhzkgPfCQRn	Phantasmify	3	1		2			Illusionist, Action	Go again			Phantasm			"The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +3{p} and **phantasm**.
 
-**Go again**"	Illusionist, Instant				No
+**Go again**"	Illusionist Instant				No
 KPm87t9nFjpM9jzrM7hzp	Enigma Chimera	1	2	8	3			Illusionist, Action, Attack	Phantasm						**Phantasm**	Illusionist Action - Attack				
 QFJ7cfqhj6TqrwLQQJNFL	Enigma Chimera	2	2	7	3			Illusionist, Action, Attack	Phantasm						**Phantasm**	Illusionist Action - Attack				
 CQRFRLf9kHFWnrmqfFRTn	Enigma Chimera	3	2	6	3			Illusionist, Action, Attack	Phantasm						**Phantasm**	Illusionist Action - Attack				
@@ -2049,10 +2047,10 @@ KLtwtTdQqjdTJNhcQHJhd	Carrion Husk				6			Shadow, Equipment, Chest	Blood Debt			
 
 At the start of your turn, if you have 13 or less {h}, banish Carrion Husk.
 
-**Blood Debt**"	Shadow, Equipment, Chest				No
+**Blood Debt**"	Shadow Equipment - Chest				No
 RKDPjzdGtKWMQnNcHBdF8	Ebon Fold				0			Shadow, Equipment, Head	Spellvoid 2	Instant					"**Instant** - {r}, destroy Ebon Fold: Banish a card from your hand. If it's a Shadow card, draw a card.
 
-**Spellvoid 2**"	Shadow, Equipment, Head				
+**Spellvoid 2**"	Shadow Equipment - Head				
 w7HdMtLpHDBRNJcKHWHpc	Doomsday	3	0					Shadow, Instant	Legendary, Levia Specialization					Blood Debt	"**Legendary Levia Specialization**
 
 Play Doomsday only if there are 6 or more cards with blood debt in your banished zone.
