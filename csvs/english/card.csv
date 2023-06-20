@@ -125,6 +125,9 @@ rtq8MPBRKQzBpWTWRpj8t	Amulet of Oblation	3	0					Generic, Action, Item	Go again	
 qCDqQNmzPzM8DfbRPBqWj	Ancestral Empowerment	1	0		3			Ninja, Attack Reaction							"Target Ninja attack action card gains +1{p}.
 
 Draw a card."	Ninja Attack Reaction				No
+GGDBMFMgCgn9wmWG6jMkq	Angelic Wrath	1	0					Light, Illusionist, Instant							Target attack action card with Herald in its name gets +4{p}	Light Illusionist Instant				
+DHLWgwppG9tBkQkBqHBKB	Angelic Wrath	2	0					Light, Illusionist, Instant							Target attack action card with Herald in its name gets +3{p}	Light Illusionist Instant				
+QDrMdfMCqDCjTpkBQmdJD	Angelic Wrath	3	0					Light, Illusionist, Instant							Target attack action card with Herald in its name gets +2{p}	Light Illusionist Instant				
 9gnHtCMJBbDQjqk8cWmhN	Annals of Sutcliffe							Runeblade, Weapon, Book, 2H							**Once per Turn Action** - {r}{r}{r}: Draw a card. If an attack action card and a 'non-attack' action card were pitched this way, create a Runechant token.	Runeblade Weapon - Book (2H)				
 qJfJ7wBLmBtGnBpqQttNK	Annihilate the Armed	1	1	5	3			Assassin, Action, Attack	Contract						"**Contract** - You are contracted to banish opponents' attack action cards. Whenever you complete this contract, create a Silver token.
 
@@ -1742,6 +1745,7 @@ tNwNjDkrznjwrPP6bHBtD	Flic Flak	3	0		2			Ninja, Defense Reaction						Combo	If t
 Bh6NHMCNrhdwbHb7CJRb7	Flick Knives				1			Assassin, Ninja, Equipment, Arms	Blade Break	Once per Turn Attack Reaction					"**Once per Turn Attack Reaction** - 0: Target dagger you control that isn't on the active chain link deals 1 damage to target hero. If damage is dealt this way, the dagger has hit. Destroy the dagger.
 
 **Blade Break**"	Assassin / Ninja Equipment - Arms				No
+kCKqHQb8W96FJTWqnNhCj	Flicker Trick	1	0		5			Illusionist, Defense Reaction	Mirage						**Mirage**	Illusionist Defense Reaction				No
 wq9TcGTj79nqfWPtJFdkR	Flicker Wisp	2	0		2			Elemental, Runeblade, Action	Lightning Fusion, Go again						"**Lightning Fusion**
 
 If Flicker Wisp was **fused**, until end of turn, action card effects you control that deal arcane damage, instead deal that much arcane damage plus 1.

@@ -132,6 +132,12 @@
         "description_plain": "An Illusionist mechanic that applies effects if it is under another permanent."
     },
     {
+        "unique_id": "jTtHPbKjwLkkDhRQHpWnK",
+        "name": "Mirage",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "KjHmzrtCdmW698JjW8J6j",
         "name": "Negate",
         "description": "**Negating** a card on a layer of the chain will prevent the card from resolving.",
