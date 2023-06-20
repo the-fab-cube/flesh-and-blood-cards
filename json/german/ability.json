@@ -5,26 +5,34 @@
     },
     {
         "unique_id": "kQNwpnQqhC8RGPcpDKdJD",
-        "name": "Attackenreaktion"
+        "name": "Angriffsreaktion"
     },
     {
         "unique_id": "GJdGNktHCbbzmHNkkNfDz",
-        "name": "Sofort"
+        "name": "Spontan"
     },
     {
         "unique_id": "7jJ7hBjrMQd6fcWcqTb6D",
-        "name": "Einmalige Aktion pro Zug"
+        "name": "Einmal pro Zug Aktion"
     },
     {
         "unique_id": "9DbtWdGfndKG7CCDPmb9t",
-        "name": "Einmalige Attackenreaktion pro Zug"
+        "name": "Einmal pro Zug Angriffsreaktion"
+    },
+    {
+        "unique_id": "KzGJdT7tz9LfLhWfbnFwb",
+        "name": "Einmal pro Zug Verteidigungsreaktion"
     },
     {
         "unique_id": "7mcpJ8zrDHJWkf9r68bhH",
-        "name": "Einmaliger Effekt pro Zug"
+        "name": "Einmal pro Zug"
     },
     {
         "unique_id": "t7KdJFMrpcTDBBnGWf6wK",
-        "name": "Einmalig pro Zug sofort"
+        "name": "Einmal pro Zug Spontan"
+    },
+    {
+        "unique_id": "cTkzhh6mR7NHCWnBRnbWW",
+        "name": "Zweimal pro Zug Spontan"
     }
 ]

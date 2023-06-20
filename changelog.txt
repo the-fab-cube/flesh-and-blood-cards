@@ -398,6 +398,47 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed missing card references between Hala Goldenhelm + Glistening Steelblade and Chief Ruk'utan + Alpha Rampage
 - Fixed Nerves of Steel incorrectly having Battleworn and Temper listed as keywords (moved to removed_keywords)
 
+04-27-23:
+- Added Good Deeds Don’t Go Unnoticed card data (minus image) - data entry credit: manwaring
+- Added Pink Visor card data (minus image) - data entry credit: manwaring
+- Added missing EA data for Earthlore Bounty - data entry credit: manwaring
+- Fixed an issue with T-Bone (blue) being marked as Common - bugfix credit: manwaring
+- Fixed an issue with Razor's Edge (yellow) having the Stealth keyword - bugfix credit: manwaring
+- Fixed an issue with Death Touch being marked as legal in commoner format - bugfix credit: manwaring
+- Fixed an issue with Carlos Cruchaga missing from Codex of Bloodrot Marvel - bugfix credit: manwaring
+- Added card data (minus images) for JDG005, JDG006, JDG009, JDG012, and HER069
+- Added Pairs keyword (minus description)
+
+05-03-23:
+- Updated HER081-HER083
+- Added card data (including images) for LGS134-LGS136
+- Added image links for FAB123-FAB131, FAB133-FAB135, FAB137, HER069-HER071, HER073, HER076-HER078, HER082, HER083, LGS100-LGS102, LGS112-LGS115, LGS120, LGS121, LGS125-LGS128, LGS133, LGS137, XXX011-XXX012
+- Updated image links for HER074 and LGS111, LGS113, LGS129, LGS130-LGS132
+- Fixed an error where Arakni, Solitary Confinement had the card id HER081 instead of HER082
+- Fixed an error where Riptide had the card id HER083 instead of HER081
+- Fixed an error where Uzuri had the card id HER082 instead of HER083
+- Fixed an error where FAB122's foiling was incorrectly marked as S instead of R
+- Updated Blitz suspended status for Aether Icevein, Crown of Seeds, and Hypothermia
+- Updated Blitz banned status for Drone of Brutality
+- Updated Blitz Living Legend status for Iyslander, Kraken's Aethervein, Oldhim, and Winter's Wail
+- Updated UPF banned status for Go Bananas
+
+05-04-23:
+- Added card data for FAB080
+- Added image links for FAB079, FAB081, FAB095-FAB103, FAB105-FAB109, and HER079
+- Updated image link for LGS119
+- Updated functional text for Heart of Fyendal and Command and Conquer
+- Fixed typos in the type text for Ancestral Empowerment, Flic Flak, Viziertronic Model i, Herald of Judgment, Phantasmify, Carrion Husk, and Ebon Fold
+- Updated the German ability, keyword, set, and type CSV to add updated translation data from OUT and HP2 - data entry credit: Mofte
+
+06-01-23:
+- Fixed an issue where BEN018 was associated with Be Like Water (red) instead of Be Like Water (yellow) - bug notice credit: manwaring
+- Fixed an issue where Bad Beats, Isenhowl Weathervane, Oath of Steel, and Tear Limb From Limb were missing the Go Again keyword  - bug notice credit: Firecrest
+
+06-10-23:
+- Updated functional text for Wounded Bull and Arc Light Sentinel
+- Added card data (minus images) for JDG011, JDG013, and JDG014
+
 PENDING:
 - Fixed double sided "marvel" `Bravo, Star of the Show` having an incorrect represenation
 - Fixed some double sided marvel Hero cards being incorrectly marked as being DFCs

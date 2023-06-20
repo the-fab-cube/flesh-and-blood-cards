@@ -198,5 +198,29 @@
         "date_announced": "2022-11-10T00:00:00.000Z",
         "date_in_effect": "2022-11-11T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/articles/banned-suspended-nov-9/"
+    },
+    {
+        "unique_id": "nkgK7knCfNnjpmmbrRLMm",
+        "card_unique_id": "9bQFfTFGQWJFWrcJnfQgz",
+        "status_active": false,
+        "date_announced": "2023-05-04T00:00:00.000Z",
+        "date_in_effect": "2023-05-05T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-suspended-may-2023/"
+    },
+    {
+        "unique_id": "9gJjwGHwNFDcjMgLTcnLW",
+        "card_unique_id": "Nhmj8MBNCmWFC68JkhkNC",
+        "status_active": false,
+        "date_announced": "2023-05-04T00:00:00.000Z",
+        "date_in_effect": "2023-05-05T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-suspended-may-2023/"
+    },
+    {
+        "unique_id": "mjKk6fDggfBBncWCDKtkR",
+        "card_unique_id": "hJt6FwT8mhQbcWQLzgHMT",
+        "status_active": false,
+        "date_announced": "2023-05-04T00:00:00.000Z",
+        "date_in_effect": "2023-05-05T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/banned-suspended-may-2023/"
     }
 ]

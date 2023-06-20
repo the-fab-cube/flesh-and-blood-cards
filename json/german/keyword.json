@@ -13,7 +13,7 @@
     },
     {
         "unique_id": "bKgtwKPTzJ69QdFDfm9bR",
-        "name": "Von der Schlacht gezeichnet",
+        "name": "Kampfgezeichnet",
         "description": "",
         "description_plain": ""
     },
@@ -24,8 +24,26 @@
         "description_plain": ""
     },
     {
+        "unique_id": "P78nKMjh7Q9rFtgndz8rJ",
+        "name": "Blutschuld",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "wPWTbtBBwWkLhTz7hMrn7",
         "name": "Boost",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "GtFWQhMLPKPBttDFDMnGN",
+        "name": "Kanalisierung",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "WBBLK99pg7LTHM8JRNgzg",
+        "name": "Aufladen",
         "description": "",
         "description_plain": ""
     },
@@ -48,8 +66,26 @@
         "description_plain": ""
     },
     {
+        "unique_id": "gj7mqb77bLbHGW6rpNcq9",
+        "name": "Essenz",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "rwhcqgpkPpTtFrNM6n7Pw",
+        "name": "Fusion",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "mmf6BdTtrbCGrhdhg8K9g",
-        "name": "Go again",
+        "name": "Weitermachen",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "hbjfTFTQmCR9FjzP7DWGK",
+        "name": "Hieven X",
         "description": "",
         "description_plain": ""
     },
@@ -67,7 +103,13 @@
     },
     {
         "unique_id": "bfRPRwTzzCPNRmNbfhdq7",
-        "name": "Sortiere X Um",
+        "name": "Sortiere X um",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "GQfWb9GwKkw9RNrK6L6B9",
+        "name": "Trugbild",
         "description": "",
         "description_plain": ""
     },
@@ -90,8 +132,20 @@
         "description_plain": ""
     },
     {
+        "unique_id": "fDbLqGWBhWhTmJhGmdKQc",
+        "name": "Spectra",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "f8Tw8JfDjQhjrtkLLcBKt",
+        "name": "Zauberbann X",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "RnrzPrG6KfnCPhDCF8bpB",
-        "name": "Tempern",
+        "name": "Verschleiß",
         "description": "",
         "description_plain": ""
     }
