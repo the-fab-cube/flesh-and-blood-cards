@@ -1,0 +1,22 @@
+[
+    {
+        "id": "AB",
+        "name": "Alternate Border"
+    },
+    {
+        "id": "AA",
+        "name": "Alternate Art"
+    },
+    {
+        "id": "AT",
+        "name": "Alternate Text"
+    },
+    {
+        "id": "EA",
+        "name": "Extended Art"
+    },
+    {
+        "id": "FA",
+        "name": "Full Art"
+    }
+]

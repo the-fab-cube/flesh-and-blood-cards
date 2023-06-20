@@ -3,17 +3,35 @@
         "unique_id": "DGq7jN9CfcpnDRQFMTHhB",
         "id": "1HP",
         "name": "History Pack 1 – Black Label",
-        "start_card_id": "1HP000",
-        "end_card_id": "1HP427",
-        "editions": [
+        "printings": [
             {
                 "unique_id": "TJn6DFWGBDfHJMntFCcmR",
                 "edition": "N",
+                "start_card_id": "1HP000",
+                "end_card_id": "1HP427",
                 "initial_release_date": "2022-06-01T00:00:00.000Z",
                 "out_of_print_date": null,
                 "product_page": "https://fabtcg.com/products/booster-set/history-pack-1-black-label/",
                 "collectors_center": "https://fabtcg.com/collectors-centre/history-pack-1/",
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/history-pack-1-black-label-de-fr-sp-it/history-pack-1-black-label-german/"
+            }
+        ]
+    },
+    {
+        "unique_id": "qRBNhJMCjcgWMMwGpbqMm",
+        "id": "2HP",
+        "name": "History Pack 2 – Black Label",
+        "printings": [
+            {
+                "unique_id": "BmJqGfjkkFHdzHWTkfzpz",
+                "edition": "N",
+                "start_card_id": "2HP000",
+                "end_card_id": "2HP533",
+                "initial_release_date": "2023-02-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/articles/history-pack-2/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/history-pack-2/",
+                "card_gallery": null
             }
         ]
     }

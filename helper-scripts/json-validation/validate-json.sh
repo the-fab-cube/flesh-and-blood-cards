@@ -9,6 +9,7 @@ function validate_json {
 CMD="./node_modules/pajv/index.js validate -s"
 
 validate_json ../../json-schema/ability-schema.json ../../json/english/ability.json
+validate_json ../../json-schema/art-variation-schema.json ../../json/english/art-variation.json
 validate_json ../../json-schema/artist-schema.json ../../json/english/artist.json
 validate_json ../../json-schema/card-schema.json ../../json/english/card.json
 validate_json ../../json-schema/card-flattened-schema.json ../../json/english/card-flattened.json

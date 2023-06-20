@@ -1,6 +1,6 @@
 # Data Set Abbreviations
 
-## Alternate Art Variations (Shorthand - Name)
+## Art Variations (Shorthand - Name)
 * AB - Alternate Border
 * AA - Alternate Art
 * AT - Alternate Text

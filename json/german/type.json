@@ -4,24 +4,32 @@
         "name": "Aktion"
     },
     {
+        "unique_id": "jb97wGkbpTwGMCtQTCjpT",
+        "name": "Verbündeter"
+    },
+    {
         "unique_id": "Wd89Lr6DnQJqzrhQW9TRj",
         "name": "Arme"
     },
     {
         "unique_id": "6MTGJdkzNnb8hqcWQTLgC",
-        "name": "Pfeilattacke"
+        "name": "Pfeil Angriff"
     },
     {
         "unique_id": "qHmjDmN7LDCHJGjKjdMCM",
-        "name": "Attacke"
+        "name": "Angriff"
     },
     {
         "unique_id": "mDMr9FKqzmfJdCwNkjRbw",
-        "name": "Attackenreaktion"
+        "name": "Angriffsreaktion"
     },
     {
         "unique_id": "7tJLNpqPWnPgzqhMpdjwz",
         "name": "Aura"
+    },
+    {
+        "unique_id": "dJ9Tp8bJWQQc8ndKWP8DK",
+        "name": "Axt"
     },
     {
         "unique_id": "6jDWMLHn6jQgr9hKBDT8F",
@@ -29,7 +37,7 @@
     },
     {
         "unique_id": "7HG9GDqGdrtdnTPDgLjRL",
-        "name": "Wüstling"
+        "name": "Rohling"
     },
     {
         "unique_id": "Bp7wdKfgzKBz88hPDPGm6",
@@ -52,8 +60,24 @@
         "name": "Verteidigungsreaktion"
     },
     {
+        "unique_id": "kchhNfctqPFht6DFNRWhJ",
+        "name": "Dämon"
+    },
+    {
+        "unique_id": "pKLrMNbbrhNwqhBHkbTGC",
+        "name": "Erde"
+    },
+    {
+        "unique_id": "QKcmJKbLdCtWkFPrD8nrq",
+        "name": "Elementar"
+    },
+    {
         "unique_id": "NGBgjq76Q7GHNH9P9nHgM",
         "name": "Ausrüstung"
+    },
+    {
+        "unique_id": "CGT9kkqBNBgHJtTgWwqLn",
+        "name": "Kriegsflegel"
     },
     {
         "unique_id": "zCCRjbKknh6F9tntDRdLQ",
@@ -65,7 +89,7 @@
     },
     {
         "unique_id": "9KRj8FQtKGtLCngNCGMdr",
-        "name": "Gardien"
+        "name": "Wächter"
     },
     {
         "unique_id": "pGRgW7zBRLQLC9hT9hwBB",
@@ -73,7 +97,7 @@
     },
     {
         "unique_id": "HmrBcLmRWhht6dfKC6dNP",
-        "name": "Marteau"
+        "name": "Hammer"
     },
     {
         "unique_id": "7hNgDbPfcWLKzdMkpcfKn",
@@ -84,16 +108,36 @@
         "name": "Held"
     },
     {
+        "unique_id": "8Jt7j6JwCjjLMtr8jDQtD",
+        "name": "Eis"
+    },
+    {
+        "unique_id": "9dqjFMpC6zTg6cPCzkRn9",
+        "name": "Illusionist"
+    },
+    {
         "unique_id": "RGQzKRLNwRbLFK67DpdhH",
-        "name": "Sofort"
+        "name": "Spontan"
     },
     {
         "unique_id": "PbrQDwRQtwNg7KbHKCTQN",
-        "name": "Objekt"
+        "name": "Gegenstand"
+    },
+    {
+        "unique_id": "NzWNjQJp8N7TDMtmfGgPR",
+        "name": "Wahrzeichen"
     },
     {
         "unique_id": "PPC6QtBhhmGJBCnjfbjBg",
         "name": "Beine"
+    },
+    {
+        "unique_id": "KFmTFHkDbF6QGrh6PjLfC",
+        "name": "Licht"
+    },
+    {
+        "unique_id": "KrCgRB9kHnrpFDBDrqT8B",
+        "name": "Blitz"
     },
     {
         "unique_id": "Bppz9JbPnKhzjMKtNKPDF",
@@ -106,6 +150,14 @@
     {
         "unique_id": "GC7qTwCNRhnM89fNqHGRf",
         "name": "Ninja"
+    },
+    {
+        "unique_id": "fW8KBrG7WdKWRqgQLjpBK",
+        "name": "Nebenhand"
+    },
+    {
+        "unique_id": "dqzwT8hJbqChq7btnP7R8",
+        "name": "Sphäre"
     },
     {
         "unique_id": "CK6bh8fzPQnFnn7qMNnhq",
@@ -122,6 +174,14 @@
     {
         "unique_id": "bNCJdHthWMNkHGJ8Rc6kP",
         "name": "Runenklinge"
+    },
+    {
+        "unique_id": "DTkFqTdJDpGpnmhMCwnnC",
+        "name": "Zepter"
+    },
+    {
+        "unique_id": "9kqztjtRn6RkBCHcf9hpJ",
+        "name": "Schatten"
     },
     {
         "unique_id": "kK6NKKTFHQnmBJFFpFGgT",

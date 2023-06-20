@@ -101,14 +101,6 @@
                 "description": "The functional text of the card, formatted in plain text.",
                 "type": "string"
             },
-            "flavor_text": {
-                "description": "The flavor text of the card, formatted in Markdown.",
-                "type": "string"
-            },
-            "flavor_text_plain": {
-                "description": "The flavor text of the card, formatted in plain text.",
-                "type": "string"
-            },
             "type_text": {
                 "description": "The full type text box of the card.",
                 "type": "string"
@@ -237,8 +229,8 @@
                             "description": "A UUID representing the printing within this data set.",
                             "type": "string"
                         },
-                        "set_edition_unique_id": {
-                            "description": "A UUID representing the set edition the printing belongs to within this data set.",
+                        "set_printing_unique_id": {
+                            "description": "A UUID representing the set printing the printing belongs to within this data set.",
                             "type": "string"
                         },
                         "id": {
@@ -253,13 +245,9 @@
                             "description": "The edition of the set the card is printed in.",
                             "type": "string"
                         },
-                        "foilings": {
-                            "description": "The foilings the card printing comes in.",
-                            "type": "array",
-                            "items": {
-                                "description": "A shortcode representing an individual foiling.",
-                                "type": "string"
-                            }
+                        "foiling": {
+                            "description": "The foiling the card printing comes in.",
+                            "type": "string"
                         },
                         "rarity": {
                             "description": "A shortcode representing the rarity the card printing was printed at.",
@@ -273,8 +261,24 @@
                             "description": "A shortcode representing the special art treatment or variation the card was printed with, if any.",
                             "type": ["string", "null"]
                         },
+                        "flavor_text": {
+                            "description": "The flavor text of the card, formatted in Markdown.",
+                            "type": "string"
+                        },
+                        "flavor_text_plain": {
+                            "description": "The flavor text of the card, formatted in plain text.",
+                            "type": "string"
+                        },
                         "image_url": {
                             "description": "An official LSS image URL of the card printing, if it exists.",
+                            "type": ["string", "null"]
+                        },
+                        "tcgplayer_product_id": {
+                            "description": "The TCGPlayer product ID of the card printing, if it exists.",
+                            "type": ["string", "null"]
+                        },
+                        "tcgplayer_url": {
+                            "description": "A URL to TCPlayer product listing of the card printing, if it exists.",
                             "type": ["string", "null"]
                         },
                         "double_sided_card_info": {
@@ -306,14 +310,16 @@
                     },
                     "required": [
                         "unique_id",
-                        "set_edition_unique_id",
+                        "set_printing_unique_id",
                         "id",
                         "set_id",
                         "edition",
-                        "foilings",
+                        "foiling",
                         "rarity",
                         "artist",
                         "art_variation",
+                        "flavor_text",
+                        "flavor_text_plain",
                         "image_url"
                     ]
                 }
@@ -337,8 +343,6 @@
             "interacts_with_keywords",
             "functional_text",
             "functional_text_plain",
-            "flavor_text",
-            "flavor_text_plain",
             "type_text",
             "played_horizontally",
             "blitz_legal",
