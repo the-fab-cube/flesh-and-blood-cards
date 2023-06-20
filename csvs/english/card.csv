@@ -462,9 +462,9 @@ If Scour the Battlescape is played from arsenal, it gains **go again**."	Generic
 J9LLjWpb6hwCtGPgdrg9h	Regurgitating Slog	1	2	6	2			Generic, Action, Attack	Dominate						As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.	Generic Action - Attack				
 W7kjMQq9pJGQrBDPhhbgT	Regurgitating Slog	2	2	5	2			Generic, Action, Attack	Dominate						As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.	Generic Action - Attack				
 br9CQqckKLHbJmqnrLnfR	Regurgitating Slog	3	2	4	2			Generic, Action, Attack	Dominate						As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.	Generic Action - Attack				
-cbD6dqdgnLGk8zjjQqHCt	Wounded Bull	1	3	7	2			Generic, Action, Attack							When you play Wounded Bull, if you have less {h} than an opposing hero, it gains +1{p}.	Generic Action - Attack				
-WdmT8cBmQFfGfdR8hknCT	Wounded Bull	2	3	6	2			Generic, Action, Attack							When you play Wounded Bull, if you have less {h} than an opposing hero, it gains +1{p}.	Generic Action - Attack				
-gFQQLWKpNnLW9TPg86kL7	Wounded Bull	3	3	5	2			Generic, Action, Attack							When you play Wounded Bull, if you have less {h} than an opposing hero, it gains +1{p}.	Generic Action - Attack				
+cbD6dqdgnLGk8zjjQqHCt	Wounded Bull	1	3	7	2			Generic, Action, Attack							When you play this, if you have less {h} than an opposing hero, this gains +1{p}.	Generic Action - Attack				
+WdmT8cBmQFfGfdR8hknCT	Wounded Bull	2	3	6	2			Generic, Action, Attack							When you play this, if you have less {h} than an opposing hero, this gains +1{p}.	Generic Action - Attack				
+gFQQLWKpNnLW9TPg86kL7	Wounded Bull	3	3	5	2			Generic, Action, Attack							When you play this, if you have less {h} than an opposing hero, this gains +1{p}.	Generic Action - Attack				
 rLN8wNfkTtF9zBg8zwGzW	Wounding Blow	1	0	4	3			Generic, Action, Attack								Generic Action - Attack				
 Tb79JpdtgFJJwfFCGc9Dc	Wounding Blow	2	0	3	3			Generic, Action, Attack								Generic Action - Attack				
 nGQcDzcjQ8gw8HGzwCGnF	Wounding Blow	3	0	2	3			Generic, Action, Attack								Generic Action - Attack				
@@ -1471,7 +1471,7 @@ If Herald of Erudition hits, put it into your hero's soul and draw 2 cards.
 **Phantasm**"	Light Illusionist Action - Attack				No
 hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	2	6					Light, Illusionist, Instant, Aura	Prism Specialization, Spectra						"**Prism Specialization**
 
-If Arc Light Sentinel is in the arena when an opponent announces an attack, they must choose Arc Light Sentinel as the target of the attack.
+Opponents may only select Arc Light Sentinel as the target of an attack.
 
 **Spectra**"	Light Illusionist Instant - Aura				No
 8TtCrkgJBC6h8TWjMgk8m	Genesis	2	4					Light, Illusionist, Instant, Aura	Spectra						"At the start of your turn, you may put a card from your hand into your hero's soul. If it's an Illusionist card, create a Spectral Shield token. If it's a Light card, draw a card.
