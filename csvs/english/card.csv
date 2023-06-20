@@ -25,6 +25,13 @@ mgrmPqRmdHfMbptFfDcbC	Hummingbird, Adventurer's Call							Bard, Weapon, Lute, 2
 - Each hero gains 1{h}."	Bard Weapon - Lute (2H)		No	No	No
 FtGCjcNCNGg9MkDMwtKCN	Taipanis, Dracai of Judgement							Draconic, Adjudicator, Hero							The first time each turn another hero becomes the target of a source that would deal lethal damage, you may discard a red card. If you do, choose new targets for that source.	Draconic Adjudicator Hero		No	No	No
 nPNcp7BDrghp6dLPfHnNp	Proclamation of Requisition							Adjudicator, Equipment, Off-Hand							**Action** - Discard a red card, destroy Proclamation of Requisition: Each opponent chooses an item or landmark they control. Gain control of the chosen permanents.	Adjudicator Equipment - Off-Hand		No	No	No
+tpgGtDJmWntFC6QcdhhgW	Gavel of Natural Order			2				Adjudicator, Weapon, Hammer, 1H	Pairs	Once per Turn Action	Attack				"**Pairs** with an off-hand
+
+**Once per Turn Action** - {r}{r}: **Attack**
+
+Whenever an opponent plays or activates their first card or ability each turn, if it's not their turn, put a +1{p} counter on this. At the beginning of your end phase, remove all +1{p} counters from this."	Adjudicator Weapon - Hammer (1H)		No	No	No
+DbqmMdc6Mw9jGpPQBcwRd	Theryon, Magister of Justice					20	4	Light, Adjudicator, Hero							The first time each turn another hero destroys a card they don't control, you may pay {r}{r}. If you do, they destroy a non-hero permanent they control.	Light Adjudicator Hero		No	No	No
+wQcpct8M6ddWK6BkKMMgC	Proclamation of Abundance							Adjudicator, Equipment, Off-Hand		Action					**Action** - {r}{r}{r}, destroy this: Each hero draws up to their {i}.	Adjudicator Equipment - Off-Hand		No	No	No
 HL7qqDC6G6pCMKFFRrNLg	Spell Fray Cloak				0			Generic, Equipment, Chest	Spellvoid 1						**Spellvoid 1**	Generic Equipment - Chest				
 ct8dbmGW77wb6TkJwJkFT	Spell Fray Gloves				0			Generic, Equipment, Arms	Spellvoid 1						**Spellvoid 1**	Generic Equipment - Arms				
 8JHRBmh8WLLgMgCrP7Tpk	Spell Fray Leggings				0			Generic, Equipment, Legs	Spellvoid 1						**Spellvoid 1**	Generic Equipment - Legs				

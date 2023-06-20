@@ -144,6 +144,12 @@
         "description_plain": "The defending hero can't defend this with more than one action card."
     },
     {
+        "unique_id": "mFCtFC79DRMhbJf9MTNBL",
+        "name": "Pairs",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "GQfWb9GwKkw9RNrK6L6B9",
         "name": "Phantasm",
         "description": "**Phantasm** is a keyword that exists on Illusionist attacks. Illusionist attacks with **phantasm** are powerful but fragile. When an attack with **phantasm** is defended by a 6{p}+ non-Illusionist attack action card, the attack is destroyed and the combat chain closes.",
