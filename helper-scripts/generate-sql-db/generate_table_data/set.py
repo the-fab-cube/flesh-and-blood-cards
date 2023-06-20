@@ -8,8 +8,6 @@ def create_table(cur):
             unique_id VARCHAR(21) NOT NULL,
             id VARCHAR(255) NOT NULL,
             name VARCHAR(255) NOT NULL,
-            start_card_id VARCHAR(15) NOT NULL,
-            end_card_id VARCHAR(15) NOT NULL,
             PRIMARY KEY (unique_id),
             UNIQUE (unique_id, id)
         )
@@ -38,23 +36,16 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, unique_id, id, name, start_card_id, end_card_id):
+def insert(cur, unique_id, id, name):
     def check_if_set_exists():
-        select_sql = """SELECT unique_id, start_card_id, end_card_id FROM sets WHERE unique_id = %s;"""
+        select_sql = """SELECT unique_id FROM sets WHERE unique_id = %s;"""
         select_data = (unique_id,)
 
         try:
             cur.execute(select_sql, select_data)
             selected_data = cur.fetchone()
 
-            if selected_data is not None:
-                # Verify there weren't data entry issues with the card ids across languages
-                if selected_data[1] != start_card_id or selected_data[2] != end_card_id:
-                    raise Exception(f"There was a mismatch of card id start/end numbers for set with unique_id {unique_id}: {selected_data[1]}/{selected_data[2]} vs {start_card_id}/{end_card_id}")
-
-                return True
-
-            return False
+            return selected_data is not None
         except (Exception, psycopg2.DatabaseError) as error:
             print(error)
             exit()
@@ -63,9 +54,9 @@ def insert(cur, unique_id, id, name, start_card_id, end_card_id):
         print(f"Set {id} with unique_id {unique_id} already exists, skipping")
         return
 
-    sql = """INSERT INTO sets(unique_id, id, name, start_card_id, end_card_id)
-             VALUES(%s, %s, %s, %s, %s);"""
-    data = (unique_id, id, name, start_card_id, end_card_id)
+    sql = """INSERT INTO sets(unique_id, id, name)
+             VALUES(%s, %s, %s);"""
+    data = (unique_id, id, name)
 
     try:
         print("Inserting {} set with unique ID {}...".format(id, unique_id))
@@ -87,9 +78,7 @@ def generate_table_data(cur, language):
             unique_id = set['unique_id']
             id = set['id']
             name = set['name']
-            start_card_id = set['start_card_id']
-            end_card_id = set['end_card_id']
 
-            insert(cur, unique_id, id, name, start_card_id, end_card_id)
+            insert(cur, unique_id, id, name)
 
         print(f"\nSuccessfully filled sets table with {language} data\n")

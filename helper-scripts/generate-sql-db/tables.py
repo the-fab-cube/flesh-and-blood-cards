@@ -13,7 +13,7 @@ import generate_table_data.keyword
 import generate_table_data.keyword_translation
 import generate_table_data.rarity
 import generate_table_data.set
-import generate_table_data.set_edition
+import generate_table_data.set_printing
 import generate_table_data.type
 import generate_table_data.type_translation
 
@@ -25,7 +25,7 @@ def create_tables(conn = None):
     generate_table_data.ability_translations.create_table(cur)
     generate_table_data.artist.create_table(cur)
     generate_table_data.set.create_table(cur)
-    generate_table_data.set_edition.create_table(cur)
+    generate_table_data.set_printing.create_table(cur)
     generate_table_data.card.create_table(cur)
     generate_table_data.card_printing.create_table(cur)
     generate_table_data.card_face_association.create_table(cur)
@@ -61,7 +61,7 @@ def drop_tables(conn = None):
     generate_table_data.keyword_translation.drop_table(cur)
     generate_table_data.keyword.drop_table(cur)
     generate_table_data.rarity.drop_table(cur)
-    generate_table_data.set_edition.drop_table(cur)
+    generate_table_data.set_printing.drop_table(cur)
     generate_table_data.set.drop_table(cur)
     generate_table_data.type_translation.drop_table(cur)
     generate_table_data.type.drop_table(cur)
@@ -74,7 +74,7 @@ def generate_all_table_data(conn = None, url_for_images = None):
         generate_table_data.ability_translations.generate_table_data(cur, language)
         generate_table_data.artist.generate_table_data(cur, language)
         generate_table_data.set.generate_table_data(cur, language)
-        generate_table_data.set_edition.generate_table_data(cur, language)
+        generate_table_data.set_printing.generate_table_data(cur, language)
         generate_table_data.card_translation.generate_table_data(cur, language)
         generate_table_data.keyword_translation.generate_table_data(cur, language)
         generate_table_data.type_translation.generate_table_data(cur, language)
@@ -85,7 +85,7 @@ def generate_all_table_data(conn = None, url_for_images = None):
     generate_table_data.ability.generate_table_data(cur)
     generate_table_data.artist.generate_table_data(cur, "english")
     generate_table_data.set.generate_table_data(cur, "english")
-    generate_table_data.set_edition.generate_table_data(cur, "english")
+    generate_table_data.set_printing.generate_table_data(cur, "english")
     generate_table_data.card.generate_table_data(cur)
     generate_table_data.card_printing.generate_table_data(cur, url_for_images)
     generate_table_data.card_face_association.generate_table_data(cur, "english")

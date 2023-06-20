@@ -438,3 +438,16 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 06-10-23:
 - Updated functional text for Wounded Bull and Arc Light Sentinel
 - Added card data (minus images) for JDG011, JDG013, and JDG014
+
+06-19-23:
+- Updated card.csv to just contain card data, and moved card printing data out to new card-printing.csv files for each language
+- Updated Englis set.csv to just contain set data (for all languages), removed set.csv files from non-English languages, and moved set printing data out to new set-printing.csv files for each language
+- Updated "Variation" field names in the card-face-association.csv to use "Printing" wording
+- Updated validate-references.py script with more reference checks and to handle the new CSVs
+- Updated clean-csvs.py script to clean new CSVs
+- Updated static web site with new HTMLs
+- Updated JSON schemas
+- Added art-variation.csv and art-variation-schema.json
+- Removed all ODS files
+- Fixed double sided "marvel" `Bravo, Star of the Show` having an incorrect represenation
+- Fixed some double sided marvel Hero cards being incorrectly marked as being DFCs

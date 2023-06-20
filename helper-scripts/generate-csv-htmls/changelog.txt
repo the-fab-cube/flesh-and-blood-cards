@@ -3,3 +3,6 @@
 
 02-11-23:
 - Updated README
+
+06-19-23:
+- Updated script to handle new CSVs

@@ -1,125 +1,76 @@
-const fs = require("fs");
-const csv = require('csv');
-const helper = require('../helper-functions')
+import * as fs from 'fs'
+import * as csv from 'csv'
+import * as helper from '../helper-functions.js'
 
 // Set an index to null to omit generation for the associated unique ID
-const generateCardUniqueIds = (language, uniqueIdIndex, cardIdIndex, variationsIndex, variationUniqueIdsIndex) => {
-    const inputCSV = `../../csvs/${language}/card.csv`
-    const outputCSV = `./temp-${language}-card.csv`
+export const generateCardUniqueIds = (language, uniqueIdIndex, nameIdIndex, pitchIdIndex) => {
+    return new Promise((resolve, reject) => {
+        const inputCSV = `../../csvs/${language}/card.csv`
+        const outputCSV = `./temp-${language}-card.csv`
 
-    const readStream = fs.createReadStream(inputCSV)
-    const writeStream = fs.createWriteStream(outputCSV)
-    const csvStream = csv.parse({ delimiter: "\t" })
-    const stringifier = csv.stringify({ delimiter: "\t" });
+        const readStream = fs.createReadStream(inputCSV)
+        const writeStream = fs.createWriteStream(outputCSV)
+        const csvStream = csv.parse({ delimiter: "\t" })
+        const stringifier = csv.stringify({ delimiter: "\t" });
 
-    const capitalizedLanguage = helper.capitalizeFirstLetter(language)
+        const capitalizedLanguage = helper.capitalizeFirstLetter(language)
 
-    const csvStreamFinished = function (cardIdsAdded, variationIdsAdded) {
-        fs.renameSync(outputCSV, inputCSV)
-        console.log(`Unique ID generation completed for ${capitalizedLanguage} cards with ${cardIdsAdded} new card IDs and ${variationIdsAdded} new variation IDs!`)
-    }
-
-    var headerRead = false
-    var cardIdsAdded = 0
-    var variationIdsAdded = 0
-
-    csvStream.on("data", function(data) {
-        // Skip header
-        if (!headerRead) {
-            headerRead = true
-            stringifier.write(data)
-            return
+        const csvStreamFinished = function (cardIdsAdded) {
+            fs.renameSync(outputCSV, inputCSV)
+            console.log(`Unique ID generation completed for ${capitalizedLanguage} cards with ${cardIdsAdded} new card IDs!`)
         }
 
-        // Card Unique ID
-        if (uniqueIdIndex !== null && uniqueIdIndex !== undefined && cardIdIndex !== null && cardIdIndex !== undefined) {
-            // current card unique ID data
-            var uniqueID = data[uniqueIdIndex]
-            var cardID = data[cardIdIndex]
+        var headerRead = false
+        var cardIdsAdded = 0
 
-            var uniqueIdExists = uniqueID.trim() !== ''
-
-            // generate unique ID for card
-            if (!uniqueIdExists) {
-                console.log(`Generating unique ID for ${capitalizedLanguage} card ${cardID}`)
-                cardIdsAdded += 1
-                data[uniqueIdIndex] = helper.customNanoId()
-            } else {
-                // console.log(`No new unique ID needed for ${capitalizedLanguage} card ${cardID}`)
+        csvStream.on("data", function(data) {
+            // Skip header
+            if (!headerRead) {
+                headerRead = true
+                stringifier.write(data)
+                return
             }
-        }
 
-        // Variation Unique ID
-        if (variationsIndex !== null && variationsIndex !== undefined && variationUniqueIdsIndex !== null && variationUniqueIdsIndex !== undefined) {
-            // current variation unique IDs data
-            var variations = data[variationsIndex]
-                .split(",")
-                .filter(x => x.trim() !== '' && x !== undefined)
-                .map(x => {
-                    var splitVariation = x.trim().split(RegExp(" — | – | - "))
-                    var variation = splitVariation[1] + " - " + splitVariation[2]
+            // Card Unique ID
+            if (
+                uniqueIdIndex !== null && uniqueIdIndex !== undefined &&
+                nameIdIndex !== null && nameIdIndex !== undefined &&
+                pitchIdIndex !== null && pitchIdIndex !== undefined
+            ) {
+                // current card unique ID data
+                var uniqueID = data[uniqueIdIndex]
+                var name = data[nameIdIndex]
+                var pitch = data[pitchIdIndex]
 
-                    if (splitVariation.length > 3) {
-                        variation +=  " - " + splitVariation[3]
+                var uniqueIdExists = uniqueID.trim() !== ''
+
+                // generate unique ID for card
+                if (!uniqueIdExists) {
+                    var loggingText = `Generating unique ID for ${capitalizedLanguage} card ${name}`
+
+                    if (pitch.trim() !== '') {
+                        loggingText += ` - ${pitch}`
                     }
 
-                    return variation
-                })
-
-            var existingVariationUniqueIDs = {}
-            data[variationUniqueIdsIndex]
-                .split(",")
-                .filter(x => x.trim() !== '' && x !== undefined)
-                .forEach(x => {
-                    var splitVariation = x.trim().split(RegExp(" — | – | - "))
-
-                    if (splitVariation.length < 3) {
-                        return
-                    }
-
-                    var variationUniqueId = splitVariation[0]
-                    var variation = splitVariation[1] + " - " + splitVariation[2]
-
-                    if (splitVariation.length > 3) {
-                        variation +=  " - " + splitVariation[3]
-                    }
-
-                    existingVariationUniqueIDs[variation] = variationUniqueId
-                })
-
-            // generate unique IDs for variations
-            var variationUniqueIds = variations.map(variation => {
-                var variationUniqueId = existingVariationUniqueIDs[variation]
-                var variationUniqueIdExists = variationUniqueId !== undefined
-
-                if (!variationUniqueIdExists) {
-                    console.log(`Generating unique ID for ${capitalizedLanguage} variation ${variation}`)
-                    variationIdsAdded += 1
-                    variationUniqueId = helper.customNanoId()
-                } else {
-                    // console.log(`No new unique ID needed for ${capitalizedLanguage} variation ${variation}`)
+                    console.log(loggingText)
+                    cardIdsAdded += 1
+                    data[uniqueIdIndex] = helper.customNanoId()
                 }
+            }
 
-                return variationUniqueId + " - " + variation
-            });
+            // save CSV row
+            stringifier.write(data)
+        })
+        .on('end', () => {
+            csvStreamFinished(cardIdsAdded)
+            resolve()
+        })
+        .on("error", function (error) {
+            console.log(error.message)
+            reject()
+        })
 
-            data[variationUniqueIdsIndex] = variationUniqueIds.join(", ")
-        }
-
-        // save CSV row
-        stringifier.write(data)
+        stringifier.pipe(writeStream)
+        readStream.pipe(csvStream)
     })
-    .on('end', () => {
-        csvStreamFinished(cardIdsAdded, variationIdsAdded)
-    })
-    .on("error", function (error) {
-        console.log(error.message)
-    })
-
-    stringifier.pipe(writeStream)
-    readStream.pipe(csvStream)
-}
-
-module.exports = {
-    generateCardUniqueIds
 }
