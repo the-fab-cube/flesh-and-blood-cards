@@ -2156,7 +2156,7 @@ While Ursur is attacking a hero with 1 or more cards in their soul, the attack h
 Kfqdk6PhqBd9tKM8T8hmN	Ravenous Meataxe			3				Brute, Weapon, Axe, 2H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
 Whenever you attack with Ravenous Meataxe, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Ravenous Meataxe gains +2{p} until end of turn."	Brute Weapon - Axe (2H)				
-6FrqKM6Ckpz9NCG8wGcGq	Tear Limb from Limb	3	2					Brute, Action							"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, the next Brute attack action card you play this turn gains +X{p}, where X is its base {p}.
+6FrqKM6Ckpz9NCG8wGcGq	Tear Limb from Limb	3	2					Brute, Action	Go again						"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, the next Brute attack action card you play this turn gains +X{p}, where X is its base {p}.
 
 **Go again**"	Brute Action				No
 Hpdjj6RbkDfKMmNqQmwTR	Pulping	1	2	6				Brute, Action, Attack	Dominate, Go again						"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**.
@@ -3138,13 +3138,13 @@ g7DBTGtKGzCtWWfLKdFcr	Bare Fangs	3	2	4				Brute, Action, Attack							When you a
 TKR9cWhRJgWjgjjL7kWmf	Wild Ride	1	2	6				Brute, Action, Attack							When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack				
 bPtqgMTnhqqJcHF7BJJWw	Wild Ride	2	2	5				Brute, Action, Attack							When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack				
 fwHfwDjtckfDmGQQQrKLw	Wild Ride	3	2	4				Brute, Action, Attack							When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack				
-khm9tznHm9dhKz9kWpCQt	Bad Beats	1	0		3			Brute, Action							"Roll a 6 sided die. If the number rolled is a 4, 5, or 6, the next Brute attack action card you play this turn gains +5{p}.
+khm9tznHm9dhKz9kWpCQt	Bad Beats	1	0		3			Brute, Action	Go again						"Roll a 6 sided die. If the number rolled is a 4, 5, or 6, the next Brute attack action card you play this turn gains +5{p}.
 
 **Go again**"	Brute Action				
-TbhnTBPLncChnLHTcG7jz	Bad Beats	2	0		3			Brute, Action							"Roll a 6 sided die. If the number rolled is a 5 or 6, the next Brute attack action card you play this turn gains +5{p}.
+TbhnTBPLncChnLHTcG7jz	Bad Beats	2	0		3			Brute, Action	Go again						"Roll a 6 sided die. If the number rolled is a 5 or 6, the next Brute attack action card you play this turn gains +5{p}.
 
 **Go again**"	Brute Action				
-B7rWtLgFHDgNJ6LJmCqJc	Bad Beats	3	0		3			Brute, Action							"Roll a 6 sided die. If the number rolled is a 6, the next Brute attack action card you play this turn gains +5{p}.
+B7rWtLgFHDgNJ6LJmCqJc	Bad Beats	3	0		3			Brute, Action	Go again						"Roll a 6 sided die. If the number rolled is a 6, the next Brute attack action card you play this turn gains +5{p}.
 
 **Go again**"	Brute Action				
 PFJnMWQNfr6jMMzJhjB9H	Bravo, Star of the Show					40	4	Elemental, Guardian, Hero	Essence of Earth, Ice, and Lightning			Dominate, Go again			"**Essence of Earth, Ice, and Lightning**
@@ -3248,7 +3248,7 @@ As an additional cost to play Blood on Her Hands, destroy any number of Copper y
 - Target 1H weapon may attack twice this turn.
 
 **Go again**"	Warrior Action				No
-mKPnFPDQQW6DJjfktTKm7	Oath of Steel	1	0		3			Warrior, Action							"Whenever you attack with a weapon this turn, put a +1{p} counter on it.
+mKPnFPDQQW6DJjfktTKm7	Oath of Steel	1	0		3			Warrior, Action	Go again						"Whenever you attack with a weapon this turn, put a +1{p} counter on it.
 
 At the beginning of your end phase, remove all +1{p} counters from weapons you control.
 
@@ -4057,13 +4057,13 @@ At the beginning of your end phase, destroy Hypothermia."	Ice Action - Afflictio
 gfrwTGTGJhqjTPKbcd96P	Insidious Chill	3	3		2			Ice, Action, Aura							"Insidious Chill enters the arena with 3 frost counters on it. When it has no frost counters on it, destroy it.
 
 Whenever you **Ice Fuse**, remove a frost counter from Insidious Chill. If you do, target hero discards a card unless they pay {r}{r}."	Ice Action - Aura				No
-FHLMhFd7rHFC8LqNmLcJR	Isenhowl Weathervane	1	1		2			Ice, Action							"The next time you **Ice fuse** this turn, create 4 Frostbite tokens under target hero's control.
+FHLMhFd7rHFC8LqNmLcJR	Isenhowl Weathervane	1	1		2			Ice, Action	Go again						"The next time you **Ice fuse** this turn, create 4 Frostbite tokens under target hero's control.
 
 **Go again**"	Ice Action				No
-KwLBJgTd78DwgLWdpqRhN	Isenhowl Weathervane	2	1		2			Ice, Action							"The next time you **Ice fuse** this turn, create 3 Frostbite tokens under target hero's control.
+KwLBJgTd78DwgLWdpqRhN	Isenhowl Weathervane	2	1		2			Ice, Action	Go again						"The next time you **Ice fuse** this turn, create 3 Frostbite tokens under target hero's control.
 
 **Go again**"	Ice Action				No
-QcJHqRnCpgHQ7KBMHmbWT	Isenhowl Weathervane	3	1		2			Ice, Action							"The next time you **Ice fuse** this turn, create 2 Frostbite tokens under target hero's control.
+QcJHqRnCpgHQ7KBMHmbWT	Isenhowl Weathervane	3	1		2			Ice, Action	Go again						"The next time you **Ice fuse** this turn, create 2 Frostbite tokens under target hero's control.
 
 **Go again**"	Ice Action				No
 rWtcmPrWgJwnmKNhj8nMk	Arctic Incarceration	1	0		2			Ice, Action							Create 3 Frostbite tokens under target hero's control.	Ice Action				
