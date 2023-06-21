@@ -54,7 +54,7 @@ This data set currently supports the following languages:
 - Italian
 - Spanish
 
-In this data set, English is considered the "default" language. All cards, keywords, types, etc. should be added in English first, with the exception of sets. These are all contained within the `english/` subfolders of the `json/` and `csvs/`.
+In this data set, English is considered the "default" language. All cards, keywords, types, etc. should be added in English first (for sets, this is even if the set has never been printed in English). These are all contained within the `english/` subfolders of the `json/` and `csvs/`.
 
 All other languages have their own subfolders with translated data, with unique_ids corresponding to the English data. These include:
 - Abilities
@@ -64,11 +64,11 @@ All other languages have their own subfolders with translated data, with unique_
 
 There are three types of data that are handled somewhat differently in other languages.
 
-Sets do not have to have a corresponding unique_id in the English data, because some sets have only been published in non-English languages (ex: History Pack - Black Label).
+Each language folder has its own artist data to account for the possibility that a card variation in one language has an artist that another language does not.
 
-Similarly, each language folder has its own artist data to account for the possibility that a card variation in one language has an artist that another language does not.
+While the card data should be consistent across all languages with just the text being translated, the card printings are not. Each languages' card printing data only has data on the printings that card has had in that language.
 
-Finally, while the card data should be consistent across all languages with just the text being translated, the card printings are not. Each languages card data only has data on the printings that card has had in that language.
+Similarly, each languages' set printings only contain the printings of the set for that language.
 
 
 ## Changelogs and Contribution Credit
