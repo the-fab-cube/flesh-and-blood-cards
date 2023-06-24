@@ -1,10 +1,10 @@
 import psycopg2
 
-def upsert_array(cur, arg_array, num_of_args, column_string, conflict_string, update_set_string):
+def upsert_array(cur, table_name, arg_array, num_of_args, column_string, conflict_string, update_set_string):
     arg_interpolated_string = "(" + ",".join("%s" for _ in range(num_of_args)) + ")"
-    insert = "INSERT INTO abilities{} VALUES".format(column_string)
+    insert = "INSERT INTO {}{} VALUES".format(table_name, column_string)
     args_str = ",".join(cur.mogrify(arg_interpolated_string, x).decode('utf-8') for x in arg_array)
-    upsert = "ON CONFLICT {} DO UPDATE SET {};".format(conflict_string, update_set_string)
+    upsert = "ON CONFLICT {} DO {};".format(conflict_string, update_set_string)
 
     sql_command = " ".join([insert, args_str, upsert])
 
@@ -16,11 +16,11 @@ def upsert_array(cur, arg_array, num_of_args, column_string, conflict_string, up
         print(error)
         exit()
 
-def prep_and_upsert_all(cur, data_array, prep_function, upsert_function):
+def prep_and_upsert_all(cur, data_array, prep_function, upsert_function, language="english"):
     prepped_data = []
 
     for data in data_array:
-        prepped_data.append(prep_function(data))
+        prepped_data.append(prep_function(data, language))
 
         if len(prepped_data) == 999:
             upsert_function(cur, prepped_data)

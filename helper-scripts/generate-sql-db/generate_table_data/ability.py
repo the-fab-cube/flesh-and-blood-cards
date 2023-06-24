@@ -36,7 +36,7 @@ def drop_table(cur):
         print(error)
         exit()
 
-def prep_function(ability):
+def prep_function(ability, language):
         unique_id = ability['unique_id']
         name = ability['name']
 
@@ -49,10 +49,12 @@ def upsert_function(cur, abilities):
 
         upsert_array(
             cur,
+            "abilities",
             abilities,
             2,
             "(unique_id, name)",
-            "(unique_id)", "name = EXCLUDED.name"
+            "(unique_id)",
+            "UPDATE SET name = EXCLUDED.name"
         )
 
 def generate_table_data(cur):
