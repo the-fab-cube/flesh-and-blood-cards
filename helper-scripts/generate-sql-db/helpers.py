@@ -8,7 +8,7 @@ def upsert_array(cur, table_name, arg_array, num_of_args, column_string, conflic
 
     sql_command = " ".join([insert, args_str, upsert])
 
-    print(sql_command)
+    # print(sql_command)
 
     try:
         cur.execute(sql_command)

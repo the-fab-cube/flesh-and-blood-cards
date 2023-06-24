@@ -2,6 +2,8 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE cards (
@@ -76,43 +78,92 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords,
-           abilities_and_effects, ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords,
-           functional_text, functional_text_plain, type_text, played_horizontally,
-           blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend,
-           cc_living_legend_start, blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned,
-           commoner_banned_start, upf_banned, upf_banned_start, blitz_suspended, blitz_suspended_start, blitz_suspended_end,
-           cc_suspended, cc_suspended_start, cc_suspended_end, commoner_suspended, commoner_suspended_start,
-           commoner_suspended_end):
-    sql = """INSERT INTO cards(unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
+def prep_function(card, language):
+        unique_id = card['unique_id']
+        name = card['name']
+        pitch = card['pitch']
+        cost = card['cost']
+        power = card['power']
+        defense = card['defense']
+        health = card['health']
+        intelligence = card['intelligence']
+        types = card['types']
+        card_keywords = card['card_keywords']
+        abilities_and_effects = card['abilities_and_effects']
+        ability_and_effect_keywords = card['ability_and_effect_keywords']
+        granted_keywords = card['granted_keywords']
+        removed_keywords = card['removed_keywords']
+        interacts_with_keywords = card['interacts_with_keywords']
+        functional_text = card['functional_text']
+        functional_text_plain = card['functional_text_plain']
+        type_text = card['type_text']
+        played_horizontally = card['played_horizontally']
+        blitz_legal = card['blitz_legal']
+        cc_legal = card['cc_legal']
+        commoner_legal = card['commoner_legal']
+        blitz_living_legend = card['blitz_living_legend']
+        blitz_living_legend_start = card.get('blitz_living_legend_start')
+        cc_living_legend = card['cc_living_legend']
+        cc_living_legend_start = card.get('cc_living_legend_start')
+        blitz_banned = card['blitz_banned']
+        blitz_banned_start = card.get('blitz_banned_start')
+        cc_banned = card['cc_banned']
+        cc_banned_start = card.get('cc_banned_start')
+        commoner_banned = card['commoner_banned']
+        commoner_banned_start = card.get('commoner_banned_start')
+        upf_banned = card['upf_banned']
+        upf_banned_start = card.get('upf_banned_start')
+        blitz_suspended = card['blitz_suspended']
+        blitz_suspended_start = card.get('blitz_suspended_start')
+        blitz_suspended_end = card.get('blitz_suspended_end')
+        cc_suspended = card['cc_suspended']
+        cc_suspended_start = card.get('cc_suspended_start')
+        cc_suspended_end = card.get('cc_suspended_end')
+        commoner_suspended = card['commoner_suspended']
+        commoner_suspended_start = card.get('commoner_suspended_start')
+        commoner_suspended_end = card.get('commoner_suspended_end')
+
+        print("Prepping {0} - {1} card with unique id {2}...".format(name, pitch, unique_id))
+
+        return (unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords,
+                   abilities_and_effects, ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords,
+                   functional_text, functional_text_plain, type_text, played_horizontally,
+                   blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend,
+                   cc_living_legend_start, blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned,
+                   commoner_banned_start, upf_banned, upf_banned_start, blitz_suspended, blitz_suspended_start, blitz_suspended_end,
+                   cc_suspended, cc_suspended_start, cc_suspended_end, commoner_suspended, commoner_suspended_start,
+                   commoner_suspended_end)
+
+def upsert_function(cur, cards):
+        print("Upserting {} cards".format(len(cards)))
+
+        upsert_array(
+            cur,
+            "cards",
+            cards,
+            43,
+            """(unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text,
             played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
             blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
             blitz_suspended, blitz_suspended_start, blitz_suspended_end, cc_suspended, cc_suspended_start, cc_suspended_end,
-            commoner_suspended, commoner_suspended_start, commoner_suspended_end)
-            VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s,
-            %s, %s, %s, %s, %s, %s, %s,
-            %s, %s, %s, %s, %s, %s, %s, %s,
-            %s, %s, %s, %s, %s, %s, %s, %s,
-            %s, %s, %s, %s, %s, %s,
-            %s, %s, %s);"""
-    data = (unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords,
-            abilities_and_effects, ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords,
-            functional_text, functional_text_plain, type_text, played_horizontally,
-            blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend,
-            cc_living_legend_start, blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned,
-            commoner_banned_start, upf_banned, upf_banned_start, blitz_suspended, blitz_suspended_start, blitz_suspended_end,
-            cc_suspended, cc_suspended_start, cc_suspended_end, commoner_suspended, commoner_suspended_start,
-            commoner_suspended_end)
-    try:
-        print("Inserting {0} - {1} card with unique id {2}...".format(name, pitch, unique_id))
-
-        # execute the INSERT statement
-        cur.execute(sql, data)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        exit()
-        raise error
+            commoner_suspended, commoner_suspended_start, commoner_suspended_end)""",
+            "(unique_id)",
+            """UPDATE SET
+                (name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
+                ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text,
+                played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
+                blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
+                blitz_suspended, blitz_suspended_start, blitz_suspended_end, cc_suspended, cc_suspended_start, cc_suspended_end,
+                commoner_suspended, commoner_suspended_start, commoner_suspended_end) =
+                (EXCLUDED.name, EXCLUDED.pitch, EXCLUDED.cost, EXCLUDED.power, EXCLUDED.defense, EXCLUDED.health, EXCLUDED.intelligence, EXCLUDED.types, EXCLUDED.card_keywords, EXCLUDED.abilities_and_effects,
+                EXCLUDED.ability_and_effect_keywords, EXCLUDED.granted_keywords, EXCLUDED.removed_keywords, EXCLUDED.interacts_with_keywords, EXCLUDED.functional_text, EXCLUDED.functional_text_plain, EXCLUDED.type_text,
+                EXCLUDED.played_horizontally, EXCLUDED.blitz_legal, EXCLUDED.cc_legal, EXCLUDED.commoner_legal, EXCLUDED.blitz_living_legend, EXCLUDED.blitz_living_legend_start, EXCLUDED.cc_living_legend, EXCLUDED.cc_living_legend_start,
+                EXCLUDED.blitz_banned, EXCLUDED.blitz_banned_start, EXCLUDED.cc_banned, EXCLUDED.cc_banned_start, EXCLUDED.commoner_banned, EXCLUDED.commoner_banned_start, EXCLUDED.upf_banned, EXCLUDED.upf_banned_start,
+                EXCLUDED.blitz_suspended, EXCLUDED.blitz_suspended_start, EXCLUDED.blitz_suspended_end, EXCLUDED.cc_suspended, EXCLUDED.cc_suspended_start, EXCLUDED.cc_suspended_end,
+                EXCLUDED.commoner_suspended, EXCLUDED.commoner_suspended_start, EXCLUDED.commoner_suspended_end)
+            """
+        )
 
 def generate_table_data(cur):
     print("Filling out cards table from card.json...\n")
@@ -121,58 +172,6 @@ def generate_table_data(cur):
     with path.open(newline='') as jsonfile:
         card_array = json.load(jsonfile)
 
-        for card in card_array:
-            unique_id = card['unique_id']
-            name = card['name']
-            pitch = card['pitch']
-            cost = card['cost']
-            power = card['power']
-            defense = card['defense']
-            health = card['health']
-            intelligence = card['intelligence']
-            types = card['types']
-            card_keywords = card['card_keywords']
-            abilities_and_effects = card['abilities_and_effects']
-            ability_and_effect_keywords = card['ability_and_effect_keywords']
-            granted_keywords = card['granted_keywords']
-            removed_keywords = card['removed_keywords']
-            interacts_with_keywords = card['interacts_with_keywords']
-            functional_text = card['functional_text']
-            functional_text_plain = card['functional_text_plain']
-            type_text = card['type_text']
-            played_horizontally = card['played_horizontally']
-            blitz_legal = card['blitz_legal']
-            cc_legal = card['cc_legal']
-            commoner_legal = card['commoner_legal']
-            blitz_living_legend = card['blitz_living_legend']
-            blitz_living_legend_start = card.get('blitz_living_legend_start')
-            cc_living_legend = card['cc_living_legend']
-            cc_living_legend_start = card.get('cc_living_legend_start')
-            blitz_banned = card['blitz_banned']
-            blitz_banned_start = card.get('blitz_banned_start')
-            cc_banned = card['cc_banned']
-            cc_banned_start = card.get('cc_banned_start')
-            commoner_banned = card['commoner_banned']
-            commoner_banned_start = card.get('commoner_banned_start')
-            upf_banned = card['upf_banned']
-            upf_banned_start = card.get('upf_banned_start')
-            blitz_suspended = card['blitz_suspended']
-            blitz_suspended_start = card.get('blitz_suspended_start')
-            blitz_suspended_end = card.get('blitz_suspended_end')
-            cc_suspended = card['cc_suspended']
-            cc_suspended_start = card.get('cc_suspended_start')
-            cc_suspended_end = card.get('cc_suspended_end')
-            commoner_suspended = card['commoner_suspended']
-            commoner_suspended_start = card.get('commoner_suspended_start')
-            commoner_suspended_end = card.get('commoner_suspended_end')
-
-            insert(cur, unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords,
-                   abilities_and_effects, ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords,
-                   functional_text, functional_text_plain, type_text, played_horizontally,
-                   blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend,
-                   cc_living_legend_start, blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned,
-                   commoner_banned_start, upf_banned, upf_banned_start, blitz_suspended, blitz_suspended_start, blitz_suspended_end,
-                   cc_suspended, cc_suspended_start, cc_suspended_end, commoner_suspended, commoner_suspended_start,
-                   commoner_suspended_end)
+        prep_and_upsert_all(cur, card_array, prep_function, upsert_function)
 
         print("\nSuccessfully filled cards table\n")
