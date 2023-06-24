@@ -87,7 +87,7 @@ def generate_all_table_data(conn = None, url_for_images = None):
     generate_table_data.set.generate_table_data(cur, "english")
     generate_table_data.set_printing.generate_table_data(cur, "english")
     generate_table_data.card.generate_table_data(cur)
-    # generate_table_data.card_printing.generate_table_data(cur, url_for_images)
+    generate_table_data.card_printing.generate_table_data(cur, url_for_images)
     # generate_table_data.card_face_association.generate_table_data(cur, "english")
     # generate_table_data.card_reference.generate_table_data(cur)
     # generate_table_data.edition.generate_table_data(cur)

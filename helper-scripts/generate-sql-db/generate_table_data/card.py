@@ -151,17 +151,17 @@ def upsert_function(cur, cards):
             "(unique_id)",
             """UPDATE SET
                 (name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
-                ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text,
-                played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
-                blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
-                blitz_suspended, blitz_suspended_start, blitz_suspended_end, cc_suspended, cc_suspended_start, cc_suspended_end,
-                commoner_suspended, commoner_suspended_start, commoner_suspended_end) =
+                    ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text,
+                    played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
+                    blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
+                    blitz_suspended, blitz_suspended_start, blitz_suspended_end, cc_suspended, cc_suspended_start, cc_suspended_end,
+                    commoner_suspended, commoner_suspended_start, commoner_suspended_end) =
                 (EXCLUDED.name, EXCLUDED.pitch, EXCLUDED.cost, EXCLUDED.power, EXCLUDED.defense, EXCLUDED.health, EXCLUDED.intelligence, EXCLUDED.types, EXCLUDED.card_keywords, EXCLUDED.abilities_and_effects,
-                EXCLUDED.ability_and_effect_keywords, EXCLUDED.granted_keywords, EXCLUDED.removed_keywords, EXCLUDED.interacts_with_keywords, EXCLUDED.functional_text, EXCLUDED.functional_text_plain, EXCLUDED.type_text,
-                EXCLUDED.played_horizontally, EXCLUDED.blitz_legal, EXCLUDED.cc_legal, EXCLUDED.commoner_legal, EXCLUDED.blitz_living_legend, EXCLUDED.blitz_living_legend_start, EXCLUDED.cc_living_legend, EXCLUDED.cc_living_legend_start,
-                EXCLUDED.blitz_banned, EXCLUDED.blitz_banned_start, EXCLUDED.cc_banned, EXCLUDED.cc_banned_start, EXCLUDED.commoner_banned, EXCLUDED.commoner_banned_start, EXCLUDED.upf_banned, EXCLUDED.upf_banned_start,
-                EXCLUDED.blitz_suspended, EXCLUDED.blitz_suspended_start, EXCLUDED.blitz_suspended_end, EXCLUDED.cc_suspended, EXCLUDED.cc_suspended_start, EXCLUDED.cc_suspended_end,
-                EXCLUDED.commoner_suspended, EXCLUDED.commoner_suspended_start, EXCLUDED.commoner_suspended_end)
+                    EXCLUDED.ability_and_effect_keywords, EXCLUDED.granted_keywords, EXCLUDED.removed_keywords, EXCLUDED.interacts_with_keywords, EXCLUDED.functional_text, EXCLUDED.functional_text_plain, EXCLUDED.type_text,
+                    EXCLUDED.played_horizontally, EXCLUDED.blitz_legal, EXCLUDED.cc_legal, EXCLUDED.commoner_legal, EXCLUDED.blitz_living_legend, EXCLUDED.blitz_living_legend_start, EXCLUDED.cc_living_legend, EXCLUDED.cc_living_legend_start,
+                    EXCLUDED.blitz_banned, EXCLUDED.blitz_banned_start, EXCLUDED.cc_banned, EXCLUDED.cc_banned_start, EXCLUDED.commoner_banned, EXCLUDED.commoner_banned_start, EXCLUDED.upf_banned, EXCLUDED.upf_banned_start,
+                    EXCLUDED.blitz_suspended, EXCLUDED.blitz_suspended_start, EXCLUDED.blitz_suspended_end, EXCLUDED.cc_suspended, EXCLUDED.cc_suspended_start, EXCLUDED.cc_suspended_end,
+                    EXCLUDED.commoner_suspended, EXCLUDED.commoner_suspended_start, EXCLUDED.commoner_suspended_end)
             """
         )
 
