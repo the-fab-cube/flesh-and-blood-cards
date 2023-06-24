@@ -2,6 +2,8 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE keyword_translations (
@@ -37,24 +39,34 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, keyword_unique_id, language, name, description):
-    sql = """INSERT INTO keyword_translations(keyword_unique_id, language, name, description)
-            VALUES(%s, %s, %s, %s);"""
-    data = (keyword_unique_id, language, name, description)
+def prep_function(keyword, language):
+    keyword_unique_id = keyword['unique_id']
+    name = keyword['name']
+    description = keyword['description']
 
-    try:
-        print("Inserting {0} translation for keyword {1} ({2})...".format(
-            language,
-            keyword_unique_id,
-            name
-        ))
+    print("Prepping {0} translation for keyword {1} ({2})...".format(
+        language,
+        keyword_unique_id,
+        name
+    ))
 
-        # execute the INSERT statement
-        cur.execute(sql, data)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        exit()
-        raise error
+    return (keyword_unique_id, language, name, description)
+
+def upsert_function(cur, keyword_translations):
+    print("Upserting {} keyword_translations".format(len(keyword_translations)))
+
+    upsert_array(
+        cur,
+        "keyword_translations",
+        keyword_translations,
+        4,
+        """(keyword_unique_id, language, name, description)""",
+        "(keyword_unique_id, language)",
+        """UPDATE SET
+        (name, description) =
+        (EXCLUDED.name, EXCLUDED.description)
+        """
+    )
 
 def generate_table_data(cur, language):
     print(f"Filling out keywords table from {language} card.json...\n")
@@ -63,11 +75,6 @@ def generate_table_data(cur, language):
     with path.open(newline='') as jsonfile:
         keyword_array = json.load(jsonfile)
 
-        for keyword in keyword_array:
-            keyword_unique_id = keyword['unique_id']
-            name = keyword['name']
-            description = keyword['description']
-
-            insert(cur, keyword_unique_id, language, name, description)
+        prep_and_upsert_all(cur, keyword_array, prep_function, upsert_function, language)
 
         print(f"\nSuccessfully filled keywords table with {language} data\n")

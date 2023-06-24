@@ -2,6 +2,8 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE type_translations (
@@ -54,6 +56,31 @@ def insert(cur, type_unique_id, language, name):
         print(error)
         exit()
 
+def prep_function(type_entry, language):
+    type_unique_id = type_entry['unique_id']
+    name = type_entry['name']
+
+    print("Prepping {0} translation for type {1} ({2})...".format(
+        language,
+        type_unique_id,
+        name
+    ))
+
+    return (type_unique_id, language, name)
+
+def upsert_function(cur, type_translations):
+    print("Upserting {} type_translations".format(len(type_translations)))
+
+    upsert_array(
+        cur,
+        "type_translations",
+        type_translations,
+        3,
+        "(type_unique_id, language, name)",
+        "(type_unique_id, language)",
+        "UPDATE SET name = EXCLUDED.name "
+    )
+
 def generate_table_data(cur, language):
     print(f"Filling out type_translations table from {language} type.json...\n")
 
@@ -61,10 +88,6 @@ def generate_table_data(cur, language):
     with path.open(newline='') as jsonfile:
         type_array = json.load(jsonfile)
 
-        for type_entry in type_array:
-            unique_id = type_entry['unique_id']
-            name = type_entry['name']
-
-            insert(cur, unique_id, language, name)
+        prep_and_upsert_all(cur, type_array, prep_function, upsert_function, language)
 
         print(f"\nSuccessfully filled type_translations table with {language} data\n")

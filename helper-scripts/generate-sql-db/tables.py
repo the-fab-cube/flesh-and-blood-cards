@@ -75,9 +75,9 @@ def generate_all_table_data(conn = None, url_for_images = None):
         generate_table_data.artist.generate_table_data(cur, language)
         generate_table_data.set.generate_table_data(cur, language)
         generate_table_data.set_printing.generate_table_data(cur, language)
-        # generate_table_data.card_translation.generate_table_data(cur, language)
-        # generate_table_data.keyword_translation.generate_table_data(cur, language)
-        # generate_table_data.type_translation.generate_table_data(cur, language)
+        generate_table_data.card_translation.generate_table_data(cur, language)
+        generate_table_data.keyword_translation.generate_table_data(cur, language)
+        generate_table_data.type_translation.generate_table_data(cur, language)
 
     print("Generating table data...")
     cur = conn.cursor()
