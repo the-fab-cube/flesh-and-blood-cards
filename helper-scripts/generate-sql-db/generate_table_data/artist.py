@@ -4,7 +4,6 @@ from pathlib import Path
 
 from helpers import upsert_array, prep_and_upsert_all
 
-
 def create_table(cur):
     command = """
         CREATE TABLE artists (

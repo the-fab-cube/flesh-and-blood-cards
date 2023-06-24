@@ -72,8 +72,8 @@ def drop_tables(conn = None):
 def generate_all_table_data(conn = None, url_for_images = None):
     def generate_non_english_table_data(cur, language):
         generate_table_data.ability_translations.generate_table_data(cur, language)
-        # generate_table_data.artist.generate_table_data(cur, language)
-        # generate_table_data.set.generate_table_data(cur, language)
+        generate_table_data.artist.generate_table_data(cur, language)
+        generate_table_data.set.generate_table_data(cur, language)
         # generate_table_data.set_printing.generate_table_data(cur, language)
         # generate_table_data.card_translation.generate_table_data(cur, language)
         # generate_table_data.keyword_translation.generate_table_data(cur, language)
@@ -84,7 +84,7 @@ def generate_all_table_data(conn = None, url_for_images = None):
 
     generate_table_data.ability.generate_table_data(cur)
     generate_table_data.artist.generate_table_data(cur, "english")
-    # generate_table_data.set.generate_table_data(cur, "english")
+    generate_table_data.set.generate_table_data(cur, "english")
     # generate_table_data.set_printing.generate_table_data(cur, "english")
     # generate_table_data.card.generate_table_data(cur)
     # generate_table_data.card_printing.generate_table_data(cur, url_for_images)

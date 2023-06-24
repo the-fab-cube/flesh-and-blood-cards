@@ -2,6 +2,8 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE sets (
@@ -36,36 +38,27 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, unique_id, id, name):
-    def check_if_set_exists():
-        select_sql = """SELECT unique_id FROM sets WHERE unique_id = %s;"""
-        select_data = (unique_id,)
+def prep_function(set, language):
+        unique_id = set['unique_id']
+        id = set['id']
+        name = set['name']
 
-        try:
-            cur.execute(select_sql, select_data)
-            selected_data = cur.fetchone()
+        print("Prepping {} set with unique ID {}...".format(id, unique_id))
 
-            return selected_data is not None
-        except (Exception, psycopg2.DatabaseError) as error:
-            print(error)
-            exit()
+        return (unique_id, id, name)
 
-    if check_if_set_exists():
-        print(f"Set {id} with unique_id {unique_id} already exists, skipping")
-        return
+def upsert_function(cur, sets):
+        print("Upserting {} sets".format(len(sets)))
 
-    sql = """INSERT INTO sets(unique_id, id, name)
-             VALUES(%s, %s, %s);"""
-    data = (unique_id, id, name)
-
-    try:
-        print("Inserting {} set with unique ID {}...".format(id, unique_id))
-
-        # execute the INSERT statement
-        cur.execute(sql, data)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        exit()
+        upsert_array(
+            cur,
+            "sets",
+            sets,
+            3,
+            "(unique_id, id, name)",
+            "(unique_id)",
+            "UPDATE SET (id, name) = (EXCLUDED.id, EXCLUDED.name)"
+        )
 
 def generate_table_data(cur, language):
     print(f"Filling out sets table from {language} set.json...\n")
@@ -74,11 +67,6 @@ def generate_table_data(cur, language):
     with path.open(newline='') as jsonfile:
         set_array = json.load(jsonfile)
 
-        for set in set_array:
-            unique_id = set['unique_id']
-            id = set['id']
-            name = set['name']
-
-            insert(cur, unique_id, id, name)
+        prep_and_upsert_all(cur, set_array, prep_function, upsert_function, language)
 
         print(f"\nSuccessfully filled sets table with {language} data\n")
