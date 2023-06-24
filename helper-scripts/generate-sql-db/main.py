@@ -9,9 +9,10 @@ user = None
 password = None
 host = None
 port = None
+regenerate_database_tables = False
 
 try:
-    opts, args = getopt.getopt(sys.argv[1:], "hi:d:u:p:H:P:")
+    opts, args = getopt.getopt(sys.argv[1:], "hi:d:u:p:H:P:r")
 except getopt.GetoptError:
     print('main.py -d <database-name> -u <user> -p <password> -H <host> -P <port> -i <images-base-url>')
     sys.exit(2)
@@ -32,6 +33,8 @@ for opt, arg in opts:
         host = arg
     elif opt in ("-P", "--port"):
         port = arg
+    elif opt in ("-r", "--regenerate-tables"):
+        regenerate_database_tables = True
 
 if database_name is None:
     print("ERROR: Please provide a database name (-d, --database-name)")
@@ -77,9 +80,10 @@ try:
     cursor.execute("CREATE COLLATION IF NOT EXISTS numeric (provider = icu, locale = 'en@colNumeric=yes');")
 
     ## Drop existing tables, recreate them, and then fill them with data
-    drop_tables(conn)
-    print()
-    create_tables(conn)
+    if regenerate_database_tables:
+        drop_tables(conn)
+        print()
+        create_tables(conn)
     print()
     generate_all_table_data(conn, url_for_images)
 
