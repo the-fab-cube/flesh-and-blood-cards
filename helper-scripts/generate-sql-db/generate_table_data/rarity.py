@@ -2,6 +2,8 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE rarities (
@@ -33,19 +35,26 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, id, description):
-    sql = """INSERT INTO rarities(id, description)
-             VALUES(%s, %s) RETURNING id;"""
-    data = (id, description)
+def prep_function(rarity, language):
+    id = rarity['id']
+    description = rarity['description']
 
-    try:
-        print("Inserting {} rarity...".format(id))
+    print("Prepping {} rarity...".format(id))
 
-        # execute the INSERT statement
-        cur.execute(sql, data)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        exit()
+    return (id, description)
+
+def upsert_function(cur, rarities):
+    print("Upserting {} rarities".format(len(rarities)))
+
+    upsert_array(
+        cur,
+        "rarities",
+        rarities,
+        2,
+        "(id, description)",
+        "(id)",
+        "UPDATE SET description = EXCLUDED.description"
+    )
 
 def generate_table_data(cur):
     print("Filling out rarities table from rarity.json...\n")
@@ -54,10 +63,6 @@ def generate_table_data(cur):
     with path.open(newline='') as jsonfile:
         rarity_array = json.load(jsonfile)
 
-        for rarity in rarity_array:
-            id = rarity['id']
-            description = rarity['description']
-
-            insert(cur, id, description)
+        prep_and_upsert_all(cur, rarity_array, prep_function, upsert_function)
 
         print("\nSuccessfully filled rarities table\n")

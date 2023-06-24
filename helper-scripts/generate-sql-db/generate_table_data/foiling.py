@@ -2,6 +2,8 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE foilings (
@@ -47,6 +49,27 @@ def insert(cur, id, name):
         print(error)
         exit()
 
+def prep_function(edition, language):
+    id = edition['id']
+    name = edition['name']
+
+    print("Prepping {} foiling...".format(id))
+
+    return (id, name)
+
+def upsert_function(cur, foilings):
+    print("Upserting {} foilings".format(len(foilings)))
+
+    upsert_array(
+        cur,
+        "foilings",
+        foilings,
+        2,
+        "(id, name)",
+        "(id)",
+        "UPDATE SET name = EXCLUDED.name"
+    )
+
 def generate_table_data(cur):
     print("Filling out foilings table from foiling.json...\n")
 
@@ -54,10 +77,6 @@ def generate_table_data(cur):
     with path.open(newline='') as jsonfile:
         foiling_array = json.load(jsonfile)
 
-        for foiling in foiling_array:
-            id = foiling['id']
-            name = foiling['name']
-
-            insert(cur, id, name)
+        prep_and_upsert_all(cur, foiling_array, prep_function, upsert_function)
 
         print("\nSuccessfully filled foilings table\n")

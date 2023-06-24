@@ -2,6 +2,8 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE icons (
@@ -33,19 +35,26 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, icon, description):
-    sql = """INSERT INTO icons(icon, description)
-             VALUES(%s, %s) RETURNING icon;"""
-    data = (icon, description)
+def prep_function(icon_entry, language):
+    icon = icon_entry['icon']
+    description = icon_entry['description']
 
-    try:
-        print("Inserting {} icon...".format(icon))
+    print("Prepping {} icon...".format(id))
 
-        # execute the INSERT statement
-        cur.execute(sql, data)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        exit()
+    return (icon, description)
+
+def upsert_function(cur, icons):
+    print("Upserting {} icons".format(len(icons)))
+
+    upsert_array(
+        cur,
+        "icons",
+        icons,
+        2,
+        "(icon, description)",
+        "(icon)",
+        "UPDATE SET description = EXCLUDED.description"
+    )
 
 def generate_table_data(cur):
     print("Filling out icons table from icon.json...\n")
@@ -54,10 +63,6 @@ def generate_table_data(cur):
     with path.open(newline='') as jsonfile:
         icon_array = json.load(jsonfile)
 
-        for icon_entry in icon_array:
-            icon = icon_entry['icon']
-            description = icon_entry['description']
-
-            insert(cur, icon, description)
+        prep_and_upsert_all(cur, icon_array, prep_function, upsert_function)
 
         print("\nSuccessfully filled icons table\n")
