@@ -39,30 +39,12 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, front_unique_id, back_unique_id, is_DFC):
-    sql = """INSERT INTO card_face_associations(front_unique_id, back_unique_id, is_DFC)
-            VALUES(%s, %s, %s);"""
-    data = (front_unique_id, back_unique_id, is_DFC)
-
-    try:
-        print("Inserting {0} - {1} double-sided card association...".format(
-            front_unique_id,
-            back_unique_id
-        ))
-
-        # execute the INSERT statement
-        cur.execute(sql, data)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        exit()
-        raise error
-
 def prep_function(association, language):
     front_unique_id = association['front_unique_id']
     back_unique_id = association['back_unique_id']
     is_DFC = association['is_DFC']
 
-    print("Inserting {0} - {1} double-sided card association...".format(
+    print("Prepping {0} - {1} double-sided card association...".format(
             front_unique_id,
             back_unique_id
         ))
