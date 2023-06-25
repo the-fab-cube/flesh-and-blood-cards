@@ -453,6 +453,11 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed some double sided marvel Hero cards being incorrectly marked as being DFCs
 - Added a release-template.md for an easier time prepping future release notes
 - Updated CSV documentation
+- Added TCGPlayer Product ID field to the new card-printing.csv
+- Renamed set_edition_unique_id field to set_printing_unique_id in card.json and card-flattened.json
+- Renamed variation_unique_id field to printing_unique_id in card-flattened.json
+- Renamed foilings field to foiling and changed it from an array of strings to a string in card.json and card-flattened.json
+- Added tcgplayer_product_id and tcgplayer_url to card.json and card-flattened.json
 
 06-20-23:
 - Fixed an issue with Withstand incorrectly having defense values listed
