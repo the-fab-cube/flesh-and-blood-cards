@@ -1,8 +1,13 @@
 Card Unique ID	Card Name	Card Pitch	Referenced Card Unique ID	Referenced Card Name	Referenced Card Pitch
-cWRWbKczR8N8F6nGBMNG7	Figment of Erudition	2	HpWqFJW8ftTDdzCLK9RkD	Ponder	
-FhzPFCDrDhK8QbjFRfHLk	Figment of Protection	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
-qrhLKPQDzcR99cHLz7jgq	Figment of War	2	fQTg89mpRjTDTRmPGkQb6	Courage	
+nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement	2	n9r77QwMzdWJmnfhPLN9J	Shiyana, Diamond Gemini	
+nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement		jKhMgndCGwjzKLHQMM7Cj	Eloquence	
+GgDFFHhLh8Kc7tJK8nBLj	Alpha Rampage	1	wr9wBtTWwRrPrdhCRHCdN	Rhinar, Reckless Rampage	
+GgDFFHhLh8Kc7tJK8nBLj	Alpha Rampage	1	wNRqrHCn6rrKLhrDkqPwp	Rhinar	
+tqL9KdjgkjfnQ98H97dJw	Amethyst Tiara		zfrHQjbPkpBmdQGrWcTMB	Runechant	
+GFRQBDGRhL9DMtwzKq7CL	Amplify the Arknight	1	zfrHQjbPkpBmdQGrWcTMB	Runechant	
+zdgkJ9mtbmkbQfpzm9Thc	Amplify the Arknight	2	zfrHQjbPkpBmdQGrWcTMB	Runechant	
+zmmpt8q8HqPFwPKK66Mjm	Amplify the Arknight	3	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 GNPNfqF7phg8dcbCBRjtC	Angelic Descent	2	9BPFcP6dTCwRdJKJBbqCc	Herald of Erudition	2
 GNPNfqF7phg8dcbCBRjtC	Angelic Descent	2	z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	2
 GNPNfqF7phg8dcbCBRjtC	Angelic Descent	2	LrjRbqHNNKbLGfqDPjp7R	Herald of Protection	1
@@ -23,60 +28,13 @@ GNPNfqF7phg8dcbCBRjtC	Angelic Descent	2	rk9986mQCBfcCRTwFJRdL	Herald of Triumph	
 GNPNfqF7phg8dcbCBRjtC	Angelic Descent	2	KRcH8Nb8PR8dfC8DTPtpJ	Wartune Herald	1
 GNPNfqF7phg8dcbCBRjtC	Angelic Descent	2	pGjHRdgF8BLTDGtjLJGgh	Wartune Herald	2
 GNPNfqF7phg8dcbCBRjtC	Angelic Descent	2	qN9rt6FWmjTRwNC9cTrPW	Wartune Herald	3
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	9BPFcP6dTCwRdJKJBbqCc	Herald of Erudition	2
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	2
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	LrjRbqHNNKbLGfqDPjp7R	Herald of Protection	1
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	GpWJp9RKt7nrzt6dCMnbH	Herald of Protection	2
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	kWCjCDmt6k6Rq7bkf7pGr	Herald of Protection	3
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	6TdnF7dGqjJJcCBdKb98r	Herald of Ravages	1
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	tpBFGmkQggrgbfN96bNW6	Herald of Ravages	2
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	6kKnCBgtcwPWzKhHLDPLn	Herald of Ravages	3
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	FLpRPPKtB668jDRD7Gknm	Herald of Rebirth	1
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	WzgPPdjkL9zHrrqpjHbNJ	Herald of Rebirth	2
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	wHPGqnKDg8mRNzmwfmh8W	Herald of Rebirth	3
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	JRFMjNBpz9H6tmgGWHkrD	Herald of Tenacity	1
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	Jb7Ht9qpJRjRRwQMjJBKH	Herald of Tenacity	2
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	jgC7fqfp9rGLjPdJQNRBM	Herald of Tenacity	3
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	QD7K9HmH9g9CLWRPcz87n	Herald of Triumph	1
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	pKzcGJ6MbDD7pBM6HNJpf	Herald of Triumph	2
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	rk9986mQCBfcCRTwFJRdL	Herald of Triumph	3
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	KRcH8Nb8PR8dfC8DTPtpJ	Wartune Herald	1
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	pGjHRdgF8BLTDGtjLJGgh	Wartune Herald	2
-HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	qN9rt6FWmjTRwNC9cTrPW	Wartune Herald	3
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	9BPFcP6dTCwRdJKJBbqCc	Herald of Erudition	2
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	2
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	LrjRbqHNNKbLGfqDPjp7R	Herald of Protection	1
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	GpWJp9RKt7nrzt6dCMnbH	Herald of Protection	2
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	kWCjCDmt6k6Rq7bkf7pGr	Herald of Protection	3
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	6TdnF7dGqjJJcCBdKb98r	Herald of Ravages	1
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	tpBFGmkQggrgbfN96bNW6	Herald of Ravages	2
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	6kKnCBgtcwPWzKhHLDPLn	Herald of Ravages	3
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	FLpRPPKtB668jDRD7Gknm	Herald of Rebirth	1
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	WzgPPdjkL9zHrrqpjHbNJ	Herald of Rebirth	2
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	wHPGqnKDg8mRNzmwfmh8W	Herald of Rebirth	3
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	JRFMjNBpz9H6tmgGWHkrD	Herald of Tenacity	1
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	Jb7Ht9qpJRjRRwQMjJBKH	Herald of Tenacity	2
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	jgC7fqfp9rGLjPdJQNRBM	Herald of Tenacity	3
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	QD7K9HmH9g9CLWRPcz87n	Herald of Triumph	1
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	pKzcGJ6MbDD7pBM6HNJpf	Herald of Triumph	2
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	rk9986mQCBfcCRTwFJRdL	Herald of Triumph	3
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	KRcH8Nb8PR8dfC8DTPtpJ	Wartune Herald	1
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	pGjHRdgF8BLTDGtjLJGgh	Wartune Herald	2
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	qN9rt6FWmjTRwNC9cTrPW	Wartune Herald	3
-Nh7kN9dhkWQhjfr7CfKW7	Spirit of War	1	fQTg89mpRjTDTRmPGkQb6	Courage	
-CBc98j9J9PmqRKNdTchgW	Resounding Courage	1	fQTg89mpRjTDTRmPGkQb6	Courage	
-JtPhDg9PkWmHb6jpCCPjz	Ironsong Versus		fQTg89mpRjTDTRmPGkQb6	Courage	
-LFhRKcJC6fbfQjKdqLqp7	Diadem of Dreamstate		HpWqFJW8ftTDdzCLK9RkD	Ponder	
-GgDFFHhLh8Kc7tJK8nBLj	Alpha Rampage	1	wr9wBtTWwRrPrdhCRHCdN	Rhinar, Reckless Rampage	
-GgDFFHhLh8Kc7tJK8nBLj	Alpha Rampage	1	wNRqrHCn6rrKLhrDkqPwp	Rhinar	
-tqL9KdjgkjfnQ98H97dJw	Amethyst Tiara		zfrHQjbPkpBmdQGrWcTMB	Runechant	
-GFRQBDGRhL9DMtwzKq7CL	Amplify the Arknight	1	zfrHQjbPkpBmdQGrWcTMB	Runechant	
-zdgkJ9mtbmkbQfpzm9Thc	Amplify the Arknight	2	zfrHQjbPkpBmdQGrWcTMB	Runechant	
-zmmpt8q8HqPFwPKK66Mjm	Amplify the Arknight	3	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 9gnHtCMJBbDQjqk8cWmhN	Annals of Sutcliffe		zfrHQjbPkpBmdQGrWcTMB	Runechant	
 qJfJ7wBLmBtGnBpqQttNK	Annihilate the Armed	1	TNJz9fCgqmhhLz9rP9tkt	Silver	
 b97gffj66hdGBhpkTQQQt	Annihilate the Armed	2	TNJz9fCgqmhhLz9rP9tkt	Silver	
 7FckgndNDJwgBMfzFRQ86	Annihilate the Armed	3	TNJz9fCgqmhhLz9rP9tkt	Silver	
+wJQMt6Lpf6D9JFQ8BW898	Anthem of Spring	3	7TjkgnbJ8tghfrkMRnTfW	Briar	
+wJQMt6Lpf6D9JFQ8BW898	Anthem of Spring	3	cjDzkKdjNrGqL9tnDc7zd	Briar, Warden of Thorns	
+wJQMt6Lpf6D9JFQ8BW898	Anthem of Spring	3	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth	
 hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	2	F7rQpTDjHFWPgQhcGg7RT	Prism, Sculptor of Arc Light	
 hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	2	NGkHQHjzkFqfmGLKmRCpj	Prism	
 rWtcmPrWgJwnmKNhj8nMk	Arctic Incarceration	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
@@ -208,16 +166,65 @@ cjDzkKdjNrGqL9tnDc7zd	Briar, Warden of Thorns		QBwTWNc9FMGQfwHRTTdHj	Embodiment 
 kDgcBghDT7wRQwQWmpWRb	Burn Away	1	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1
 chkQDQ6HN77r7hg8pmkKt	Buzzsaw Trap	3	RNfgGmc8wHgBrmC6gkqBd	Riptide, Lurker of the Deep	
 chkQDQ6HN77r7hg8pmkKt	Buzzsaw Trap	3	DhffBQC7PHwzdJpjTjNBm	Riptide	
+8jWbpb8RHQWpKwDdnt9rw	Call Down the Lightning	2	GFc7t8wNTwC8rCFwrqTfh	Lexi	
+8jWbpb8RHQWpKwDdnt9rw	Call Down the Lightning	2	PFmgFK9dFr8q6PrpJFpPG	Lexi, Livewire	
+8jWbpb8RHQWpKwDdnt9rw	Call Down the Lightning	2	QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning	
 Ld6twwNTNGTcWFw9rRWfh	Cash In	2	gzDGmdfm6gHWctgrcgfKf	Copper	
 Ld6twwNTNGTcWFw9rRWfh	Cash In	2	TNJz9fCgqmhhLz9rP9tkt	Silver	
 Ld6twwNTNGTcWFw9rRWfh	Cash In	2	8qdmprPg7kckn8ktMTKQh	Gold	
 tWjDdc6FFdnDNk7dLgzt7	Cash Out	3	TNJz9fCgqmhhLz9rP9tkt	Silver	
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	9BPFcP6dTCwRdJKJBbqCc	Herald of Erudition	2
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	2
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	LrjRbqHNNKbLGfqDPjp7R	Herald of Protection	1
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	GpWJp9RKt7nrzt6dCMnbH	Herald of Protection	2
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	kWCjCDmt6k6Rq7bkf7pGr	Herald of Protection	3
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	6TdnF7dGqjJJcCBdKb98r	Herald of Ravages	1
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	tpBFGmkQggrgbfN96bNW6	Herald of Ravages	2
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	6kKnCBgtcwPWzKhHLDPLn	Herald of Ravages	3
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	FLpRPPKtB668jDRD7Gknm	Herald of Rebirth	1
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	WzgPPdjkL9zHrrqpjHbNJ	Herald of Rebirth	2
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	wHPGqnKDg8mRNzmwfmh8W	Herald of Rebirth	3
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	JRFMjNBpz9H6tmgGWHkrD	Herald of Tenacity	1
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	Jb7Ht9qpJRjRRwQMjJBKH	Herald of Tenacity	2
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	jgC7fqfp9rGLjPdJQNRBM	Herald of Tenacity	3
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	QD7K9HmH9g9CLWRPcz87n	Herald of Triumph	1
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	pKzcGJ6MbDD7pBM6HNJpf	Herald of Triumph	2
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	rk9986mQCBfcCRTwFJRdL	Herald of Triumph	3
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	KRcH8Nb8PR8dfC8DTPtpJ	Wartune Herald	1
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	pGjHRdgF8BLTDGtjLJGgh	Wartune Herald	2
+HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	qN9rt6FWmjTRwNC9cTrPW	Wartune Herald	3
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	9BPFcP6dTCwRdJKJBbqCc	Herald of Erudition	2
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	2
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	LrjRbqHNNKbLGfqDPjp7R	Herald of Protection	1
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	GpWJp9RKt7nrzt6dCMnbH	Herald of Protection	2
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	kWCjCDmt6k6Rq7bkf7pGr	Herald of Protection	3
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	6TdnF7dGqjJJcCBdKb98r	Herald of Ravages	1
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	tpBFGmkQggrgbfN96bNW6	Herald of Ravages	2
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	6kKnCBgtcwPWzKhHLDPLn	Herald of Ravages	3
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	FLpRPPKtB668jDRD7Gknm	Herald of Rebirth	1
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	WzgPPdjkL9zHrrqpjHbNJ	Herald of Rebirth	2
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	wHPGqnKDg8mRNzmwfmh8W	Herald of Rebirth	3
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	JRFMjNBpz9H6tmgGWHkrD	Herald of Tenacity	1
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	Jb7Ht9qpJRjRRwQMjJBKH	Herald of Tenacity	2
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	jgC7fqfp9rGLjPdJQNRBM	Herald of Tenacity	3
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	QD7K9HmH9g9CLWRPcz87n	Herald of Triumph	1
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	pKzcGJ6MbDD7pBM6HNJpf	Herald of Triumph	2
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	rk9986mQCBfcCRTwFJRdL	Herald of Triumph	3
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	KRcH8Nb8PR8dfC8DTPtpJ	Wartune Herald	1
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	pGjHRdgF8BLTDGtjLJGgh	Wartune Herald	2
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	qN9rt6FWmjTRwNC9cTrPW	Wartune Herald	3
 mCCnJrJQkqJ7KfqKNHGnc	Chane		9F6H6kTdQdcHrDrRCDmLP	Soul Shackle	
 MhBTRHCCft7RbrMmkwwGw	Chane, Bound by Shadow		9F6H6kTdQdcHrDrRCDmLP	Soul Shackle	
 LrjhhdFHqndpWG8d66GJz	Chief Ruk'utan		GgDFFHhLh8Kc7tJK8nBLj	Alpha Rampage	1
 hn6Jp8hBLgpwRPd8gNnN7	Chill to the Bone	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 78zTbm7gJD7r866HNpHGW	Chill to the Bone	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 dmcWqBfNRjBTbCtfLWtmH	Chill to the Bone	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
+hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	2	KGqRPDfRrnPqdj7Cm76fr	Dorinthea	
+hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	2	Djhg6DMpCpFHD9rcPNFrN	Dorinthea Ironsong	
+hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	2	NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy	
+hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	2	NDjHqNJrckK6pjK7LwfMW	Dawnblade	
+hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	2	kTzjGBrWbwncJCt7wLTrH	Dawnblade, Resplendent	
+hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	2	fQTg89mpRjTDTRmPGkQb6	Courage	
 KdPWDMfBd8BQp66B9chCQ	Coat of Frost		GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 LzjkDR6QcL9WBztfDTRt9	Coax a Commotion	1	cDpMQnr8LwPFGMdgffNb8	Quicken	
 tjnCb9JGD7mzznFPfDzHp	Codex of Bloodrot	2	HpWqFJW8ftTDdzCLK9RkD	Ponder	
@@ -280,6 +287,7 @@ d7D9nzdhjfKmppBnFdFLm	Descendant Gustwave	3	KtHkGCQfc6Td7Dg8htCcJ	Surging Strike
 Cqwf78hdKQTfgCtbkcrdL	Destructive Deliberation	1	HpWqFJW8ftTDdzCLK9RkD	Ponder	
 FgzGnMR8GKFpMNMr7DcKH	Destructive Deliberation	2	HpWqFJW8ftTDdzCLK9RkD	Ponder	
 THJWhmjtGRtWfPMRFFkdd	Destructive Deliberation	3	HpWqFJW8ftTDdzCLK9RkD	Ponder	
+LFhRKcJC6fbfQjKdqLqp7	Diadem of Dreamstate		HpWqFJW8ftTDdzCLK9RkD	Ponder	
 WRhC8n6HHNkRn6MjzDHDL	Dishonor	3	GqNTpPW79fHNzj7kB8Kkb	Surging Strike	1
 WRhC8n6HHNkRn6MjzDHDL	Dishonor	3	Hpq8jQm9H97HbfhBKgctd	Surging Strike	2
 WRhC8n6HHNkRn6MjzDHDL	Dishonor	3	KtHkGCQfc6Td7Dg8htCcJ	Surging Strike	3
@@ -344,53 +352,6 @@ Mr6TbnRrKTrJWndKh8QwF	Empyrean Rapture		rk9986mQCBfcCRTwFJRdL	Herald of Triumph	
 Mr6TbnRrKTrJWndKh8QwF	Empyrean Rapture		KRcH8Nb8PR8dfC8DTPtpJ	Wartune Herald	1
 Mr6TbnRrKTrJWndKh8QwF	Empyrean Rapture		pGjHRdgF8BLTDGtjLJGgh	Wartune Herald	2
 Mr6TbnRrKTrJWndKh8QwF	Empyrean Rapture		qN9rt6FWmjTRwNC9cTrPW	Wartune Herald	3
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	Fmf8trg9w8B8BBbWrf8w9	Boltyn	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breaker of Dawn	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	fQTg89mpRjTDTRmPGkQb6	Courage	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	tzTbzLkLhDzmW9QMJr9KF	Bravo	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	NtLDgPBR7HqDqhDzJMHmk	Bravo, Showstopper	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	PFJnMWQNfr6jMMzJhjB9H	Bravo, Star of the Show	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	7TjkgnbJ8tghfrkMRnTfW	Briar	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	cjDzkKdjNrGqL9tnDc7zd	Briar, Warden of Thorns	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	KGqRPDfRrnPqdj7Cm76fr	Dorinthea	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	Djhg6DMpCpFHD9rcPNFrN	Dorinthea Ironsong	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	GFc7t8wNTwC8rCFwrqTfh	Lexi	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	PFmgFK9dFr8q6PrpJFpPG	Lexi, Livewire	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	hw6qHfWdqQGfRPfKJMgR7	Oldhim	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	bh96L8jp69mNpjcGRCDbj	Oldhim, Grandfather of Eternity	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	pdMgMzHwDgBpCNjD7WGLD	Spellbane Aegis	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	NGkHQHjzkFqfmGLKmRCpj	Prism	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	dhbhdcr8CB6ngRrf9GTgm	Prism, Advent of Thrones	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	F7rQpTDjHFWPgQhcGg7RT	Prism, Sculptor of Arc Light	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	n9r77QwMzdWJmnfhPLN9J	Shiyana, Diamond Gemini	
-wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	jKhMgndCGwjzKLHQMM7Cj	Eloquence	
-wJQMt6Lpf6D9JFQ8BW898	Anthem of Spring	3	7TjkgnbJ8tghfrkMRnTfW	Briar	
-wJQMt6Lpf6D9JFQ8BW898	Anthem of Spring	3	cjDzkKdjNrGqL9tnDc7zd	Briar, Warden of Thorns	
-wJQMt6Lpf6D9JFQ8BW898	Anthem of Spring	3	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth	
-CGhtqrGGT7TL9C89GjF8R	Northern Winds	3	hw6qHfWdqQGfRPfKJMgR7	Oldhim	
-CGhtqrGGT7TL9C89GjF8R	Northern Winds	3	bh96L8jp69mNpjcGRCDbj	Oldhim, Grandfather of Eternity	
-CGhtqrGGT7TL9C89GjF8R	Northern Winds	3	pdMgMzHwDgBpCNjD7WGLD	Spellbane Aegis	
-8jWbpb8RHQWpKwDdnt9rw	Call Down the Lightning	2	GFc7t8wNTwC8rCFwrqTfh	Lexi	
-8jWbpb8RHQWpKwDdnt9rw	Call Down the Lightning	2	PFmgFK9dFr8q6PrpJFpPG	Lexi, Livewire	
-8jWbpb8RHQWpKwDdnt9rw	Call Down the Lightning	2	QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning	
-zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	tzTbzLkLhDzmW9QMJr9KF	Bravo	
-zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	NtLDgPBR7HqDqhDzJMHmk	Bravo, Showstopper	
-zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	PFJnMWQNfr6jMMzJhjB9H	Bravo, Star of the Show	
-zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge	
-hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	2	KGqRPDfRrnPqdj7Cm76fr	Dorinthea	
-hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	2	Djhg6DMpCpFHD9rcPNFrN	Dorinthea Ironsong	
-hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	2	NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy	
-hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	2	NDjHqNJrckK6pjK7LwfMW	Dawnblade	
-hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	2	kTzjGBrWbwncJCt7wLTrH	Dawnblade, Resplendent	
-hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	2	fQTg89mpRjTDTRmPGkQb6	Courage	
-nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement	2	n9r77QwMzdWJmnfhPLN9J	Shiyana, Diamond Gemini	
-nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement		jKhMgndCGwjzKLHQMM7Cj	Eloquence	
-bctJhnLdnWB9tqBJ6nNTN	Lost in Thought	1	HpWqFJW8ftTDdzCLK9RkD	Ponder	
 dncM8DzP7fJ9JWDqqWfHj	Endless Winter	1	bh96L8jp69mNpjcGRCDbj	Oldhim, Grandfather of Eternity	
 dncM8DzP7fJ9JWDqqWfHj	Endless Winter	1	hw6qHfWdqQGfRPfKJMgR7	Oldhim	
 dncM8DzP7fJ9JWDqqWfHj	Endless Winter	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
@@ -400,6 +361,9 @@ QbtQ6rBPTTD99TNC7PGRM	Even Bigger Than That!	2	cDpMQnr8LwPFGMdgffNb8	Quicken
 LDCrQmNm8bFk8wcCJ6pj9	Even Bigger Than That!	3	cDpMQnr8LwPFGMdgffNb8	Quicken	
 QHNfbDkffrKWgwDw7MjwQ	Fai		kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1
 RjNJbgTJn7bJrjJHBdfC8	Fai, Rising Rebellion		kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1
+cWRWbKczR8N8F6nGBMNG7	Figment of Erudition	2	HpWqFJW8ftTDdzCLK9RkD	Ponder	
+FhzPFCDrDhK8QbjFRfHLk	Figment of Protection	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
+qrhLKPQDzcR99cHLz7jgq	Figment of War	2	fQTg89mpRjTDTRmPGkQb6	Courage	
 PHz8kWCt6rw6Q6jMgbdQC	Find Center	3	b9Hw6NhDgfdQWLDQffTPC	Crane Dance	1
 PHz8kWCt6rw6Q6jMgbdQC	Find Center	3	hdwcfGdrfcJ9bK78tPgRW	Crane Dance	2
 PHz8kWCt6rw6Q6jMgbdQC	Find Center	3	KWNMNMjTzTQMRK7FF9J6T	Crane Dance	3
@@ -515,6 +479,7 @@ J6bjpTRPwRCmLTMcWTPWH	Invoke Suraya	2	7GqwMzK8mCrkKQ9kdpF7W	Suraya, Archangel of
 C7PG6mkm7JPNTBWKJwHpt	Invoke Tomeltai	1	JQqp6Ctw7QMLRDMgTnW6g	Tomeltai	
 KWR8NHg7qbrP9rnbfWPr7	Invoke Vynserakai	1	MFrJG8G8RgrhkpfkD8KWj	Vynserakai	
 9J9c98JJDc8mtKnRR9hhq	Invoke Yendurai	1	gqTpfTkztdLpN8W6TpRtR	Yendurai	
+JtPhDg9PkWmHb6jpCCPjz	Ironsong Versus		fQTg89mpRjTDTRmPGkQb6	Courage	
 FHLMhFd7rHFC8LqNmLcJR	Isenhowl Weathervane	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 KwLBJgTd78DwgLWdpqRhN	Isenhowl Weathervane	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 QcJHqRnCpgHQ7KBMHmbWT	Isenhowl Weathervane	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
@@ -582,6 +547,7 @@ hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	KtHkGCQfc6Td7Dg8htCcJ	Surging Strike	3
 hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	zgP9HWNCqbrQPLMNP8Bwf	Whelming Gustwave	1
 hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	jCrd8h9kPW8rJ9KwgRr8L	Whelming Gustwave	2
 hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	M7gFnB7zpwHWCbzWCWKpd	Whelming Gustwave	3
+bctJhnLdnWB9tqBJ6nNTN	Lost in Thought	1	HpWqFJW8ftTDdzCLK9RkD	Ponder	
 L8wq9HzdqTwM8tLWCRGcR	Lumina Ascension	2	QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breaker of Dawn	
 L8wq9HzdqTwM8tLWCRGcR	Lumina Ascension	2	Fmf8trg9w8B8BBbWrf8w9	Boltyn	
 RnjfWPNBLBd9nGR8RdhnT	Mask of Perdition		TNJz9fCgqmhhLz9rP9tkt	Silver	
@@ -626,6 +592,9 @@ tGhCqd6bBfRGGdrmrFnLk	Nix the Nimble	2	TNJz9fCgqmhhLz9rP9tkt	Silver
 G78pTWjgm7fW77FWfLpkM	Nix the Nimble	3	TNJz9fCgqmhhLz9rP9tkt	Silver	
 zDLrkgc8QGm77T8qPGwqd	Nock the Deathwhistle	3	PTFnJCdhWD9cFgMMNPqQj	Azalea, Ace in the Hole	
 zDLrkgc8QGm77T8qPGwqd	Nock the Deathwhistle	3	Fc8mPQBjrNq6Fg9LW9RLc	Azalea	
+CGhtqrGGT7TL9C89GjF8R	Northern Winds	3	hw6qHfWdqQGfRPfKJMgR7	Oldhim	
+CGhtqrGGT7TL9C89GjF8R	Northern Winds	3	bh96L8jp69mNpjcGRCDbj	Oldhim, Grandfather of Eternity	
+CGhtqrGGT7TL9C89GjF8R	Northern Winds	3	pdMgMzHwDgBpCNjD7WGLD	Spellbane Aegis	
 rnFwQdqLFTRCDWbtT6Jqm	Oath of the Arknight	1	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 nfmPR87fzQhMLrPCdFTzD	Oath of the Arknight	2	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 GWfQC8Lqd9Jz8dnkNdrwt	Oath of the Arknight	3	zfrHQjbPkpBmdQGrWcTMB	Runechant	
@@ -729,6 +698,7 @@ W7kjMQq9pJGQrBDPhhbgT	Regurgitating Slog	2	PhTkFwKHqwmWW8NjCbKHG	Sloggism	3
 br9CQqckKLHbJmqnrLnfR	Regurgitating Slog	3	kgTjdTtWrFMCqpHh9mn8C	Sloggism	1
 br9CQqckKLHbJmqnrLnfR	Regurgitating Slog	3	b9jb87Hf88HzTMTFBRtwB	Sloggism	2
 br9CQqckKLHbJmqnrLnfR	Regurgitating Slog	3	PhTkFwKHqwmWW8NjCbKHG	Sloggism	3
+CBc98j9J9PmqRKNdTchgW	Resounding Courage	1	fQTg89mpRjTDTRmPGkQb6	Courage	
 z9Jm6MkWcjqRHwQWkgRDj	Revel in Runeblood	1	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 MgfGgqG7wRNbwNGNmjKJr	Rise from the Ashes	1	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1
 bnBcm8CFRhPzFPbNmwbRG	Rise from the Ashes	2	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1
@@ -854,10 +824,15 @@ wdbnJz7TQDCJ6gWW7WNch	Spinning Wheel Kick	3	8w9NwkkKWrtCGbmBBcfJR	Spinning Wheel
 wdbnJz7TQDCJ6gWW7WNch	Spinning Wheel Kick	3	pB8QJrtrPdHMmGrLpNNHL	Spinning Wheel Kick	2
 wdbnJz7TQDCJ6gWW7WNch	Spinning Wheel Kick	3	wdbnJz7TQDCJ6gWW7WNch	Spinning Wheel Kick	3
 hcRgHbGGNmwCTQMBF6CQh	Spirit of Eirina	2	L8wq9HzdqTwM8tLWCRGcR	Lumina Ascension	2
+Nh7kN9dhkWQhjfr7CfKW7	Spirit of War	1	fQTg89mpRjTDTRmPGkQb6	Courage	
 LKTc8bNLczk7p78FwWzTw	Spoils of War	1	gzDGmdfm6gHWctgrcgfKf	Copper	
 R7K6C9kzFHbpHGLHHFJtg	Spreading Plague	2	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox	
 HMFLP9L76wCJBGGhBKChT	Spring Tidings	2	HT8r8mg8rHmbWJthCFHfH	Benji, the Piercing Wind	
 BCpDT6GfzNwKW8qz7WbrN	Stalagmite, Bastion of Isenloft		GHG6KkBzPkHDnMf7hL7K7	Frostbite	
+zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	tzTbzLkLhDzmW9QMJr9KF	Bravo	
+zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	NtLDgPBR7HqDqhDzJMHmk	Bravo, Showstopper	
+zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	PFJnMWQNfr6jMMzJhjB9H	Bravo, Star of the Show	
+zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge	
 LD76nrjCTwzcf6Qk8cCjW	Steelblade Supremacy	1	Djhg6DMpCpFHD9rcPNFrN	Dorinthea Ironsong	
 LD76nrjCTwzcf6Qk8cCjW	Steelblade Supremacy	1	KGqRPDfRrnPqdj7Cm76fr	Dorinthea	
 LD76nrjCTwzcf6Qk8cCjW	Steelblade Supremacy	1	NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy	
@@ -905,6 +880,31 @@ mFNK7nKtRMLWdHJzrngNb	Tiger Swipe	1	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger
 QCKJqg6QMPR9pLPBCJQJK	Toxic Tips		drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox	
 QCKJqg6QMPR9pLPBCJQJK	Toxic Tips		KPWKQmMgm7rmM7bfFw9gF	Frailty	
 QCKJqg6QMPR9pLPBCJQJK	Toxic Tips		G6kbCqnBzwjhrb88Q6K7w	Inertia	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	Fmf8trg9w8B8BBbWrf8w9	Boltyn	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breaker of Dawn	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	fQTg89mpRjTDTRmPGkQb6	Courage	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	tzTbzLkLhDzmW9QMJr9KF	Bravo	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	NtLDgPBR7HqDqhDzJMHmk	Bravo, Showstopper	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	PFJnMWQNfr6jMMzJhjB9H	Bravo, Star of the Show	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	7TjkgnbJ8tghfrkMRnTfW	Briar	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	cjDzkKdjNrGqL9tnDc7zd	Briar, Warden of Thorns	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	KGqRPDfRrnPqdj7Cm76fr	Dorinthea	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	Djhg6DMpCpFHD9rcPNFrN	Dorinthea Ironsong	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	GFc7t8wNTwC8rCFwrqTfh	Lexi	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	PFmgFK9dFr8q6PrpJFpPG	Lexi, Livewire	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	hw6qHfWdqQGfRPfKJMgR7	Oldhim	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	bh96L8jp69mNpjcGRCDbj	Oldhim, Grandfather of Eternity	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	pdMgMzHwDgBpCNjD7WGLD	Spellbane Aegis	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	NGkHQHjzkFqfmGLKmRCpj	Prism	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	dhbhdcr8CB6ngRrf9GTgm	Prism, Advent of Thrones	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	F7rQpTDjHFWPgQhcGg7RT	Prism, Sculptor of Arc Light	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	n9r77QwMzdWJmnfhPLN9J	Shiyana, Diamond Gemini	
+wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	jKhMgndCGwjzKLHQMM7Cj	Eloquence	
 bChp6GBR8QhHJLgpzKC6J	V of the Vanguard	2	QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breaker of Dawn	
 bChp6GBR8QhHJLgpzKC6J	V of the Vanguard	2	Fmf8trg9w8B8BBbWrf8w9	Boltyn	
 zWhGF8kMMdmKdhMNdj6NH	Valda Brightaxe		Rf8CHpzmhJNppCtDDKWDm	Seismic Surge	
