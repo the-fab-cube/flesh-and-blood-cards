@@ -2914,6 +2914,9 @@ Fw7hr8tGFkDbJkJB8Gjhk	Mutated Mass	3	1	*	*			Shadow, Action, Attack	Blood Debt		
 Mutated Mass's {p} and {d} is equal to twice the number of cards in your pitch zone with different costs.
 
 **Blood Debt**"	Shadow Action - Attack				No	
+GpmN8jcWjbH7fMHd7hWjJ	Nasreth, the Soul Harrower			6		6		Shadow, Token, Demon, Ally		Once per Turn Action	Attack				"**Once per Turn Action - 0: Attack**
+
+When Nasreth hits a hero, banish a card from their soul. If a Light card is banished this way, gain 1{l}."	Shadow Token - Demon Ally					
 DHDCCL77FKTkQPTqKnG9B	Nature's Path Pilgrimage	1	1		3			Warrior, Action	Go again						"Your next weapon attack this turn gains +3{p} and ""If this hits and you have no cards in your arsenal, reveal the top card of your deck. If it's an action card, put it face down into your arsenal.""
 
 **Go again**"	Warrior Action					
@@ -3015,6 +3018,11 @@ GWfQC8Lqd9Jz8dnkNdrwt	Oath of the Arknight	3	2		3			Runeblade, Action	Go again		
 Create a Runechant token.
 
 **Go again**"	Runeblade Action				No	
+F6nMWMTR7mjDm9LMjhgpd	Oblivion	3	0					Shadow, Runeblade, Instant	Legendary, Vynnset Specialization						"**Legendary Vynnset Specialization**
+
+Play this only if you control exactly 6 Runechants.
+
+Create a Nasreth, the Soul Harrower token."	Shadow Runeblade Instant				No	
 DWcKpdjNKBcK67WpPb9Qf	Ode to Wrath	2	4					Light, Illusionist, Instant, Aura	Spectra			Go again			"Whenever a source you control deals damage to an opposing hero, they lose 1{h}.
 
 Illusionist attack action cards you control have **go again**.
