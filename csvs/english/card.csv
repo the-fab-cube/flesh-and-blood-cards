@@ -15,7 +15,7 @@ KjgnpjTfDBhndccFCCDHn	Adrenaline Rush	2	2	3	2			Generic, Action, Attack							Wh
 bTCfkj7Q8WQKHcnhGqHCr	Adrenaline Rush	3	2	2	2			Generic, Action, Attack							When you play Adrenaline Rush, if you have less {h} than an opposing hero, it gains +3{p}.	Generic Action - Attack					
 KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection			4		4		Light, Angel, Ally	Ward 4	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
-When Aegis attacks, you may banish a card from your hero's soul.  If you do, create 2 Spectral Shield tokens.
+When Aegis attacks, you may banish a card from your hero's soul. If you do, create 2 Spectral Shield tokens.
 
 **Ward 4**"	Light - Angel Ally				No	
 pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing			1		1		Draconic, Illusionist, Token, Dragon, Ally	Arcane Barrier 1						**Arcane Barrier 1**	Draconic Illusionist Token - Dragon Ally					
@@ -2820,7 +2820,7 @@ RDTDDzfpjwLc9QrLWhqtB	Metacarpus Node				0			Wizard, Equipment, Arms	Arcane Barr
 **Arcane Barrier 1**"	Wizard Equipment - Arms				No	
 9FTLChcm8Jkpnhmhh8CPK	Metis, Archangel of Tenacity			4		4		Light, Angel, Ally	Ward 4, Dominate	Once per Turn Action	Attack	Dominate			"**Once per Turn Action** - {r}{r}: **Attack**
 
-When Metis attacks, you may banish a card from your hero's soul.  If you do, your attacks this turn get **dominate**.
+When Metis attacks, you may banish a card from your hero's soul. If you do, your attacks this turn get **dominate**.
 
 **Ward 4**"	Light - Angel Ally				No	
 r8fjLMCFnQhFrRjwpMTgK	Micro-processor	3	2					Mechanologist, Action, Item	Data Doll Specialization	Once Per Turn Action	Opt 1				"**Data Doll Specialization**
@@ -4775,7 +4775,7 @@ rcCgrhCWrcPC9RGFqMqm9	Sun Kiss	3	0		2			Generic, Action	Go again						"Gain 1{h}
 If you have played a card named Moon Wish this turn, draw a card and Sun Kiss gains **go again**."	Generic Action					
 JR9JmbdnQ8mTLfjMHf9n8	Suraya, Archangel of Erudition			4		4		Light, Angel, Ally	Ward 4	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
-When Suraya attacks, you may banish a card from your hero's soul.  If you do, draw 2 cards.
+When Suraya attacks, you may banish a card from your hero's soul. If you do, draw 2 cards.
 
 **Ward 4**"	Light - Angel Ally				No	
 7GqwMzK8mCrkKQ9kdpF7W	Suraya, Archangel of Knowledge			4		4		Light, Illusionist, Angel, Ally	Ward 4	Once per Turn Action	Attack				"**Once per Turn Action** - {p}{p}: **Attack**. Whenever Suraya attacks, you may banish a Light card from your hero's soul. If you do, Suraya deals 1 arcane damage to any target.
