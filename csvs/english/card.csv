@@ -130,7 +130,7 @@ rtq8MPBRKQzBpWTWRpj8t	Amulet of Oblation	3	0					Generic, Action, Item	Go again	
 qCDqQNmzPzM8DfbRPBqWj	Ancestral Empowerment	1	0		3			Ninja, Attack Reaction							"Target Ninja attack action card gains +1{p}.
 
 Draw a card."	Ninja Attack Reaction				No	
-GNPNfqF7phg8dcbCBRjtC	Angelic Descent	2	0					Light, Illusionist, Instant	Go again			Go again			"Target attack action card with Herald in its name gets **go again**.
+GNPNfqF7phg8dcbCBRjtC	Angelic Descent	2	0					Light, Illusionist, Instant				Go again			"Target attack action card with Herald in its name gets **go again**.
 
 Your next angel attack this turn gets +2{p}."	Light Illusionist Instant					
 GGDBMFMgCgn9wmWG6jMkq	Angelic Wrath	1	0					Light, Illusionist, Instant							Target attack action card with Herald in its name gets +4{p}	Light Illusionist Instant					
@@ -473,7 +473,7 @@ m7ThmjJFr8DhTq96q9BJc	Blessing of Qi	2	1		3			Ninja, Action, Aura							At the s
 G9WT8dKmmQFdP7jmtqwqC	Blessing of Qi	3	1		3			Ninja, Action, Aura							At the start of your turn, destroy Blessing of Qi then create a Crouching Tiger in your banished zone. It gains +1{p} and you may play it this turn.	Ninja Action - Aura				No	
 wrBQwfbdTLz8HzMWFQWRn	Blessing of Salvation	1	1					Light, Action							"If a card has been put into you hero's soul this turn, you may play this as though it were and instant.
 
-Gain 3 {h}"	Light Action				No	
+Gain 3{h}"	Light Action				No	
 MdwP9pznTNRcCR7z7LhgK	Blessing of Savagery	1	1		3			Brute, Action, Aura							At the start of your turn, destroy Blessing of Savagery then your next attack with 6 or more base {p} this turn gains +3{p}.	Brute Action - Aura				No	
 pfDBLzzWKNGPrMmQTRw66	Blessing of Savagery	2	1		3			Brute, Action, Aura							At the start of your turn, destroy Blessing of Savagery then your next attack with 6 or more base {p} this turn gains +2{p}.	Brute Action - Aura				No	
 8qkbJM6t8GkB7fH7qNnpP	Blessing of Savagery	3	1		3			Brute, Action, Aura							At the start of your turn, destroy Blessing of Savagery then your next attack with 6 or more base {p} this turn gains +1{p}.	Brute Action - Aura				No	
@@ -739,7 +739,7 @@ When this defends an attack with {p} greater than its base, the attack can't gai
 9N8KCpFCwjdCgn8CBMQfg	Cadaverous Contraband	1	2	6	2			Generic, Action, Attack							If Cadaverous Contraband hits, you may put a 'non-attack' action card from your graveyard on top of your deck.	Generic Action - Attack					
 RKW7z89gLBwpKqrWPfgHH	Cadaverous Contraband	2	2	5	2			Generic, Action, Attack							If Cadaverous Contraband hits, you may put a 'non-attack' action card from your graveyard on top of your deck.	Generic Action - Attack					
 wzF9jpgGN8tPLtfrtrHfm	Cadaverous Contraband	3	2	4	2			Generic, Action, Attack							If Cadaverous Contraband hits, you may put a 'non-attack' action card from your graveyard on top of your deck.	Generic Action - Attack					
-8jWbpb8RHQWpKwDdnt9rw	Call Down the Lightning	2	0		2			Lightning, Action	Lexi Specialization, Unity						"**Lexi Specialization**
+8jWbpb8RHQWpKwDdnt9rw	Call Down the Lightning	2	0		2			Lightning, Action	Lexi Specialization, Go again, Unity						"**Lexi Specialization**
 
 Your attacks this turn get ""Whenever the defending hero adds 1 or more defending cards from hand to this chain link, this deals 1 damage to them."" **Go again**
 
@@ -821,7 +821,7 @@ wDhLmGq88hHqJkBg89QDP	Channel Thunder Steppe	2	1		3			Lightning, Action, Aura	Go
 Whenever you play an action card, you may pay {r}. If you do, it gains **go again**.
 
 **Channel Lightning** - At the beginning of your end phase, put a flow counter on Channel Thunder Steppe then destroy it unless you put a Lightning card from your pitch zone on the bottom of your deck for each flow counter on it."	Lightning Action - Aura				No	
-rWccJ7CMn69khJP7QJ7G9	Charge of the Light Brigade	1	0					Light, Warrior, Action	Charge, Go again		Charge, Go again				"The next attack you **charge** this turn gets +3{p}.
+rWccJ7CMn69khJP7QJ7G9	Charge of the Light Brigade	1	0					Light, Warrior, Action	Go again					Charge	"The next attack you **charge** this turn gets +3{p}.
 
 **Go again**"	Light Warrior Action					
 LrjhhdFHqndpWG8d66GJz	Chief Ruk'utan				3			Brute, Mentor	Intimidate						"While Ruk'utan is face down in arsenal, at the start of your turn, you may turn him face up.
@@ -1161,7 +1161,7 @@ jFM7t8H8pfwFdTJc7qb8b	Deathly Duet	3	2	2	3			Runeblade, Action, Attack							Whe
 QLGJkQKtpmGkqwpTtHqzG	Debilitate	1	4	8	3			Guardian, Action, Attack	Crush						**Crush** - If Debilitate deals 4 or more damage to a hero, their first attack during their next turn has -2{p}.	Guardian Action - Attack					
 pb9kwPfCFccrmCDgGq7bJ	Debilitate	2	4	7	3			Guardian, Action, Attack	Crush						**Crush** - If Debilitate deals 4 or more damage to a hero, their first attack during their next turn has -2{p}.	Guardian Action - Attack					
 z6t6dcr7F7fWjwKwtqdRd	Debilitate	3	4	6	3			Guardian, Action, Attack	Crush						**Crush** - If Debilitate deals 4 or more damage to a hero, their first attack during their next turn has -2{p}.	Guardian Action - Attack					
-8h7fn6dk7PfNnckbW668r	Decimator Great Axe			4				Warrior, Weapon, Axe, 2H		Once per Turn Action	Attack				"**Once per Turn Action - {r}{r}{r}:  Attack**
+8h7fn6dk7PfNnckbW668r	Decimator Great Axe			4				Warrior, Weapon, Axe, 2H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}{r}:  **Attack**
 
 The first time this is defended by a non-equipment card each turn, halve the bas {d} of target defending card, rounded up."	Warrior Weapon - Axe (2H)					
 wKhBB6Nb9RPQJ8zPFnpgJ	Deep Blue				0			Generic, Equipment, Chest		Action	Go again				**Action** - Put a card from your hand on the bottom of your deck, destroy Deep Blue: Gain {r}{r}{r}. **Go again**	Generic Equipment - Chest					
@@ -2501,7 +2501,7 @@ At the beginning of your end phase, if a sword has not hit this turn, destroy Ir
 9Kp6GPmC6WKb7NqNPwNrd	Ironsong Response	1	0		3			Warrior, Attack Reaction	Reprise						**Reprise** - If the defending hero has defended with a card from their hand this chain link, target weapon attack gains +3{p}.	Warrior Attack Reaction					
 L7jKNGkRd9WwpN6NQKGbf	Ironsong Response	2	0		3			Warrior, Attack Reaction	Reprise						**Reprise** - If the defending hero has defended with a card from their hand this chain link, target weapon attack gains +2{p}.	Warrior Attack Reaction					
 tnLDhJDNRMRQrcTzBkTF9	Ironsong Response	3	0		3			Warrior, Attack Reaction	Reprise						**Reprise** - If the defending hero has defended with a card from their hand this chain link, target weapon attack gains +1{p}.	Warrior Attack Reaction					
-JtPhDg9PkWmHb6jpCCPjz	Ironsong Versus				2			Warrior, Equipment, Arms	Go again, Temper	Once per Turn Action					"**Once per Turn Action - [r]:** Your next sword attack this turn gets ""When this hits a hero, create a Courage token.""  **Go again**
+JtPhDg9PkWmHb6jpCCPjz	Ironsong Versus				2			Warrior, Equipment, Arms	Temper	Once per Turn Action	Go again				"**Once per Turn Action** - **{r}:** Your next sword attack this turn gets ""When this hits a hero, create a Courage token.""  **Go again**
 
 **Temper**"	Warrior Equipment - Arms				No	
 FHLMhFd7rHFC8LqNmLcJR	Isenhowl Weathervane	1	1		2			Ice, Action	Go again						"The next time you **Ice fuse** this turn, create 4 Frostbite tokens under target hero's control.
@@ -2649,7 +2649,7 @@ bbgPwChkMppQBfwfrfTtL	Life of the Party	3	2	2	2			Generic, Action, Attack	Go aga
 If Light it Up was **fused**, it gains ""If this hits a hero, deal 1 damage to them for each equipment they control.""
 
 If Light it Up deals damage to a hero equal to or greater than the number of equipment they control, equipment they control lose and can't gain activated abilities until the end of their next turn."	Elemental Ranger Action - Arrow Attack				No	
-dJkTjzNPzkH9fc98PJdDk	Light the Way	1	0	3	3			Light, Warrior, Action, Attack	Charge, Go again		Charge, Go again				"As an additional cost to play this, you man **charge** your hero's soul.
+dJkTjzNPzkH9fc98PJdDk	Light the Way	1	0	3	3			Light, Warrior, Action, Attack	Charge, Go again						"As an additional cost to play this, you man **charge** your hero's soul.
 
 When this hits, if a yellow card was **charged** this way, this gets **go again**."	Light Warrior Action - Attack					
 QWgWwdcd8GPj8dCjCmRCR	Lightning Press	1	0					Lightning, Instant							Target attack action card with cost 1 or less gains +3{p}.	Lightning Instant				No	
@@ -3331,7 +3331,7 @@ If you have **boosted** this turn, put a steam counter on it.
 
 **Go again**"	Mechanologist Action				No	
 dkT9ghbNpFJ9qCfrPQq88	Powder Keg	3	0					Mechanologist, Action, Item							Whenever a Mechanologist gun you control hits, you may destroy Powder Keg and a defending equipment.	Mechanologist Action - Item				No	
-RznwHPTkhd7rfzzJc9dp8	Prayer of Bellona	2	1		3			Light, Warrior, Action	Charge, Go again		Charge, Go again				"Your next attack this turn gets +2{p}.
+RznwHPTkhd7rfzzJc9dp8	Prayer of Bellona	2	1		3			Light, Warrior, Action	Charge, Go again						"Your next attack this turn gets +2{p}.
 
 Reveal the top card of your deck,  If it's yellow, put it into your hand, then **charge** you hero's soul.
 
@@ -3499,15 +3499,15 @@ cDpMQnr8LwPFGMdgffNb8	Quicken							Generic, Token, Aura				Go again			When you 
 MLc97c6bqmKcPCtNg9M9q	Quicksilver Dagger			1				Warrior, Weapon, Dagger, 1H	Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 If another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**."	Warrior Weapon - Dagger (1H)					
-FcJ9DMBN6LLbBJGhJ9Kkt	Quiver of Abyssal Depths							Ranger, Equipment, Quiver	Instant						**Instant** - {r}{r}{r}, destroy Quiver of Abyssal Depths: Shuffle up to 3 arrows with different names from your graveyard into your deck.	Ranger Equipment - Quiver				No	
+FcJ9DMBN6LLbBJGhJ9Kkt	Quiver of Abyssal Depths							Ranger, Equipment, Quiver		Instant					**Instant** - {r}{r}{r}, destroy Quiver of Abyssal Depths: Shuffle up to 3 arrows with different names from your graveyard into your deck.	Ranger Equipment - Quiver				No	
 Pc9dDNQmwKnmDbgf6jrLH	Quiver of Rustling Leaves							Ranger, Equipment, Quiver		Instant					**Instant** - {r}{r}{r}: Reveal the top card of your deck. If it's an arrow, put it face up into your arsenal and destroy Quiver of Rustling Leaves.	Ranger Equipment - Quiver				No	
-GcD9dDfgTK8tmn7H8ccTk	Radiant Flow							Light, Equipment, Legs	Instant		Instant				**Instant** - Banish this and a card from your hero's soul: Prevent the next 2 damage that would be dealt to your hero this turn.	Light Equipment - Legs					
+GcD9dDfgTK8tmn7H8ccTk	Radiant Flow							Light, Equipment, Legs		Instant					**Instant** - Banish this and a card from your hero's soul: Prevent the next 2 damage that would be dealt to your hero this turn.	Light Equipment - Legs					
 rtJ8hLmrbcrkzLjGjjfJk	Radiant Forcefield	2	0					Light, Instant, Aura							"If your hero would be dealt damage, banish a card from your hero's soul to prevent 1 of that damage.
 
 When there are no cards in your hero's soul, destroy this."	Light Instant - Aura				No	
-gmKLgjmBKHDRjnCf7Q7kh	Radiant Raiment							Light, Equipment, Chest	Instant		Instant				**Instant** - Banish this and a card from your hero's soul: Prevent the next 2 damage that would be dealt to your hero this turn.	Light Equipment - Chest					
-c6fzD8D8LdtQ8cwnqgTgq	Radiant Touch							Light, Equipment, Arms	Instant		Instant				**Instant** - Banish this and a card from your hero's soul: Prevent the next 2 damage that would be dealt to your hero this turn.	Light Equipment - Arms					
-mMbkbwz6rkpPTLcjthNJT	Radiant View							Light, Equipment, Head	Instant		Instant				**Instant** - Banish this and a card from your hero's soul: Prevent the next 2 damage that would be dealt to your hero this turn.	Light Equipment - Head					
+gmKLgjmBKHDRjnCf7Q7kh	Radiant Raiment							Light, Equipment, Chest		Instant					**Instant** - Banish this and a card from your hero's soul: Prevent the next 2 damage that would be dealt to your hero this turn.	Light Equipment - Chest					
+c6fzD8D8LdtQ8cwnqgTgq	Radiant Touch							Light, Equipment, Arms		Instant					**Instant** - Banish this and a card from your hero's soul: Prevent the next 2 damage that would be dealt to your hero this turn.	Light Equipment - Arms					
+mMbkbwz6rkpPTLcjthNJT	Radiant View							Light, Equipment, Head		Instant					**Instant** - Banish this and a card from your hero's soul: Prevent the next 2 damage that would be dealt to your hero this turn.	Light Equipment - Head					
 bfbfWCWnHw6zP7bfrPGdC	Ragamuffin's Hat				0			Generic, Equipment, Head		Instant					**Instant** - Destroy Ragamuffin's Hat: Draw a card then put a card from your hand on the top or bottom of your deck. Activate this ability only if you have 1 card in hand.	Generic Equipment - Head					
 6C9QJwPPMFCtRjjTmFq7z	Raging Onslaught	1	3	7	3			Generic, Action, Attack								Generic Action - Attack					
 dMJht8gmwFJG8cKdpzCnw	Raging Onslaught	2	3	6	3			Generic, Action, Attack								Generic Action - Attack					
@@ -3595,7 +3595,7 @@ ppcpmnFc99GT8bbwbCBth	Ready to Roll	3	0		3			Brute, Action	Kayo Specialization, 
 If you would roll 1 or more dice this turn, instead roll that many dice plus 1 and ignore the lowest roll.
 
 **Go again**"	Brute Action				No	
-T8JJgk7GLGpcDQWWN9RH7	Reality Refractor							Illusionist, Weapon, Orb, 2H	Once per Turn Action	Attack		Attack			"Illusionist auras you control are weapons with 5 base {p} and ""**Once per Turn Action - {r]{r}: Attack**"""	Illusionist Weapon - Orb (2H)					
+T8JJgk7GLGpcDQWWN9RH7	Reality Refractor							Illusionist, Weapon, Orb, 2H				Attack			"Illusionist auras you control are weapons with 5 base {p} and ""**Once per Turn Action** - {r]{r}: **Attack**"""	Illusionist Weapon - Orb (2H)					
 HrWqnWfcFNdKB7TLnBLtC	Reaping Blade			3				Runeblade, Weapon, Sword, 2H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 If a hero has more {h} than any other hero, they can't gain {h}."	Runeblade Weapon - Sword (2H)					
@@ -3678,7 +3678,7 @@ Banish Remembrance."	Generic Instant				No
 M9wDtMRwDFB9chfhJRNWJ	Remorseless	1	1	5	3			Ranger, Action, Arrow, Attack							"If Remorseless is put into your arsenal face up, until end of turn it gains ""Defense reaction cards can't be played from arsenal to Remoreseless's chain link.""
 
 If Remorseless hits a hero, until the end of their next turn, whenever they play an action card, they lose 1{h}."	Ranger Action - Arrow Attack				No	
-CBc98j9J9PmqRKNdTchgW	Resounding Courage	1	1		3			Light, Warrior, Attack Reaction	Charge		Charge				"Target Light Warrior attack gets +3{p}.
+CBc98j9J9PmqRKNdTchgW	Resounding Courage	1	1		3			Light, Warrior, Attack Reaction						Charge	"Target Light Warrior attack gets +3{p}.
 
 If you've **charged** this turn, create a Courage token."	Light Warrior Attack Reaction					
 z9Jm6MkWcjqRHwQWkgRDj	Revel in Runeblood	1	0		2			Runeblade, Action	Go again						"If you have played an attack action card and another 'non-attack action' action card this turn, create 4 Runechant tokens.
@@ -4603,7 +4603,7 @@ hcRgHbGGNmwCTQMBF6CQh	Spirit of Eirina	2	0					Light, Warrior, Action, Item	Lege
 If Spirit of Eirina would be put into your soul, instead put it into the arena.
 
 You may play Lumina Ascension as though it were an instant."	Light Warrior Action - Item				No	
-Nh7kN9dhkWQhjfr7CfKW7	Spirit of War	1	0	3	3			Light, Warrior, Action, Attack	Charge		Charge				"As an additional cost to play this, you may **charge** your hero's soul.
+Nh7kN9dhkWQhjfr7CfKW7	Spirit of War	1	0	3	3			Light, Warrior, Action, Attack	Charge						"As an additional cost to play this, you may **charge** your hero's soul.
 
 If a yellow card is **charged** this way, whenever an attack action card hits this combat chain, create a Courage token."	Light Warrior Action - Attack				No	
 LKTc8bNLczk7p78FwWzTw	Spoils of War	1	1		3			Warrior, Action	Go again			Go again			"Your next weapon attack this turn gains +2{p} and **go again**.
