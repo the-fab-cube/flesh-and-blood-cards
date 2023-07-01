@@ -5404,6 +5404,11 @@ HpcmJjndDjCmChMWWDnnc	Whisper of the Oracle	2	0		3			Generic, Action	Opt 3, Go a
 CdP6DCmhLMzBWKB7tWcNJ	Whisper of the Oracle	3	0		3			Generic, Action	Opt 2, Go again						"**Opt 2**
 
 **Go again**"	Generic Action					
+K8qRnknckRfM9fJ9fhrcm	Widespread Ruin	1	2	6	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
+
+When the combat chain closes, each hero who has lost {h} this turn banishes the top card of their deck.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack				No	
 fMN6zwqRJGg7mHLpNJM8C	Widowmaker	1	1	4	3			Ranger, Action, Arrow, Attack							"Defense reactions can't be played to Widowmaker's chain link.
 
 If Widowmaker is defended by fewer than 2 cards, it has +3{p}."	Ranger Action - Arrow Attack					
