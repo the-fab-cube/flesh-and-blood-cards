@@ -5396,6 +5396,9 @@ Whenever you play a Shadow non-attack action card, you may pay {h}. If you do, t
 
 Whenever you play a Shadow non-attack action card, you may pay {h}. If you do, the next Runechant effect that would deal damage this turn can't be prevented."	Shadow Runeblade Hero		No		No	
 MFrJG8G8RgrhkpfkD8KWj	Vynserakai			6		1		Draconic, Illusionist, Dragon, Ally							Whenever Vynserakai hits a hero, he deals 3 arcane damage to them.	Draconic Illusionist - Dragon Ally				No	
+mdhBmNB8JHPmK9KzKg7D6	Wall Breaker	1	2	6	3			Shadow, Brute, Action, Attack	Overpower, Blood Debt						"If you've banished a card with 6 or more {p} this turn, this gets **overpower**.
+
+**Blood Debt**"	Shadow Brute Action - Attack				No	
 LdTTQMN8HhrFjcDrLN6rP	Wander With Purpose	2	0	2	3			Ninja, Action, Attack	Benji Specialization, Go again					Combo	"**Benji Specialization**
 
 When this hits, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it, then shuffle. You may play it this turn.
