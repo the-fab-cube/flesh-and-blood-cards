@@ -816,6 +816,13 @@ kmWrWK6PhLjLdr86QDDWP	Chains of Eminence	1	0		2			Generic, Action, Aura	Go again
 When Chains of Eminence enters the arena, name a card. The named card can't be pitched, played or used to defend while Chains of Eminence is in the arena.
 
 At the beginning of your action phase, destroy Chains of Eminence"	Generic Action - Aura				No	
+gGnbNjCkPfRrfc8QTMjgT	Chains of Mephistis	3	0		3			Shadow, Action, Aura	Blood Debt						"You may play this from your banished zone. If you do, it enters the arena with a doom counter.
+
+At the start of your turn, destroy this unless you remove a doom counter from it.
+
+If a hero would draw a card during an action phase, instead they banish the top card of their deck and may play it this turn.
+
+**Blood Debt**"	Shadow Action - Aura				No	
 mCCnJrJQkqJ7KfqKNHGnc	Chane					20	4	Shadow, Runeblade, Hero, Young		Once per Turn Action	Go again	Go again			**Once per Turn Action** - Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains **go again. Go again**	Shadow Runeblade Hero - Young			No		
 MhBTRHCCft7RbrMmkwwGw	Chane, Bound by Shadow					40	4	Shadow, Runeblade, Hero		Once per Turn Action	Go again	Go again			**Once per Turn Action** - Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains **go again. Go again**	Shadow Runeblade Hero		No		No	
 frQkkTNgtwqhkN6Hgq6cj	Channel Lake Frigid	3	2		3			Ice, Action, Aura	Go again, Channel Ice						"**Go again**
@@ -1216,6 +1223,9 @@ If a 'non-attack' action card was pitched to play Diabolic Ultimatum, each hero 
 LFhRKcJC6fbfQjKdqLqp7	Diadem of Dreamstate							Illusionist, Equipment, Head	Ward 2					Ward	"Once per turn, when this or a non-token permanent you control with **ward** is destroyed, you may pay {r}. If you do, create a Ponder token.
 
 **Ward 2**"	Illusionist Equipment - Head				No	
+QgkQT8TfFkgPfKbqmF9pb	Dig Up Dinner	3	1		3			Brute, Action	Go again						"Choose 3 random cards in your graveyard. Shuffle all attack action cards with 6 or more {p} chosen this way into your deck, then gain that much {h}. Banish this.
+
+**Go again**"	Brute Action				No	
 fpmdrrdQ9QwCh6bdphJ68	Dimenxxional Crossroads	2	2		3			Shadow, Runeblade, Action, Aura	Go again						"**Go again**
 
 Whenever you play an attack action card or a 'non-attack' action card from the banished zone, if you haven't played another card of that type this turn, deal 1 arcane damage to target hero.
@@ -1630,6 +1640,11 @@ If Entwine Lightning was **fused**, it gains **go again**."	Elemental Action - A
 JqTFK6frf7P9WngJCg76P	Entwine Lightning	3	0	2	2			Elemental, Action, Attack	Lightning Fusion, Go again						"**Lightning Fusion**
 
 If Entwine Lightning was **fused**, it gains **go again**."	Elemental Action - Attack					
+jTt8B8LqdBkCkwNwbGW8n	Envelop in Darkness	1	1		2			Shadow, Runeblade, Action	Go again						"Create a Runechant token.
+
+The next attack action card you **rune gate** this turn gets +3{p}.
+
+**Go again**"	Shadow Runeblade Action				No	
 CnzHmjrhb7TTzGJppkpfc	Eradicate	2	1	4	3			Assassin, Action, Attack	Contract						"**Contract** - You are contracted to banish opponents' yellow cards. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top X cards of their deck, where X is the damage dealt by Eradicate."	Assassin Action - Attack				No	
@@ -2076,6 +2091,11 @@ fNGtM6WDcWMR6DcmjtRdw	Great Library of Solana		2					Light, Action, Landmark	Leg
 At the beginning of each end phase, if a hero has 2 or more cards with yellow color strips in their pitch zone, they gain +1{i} until end of turn.
 
 **Action** - Discard 2 cards with yellow color strips: Destroy Great Library of Solana. Any hero may activate this ability. **Go again**"	Light Action - Landmark	Yes			No	
+nqLhpPdNcfDcWHgLkQrM9	Grim Feast	1	3		2			Shadow, Action	Blood Debt						"You may play this from your banished zone. If you do, it costs {r}{r} less to play.
+
+Gain 3{h}
+
+**Blood Debt**"					No	
 wLbNLfGtn86JfCTKBdMRg	Guardian of the Shadowrealm	1	2		6			Shadow, Defense Reaction	Blood Debt	Action					"**Action** - {r}{r}: Return Guardian of the Shadowrealm from your banished zone into your hand. Activate this ability only while Guardian of the Shadowrealm is in your banished zone.
 
 **Blood Debt**"	Shadow Defense Reaction				No	
@@ -2319,6 +2339,11 @@ gcfNgcdDLzRGCmpfWnKqF	Hundred Winds	2	0	2	2			Ninja, Action, Attack	Combo, Go ag
 JbrwN8cw6hzWNFg9cMrFH	Hundred Winds	3	0	1	2			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Hundred Winds was the last attack this combat chain, this attack gains +1{p} for each other card named Hundred Winds you control on this combat chain.
 
 **Go again**"	Ninja Action - Attack				No	
+bCTrnKTgwNCWbWrMFDTHr	Hungering Demigon	1	2	6	3			Shadow, Action, Attack	Blood Debt						"If an opposing hero has 1 or more cards in their soul, you may play this from your banished zone.
+
+When this hits a hero, banish a card from their soul.
+
+**Blood Debt**"	Shadow Action - Attack				No	
 NPGdfQqhRB8krzLLHpzDC	Hungering Slaughterbeast	1	2	7	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play Hungering Slaughterbeast, banish 3 random cards from your graveyard.
 
 **Blood Debt**"	Shadow Brute Action - Attack					
@@ -3579,6 +3604,9 @@ pP7GCzgTjQPMNLBFfRbBw	Rake the Embers	3	1		2			Draconic, Illusionist, Action	Tra
 68J8LFDffgJ8j6RJ6FhmD	Rally the Rearguard	1	2	6	2			Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: Rally the Rearguard gains +3{d}. Activate this ability only while Rally the Rearguard is defending.	Generic Action - Attack					
 hKdWPHqc8bLM9Nkbwmncc	Rally the Rearguard	2	2	5	2			Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: Rally the Rearguard gains +3{d}. Activate this ability only while Rally the Rearguard is defending.	Generic Action - Attack					
 LQjBwTpQK6MR6LNkpnNPK	Rally the Rearguard	3	2	4	2			Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: Rally the Rearguard gains +3{d}. Activate this ability only while Rally the Rearguard is defending.	Generic Action - Attack					
+RpM6tCjLdHHdfWcFbJrK6	Ram Raider	1	2	6	3			Shadow, Brute, Action, Attack	Blood Debt, Go again						"As an additional cost to play this, banish a random card from your hand. If a card with 6 or more {p} is banished this way, this gets **go again**.
+
+**Blood Debt**"	Shadow Brute Action - Attack				No	
 dfzBMM9Tm8Q8jRWdQKp97	Rampart of the Ram's Head				0			Guardian, Equipment, Off-Hand							Whenever you defend with Rampart of the Ram's Head, you may pay {r}. If you do, it gains +1{d} until end of turn.	Guardian Equipment - Off-Hand				No	
 DbKkp8BjFgtCBGjQCbwjH	Rapid Fire	2	0		2			Ranger, Action	Reload			Go again			"Until end of turn, arrows you control gain **go again**.
 
@@ -3942,6 +3970,9 @@ The next card you play this turn with an effect that deals arcane damage, instea
 gKGT9RtDz7RGgtLWKkhgJ	Rout	1	2		3			Warrior, Attack Reaction	Reprise						"Target weapon attack gains +3{p}.
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, you may return target non-equipment defending card to its owners hand."	Warrior Attack Reaction				No	
+JGTWPHkq97qTw6qtMgNHN	Rugged Roller			6				Brute, Weapon, Club, 2H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
+
+Activate Rugged Roller only if you've rolled a 6 on a die this turn."	Brute Weapon - Club (2H)					
 hww9qcDJ9r99NFhL6ctBd	Rumble Grunting	1	0		3			Brute, Action	Go again						"Play Rumble Grunting only if you've discarded a card with 6 or more {p} this turn.
 
 Your next Brute attack this turn gains +4{p}.
@@ -4006,6 +4037,11 @@ JKhQ7hPQnhbqnwpfcBzQh	Runic Reaping	3	1		2			Runeblade, Action	Go again						"Th
 If an attack card was pitched to play Runic Reaping, the next Runeblade attack action card you play this turn gains +1{p}.
 
 **Go again**"	Runeblade Action					
+MbWDqNtrDdJWLWNCNDQpB	Runic Reckoning	1	1		3			Runeblade, Action	Go again						"This costs {r} less to play for each Runechant you control.
+
+The next Runeblade attack action card you play this turn gets +3{p}.
+
+**Go again**"	Runeblade Action				No	
 gBdLwdzLq6zrMGbHKpKfw	Runic Reclamation	1	3	7	3			Runeblade, Action, Attack							When Runic Reclamation hits a hero, destroy target aura they control. If you do, create a Runechant token.	Runeblade Action - Attack				No	
 wmN6kmKhktkmfhWtqLmHm	Rushing River	1	0	3	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack				No	
 cdcnJRkcCzJkDmb7NwnPQ	Rushing River	2	0	2	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack				No	
@@ -4538,6 +4574,9 @@ Shuffle your deck. Banish Sonata Arcanix.
 fbm7LndJccMBQqdCWQmd6	Sonic Boom	2	2		3			Wizard, Action							"Deal 3 arcane damage to target opposing hero.
 
 If Sonic Boom deals damage, look at the top card of your deck. If it's a Wizard 'non-attack' action card, you may banish it. If you do, you may play it this turn as though it were an instant and it costs X resource points less to play, where X is the damage dealt by Sonic Boom."	Wizard Action				No	
+LPRLWKpH6RBtzL6Jh7L7z	Soul Butcher	1	2	6	2			Shadow, Action, Attack	Blood Debt						"If the defending hero has 1 or more cards in their soul, this gets +2{p}.
+
+**Blood Debt**"	Shadow Action - Attack					
 kkcHdRDmJT7pHqPzMRRwp	Soul Food	2	0		2			Light, Action							Put Soul Food and all cards in your hand into your hero's soul.	Light Action				No	
 G8kbQ7Q6wgqdrcQgLGQpP	Soul Harvest	3	6	6	3			Shadow, Action, Attack	Legendary, Levia Specialization					Blood Debt	"**Legendary Levia Specialization**
 
@@ -5260,6 +5299,9 @@ FhWgTR7RdKBTrfDhPWGrt	Vantom Banshee	2	3	6	3			Shadow, Runeblade, Action, Attack
 tfJTWDjLzBdrDjWm9NnmN	Vantom Banshee	3	3	5	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
 
 **Blood Debt**"	Shadow Runeblade Action - Attack					
+kLzphMK8g6dLhFRf7Tdph	Vantom Wraith	1	2	6	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
+
+**Blood Debt**"	Shadow Runeblade Action - Attack					
 HzC8krcLnWNQLrDdHGgCr	Veiled Intentions	1	1		2			Illusionist, Action	Go again						"**Go again**
 
 The next attack action card you play this turn is Illusionist in addition to its other card, and gains +4{p}, **phantasm**, and ""When this is destroyed, draw a card."""	Illusionist Action					
@@ -5296,6 +5338,11 @@ When Victoria attacks, you may banish a card from your hero's soul. If you do, a
 dQR8fwBWNN6HPz7tzBCbk	Vigor Rush	1	1	4	2			Generic, Action, Attack	Go again						If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.	Generic Action - Attack					
 8p8KrLDmJnf6rMpTjQ6R6	Vigor Rush	2	1	3	2			Generic, Action, Attack	Go again						If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.	Generic Action - Attack					
 tjqTCGp8GFF7FzTHqzBhW	Vigor Rush	3	1	2	2			Generic, Action, Attack	Go again						If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.	Generic Action - Attack					
+rDbWdFWLzh9Q8KFmg9jnj	Vile Inquisition	3	2		3			Shadow, Action	Blood Debt						"You may play this from your banished zone. If you do, it costs {r}{r} less to play.
+
+Target hero banishes the top card of their deck. If it's blue, they lose 1{h}.
+
+**Blood Debt**"	Shadow Action				No	
 mcF6F69HgBntfh7QKkHWw	Vipox	1	0	1	3			Generic, Action, Attack							When Vipox hits a hero, they lose {h} equal to the number of cards in their hand.	Generic Action - Attack				No	
 JrjbG9mbwQC8zQcnPRhHg	Virulent Touch	1	0	4	2			Assassin, Ranger, Action, Attack							"Virulent Touch can't be played from hand.
 
