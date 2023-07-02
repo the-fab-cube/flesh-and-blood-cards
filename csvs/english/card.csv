@@ -315,6 +315,9 @@ jnptttBbHJCwHBC99PMkF	Battering Bolt	1	2	6	3			Ranger, Action, Arrow, Attack				
 f8wtgfmb6wRGbJH9bqtRw	Battlefield Blitz	1	1	5	3			Light, Warrior, Action, Attack	Go again					Charge	If you've **charged** this turn, Battlefield Blitz gains **go again**.	Light Warrior Action - Attack				No	
 Wg7zz9866gDH6BmjMNGd8	Battlefield Blitz	2	1	4	3			Light, Warrior, Action, Attack	Go again					Charge	If you've **charged** this turn, Battlefield Blitz gains **go again**.	Light Warrior Action - Attack				No	
 MCnQLD9M7WTthcfmtJhD8	Battlefield Blitz	3	1	3	3			Light, Warrior, Action, Attack	Go again					Charge	If you've **charged** this turn, Battlefield Blitz gains **go again**.	Light Warrior Action - Attack				No	
+N6bcFGQTBQ7pcWRkWTz8m	Battlefield Breaker	1	3	7	3			Shadow, Brute, Action, Attack	Blood Debt						"If you've banished a card with 6 or more {p} this turn, this gets +1{p}.
+
+**Blood Debt**"	Shadow Brute Action - Attack					
 F6FCWBgBckkm8pn89TCfn	Be Like Water	1	0	3	2			Ninja, Action, Attack	Go again						"When this hits, you may pay {r}. If you do, choose Head Jab, Surging Strike, or Twin Twisters. This gains the chosen name.
 
 **Go again**"	Ninja Action - Attack					
@@ -368,6 +371,9 @@ The first time an attack action card you control hits each turn, your next attac
 mGqzLzjTgNjr7qJGMTjtW	Berserk	2	1		3			Brute, Action	Go again						"Until end of turn, whenever you discard a random card with 6 or more {p}, banish it. If you do, reveal the top card of your deck. If it has 6 or more {p}, draw a card.
 
 **Go again**"	Brute Action				No	
+K7LtdBPqbcKqQQ9h7GL9k	Beseech the Demigon	1	0		2			Shadow, Action	Go again						"Choose an attack action card in your banished zone. It gets +3{p} until end of turn.
+
+**Go again**"	Shadow Action					
 jCLhjJp9PcgJFQHQfLQrf	Billowing Mirage	1	1	3	3			Draconic, Illusionist, Action, Attack	Transform, Go again						"When you attack with Billowing Mirage, **transform** up to 1 ash you control into an Aether Ashwing.
 
 **Go again**"	Draconic Illusionist Action - Attack					
@@ -425,6 +431,11 @@ Your next weapon attack this turn gains +2{p}."	Warrior Attack Reaction
 RHgCJmWQWbPNf6pTDknLc	Blade Runner	3	1		3			Warrior, Attack Reaction				Go again			"Target 1H weapon attack gains **go again**.
 
 Your next weapon attack this turn gains +1{p}."	Warrior Attack Reaction					
+dbrfzmNJ9ccB9CW68pmQp	Blasmophet, Levia Consumed					13	4	Shadow, Demi-Hero, Demon	Legendary, Levia Specialization, Transform					Blood Debt	"**Legendary Levia Specialization**
+
+While this is in your inventory, when **blood debt** reduces your {h} to 13, you may **transform** into Blasmophet, Levia Consumed.
+
+Once each turn, you may play a card with **blood debt** from your banished zone. Whenever a card is put into your banished zone, turn it face-down. If you would lose {h} from **blood debt**, instead banish the top card of the deck."	Shadow Demi-Hero - Demon				No	
 qJ8HCWnpHbPRGRGpt86Cb	Blasmophet, the Soul Harvester			6		6		Shadow, Token, Demon, Ally		Once per Turn Action	Attack				"**Once per Turn Action** - 0: **Attack**
 
 Whenever Blasmophet attacks, you may banish a Shadow card from your hand. If you do, you may banish a card from the defending hero's soul."	Shadow Token - Demon Ally					
@@ -1635,6 +1646,9 @@ LDCrQmNm8bFk8wcCJ6pj9	Even Bigger Than That!	3	0					Generic, Instant	Opt 1					
 tfdr8MdNBHPQjKn9FJCT6	Evergreen	1	3	7	2			Earth, Action, Attack							If Evergreen is played from arsenal, put it on the bottom of its owner's deck when the combat chain closes.	Earth Action - Attack				No	
 JTc7kdrn9kHtq7LdJ8pQW	Evergreen	2	3	6	2			Earth, Action, Attack							If Evergreen is played from arsenal, put it on the bottom of its owner's deck when the combat chain closes.	Earth Action - Attack				No	
 nRDPrpfRT9gGCWf9K8nBT	Evergreen	3	3	5	2			Earth, Action, Attack							If Evergreen is played from arsenal, put it on the bottom of its owner's deck when the combat chain closes.	Earth Action - Attack				No	
+dWbFtRKNWnmPBPpBLrFqF	Expendable Limbs	3	0		4			Shadow, Brute, Defense Reaction							"As an additional cost to play this, banish a random card from your hand.
+
+If a card with 6 or more {p} is banished this way, you may play it from your banished zone during your next action phase."	Shadow Brute Defense Reaction				No	
 GNLcn7HJG7MfhgGMQDPJ7	Explosive Growth	1	1	3	3			Elemental, Runeblade, Action, Attack	Earth Fusion						"**Earth Fusion**
 
 If Explosive Growth was **fused**, whenever it deals damage, attacks gain +1{p} this combat chain.
@@ -2314,13 +2328,13 @@ zTFWnGk7cdjrPfHGW8C8w	Hungering Slaughterbeast	2	2	6	3			Shadow, Brute, Action, 
 mhddn6pK9fJTpdqWP67tL	Hungering Slaughterbeast	3	2	5	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play Hungering Slaughterbeast, banish 3 random cards from your graveyard.
 
 **Blood Debt**"	Shadow Brute Action - Attack					
-D9hnm7hf7fWbFWtqKbKFb	Hurl	1	0	3	2			Assassin, Ninja, Action, Attack	Go Again						"As an additional cost to play Hurl, you may pay {r}. When you do, it gains ""When this attacks, target dagger you control deals 1 damage to target hero. If damage is dealt this way, the dagger has hit. Destroy the dagger.""
+D9hnm7hf7fWbFWtqKbKFb	Hurl	1	0	3	2			Assassin, Ninja, Action, Attack	Go again						"As an additional cost to play Hurl, you may pay {r}. When you do, it gains ""When this attacks, target dagger you control deals 1 damage to target hero. If damage is dealt this way, the dagger has hit. Destroy the dagger.""
 
 **Go again**"	Assassin / Ninja Action - Attack				No	
-RdwgJFC9Lq8rmrgG8fjKf	Hurl	2	0	2	2			Assassin, Ninja, Action, Attack	Go Again						"As an additional cost to play Hurl, you may pay {r}. When you do, it gains ""When this attacks, target dagger you control deals 1 damage to target hero. If damage is dealt this way, the dagger has hit. Destroy the dagger.""
+RdwgJFC9Lq8rmrgG8fjKf	Hurl	2	0	2	2			Assassin, Ninja, Action, Attack	Go again						"As an additional cost to play Hurl, you may pay {r}. When you do, it gains ""When this attacks, target dagger you control deals 1 damage to target hero. If damage is dealt this way, the dagger has hit. Destroy the dagger.""
 
 **Go again**"	Assassin / Ninja Action - Attack				No	
-KJT8g9znGjfbKW9BhHrNc	Hurl	3	0	1	2			Assassin, Ninja, Action, Attack	Go Again						"As an additional cost to play Hurl, you may pay {r}. When you do, it gains ""When this attacks, target dagger you control deals 1 damage to target hero. If damage is dealt this way, the dagger has hit. Destroy the dagger.""
+KJT8g9znGjfbKW9BhHrNc	Hurl	3	0	1	2			Assassin, Ninja, Action, Attack	Go again						"As an additional cost to play Hurl, you may pay {r}. When you do, it gains ""When this attacks, target dagger you control deals 1 damage to target hero. If damage is dealt this way, the dagger has hit. Destroy the dagger.""
 
 **Go again**"	Assassin / Ninja Action - Attack				No	
 BRbggWh7bBGWNgDPP7Rrg	Hurricane Technique	2	1	4	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Rising Knee Thrust was the last attack this combat chain, Hurricane Technique gains +1{p}, **go again**, and ""If Hurricane Technique hits, put it into your hand."""	Ninja Action - Attack				No	
@@ -2633,6 +2647,11 @@ Deal 3 arcane damage to target opposing hero.
 
 If Lesson in Lava deals damage, you may search your deck for a Wizard card with {r} cost equal to or less than the damage dealt by Lesson in Lava, reveal it, then shuffle your deck and put it on top of your deck."	Wizard Action				No	
 WwzJLfPwhRTkFLDNjJPrk	Levia					20	4	Shadow, Brute, Hero, Young					Blood Debt		If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose **blood debt** during the end phase.	Shadow Brute Hero - Young			No		
+qjqqRn6kHWHGz6PQGWd7z	Levia, Redeemed					8	4	Shadow, Demi-Hero	Legendary, Levia Specialization	Action	Transform		Blood Debt	Blood Debt	"**Legendary Levia Specialization**
+
+**Action** - Turn all cards in your banished zone face-down: **Transform** into Levia, Redeemed. Activate this ability only while this is in your inventory and you have 13 or more cards with **blood debt** in your banished zone.
+
+Cards you own lose **blood debt**."	Shadow Demi-Hero				No	
 KCwnGqDJtnmJfth7fn8Qq	Levia, Shadowborn Abomination					40	4	Shadow, Brute, Hero					Blood Debt		If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose **blood debt** during the end phase.	Shadow Brute Hero		No		No	
 GFc7t8wNTwC8rCFwrqTfh	Lexi					20	4	Elemental, Ranger, Hero, Young	Essence of Ice and Lightning	Once per Turn Action	Go again	Go again			"**Essence of Ice and Lightning**
 
@@ -2992,6 +3011,7 @@ n8rcTcmmLzzwTWHCwgtRP	Nullrune Boots				0			Generic, Equipment, Legs	Arcane Barr
 9bWHjnFmfDBDtkmKtCCrw	Nullrune Gloves				0			Generic, Equipment, Arms	Arcane Barrier 1						**Arcane Barrier 1**	Generic Equipment - Arms					
 9DNnTrggQrJWn8CMFJJhf	Nullrune Hood				0			Generic, Equipment, Head	Arcane Barrier 1						**Arcane Barrier 1**	Generic Equipment - Head					
 TKd8jdfqgWnjdNRBmkKfB	Nullrune Robe				0			Generic, Equipment, Chest	Arcane Barrier 1						**Arcane Barrier 1**	Generic Equipment - Chest					
+tDjBgLK9QzgrFzLHzwBnC	Numbskull	1	2	6	3			Brute, Action, Attack							While this is in any zone, its {r} cost to play, {p}, and {d} can't be modified.	Brute Action - Attack				No	
 JfJ7hNnCDL9GDCwfrWBBc	Oaken Old	1	3	7	3			Elemental, Guardian, Action, Attack	Earth and Ice Fusion, Dominate						"**Earth and Ice Fusion**
 
 If Oaken Old was **fused**, it gains +2{p}, **dominate**, and ""If this hits a hero, they put 2 random cards from their hand on the bottom of their deck in any order."""	Elemental Guardian Action - Attack				No	
@@ -3286,13 +3306,13 @@ When this hits a hero, banish the top card of their deck."	Assassin Action - Att
 LTtJknPgn6fpRWcgHkMJJ	Plunder the Poor	3	0	2	3			Assassin, Action, Attack	Contract						"**Contract** - You are contracted to banish opponents' cards with cost 1 or less. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."	Assassin Action - Attack				No	
-JbKPW9kCnmkqTqpBMCMWW	Plunge	1	1	3	2			Assassin, Ninja, Action, Attack	Go Again						"When this hits, your next dagger attack this turn gains +1{p}.
+JbKPW9kCnmkqTqpBMCMWW	Plunge	1	1	3	2			Assassin, Ninja, Action, Attack	Go again						"When this hits, your next dagger attack this turn gains +1{p}.
 
 **Go again**"	Assassin / Ninja Action - Attack					
-g6BdLTWJMrQrbR77nnDrf	Plunge	2	1	2	2			Assassin, Ninja, Action, Attack	Go Again						"When this hits, your next dagger attack this turn gains +1{p}.
+g6BdLTWJMrQrbR77nnDrf	Plunge	2	1	2	2			Assassin, Ninja, Action, Attack	Go again						"When this hits, your next dagger attack this turn gains +1{p}.
 
 **Go again**"	Assassin / Ninja Action - Attack					
-bzrT9j7m9tGmr8BbKKk9J	Plunge	3	1	1	2			Assassin, Ninja, Action, Attack	Go Again						"When this hits, your next dagger attack this turn gains +1{p}.
+bzrT9j7m9tGmr8BbKKk9J	Plunge	3	1	1	2			Assassin, Ninja, Action, Attack	Go again						"When this hits, your next dagger attack this turn gains +1{p}.
 
 **Go again**"	Assassin / Ninja Action - Attack					
 tqJNQ68KhJHWdJN8mFrdq	Point the Tip	1	0		2			Ranger, Action	Go again						"Target face up arrow in your arsenal gains +3{p} until end of turn. Put an aim counter on it.
@@ -4084,6 +4104,9 @@ rfzK67PqGLCLKL6w8GhLp	Scout the Periphery	3	0		2			Generic, Action	Go again					
 The next attack action card you play from arsenal this turn gains +1{p}.
 
 **Go again**"	Generic Action					
+czpGHfkkmgF6kFCQjfcC8	Scowling Flesh Bag				2			Brute, Equipment, Head	Intimidate, Blade Break						"When this defends, **intimidate**.
+
+**Blade Break**"	Brute Equipment - Head				No	
 PBhph96BBWgk6khphzBJM	Scramble Pulse	1	2	5	3			Mechanologist, Action, Attack	Boost						"Equipment have -1{d} while defending this combat chain.
 
 **Boost**"	Mechanologist Action - Attack				No	
@@ -4210,6 +4233,11 @@ MDhfpQwtDBtKLhT6Cn7f7	Semblance	3	3					Illusionist, Instant					Phantasm	Phanta
 QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breaker of Dawn					40	4	Light, Warrior, Hero		Attack Reaction		Go again		Charge	"If you've **charged** this turn, attacks you control have +1{p} while defended by an attack action card.
 
 **Attack Reaction** - Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains **go again**."	Light Warrior Hero		No		No	
+KDfgLjtcbGWjJTqJcgQcH	Shaden Scream	1	0		3			Shadow, Brute, Action	Go again						"As an additional cost to play this, banish a random card from hand.
+
+Your next Brute or Shadow attack this turn gets +5{p}.
+
+**Go again**"	Shadow Brute Action				No	
 wHLwWJFBzB7DwgjKqzcq7	Shadow of Blasmophet	1	2	6				Shadow, Brute, Action, Attack	Blood Debt					Blood Debt	"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, search your deck for a card with **blood debt**, banish it, then shuffle your deck.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	
@@ -4510,11 +4538,6 @@ Shuffle your deck. Banish Sonata Arcanix.
 fbm7LndJccMBQqdCWQmd6	Sonic Boom	2	2		3			Wizard, Action							"Deal 3 arcane damage to target opposing hero.
 
 If Sonic Boom deals damage, look at the top card of your deck. If it's a Wizard 'non-attack' action card, you may banish it. If you do, you may play it this turn as though it were an instant and it costs X resource points less to play, where X is the damage dealt by Sonic Boom."	Wizard Action				No	
-KPcKCKn8CpthtjNrk6fC8	Soulbond Resolve				2			Light, Warrior, Equipment, Chest	Charge, Temper					Charge	"When this defends, you may **charge** your hero's soul.
-
-The first time you would be dealt damage each turn, if you've **charged** this turn, prevent 1 of that damage.
-
-**Temper**"	Light Warrior Equipment - Chest				No	
 kkcHdRDmJT7pHqPzMRRwp	Soul Food	2	0		2			Light, Action							Put Soul Food and all cards in your hand into your hero's soul.	Light Action				No	
 G8kbQ7Q6wgqdrcQgLGQpP	Soul Harvest	3	6	6	3			Shadow, Action, Attack	Legendary, Levia Specialization					Blood Debt	"**Legendary Levia Specialization**
 
@@ -4531,6 +4554,11 @@ BczHzGkDc8h997tK8RrbQ	Soul Shield	2	2		6			Light, Defense Reaction							Put Sou
 DH8zBCdjRpQmLKgbnRF8q	Soulbead Strike	1	0	4	3			Ninja, Action, Attack	Go again						If Soulbead Strike hits, it gains **go again**.	Ninja Action - Attack					
 gz8JNPJGQNgq66jKkBzbD	Soulbead Strike	2	0	3	3			Ninja, Action, Attack	Go again						If Soulbead Strike hits, it gains **go again**.	Ninja Action - Attack					
 DFrMBQFPRf7hTrcCwrRKd	Soulbead Strike	3	0	2	3			Ninja, Action, Attack	Go again						If Soulbead Strike hits, it gains **go again**.	Ninja Action - Attack					
+KPcKCKn8CpthtjNrk6fC8	Soulbond Resolve				2			Light, Warrior, Equipment, Chest	Charge, Temper					Charge	"When this defends, you may **charge** your hero's soul.
+
+The first time you would be dealt damage each turn, if you've **charged** this turn, prevent 1 of that damage.
+
+**Temper**"	Light Warrior Equipment - Chest				No	
 nHTRFgmcjhjRWrN9jWn9k	Sow Tomorrow	1	1		2			Earth, Action	Go again						"Put target Earth or Elemental action card with cost 0 or greater from your graveyard on the bottom of your deck. Banish Sow Tomorrow.
 
 If Sow Tomorrow is played from arsenal, draw a card.
@@ -5116,6 +5144,16 @@ rmTKDcDNJrDFRMdKrRmdH	Trench of Sunken Treasure				1			Ranger, Equipment, Chest	
 6GBcGgr77phGjWjbjNbRn	Tri-shot	3	0		3			Ranger, Action	Go again						"You may activate target bow you control 2 additional times this turn.
 
 **Go again**"	Ranger Action				No	
+9DzCbwH7RdNQ7cJCHpCKC	Tribute to Demolition	1	2	6	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play this, banish a random card from your hand.
+
+If a card with 6 or more {p} is banished this way, this gets +2{p}.
+
+**Blood Debt**"	Shadow Brute Action - Attack					
+wBDCLLQfL9TF6MCfTFGWT	Tribute to the Legions of Doom	1	3	7	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play this, banish a random card from your hand.
+
+If a card with 6 or more {p} is banished this way, this gets +2{p}.
+
+**Blood Debt**"	Shadow Brute Action - Attack					
 WBpk6grrPj6wP8qgc9q9h	Tripwire Trap	1	0		4			Ranger, Defense Reaction, Trap							"Tripwire Trap can only be played from arsenal.
 
 When this defends, effects don't trigger when an attack hits this chain link unless the attacking hero pays {r}."	Ranger Defense Reaction - Trap				No	

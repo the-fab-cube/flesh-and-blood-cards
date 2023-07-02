@@ -1,5 +1,13 @@
 [
     {
+        "unique_id": "rTHPJJPwtDCgDfcwPGQGF",
+        "name": "1H"
+    },
+    {
+        "unique_id": "Gww6n8bCkqKpnFDpGRLcP",
+        "name": "2H"
+    },
+    {
         "unique_id": "FwdBrBrwHWcPN78TcRCMT",
         "name": "Action"
     },
@@ -90,6 +98,10 @@
     {
         "unique_id": "Fpr7Gq7zcGDkdcHjNPr8n",
         "name": "Defense Reaction"
+    },
+    {
+        "unique_id": "bpfz7p7r6CLggKRCccT8p",
+        "name": "Demi-Hero"
     },
     {
         "unique_id": "kchhNfctqPFht6DFNRWhJ",
@@ -298,13 +310,5 @@
     {
         "unique_id": "QPtmrBGhLFbnpFMQznnwH",
         "name": "Young"
-    },
-    {
-        "unique_id": "rTHPJJPwtDCgDfcwPGQGF",
-        "name": "1H"
-    },
-    {
-        "unique_id": "Gww6n8bCkqKpnFDpGRLcP",
-        "name": "2H"
     }
 ]
