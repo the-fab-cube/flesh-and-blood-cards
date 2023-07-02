@@ -5307,6 +5307,9 @@ JHNhMDgMfMRWKQzwnQN88	Voltic Bolt	3	2		3			Wizard, Action							Deal 3 arcane da
 WhKb7MKbcDLhGThWGP8hT	Vynnset					20	4	Shadow, Runeblade, Hero, Young							"At the start of your turn, banish a card from your hand. If you do, create a Runechant token.
 
 Whenever you play a Shadow non-attack action card, you may pay {h}. If you do, the next Runechant effect that would deal damage this turn can't be prevented."	Shadow Runeblade Hero - Young			No		
+9CwWmnzhhfLbJgc6q7Hm7	Vynnset, Iron Maiden					40	4	Shadow, Runeblade, Hero							"At the start of your turn, banish a card from your hand. If you do, create a Runechant token.
+
+Whenever you play a Shadow non-attack action card, you may pay {h}. If you do, the next Runechant effect that would deal damage this turn can't be prevented."	Shadow Runeblade Hero		No		No	
 MFrJG8G8RgrhkpfkD8KWj	Vynserakai			6		1		Draconic, Illusionist, Dragon, Ally							Whenever Vynserakai hits a hero, he deals 3 arcane damage to them.	Draconic Illusionist - Dragon Ally				No	
 LdTTQMN8HhrFjcDrLN6rP	Wander With Purpose	2	0	2	3			Ninja, Action, Attack	Benji Specialization, Go again					Combo	"**Benji Specialization**
 
@@ -5415,6 +5418,11 @@ HpcmJjndDjCmChMWWDnnc	Whisper of the Oracle	2	0		3			Generic, Action	Opt 3, Go a
 CdP6DCmhLMzBWKB7tWcNJ	Whisper of the Oracle	3	0		3			Generic, Action	Opt 2, Go again						"**Opt 2**
 
 **Go again**"	Generic Action					
+QMWDbQKHnWCcj8zrpmTMk	Widespread Annihilation	3	4	6	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
+
+When the combat chain closes, each hero who has lost {h} this turn banishes a card from their hand.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack				No	
 dTJpQ9hGCQBrDGzt6jgCC	Widespread Destruction	2	3	6	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
 
 When the combat chain closes, each hero who has lost {h} this turn banishes a card from their arsenal.
