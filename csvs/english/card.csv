@@ -1,10 +1,10 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-zMbD7hqPwGNQCcDC6DPB9	Hell Hammer			6				Shadow, Brute, Weapon, Hammer, 2H	Blood Debt	Once per Turn Action	Attack				"**Once per Turn Action - {r}{r}: Attack**
+zMbD7hqPwGNQCcDC6DPB9	Hell Hammer			6				Shadow, Brute, Weapon, Hammer, 2H	Blood Debt	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
 When the combat chain closes, if this attacked, banish it.
 
 **Blood Debt**"	Shadow Brute Weapon - Hammer (2H)					
-jtjBwktMzPCDdwFgKtWT6	Spoiled Skull							Shadow, Brute, Equipment, Head	Arcane Barrier 1, Blood Debt, Go again	Instant					"**Action - {r}**, banish this: Target 3 action cards with different names in your banished zone and chose one at random. You may play it this turn. **Go again**
+jtjBwktMzPCDdwFgKtWT6	Spoiled Skull							Shadow, Brute, Equipment, Head	Arcane Barrier 1, Blood Debt, Go again	Instant					"**Action** - {r}, banish this: Target 3 action cards with different names in your banished zone and chose one at random. You may play it this turn. **Go again**
 
 **Arcane Barrier 1**
 
@@ -12,7 +12,7 @@ jtjBwktMzPCDdwFgKtWT6	Spoiled Skull							Shadow, Brute, Equipment, Head	Arcane 
 NJnDKMhtRtcWptfC8pwWM	Diabolic Offering	3	1	*	*			Shadow, Brute, Action, Attack	Blood Debt						"If a card with 6 ore more {p} has been put into your banished zone this turn, Daibolic Offering's {p} and {d} are 6, otherwise they are 0.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	
-JzbrzpFDKnwQJfD7h8CkQ	Shaden Death Hydra	2	6	13	3			Shadow, Brute, Action, Attack	Blood Debt						"When this attacks, it deals X damage to you, where X is 13 minus the number of cards with **blood debt** in your banished zone.
+JzbrzpFDKnwQJfD7h8CkQ	Shaden Death Hydra	2	6	13	3			Shadow, Brute, Action, Attack	Blood Debt					Blood Debt	"When this attacks, it deals X damage to you, where X is 13 minus the number of cards with **blood debt** in your banished zone.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	
 qB6nBWTRKkJWQrmNRNN8t	Slithering Shadowpede	1	1	6				Shadow, Brute, Action, Attack	Blood Debt						"If this was banished from your hand this turn, you may play it from your banished zone.
@@ -76,21 +76,21 @@ Fn8bTWKkJC77cqjfPmkjC	Deathly Wail	3	3	6	3			Shadow, Runeblade, Action, Attack	R
 When the combat chain closes, create Runechant tokens equal to the number of heroes who have lost {h} this turn.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack				No	
-7QhWMkPGMbFjHqn7rk9Gq	Putrid Stirrings	1	3		3			Shadow, Runeblade, Action	Blood Debt, Go again, Rune Gate						"You may play this from your banished zone.
+7QhWMkPGMbFjHqn7rk9Gq	Putrid Stirrings	1	3		3			Shadow, Runeblade, Action	Blood Debt, Go again					Rune Gate	"You may play this from your banished zone.
 
 The next attack action card you **rune gate** this turn gets +5{p}.
 
 **Go again**
 
 **Blood debt**"	Shadow Runeblade Action					
-Kcp6zfhjQtdpz8PpKfPPh	Putrid Stirrings	2	3		3			Shadow, Runeblade, Action	Blood Debt, Go again, Rune Gate						"You may play this from your banished zone.
+Kcp6zfhjQtdpz8PpKfPPh	Putrid Stirrings	2	3		3			Shadow, Runeblade, Action	Blood Debt, Go again					Rune Gate	"You may play this from your banished zone.
 
 The next attack action card you **rune gate** this turn gets +4{p}.
 
 **Go again**
 
 **Blood debt**"	Shadow Runeblade Action					
-mnhNFLR7HKQHf8KNpnFB6	Putrid Stirrings	3	3		3			Shadow, Runeblade, Action	Blood Debt, Go again, Rune Gate						"You may play this from your banished zone.
+mnhNFLR7HKQHf8KNpnFB6	Putrid Stirrings	3	3		3			Shadow, Runeblade, Action	Blood Debt, Go again					Rune Gate	"You may play this from your banished zone.
 
 The next attack action card you **rune gate** this turn gets +3{p}.
 
@@ -666,13 +666,13 @@ hwhRPmcc9nMh6tTjLz6fw	Blessing of Patience	2	1		3			Guardian, Action, Aura						
 TjwzWpWmkqtGd6WhLCmwN	Blessing of Qi	1	1		3			Ninja, Action, Aura							At the start of your turn, destroy Blessing of Qi then create a Crouching Tiger in your banished zone. It gains +3{p} and you may play it this turn.	Ninja Action - Aura				No	
 m7ThmjJFr8DhTq96q9BJc	Blessing of Qi	2	1		3			Ninja, Action, Aura							At the start of your turn, destroy Blessing of Qi then create a Crouching Tiger in your banished zone. It gains +2{p} and you may play it this turn.	Ninja Action - Aura				No	
 G9WT8dKmmQFdP7jmtqwqC	Blessing of Qi	3	1		3			Ninja, Action, Aura							At the start of your turn, destroy Blessing of Qi then create a Crouching Tiger in your banished zone. It gains +1{p} and you may play it this turn.	Ninja Action - Aura				No	
-wrBQwfbdTLz8HzMWFQWRn	Blessing of Salvation	1	1					Light, Action							"If a card has been put into you hero's soul this turn, you may play this as though it were and instant.
+wrBQwfbdTLz8HzMWFQWRn	Blessing of Salvation	1	1		2			Light, Action							"If a card has been put into you hero's soul this turn, you may play this as though it were and instant.
 
 Gain 3{h}"	Light Action				No	
-hNkccNq9LrkjCNwnfFcfh	Blessing of Salvation	2	1					Light, Action							"If a card has been put into you hero's soul this turn, you may play this as though it were and instant.
+hNkccNq9LrkjCNwnfFcfh	Blessing of Salvation	2	1		2			Light, Action							"If a card has been put into you hero's soul this turn, you may play this as though it were and instant.
 
 Gain 2{h}"	Light Action				No	
-8gG7TFrTqGj6rGFCCHztP	Blessing of Salvation	3	1					Light, Action							"If a card has been put into you hero's soul this turn, you may play this as though it were and instant.
+8gG7TFrTqGj6rGFCCHztP	Blessing of Salvation	3	1		2			Light, Action							"If a card has been put into you hero's soul this turn, you may play this as though it were and instant.
 
 Gain 1{h}"	Light Action				No	
 MdwP9pznTNRcCR7z7LhgK	Blessing of Savagery	1	1		3			Brute, Action, Aura							At the start of your turn, destroy Blessing of Savagery then your next attack with 6 or more base {p} this turn gains +3{p}.	Brute Action - Aura				No	
@@ -2405,64 +2405,64 @@ If Herald of Erudition hits, put it into your hero's soul and draw 2 cards.
 **Phantasm**"	Light Illusionist Action - Attack				No	
 z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	2	2	6	3			Light, Illusionist, Action, Attack	Prism Specialization, Phantasm						"**Prism Specialization**
 
-If Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase.
+When this hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase.
 
 **Phantasm**"	Light Illusionist Action - Attack				No	
-LrjRbqHNNKbLGfqDPjp7R	Herald of Protection	1	2	7	3			Light, Illusionist, Action, Attack	Phantasm						"If Herald of Protection hits, put it into your hero's soul and create a Spectral Shield token.
+LrjRbqHNNKbLGfqDPjp7R	Herald of Protection	1	2	7	3			Light, Illusionist, Action, Attack	Phantasm						"When this hits, put it into your hero's soul and create a Spectral Shield token.
 
 **Phantasm**"	Light Illusionist Action - Attack					
-GpWJp9RKt7nrzt6dCMnbH	Herald of Protection	2	2	6	3			Light, Illusionist, Action, Attack	Phantasm						"If Herald of Protection hits, put it into your hero's soul and create a Spectral Shield token.
+GpWJp9RKt7nrzt6dCMnbH	Herald of Protection	2	2	6	3			Light, Illusionist, Action, Attack	Phantasm						"When this hits, put it into your hero's soul and create a Spectral Shield token.
 
 **Phantasm**"	Light Illusionist Action - Attack					
-kWCjCDmt6k6Rq7bkf7pGr	Herald of Protection	3	2	5	3			Light, Illusionist, Action, Attack	Phantasm						"If Herald of Protection hits, put it into your hero's soul and create a Spectral Shield token.
+kWCjCDmt6k6Rq7bkf7pGr	Herald of Protection	3	2	5	3			Light, Illusionist, Action, Attack	Phantasm						"When this hits, put it into your hero's soul and create a Spectral Shield token.
 
 **Phantasm**"	Light Illusionist Action - Attack					
-6TdnF7dGqjJJcCBdKb98r	Herald of Ravages	1	2	7	3			Light, Illusionist, Action, Attack	Phantasm						"If Herald of Ravages hits, put it into your hero's soul and deal 1 arcane damage to target hero.
+6TdnF7dGqjJJcCBdKb98r	Herald of Ravages	1	2	7	3			Light, Illusionist, Action, Attack	Phantasm						"When this hits, put it into your hero's soul and deal 1 arcane damage to target hero.
 
 **Phantasm**"	Light Illusionist Action - Attack					
-tpBFGmkQggrgbfN96bNW6	Herald of Ravages	2	2	6	3			Light, Illusionist, Action, Attack	Phantasm						"If Herald of Ravages hits, put it into your hero's soul and deal 1 arcane damage to target hero.
+tpBFGmkQggrgbfN96bNW6	Herald of Ravages	2	2	6	3			Light, Illusionist, Action, Attack	Phantasm						"When this hits, put it into your hero's soul and deal 1 arcane damage to target hero.
 
 **Phantasm**"	Light Illusionist Action - Attack					
-6kKnCBgtcwPWzKhHLDPLn	Herald of Ravages	3	2	5	3			Light, Illusionist, Action, Attack	Phantasm						"If Herald of Ravages hits, put it into your hero's soul and deal 1 arcane damage to target hero.
+6kKnCBgtcwPWzKhHLDPLn	Herald of Ravages	3	2	5	3			Light, Illusionist, Action, Attack	Phantasm						"When this hits, put it into your hero's soul and deal 1 arcane damage to target hero.
 
 **Phantasm**"	Light Illusionist Action - Attack					
-FLpRPPKtB668jDRD7Gknm	Herald of Rebirth	1	2	7	3			Light, Illusionist, Action, Attack	Phantasm					Phantasm	"If Herald of Rebirth hits, put it into your hero's soul and put up to 1 card with **phantasm** from your graveyard on top of your deck.
+FLpRPPKtB668jDRD7Gknm	Herald of Rebirth	1	2	7	3			Light, Illusionist, Action, Attack	Phantasm					Phantasm	"When this hits, put it into your hero's soul and put up to 1 card with **phantasm** from your graveyard on top of your deck.
 
 **Phantasm**"	Light Illusionist Action - Attack					
-WzgPPdjkL9zHrrqpjHbNJ	Herald of Rebirth	2	2	6	3			Light, Illusionist, Action, Attack	Phantasm					Phantasm	"If Herald of Rebirth hits, put it into your hero's soul and put up to 1 card with **phantasm** from your graveyard on top of your deck.
+WzgPPdjkL9zHrrqpjHbNJ	Herald of Rebirth	2	2	6	3			Light, Illusionist, Action, Attack	Phantasm					Phantasm	"When this hits, put it into your hero's soul and put up to 1 card with **phantasm** from your graveyard on top of your deck.
 
 **Phantasm**"	Light Illusionist Action - Attack					
-wHPGqnKDg8mRNzmwfmh8W	Herald of Rebirth	3	2	5	3			Light, Illusionist, Action, Attack	Phantasm					Phantasm	"If Herald of Rebirth hits, put it into your hero's soul and put up to 1 card with **phantasm** from your graveyard on top of your deck.
+wHPGqnKDg8mRNzmwfmh8W	Herald of Rebirth	3	2	5	3			Light, Illusionist, Action, Attack	Phantasm					Phantasm	"When this hits, put it into your hero's soul and put up to 1 card with **phantasm** from your graveyard on top of your deck.
 
 **Phantasm**"	Light Illusionist Action - Attack					
 JRFMjNBpz9H6tmgGWHkrD	Herald of Tenacity	1	2	6	3			Light, Illusionist, Action, Attack	Dominate, Phantasm						"**Dominate**
 
-If Herald of Tenacity hits, put it into your hero's soul.
+When this hits, put it into your hero's soul.
 
 **Phantasm**"	Light Illusionist Action - Attack					
 Jb7Ht9qpJRjRRwQMjJBKH	Herald of Tenacity	2	2	5	3			Light, Illusionist, Action, Attack	Dominate, Phantasm						"**Dominate**
 
-If Herald of Tenacity hits, put it into your hero's soul.
+When this hits, put it into your hero's soul.
 
 **Phantasm**"	Light Illusionist Action - Attack					
 jgC7fqfp9rGLjPdJQNRBM	Herald of Tenacity	3	2	4	3			Light, Illusionist, Action, Attack	Dominate, Phantasm						"**Dominate**
 
-If Herald of Tenacity hits, put it into your hero's soul.
+When this hits, put it into your hero's soul.
 
 **Phantasm**"	Light Illusionist Action - Attack					
-QD7K9HmH9g9CLWRPcz87n	Herald of Triumph	1	2	7	3			Light, Illusionist, Action, Attack	Phantasm						"Attack action cards have -1{p} while defending Herald of Triumph.
+QD7K9HmH9g9CLWRPcz87n	Herald of Triumph	1	2	7	3			Light, Illusionist, Action, Attack	Phantasm						"Attack action cards have -1{p} while defending this.
 
-If Herald of Triumph hits, put it into your hero's soul.
-
-**Phantasm**"	Light Illusionist Action - Attack				No	
-pKzcGJ6MbDD7pBM6HNJpf	Herald of Triumph	2	2	6	3			Light, Illusionist, Action, Attack	Phantasm						"Attack action cards have -1{p} while defending Herald of Triumph.
-
-If Herald of Triumph hits, put it into your hero's soul.
+When this hits, put it into your hero's soul.
 
 **Phantasm**"	Light Illusionist Action - Attack				No	
-rk9986mQCBfcCRTwFJRdL	Herald of Triumph	3	2	5	3			Light, Illusionist, Action, Attack	Phantasm						"Attack action cards have -1{p} while defending Herald of Triumph.
+pKzcGJ6MbDD7pBM6HNJpf	Herald of Triumph	2	2	6	3			Light, Illusionist, Action, Attack	Phantasm						"Attack action cards have -1{p} while defending this.
 
-If Herald of Triumph hits, put it into your hero's soul.
+When this hits, put it into your hero's soul.
+
+**Phantasm**"	Light Illusionist Action - Attack				No	
+rk9986mQCBfcCRTwFJRdL	Herald of Triumph	3	2	5	3			Light, Illusionist, Action, Attack	Phantasm						"Attack action cards have -1{p} while defending this.
+
+When this hits, put it into your hero's soul.
 
 **Phantasm**"	Light Illusionist Action - Attack				No	
 j8jNwqCDtMqHPbCrnLcbf	Heron's Flight	1	0	3	3			Ninja, Action, Attack	Combo						"**Combo** - If Crane Dance was the last attack this combat chain, when you attack with Heron's Flight, it gains +2{p} and you choose 1;
@@ -4081,17 +4081,17 @@ ngDCfBTHCC9RGG6mQFcQp	Rifting	2	2	5	2			Generic, Action, Attack							If Rifting
 jNHCpjQbFbfjnj8KD9rjg	Rifting	3	2	4	2			Generic, Action, Attack							If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.	Generic Action - Attack					
 Tp7nmGfdwmJP7gzgftM9T	Rift Skitter	1	3	4	3			Shadow, Runeblade, Action, Attack	Rune Gate, Go again, Blood Debt						"**Rune Gate**
 
-**Go again••
+**Go again**
 
 **Blood Debt**"	Shadow Runeblade Action - Attack					
 fCDfkDQBmt7KR6QL7gmcH	Rift Skitter	2	3	3	3			Shadow, Runeblade, Action, Attack	Rune Gate, Go again, Blood Debt						"**Rune Gate**
 
-**Go again••
+**Go again**
 
 **Blood Debt**"	Shadow Runeblade Action - Attack					
 LpKnp8tDfwH9cR7qLGjzc	Rift Skitter	3	3	2	3			Shadow, Runeblade, Action, Attack	Rune Gate, Go again, Blood Debt						"**Rune Gate**
 
-**Go again••
+**Go again**
 
 **Blood Debt**"	Shadow Runeblade Action - Attack					
 WjTbCjjCgPncF9w7WH9Q8	Righteous Cleansing	2	7	10	3			Guardian, Action, Attack	Crush						**Crush** - If Righteous Cleansing deals 4 or more damage to a hero, look at the top 5 cards of their deck. Banish 1 or more cards with the same name from among them, then put the rest on top of their deck in any order.	Guardian Action - Attack				No	
@@ -5766,13 +5766,13 @@ g97rMMDfMbRgmgfjzgJnL	Warrior's Valor	2	1		3			Warrior, Action	Go again			Go aga
 czRC9wmKkRGGrwrhJbNqj	Warrior's Valor	3	1		3			Warrior, Action	Go again			Go again			"Your next weapon attack this turn gains +1{p} and ""If this hits, the attack gains **go again**.""
 
 **Go again**"	Warrior Action				No	
-KRcH8Nb8PR8dfC8DTPtpJ	Wartune Herald	1	1	7	3			Light, Illusionist, Action, Attack	Phantasm						"If Wartune Herald hits, put it into your hero's soul.
+KRcH8Nb8PR8dfC8DTPtpJ	Wartune Herald	1	1	7	3			Light, Illusionist, Action, Attack	Phantasm						"When this hits, put it into your hero's soul.
 
 **Phantasm**"	Light Illusionist Action - Attack					
-pGjHRdgF8BLTDGtjLJGgh	Wartune Herald	2	1	6	3			Light, Illusionist, Action, Attack	Phantasm						"If Wartune Herald hits, put it into your hero's soul.
+pGjHRdgF8BLTDGtjLJGgh	Wartune Herald	2	1	6	3			Light, Illusionist, Action, Attack	Phantasm						"When this hits, put it into your hero's soul.
 
 **Phantasm**"	Light Illusionist Action - Attack					
-qN9rt6FWmjTRwNC9cTrPW	Wartune Herald	3	1	5	3			Light, Illusionist, Action, Attack	Phantasm						"If Wartune Herald hits, put it into your hero's soul.
+qN9rt6FWmjTRwNC9cTrPW	Wartune Herald	3	1	5	3			Light, Illusionist, Action, Attack	Phantasm						"When this hits, put it into your hero's soul.
 
 **Phantasm**"	Light Illusionist Action - Attack					
 tB76Jz9T9FcQTtbFDpbmN	Water Glow Lanterns	1	0		2			Illusionist, Action	Go again						"Reveal the top card of your deck. If it's red, create a Spectral Shield token.
