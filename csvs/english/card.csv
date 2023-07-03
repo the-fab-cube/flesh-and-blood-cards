@@ -1,158 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-zMbD7hqPwGNQCcDC6DPB9	Hell Hammer			6				Shadow, Brute, Weapon, Hammer, 2H	Blood Debt	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
-
-When the combat chain closes, if this attacked, banish it.
-
-**Blood Debt**"	Shadow Brute Weapon - Hammer (2H)					
-jtjBwktMzPCDdwFgKtWT6	Spoiled Skull							Shadow, Brute, Equipment, Head	Arcane Barrier 1, Blood Debt, Go again	Instant					"**Action** - {r}, banish this: Target 3 action cards with different names in your banished zone and chose one at random. You may play it this turn. **Go again**
-
-**Arcane Barrier 1**
-
-**Blood Debt**"	Shadow Brute Equipment - Head				No	
-NJnDKMhtRtcWptfC8pwWM	Diabolic Offering	3	1	*	*			Shadow, Brute, Action, Attack	Blood Debt						"If a card with 6 ore more {p} has been put into your banished zone this turn, Daibolic Offering's {p} and {d} are 6, otherwise they are 0.
-
-**Blood Debt**"	Shadow Brute Action - Attack				No	
-JzbrzpFDKnwQJfD7h8CkQ	Shaden Death Hydra	2	6	13	3			Shadow, Brute, Action, Attack	Blood Debt					Blood Debt	"When this attacks, it deals X damage to you, where X is 13 minus the number of cards with **blood debt** in your banished zone.
-
-**Blood Debt**"	Shadow Brute Action - Attack				No	
-qB6nBWTRKkJWQrmNRNN8t	Slithering Shadowpede	1	1	6				Shadow, Brute, Action, Attack	Blood Debt						"If this was banished from your hand this turn, you may play it from your banished zone.
-
-**Blood Debt**"	Shadow Brute Action - Attack				No	
-kj7CLmtKN9BmpmkcT6zMm	Blood Dripping Frenzy	3	2		3			Shadow, Brute, Action	Blood Debt, Go again					Blood Debt	"As an additional cost to play this, banish your hand.
-
-Draw a card for each card with **blood debt** banished this way.
-
-Your Brute and Shadow attacks get +X{p} this turn where X is the number of cards with 6 or more {p} banished this way.
-
-**Go again**"	Shadow Brute Action				No	
-HtPKB7kWnFRGtqN6RjdRW	Shaden Swing	1	1	7	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play this, banish a random card from your hand.
-
-**Blood Debt**"	Shadow Brute Action - Attack					
-j6FKJDDDkHzjKrjN8FkdW	Shaden Swing	2	1	6	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play this, banish a random card from your hand.
-
-**Blood Debt**"	Shadow Brute Action - Attack					
-QTCkmrDWzwq6Qq6QczrDn	Shaden Swing	3	1	5	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play this, banish a random card from your hand.
-
-**Blood Debt**"	Shadow Brute Action - Attack					
-bpcWc9DJf9pzfBczMWczJ	Grimoire of the Haunt							Shadow, Runeblade, Equipment, Off-Hand	Blood Debt, Arcane Barrier 1	Instant					"**Instant** - {r}, banish this: Create an Eloquence token.
-
-**Arcane Barrier 1**
-
-**Blood Debt**"	Shadow Runeblade Equipment - Off-Hand				No	
-dkWqMzLQfPdRHktgJrMK8	Requiem for the Damned	1	0		3			Shadow, Runeblade, Action	Blood Debt						"""You may play this from your banished zone.
-
-If a hero has lost {h} this turn, you may play this as though it were an instant.
-
-Create an Eloquence token.
-
-**Blood Debt**"""	Shadow Runeblade Action				No	
-gj6QqhDFKF6MtNncFMhmK	Deathly Delight	1	2	5	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
-
-When the combat chain closes, gain {h} equal to the number of heroes who have lost {h} this turn.
-
-**Blood Debt**"	Shadow Runeblade Action - Attack				No	
-DTPnFNqr9N8NcWNpDDC8B	Deathly Delight	2	2	4	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
-
-When the combat chain closes, gain {h} equal to the number of heroes who have lost {h} this turn.
-
-**Blood Debt**"	Shadow Runeblade Action - Attack				No	
-pkqN7kDrFhHhDrBmb7bhr	Deathly Delight	3	2	3	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
-
-When the combat chain closes, gain {h} equal to the number of heroes who have lost {h} this turn.
-
-**Blood Debt**"	Shadow Runeblade Action - Attack				No	
-LmkDGKnkq8qHfdQ9jh9nD	Deathly Wail	1	3	6	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
-
-When the combat chain closes, create Runechant tokens equal to the number of heroes who have lost {h} this turn.
-
-**Blood Debt**"	Shadow Runeblade Action - Attack				No	
-PgnDgtR8PgKfMLKHDph8k	Deathly Wail	2	3	6	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
-
-When the combat chain closes, create Runechant tokens equal to the number of heroes who have lost {h} this turn.
-
-**Blood Debt**"	Shadow Runeblade Action - Attack				No	
-Fn8bTWKkJC77cqjfPmkjC	Deathly Wail	3	3	6	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
-
-When the combat chain closes, create Runechant tokens equal to the number of heroes who have lost {h} this turn.
-
-**Blood Debt**"	Shadow Runeblade Action - Attack				No	
-7QhWMkPGMbFjHqn7rk9Gq	Putrid Stirrings	1	3		3			Shadow, Runeblade, Action	Blood Debt, Go again					Rune Gate	"You may play this from your banished zone.
-
-The next attack action card you **rune gate** this turn gets +5{p}.
-
-**Go again**
-
-**Blood debt**"	Shadow Runeblade Action					
-Kcp6zfhjQtdpz8PpKfPPh	Putrid Stirrings	2	3		3			Shadow, Runeblade, Action	Blood Debt, Go again					Rune Gate	"You may play this from your banished zone.
-
-The next attack action card you **rune gate** this turn gets +4{p}.
-
-**Go again**
-
-**Blood debt**"	Shadow Runeblade Action					
-mnhNFLR7HKQHf8KNpnFB6	Putrid Stirrings	3	3		3			Shadow, Runeblade, Action	Blood Debt, Go again					Rune Gate	"You may play this from your banished zone.
-
-The next attack action card you **rune gate** this turn gets +3{p}.
-
-**Go again**
-
-**Blood debt**"	Shadow Runeblade Action					
-Lzr8Htn8MrNnMggczHwGd	Shroud of Darkness							Shadow, Equipment, Head	Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
-
-**Blood Debt**"	Shadow Equipment - Head					
-TtgGwwdkkjjMHBbMztjrG	Cloak of Darkness							Shadow, Equipment, Chest	Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
-
-**Blood Debt**"	Shadow Equipment - Chest					
-76MpwMj77CmK8wDp6HMDn	Grasp of Darkness							Shadow, Equipment, Arms	Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
-
-**Blood Debt**"	Shadow Equipment - Arms					
-HjgMJg6DrhJqR6fMnp6fc	Dance of Darkness							Shadow, Equipment, Legs	Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
-
-**Blood Debt**"	Shadow Equipment - Legs					
-Ddqz6QF9FNMT8qJjjr8Q9	Dabble in Darkness	1	0	5	3			Shadow, Action, Attack	Blood Debt						"When this attacks, banish the top card of your deck. This gets -X{p}, where X is the pitch value of the card banished this way.
-
-**Blood Debt**"	Shadow Action - Attack				No	
-JdCmtgpzCdnNWrD7FB7mp	Dimenxxional Vortex		3					Shadow, Action	Blood Debt						"You may play this from your banished zone. If you do, it costs {r}{r} less to play.
-
-Each hero banishes a card from their arsenal.
-
-**Blood Debt**"	Shadow Action				No	
-KGpj8kWJ9dRHnn7KRcbP8	Soul Cleaver	1	2	6	2			Shadow, Action, Attack	Blood Debt, Go again						"If the defending hero has 1 or more cards in their soul, this gets **go again**.
-
-**Blood Debt**"	Shadow Action - Attack					
-jPRhzznmc6gRHTJKmcRfr	Soul Cleaver	2	2	6	2			Shadow, Action, Attack	Blood Debt, Go again						"If the defending hero has 1 or more cards in their soul, this gets **go again**.
-
-**Blood Debt**"	Shadow Action - Attack					
-w77zDhDthpW7pp97wHFf7	Soul Cleaver	3	2	6	2			Shadow, Action, Attack	Blood Debt, Go again						"If the defending hero has 1 or more cards in their soul, this gets **go again**.
-
-**Blood Debt**"	Shadow Action - Attack					
-RFMBB9GfNJQLM6GJkRz9W	Tear Through the Portal	1	0		2			Shadow, Action	Go again						"Choose a red action card in your banished zone. It gets **go again** until end of turn.
-
-**Go again**"	Shadow Action					
-fC686brzCdJgKGMp6M7WC	Tear Through the Portal	2	0		2			Shadow, Action	Go again						"Choose a yellow action card in your banished zone. It gets **go again** until end of turn.
-
-**Go again**"	Shadow Action					
-HzqwtHgqqtMcCLcCGnQP9	Tear Through the Portal	3	0		2			Shadow, Action	Go again						"Choose a blue action card in your banished zone. It gets **go again** until end of turn.
-
-**Go again**"	Shadow Action					
-jktJDQ97DD6rnkQjhNdD8	Scepter of Pain							Runeblade, Weapon, Scepter, 1H		Once per Turn Action					"**Once per Turn Action** - {r}{r}: Deal 1 arcane damage to any opposing target.
-
-Create a Runechant token for each damage dealt this way."	Runeblade Weapon - Scepter (1H)					
-C7NCzqwTbKtcQKjwHRzBK	Dyadic Carapace				2			Runeblade, Equipment, Chest	Arcane Barrier 2, Temper						"**Arcane Barrier 2**
-
-**Temper**"	Runeblade Equipment - Chest				No	
-m6KTfwtJkzqRLKFtMFjBn	Bequest the Vast Beyond	1	0		2			Runeblade, Action	Viserai Specialization, Go again						"**Viserai Specialization**
-
-The next Runeblade attack action card you play this turn costs {r} less to play for each Runechant you control.
-
-**Go again**"	Runeblade Action				No	
-gNqK8KBP7kPKcnpWrmq8p	Censor	1	1	5	3			Generic, Action, Attack							When this hits a hero, name a card. They can't play the named card until the end of their next turn.	Generic Action - Attack				No	
-BkpMHRn6L8dpcgjgrPm9H	Warmonger's Diplomacy	3	0		3			Generic, Action							"Starting with the hero to your left, each hero chooses war or peace.
-
-If they choose war, the only actions they may play or activate during their next turn are weapon and attack actions.
-
-If they choose peace, the only actions they may play or activate during their next turn are non-weapon non-attack actions."	Generic Action				No	
-BqMDcNR8b6m7L7QPtHgTB	Poison the Well	3	0					Generic, Instant							The next time a hero would gain {h} this turn, instead they lose that much {h}.	Generic Instant				No	
 dTKDHwdcrLNPPb6ktczmR	Absorb in Aether	1	1		4			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 tWKN9zRJdgFmpw6pmPmkR	Absorb in Aether	2	1		3			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 WkDkrkTDzRnqWBh7WHJfh	Absorb in Aether	3	1		2			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
@@ -540,6 +386,11 @@ When Bellona attacks, you may banish a card from your hero's soul. If you do, pu
 HT8r8mg8rHmbWJthCFHfH	Benji, the Piercing Wind					17	4	Ninja, Hero, Young							"Your attack action cards with 2 or less {p} can't be defended by cards from hand.
 
 The first time an attack action card you control hits each turn, your next attack gains +1{p}."	Ninja Hero - Young			No		
+m6KTfwtJkzqRLKFtMFjBn	Bequest the Vast Beyond	1	0		2			Runeblade, Action	Viserai Specialization, Go again						"**Viserai Specialization**
+
+The next Runeblade attack action card you play this turn costs {r} less to play for each Runechant you control.
+
+**Go again**"	Runeblade Action				No	
 mGqzLzjTgNjr7qJGMTjtW	Berserk	2	1		3			Brute, Action	Go again						"Until end of turn, whenever you discard a random card with 6 or more {p}, banish it. If you do, reveal the top card of your deck. If it has 6 or more {p}, draw a card.
 
 **Go again**"	Brute Action				No	
@@ -716,6 +567,13 @@ If Blizzard Bolt was **fused**, whenever an attack deals damage to a hero this t
 gJCkLbwKKhftmCtmQqr7r	Blizzard Bolt	3	1	3	3			Elemental, Ranger, Action, Arrow, Attack	Ice Fusion						"**Ice Fusion**
 
 If Blizzard Bolt was **fused**, whenever an attack deals damage to a hero this turn, create a Frostbite token under their control."	Elemental Ranger Action - Arrow Attack					
+kj7CLmtKN9BmpmkcT6zMm	Blood Dripping Frenzy	3	2		3			Shadow, Brute, Action	Blood Debt, Go again					Blood Debt	"As an additional cost to play this, banish your hand.
+
+Draw a card for each card with **blood debt** banished this way.
+
+Your Brute and Shadow attacks get +X{p} this turn where X is the number of cards with 6 or more {p} banished this way.
+
+**Go again**"	Shadow Brute Action				No	
 JfBCWJdFBcrnhdkjRj6tz	Blood Drop Brocade				0			Generic, Equipment, Chest		Instant					**Instant** - Destroy Blood Drop Brocade: Gain {r}. Activate this ability only if you have dealt or been dealt {p} damage this turn.	Generic Equipment - Chest					
 nqFNHFqP79nMk7TKM9r8T	Blood of the Dracai	1						Draconic, Resource, Gem	Legendary						"**Legendary**
 
@@ -1000,6 +858,7 @@ CKwppWjqB6NhjDKqcgPjM	Celestial Reprimand	3	0					Light, Illusionist, Instant			
 JMgPdnR9tCMwwHnMbFDkk	Celestial Resolve	1	0					Light, Illusionist, Instant							Target attack action card with Herald in it's name gets +5{d}.	Light Illusionist Instant					
 nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	0					Light, Illusionist, Instant							Target attack action card with Herald in it's name gets +4{d}.	Light Illusionist Instant					
 mPqMgTrrpbgkWPFBDwwzQ	Celestial Resolve	3	0					Light, Illusionist, Instant							Target attack action card with Herald in it's name gets +3{d}.	Light Illusionist Instant					
+gNqK8KBP7kPKcnpWrmq8p	Censor	1	1	5	3			Generic, Action, Attack							When this hits a hero, name a card. They can't play the named card until the end of their next turn.	Generic Action - Attack				No	
 bBtWcpCjGqkMMkwqwgtRT	Chain Lightning	2	1		3			Wizard, Action							"You may play your next Wizard 'non-attack' action card this turn as though it were an instant.
 
 If you have played another Wizard 'non-attack' action card this turn, deal 3 arcane damage to each opposing hero."	Wizard Action				No	
@@ -1112,6 +971,9 @@ qBRhRDtgwwmgTb68dqTQW	Clearing Bellow	3	0		3			Brute, Action	Intimidate, Go agai
 bPJzLWhH7G7BnHL9fNJw6	Cleave	1	1		3			Warrior, Action	Go again						"Your next axe attack this turn gains +4{p} and ""When this hits a hero or ally, you may deal that much damage to another ally controlled by the same hero.""
 
 **Go again**"	Warrior Action				No	
+TtgGwwdkkjjMHBbMztjrG	Cloak of Darkness							Shadow, Equipment, Chest	Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
+
+**Blood Debt**"	Shadow Equipment - Chest					
 JBkC6qp77CfhzhkphHMPC	Coalescence Mirage	1	2	7	3			Illusionist, Action, Attack	Phantasm						"**Phantasm**
 
 When Coalescence Mirage is destroyed, you may put an Illusionist aura card with cost 0 from your hand into the arena."	Illusionist Action - Attack					
@@ -1309,6 +1171,9 @@ MMpKrnJcBQRmBP9thgWG6	Cut to the Chase	3	0		3			Assassin, Attack Reaction						C
 
 Look at the top card of the defending hero's deck. You may put it on the bottom."	Assassin Attack Reaction					
 fMTdMtzzft7bLzG9DpjNc	Cyclone Roundhouse	2	2	5	3			Ninja, Action, Attack	Combo						"**Combo** - If Spinning Wheel Kick was the last attack this combat chain, this has ""At the beginning of the reaction step, banish a random defending card from each chain link."""	Ninja Action - Attack				No	
+Ddqz6QF9FNMT8qJjjr8Q9	Dabble in Darkness	1	0	5	3			Shadow, Action, Attack	Blood Debt						"When this attacks, banish the top card of your deck. This gets -X{p}, where X is the pitch value of the card banished this way.
+
+**Blood Debt**"	Shadow Action - Attack				No	
 rzGrbqkdk7nptwNhTJKCb	Dampen	1	2		3			Wizard, Action							"Deal 4 arcane damage to any target.
 
 Prevent the next X arcane damage that would be dealt to your hero this turn, where X is the damage dealt by Dampen."	Wizard Action				No	
@@ -1318,6 +1183,9 @@ Prevent the next X arcane damage that would be dealt to your hero this turn, whe
 jR6fBL9G8hzwjFpmbLdwW	Dampen	3	2		3			Wizard, Action							"Deal 2 arcane damage to any target.
 
 Prevent the next X arcane damage that would be dealt to your hero this turn, where X is the damage dealt by Dampen."	Wizard Action				No	
+HjgMJg6DrhJqR6fMnp6fc	Dance of Darkness							Shadow, Equipment, Legs	Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
+
+**Blood Debt**"	Shadow Equipment - Legs					
 kftPnNkrBLJ7rPmFGgQCm	Dash					20	4	Mechanologist, Hero, Young							You may start the game with a Mechanologist item with cost 2 or less in the arena.	Mechanologist Hero - Young			No		
 6CcjWGnThrTmTQFQ9zHMN	Dash, Inventor Extraordinaire					40	4	Mechanologist, Hero							You may start the game with a Mechanologist item with cost 2 or less in the arena.	Mechanologist Hero		No		No	
 kbdzm8R7MHCpWC79RdTGH	Data Doll MKII					20	3	Mechanologist, Hero, Young							Whenever a Mechanologist item with cost 2 or less is put into your banished zone from your deck, put it into the arena.	Mechanologist Hero - Young			No		
@@ -1386,9 +1254,39 @@ When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under th
 tHhztGzBGFRrLKTWCtg7f	Death Touch	3	1	4	2			Assassin, Ranger, Action, Attack							"Death Touch can't be played from hand.
 
 When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control."	Assassin / Ranger Action - Attack				No	
+gj6QqhDFKF6MtNncFMhmK	Deathly Delight	1	2	5	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
+
+When the combat chain closes, gain {h} equal to the number of heroes who have lost {h} this turn.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack				No	
+DTPnFNqr9N8NcWNpDDC8B	Deathly Delight	2	2	4	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
+
+When the combat chain closes, gain {h} equal to the number of heroes who have lost {h} this turn.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack				No	
+pkqN7kDrFhHhDrBmb7bhr	Deathly Delight	3	2	3	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
+
+When the combat chain closes, gain {h} equal to the number of heroes who have lost {h} this turn.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack				No	
 DnJrdtdRJmT7G97h6Qqcb	Deathly Duet	1	2	4	3			Runeblade, Action, Attack							When Deathly Duet attacks, if an attack action card was pitched to play it, it gains +2{p}. If a 'non-attack' action card was pitched to play it, create 2 Runechant tokens.	Runeblade Action - Attack				No	
 NG9nKh7TTkLt6qtCJzGjB	Deathly Duet	2	2	3	3			Runeblade, Action, Attack							When Deathly Duet attacks, if an attack action card was pitched to play it, it gains +2{p}. If a 'non-attack' action card was pitched to play it, create 2 Runechant tokens.	Runeblade Action - Attack				No	
 jFM7t8H8pfwFdTJc7qb8b	Deathly Duet	3	2	2	3			Runeblade, Action, Attack							When Deathly Duet attacks, if an attack action card was pitched to play it, it gains +2{p}. If a 'non-attack' action card was pitched to play it, create 2 Runechant tokens.	Runeblade Action - Attack				No	
+LmkDGKnkq8qHfdQ9jh9nD	Deathly Wail	1	3	6	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
+
+When the combat chain closes, create Runechant tokens equal to the number of heroes who have lost {h} this turn.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack				No	
+PgnDgtR8PgKfMLKHDph8k	Deathly Wail	2	3	6	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
+
+When the combat chain closes, create Runechant tokens equal to the number of heroes who have lost {h} this turn.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack				No	
+Fn8bTWKkJC77cqjfPmkjC	Deathly Wail	3	3	6	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
+
+When the combat chain closes, create Runechant tokens equal to the number of heroes who have lost {h} this turn.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack				No	
 QLGJkQKtpmGkqwpTtHqzG	Debilitate	1	4	8	3			Guardian, Action, Attack	Crush						**Crush** - If Debilitate deals 4 or more damage to a hero, their first attack during their next turn has -2{p}.	Guardian Action - Attack					
 pb9kwPfCFccrmCDgGq7bJ	Debilitate	2	4	7	3			Guardian, Action, Attack	Crush						**Crush** - If Debilitate deals 4 or more damage to a hero, their first attack during their next turn has -2{p}.	Guardian Action - Attack					
 z6t6dcr7F7fWjwKwtqdRd	Debilitate	3	4	6	3			Guardian, Action, Attack	Crush						**Crush** - If Debilitate deals 4 or more damage to a hero, their first attack during their next turn has -2{p}.	Guardian Action - Attack					
@@ -1423,6 +1321,9 @@ d7D9nzdhjfKmppBnFdFLm	Descendent Gustwave	3	1	1	2			Ninja, Action, Attack	Combo,
 Cqwf78hdKQTfgCtbkcrdL	Destructive Deliberation	1	2	5	2			Generic, Action, Attack							When this hits a hero, create a Ponder token.	Generic Action - Attack					
 FgzGnMR8GKFpMNMr7DcKH	Destructive Deliberation	2	2	4	2			Generic, Action, Attack							When this hits a hero, create a Ponder token.	Generic Action - Attack					
 THJWhmjtGRtWfPMRFFkdd	Destructive Deliberation	3	2	3	2			Generic, Action, Attack							When this hits a hero, create a Ponder token.	Generic Action - Attack					
+NJnDKMhtRtcWptfC8pwWM	Diabolic Offering	3	1	*	*			Shadow, Brute, Action, Attack	Blood Debt						"If a card with 6 ore more {p} has been put into your banished zone this turn, Daibolic Offering's {p} and {d} are 6, otherwise they are 0.
+
+**Blood Debt**"	Shadow Brute Action - Attack				No	
 LcqN7tjqc8FDhkQ9m6n6N	Diabolic Ultimatum	1	3		2			Runeblade, Action							"If an attack action card was pitched to play Diabolic Ultimatum, each hero chooses and destroys an ally they control.
 
 If a 'non-attack' action card was pitched to play Diabolic Ultimatum, each hero chooses and destroys an aura they control."	Runeblade Action				No	
@@ -1452,6 +1353,11 @@ rKp6tbNNd6qzQcJrqL9fG	Dimenxxional Gateway	3	1		2			Shadow, Runeblade, Action	Op
 Reveal the top card of your deck. If it's a Runeblade card, deal 1 arcane damage to each opposing hero. If it's a Shadow card, you may banish it.
 
 **Go again**"	Shadow Runeblade Action				No	
+JdCmtgpzCdnNWrD7FB7mp	Dimenxxional Vortex		3					Shadow, Action	Blood Debt						"You may play this from your banished zone. If you do, it costs {r}{r} less to play.
+
+Each hero banishes a card from their arsenal.
+
+**Blood Debt**"	Shadow Action				No	
 TtMnqPqJNGgrjmMJ99KWn	Disable	1	5	9	3			Guardian, Action, Attack	Crush						**Crush** - If Disable deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.	Guardian Action - Attack				No	
 fgrK7Mbp8qQcbMtQDwk9F	Disable	2	5	8	3			Guardian, Action, Attack	Crush						**Crush** - If Disable deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.	Guardian Action - Attack				No	
 7LPnw9zFRhGmKHzCzMpdJ	Disable	3	5	7	3			Guardian, Action, Attack	Crush						**Crush** - If Disable deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.	Guardian Action - Attack				No	
@@ -1625,6 +1531,9 @@ JjcbfdJBzNznwtrHkDN98	Dust Runner Outlaw	3	1	2	2			Draconic, Ninja, Action, Atta
 kzcjwdh7jFzjBtQTp66Dz	Dustup	1	0	4	3			Draconic, Illusionist, Action, Attack	Transform						When Dustup hits, create an Ash token, then **transform** up to 1 ash you control into an Aether Ashwing.	Draconic Illusionist Action - Attack					
 HkTf6CPMRKgDkntFLngDg	Dustup	2	0	3	3			Draconic, Illusionist, Action, Attack	Transform						When Dustup hits, create an Ash token, then **transform** up to 1 ash you control into an Aether Ashwing.	Draconic Illusionist Action - Attack					
 t9JLzLpkTqwMQmzjkcDG8	Dustup	3	0	2	3			Draconic, Illusionist, Action, Attack	Transform						When Dustup hits, create an Ash token, then **transform** up to 1 ash you control into an Aether Ashwing.	Draconic Illusionist Action - Attack					
+C7NCzqwTbKtcQKjwHRzBK	Dyadic Carapace				2			Runeblade, Equipment, Chest	Arcane Barrier 2, Temper						"**Arcane Barrier 2**
+
+**Temper**"	Runeblade Equipment - Chest				No	
 qCwM6LGq87rrqGQFk8rKG	Earthlore Bounty				2			Guardian, Equipment, Chest	Temper						"Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.
 
 **Temper**"	Guardian Equipment - Chest				No	
@@ -2296,6 +2205,9 @@ Draw X cards, where X is 1 plus the number of Gorganian Tomes in all graveyards.
 pwfB8pHmJRDD8CfP8mTbr	Grandeur of Valahai	3						Guardian, Resource, Gem	Legendary						"**Legendary**
 
 When you pitch Grandeur of Valahai, create a Seismic Surge token."	Guardian Resource - Gem				No	
+76MpwMj77CmK8wDp6HMDn	Grasp of Darkness							Shadow, Equipment, Arms	Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
+
+**Blood Debt**"	Shadow Equipment - Arms					
 6WM7PKt9BCGmw7wQzn7k6	Grasp of the Arknight				2			Runeblade, Equipment, Arms	Battleworn	Once per Turn Action	Go again				"**Once per Turn Action** - {r}{r}: Create a Runechant token. This ability costs an additional {r} to activate for each Runechant you control. **Go again**
 
 **Battleworn**"	Runeblade Equipment - Arms				No	
@@ -2328,6 +2240,11 @@ BkFwNf9wHWK8LBdN9b9t6	Grim Feast	3	3		2			Shadow, Action	Blood Debt						"You ma
 Gain 1{h}
 
 **Blood Debt**"					No	
+bpcWc9DJf9pzfBczMWczJ	Grimoire of the Haunt							Shadow, Runeblade, Equipment, Off-Hand	Blood Debt, Arcane Barrier 1	Instant					"**Instant** - {r}, banish this: Create an Eloquence token.
+
+**Arcane Barrier 1**
+
+**Blood Debt**"	Shadow Runeblade Equipment - Off-Hand				No	
 wLbNLfGtn86JfCTKBdMRg	Guardian of the Shadowrealm	1	2		6			Shadow, Defense Reaction	Blood Debt	Action					"**Action** - {r}{r}: Return Guardian of the Shadowrealm from your banished zone into your hand. Activate this ability only while Guardian of the Shadowrealm is in your banished zone.
 
 **Blood Debt**"	Shadow Defense Reaction				No	
@@ -2389,6 +2306,11 @@ HCGkgWcrLLkmHFBRbhpdM	Heaven's Claws	3	1	3	3			Lightning, Action, Attack								
 gjgpkHgC6p7HNTPpCJdCh	Helio's Mitre				0			Generic, Equipment, Head		Instant					"*(A player may add a Helio's Mitre to their card pool in an Uprising limited format.)*
 
 **Instant** - {r}{r}: Prevent the next 1 damage that would be dealt to your hero this turn by a source of your choice. Destroy Helio's Mitre at the beginning of the end phase."	Generic Equipment - Head					
+zMbD7hqPwGNQCcDC6DPB9	Hell Hammer			6				Shadow, Brute, Weapon, Hammer, 2H	Blood Debt	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
+
+When the combat chain closes, if this attacked, banish it.
+
+**Blood Debt**"	Shadow Brute Weapon - Hammer (2H)					
 rjhDRz7JGN7kpDdjHQfrg	Helm of Isen's Peak				1			Guardian, Equipment, Head	Battleworn	Action					"**Action** - {r}, destroy Helm of Isen Peak: Your hero gains +1{i} until end of turn.
 
 **Battleworn**"	Guardian Equipment - Head					
@@ -3608,6 +3530,7 @@ LpcMH9ftTRHRc9gw9j6hw	Poison the Tips	2	0		2			Ranger, Action	Reload, Go again		
 **Reload**
 
 **Go again**"	Ranger Action				No	
+BqMDcNR8b6m7L7QPtHgTB	Poison the Well	3	0					Generic, Instant							The next time a hero would gain {h} this turn, instead they lose that much {h}.	Generic Instant				No	
 ptW6MqBGczWDtTKnmrLFH	Polar Blast	1	1		2			Ice, Action	Go again			Dominate			"Target opposing hero may pay {r}{r}{r}. If they don't your next attack this turn gains **dominate**.
 
 If Polar Blast is played from arsenal, draw a card.
@@ -3813,6 +3736,27 @@ If you have attacked with a weapon this turn, your next attack this turn gains *
 JgbBkhwf8bRTnJCB6HLrD	Push the Point	1	1	4	2			Generic, Action, Attack							If the last attack on this combat chain hit, Push the Point gains +2{p}.	Generic Action - Attack					
 fqF87f9FWqhtqnNDkKcBB	Push the Point	2	1	3	2			Generic, Action, Attack							If the last attack on this combat chain hit, Push the Point gains +2{p}.	Generic Action - Attack					
 MCf7PDzNkfQQrkwJmL9mp	Push the Point	3	1	2	2			Generic, Action, Attack							If the last attack on this combat chain hit, Push the Point gains +2{p}.	Generic Action - Attack					
+7QhWMkPGMbFjHqn7rk9Gq	Putrid Stirrings	1	3		3			Shadow, Runeblade, Action	Blood Debt, Go again					Rune Gate	"You may play this from your banished zone.
+
+The next attack action card you **rune gate** this turn gets +5{p}.
+
+**Go again**
+
+**Blood debt**"	Shadow Runeblade Action					
+Kcp6zfhjQtdpz8PpKfPPh	Putrid Stirrings	2	3		3			Shadow, Runeblade, Action	Blood Debt, Go again					Rune Gate	"You may play this from your banished zone.
+
+The next attack action card you **rune gate** this turn gets +4{p}.
+
+**Go again**
+
+**Blood debt**"	Shadow Runeblade Action					
+mnhNFLR7HKQHf8KNpnFB6	Putrid Stirrings	3	3		3			Shadow, Runeblade, Action	Blood Debt, Go again					Rune Gate	"You may play this from your banished zone.
+
+The next attack action card you **rune gate** this turn gets +3{p}.
+
+**Go again**
+
+**Blood debt**"	Shadow Runeblade Action					
 FTHfgBjNWbkDzDhCRpjCp	Pyroglyphic Protection	1	2		2			Wizard, Action, Aura							"If your hero would be dealt arcane damage, prevent 3 arcane damage that source would deal.
 
 At the beginning of your action phase, destroy Pyroglyphic Protection."	Wizard Action - Aura					
@@ -4020,6 +3964,13 @@ Banish Remembrance."	Generic Instant				No
 M9wDtMRwDFB9chfhJRNWJ	Remorseless	1	1	5	3			Ranger, Action, Arrow, Attack							"If Remorseless is put into your arsenal face up, until end of turn it gains ""Defense reaction cards can't be played from arsenal to Remoreseless's chain link.""
 
 If Remorseless hits a hero, until the end of their next turn, whenever they play an action card, they lose 1{h}."	Ranger Action - Arrow Attack				No	
+dkWqMzLQfPdRHktgJrMK8	Requiem for the Damned	1	0		3			Shadow, Runeblade, Action	Blood Debt						"""You may play this from your banished zone.
+
+If a hero has lost {h} this turn, you may play this as though it were an instant.
+
+Create an Eloquence token.
+
+**Blood Debt**"""	Shadow Runeblade Action				No	
 CBc98j9J9PmqRKNdTchgW	Resounding Courage	1	1		3			Light, Warrior, Attack Reaction						Charge	"Target Light Warrior attack gets +3{p}.
 
 If you've **charged** this turn, create a Courage token."	Light Warrior Attack Reaction					
@@ -4067,18 +4018,6 @@ KTbwfNgmD8J97RzwqhQMD	Rift Bind	2	1	2	3			Shadow, Runeblade, Action, Attack	Bloo
 PTR7kfMCdM6TmztT8d7GM	Rift Bind	3	1	1	3			Shadow, Runeblade, Action, Attack	Blood Debt						"You may play Rift Bind from your banished zone. If you do, it gains +X{p}, where X is the number of 'non-attack' action cards you have played this turn.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack					
-hwbWNb8gDkQ7nrWwG6kWp	Rifted Torment	1	2	4	3			Shadow, Runeblade, Action, Attack	Blood Debt						"You may play Rifted Torment from your banished zone. If you do, deal 1 arcane damage to target hero.
-
-**Blood Debt**"	Shadow Runeblade Action - Attack					
-7LKCmfjBPcH9jhkrKRttq	Rifted Torment	2	2	3	3			Shadow, Runeblade, Action, Attack	Blood Debt						"You may play Rifted Torment from your banished zone. If you do, deal 1 arcane damage to target hero.
-
-**Blood Debt**"	Shadow Runeblade Action - Attack					
-BCHMTFpN9Nb7JrWh6T6nk	Rifted Torment	3	2	2	3			Shadow, Runeblade, Action, Attack	Blood Debt						"You may play Rifted Torment from your banished zone. If you do, deal 1 arcane damage to target hero.
-
-**Blood Debt**"	Shadow Runeblade Action - Attack					
-fbKhDHT7dDzFfh7cpBjkJ	Rifting	1	2	6	2			Generic, Action, Attack							If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.	Generic Action - Attack					
-ngDCfBTHCC9RGG6mQFcQp	Rifting	2	2	5	2			Generic, Action, Attack							If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.	Generic Action - Attack					
-jNHCpjQbFbfjnj8KD9rjg	Rifting	3	2	4	2			Generic, Action, Attack							If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.	Generic Action - Attack					
 Tp7nmGfdwmJP7gzgftM9T	Rift Skitter	1	3	4	3			Shadow, Runeblade, Action, Attack	Rune Gate, Go again, Blood Debt						"**Rune Gate**
 
 **Go again**
@@ -4094,6 +4033,18 @@ LpKnp8tDfwH9cR7qLGjzc	Rift Skitter	3	3	2	3			Shadow, Runeblade, Action, Attack	R
 **Go again**
 
 **Blood Debt**"	Shadow Runeblade Action - Attack					
+hwbWNb8gDkQ7nrWwG6kWp	Rifted Torment	1	2	4	3			Shadow, Runeblade, Action, Attack	Blood Debt						"You may play Rifted Torment from your banished zone. If you do, deal 1 arcane damage to target hero.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack					
+7LKCmfjBPcH9jhkrKRttq	Rifted Torment	2	2	3	3			Shadow, Runeblade, Action, Attack	Blood Debt						"You may play Rifted Torment from your banished zone. If you do, deal 1 arcane damage to target hero.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack					
+BCHMTFpN9Nb7JrWh6T6nk	Rifted Torment	3	2	2	3			Shadow, Runeblade, Action, Attack	Blood Debt						"You may play Rifted Torment from your banished zone. If you do, deal 1 arcane damage to target hero.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack					
+fbKhDHT7dDzFfh7cpBjkJ	Rifting	1	2	6	2			Generic, Action, Attack							If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.	Generic Action - Attack					
+ngDCfBTHCC9RGG6mQFcQp	Rifting	2	2	5	2			Generic, Action, Attack							If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.	Generic Action - Attack					
+jNHCpjQbFbfjnj8KD9rjg	Rifting	3	2	4	2			Generic, Action, Attack							If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.	Generic Action - Attack					
 WjTbCjjCgPncF9w7WH9Q8	Righteous Cleansing	2	7	10	3			Guardian, Action, Attack	Crush						**Crush** - If Righteous Cleansing deals 4 or more damage to a hero, look at the top 5 cards of their deck. Banish 1 or more cards with the same name from among them, then put the rest on top of their deck in any order.	Guardian Action - Attack				No	
 FDktk7t9NkNdLDQQhCPBR	Riled Up	1	3	7	3			Brute, Action, Attack							If you have discarded a card with 6 or more {p} this turn, Riled Up gains +1{p}.	Brute Action - Attack					
 B9HmMb6jB9M8kWFLH86fT	Riled Up	2	3	6	3			Brute, Action, Attack							If you have discarded a card with 6 or more {p} this turn, Riled Up gains +1{p}.	Brute Action - Attack					
@@ -4396,6 +4347,9 @@ When this hits a hero, the next time they defend with 1 or more equipment this t
 DbpqBt8Gp8HWg6QMFBBgh	Scar for a Scar	1	0	4	2			Generic, Action, Attack	Go again						When you play Scar for a Scar, if you have less {h} than an opposing hero, it gains **go again**.	Generic Action - Attack					
 LwdKpBTcMk6rLjDwG8r6G	Scar for a Scar	2	0	3	2			Generic, Action, Attack	Go again						When you play Scar for a Scar, if you have less {h} than an opposing hero, it gains **go again**.	Generic Action - Attack					
 fBjC6dqfrGN9TG7Whh9TR	Scar for a Scar	3	0	2	2			Generic, Action, Attack	Go again						When you play Scar for a Scar, if you have less {h} than an opposing hero, it gains **go again**.	Generic Action - Attack					
+jktJDQ97DD6rnkQjhNdD8	Scepter of Pain							Runeblade, Weapon, Scepter, 1H		Once per Turn Action					"**Once per Turn Action** - {r}{r}: Deal 1 arcane damage to any opposing target.
+
+Create a Runechant token for each damage dealt this way."	Runeblade Weapon - Scepter (1H)					
 9hDNGJWktKbqR8bFFzmMf	Scour	3	X		3			Wizard, Action							Destroy X target aura tokens and/or auras with cost 0 controlled by target hero. Then deal arcane damage to that hero equal to the number of auras destroyed this way.	Wizard Action				No	
 rhGfKbpkJHqwTK6rJDcwK	Scour the Battlescape	1	0	3	2			Generic, Action, Attack	Go again						"You may put a card from your hand on the bottom of your deck. If you do, draw a card.
 
@@ -4552,6 +4506,9 @@ MDhfpQwtDBtKLhT6Cn7f7	Semblance	3	3					Illusionist, Instant					Phantasm	Phanta
 QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breaker of Dawn					40	4	Light, Warrior, Hero		Attack Reaction		Go again		Charge	"If you've **charged** this turn, attacks you control have +1{p} while defended by an attack action card.
 
 **Attack Reaction** - Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains **go again**."	Light Warrior Hero		No		No	
+JzbrzpFDKnwQJfD7h8CkQ	Shaden Death Hydra	2	6	13	3			Shadow, Brute, Action, Attack	Blood Debt					Blood Debt	"When this attacks, it deals X damage to you, where X is 13 minus the number of cards with **blood debt** in your banished zone.
+
+**Blood Debt**"	Shadow Brute Action - Attack				No	
 KDfgLjtcbGWjJTqJcgQcH	Shaden Scream	1	0		3			Shadow, Brute, Action	Go again						"As an additional cost to play this, banish a random card from hand.
 
 Your next Brute or Shadow attack this turn gets +5{p}.
@@ -4567,6 +4524,15 @@ WgNzKLhLbwpCnMTmLWkhf	Shaden Scream	3	0		3			Shadow, Brute, Action	Go again					
 Your next Brute or Shadow attack this turn gets +3{p}.
 
 **Go again**"	Shadow Brute Action				No	
+HtPKB7kWnFRGtqN6RjdRW	Shaden Swing	1	1	7	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play this, banish a random card from your hand.
+
+**Blood Debt**"	Shadow Brute Action - Attack					
+j6FKJDDDkHzjKrjN8FkdW	Shaden Swing	2	1	6	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play this, banish a random card from your hand.
+
+**Blood Debt**"	Shadow Brute Action - Attack					
+QTCkmrDWzwq6Qq6QczrDn	Shaden Swing	3	1	5	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play this, banish a random card from your hand.
+
+**Blood Debt**"	Shadow Brute Action - Attack					
 wHLwWJFBzB7DwgjKqzcq7	Shadow of Blasmophet	1	2	6				Shadow, Brute, Action, Attack	Blood Debt					Blood Debt	"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, search your deck for a card with **blood debt**, banish it, then shuffle your deck.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	
@@ -4634,6 +4600,9 @@ d6j8cGLBGPRRGnhqdRwB8	Shred	3	0		3			Assassin, Attack Reaction							Target card
 hBpbr8Rkc89bfNLHhwMR8	Shrill of Skullform	1	2	4	3			Runeblade, Action, Attack							If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.	Runeblade Action - Attack					
 gB89PHQzGDwTkP8wM7nwz	Shrill of Skullform	2	2	3	3			Runeblade, Action, Attack							If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.	Runeblade Action - Attack					
 pNQrNGQ9HK6jDRJLDrgqj	Shrill of Skullform	3	2	2	3			Runeblade, Action, Attack							If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.	Runeblade Action - Attack					
+Lzr8Htn8MrNnMggczHwGd	Shroud of Darkness							Shadow, Equipment, Head	Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
+
+**Blood Debt**"	Shadow Equipment - Head					
 TrRC6WMrRhbCtKzpRQLPM	Sic 'Em Shot	1	1	4	3			Ranger, Action, Arrow, Attack	Go again						**Go again**	Ranger Action - Arrow Attack					
 TMBGhtBJMzbWMLPzNJCW9	Sic 'Em Shot	2	1	3	3			Ranger, Action, Arrow, Attack	Go again						**Go again**	Ranger Action - Arrow Attack					
 FHfhK9rLHDcNCdQJQ79Wh	Sic 'Em Shot	3	1	2	3			Ranger, Action, Arrow, Attack	Go again						**Go again**	Ranger Action - Arrow Attack					
@@ -4783,6 +4752,9 @@ bJcbjBkHkqdKmzkBDcWqp	Slice and Dice	3	0		3			Warrior, Action	Go again						"Whe
 - If it's your second weapon attack this turn, it gains +1{p}.
 
 **Go again**"	Warrior Action				No	
+qB6nBWTRKkJWQrmNRNN8t	Slithering Shadowpede	1	1	6				Shadow, Brute, Action, Attack	Blood Debt						"If this was banished from your hand this turn, you may play it from your banished zone.
+
+**Blood Debt**"	Shadow Brute Action - Attack				No	
 kgTjdTtWrFMCqpHh9mn8C	Sloggism	1	3		2			Generic, Action	Go again						"The next attack action card with cost 2 or greater you play this turn gains +6{p}.
 
 **Go again**"	Generic Action					
@@ -4874,6 +4846,15 @@ FCt7htFCWm9kdFJ9JnqdM	Soul Butcher	2	2	5	2			Shadow, Action, Attack	Blood Debt		
 
 **Blood Debt**"	Shadow Action - Attack					
 QchDmTfCPjWBL89NWRdRL	Soul Butcher	3	2	4	2			Shadow, Action, Attack	Blood Debt						"If the defending hero has 1 or more cards in their soul, this gets +2{p}.
+
+**Blood Debt**"	Shadow Action - Attack					
+KGpj8kWJ9dRHnn7KRcbP8	Soul Cleaver	1	2	6	2			Shadow, Action, Attack	Blood Debt, Go again						"If the defending hero has 1 or more cards in their soul, this gets **go again**.
+
+**Blood Debt**"	Shadow Action - Attack					
+jPRhzznmc6gRHTJKmcRfr	Soul Cleaver	2	2	6	2			Shadow, Action, Attack	Blood Debt, Go again						"If the defending hero has 1 or more cards in their soul, this gets **go again**.
+
+**Blood Debt**"	Shadow Action - Attack					
+w77zDhDthpW7pp97wHFf7	Soul Cleaver	3	2	6	2			Shadow, Action, Attack	Blood Debt, Go again						"If the defending hero has 1 or more cards in their soul, this gets **go again**.
 
 **Blood Debt**"	Shadow Action - Attack					
 kkcHdRDmJT7pHqPzMRRwp	Soul Food	2	0		2			Light, Action							Put Soul Food and all cards in your hand into your hero's soul.	Light Action				No	
@@ -5011,6 +4992,11 @@ You may play Lumina Ascension as though it were an instant."	Light Warrior Actio
 Nh7kN9dhkWQhjfr7CfKW7	Spirit of War	1	0	3	3			Light, Warrior, Action, Attack	Charge						"As an additional cost to play this, you may **charge** your hero's soul.
 
 If a yellow card is **charged** this way, whenever an attack action card hits this combat chain, create a Courage token."	Light Warrior Action - Attack				No	
+jtjBwktMzPCDdwFgKtWT6	Spoiled Skull							Shadow, Brute, Equipment, Head	Arcane Barrier 1, Blood Debt, Go again	Instant					"**Action** - {r}, banish this: Target 3 action cards with different names in your banished zone and chose one at random. You may play it this turn. **Go again**
+
+**Arcane Barrier 1**
+
+**Blood Debt**"	Shadow Brute Equipment - Head				No	
 LKTc8bNLczk7p78FwWzTw	Spoils of War	1	1		3			Warrior, Action	Go again			Go again			"Your next weapon attack this turn gains +2{p} and **go again**.
 
 Whenever a weapon you control hits this turn, create 2 Copper tokens.
@@ -5296,6 +5282,15 @@ C8r9mHpCfPTcgggPdbMLB	Tear Asunder	3	3		3			Guardian, Action	Go again			Dominate
 6FrqKM6Ckpz9NCG8wGcGq	Tear Limb from Limb	3	2					Brute, Action	Go again						"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, the next Brute attack action card you play this turn gains +X{p}, where X is its base {p}.
 
 **Go again**"	Brute Action				No	
+RFMBB9GfNJQLM6GJkRz9W	Tear Through the Portal	1	0		2			Shadow, Action	Go again						"Choose a red action card in your banished zone. It gets **go again** until end of turn.
+
+**Go again**"	Shadow Action					
+fC686brzCdJgKGMp6M7WC	Tear Through the Portal	2	0		2			Shadow, Action	Go again						"Choose a yellow action card in your banished zone. It gets **go again** until end of turn.
+
+**Go again**"	Shadow Action					
+HzqwtHgqqtMcCLcCGnQP9	Tear Through the Portal	3	0		2			Shadow, Action	Go again						"Choose a blue action card in your banished zone. It gets **go again** until end of turn.
+
+**Go again**"	Shadow Action					
 hwnbrjRKLGTmzF8wf6QDH	Tearing Shuko				1			Ninja, Equipment, Arms	Battleworn	Instant					"**Instant** - Destroy Tearing Shuko: The next Crouching Tiger you play this turn gains +2{p}.
 
 **Battleworn**"	Ninja Equipment - Arms					
@@ -5748,6 +5743,11 @@ When this hits, you may discard a card with cost 0. If you do, search your deck 
 
 **Go again**"	Ninja Action - Attack				No	
 kzzwCj8LJwfMf9MTntgtt	Waning Moon							Wizard, Weapon, Staff, 2H		Once per Turn Instant					**Once per Turn Instant** - {r}{r}: Deal 2 arcane damage to target hero. If it's not your turn, instead deal 3 arcane damage to them. Activate this ability only if you've played a 'non-attack' action card this turn.	Wizard Weapon - Staff (2H)					
+BkpMHRn6L8dpcgjgrPm9H	Warmonger's Diplomacy	3	0		3			Generic, Action							"Starting with the hero to your left, each hero chooses war or peace.
+
+If they choose war, the only actions they may play or activate during their next turn are weapon and attack actions.
+
+If they choose peace, the only actions they may play or activate during their next turn are non-weapon non-attack actions."	Generic Action				No	
 r7ztTzKJCzDWphMcdPQcD	Warmonger's Recital	1	1		2			Generic, Action	Go again						"The next attack action card you play this turn gains +3{p} and ""When this hits, put it on the bottom of its owner's deck.""
 
 **Go again**"	Generic Action					
