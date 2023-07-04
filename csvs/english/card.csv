@@ -896,13 +896,13 @@ wDhLmGq88hHqJkBg89QDP	Channel Thunder Steppe	2	1		3			Lightning, Action, Aura	Go
 Whenever you play an action card, you may pay {r}. If you do, it gains **go again**.
 
 **Channel Lightning** - At the beginning of your end phase, put a flow counter on Channel Thunder Steppe then destroy it unless you put a Lightning card from your pitch zone on the bottom of your deck for each flow counter on it."	Lightning Action - Aura				No	
-rWccJ7CMn69khJP7QJ7G9	Charge of the Light Brigade	1	0					Light, Warrior, Action	Go again					Charge	"The next attack you **charge** this turn gets +3{p}.
+rWccJ7CMn69khJP7QJ7G9	Charge of the Light Brigade	1	0		3			Light, Warrior, Action	Go again					Charge	"The next attack you **charge** this turn gets +3{p}.
 
 **Go again**"	Light Warrior Action					
-WfqwhCzMFNJrtQdBjn6WN	Charge of the Light Brigade	2	0					Light, Warrior, Action	Go again					Charge	"The next attack you **charge** this turn gets +2{p}.
+WfqwhCzMFNJrtQdBjn6WN	Charge of the Light Brigade	2	0		3			Light, Warrior, Action	Go again					Charge	"The next attack you **charge** this turn gets +2{p}.
 
 **Go again**"	Light Warrior Action					
-T7LWwwbfhmJMhQrBLKc7F	Charge of the Light Brigade	3	0					Light, Warrior, Action	Go again					Charge	"The next attack you **charge** this turn gets +1{p}.
+T7LWwwbfhmJMhQrBLKc7F	Charge of the Light Brigade	3	0		3			Light, Warrior, Action	Go again					Charge	"The next attack you **charge** this turn gets +1{p}.
 
 **Go again**"	Light Warrior Action					
 LrjhhdFHqndpWG8d66GJz	Chief Ruk'utan				3			Brute, Mentor	Intimidate						"While Ruk'utan is face down in arsenal, at the start of your turn, you may turn him face up.
