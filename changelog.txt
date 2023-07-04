@@ -463,6 +463,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue with Withstand incorrectly having defense values listed
 
 PENDING:
-- Added DTD card data
-- Added card data (minus images) for LGS153-LGS163, LGS172-LGS174
+- Added DTD card data - data entry assistance credit: manwaring and Firecrest
+- Added card data for FAB138-FAB143, LGS138-LGS140, LGS144-LGS149, LGS153-LGS163, LGS172-LGS174, and LGS179-LGS181
+- Added card images for LGS141-LGS143 and LSS006-LSS007
 - Added Awaken, Mirage, and Rune Gate keywords
