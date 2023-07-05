@@ -1277,12 +1277,12 @@ LmkDGKnkq8qHfdQ9jh9nD	Deathly Wail	1	3	6	3			Shadow, Runeblade, Action, Attack	R
 When the combat chain closes, create Runechant tokens equal to the number of heroes who have lost {h} this turn.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack				No	
-PgnDgtR8PgKfMLKHDph8k	Deathly Wail	2	3	6	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
+PgnDgtR8PgKfMLKHDph8k	Deathly Wail	2	3	5	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
 
 When the combat chain closes, create Runechant tokens equal to the number of heroes who have lost {h} this turn.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack				No	
-Fn8bTWKkJC77cqjfPmkjC	Deathly Wail	3	3	6	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
+Fn8bTWKkJC77cqjfPmkjC	Deathly Wail	3	3	4	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
 
 When the combat chain closes, create Runechant tokens equal to the number of heroes who have lost {h} this turn.
 
@@ -2065,6 +2065,12 @@ Deal 5 arcane damage to a target hero. If Freezing Point was fused, instead deal
 tchtjzTbfPjRDFN8mcKR7	Frightmare	1	3	13				Illusionist, Action, Attack	Phantasm					Phantasm	"Play Frightmare only if an Illusionist attack action card you control has been destroyed by **phantasm** this turn.
 
 **Phantasm**"	Illusionist Action - Attack				No	
+dw8F9WDckzGdK6hhQWnTt	Frontline Helm				2			Generic, Equipment, Head	Blade Break						"At the beginning of your end phase, put a -1{d} counter on this.
+
+**Blade Break**"						
+9WFrC8Knr9qdtRbfCWq8c	Frontline Gauntlets				2			Generic, Equipment, Arms	Blade Break						"At the beginning of your end phase, put a -1{d} counter on this.
+
+**Blade Break**"						
 DRqd8NPqtJjrKTPNkNzjg	Frontline Scout	1	0	3	2			Generic, Action, Attack	Go again						"You may look at the defending hero's hand.
 
 If Frontline Scout is played from arsenal, it gains **go again**."	Generic Action - Attack					
