@@ -227,12 +227,12 @@
             {
                 "unique_id": "TtNrjrtMbCbMW8JqLNNzt",
                 "edition": "N",
-                "start_card_id": "DTD001",
+                "start_card_id": "DTD000",
                 "end_card_id": "DTD235",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
-                "collectors_center": null,
+                "collectors_center": "https://fabtcg.com/collectors-centre/dusk-till-dawn/",
                 "card_gallery": null
             }
         ]
