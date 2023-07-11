@@ -2260,6 +2260,11 @@ bpcWc9DJf9pzfBczMWczJ	Grimoire of the Haunt							Shadow, Runeblade, Equipment, 
 wLbNLfGtn86JfCTKBdMRg	Guardian of the Shadowrealm	1	2		6			Shadow, Defense Reaction	Blood Debt	Action					"**Action** - {r}{r}: Return Guardian of the Shadowrealm from your banished zone into your hand. Activate this ability only while Guardian of the Shadowrealm is in your banished zone.
 
 **Blood Debt**"	Shadow Defense Reaction				No	
+LPNDBTkkJ9gfhfnqrctfJ	Hack to Reality	2	1		2			Generic, Action	Go again						"Your next attack this turn gets +2{p}.
+
+The next time you hit a hero this turn, destroy a non-token aura they own with cost less than or equal to the damage dealt this way.
+
+**Go again**"	Generic Action				No	
 rWqFtWTCDnrgzPJthDHkR	Hala Goldenhelm				3			Warrior, Mentor				Go again			"While Hala is face down in arsenal, at the start of your turn, you may turn her face up.
 
 While Hala is face up in arsenal, whenever a sword attack you control hits, it gains **go again** and put a lesson counter on Hala. Then if there are 2 or more lesson counters on Hala, banish her, search your deck for Glistening Steelblade, put it face up in arsenal, and shuffle."	Warrior Mentor			No	No	
