@@ -2,6 +2,8 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE card_references (
@@ -36,23 +38,29 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, card_unique_id, referenced_card_unique_id):
-    sql = """INSERT INTO card_references(card_unique_id, referenced_card_unique_id)
-            VALUES(%s, %s);"""
-    data = (card_unique_id, referenced_card_unique_id)
+def prep_function(association, language):
+    card_unique_id = association['card_unique_id']
+    referenced_card_unique_id = association['referenced_card_unique_id']
 
-    try:
-        print("Inserting {0} --> {1} card reference...".format(
-            card_unique_id,
-            referenced_card_unique_id,
-        ))
+    print("Prepping {0} --> {1} card reference...".format(
+        card_unique_id,
+        referenced_card_unique_id,
+    ))
 
-        # execute the INSERT statement
-        cur.execute(sql, data)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        exit()
-        raise error
+    return (card_unique_id, referenced_card_unique_id)
+
+def upsert_function(cur, card_references):
+    print("Upserting {} card_references".format(len(card_references)))
+
+    upsert_array(
+        cur,
+        "card_references",
+        card_references,
+        2,
+        "(card_unique_id, referenced_card_unique_id)",
+        "(card_unique_id, referenced_card_unique_id)",
+        "NOTHING"
+    )
 
 def generate_table_data(cur):
     print(f"Filling out card_references table from card-reference.json...\n")
@@ -61,10 +69,6 @@ def generate_table_data(cur):
     with path.open(newline='') as jsonfile:
         association_array = json.load(jsonfile)
 
-        for association in association_array:
-            card_unique_id = association['card_unique_id']
-            referenced_card_unique_id = association['referenced_card_unique_id']
+        prep_and_upsert_all(cur, association_array, prep_function, upsert_function)
 
-            insert(cur, card_unique_id, referenced_card_unique_id)
-
-        print(f"\nSuccessfully filled cards table with data\n")
+        print(f"\nSuccessfully filled card_references table with data\n")

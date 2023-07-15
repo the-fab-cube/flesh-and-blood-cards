@@ -2,6 +2,8 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE ability_translations (
@@ -36,23 +38,30 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, ability_unique_id, language, name):
-    sql = """INSERT INTO ability_translations(ability_unique_id, language, name)
-             VALUES(%s, %s, %s) RETURNING name;"""
-    data = (ability_unique_id, language, name)
+def prep_function(ability_entry, language):
+        ability_unique_id = ability_entry['unique_id']
+        name = ability_entry['name']
 
-    try:
-        print("Inserting {0} translation for ability {1} ({2})...".format(
+        print("Prepping {0} translation for ability {1} ({2}) for upsert...".format(
             language,
             ability_unique_id,
             name
         ))
 
-        # execute the INSERT statement
-        cur.execute(sql, data)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        exit()
+        return (ability_unique_id, language, name)
+
+def upsert_function(cur, abilities):
+        print("Upserting {} ability translations".format(len(abilities)))
+
+        upsert_array(
+            cur,
+            "ability_translations",
+            abilities,
+            3,
+            "(ability_unique_id, language, name)",
+            "(ability_unique_id, language)",
+            "UPDATE SET name = EXCLUDED.name"
+        )
 
 def generate_table_data(cur, language):
     print(f"Filling out ability_translations table from {language} ability.json...\n")
@@ -61,10 +70,6 @@ def generate_table_data(cur, language):
     with path.open(newline='') as jsonfile:
         ability_array = json.load(jsonfile)
 
-        for ability_entry in ability_array:
-            unique_id = ability_entry['unique_id']
-            name = ability_entry['name']
-
-            insert(cur, unique_id, language, name)
+        prep_and_upsert_all(cur, ability_array, prep_function, upsert_function)
 
         print(f"\nSuccessfully filled ability_translations table with {language} data\n")

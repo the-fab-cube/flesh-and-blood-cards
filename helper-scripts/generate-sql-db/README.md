@@ -11,6 +11,7 @@ NOTE: This will delete and regenerate the tables every run. The tables are not i
 
 ### Running the Script
 1. Run `python main.py -d <database-name> -u <user> -p <password> -H <host> -P <port> -i <images-base-url>` to run the SQL database generator.
+2. Add `-r` as an option to delete all the tables and regenerate them from scratch.
 
 ## Running the Script with Pyenv
 
@@ -23,3 +24,4 @@ NOTE: This will delete and regenerate the tables every run. The tables are not i
 
 ### Running the Script
 1. Run `pyenv exec poetry run python main.py -d <database-name> -u <user> -p <password> -H <host> -P <port> -i <images-base-url>` to run the SQL database generator.
+2. Add `-r` as an option to delete all the tables and regenerate them from scratch.

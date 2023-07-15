@@ -2,6 +2,8 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE keywords (
@@ -36,19 +38,27 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, unique_id, name, description):
-    sql = """INSERT INTO keywords(unique_id, name, description)
-             VALUES(%s, %s, %s) RETURNING name;"""
-    data = (unique_id, name, description)
+def prep_function(keyword_entry, language):
+    unique_id = keyword_entry['unique_id']
+    name = keyword_entry['name']
+    description = keyword_entry['description']
 
-    try:
-        print("Inserting {} keyword...".format(name))
+    print("Prepping {} keyword...".format(name))
 
-        # execute the INSERT statement
-        cur.execute(sql, data)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        exit()
+    return (unique_id, name, description)
+
+def upsert_function(cur, keywords):
+    print("Upserting {} keywords".format(len(keywords)))
+
+    upsert_array(
+        cur,
+        "keywords",
+        keywords,
+        3,
+        "(unique_id, name, description)",
+        "(unique_id)",
+        "UPDATE SET (name, description) = (EXCLUDED.name, EXCLUDED.description)"
+    )
 
 def generate_table_data(cur):
     print("Filling out keywords table from english keyword.json...\n")
@@ -57,11 +67,6 @@ def generate_table_data(cur):
     with path.open(newline='') as jsonfile:
         keyword_array = json.load(jsonfile)
 
-        for keyword_entry in keyword_array:
-            unique_id = keyword_entry['unique_id']
-            name = keyword_entry['name']
-            description = keyword_entry['description']
-
-            insert(cur, unique_id, name, description)
+        prep_and_upsert_all(cur, keyword_array, prep_function, upsert_function)
 
         print("\nSuccessfully filled keywords table\n")

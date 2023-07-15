@@ -12,6 +12,12 @@
         "description_plain": ""
     },
     {
+        "unique_id": "DJ9GNbwRNBFhcqhFgtFkR",
+        "name": "Awaken",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "bKgtwKPTzJ69QdFDfm9bR",
         "name": "Battleworn",
         "description": "Equipment that wear down after each time they are used to defend. If you defend with a card with **Battleworn**, put a -1{d} counter on it when the combat chain closes.",
@@ -126,6 +132,12 @@
         "description_plain": "An Illusionist mechanic that applies effects if it is under another permanent."
     },
     {
+        "unique_id": "jTtHPbKjwLkkDhRQHpWnK",
+        "name": "Mirage",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "KjHmzrtCdmW698JjW8J6j",
         "name": "Negate",
         "description": "**Negating** a card on a layer of the chain will prevent the card from resolving.",
@@ -180,10 +192,22 @@
         "description_plain": "A Warrior mechanic that showcases the prowess a warrior has when they are engaged in close combat. Reprise effects \"turn on\" if the defending hero has defended with a card from their hand."
     },
     {
+        "unique_id": "qhmLJGzNtDRbd9HLFbLFp",
+        "name": "Rune Gate",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "FL9rFc6hKw7WbRnCBqBzR",
         "name": "Rupture",
         "description": "A Draconic mechanic that applies certain effects if the card is played at chain link 4 or higher.",
         "description_plain": "A Draconic mechanic that applies certain effects if the card is played at chain link 4 or higher."
+    },
+    {
+        "unique_id": "8mqHH6LQfddFgnbbm8pLp",
+        "name": "Solflare",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "cjn8CBRWPmdG8fwJNTBJt",
@@ -226,6 +250,12 @@
         "name": "Unfreeze",
         "description": "Removes **Freeze** from an object.",
         "description_plain": "Removes Freeze from an object."
+    },
+    {
+        "unique_id": "H6QfMpMdgD8Fhcfqgq6rm",
+        "name": "Unity",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "hWpPNJ8jcqTHpgnQcPNkm",
