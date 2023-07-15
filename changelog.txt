@@ -466,5 +466,9 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added DTD card data - data entry assistance credit: manwaring and Firecrest
 - Added card data for FAB138-FAB143, LGS138-LGS140, LGS144-LGS149, LGS153-LGS163, LGS172-LGS174, and LGS179-LGS181
 - Added card images for LGS141-LGS143 and LSS006-LSS007
-- Added Awaken, Mirage, and Rune Gate keywords
+- Added Awaken, Mirage, Rune Gate, Solflare, and Unity keywords
+- Added Demi-Hero and Figment types
 - Updated functional text for Herald of Judgment, Herald of Protection, Herald of Ravages, Herald of Rebirth, Herald of Tenacity, Herald of Triumph, and Wartune Herald
+- Updated CC banned status for Bull's Eye Bracers, Pulse of Isenloft, and Bloosheath Skeleta
+- Updated CC suspended status for Bloosheath Skeleta
+- Updated CC Living Legend status for `Oldhim, Grandfather of Eternity` and Winter's Wail
