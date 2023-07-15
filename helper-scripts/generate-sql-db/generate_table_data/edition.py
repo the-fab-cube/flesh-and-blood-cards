@@ -2,6 +2,8 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE editions (
@@ -33,18 +35,26 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, id, name):
-    sql = """INSERT INTO editions(id, name)
-             VALUES(%s, %s) RETURNING id;"""
-    data = (id, name)
+def prep_function(edition, language):
+    id = edition['id']
+    name = edition['name']
 
-    try:
-        print("Inserting {} edition...".format(id))
-        # execute the INSERT statement
-        cur.execute(sql, data)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        exit()
+    print("Prepping {} edition...".format(id))
+
+    return (id, name)
+
+def upsert_function(cur, editions):
+    print("Upserting {} editions".format(len(editions)))
+
+    upsert_array(
+        cur,
+        "editions",
+        editions,
+        2,
+        "(id, name)",
+        "(id)",
+        "UPDATE SET name = EXCLUDED.name"
+    )
 
 def generate_table_data(cur):
     print("Filling out editions table from edition.json...\n")
@@ -53,10 +63,6 @@ def generate_table_data(cur):
     with path.open(newline='') as jsonfile:
         edition_array = json.load(jsonfile)
 
-        for edition in edition_array:
-            id = edition['id']
-            name = edition['name']
-
-            insert(cur, id, name)
+        prep_and_upsert_all(cur, edition_array, prep_function, upsert_function)
 
         print("\nSuccessfully filled editions table\n")

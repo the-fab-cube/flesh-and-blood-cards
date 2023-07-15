@@ -2,6 +2,8 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE card_translations (
@@ -47,29 +49,50 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, card_unique_id, language, name, pitch, types, card_keywords, abilities_and_effects, ability_and_effect_keywords,
-        granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text):
-    sql = """INSERT INTO card_translations(card_unique_id, language, name, pitch, types, card_keywords, abilities_and_effects, ability_and_effect_keywords,
-                granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text)
-            VALUES(%s, %s, %s, %s, %s, %s, %s, %s,
-                %s, %s, %s, %s, %s, %s);"""
-    data = (card_unique_id, language, name, pitch, types, card_keywords, abilities_and_effects, ability_and_effect_keywords,
+def prep_function(card, language):
+    card_unique_id = card['unique_id']
+    name = card['name']
+    pitch = card['pitch']
+
+    types = card['types']
+    card_keywords = card['card_keywords']
+    abilities_and_effects = card['abilities_and_effects']
+    ability_and_effect_keywords = card['ability_and_effect_keywords']
+    granted_keywords = card['granted_keywords']
+    removed_keywords = card['removed_keywords']
+    interacts_with_keywords = card['interacts_with_keywords']
+    functional_text = card['functional_text']
+    functional_text_plain = card['functional_text_plain']
+    type_text = card['type_text']
+
+    print("Prepping {0} printing for card {1} ({2} - {3})...".format(
+        language,
+        card_unique_id,
+        name,
+        pitch
+    ))
+
+    return (card_unique_id, language, name, pitch, types, card_keywords, abilities_and_effects, ability_and_effect_keywords,
         granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text)
 
-    try:
-        print("Inserting {0} printing for card {1} ({2} - {3})...".format(
-            language,
-            card_unique_id,
-            name,
-            pitch
-        ))
+def upsert_function(cur, card_translations):
+    print("Upserting {} card_translations".format(len(card_translations)))
 
-        # execute the INSERT statement
-        cur.execute(sql, data)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        exit()
-        raise error
+    upsert_array(
+        cur,
+        "card_translations",
+        card_translations,
+        14,
+        """(card_unique_id, language, name, pitch, types, card_keywords, abilities_and_effects, ability_and_effect_keywords,
+            granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text)""",
+        "(card_unique_id, language)",
+        """UPDATE SET
+        (name, pitch, types, card_keywords, abilities_and_effects, ability_and_effect_keywords,
+            granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text) =
+        (EXCLUDED.name, EXCLUDED.pitch, EXCLUDED.types, EXCLUDED.card_keywords, EXCLUDED.abilities_and_effects, EXCLUDED.ability_and_effect_keywords,
+            EXCLUDED.granted_keywords, EXCLUDED.removed_keywords, EXCLUDED.interacts_with_keywords, EXCLUDED.functional_text, EXCLUDED.functional_text_plain, EXCLUDED.type_text)
+        """
+    )
 
 def generate_table_data(cur, language):
     print(f"Filling out card_translations table from {language} card.json...\n")
@@ -78,23 +101,6 @@ def generate_table_data(cur, language):
     with path.open(newline='') as jsonfile:
         card_array = json.load(jsonfile)
 
-        for card in card_array:
-            card_unique_id = card['unique_id']
-            name = card['name']
-            pitch = card['pitch']
-
-            types = card['types']
-            card_keywords = card['card_keywords']
-            abilities_and_effects = card['abilities_and_effects']
-            ability_and_effect_keywords = card['ability_and_effect_keywords']
-            granted_keywords = card['granted_keywords']
-            removed_keywords = card['removed_keywords']
-            interacts_with_keywords = card['interacts_with_keywords']
-            functional_text = card['functional_text']
-            functional_text_plain = card['functional_text_plain']
-            type_text = card['type_text']
-
-            insert(cur, card_unique_id, language, name, pitch, types, card_keywords, abilities_and_effects, ability_and_effect_keywords,
-                   granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text)
+        prep_and_upsert_all(cur, card_array, prep_function, upsert_function, language)
 
         print(f"\nSuccessfully filled cards table with {language} data\n")

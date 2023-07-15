@@ -44,3 +44,8 @@
 
 06-19-23:
 - Updated script to handle changes to JSON files
+
+06-24-23:
+- Updated script to not delete/create tables by default, with new -r / --regenerate-tables option to enable that functionality again
+- Updated script to upsert rows
+- Updated artists table to have a UNIQUE constraint

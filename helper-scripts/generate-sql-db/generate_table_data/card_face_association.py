@@ -2,6 +2,8 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE card_face_associations (
@@ -37,23 +39,30 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, front_unique_id, back_unique_id, is_DFC):
-    sql = """INSERT INTO card_face_associations(front_unique_id, back_unique_id, is_DFC)
-            VALUES(%s, %s, %s);"""
-    data = (front_unique_id, back_unique_id, is_DFC)
+def prep_function(association, language):
+    front_unique_id = association['front_unique_id']
+    back_unique_id = association['back_unique_id']
+    is_DFC = association['is_DFC']
 
-    try:
-        print("Inserting {0} - {1} double-sided card association...".format(
+    print("Prepping {0} - {1} double-sided card association...".format(
             front_unique_id,
             back_unique_id
         ))
 
-        # execute the INSERT statement
-        cur.execute(sql, data)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        exit()
-        raise error
+    return (front_unique_id, back_unique_id, is_DFC)
+
+def upsert_function(cur, card_face_associations):
+    print("Upserting {} card_face_associations".format(len(card_face_associations)))
+
+    upsert_array(
+        cur,
+        "card_face_associations",
+        card_face_associations,
+        3,
+        "(front_unique_id, back_unique_id, is_DFC)",
+        "(front_unique_id, back_unique_id)",
+        "UPDATE SET is_DFC = EXCLUDED.is_DFC"
+    )
 
 def generate_table_data(cur, language):
     print(f"Filling out card_face_associations table from {language} card-face-association.json...\n")
@@ -62,11 +71,6 @@ def generate_table_data(cur, language):
     with path.open(newline='') as jsonfile:
         association_array = json.load(jsonfile)
 
-        for association in association_array:
-            front_unique_id = association['front_unique_id']
-            back_unique_id = association['back_unique_id']
-            is_DFC = association['is_DFC']
+        prep_and_upsert_all(cur, association_array, prep_function, upsert_function, language)
 
-            insert(cur, front_unique_id, back_unique_id, is_DFC)
-
-        print(f"\nSuccessfully filled cards table with {language} data\n")
+        print(f"\nSuccessfully filled card_face_associations table with {language} data\n")

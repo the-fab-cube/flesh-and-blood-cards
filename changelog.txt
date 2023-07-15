@@ -441,7 +441,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 06-19-23:
 - Updated card.csv to just contain card data, and moved card printing data out to new card-printing.csv files for each language
-- Updated Englis set.csv to just contain set data (for all languages), removed set.csv files from non-English languages, and moved set printing data out to new set-printing.csv files for each language
+- Updated English set.csv to just contain set data (for all languages), removed set.csv files from non-English languages, and moved set printing data out to new set-printing.csv files for each language
 - Updated "Variation" field names in the card-face-association.csv to use "Printing" wording
 - Updated validate-references.py script with more reference checks and to handle the new CSVs
 - Updated clean-csvs.py script to clean new CSVs
@@ -451,3 +451,20 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Removed all ODS files
 - Fixed double sided "marvel" `Bravo, Star of the Show` having an incorrect represenation
 - Fixed some double sided marvel Hero cards being incorrectly marked as being DFCs
+- Added a release-template.md for an easier time prepping future release notes
+- Updated CSV documentation
+- Added TCGPlayer Product ID field to the new card-printing.csv
+- Renamed set_edition_unique_id field to set_printing_unique_id in card.json and card-flattened.json
+- Renamed variation_unique_id field to printing_unique_id in card-flattened.json
+- Renamed foilings field to foiling and changed it from an array of strings to a string in card.json and card-flattened.json
+- Added tcgplayer_product_id and tcgplayer_url to card.json and card-flattened.json
+
+06-20-23:
+- Fixed an issue with Withstand incorrectly having defense values listed
+
+07/15-23:
+- Added DTD card data - data entry assistance credit: manwaring and Firecrest
+- Added card data for FAB138-FAB143, LGS138-LGS140, LGS144-LGS149, LGS153-LGS163, LGS172-LGS174, and LGS179-LGS181
+- Added card images for LGS141-LGS143 and LSS006-LSS007
+- Added Awaken, Mirage, and Rune Gate keywords
+- Updated functional text for Herald of Judgment, Herald of Protection, Herald of Ravages, Herald of Rebirth, Herald of Tenacity, Herald of Triumph, and Wartune Herald

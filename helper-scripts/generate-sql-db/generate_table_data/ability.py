@@ -2,6 +2,8 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE abilities (
@@ -34,18 +36,26 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, unique_id, name):
-    sql = """INSERT INTO abilities(unique_id, name)
-        VALUES(%s, %s) RETURNING name;"""
-    data = (unique_id, name)
-    try:
-        print("Inserting {} ability...".format(name))
+def prep_function(ability, language):
+        unique_id = ability['unique_id']
+        name = ability['name']
 
-        # execute the INSERT statement
-        cur.execute(sql, data)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        exit()
+        print("Prepping {} ability for upsert...".format(name))
+
+        return (unique_id, name)
+
+def upsert_function(cur, abilities):
+        print("Upserting {} abilities".format(len(abilities)))
+
+        upsert_array(
+            cur,
+            "abilities",
+            abilities,
+            2,
+            "(unique_id, name)",
+            "(unique_id)",
+            "UPDATE SET name = EXCLUDED.name"
+        )
 
 def generate_table_data(cur):
     print("Filling out abilities table from ability.json...\n")
@@ -54,10 +64,6 @@ def generate_table_data(cur):
     with path.open(newline='') as jsonfile:
         ability_array = json.load(jsonfile)
 
-        for ability in ability_array:
-            unique_id = ability['unique_id']
-            name = ability['name']
-
-            insert(cur, unique_id, name)
+        prep_and_upsert_all(cur, ability_array, prep_function, upsert_function)
 
         print("\nSuccessfully filled abilities table\n")

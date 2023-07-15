@@ -2,6 +2,8 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE types (
@@ -34,18 +36,26 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, unique_id, name):
-    sql = """INSERT INTO types(unique_id, name)
-        VALUES(%s, %s) RETURNING name;"""
-    data = (unique_id, name)
-    try:
-        print("Inserting {} type...".format(name))
+def prep_function(type, language):
+    unique_id = type['unique_id']
+    name = type['name']
 
-        # execute the INSERT statement
-        cur.execute(sql, data)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        exit()
+    print("Prepping {} type...".format(unique_id))
+
+    return (unique_id, name)
+
+def upsert_function(cur, types):
+    print("Upserting {} types".format(len(types)))
+
+    upsert_array(
+        cur,
+        "types",
+        types,
+        2,
+        "(unique_id, name)",
+        "(unique_id)",
+        "UPDATE SET name = EXCLUDED.name"
+    )
 
 def generate_table_data(cur):
     print("Filling out types table from type.json...\n")
@@ -54,10 +64,6 @@ def generate_table_data(cur):
     with path.open(newline='') as jsonfile:
         type_array = json.load(jsonfile)
 
-        for type in type_array:
-            unique_id = type['unique_id']
-            name = type['name']
-
-            insert(cur, unique_id, name)
+        prep_and_upsert_all(cur, type_array, prep_function, upsert_function)
 
         print("\nSuccessfully filled types table\n")

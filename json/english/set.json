@@ -220,6 +220,24 @@
         ]
     },
     {
+        "unique_id": "bJBqr7QFQcKcdNMbw9JMB",
+        "id": "DTD",
+        "name": "Dusk till Dawn",
+        "printings": [
+            {
+                "unique_id": "TtNrjrtMbCbMW8JqLNNzt",
+                "edition": "N",
+                "start_card_id": "DTD000",
+                "end_card_id": "DTD235",
+                "initial_release_date": null,
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": "https://fabtcg.com/collectors-centre/dusk-till-dawn/",
+                "card_gallery": null
+            }
+        ]
+    },
+    {
         "unique_id": "kqQtDHQ8pMgcGBRBRFT7c",
         "id": "DVR",
         "name": "Classic Battles: Rhinar vs Dorinthea – Dorinthea",
@@ -311,7 +329,7 @@
                 "unique_id": "j76qTFctqc8krqh9GKGmT",
                 "edition": "N",
                 "start_card_id": "FAB001",
-                "end_card_id": "FAB137",
+                "end_card_id": "FAB166",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
@@ -347,7 +365,7 @@
                 "unique_id": "NrpJFBQQGpNM8D9w8BBfG",
                 "edition": "N",
                 "start_card_id": "HER000",
-                "end_card_id": "HER083",
+                "end_card_id": "HER085",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
@@ -455,7 +473,7 @@
                 "unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
                 "edition": "N",
                 "start_card_id": "LGS001",
-                "end_card_id": "LGS152",
+                "end_card_id": "LGS181",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,

@@ -1,5 +1,13 @@
 [
     {
+        "unique_id": "rTHPJJPwtDCgDfcwPGQGF",
+        "name": "1H"
+    },
+    {
+        "unique_id": "Gww6n8bCkqKpnFDpGRLcP",
+        "name": "2H"
+    },
+    {
         "unique_id": "FwdBrBrwHWcPN78TcRCMT",
         "name": "Action"
     },
@@ -92,6 +100,10 @@
         "name": "Defense Reaction"
     },
     {
+        "unique_id": "bpfz7p7r6CLggKRCccT8p",
+        "name": "Demi-Hero"
+    },
+    {
         "unique_id": "kchhNfctqPFht6DFNRWhJ",
         "name": "Demon"
     },
@@ -114,6 +126,10 @@
     {
         "unique_id": "NGBgjq76Q7GHNH9P9nHgM",
         "name": "Equipment"
+    },
+    {
+        "unique_id": "QtLkb7CJCKTtgzrn7tb6N",
+        "name": "Figment"
     },
     {
         "unique_id": "CGT9kkqBNBgHJtTgWwqLn",
@@ -294,13 +310,5 @@
     {
         "unique_id": "QPtmrBGhLFbnpFMQznnwH",
         "name": "Young"
-    },
-    {
-        "unique_id": "rTHPJJPwtDCgDfcwPGQGF",
-        "name": "1H"
-    },
-    {
-        "unique_id": "Gww6n8bCkqKpnFDpGRLcP",
-        "name": "2H"
     }
 ]

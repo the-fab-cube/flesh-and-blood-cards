@@ -2,10 +2,13 @@ import json
 import psycopg2
 from pathlib import Path
 
+from helpers import upsert_array, prep_and_upsert_all
+
 def create_table(cur):
     command = """
         CREATE TABLE artists (
-            name VARCHAR(1000) NOT NULL
+            name VARCHAR(1000) NOT NULL,
+            UNIQUE (name)
         )
         """
 
@@ -32,36 +35,25 @@ def drop_table(cur):
         print(error)
         exit()
 
-def insert(cur, name):
-    def check_if_artist_exists():
-        select_sql = """SELECT name FROM artists WHERE name = %s;"""
-        select_data = (name,)
+def prep_function(artist, language):
+        name = artist['name']
 
-        try:
-            cur.execute(select_sql, select_data)
-            selected_data = cur.fetchone()
+        print("Prepping {} artist for upsert...".format(name))
 
-            return selected_data is not None
-        except (Exception, psycopg2.DatabaseError) as error:
-            print(error)
-            exit()
+        return (name,)
 
-    if check_if_artist_exists():
-        print(f"Artist {name} already exists, skipping")
-        return
+def upsert_function(cur, artists):
+        print("Upserting {} artists".format(len(artists)))
 
-    sql = """INSERT INTO artists(name)
-             VALUES(%s) RETURNING name;"""
-    data = (name,)
-
-    try:
-        print("Inserting {} artist...".format(name))
-
-        # execute the INSERT statement
-        cur.execute(sql, data)
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        exit()
+        upsert_array(
+            cur,
+            "artists",
+            artists,
+            1,
+            "(name)",
+            "(name)",
+            "NOTHING"
+        )
 
 def generate_table_data(cur, language):
     print(f"Filling out artists table from {language} artist.json...\n")
@@ -70,9 +62,6 @@ def generate_table_data(cur, language):
     with path.open(newline='') as jsonfile:
         artist_array = json.load(jsonfile)
 
-        for artist in artist_array:
-            name = artist['name']
-
-            insert(cur, name)
+        prep_and_upsert_all(cur, artist_array, prep_function, upsert_function, language)
 
         print(f"\nSuccessfully filled artists table with {language} data\n")
