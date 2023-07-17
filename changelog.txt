@@ -462,7 +462,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 06-20-23:
 - Fixed an issue with Withstand incorrectly having defense values listed
 
-07/15-23:
+07-15-23:
 - Added DTD card data - data entry assistance credit: manwaring and Firecrest
 - Added card data for FAB138-FAB143, LGS138-LGS140, LGS144-LGS149, LGS153-LGS163, LGS172-LGS174, and LGS179-LGS181
 - Added card images for LGS141-LGS143 and LSS006-LSS007
@@ -472,3 +472,14 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated CC banned status for Bull's Eye Bracers, Pulse of Isenloft, and Bloosheath Skeleta
 - Updated CC suspended status for Bloosheath Skeleta
 - Updated CC Living Legend status for `Oldhim, Grandfather of Eternity` and Winter's Wail
+
+07-16-23:
+- Added JDG008 card data
+- Fixed Chains of Mephetis being spelled incorrectly - bug notice data: manwaring
+- Fixed Diadem of Dreamstate EA printing not being marked EA - bug notice data: manwaring
+- Fixed Grim Feast missing a type text - bug notice data: manwaring
+- Fixed Spoiled Skull EA printing not being marked EA - bug notice data: manwaring
+- Fixed an issue with the functional text of Prayer of Bellona and Celestial Resolve - bug notice data: manwaring
+- Fixed an issue with Banneret of Courage, Banneret of Gallantry, Banneret of Protection, and `Bellona, Archangel of War` not being marked is not legal in Commoner - bug notice data: manwaring
+- Fixed `Bellona, Archangel of War` having the wrong foiling data - bug notice data: manwaring
+- Fixed marvel Figment of Triumph having the wrong rarity data - bug notice data: manwaring

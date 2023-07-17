@@ -271,9 +271,9 @@ w77m97tB9GPDzK6ccgkjr	Ball Lightning	2	0	2	0			Lightning, Action, Attack	Go agai
 QnKbrhtk7HFcckCBbFmkt	Ball Lightning	3	0	1	0			Lightning, Action, Attack	Go again						"Whenever a Lightning or Elemental action card would deal damage this combat chain, instead it deals that much damage plus 1.
 
 **Go again**"	Lightning Action - Attack					
-PtBr9hn97WqBzgMqNHzFp	Banneret of Courage	2	1	4	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, create a Courage token.	Light Warrior Action - Attack					
-MT7rdNFQjRncfm9DzmLdH	Banneret of Gallantry	2	1	4	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, create a Quicken token.	Light Warrior Action - Attack					
-Hkdtj7NWwgjL9znCjwM9M	Banneret of Protection	2	1	4	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, create a Spellbane Aegis token.	Light Warrior Action - Attack					
+PtBr9hn97WqBzgMqNHzFp	Banneret of Courage	2	1	4	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, create a Courage token.	Light Warrior Action - Attack				No	
+MT7rdNFQjRncfm9DzmLdH	Banneret of Gallantry	2	1	4	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, create a Quicken token.	Light Warrior Action - Attack				No	
+Hkdtj7NWwgjL9znCjwM9M	Banneret of Protection	2	1	4	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, create a Spellbane Aegis token.	Light Warrior Action - Attack				No	
 BJNg8JCdrjgzCwM6N8786	Banneret of Resilience	2	0	3	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, the next action card you defend with this turn gets +1{d}.	Light Warrior Action - Attack					
 H7rF9J86RzTp6dbPjmMRm	Banneret of Salvation	2	0	3	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, the next time you hit this turn, gain 1{h}.	Light Warrior Action - Attack					
 CnQgknqjtfWWqnwKNCWHk	Banneret of Vigor	2	0	3	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, the next time you hit this turn, gain {r}.	Light Warrior Action - Attack					
@@ -382,7 +382,7 @@ QLkz9dFQmJGnCtCRLJ9QC	Bellona, Archangel of War			4		4		Light, Angel, Ally	Ward 
 
 When Bellona attacks, you may banish a card from your hero's soul. If you do, put a +1{p} counter on each Angel you control.
 
-**Ward 4**"	Light - Angel Ally					
+**Ward 4**"	Light - Angel Ally				No	
 HT8r8mg8rHmbWJthCFHfH	Benji, the Piercing Wind					17	4	Ninja, Hero, Young							"Your attack action cards with 2 or less {p} can't be defended by cards from hand.
 
 The first time an attack action card you control hits each turn, your next attack gains +1{p}."	Ninja Hero - Young			No		
@@ -867,7 +867,7 @@ kmWrWK6PhLjLdr86QDDWP	Chains of Eminence	1	0		2			Generic, Action, Aura	Go again
 When Chains of Eminence enters the arena, name a card. The named card can't be pitched, played or used to defend while Chains of Eminence is in the arena.
 
 At the beginning of your action phase, destroy Chains of Eminence"	Generic Action - Aura				No	
-gGnbNjCkPfRrfc8QTMjgT	Chains of Mephistis	3	0		3			Shadow, Action, Aura	Blood Debt						"You may play this from your banished zone. If you do, it enters the arena with a doom counter.
+gGnbNjCkPfRrfc8QTMjgT	Chains of Mephetis	3	0		3			Shadow, Action, Aura	Blood Debt						"You may play this from your banished zone. If you do, it enters the arena with a doom counter.
 
 At the start of your turn, destroy this unless you remove a doom counter from it.
 
@@ -2241,17 +2241,17 @@ nqLhpPdNcfDcWHgLkQrM9	Grim Feast	1	3		2			Shadow, Action	Blood Debt						"You ma
 
 Gain 3{h}
 
-**Blood Debt**"					No	
+**Blood Debt**"	Shadow Action				No	
 DKMp7DQNwqh6CrkP6G6R7	Grim Feast	2	3		2			Shadow, Action	Blood Debt						"You may play this from your banished zone. If you do, it costs {r}{r} less to play.
 
 Gain 2{h}
 
-**Blood Debt**"					No	
+**Blood Debt**"	Shadow Action				No	
 BkFwNf9wHWK8LBdN9b9t6	Grim Feast	3	3		2			Shadow, Action	Blood Debt						"You may play this from your banished zone. If you do, it costs {r}{r} less to play.
 
 Gain 1{h}
 
-**Blood Debt**"					No	
+**Blood Debt**"	Shadow Action				No	
 bpcWc9DJf9pzfBczMWczJ	Grimoire of the Haunt							Shadow, Runeblade, Equipment, Off-Hand	Blood Debt, Arcane Barrier 1	Instant					"**Instant** - {r}, banish this: Create an Eloquence token.
 
 **Arcane Barrier 1**
@@ -3609,7 +3609,7 @@ If you have **boosted** this turn, put a steam counter on it.
 dkT9ghbNpFJ9qCfrPQq88	Powder Keg	3	0					Mechanologist, Action, Item							Whenever a Mechanologist gun you control hits, you may destroy Powder Keg and a defending equipment.	Mechanologist Action - Item				No	
 RznwHPTkhd7rfzzJc9dp8	Prayer of Bellona	2	1		3			Light, Warrior, Action	Charge, Go again						"Your next attack this turn gets +2{p}.
 
-Reveal the top card of your deck,  If it's yellow, put it into your hand, then **charge** you hero's soul.
+Reveal the top card of your deck. If it's yellow, put it into your hand, then **charge** your hero's soul.
 
 **Go again**"	Light Warrior Action				No	
 bGHDTHMbhKnnkgWBpNzFJ	Precision Press	1	1		3			Warrior, Action	Go again			Go again, Piercing 3			"Your next sword or dagger attack this turn has **go again** and **piercing 3**.
