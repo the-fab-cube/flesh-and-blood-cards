@@ -98,6 +98,7 @@ One of my favorite parts of maintaining this data set has been seeing all the co
 
 * fab-cards - [Repo](https://github.com/fabrary/fab-cards)
 * FaB Eco Proxy - [Website](https://aongaro.github.io/fab-eco-proxy/) • [Repo](https://github.com/aongaro/fab-eco-proxy)
+* FaB Proxy - [Website](https://fabproxy.com/)
 * Fabrary - [Website](https://fabrary.net/)
 * Flesh and Blood TCG Analysis Environment - [Repo](https://github.com/HarrisonTotty/fab)
 * Legendary Stories - [Website](https://legendarystories.net/) • [Repo](https://github.com/nathaneastwood/fablore)

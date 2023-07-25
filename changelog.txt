@@ -475,11 +475,16 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 07-16-23:
 - Added JDG008 card data
-- Fixed Chains of Mephetis being spelled incorrectly - bug notice data: manwaring
-- Fixed Diadem of Dreamstate EA printing not being marked EA - bug notice data: manwaring
-- Fixed Grim Feast missing a type text - bug notice data: manwaring
-- Fixed Spoiled Skull EA printing not being marked EA - bug notice data: manwaring
-- Fixed an issue with the functional text of Prayer of Bellona and Celestial Resolve - bug notice data: manwaring
-- Fixed an issue with Banneret of Courage, Banneret of Gallantry, Banneret of Protection, and `Bellona, Archangel of War` not being marked is not legal in Commoner - bug notice data: manwaring
-- Fixed `Bellona, Archangel of War` having the wrong foiling data - bug notice data: manwaring
-- Fixed marvel Figment of Triumph having the wrong rarity data - bug notice data: manwaring
+- Fixed Chains of Mephetis being spelled incorrectly - bug notice credit: manwaring
+- Fixed Diadem of Dreamstate EA printing not being marked EA - bug notice credit: manwaring
+- Fixed Grim Feast missing a type text - bug notice credit: manwaring
+- Fixed Spoiled Skull EA printing not being marked EA - bug notice credit: manwaring
+- Fixed an issue with the functional text of Prayer of Bellona and Celestial Resolve - bug notice credit: manwaring
+- Fixed an issue with Banneret of Courage, Banneret of Gallantry, Banneret of Protection, and `Bellona, Archangel of War` not being marked is not legal in Commoner - bug notice credit: manwaring
+- Fixed `Bellona, Archangel of War` having the wrong foiling data - bug notice credit: manwaring
+- Fixed marvel Figment of Triumph having the wrong rarity data - bug notice credit: manwaring
+
+07-24-23:
+- Fixed Hell Hammer not being marked as Rare - bugfix credit: manwaring
+- Fixed the type text of Phantasmify - bugfix credit: manwaring
+- Fixed Soul Cleaver yellow and blue having incorrect power

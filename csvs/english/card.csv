@@ -3430,13 +3430,13 @@ MMzFRrNNFDjrbKDjtpNzL	Phantasmal Symbiosis	2	1	6	3			Illusionist, Action, Attack
 **Phantasm**"	Illusionist Action - Attack				No	
 jw6p7dcmQGwMF86LfJrbF	Phantasmify	1	1		2			Illusionist, Action	Go again			Phantasm			"The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5{p} and **phantasm**.
 
-**Go again**"	Illusionist Instant				No	
+**Go again**"	Illusionist Action				No	
 dPbDhHRWLfGK8tDtRNmHg	Phantasmify	2	1		2			Illusionist, Action	Go again			Phantasm			"The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +4{p} and **phantasm**.
 
-**Go again**"	Illusionist Instant				No	
+**Go again**"	Illusionist Action				No	
 cFhn8KcQF7jhzkgPfCQRn	Phantasmify	3	1		2			Illusionist, Action	Go again			Phantasm			"The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +3{p} and **phantasm**.
 
-**Go again**"	Illusionist Instant				No	
+**Go again**"	Illusionist Action				No	
 kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1	0	0				Draconic, Action, Attack	Go again						"*(A player may add up to 3 Phoenix Flame to their deck in an Uprising limited format.)*
 
 If you control 2 or more Draconic chain links, Phoenix Flame has +1{p}.
@@ -4874,10 +4874,10 @@ QchDmTfCPjWBL89NWRdRL	Soul Butcher	3	2	4	2			Shadow, Action, Attack	Blood Debt		
 KGpj8kWJ9dRHnn7KRcbP8	Soul Cleaver	1	2	6	2			Shadow, Action, Attack	Blood Debt, Go again						"If the defending hero has 1 or more cards in their soul, this gets **go again**.
 
 **Blood Debt**"	Shadow Action - Attack					
-jPRhzznmc6gRHTJKmcRfr	Soul Cleaver	2	2	6	2			Shadow, Action, Attack	Blood Debt, Go again						"If the defending hero has 1 or more cards in their soul, this gets **go again**.
+jPRhzznmc6gRHTJKmcRfr	Soul Cleaver	2	2	5	2			Shadow, Action, Attack	Blood Debt, Go again						"If the defending hero has 1 or more cards in their soul, this gets **go again**.
 
 **Blood Debt**"	Shadow Action - Attack					
-w77zDhDthpW7pp97wHFf7	Soul Cleaver	3	2	6	2			Shadow, Action, Attack	Blood Debt, Go again						"If the defending hero has 1 or more cards in their soul, this gets **go again**.
+w77zDhDthpW7pp97wHFf7	Soul Cleaver	3	2	4	2			Shadow, Action, Attack	Blood Debt, Go again						"If the defending hero has 1 or more cards in their soul, this gets **go again**.
 
 **Blood Debt**"	Shadow Action - Attack					
 kkcHdRDmJT7pHqPzMRRwp	Soul Food	2	0		2			Light, Action							Put Soul Food and all cards in your hand into your hero's soul.	Light Action				No	
