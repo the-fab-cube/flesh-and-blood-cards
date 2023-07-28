@@ -489,3 +489,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed the type text of Phantasmify - bugfix credit: manwaring
 - Fixed Soul Cleaver yellow and blue having incorrect power
 - Fixed Blood Dripping Frenzy incorrectly having Blood Debt as a Card Keyword
+
+07-28-23:
+- Removed flavor text from Bloodrot Pox, Frailty, and Inertia printings that do not have flavor text
