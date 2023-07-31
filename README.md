@@ -1,5 +1,5 @@
 # Flesh and Blood Cards
-[Patreon](https://www.patreon.com/TheFabCube) &#183; [Releases](https://github.com/the-fab-cube/flesh-and-blood-cards/releases)
+[Patreon](https://www.patreon.com/TheFabCube) &#183; [Discord](https://discord.gg/NRKZsmEJm2) &#183; [Releases](https://github.com/the-fab-cube/flesh-and-blood-cards/releases)
 
 ## Table of Contents
 1. [General Overview](#general-overview)
