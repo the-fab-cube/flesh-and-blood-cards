@@ -20,49 +20,49 @@ print("Validating CSV references...\n")
 errors = False
 
 # Build a list of art variations
-variation_filename = 'csvs/english/art-variation.csv'
+variation_filename = '../../csvs/english/art-variation.csv'
 with open(variation_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     allowed_variations = [x['Shorthand'] for x in reader]
 
 # Build a list of card types
-type_filename = 'csvs/english/type.csv'
+type_filename = '../../csvs/english/type.csv'
 with open(type_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     allowed_types = [x['Name'] for x in reader]
 
 # Build a list of editions
-edition_filename = 'csvs/english/edition.csv'
+edition_filename = '../../csvs/english/edition.csv'
 with open(edition_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     allowed_editions = [x['Shorthand'] for x in reader]
 
 # Build a list of foilings
-foiling_filename = 'csvs/english/foiling.csv'
+foiling_filename = '../../csvs/english/foiling.csv'
 with open(foiling_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     allowed_foilings = [x['Shorthand'] for x in reader]
 
 # Build a list of rarities
-rarity_filename = 'csvs/english/rarity.csv'
+rarity_filename = '../../csvs/english/rarity.csv'
 with open(rarity_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     allowed_rarities = [x['Shorthand'] for x in reader]
 
 # Build a list of sets
-set_filename = 'csvs/english/set.csv'
+set_filename = '../../csvs/english/set.csv'
 with open(set_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     allowed_sets = {x['Identifier']:x for x in reader}
 
 # Build a list of set printings
-set_printing_filename = 'csvs/english/set-printing.csv'
+set_printing_filename = '../../csvs/english/set-printing.csv'
 with open(set_printing_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     allowed_set_printings = {x['Unique ID']:x for x in reader}
 
 # Build a list of card unique_ids
-card_filename = 'csvs/english/card.csv'
+card_filename = '../../csvs/english/card.csv'
 with open(card_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     allowed_card_unique_ids = []
@@ -71,7 +71,7 @@ with open(card_filename, newline='') as csvfile:
         allowed_card_unique_ids.append(row['Unique ID'])
 
 # Build a list of card printing unique_ids
-card_printing_filename = 'csvs/english/card-printing.csv'
+card_printing_filename = '../../csvs/english/card-printing.csv'
 with open(card_printing_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     allowed_card_printing_unique_ids = []
@@ -81,19 +81,19 @@ with open(card_printing_filename, newline='') as csvfile:
 
 # Scan card legality CSVs for errors
 legality_csv_filenames = [
-    'csvs/english/banned-blitz.csv',
-    'csvs/english/banned-cc.csv',
-    'csvs/english/banned-commoner.csv',
-    'csvs/english/banned-upf.csv',
-    'csvs/english/living-legend-blitz.csv',
-    'csvs/english/living-legend-cc.csv',
-    'csvs/english/suspended-blitz.csv',
-    'csvs/english/suspended-cc.csv',
-    'csvs/english/suspended-commoner.csv',
+    '../../csvs/english/banned-blitz.csv',
+    '../../csvs/english/banned-cc.csv',
+    '../../csvs/english/banned-commoner.csv',
+    '../../csvs/english/banned-upf.csv',
+    '../../csvs/english/living-legend-blitz.csv',
+    '../../csvs/english/living-legend-cc.csv',
+    '../../csvs/english/suspended-blitz.csv',
+    '../../csvs/english/suspended-cc.csv',
+    '../../csvs/english/suspended-commoner.csv',
 ]
 
 for legality_filename in legality_csv_filenames:
-    legality_filename = 'csvs/english/banned-blitz.csv'
+    legality_filename = '../../csvs/english/banned-blitz.csv'
     with open(legality_filename, newline='') as csvfile:
         reader = csv.DictReader(csvfile, delimiter="\t")
         for row in reader:
@@ -104,7 +104,7 @@ for legality_filename in legality_csv_filenames:
                 errors = True
 
 # Scan card.csv for errors
-card_filename = 'csvs/english/card.csv'
+card_filename = '../../csvs/english/card.csv'
 with open(card_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     for row in reader:
@@ -118,7 +118,7 @@ with open(card_filename, newline='') as csvfile:
                 errors = True
 
 # Scan card-printing.csv for errors
-card_printing_filename = 'csvs/english/card-printing.csv'
+card_printing_filename = '../../csvs/english/card-printing.csv'
 with open(card_printing_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     for row in reader:
@@ -195,7 +195,7 @@ with open(card_printing_filename, newline='') as csvfile:
 
 
 # Scan card-face-association.csv for errors
-card_face_association_filename = 'csvs/english/card-face-association.csv'
+card_face_association_filename = '../../csvs/english/card-face-association.csv'
 with open(card_face_association_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     for row in reader:
@@ -215,7 +215,7 @@ with open(card_face_association_filename, newline='') as csvfile:
 
 
 # Scan card-reference.csv for errors
-card_reference_filename = 'csvs/english/card-reference.csv'
+card_reference_filename = '../../csvs/english/card-reference.csv'
 with open(card_reference_filename, newline='') as csvfile:
     reader = csv.DictReader(csvfile, delimiter="\t")
     for row in reader:

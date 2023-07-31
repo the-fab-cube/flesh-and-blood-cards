@@ -80,7 +80,7 @@ def process_file(filename):
 
 
 # Add any additional files to be cleaned here.
-csvs_path = 'csvs'
+csvs_path = '../../csvs'
 for language_name in os.listdir(csvs_path):
     language_path = os.path.join(csvs_path, language_name)
     if os.path.isdir(language_path):
