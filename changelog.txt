@@ -492,3 +492,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 07-28-23:
 - Removed flavor text from Bloodrot Pox, Frailty, and Inertia printings that do not have flavor text
+
+07-30-23:
+- Fixed issue with Levia, Redeemed having a printing listed incorrectly as Rainbow Foil instead of Standard
+- Fixed issue with Reality Refractor having a printing listed incorrectly as Rainbow Foil instead of Cold Foil
