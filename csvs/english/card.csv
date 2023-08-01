@@ -3684,6 +3684,10 @@ If Promise of Plenty is played from arsenal, it gains **go again**."	Generic Act
 g9LhkTgkgNBCtwmcPCgdP	Promise of Plenty	3	0	1	2			Generic, Action, Attack	Go again						"If Promise of Plenty hits, each hero who doesn't have a card in their arsenal puts the top card of their deck face down into their arsenal.
 
 If Promise of Plenty is played from arsenal, it gains **go again**."	Generic Action - Attack				No	
+kWMK7khntdgCmPBhqmkJ9	Proto Base Arms							Mechanologist, Equipment, Base, Arms								Mechanologist Equipment - Base Arms					
+cNNm9qpcDKNGdmMgr9htd	Proto Base Chest							Mechanologist, Equipment, Base, Chest								Mechanologist Equipment - Base Chest					
+MfJzLNc8CpcPLnpqfQGtN	Proto Base Head							Mechanologist, Equipment, Base, Head								Mechanologist Equipment - Base Head					
+nggPgQmcj9hBWttfDrKtn	Proto Base Legs							Mechanologist, Equipment, Base, Legs								Mechanologist Equipment - Base Legs					
 zcrKbBF8hrk9bfG7cWWfF	Prowl	1	0	3	3			Assassin, Action, Attack	Stealth					Stealth	"**Stealth**
 
 The next attack with **stealth** you play this combat chain gains +1{p}."	Assassin Action - Attack					
@@ -5320,6 +5324,10 @@ hwnbrjRKLGTmzF8wf6QDH	Tearing Shuko				1			Ninja, Equipment, Arms	Battleworn	Ins
 TN6DmN7GK9DtMKd9pnmwF	Tectonic Plating				2			Guardian, Equipment, Chest	Battleworn						"**Once per turn Action** - {r}: Create a Seismic Surge aura token. **Go again**
 
 **Battleworn**"	Guardian Equipment - Chest				No	
+ddc8cKjhFDgfDQqdpcRjB	Teklo Base Arms				1			Mechanologist, Equipment, Base, Arms	Blade Break						**Blade Break**	Mechanologist Equipment - Base Arms					
+LHBn8grtppJpC8gBmzfrd	Teklo Base Chest				1			Mechanologist, Equipment, Base, Chest	Blade Break						**Blade Break**	Mechanologist Equipment - Base Chest					
+DkcTJhjgpTcfrhDFffL6q	Teklo Base Head				1			Mechanologist, Equipment, Base, Head	Blade Break						**Blade Break**	Mechanologist Equipment - Base Head					
+RGPqjKtjJdcNLcrb8NGmN	Teklo Base Legs				1			Mechanologist, Equipment, Base, Legs	Blade Break						**Blade Break**	Mechanologist Equipment - Base Legs					
 WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	0					Mechanologist, Action, Item	Dash Specialization						"**Dash Specialization**
 
 Teklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.
@@ -5334,6 +5342,12 @@ fNFqtdWLq6tCPnnwjLLWL	Teklo Plasma Pistol			2				Mechanologist, Weapon, Pistol, 
 DgWtHJjggBQdwKWNpMKLz	Teklo Pounder	3	2					Mechanologist, Action, Item		Once per Turn Effect					"Teklo Pounder enters the arena with 3 steam counters on it. When Teklo Pounder has no steam counters on it, destroy it.
 
 **Once per Turn Effect** - Whenever you boost an attack action card, remove a steam counter from Teklo Pounder. If you do, the attack gains +2{p}."	Mechanologist Action - Item				No	
+ndKnMFtcDt8JmPFD6bfbk	Teklovossen, Esteemed Magnate					40	4	Mechanologist, Hero		Once per Turn Instant					"You may play Evos from your banished zone.
+
+**Once per Turn Instant** - {r}{r}{r}: You may play your next Evo this turn as though it were an instant. When you do, draw a card."	Mechanologist Hero		No		No	
+6PPFnJ8tNtPKN6Km7NWpp	Teklovossen					20	4	Mechanologist, Hero, Young		Once per Turn Instant					"You may play Evos from your banished zone.
+
+**Once per Turn Instant** - {r}{r}{r}: You may play your next Evo this turn as though it were an instant. When you do, draw a card."	Mechanologist Hero - Young			No		
 r7dKM6g7knTpRG9fg9rGP	Teklovossen's Workshop	1	0		3			Mechanologist, Action	Opt X					Boost	"**Opt X**, where X is the number of times you have **boosted** this turn.
 
 Reveal the top card of your deck. If it's a Mechanologist item card with cost 2 or less, put it into the arena."	Mechanologist Action					
@@ -5352,6 +5366,10 @@ LWgK7g7ftJ6kWhjg9RQH7	Tempest Aurora	2	0		2			Wizard, Action	Go again						"The 
 RLFbbtnr6PH8fKBQmHLCg	Tempest Aurora	3	0		2			Wizard, Action	Go again						"The next card you play this turn with cost 0 and an arcane damage effect, instead deals that much arcane damage plus 1.
 
 **Go again**"	Wizard Action					
+zknqNdwtDMrHbRpgKkBJw	Terminator Tank	1	6	6	3			Mechanologist, Action, Attack	Overpower						"If you have 1 or more Evos equipped, this gets ""When this hits a hero, they discard a card,""
+* 2 or more, this costs {r}{r}{r} less to play,
+* 3 or more, this gets **overpower**,
+* 4 or more, this gets +3{p}."	Mechanologist Action - Attack		No		No	
 89p6tjT7cTLrGWkKrRkjt	That All You Got?	2	0		3			Generic, Defense Reaction							While this is defending an attack with 2 or less {p}, when the combat chain closes, draw a card.	Generic Defense Reaction				No	
 dJCRQcRmp7mhMTNDRgFN8	Thaw	1	2	6	2			Draconic, Action, Attack				Unfreeze			"While thaw is in your graveyard, at the start of your turn, you may banish it and choose 1:
 
