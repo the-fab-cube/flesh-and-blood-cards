@@ -1330,6 +1330,7 @@ If a 'non-attack' action card was pitched to play Diabolic Ultimatum, each hero 
 LFhRKcJC6fbfQjKdqLqp7	Diadem of Dreamstate							Illusionist, Equipment, Head	Ward 2					Ward	"Once per turn, when this or a non-token permanent you control with **ward** is destroyed, you may pay {r}. If you do, create a Ponder token.
 
 **Ward 2**"	Illusionist Equipment - Head				No	
+HRTwtGRhPJkpHT8fN9DGp	Diamond							Generic, Token, Item		Action	Go again				**Action** - Destroy Diamond: Draw a card. **Go again**	Generic Token - Item					
 QgkQT8TfFkgPfKbqmF9pb	Dig Up Dinner	3	1		3			Brute, Action	Go again						"Choose 3 random cards in your graveyard. Shuffle all attack action cards with 6 or more {p} chosen this way into your deck, then gain that much {h}. Banish this.
 
 **Go again**"	Brute Action				No	
@@ -4413,9 +4414,9 @@ z6fwbc9tNttQCzDHGtCFP	Scramble Pulse	3	2	3	3			Mechanologist, Action, Attack	Boo
 jqRDtJRT9rF7rwC6pdfJD	Searing Emberblade			3				Draconic, Ninja, Weapon, Sword, 2H		Once per Turn Action	Go again				"**Once per Turn Action** - {r}{r}: **Attack**
 
 If you control 2 or more Draconic chain links, Searing Emberblade has **go again**."	Draconic Ninja Weapon - Sword (2H)					
-MQ6FHQhJGFpMdrFHgfPQD	Searing Ray	1	1	4	2			Light, Action, Attack							If you have a yellow card in your pitch zone, this gets +2{p}.	Light Action - Attack					Edward Chee
-WWnjTMBz9qJNpHmNgdRN9	Searing Ray	2	1	3	2			Light, Action, Attack							If you have a yellow card in your pitch zone, this gets +2{p}.	Light Action - Attack					Edward Chee
-cmgTkM7PKHKtkLHkJPDPk	Searing Ray	3	1	2	2			Light, Action, Attack							If you have a yellow card in your pitch zone, this gets +2{p}.	Light Action - Attack					Edward Chee
+MQ6FHQhJGFpMdrFHgfPQD	Searing Ray	1	1	4	2			Light, Action, Attack							If you have a yellow card in your pitch zone, this gets +2{p}.	Light Action - Attack					
+WWnjTMBz9qJNpHmNgdRN9	Searing Ray	2	1	3	2			Light, Action, Attack							If you have a yellow card in your pitch zone, this gets +2{p}.	Light Action - Attack					
+cmgTkM7PKHKtkLHkJPDPk	Searing Ray	3	1	2	2			Light, Action, Attack							If you have a yellow card in your pitch zone, this gets +2{p}.	Light Action - Attack					
 GWJzpmmcLCPm6bbfM8zR9	Searing Shot	1	0	4	3			Ranger, Action, Arrow, Attack							If Searing Shot hits a hero, they lose 1{h}.	Ranger Action - Arrow Attack					
 bPpNFbJnhrLkgqjMRRFJp	Searing Shot	2	0	3	3			Ranger, Action, Arrow, Attack							If Searing Shot hits a hero, they lose 1{h}.	Ranger Action - Arrow Attack					
 JmQpWjPbn6JmmppNRDprh	Searing Shot	3	0	2	3			Ranger, Action, Arrow, Attack							If Searing Shot hits a hero, they lose 1{h}.	Ranger Action - Arrow Attack					
@@ -4685,6 +4686,7 @@ TNJz9fCgqmhhLz9rP9tkt	Silver							Generic, Token, Item		Action	Go again				**Ac
 gCgcRpmr76G6zmFgpprRw	Silver Palms				2			Merchant, Equipment, Arms	Blade Break						"At the start of each other hero's turn, if they have less {h} than you, they may draw a card. If they do, you create a Silver token.
 
 **Blade Break**"	Merchant Equipment - Arms				No	
+NmgpFhWdc8zCKPKMBmttP	Silversheen Needle							Generic, Equipment, Off-hand				Go again			Your constructs with Fabric in their name gain **go again**.	Generic Equipment - Off-hand		No	No	No	
 jc7QRqTTh6cccdTjFmBf9	Silver the Tip	1	1		2			Ranger, Action	Go again						"If you have no cards in your arsenal, look at the top 4 cards of your deck. You may put an arrow card from among them face up into your arsenal, then put the rest on the bottom of your deck in any order.
 
 **Go again**"	Ranger Action				No	
