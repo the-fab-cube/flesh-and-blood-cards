@@ -17,3 +17,6 @@
 
 06-19-23:
 - Updated the script to use the new CSV formats
+
+08-24-23:
+- Added .python-version file
