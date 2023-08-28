@@ -502,4 +502,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card images for WIN001-WIN024
 
 08-25-23:
-- Fixed incorrect capitalization of Off-Hand in Silversheen Needle's type info
+- Fixed incorrect capitalization of Off-Hand in Silversheen Needle's type info - bug notice credit: dcollinsn
+
+08-26-23:
+- Fixed incorrect power for Codex of Frailty - bug notice credit: Stingray
