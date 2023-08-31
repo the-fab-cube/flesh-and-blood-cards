@@ -160,6 +160,9 @@ wJQMt6Lpf6D9JFQ8BW898	Anthem of Spring	3	0		2			Earth, Action	Briar Specializati
 The next attack action card you play this turn gets +1{p}. **Go again**
 
 **Unity** - When this defends together with a card from hand, create an Embodiment of Earth token under any number of heroes' control."	Earth Action				No	
+mHnppNNqw9hMncFgCJdCB	Apocalypse Automaton	1	3	6	3			Mechanologist, Action, Attack	Evo Upgrade						"Play this only if you have 1 or more Evos equipped.
+
+**Evo Upgrade** - This attacks up to X target opposing heroes, where X is the number of Evos you have equipped."	Mechanologist Action - Attack				No	
 9F7RHWjLgCDRqwMww99GN	Arakni					20	4	Assassin, Hero, Young							Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.	Assassin Hero - Young					
 CKtFCgnGdwMDBh7dzDqqz	Arakni, Huntsman					40	4	Assassin, Hero							Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.	Assassin Hero				No	
 jkwfjdcDbhRnDrPWDnwT9	Arakni, Solitary Confinement					19	4	Assassin, Hero, Young				Go again		Stealth	Your first attack with **stealth** each turn has **go again**.	Assassin Hero - Young					
@@ -314,6 +317,9 @@ While Barraging Big Horn is defended by less than 2 non-equipment cards, it has 
 8h9W9mdd6djDk6JCMCdGt	Barraging Brawnhide	1	3	7	2			Generic, Action, Attack							While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack					
 hJdQ9Bfwm8Fz8kdtzHHqL	Barraging Brawnhide	2	3	6	2			Generic, Action, Attack							While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack					
 9FcqNtGpHg68zzCggJkkP	Barraging Brawnhide	3	3	5	2			Generic, Action, Attack							While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack					
+8QrLPLnBTwCjng6NzNtgp	Bastion of Duty				2			Guardian, Equipment, Off-Hand	Protect, Temper						"**Protect**
+
+**Temper**"	Guardian Equipment - Off-Hand					
 QKgbfzgpnzfq7HKgWTzRg	Bastion of Unity				1			Warrior, Equipment, Off-Hand	Unity, Temper						"**Unity** - When this defends together with a card from hand, this gets +1{d} until end of turn.
 
 **Temper**"	Warrior Equipment - Off-hand				No	
@@ -436,7 +442,7 @@ If Biting Gale was **fused**, the attacking hero discards a card unless they pay
 NWbL6RKjbRBKQJphmHDmk	Biting Gale	3	2		2			Elemental, Guardian, Defense Reaction	Ice Fusion						"**Ice Fusion**
 
 If Biting Gale was **fused**, the attacking hero discards a card unless they pay {r}{r}."	Elemental Guardian Defense Reaction				No	
-HQPwgkmgJzK6ncfgQ7QBC	Bittering Thorns	2	1	3	2			Ninja, Action, Attack	Go again						"If Bittering Thorns hits, your next attack this turn gains +1{p}.
+HQPwgkmgJzK6ncfgQ7QBC	Bittering Thorns	2	1	3	2			Ninja, Action, Attack	Go again						"When this hits, your next attack this turn gains +1{p}.
 
 **Go again**"	Ninja Action - Attack					
 BdktjfJkbNJzMfKQ6Mtrd	Blackout Kick	1	1	4	3			Ninja, Action, Attack	Combo						**Combo** - If Rising Knee Thrust was the last attack this combat chain, Blackout Kick gains +3{p}.	Ninja Action - Attack				No	
@@ -575,6 +581,9 @@ Your Brute and Shadow attacks get +X{p} this turn where X is the number of cards
 
 **Go again**"	Shadow Brute Action				No	
 JfBCWJdFBcrnhdkjRj6tz	Blood Drop Brocade				0			Generic, Equipment, Chest		Instant					**Instant** - Destroy Blood Drop Brocade: Gain {r}. Activate this ability only if you have dealt or been dealt {p} damage this turn.	Generic Equipment - Chest					
+Lmfc89kGcH66W6BRqCfb7	Blood Tribute	1	0					Shadow, Instant	Opt 3						**Opt 3**, then banish the top card of your deck.	Shadow Instant					
+kmWDHgcj8hrqMgrtJ6dwW	Blood Tribute	2	0					Shadow, Instant	Opt 2						**Opt 2**, then banish the top card of your deck.	Shadow Instant					
+tdqH9kBqn9TbjRBHHDrfP	Blood Tribute	3	0					Shadow, Instant	Opt 1						**Opt 1**, then banish the top card of your deck.	Shadow Instant					
 nqFNHFqP79nMk7TKM9r8T	Blood of the Dracai	1						Draconic, Resource, Gem	Legendary						"**Legendary**
 
 When you pitch Blood of the Dracai, the next 3 Draconic cards you play this turn cost {r} less."	Draconic Resource - Gem				No	
@@ -587,9 +596,6 @@ As an additional cost to play Blood on Her Hands, destroy any number of Copper y
 - Target 1H weapon may attack twice this turn.
 
 **Go again**"	Warrior Action				No	
-Lmfc89kGcH66W6BRqCfb7	Blood Tribute	1	0					Shadow, Instant	Opt 3						**Opt 3**, then banish the top card of your deck.	Shadow Instant					
-kmWDHgcj8hrqMgrtJ6dwW	Blood Tribute	2	0					Shadow, Instant	Opt 2						**Opt 2**, then banish the top card of your deck.	Shadow Instant					
-tdqH9kBqn9TbjRBHHDrfP	Blood Tribute	3	0					Shadow, Instant	Opt 1						**Opt 1**, then banish the top card of your deck.	Shadow Instant					
 drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox							Generic, Token, Aura							At the beginning of your end phase, destroy Bloodrot Pox, then it deals 2 damage to you unless you pay {r}{r}{r}.	Generic Token - Aura					
 MrtrMDKjt868mrrb9cjJW	Bloodrot Trap	1	0		3			Assassin, Ranger, Defense Reaction, Trap							When this defends and the attacking hero has played or activated a reaction this chain link, create a Bloodrot Pox token under their control.	Assassin / Ranger Defense Reaction - Trap					
 fTbpMzhTMBwFNCpGKCft7	Bloodrush Bellow	2	1		3			Brute, Action	Go again						"As an additional cost to play Bloodrush Bellow, discard a random card.
@@ -725,10 +731,10 @@ At the start of your turn, you may reveal an Earth, an Ice, and a Lightning card
 GgpnHWbh8m96MdHdCRmnW	Break Ground	1	3	7	2			Earth, Action, Attack							When you attack with Break Ground, you may put a card from your arsenal on the bottom of your deck. If you do, draw a card.	Earth Action - Attack					
 bmLJpC7grdNJm9cdfhTTc	Break Ground	2	3	6	2			Earth, Action, Attack							When you attack with Break Ground, you may put a card from your arsenal on the bottom of your deck. If you do, draw a card.	Earth Action - Attack					
 FTnCF8qDgpz9T9LDbpbf8	Break Ground	3	3	5	2			Earth, Action, Attack							When you attack with Break Ground, you may put a card from your arsenal on the bottom of your deck. If you do, draw a card.	Earth Action - Attack					
+wgLPnnJb8QW7WH6zRFbNr	Break Tide	2	0	2	3			Ninja, Action, Attack	Combo, Dominate						"**Combo** - If Rushing River or Flood of Force was the last attack this combat chain, Break Tide gains +3{p}, **dominate**, and ""If Break Tide hits, banish the top card of your deck. Until the end of your next turn, you may play it."""	Ninja Action - Attack				No	
 jWrgGqDQrJcHQ8PF7htmc	Break of Dawn	1	0					Light, Instant							The next time a Shadow source would deal damage this turn, prevent 4 of that damage.	Light Instant					
 L9ckNFnGCDh9tQtCg8rm6	Break of Dawn	2	0					Light, Instant							The next time a Shadow source would deal damage this turn, prevent 3 of that damage.	Light Instant					
 GGH7Jb9gBH68rFcMCWWcd	Break of Dawn	3	0					Light, Instant							The next time a Shadow source would deal damage this turn, prevent 2 of that damage.	Light Instant					
-wgLPnnJb8QW7WH6zRFbNr	Break Tide	2	0	2	3			Ninja, Action, Attack	Combo, Dominate						"**Combo** - If Rushing River or Flood of Force was the last attack this combat chain, Break Tide gains +3{p}, **dominate**, and ""If Break Tide hits, banish the top card of your deck. Until the end of your next turn, you may play it."""	Ninja Action - Attack				No	
 qT78mFRmt9KQfQdGwfnJD	Breaking Point	1	1	5	3			Draconic, Action, Attack	Rupture						"**Rupture** - If Breaking Point is played as chain link 4 or higher, it has ""When this hits a hero, destroy all cards in their arsenal."""	Draconic Action - Attack					
 6dMC789mNcrmnMPWGMdhb	Breaking Scales				1			Ninja, Equipment, Arms	Battleworn	Attack Reaction				Combo	"**Attack Reaction** - Destroy Breaking Scales: Target attack action card with **combo** gains +1{p}.
 
@@ -745,6 +751,9 @@ If the discarded card has 6 or more {p}, Breakneck Battery gains **go again**."	
 LQFQqtHDnRNhPQ6GP8z9j	Breeze Rider Boots				1			Ninja, Equipment, Legs	Battleworn			Go again		Combo	"When a Ninja attack action card you control hits, you may destroy Breeze Rider Boots. If you do, attack action cards with **combo** gain **go again** this turn.
 
 **Battleworn**"	Ninja Equipment - Legs				No	
+jBtHRMcRntDhhGzKtzKFB	Brevant, Civic Protector					20	4	Guardian, Hero, Young						Protect	"You may have any number of Chivalry in your deck.
+
+Whenever you **protect** another hero, create a Might token."	Guardian Hero - Young			No	No	
 7TjkgnbJ8tghfrkMRnTfW	Briar					20	4	Elemental, Runeblade, Hero, Young	Essence of Earth and Lightning						"**Essence of Earth and Lightning**
 
 The first time an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.
@@ -886,16 +895,16 @@ KCBB8CThnKNQBNGwmrtpn	Channel Mount Heroic	1	3		3			Earth, Action, Aura	Go again
 Attack action cards you control have +3{p}.
 
 **Channel Earth** - At the beginning of your end phase, put an flow counter on Channel Mount Heroic then destroy it unless you put an Earth card from your pitch zone on the bottom of your deck for each flow counter on it."	Earth Action - Aura				No	
-GNKLdtBGNh9BrPr9dTm69	Channel the Bleak Expanse	3	1		2			Ice, Action, Aura	Go again, Channel Ice						"**Go again**
-
-Heroes can't reveal cards, search decks, or draw cards from effects.
-
-**Channel Ice** - At the beginning of your end phase, put a flow counter on Channel the Bleak Expanse then destroy it unless you put an Ice card from your pitch zone on the bottom of your deck for each flow counter on it."	Ice Action - Aura				No	
 wDhLmGq88hHqJkBg89QDP	Channel Thunder Steppe	2	1		3			Lightning, Action, Aura	Go again, Channel Lightning			Go again			"**Go again**
 
 Whenever you play an action card, you may pay {r}. If you do, it gains **go again**.
 
 **Channel Lightning** - At the beginning of your end phase, put a flow counter on Channel Thunder Steppe then destroy it unless you put a Lightning card from your pitch zone on the bottom of your deck for each flow counter on it."	Lightning Action - Aura				No	
+GNKLdtBGNh9BrPr9dTm69	Channel the Bleak Expanse	3	1		2			Ice, Action, Aura	Go again, Channel Ice						"**Go again**
+
+Heroes can't reveal cards, search decks, or draw cards from effects.
+
+**Channel Ice** - At the beginning of your end phase, put a flow counter on Channel the Bleak Expanse then destroy it unless you put an Ice card from your pitch zone on the bottom of your deck for each flow counter on it."	Ice Action - Aura				No	
 rWccJ7CMn69khJP7QJ7G9	Charge of the Light Brigade	1	0		3			Light, Warrior, Action	Go again					Charge	"The next attack you **charge** to play this turn gets +3{p}.
 
 **Go again**"	Light Warrior Action					
@@ -926,6 +935,7 @@ If Chilling Icevein was **fused**, whenever an attack deals damage to a hero thi
 cgPN7GPMwTTwzrwn6fcm8	Chilling Icevein	3	1	3	3			Elemental, Ranger, Action, Arrow, Attack	Ice Fusion						"**Ice Fusion**
 
 If Chilling Icevein was **fused**, whenever an attack deals damage to a hero this turn, they discard a card unless they pay {r}."	Elemental Ranger Action - Arrow Attack					
+WtQz7cpTHPLGqtFLFJwjj	Chivalry	3			3			Guardian, Block	Protect						**Protect**	Guardian Block					
 fzzJk9PmQWWNpWN9qWHCH	Chokeslam	1	4	8	3			Guardian, Action, Attack	Crush						**Crush** - If Chokeslam deals 4 or more damage to a hero, attack action cards they control can't gain {p} during their next action phase.	Guardian Action - Attack					
 NQtBMGcTc8mwL9Whpm6RQ	Chokeslam	2	4	7	3			Guardian, Action, Attack	Crush						**Crush** - If Chokeslam deals 4 or more damage to a hero, attack action cards they control can't gain {p} during their next action phase.	Guardian Action - Attack					
 hTcPj7fQfqChgCnpMCDPB	Chokeslam	3	4	6	3			Guardian, Action, Attack	Crush						**Crush** - If Chokeslam deals 4 or more damage to a hero, attack action cards they control can't gain {p} during their next action phase.	Guardian Action - Attack					
@@ -955,6 +965,18 @@ tWNrwHgH8LJbC8ndwkwPz	Cinderskin Devotion	3	1	2	3			Draconic, Ninja, Action, Att
 PpwQBBjqmBbgBrKMPbbBr	Cintari Saber			2				Warrior, Weapon, Sword, 1H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 Whenever Cintari Saber is defended by 1 or more attack action cards, it gains +1{p} until end of turn."	Warrior Weapon - Sword (1H)					
+TwcL67rLrL9CfqgFdPF9t	Civic Duty				2			Guardian, Equipment, Chest	Temper						"Whenever this defends, create a Vigor token under another hero's control.
+
+**Temper**"	Guardian Equipment - Chest					
+zFTw6RPr76Gc7cqPMFBzz	Civic Guide				2			Guardian, Equipment, Arms	Temper						"Whenever this defends, create a Might token under another hero's control.
+
+**Temper**"	Guardian Equipment - Arms					
+CjRzTWJcLTzzfkhwCRK7K	Civic Peak				2			Guardian, Equipment, Head	Temper						"Whenever this defends, another target hero draws a card.
+
+**Temper**"	Guardian Equipment - Head					
+qQ9JC8BtngfRq7n9pqpKM	Civic Steps				2			Guardian, Equipment, Legs	Temper						"Whenever this defends, create a Quicken token under another hero's control.
+
+**Temper**"	Guardian Equipment - Legs					
 M8HJKTz7QwHTjGtjdHqDM	Clarity Potion	3	0					Generic, Action, Item		Instant	Opt 2				**Instant** - Destroy Clarity Potion: **Opt 2**	Generic Action - Item				No	
 8fNNR6wFmtQfKWqgkB6pb	Cleansing Light	1	3		2			Light, Action							"If a card has been put into your hero's soul this turn, you may play this as though it were an instant.
 
@@ -1523,12 +1545,12 @@ HkDzFgnhCBGn6K9w7RWtC	Duskblade			2				Runeblade, Weapon, Sword, 2H		Once per Tu
 Whenever you attack with Duskblade, if you've played an attack action card and a 'non-attack' action card this turn, put a +1{p} counter on Duskblade.
 
 At the beginning of your end phase, if you haven't played an attack action card and a 'non-attack' action card this turn, remove all +1{p} counters from Duskblade."	Runeblade Weapon - Sword (2H)				No	
-KfcLhpjL6Jc6Mr8WTQMdn	Dust from the Golden Plains	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Themai, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
-Gq8F9nHbQ6N8rrPzdhJzn	Dust from the Red Desert	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Vynserakai, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
-zKQg9cTc7WMNdRbq6pwRk	Dust from the Shadow Crypts	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Nekria, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
 w9NMmfttRBHm6fwjHhQbk	Dust Runner Outlaw	1	1	4	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
 m6TdpWNzf8mTDPrMNbN9q	Dust Runner Outlaw	2	1	3	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
 JjcbfdJBzNznwtrHkDN98	Dust Runner Outlaw	3	1	2	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
+KfcLhpjL6Jc6Mr8WTQMdn	Dust from the Golden Plains	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Themai, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
+Gq8F9nHbQ6N8rrPzdhJzn	Dust from the Red Desert	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Vynserakai, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
+zKQg9cTc7WMNdRbq6pwRk	Dust from the Shadow Crypts	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Nekria, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
 kzcjwdh7jFzjBtQTp66Dz	Dustup	1	0	4	3			Draconic, Illusionist, Action, Attack	Transform						When Dustup hits, create an Ash token, then **transform** up to 1 ash you control into an Aether Ashwing.	Draconic Illusionist Action - Attack					
 HkTf6CPMRKgDkntFLngDg	Dustup	2	0	3	3			Draconic, Illusionist, Action, Attack	Transform						When Dustup hits, create an Ash token, then **transform** up to 1 ash you control into an Aether Ashwing.	Draconic Illusionist Action - Attack					
 t9JLzLpkTqwMQmzjkcDG8	Dustup	3	0	2	3			Draconic, Illusionist, Action, Attack	Transform						When Dustup hits, create an Ash token, then **transform** up to 1 ash you control into an Aether Ashwing.	Draconic Illusionist Action - Attack					
@@ -1669,6 +1691,9 @@ At the beginning of your end phase, destroy Enchanting Melody unless you have pl
 If your hero would be dealt damage, instead destroy Enchanting Melody and prevent 2 damage that source would deal.
 
 At the beginning of your end phase, destroy Enchanting Melody unless you have played a 'non-attack' action card this turn."	Generic Action - Aura				No	
+dzwfFWGJkBjbWtjK6qbtM	Encore	2	1		2			Bard, Action	Go again						"Return a Bard attack action card from your graveyard to your hand.
+
+**Go again**"	Bard Action				No	
 qQ9TfqhWK967WMGdfQRLK	Endless Arrow	1	0	4	3			Ranger, Action, Arrow, Attack							If Endless Arrow hits, put it into your hand.	Ranger Action - Arrow Attack				No	
 MtPhfMbKcN8bN7DpPjNHT	Endless Maw	1	3	6	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play Endless Maw, banish 3 random cards from your graveyard.
 
@@ -1787,6 +1812,26 @@ LDCrQmNm8bFk8wcCJ6pj9	Even Bigger Than That!	3	0					Generic, Instant	Opt 1					
 tfdr8MdNBHPQjKn9FJCT6	Evergreen	1	3	7	2			Earth, Action, Attack							If Evergreen is played from arsenal, put it on the bottom of its owner's deck when the combat chain closes.	Earth Action - Attack				No	
 JTc7kdrn9kHtq7LdJ8pQW	Evergreen	2	3	6	2			Earth, Action, Attack							If Evergreen is played from arsenal, put it on the bottom of its owner's deck when the combat chain closes.	Earth Action - Attack				No	
 nRDPrpfRT9gGCWf9K8nBT	Evergreen	3	3	5	2			Earth, Action, Attack							If Evergreen is played from arsenal, put it on the bottom of its owner's deck when the combat chain closes.	Earth Action - Attack				No	
+6B8TGFRbgK6dQQLKfP8qD	Evo Energy Matrix	3	3		2			Mechanologist, Action, Equipment, Evo, Chest	Transform, Battleworn						"If you have a base chest equipped, **transform** it into this, then equip this.
+
+Your Teklo Blaster costs {r} less to activate for each opposing hero.
+
+**Battleworn**"	Mechanologist Action Equipment - Evo Chest					
+RMcmPNFfqQp6rpn6dkJ9H	Evo Rapid Fire	3	3		2			Mechanologist, Action, Equipment, Evo, Legs	Transform, Battleworn			Go again			"If you have a base legs equipped, **transform** it into this, then equip this.
+
+Your Teklo Blaster attacks get **go again**.
+
+**Battleworn**"	Mechanologist Action Equipment - Evo Legs					
+CJ9PkdfKF78Khqf88zDmM	Evo Scatter Shot	3	3		2			Mechanologist, Action, Equipment, Evo, Arms	Transform, Battleworn						"If you have a base arms equipped, **transform** it into this, then equip this.
+
+Your Teklo Blaster gets +1{p} for each opposing hero.
+
+**Battleworn**"	Mechanologist Action Equipment - Evo Arms					
+qCj8gpDLNQpKTNfhM8jbL	Evo Tekloscope	3	3		2			Mechanologist, Action, Equipment, Evo, Head	Transform, Battleworn						"If you have a base head equipped, **transform** it into this, then equip this.
+
+Your Teklo Blaster attacks can target any opposing hero.
+
+**Battleworn**"	Mechanologist Action Equipment - Evo Head					
 dWbFtRKNWnmPBPpBLrFqF	Expendable Limbs	3	0		4			Shadow, Brute, Defense Reaction							"As an additional cost to play this, banish a random card from your hand.
 
 If a card with 6 or more {p} is banished this way, you may play it from your banished zone during your next action phase."	Shadow Brute Defense Reaction				No	
@@ -1888,6 +1933,7 @@ When this enters the arena, attack action cards your opponents control get -1{p}
 qrhLKPQDzcR99cHLz7jgq	Figment of War	2	4					Light, Illusionist, Instant, Figment	Legendary						"**Legendary**
 
 When this enters the arena, create a Courage token."	Light Illusionist Instant - Figment				No	
+wrn8fmpTQHjKLzzHtqwNG	Final Act	1	1	1	3			Bard, Action, Attack							When this attacks, it gets +X{p} where X is twice the number of cards in all pitch zones.	Bard Action - Attack				No	
 PHz8kWCt6rw6Q6jMgbdQC	Find Center	3	0	2	3			Ninja, Action, Attack	Combo						"**Combo** - If Crane Dance was the last attack this combat chain, Find Center can't be defended by cards with {r} cost less than the number of chain links you control, and it gains ""If this hits, create a Zen State token."""	Ninja Action - Attack				No	
 FKCrQMngDF9nMT99qzNjn	Firebreathing	1	2	3	3			Generic, Action, Attack		Instant					**Instant** - {r}: Firebreathing gains +1{p}. Activate this ability only while Firebreathing is attacking.	Generic Action - Attack				No	
 FwDRt9TR7CCJd9NnNBmfP	Fisticuffs							Generic, Equipment, Arms		Attack Reaction					**Attack Reaction** - {r}{r}, destroy Fisticuffs: Target attack action card gains +1{p}.	Generic Equipment - Arms					
@@ -2000,15 +2046,6 @@ MCtGBgjzJWb8rPmNPTDWp	Flying Kick	3	2	3	3			Ninja, Action, Attack							If Flyin
 tKf7fDRqqJHHn7QgrKjdR	Fog Down	2	3		3			Generic, Action, Aura					Go again		"'Non-attack' action cards lose and can't gain **go again**.
 
 At the beginning of your action phase, destroy Fog Down."	Generic Action - Aura				No	
-GwJdwRwJFbjNNWLzCqr6M	Force of Nature	3	0		3			Elemental, Runeblade, Action	Briar Specialization, Earth Fusion, Go again						"**Briar Specialization**
-
-**Earth Fusion**
-
-Whenever an attack action card you control hits this turn, if its {p} is greater than its base {p}, draw a card.
-
-If Force of Nature was fused, your next attack this turn gains +1{p}.
-
-**Go again**"	Elemental Runeblade Action				No	
 RN8gkCHTdn6DLWt7BzNfW	Force Sight	1	1		2			Generic, Action	Opt 2, Go again						"The next attack action card you play this turn gains +3{p}.
 
 If Force Sight is played from arsenal, **opt 2**.
@@ -2024,6 +2061,15 @@ W86QwWGnpPRqPmcjKjkrb	Force Sight	3	1		2			Generic, Action	Opt 2, Go again						
 If Force Sight is played from arsenal, **opt 2**.
 
 **Go again**"	Generic Action					
+GwJdwRwJFbjNNWLzCqr6M	Force of Nature	3	0		3			Elemental, Runeblade, Action	Briar Specialization, Earth Fusion, Go again						"**Briar Specialization**
+
+**Earth Fusion**
+
+Whenever an attack action card you control hits this turn, if its {p} is greater than its base {p}, draw a card.
+
+If Force of Nature was fused, your next attack this turn gains +1{p}.
+
+**Go again**"	Elemental Runeblade Action				No	
 LzzKmcmdQdKhcJkN7zhB7	Foreboding Bolt	1	1		3			Wizard, Action	Opt 1						"Deal 3 damage to target hero.
 
 **Opt 1**"	Wizard Action					
@@ -2258,6 +2304,9 @@ bpcWc9DJf9pzfBczMWczJ	Grimoire of the Haunt							Shadow, Runeblade, Equipment, 
 **Arcane Barrier 1**
 
 **Blood Debt**"	Shadow Runeblade Equipment - Off-Hand				No	
+gqJnkdRN8WkHKtFNtPTgN	Growl	1	0	3	2			Ninja, Action, Attack							"When this attacks, the next Crouching Tiger you play this combat chain gets +1{p}.
+
+**Go again**"	Ninja Action - Attack				No	
 wLbNLfGtn86JfCTKBdMRg	Guardian of the Shadowrealm	1	2		6			Shadow, Defense Reaction	Blood Debt	Action					"**Action** - {r}{r}: Return Guardian of the Shadowrealm from your banished zone into your hand. Activate this ability only while Guardian of the Shadowrealm is in your banished zone.
 
 **Blood Debt**"	Shadow Defense Reaction				No	
@@ -2272,6 +2321,9 @@ While Hala is face up in arsenal, whenever a sword attack you control hits, it g
 phPFrDkRwGDrqrwq8M8T6	Halo of Illumination				0			Light, Equipment, Head	Spellvoid 2	Instant					"**Instant** - {r}, destroy Halo of Illumination: Put a card from your hand into your hero's soul. If it's a Light card, draw a card.
 
 **Spellvoid 2**"	Light Equipment - Head					
+DLCqPPF6cRwMCgdhRBj6F	Hammer of Havenhold			3				Guardian, Weapon, Hammer, 1H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}{r}: **Attack**
+
+If you have a Chivalry in your pitch zone, this gets +1{p}."	Guardian Weapon - Hammer (1H)					
 9kGkjgLHrhWqGFhfh9h8f	Hamstring Shot	1	1	5	3			Ranger, Action, Arrow, Attack							If Hamstring Shot hits a hero, their first attack during their next turn costs an additional {r}.	Ranger Action - Arrow Attack					
 WchNMmcctDfbrfJDpMTC8	Hamstring Shot	2	1	4	3			Ranger, Action, Arrow, Attack							If Hamstring Shot hits a hero, their first attack during their next turn costs an additional {r}.	Ranger Action - Arrow Attack					
 ftMMhmgB7L8mJ7zNR7TMR	Hamstring Shot	3	1	3	3			Ranger, Action, Arrow, Attack							If Hamstring Shot hits a hero, their first attack during their next turn costs an additional {r}.	Ranger Action - Arrow Attack					
@@ -2683,6 +2735,7 @@ If Inspire Lightning was **fused**, deal 2 arcane damage to target hero."	Elemen
 W8hhkFmqt8rDrBnTfCCPw	Inspire Lightning	3	1		2			Elemental, Runeblade, Action	Lightning Fusion						"**Lightning Fusion**
 
 If Inspire Lightning was **fused**, deal 1 arcane damage to target hero."	Elemental Runeblade Action					
+cRRDRFWcfMpkDcWtTphFT	Interlude	1	0					Bard, Instant							Choose a hero. The next time they would be dealt damage this turn, prevent 3 of that damage. If you prevent damage to another hero this way, create a Copper token.	Bard Instant					
 8qkczmhLhHzTCTpbgwJbD	Invert Existence	3	1					Shadow, Runeblade, Instant	Blood Debt						"You may play Invert Existence from your banished zone.
 
 Banish up to 2 cards in an opposing hero's graveyard. If an attack action card and a 'non-attack' action card are banished this way, deal 2 arcane damage to that hero.
@@ -2775,6 +2828,9 @@ Whenever you play an Ice card during an opponents turn, create a Frostbite token
 If it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.
 
 Whenever you play an Ice card during an opponents turn, create a Frostbite token under their control."	Elemental Wizard Hero		No		No	
+GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit			2				Bard, Weapon, Fiddle, 2H							"**Once per Turn Action** - {r}{r}{r}: Target opposing hero chooses and creates a Might, Quicken, or Vigor token. You create a Copper token. **Go again**
+
+**Action** - 0: **Attack**. When this hits, destroy it."	Bard Weapon - Fiddle (2H)					
 kfCPfkdm8jrFqmHMNGj8h	Jubeel, Spellbane			3				Warrior, Weapon, Sword, 2H							"**Once per Turn Action** - {r}: **Attack**
 
 Whenever this hits a hero and you don't control a Spellbane Aegis, create a Spellbane Aegis token."	Warrior Weapon - Sword (2H)				No	
@@ -2830,6 +2886,7 @@ GzTpzLGB99zRcW9w7tKd8	Lava Burst	1	0	2	3			Draconic, Action, Attack	Rupture					
 BFpBkbT788fWNrCgGcWHt	Lava Vein Loyalty	1	0	3	3			Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Lava Vein Loyalty has **go again**.	Draconic Ninja Action - Attack					
 pdfbRhNQ7rBq8r8HfcBbt	Lava Vein Loyalty	2	0	2	3			Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Lava Vein Loyalty has **go again**.	Draconic Ninja Action - Attack					
 KTF8r6hgr8f89Gn9PpGn6	Lava Vein Loyalty	3	0	1	3			Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Lava Vein Loyalty has **go again**.	Draconic Ninja Action - Attack					
+trdLjTnNnn6NjM7DzrcQh	Lay Down the Law	1	3	7	3			Guardian, Action, Attack	Tower						**Tower** - If this has 13 or more {p}, non-equipment cards get -1{d} while defending this.	Guardian Action - Attack				No	
 Jw6CQTrR7njDNnNMCfNC7	Lay to Rest	1	1	5	3			Light, Action, Attack							"When this attacks a Shadow hero, it gets +1{p}.
 
 When this hits a hero, you may turn a card in their banished zone face-down."	Light Action - Attack				No	
@@ -2946,12 +3003,12 @@ bpQN7JWMfcWndWkjWkJwb	Looking for a Scrap	3	1	2	2			Generic, Action, Attack	Go a
 NdGdjWwfTnfdWGFL6tRwz	Looming Doom	3	3		3			Runeblade, Action, Aura							"When Looming Doom enters the arena, destroy all Runechants you control and put that many doom counters on Looming Doom.
 
 At the beginning of your end phase, remove a doom counter from Looming Doom. If you do, deal 2 arcane damage to any target. Otherwise, destroy Looming Doom."	Runeblade Action - Aura				No	
-hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	0	2	3			Ninja, Action, Attack	Katsu Specialization, Combo						"**Katsu Specialization**
-
-**Combo** - If Mugenshi: RELEASE was the last attack this combat chain, as an additional cost to play Lord of Wind, you may pay any amount of {r}. If you do, shuffle that many target cards named Surging Strike, Whelming Gustwave and/or Mugenshi: RELEASE from your graveyard into your deck, then Lord of Wind gains that much {p}."	Ninja Action - Attack				No	
 WprpWWNjq6F8BwRrTPFmM	Lord Sutcliffe				3			Runeblade, Mentor						Specialization	"While Sutcliffe is face down in arsenal, at the start of your turn, you may turn him face up.
 
 While Sutcliffe is face up in arsenal, whenever you play a 'non-attack' action card, deal 1 arcane damage to each hero and put a lesson counter on Sutcliffe for each damage dealt this way. Then if there are 3 or more lesson counters on him, banish him, search your deck for a **specialization** card, put it face up into arsenal, and shuffle."	Runeblade Mentor			No	No	
+hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	0	2	3			Ninja, Action, Attack	Katsu Specialization, Combo						"**Katsu Specialization**
+
+**Combo** - If Mugenshi: RELEASE was the last attack this combat chain, as an additional cost to play Lord of Wind, you may pay any amount of {r}. If you do, shuffle that many target cards named Surging Strike, Whelming Gustwave and/or Mugenshi: RELEASE from your graveyard into your deck, then Lord of Wind gains that much {p}."	Ninja Action - Attack				No	
 bctJhnLdnWB9tqBJ6nNTN	Lost in Thought	1	1		2			Illusionist, Action	Go again						"Look at target hero's hand. Choose an attack action card and reveal it. If you do, they put it on the bottom of their deck and create a Ponder token.
 
 **Go again**"	Illusionist Action				No	
@@ -3029,12 +3086,14 @@ RnjfWPNBLBd9nGR8RdhnT	Mask of Perdition				1			Assassin, Equipment, Head	Battlew
 
 **Battleworn**"	Assassin Equipment - Head				No	
 bbr8GPmnDkdphMkdpWkcM	Mask of Shifting Perspectives				1			Assassin, Ninja, Equipment, Head	Blade Break	Attack Reaction					**Attack Reaction** - Destroy Mask of Shifting Perspectives: Whenever a dagger hits this turn, you may put a card from your hand on the bottom of your deck. If you do, draw a card.	Assassin / Ninja Equipment - Head					
+pdCLkLqDkmFhBtp7MFMfP	Mask of Three Tails				0			Ninja, Equipment, Head							**Instant** - Destroy this: Draw a card. Activate this ability only if you've hit 3 or more times this combat chain.	Ninja Equipment - Head					
 GBDFTmjdTmgRCdHngGWNR	Mask of the Pouncing Lynx				2			Ninja, Equipment, Head	Blade Break						"When an attack action card you control hits, you may destroy Mask of the Pouncing Lynx. If you do, search your deck for an attack action card with 2 or less {p}, banish it, then shuffle. You may play it this turn.
 
 **Blade Break**"	Ninja Equipment - Head				No	
 dGqFDHg9FqzfbDcNcLPtP	Massacre	1	3	6	3			Brute, Action, Attack	Intimidate			Intimidate			"When you attack with Massacre, if you have discarded a card with 6 or more {p} this turn, Massacre gains +2{p} and **intimidate**.
 
 If Massacre is discarded to pay the cost of a Brute attack action card, **intimidate**."	Brute Action - Attack				No	
+Dg8tJh9RNQKhFWfqd8qDT	Mauling Qi	1	1	5	3			Ninja, Action, Attack	Combo						**Combo** - When this hits, if Crouching Tiger was the last attack this combat chain, deal 1 damage to each opposing hero.	Ninja Action - Attack				No	
 9CDHQQCrpWcFb7WnQPnJN	Mauvrion Skies	1	0		2			Runeblade, Action	Go again			Go again			"The next runeblade attack action card you play this turn gains **go again** and ""If this hits, create 3 Runechant tokens.""
 
 **Go again**"	Runeblade Action				No	
@@ -3054,7 +3113,9 @@ If you have dealt arcane damage to an opposing hero this turn, Meat and Greet ga
 kMHrRGnggnJtkzk7PhbH8	Meat and Greet	3	1	2	3			Runeblade, Action, Attack	Go again						"If Meat and Greet hits, create a Runechant token.
 
 If you have dealt arcane damage to an opposing hero this turn, Meat and Greet gains **go again**."	Runeblade Action - Attack					
+KFh8LdDmdJdmn9RJc8hhJ	Mechanical Strength	1	3	5	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This gets +X{p}, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
 8hKgjhRrpGHqPGg76pzBN	Meganetic Shockwave	3	2	4	3			Mechanologist, Action, Attack						Boost	The defending hero must defend Meganetic Shockwave with X equipment they control, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack				No	
+npDPz98H6BnJGDzHBmdGk	Melody, Sing-along					20	4	Bard, Hero, Young		Once per Turn Action, Action	Go again, Attack				Whenever you play a song, create Copper tokens equal to the number of other heroes in the game.	Bard Hero - Young			No	No	
 CfdKKTqndtGPNzdh6gJ8w	Melting Point	1	1		3			Ranger, Action	Go again						"Your next arrow attack this turn gains +4{p}.
 
 If it has an aim counter, it gains ""When this hits a hero, destroy a 1H weapon they control with 1 base {p}.""
@@ -3086,6 +3147,7 @@ r8fjLMCFnQhFrRjwpMTgK	Micro-processor	3	2					Mechanologist, Action, Item	Data D
 **Once Per Turn Action** - 0: Banish the top card of your deck.
 
 The first time you activate Micro-processor each turn, gain 1 action point."	Mechanologist Action - Item				No	
+6gqTwGnmHjkCLDqKPWt8c	Might							Generic, Token, Aura							At the start of your turn, destroy this, then your next attack this turn gets +1{p}.	Generic Token - Aura					
 LBLTcF8zccK7mKLcDqgPb	Mind Warp	2	0		3			Wizard, Action	Surge						"Deal 2 arcane damage to target hero.
 
 **Surge** - If this deals more than 2 damage to a hero, they shuffle their hand into their deck, then they draw that many cards minus 1."	Wizard Action				No	
@@ -3297,6 +3359,9 @@ wrBpz9J66tTJtRK67FWdp	Orbitoclast			1				Assassin, Weapon, Dagger, 1H	Piercing 1
 
 When this hits a hero, the next time they defend with 1 or more 'non-attack' action cards this turn, those cards have -1{d} while defending."	Assassin Weapon - Dagger (1H)				No	
 JwhRzNPr9KNpMHzP8kWNG	Ornate Tessen							Generic, Equipment, Off-Hand		Instant					**Instant** - {r}, destroy Ornate Tessen: Put a card from your hand on the bottom of your deck. If you do, draw a card.	Generic Equipment - Off-Hand					
+qgzjH8rNPpg6Jb6PgzggC	Out Muscle	1	3	6	2			Generic, Action, Attack	Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack				No	
+dRFbtRTF8qzzBwbqHkWtF	Out Muscle	2	3	5	2			Generic, Action, Attack	Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack				No	
+Tt9bDKwjdn6dLqhGNc9Rc	Out Muscle	3	3	4	2			Generic, Action, Attack	Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack				No	
 gNPcP7pPgPCh6PCPBh9R8	Out for Blood	1	1		3			Warrior, Attack Reaction	Reprise						"Target weapon attack gains +3{p}.
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, your next attack this turn gains +1{p}."	Warrior Attack Reaction					
@@ -3306,9 +3371,6 @@ hdBzQDmLW99WzrRmgqBcg	Out for Blood	2	1		3			Warrior, Attack Reaction	Reprise			
 hmh7T87jmwTmpfdbdjBFR	Out for Blood	3	1		3			Warrior, Attack Reaction	Reprise						"Target weapon attack gains +1{p}.
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, your next attack this turn gains +1{p}."	Warrior Attack Reaction					
-qgzjH8rNPpg6Jb6PgzggC	Out Muscle	1	3	6	2			Generic, Action, Attack	Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack				No	
-dRFbtRTF8qzzBwbqHkWtF	Out Muscle	2	3	5	2			Generic, Action, Attack	Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack				No	
-Tt9bDKwjdn6dLqhGNc9Rc	Out Muscle	3	3	4	2			Generic, Action, Attack	Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack				No	
 cbKTjfkmpJCCQcRpKbPCJ	Outland Skirmish	1	0		3			Warrior, Action	Go again						"Your next 1H weapon attack this turn gains +3{p}.
 
 The next time a weapon hits this turn, create a Copper token.
@@ -3585,6 +3647,9 @@ LRdKLkdKnTJ8CCczKmwzw	Potion of Ironhide	3	0					Generic, Action, Item		Instant	
 K6NjFFzbnPdFpFCDRLMrK	Potion of Luck	3	0					Generic, Action, Item		Instant					**Instant** - Destroy Potion of Luck: Shuffle your hand and arsenal into your deck then draw that many cards.	Generic Action - Item				No	
 HkNT7zKrjgzBDp6Mq76Nm	Potion of Seeing	3	0					Generic, Action, Item		Instant					**Instant** - Destroy Potion of Seeing: Look at target hero's hand.	Generic Action - Item				No	
 fNMMHHpLGMCjHh8KQG8nW	Potion of Strength	3	0					Generic, Action, Item		Action	Go again				**Action** - Destroy Potion of Strength: Your next attack this turn gains +2{p}. **Go again**	Generic Action - Item				No	
+HjFKhRGTDGJDk8NGmdFjB	Pouncing Paws				1			Ninja, Equipment, Legs	Battleworn	Instant					"**Instant** - Destroy this: Create a Crouching Tiger in your banished zone. You may play it this turn.
+
+**Battleworn**"	Ninja Equipment - Legs					
 jDjbmKWW9RHJwwncKDDfK	Pouncing Qi	1	0	3	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Crouching Tiger was the last attack this combat chain, Pouncing Qi has +1{p} and **go again**.	Ninja Action - Attack					
 KGCccRcdK768czQhpzLPq	Pouncing Qi	2	0	2	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Crouching Tiger was the last attack this combat chain, Pouncing Qi has +1{p} and **go again**.	Ninja Action - Attack					
 qmQ6tmqFznzMnf9dcDRcF	Pouncing Qi	3	0	1	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Crouching Tiger was the last attack this combat chain, Pouncing Qi has +1{p} and **go again**.	Ninja Action - Attack					
@@ -3667,6 +3732,9 @@ GwNppkqrrrfrMgRWhT9rr	Prismatic Shield	2	3					Illusionist, Instant							Create
 bFjnrzdmFLkwdBbWHnGfR	Prismatic Shield	3	3					Illusionist, Instant							Create a Spectral Shield token.	Illusionist Instant				No	
 wQcpct8M6ddWK6BkKMMgC	Proclamation of Abundance							Adjudicator, Equipment, Off-Hand		Action					**Action** - {r}{r}{r}, destroy this: Each hero draws up to their {i}.	Adjudicator Equipment - Off-Hand		No	No	No	
 nPNcp7BDrghp6dLPfHnNp	Proclamation of Requisition							Adjudicator, Equipment, Off-Hand							**Action** - Discard a red card, destroy Proclamation of Requisition: Each opponent chooses an item or landmark they control. Gain control of the chosen permanents.	Adjudicator Equipment - Off-Hand		No	No	No	
+BLCMLHnwnbRKbdhPJ9DQp	Professor Teklovossen					20	4	Mechanologist, Hero, Young							"Evos cost {r} less to play for each opposing hero.
+
+You may play Evos from your banished zone."	Mechanologist Hero - Young			No	No	
 8WTJfBChbRBpfPLzbJkB9	Prognosticate	1	0		3			Wizard, Action	Surge, Opt 1						"Deal 3 arcane damage to target hero.
 
 **Surge** - If this deals more than 3 damage, **opt 1**."	Wizard Action					
@@ -3925,10 +3993,10 @@ qrNWkLCjtjGd6pztdtcQb	Recoil	3	0	1	3			Ninja, Action, Attack	Combo						"**Combo
 GRJN6ctjz9wPmFn9K7WHn	Red Hot	1	2	4	3			Draconic, Action, Attack	Dromai or Fai Specialization, Rupture						"**Dromai or Fai Specialization**
 
 **Rupture** - If Red Hot is played as chain link 4 or higher, it has ""When you attack with this, reveal the top X cards of your deck, where X is the number of Draconic chain links you control. Deal damage equal to the number of red cards revealed this way to any target, then shuffle."""	Draconic Action - Attack				No	
+6fGDjThJfHN7ttFCHGGnC	Red Liner							Ranger, Weapon, Bow, 2H		Once per Turn Action	Go again				**Once per Turn Action** - 0: If you have no cards in your arsenal, put an arrow card from your hand face up into your arsenal. **Go again**	Ranger Weapon - Bow (2H)					
 FLHmj9MjCgFPBzgFGKRFW	Red in the Ledger	1	1	5	3			Ranger, Action, Arrow, Attack	Azalea Specialization						"**Azalea Specialization**
 
 If Red in the Ledger hits a hero, they can't play or activate more than 1 action during their next turn."	Ranger Action - Arrow Attack				No	
-6fGDjThJfHN7ttFCHGGnC	Red Liner							Ranger, Weapon, Bow, 2H		Once per Turn Action	Go again				**Once per Turn Action** - 0: If you have no cards in your arsenal, put an arrow card from your hand face up into your arsenal. **Go again**	Ranger Weapon - Bow (2H)					
 7PtLHnBmRQffFP9ghNpJG	Redback Shroud				1			Assassin, Equipment, Chest	Battleworn	Attack Reaction					"While Redback Shroud is in your graveyard, at the start of your turn, you may destroy 2 Silver you control. If you do, equip Redback Shroud.
 
 **Attack Reaction** - Destroy Redback Shroud: The next attack reaction card you play this turn costs {r} less to play.
@@ -4101,6 +4169,9 @@ Whenever a trap you control triggers, deal 1 damage to the attacking hero."	Rang
 qPpWLgMftfnqDktRHcCWB	Rise Above	1	2		4			Generic, Defense Reaction							You may put a card from your hand on top of your deck rather than pay Rise Above's {r} cost.	Generic Defense Reaction				No	
 M7DR7HgnDFJ8p96tCqDTn	Rise Above	2	2		3			Generic, Defense Reaction							You may put a card from your hand on top of your deck rather than pay Rise Above's {r} cost.	Generic Defense Reaction				No	
 CnFqQqpDD6QB89wpppRfw	Rise Above	3	2		2			Generic, Defense Reaction							You may put a card from your hand on top of your deck rather than pay Rise Above's {r} cost.	Generic Defense Reaction				No	
+7G8RpL8NqHQQH86gGbnwk	Rise Up	1	1	3	3			Draconic, Action, Attack	Dromai or Fai Specialization, Rupture, Dominate						"**Dromai or Fai Specialization**
+
+**Rupture** - If Rise Up is played as chain link 4 or higher, it has **dominate** and +X{p}, where X is twice the number of Phoenix Flames you control."	Draconic Action - Attack				No	
 MgfGgqG7wRNbwNGNmjKJr	Rise from the Ashes	1	0		2			Draconic, Ninja, Action	Go again						"The next Draconic or Ninja attack action card you play this turn gains +3{p}.
 
 You may return a Phoenix Flame from your graveyard to your hand.
@@ -4116,9 +4187,6 @@ JNchKhPQf6PpwzgqNQQM9	Rise from the Ashes	3	0		2			Draconic, Ninja, Action	Go ag
 You may return a Phoenix Flame from your graveyard to your hand.
 
 **Go again**"	Draconic Ninja Action				No	
-7G8RpL8NqHQQH86gGbnwk	Rise Up	1	1	3	3			Draconic, Action, Attack	Dromai or Fai Specialization, Rupture, Dominate						"**Dromai or Fai Specialization**
-
-**Rupture** - If Rise Up is played as chain link 4 or higher, it has **dominate** and +X{p}, where X is twice the number of Phoenix Flames you control."	Draconic Action - Attack				No	
 C7zhnMLhctLTpqN7CnrjT	Rising Knee Thrust	1	0	3	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.	Ninja Action - Attack					
 q7ctPDWzHDk667rcJW9TL	Rising Knee Thrust	2	0	2	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.	Ninja Action - Attack					
 jdLb9qCbwmwjj9N6rNrnn	Rising Knee Thrust	3	0	1	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.	Ninja Action - Attack					
@@ -4474,9 +4542,6 @@ The next attack action card with cost 0 or less you play this turn gains ""When 
 **Go again**
 
 **Blood Debt**"	Shadow Runeblade Action					
-QRhMFtbfPHP67Rmwbzdcj	Seek and Destroy	1	0		2			Ranger, Action	Go again						"Your next arrow attack this turn gains +3{p} and ""If this hits a hero, at the beginning of their next end phase, they discard all cards in their hand and destroy all cards in their arsenal.""
-
-**Go again**"	Ranger Action				No	
 rJd6rP8HgrgcfzDBT8bWB	Seek Enlightenment	1	1		2			Light, Action	Go again						"The next attack action card you play this turn gains +3{p} and ""If this hits, put it into your hero's soul.""
 
 **Go again**"	Light Action					
@@ -4489,6 +4554,9 @@ WpRGpbwRLk8nbpLkDkddN	Seek Enlightenment	3	1		2			Light, Action	Go again						"T
 NnPBTJzJr8PMqGdN9dDtH	Seek Horizon	1	0	4	2			Generic, Action, Attack	Go again						As an additional cost to play Seek Horizon, you may put a card from your hand on top of your deck. If you do, Seek Horizon gains **go again**.	Generic Action - Attack					
 fTLNzLLwbfCDzGf8cDnTr	Seek Horizon	2	0	3	2			Generic, Action, Attack	Go again						As an additional cost to play Seek Horizon, you may put a card from your hand on top of your deck. If you do, Seek Horizon gains **go again**.	Generic Action - Attack					
 gKfz9fDKmTChbm7FmMgjh	Seek Horizon	3	0	2	2			Generic, Action, Attack	Go again						As an additional cost to play Seek Horizon, you may put a card from your hand on top of your deck. If you do, Seek Horizon gains **go again**.	Generic Action - Attack					
+QRhMFtbfPHP67Rmwbzdcj	Seek and Destroy	1	0		2			Ranger, Action	Go again						"Your next arrow attack this turn gains +3{p} and ""If this hits a hero, at the beginning of their next end phase, they discard all cards in their hand and destroy all cards in their arsenal.""
+
+**Go again**"	Ranger Action				No	
 JmTd86pJBGfrCtpNRCjdn	Seeker's Gilet							Generic, Equipment, Chest		Instant	Opt 1				**Instant** - {r}, destroy Seeker's Gilet: Prevent the next 1 damage that would be dealt to your hero this turn. **Opt 1**	Generic Equipment - Chest					
 t9hhCk9PrwgchGMcLkRMt	Seeker's Hood							Generic, Equipment, Head		Instant	Opt 1				**Instant** - {r}, destroy Seeker's Hood: Prevent the next 1 damage that would be dealt to your hero this turn. **Opt 1**	Generic Equipment - Head					
 RpqBfPnFtnfqfGHkGNWqH	Seeker's Leggings							Generic, Equipment, Legs		Instant	Opt 1				**Instant** - {r}, destroy Seeker's Leggings: Prevent the next 1 damage that would be dealt to your hero this turn. **Opt 1**	Generic Equipment - Legs					
@@ -4561,6 +4629,9 @@ j6FKJDDDkHzjKrjN8FkdW	Shaden Swing	2	1	6	3			Shadow, Brute, Action, Attack	Blood
 QTCkmrDWzwq6Qq6QczrDn	Shaden Swing	3	1	5	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play this, banish a random card from your hand.
 
 **Blood Debt**"	Shadow Brute Action - Attack					
+97JfCpcf7hpfrDdQw8Btz	Shadow Puppetry	1	0		2			Shadow, Action	Go again			Go again			"The next attack action card you play this turn gains +1 {p}, **go again** and ""If this attack hits, look at the top card of your deck. You may banish it.""
+
+**Go again**"	Shadow Action				No	
 wHLwWJFBzB7DwgjKqzcq7	Shadow of Blasmophet	1	2	6				Shadow, Brute, Action, Attack	Blood Debt					Blood Debt	"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, search your deck for a card with **blood debt**, banish it, then shuffle your deck.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	
@@ -4569,9 +4640,6 @@ pntf8jrgBbNzC8jBkChDJ	Shadow of Ursur	3	0	2	3			Shadow, Runeblade, Action, Attac
 As an additional cost to play Shadow of Ursur, you may banish a card with blood debt from your hand. If you do, Shadow of Ursur gains **go again**.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack				No	
-97JfCpcf7hpfrDdQw8Btz	Shadow Puppetry	1	0		2			Shadow, Action	Go again			Go again			"The next attack action card you play this turn gains +1 {p}, **go again** and ""If this attack hits, look at the top card of your deck. You may banish it.""
-
-**Go again**"	Shadow Action				No	
 DMH8PRWDTmMm6mWtQqttn	Shake Down	1	2	6	3			Assassin, Action, Attack	Uzuri Specialization						"**Uzuri Specialization**
 
 If you've played or activated an attack reaction this chain link, Shake Down has ""When this hits a hero, choose red, yellow, or blue. They reveal their hand. Banish a card of the chosen color."""	Assassin Action - Attack				No	
@@ -4690,7 +4758,6 @@ TNJz9fCgqmhhLz9rP9tkt	Silver							Generic, Token, Item		Action	Go again				**Ac
 gCgcRpmr76G6zmFgpprRw	Silver Palms				2			Merchant, Equipment, Arms	Blade Break						"At the start of each other hero's turn, if they have less {h} than you, they may draw a card. If they do, you create a Silver token.
 
 **Blade Break**"	Merchant Equipment - Arms				No	
-NmgpFhWdc8zCKPKMBmttP	Silversheen Needle							Generic, Equipment, Off-hand				Go again			Your constructs with Fabric in their name gain **go again**.	Generic Equipment - Off-hand		No	No	No	
 jc7QRqTTh6cccdTjFmBf9	Silver the Tip	1	1		2			Ranger, Action	Go again						"If you have no cards in your arsenal, look at the top 4 cards of your deck. You may put an arrow card from among them face up into your arsenal, then put the rest on the bottom of your deck in any order.
 
 **Go again**"	Ranger Action				No	
@@ -4700,6 +4767,7 @@ JbCKcTKNzdcWKMfQwbrdr	Silver the Tip	2	1		2			Ranger, Action	Go again						"If y
 HDmnNfBFfmgphJMhDCt7T	Silver the Tip	3	1		2			Ranger, Action	Go again						"If you have no cards in your arsenal, look at the top 2 cards of your deck. You may put an arrow card from among them face up into your arsenal, then put the rest on the bottom of your deck in any order.
 
 **Go again**"	Ranger Action				No	
+NmgpFhWdc8zCKPKMBmttP	Silversheen Needle							Generic, Equipment, Off-hand				Go again			Your constructs with Fabric in their name gain **go again**.	Generic Equipment - Off-hand		No	No	No	
 JthBWKRDhpngQP6FcKtRR	Silverwind Shuriken	3	0					Ninja, Action, Shuriken, Item	Attack Reaction					Combo	**Attack Reaction** - Destroy Silverwind Shuriken: Target attack action card with **combo** gains +1{p}.	Ninja Action - Shuriken Item				No	
 WQPHQL8cWbfCc68dHrkLK	Singe	1	1		3			Wizard, Action							Deal 1 arcane damage to target hero and up to 3 target allies they control.	Wizard Action					
 h7MzmDDJRnbDwtMjqfcm6	Singe	2	1		3			Wizard, Action							Deal 1 arcane damage to target hero and up to 2 target allies they control.	Wizard Action					
@@ -4865,6 +4933,12 @@ For each 'non-attack' action card revealed this way, you may put an attack actio
 Shuffle your deck. Banish Sonata Arcanix.
 
 **Go again**"	Runeblade Action				No	
+PCLwwwtFMQmLLpj6TD7hj	Song of Jack-Be-Quick	3	0		3			Bard, Action, Song							Create a Quicken token under each other hero's control.	Bard Action - Song					
+GRqLrz7CNrwQB8RKfqKnM	Song of Sweet Nectar	3	0		3			Bard, Action, Song							Each other hero gains 1{h}.	Bard Action - Song					
+nzRWpgWz8fR6ChrGQWWdm	Song of Yesteryears	3	0		3			Bard, Action, Song							Each other hero puts an attack action card from their graveyard on the bottom of the deck.	Bard Action - Song					
+jRGGnkWgcLPMMQ6D7bdnk	Song of the Rosen Matador	3	0		3			Bard, Action, Song							Create a Vigor token under each other hero's control.	Bard Action - Song					
+NqkBRhGqcjNCjBhMq8qpF	Song of the Shining Knight	3	0		3			Bard, Action, Song							Create a Might token under each other hero's control.	Bard Action - Song					
+mdMHPhNzNwbQnHLrgLccp	Song of the Wandering Mind	3	0		3			Bard, Action, Song							Each other hero draws a card.	Bard Action - Song					
 fbm7LndJccMBQqdCWQmd6	Sonic Boom	2	2		3			Wizard, Action							"Deal 3 arcane damage to target opposing hero.
 
 If Sonic Boom deals damage, look at the top card of your deck. If it's a Wizard 'non-attack' action card, you may banish it. If you do, you may play it this turn as though it were an instant and it costs X resource points less to play, where X is the damage dealt by Sonic Boom."	Wizard Action				No	
@@ -5113,10 +5187,10 @@ At the beginning of your action phase, destroy Stonewall Confidence."	Guardian A
 c8GP9JNp9PKhcQg7TkBQR	Stony Woottonhog	1	2	6	2			Generic, Action, Attack							While Stony Woottonhog is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack					
 RnbGbqBjNFp8HMNrzKWHp	Stony Woottonhog	2	2	5	2			Generic, Action, Attack							While Stony Woottonhog is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack					
 hDrpDgFFTLFGDTHrBCfzC	Stony Woottonhog	3	2	4	2			Generic, Action, Attack							While Stony Woottonhog is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack					
-PQm7zFjBPCzc68JDd8D6z	Storm of Sandikai							Draconic, Illusionist, Weapon, Scepter, 2H				Attack			"Dragon allies you control have ""**Once per Turn Action** - 0: **Attack**""."	Draconic Illusionist Weapon - Scepter (2H)					
 hpMnhtBmjM7zFBTDMkf87	Storm Striders				0			Wizard, Equipment, Legs	Arcane Barrier 2	Instant					"**Instant** - {r}, destroy Storm Striders: You may play your next Wizard 'non-attack' action card this turn as though it were an instant.
 
 **Arcane Barrier 2**"	Wizard Equipment - Legs				No	
+PQm7zFjBPCzc68JDd8D6z	Storm of Sandikai							Draconic, Illusionist, Weapon, Scepter, 2H				Attack			"Dragon allies you control have ""**Once per Turn Action** - 0: **Attack**""."	Draconic Illusionist Weapon - Scepter (2H)					
 gpj6g9tmrG7rjGKzBzNpN	Strategic Planning	1	1		2			Generic, Action	Go again						"Put an action card with cost 2 or less from a graveyard on the bottom of its owner's deck. At the beginning of the end phase, draw a card.
 
 **Go again**"	Generic Action				No	
@@ -5330,6 +5404,7 @@ ddc8cKjhFDgfDQqdpcRjB	Teklo Base Arms				1			Mechanologist, Equipment, Base, Arm
 LHBn8grtppJpC8gBmzfrd	Teklo Base Chest				1			Mechanologist, Equipment, Base, Chest	Blade Break						**Blade Break**	Mechanologist Equipment - Base Chest					
 DkcTJhjgpTcfrhDFffL6q	Teklo Base Head				1			Mechanologist, Equipment, Base, Head	Blade Break						**Blade Break**	Mechanologist Equipment - Base Head					
 RGPqjKtjJdcNLcrb8NGmN	Teklo Base Legs				1			Mechanologist, Equipment, Base, Legs	Blade Break						**Blade Break**	Mechanologist Equipment - Base Legs					
+fwNFw9pTWMpgz8t9dCgMD	Teklo Blaster			2				Mechanologist, Weapon, Gun, 2H		Once per Turn Action	Attack				**Once per Turn Action** - {r}{r}{r}: **Attack**	Mechanologist Weapon - Gun (2H)					
 WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	0					Mechanologist, Action, Item	Dash Specialization						"**Dash Specialization**
 
 Teklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.
@@ -5344,9 +5419,6 @@ fNFqtdWLq6tCPnnwjLLWL	Teklo Plasma Pistol			2				Mechanologist, Weapon, Pistol, 
 DgWtHJjggBQdwKWNpMKLz	Teklo Pounder	3	2					Mechanologist, Action, Item		Once per Turn Effect					"Teklo Pounder enters the arena with 3 steam counters on it. When Teklo Pounder has no steam counters on it, destroy it.
 
 **Once per Turn Effect** - Whenever you boost an attack action card, remove a steam counter from Teklo Pounder. If you do, the attack gains +2{p}."	Mechanologist Action - Item				No	
-ndKnMFtcDt8JmPFD6bfbk	Teklovossen, Esteemed Magnate					40	4	Mechanologist, Hero		Once per Turn Instant					"You may play Evos from your banished zone.
-
-**Once per Turn Instant** - {r}{r}{r}: You may play your next Evo this turn as though it were an instant. When you do, draw a card."	Mechanologist Hero		No		No	
 6PPFnJ8tNtPKN6Km7NWpp	Teklovossen					20	4	Mechanologist, Hero, Young		Once per Turn Instant					"You may play Evos from your banished zone.
 
 **Once per Turn Instant** - {r}{r}{r}: You may play your next Evo this turn as though it were an instant. When you do, draw a card."	Mechanologist Hero - Young			No		
@@ -5359,6 +5431,9 @@ Reveal the top card of your deck. If it's a Mechanologist item card with cost 1 
 p6PjmQ69L8rmnHwCQ8DzQ	Teklovossen's Workshop	3	0		3			Mechanologist, Action	Opt X					Boost	"**Opt X**, where X is the number of times you have **boosted** this turn.
 
 Reveal the top card of your deck. If it's a Mechanologist item card with cost 0, put it into the arena."	Mechanologist Action					
+ndKnMFtcDt8JmPFD6bfbk	Teklovossen, Esteemed Magnate					40	4	Mechanologist, Hero		Once per Turn Instant					"You may play Evos from your banished zone.
+
+**Once per Turn Instant** - {r}{r}{r}: You may play your next Evo this turn as though it were an instant. When you do, draw a card."	Mechanologist Hero		No		No	
 b9BCgJDp8qDb6zpNtJwfK	Tempest Aurora	1	0		2			Wizard, Action	Go again						"The next card you play this turn with cost 2 or less and an arcane damage effect, instead deals that much arcane damage plus 1.
 
 **Go again**"	Wizard Action					
@@ -5454,14 +5529,14 @@ JJpJbMqqCTKTJGnLfqnd6	Tome of Harvests	3	3		2			Earth, Action	Go again						"As 
 Draw 3 cards.
 
 **Go again**"	Earth Action				No	
-cWMCP7TF8MkHKQDgjj6jk	Tome of the Arknight	3	1		2			Runeblade, Action	Go again						"Reveal the top 2 cards of your deck. If you reveal an attack action card and a 'non-attack' action card this way, put them into your hand.
-
-**Go again**"	Runeblade Action				No	
 9pjp9qfKHnzCCpjwhTPFK	Tome of Torment	1	0					Shadow, Action	Blood Debt						"You may play Tome of Torment from your banished zone.
 
 Draw a card.
 
 **Blood Debt**"	Shadow Action				No	
+cWMCP7TF8MkHKQDgjj6jk	Tome of the Arknight	3	1		2			Runeblade, Action	Go again						"Reveal the top 2 cards of your deck. If you reveal an attack action card and a 'non-attack' action card this way, put them into your hand.
+
+**Go again**"	Runeblade Action				No	
 JQqp6Ctw7QMLRDMgTnW6g	Tomeltai			5		5		Draconic, Illusionist, Dragon, Ally							Whenever Tomeltai attacks a hero, reveal the top 2 cards of your deck. If 1 or more red cards are revealed this way, put that many -1{d} counters on an equipment they control, then if it has 0{d}, destroy it.	Draconic Illusionist - Dragon Ally				No	
 9F67fMDKzMkLMJFr7GN67	Torrent of Tempo	1	1	5	3			Ninja, Action, Attack	Go again						If Torrent of Tempo hits, it gains **go again**.	Ninja Action - Attack					
 TR8gpGqrWD7JrKtjMqKbJ	Torrent of Tempo	2	1	4	3			Ninja, Action, Attack	Go again						If Torrent of Tempo hits, it gains **go again**.	Ninja Action - Attack					

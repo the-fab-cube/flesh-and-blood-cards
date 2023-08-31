@@ -14,6 +14,7 @@ rG7F9GkDcmwNMczRbtwhL	Crush	A Guardian mechanic that showcases the strength of t
 LdpzkhTrrcHJJtLFnctGW	Dominate	An attack that is difficult to defend. Cards with **dominate** cannot be defended with more than 1 card from the defending hero's hand.
 rDb7KpRGqJcWP8jRpt78K	Ephemeral	If an ephemeral card would be put into a graveyard from anywhere, instead it ceases to exist.
 gj7mqb77bLbHGW6rpNcq9	Essence	**Essence** is a keyword that exists on Elemental hero cards showing what Elements that hero specializes in and what Element cards can be included in the deck.
+wcg8K8J7frtBp89w7P6gm	Evo Upgrade	
 g6BD6HNFJBRDDdwD9kBWK	Freeze	A **frozen** object can't be played or activated.
 rwhcqgpkPpTtFrNM6n7Pw	Fusion	**Fusion** is a keyword that **fuses** one or more elements with an elemental card to give an additional effect.
 mmf6BdTtrbCGrhdhg8K9g	Go again	**Go again** allows multiple actions to be played in a turn, when usually playing an action would use up your action point, and therefore end your turn. A card with **go again** gives the controller of that card or activated ability 1 action point when it resolves.
@@ -28,6 +29,7 @@ pWczCNRqmhC9Cp9wNPCK9	Overpower	The defending hero can't defend this with more t
 mFCtFC79DRMhbJf9MTNBL	Pairs	
 GQfWb9GwKkw9RNrK6L6B9	Phantasm	**Phantasm** is a keyword that exists on Illusionist attacks. Illusionist attacks with **phantasm** are powerful but fragile. When an attack with **phantasm** is defended by a 6{p}+ non-Illusionist attack action card, the attack is destroyed and the combat chain closes.
 FqH7Rt8PDdWccP9RGMFbL	Piercing X	If this is defended by an equipment, it has +X{p}.
+LNcJ8JT8MtHcJkwtHtmm9	Protect	
 BrB9ww8W6WgHnWGFzFzqd	Quell X	If your hero would be dealt damage, you may pay X{r} to prevent X of that damage. If you do, destroy this at the beginning of the end phase.
 CMkCBFwkdRTkckLfBwhjL	Reload	**Reload** is a Ranger mechanic that allows you to put a card from your hand face down into your arsenal when the card resolves.
 BN9pfqWtQjNgCHFrgmNHJ	Reprise	"A Warrior mechanic that showcases the prowess a warrior has when they are engaged in close combat. **Reprise** effects ""turn on"" if the defending hero has defended with a card from their hand."
@@ -39,6 +41,7 @@ fDbLqGWBhWhTmJhGmdKQc	Spectra	**Spectra** is a keyword that exists on Illusionis
 f8Tw8JfDjQhjrtkLLcBKt	Spellvoid X	**Spellvoid** is a keyword primarily on equipment or items. **Spellvoid** is a one time use effect that prevents arcane damage.
 CKRGw9dCnNdKpNTdTBqgz	Surge	**Surge** is an effect that applies if a card deals more arcane damage than it's printed amount.
 RnrzPrG6KfnCPhDCF8bpB	Temper	**Temper** is a keyword that exists on equipment. Usually high in defense, **Temper** equipment presents a choice when it is down to 1{d}, of whether to defend with it one last time and see it destroyed, or save it to use for its ability.
+LwJpTqDGKM96gQzcKwW76	Tower	
 hGzPP7bNMQJWNJ8QzQhDQ	Transform	An Illusionist mechanic that puts specified objects under another card or creates a token and puts specified objects under it.
 hDqkbTcqj9Fmr7m8TKKCz	Unfreeze	Removes **Freeze** from an object.
 H6QfMpMdgD8Fhcfqgq6rm	Unity	

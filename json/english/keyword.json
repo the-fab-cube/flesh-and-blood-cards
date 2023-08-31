@@ -90,6 +90,12 @@
         "description_plain": "Essence is a keyword that exists on Elemental hero cards showing what Elements that hero specializes in and what Element cards can be included in the deck."
     },
     {
+        "unique_id": "wcg8K8J7frtBp89w7P6gm",
+        "name": "Evo Upgrade",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "g6BD6HNFJBRDDdwD9kBWK",
         "name": "Freeze",
         "description": "A **frozen** object can't be played or activated.",
@@ -174,6 +180,12 @@
         "description_plain": "If this is defended by an equipment, it has +X{p}."
     },
     {
+        "unique_id": "LNcJ8JT8MtHcJkwtHtmm9",
+        "name": "Protect",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "BrB9ww8W6WgHnWGFzFzqd",
         "name": "Quell X",
         "description": "If your hero would be dealt damage, you may pay X{r} to prevent X of that damage. If you do, destroy this at the beginning of the end phase.",
@@ -238,6 +250,12 @@
         "name": "Temper",
         "description": "**Temper** is a keyword that exists on equipment. Usually high in defense, **Temper** equipment presents a choice when it is down to 1{d}, of whether to defend with it one last time and see it destroyed, or save it to use for its ability.",
         "description_plain": "Temper is a keyword that exists on equipment. Usually high in defense, Temper equipment presents a choice when it is down to 1{d}, of whether to defend with it one last time and see it destroyed, or save it to use for its ability."
+    },
+    {
+        "unique_id": "LwJpTqDGKM96gQzcKwW76",
+        "name": "Tower",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "hGzPP7bNMQJWNJ8QzQhDQ",
