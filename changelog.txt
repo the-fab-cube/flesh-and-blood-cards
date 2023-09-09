@@ -506,3 +506,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 08-26-23:
 - Fixed incorrect power for Codex of Frailty - bug notice credit: Stingray
+
+9-08-23:
+- Added card images for 1HP336, DYN121 (EA), DYN175 (EA), EVR017 (FA), and FAB136
