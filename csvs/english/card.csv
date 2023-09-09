@@ -5870,7 +5870,7 @@ When this hits, you may discard a card with cost 0. If you do, search your deck 
 
 **Go again**"	Ninja Action - Attack				No	
 kzzwCj8LJwfMf9MTntgtt	Waning Moon							Wizard, Weapon, Staff, 2H		Once per Turn Instant					**Once per Turn Instant** - {r}{r}: Deal 2 arcane damage to target hero. If it's not your turn, instead deal 3 arcane damage to them. Activate this ability only if you've played a 'non-attack' action card this turn.	Wizard Weapon - Staff (2H)					
-KHDc7Tmt7fNcbRg6FDtn8	Warband of Bellona				2			Light, Warrior, Equipment, Head	Go again, Temper, Charge						"**Action** - {r}{r}, destroy this: The next time you attack this turn, you may **charge** your hero's soul. If a yellow card is **charged** this way, draw a card. **Go again**
+KHDc7Tmt7fNcbRg6FDtn8	Warband of Bellona				2			Light, Warrior, Equipment, Head	Temper	Action	Go again, Charge				"**Action** - {r}{r}, destroy this: The next time you attack this turn, you may **charge** your hero's soul. If a yellow card is **charged** this way, draw a card. **Go again**
 
 **Temper**"	Light Warrior Equipment - Head				No	
 BkpMHRn6L8dpcgjgrPm9H	Warmonger's Diplomacy	3	0		3			Generic, Action							"Starting with the hero to your left, each hero chooses war or peace.
