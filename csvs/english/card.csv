@@ -1097,6 +1097,9 @@ tGbgpCzdw6Jzk99PLb9Cm	Consuming Aftermath	3	3	4	2			Shadow, Action, Attack	Domin
 G6JkJJNJC8NHMMcDKWGf8	Consuming Volition	1	1	4	3			Runeblade, Action, Attack							"If you have dealt arcane damage this turn, Consuming Volition gains ""If this hits a hero, they discard a card."""	Runeblade Action - Attack					
 8JdJz9JCbBcDzkzkFbGz9	Consuming Volition	2	1	3	3			Runeblade, Action, Attack							"If you have dealt arcane damage this turn, Consuming Volition gains ""If this hits a hero, they discard a card."""	Runeblade Action - Attack					
 CFMcBQt8WGbLtPDqbQHKH	Consuming Volition	3	1	2	3			Runeblade, Action, Attack							"If you have dealt arcane damage this turn, Consuming Volition gains ""If this hits a hero, they discard a card."""	Runeblade Action - Attack					
+qKNBCCbrmp7W96dbb8gFb	Contest the Mindfield	3	2		2			Wizard, Action, Aura							"All heroes get -1{i}.
+
+At the start of your turn, destroy this."	Wizard Action - Aura				No	
 tcQQjwMNMtrMM8jnBHN8Q	Convection Amplifier	1	0					Mechanologist, Action, Item		Action	Go again	Dominate			"Convection Amplifier enters the arena with 2 steam counters on it. When Convection Amplifier has no steam counters on it, destroy it.
 
 **Action** - Remove a steam counter from Convection Amplifier: The next attack action card you play this turn gains **dominate**. **Go again**"	Mechanologist Action - Item				No	
@@ -1215,6 +1218,9 @@ HjgMJg6DrhJqR6fMnp6fc	Dance of Darkness							Shadow, Equipment, Legs	Blood Debt
 
 **Blood Debt**"	Shadow Equipment - Legs					
 kftPnNkrBLJ7rPmFGgQCm	Dash					20	4	Mechanologist, Hero, Young							You may start the game with a Mechanologist item with cost 2 or less in the arena.	Mechanologist Hero - Young			No		
+N6TDqDNWfKfrz6G6jNrQQ	Dash, Database					18	4	Mechanologist, Hero, Young							"You may look at the top card of your deck at any time.
+
+Once per turn, you may play a Mechanologist item with cost 0 or 1 from the top of your deck as though it were an instant. It costs an additional {r} to play."	Mechanologist Hero - Young			No		
 6CcjWGnThrTmTQFQ9zHMN	Dash, Inventor Extraordinaire					40	4	Mechanologist, Hero							You may start the game with a Mechanologist item with cost 2 or less in the arena.	Mechanologist Hero		No		No	
 kbdzm8R7MHCpWC79RdTGH	Data Doll MKII					20	3	Mechanologist, Hero, Young							Whenever a Mechanologist item with cost 2 or less is put into your banished zone from your deck, put it into the arena.	Mechanologist Hero - Young			No		
 wNjKmtGB97kW7GWKRgjDt	Dauntless	1	1		3			Warrior, Action	Go again						"Your next weapon attack this turn gains +3{p}.
@@ -1634,6 +1640,9 @@ At the beginning of your action phase, destroy Embolden then the next Guardian a
 When Embolden enters the arena, if you control another non-token aura, draw a card.
 
 At the beginning of your action phase, destroy Embolden then the next Guardian attack action card you play this turn gains +3{p}."	Guardian Action - Aura				No	
+nRGKwwb7q7HQnfGQLr6gp	Emboldened Blade	3	0		3			Warrior, Action	Go again						"Turn a face-down card in any arsenal face-up. If it's a defense reaction, destroy it and your next weapon attack this turn gets +1{p}.
+
+**Go again**"	Warrior Action				No	
 FFrCkdLPFwwTzHJPwcTRC	Emerging Avalanche	1	2		3			Elemental, Guardian, Action, Aura	Ice Fusion, Go again						"**Ice Fusion**
 
 **Go again**
@@ -2742,6 +2751,9 @@ W8hhkFmqt8rDrBnTfCCPw	Inspire Lightning	3	1		2			Elemental, Runeblade, Action	Li
 
 If Inspire Lightning was **fused**, deal 1 arcane damage to target hero."	Elemental Runeblade Action					
 cRRDRFWcfMpkDcWtTphFT	Interlude	1	0					Bard, Instant							Choose a hero. The next time they would be dealt damage this turn, prevent 3 of that damage. If you prevent damage to another hero this way, create a Copper token.	Bard Instant					
+BzRzJh9PcztPDn7fhNLF9	Intoxicating Shot	3	0	4	3			Ranger, Action, Arrow, Attack	Riptide Specialization						"**Riptide Specialization**
+
+When this hits a hero, they create a Courage and Quicken token."	Ranger Action - Arrow Attack				No	
 8qkczmhLhHzTCTpbgwJbD	Invert Existence	3	1					Shadow, Runeblade, Instant	Blood Debt						"You may play Invert Existence from your banished zone.
 
 Banish up to 2 cards in an opposing hero's graveyard. If an attack action card and a 'non-attack' action card are banished this way, deal 2 arcane damage to that hero.
@@ -4945,6 +4957,11 @@ For each 'non-attack' action card revealed this way, you may put an attack actio
 Shuffle your deck. Banish Sonata Arcanix.
 
 **Go again**"	Runeblade Action				No	
+LQ8bccmDBnnTLLzJRBb8k	Sonata Fantasmia	3	XX		3			Runeblade, Action	Viserai Specialization						"**Viserai Specialization**
+
+Create X Runechant tokens.
+
+If X is 6 or greater, target hero discards 3 random cards."	Runeblade Action				No	
 PCLwwwtFMQmLLpj6TD7hj	Song of Jack-Be-Quick	3	0		3			Bard, Action, Song							Create a Quicken token under each other hero's control.	Bard Action - Song					
 GRqLrz7CNrwQB8RKfqKnM	Song of Sweet Nectar	3	0		3			Bard, Action, Song							Each other hero gains 1{h}.	Bard Action - Song					
 nzRWpgWz8fR6ChrGQWWdm	Song of Yesteryears	3	0		3			Bard, Action, Song							Each other hero puts an attack action card from their graveyard on the bottom of the deck.	Bard Action - Song					
