@@ -2388,6 +2388,9 @@ Prkf9mwfBCbLDHncK6CPP	Heat Wave				0			Draconic, Ninja, Equipment, Arms	Quell 1	
 BDqM89MWQr6zKfCk6hkBH	Heaven's Claws	1	1	5	3			Lightning, Action, Attack								Lightning Action - Attack					
 NMTzJw6qfQ7rBdDpgMCzL	Heaven's Claws	2	1	4	3			Lightning, Action, Attack								Lightning Action - Attack					
 HCGkgWcrLLkmHFBRbhpdM	Heaven's Claws	3	1	3	3			Lightning, Action, Attack								Lightning Action - Attack					
+CnGbng8qnbmcNP96gkWzT	Heavy Artillery	1	3	6	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - The defending hero can't defend this with attack action cards with cost less than X, where X is the number of Evos you have equipped.	Mechanologist Action - Attack					
+zMKfFNMHWRtL67cqWCnL8	Heavy Artillery	2	3	5	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - The defending hero can't defend this with attack action cards with cost less than X, where X is the number of Evos you have equipped.	Mechanologist Action - Attack					
+9h6KqtDtctfGjqNTBBjJF	Heavy Artillery	3	3	4	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - The defending hero can't defend this with attack action cards with cost less than X, where X is the number of Evos you have equipped.	Mechanologist Action - Attack					
 gjgpkHgC6p7HNTPpCJdCh	Helio's Mitre				0			Generic, Equipment, Head		Instant					"*(A player may add a Helio's Mitre to their card pool in an Uprising limited format.)*
 
 **Instant** - {r}{r}: Prevent the next 1 damage that would be dealt to your hero this turn by a source of your choice. Destroy Helio's Mitre at the beginning of the end phase."	Generic Equipment - Head					
@@ -5442,6 +5445,11 @@ At the beginning of your action phase, remove a steam counter from Teklo Core an
 tBqFrtGcBNQt7GnMFTPPB	Teklo Foundry Heart				2			Mechanologist, Equipment, Chest	Battleworn	Once per Turn Action	Go again			Boost	"**Once per Turn Action** - {r}: Banish the top 2 cards of your deck. Gain {r} for each Mechanologist card banished this way. Activate this ability only if you have **boosted** this turn. **Go again**
 
 **Battleworn**"	Mechanologist Equipment - Chest				No	
+JR8LzTchKj8QmqkCN7GHw	Teklo Leveler			2				Mechanologist, Weapon, Gun, 2H		Once per Turn Action	Attack, Go again				"If you have 1 or more Evos equipped, this gets ""**Once per Turn Action** - {r}{r}{r}: **Attack**,""
+
+* 2 or more, this costs {r}{r} less to activate,
+* 3 or more, this gets **go again**,
+* 4 or more, this gets +1{p}."	Mechanologist Weapon - Gun (2H)					
 fNFqtdWLq6tCPnnwjLLWL	Teklo Plasma Pistol			2				Mechanologist, Weapon, Pistol, 2H		Action	Attack, Go again				"**Action** - Remove a steam counter from Teklo Plasma Pistol: **Attack**
 
 **Action** - {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. **Go again**"	Mechanologist Weapon - Pistol (2H)					
