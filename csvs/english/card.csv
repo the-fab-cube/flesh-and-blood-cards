@@ -2615,6 +2615,9 @@ KJT8g9znGjfbKW9BhHrNc	Hurl	3	0	1	2			Assassin, Ninja, Action, Attack	Go again			
 
 **Go again**"	Assassin / Ninja Action - Attack				No	
 BRbggWh7bBGWNgDPP7Rrg	Hurricane Technique	2	1	4	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Rising Knee Thrust was the last attack this combat chain, Hurricane Technique gains +1{p}, **go again**, and ""If Hurricane Technique hits, put it into your hand."""	Ninja Action - Attack				No	
+FwwCqJKcNDNMjJn9mTCgg	Hyper Driver							Mechanologist, Token, Item						Boost	"When this has no steam counters, destroy it.
+
+Once per turn, when you **boost** a card, remove a steam counter from this and gain {r}."	Mechanologist Token - Item					
 kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1	1					Mechanologist, Action, Item						Boost	"Hyper Driver enters the arena with 3 steam counters on it. When Hyper Driver has no steam counters on it, destroy it.
 
 Once per turn, when you **boost** a card, remove a steam counter from Hyper Driver and gain {r}."	Mechanologist Action - Item					
@@ -3125,6 +3128,9 @@ tpCTjhFnCPJKBbPbRnFLM	Mauvrion Skies	3	0		2			Runeblade, Action	Go again			Go ag
 
 **Go again**"	Runeblade Action				No	
 mkDw7d9PKRDtJT7bCCRjh	Maximum Velocity	1	2	10	3			Mechanologist, Action, Attack						Boost	Play Maximum Velocity only if you have **boosted** 3 or more times this turn.	Mechanologist Action - Attack				No	
+z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro					20	4	Mechanologist, Hero, Young		Once Per Turn Action		Crank		Boost	"**Once per Turn Action** - {r}{r}: Create a Hyper Driver token with 2 steam counters.  Activate this ability only if you've **boosted** this turn.
+
+Hyper Drivers you control get **crank**."	Mechanologist Hero - Young			No		
 rpF86BNmBttKMGpckqJnq	Meat and Greet	1	1	4	3			Runeblade, Action, Attack	Go again						"If Meat and Greet hits, create a Runechant token.
 
 If you have dealt arcane damage to an opposing hero this turn, Meat and Greet gains **go again**."	Runeblade Action - Attack					
