@@ -1,5 +1,11 @@
 [
     {
+        "unique_id": "Fh696f9wpcPgwgpgg8d9j",
+        "name": "Ambush",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "77JKJwz6k8BRrGbmRDPTT",
         "name": "Arcane Barrier X",
         "description": "If you would be dealt arcane damage you may pay X{r} instead to prevent X arcane damage that source will deal.",

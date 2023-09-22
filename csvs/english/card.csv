@@ -526,9 +526,9 @@ twkhJ79fJq7qKqjGCJJnf	Blessing of Occult	3	1		2			Runeblade, Action, Aura							
 G7zGDHtzjtpPmn6fRLCJr	Blessing of Patience	1	1		3			Guardian, Action, Aura							At the start of your turn, destroy Blessing of Patience then target hero gains 3{h}.	Guardian Action - Aura				No	
 hwhRPmcc9nMh6tTjLz6fw	Blessing of Patience	2	1		3			Guardian, Action, Aura							At the start of your turn, destroy Blessing of Patience then target hero gains 2{h}.	Guardian Action - Aura				No	
 8TJKrTQpGM6BDpGmgHdGj	Blessing of Patience	3	1		3			Guardian, Action, Aura							At the start of your turn, destroy Blessing of Patience then target hero gains 1{h}.	Guardian Action - Aura				No	
-TjwzWpWmkqtGd6WhLCmwN	Blessing of Qi	1	1		3			Ninja, Action, Aura							At the start of your turn, destroy Blessing of Qi then create a Crouching Tiger in your banished zone. It gains +3{p} and you may play it this turn.	Ninja Action - Aura				No	
-m7ThmjJFr8DhTq96q9BJc	Blessing of Qi	2	1		3			Ninja, Action, Aura							At the start of your turn, destroy Blessing of Qi then create a Crouching Tiger in your banished zone. It gains +2{p} and you may play it this turn.	Ninja Action - Aura				No	
-G9WT8dKmmQFdP7jmtqwqC	Blessing of Qi	3	1		3			Ninja, Action, Aura							At the start of your turn, destroy Blessing of Qi then create a Crouching Tiger in your banished zone. It gains +1{p} and you may play it this turn.	Ninja Action - Aura				No	
+TjwzWpWmkqtGd6WhLCmwN	Blessing of Qi	1	1		3			Ninja, Action, Aura							At the start of your turn, destroy this, then create a Crouching Tiger in your banished zone. It gains +3{p} and you may play it this turn.	Ninja Action - Aura				No	
+m7ThmjJFr8DhTq96q9BJc	Blessing of Qi	2	1		3			Ninja, Action, Aura							At the start of your turn, destroy this, then create a Crouching Tiger in your banished zone. It gains +2{p} and you may play it this turn.	Ninja Action - Aura				No	
+G9WT8dKmmQFdP7jmtqwqC	Blessing of Qi	3	1		3			Ninja, Action, Aura							At the start of your turn, destroy this, then create a Crouching Tiger in your banished zone. It gains +1{p} and you may play it this turn.	Ninja Action - Aura				No	
 wrBQwfbdTLz8HzMWFQWRn	Blessing of Salvation	1	1		2			Light, Action							"If a card has been put into you hero's soul this turn, you may play this as though it were and instant.
 
 Gain 3{h}"	Light Action				No	
@@ -587,6 +587,9 @@ Your Brute and Shadow attacks get +X{p} this turn where X is the number of cards
 
 **Go again**"	Shadow Brute Action				No	
 JfBCWJdFBcrnhdkjRj6tz	Blood Drop Brocade				0			Generic, Equipment, Chest		Instant					**Instant** - Destroy Blood Drop Brocade: Gain {r}. Activate this ability only if you have dealt or been dealt {p} damage this turn.	Generic Equipment - Chest					
+WQzcLfDqKwCFFJMBcddJ6	Blood Scent				1			Ninja, Equipment, Chest	Battleworn	Instant					"**Instant** - Destroy this: Gain {r}. Activate this only if you've attacked with a Crouching Tiger this turn.
+
+**Battleworn**"	Ninja Equipment - Chest				No	
 Lmfc89kGcH66W6BRqCfb7	Blood Tribute	1	0					Shadow, Instant	Opt 3						**Opt 3**, then banish the top card of your deck.	Shadow Instant					
 kmWDHgcj8hrqMgrtJ6dwW	Blood Tribute	2	0					Shadow, Instant	Opt 2						**Opt 2**, then banish the top card of your deck.	Shadow Instant					
 tdqH9kBqn9TbjRBHHDrfP	Blood Tribute	3	0					Shadow, Instant	Opt 1						**Opt 1**, then banish the top card of your deck.	Shadow Instant					
@@ -666,6 +669,8 @@ ffTGRRhMJmDGQQK9WPw6t	Boneyard Marauder	2	1	5	3			Shadow, Brute, Action, Attack	
 cW9DC9PbTtg8nqwr7JcLD	Boneyard Marauder	3	1	4	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play Boneyard Marauder, banish 3 random cards from your graveyard.
 
 **Blood Debt**"	Shadow Brute Action - Attack					
+jLqRGt6GqBn9NbHrzbKKm	Boulder Drop	2	3	6	3			Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.	Guardian Action - Attack				No	
+wwKjnd7RF7HJwWCLkN78L	Boulder Drop	3	3	5	3			Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.	Guardian Action - Attack				No	
 9T6MpdKGz7bnbQpJrNQjq	Boulder Trap	2	0		3			Ranger, Defense Reaction, Trap							When this defends an attack with {p} greater than its base, put a -1{d} counter on an equipment the attacking hero controls.	Ranger Defense Reaction - Trap				No	
 8G8jtfKGtQDzMtTd6gFL7	Bounding Demigon	1	0	3	3			Shadow, Runeblade, Action, Attack	Blood Debt						"If you have played a 'non-attack' action card this turn, you may play Bounding Demigon from your banished zone. If you do, it gains +1{p}.
 
@@ -942,9 +947,9 @@ cgPN7GPMwTTwzrwn6fcm8	Chilling Icevein	3	1	3	3			Elemental, Ranger, Action, Arro
 
 If Chilling Icevein was **fused**, whenever an attack deals damage to a hero this turn, they discard a card unless they pay {r}."	Elemental Ranger Action - Arrow Attack					
 WtQz7cpTHPLGqtFLFJwjj	Chivalry	3			3			Guardian, Block	Protect						**Protect**	Guardian Block					
-fzzJk9PmQWWNpWN9qWHCH	Chokeslam	1	4	8	3			Guardian, Action, Attack	Crush						**Crush** - If Chokeslam deals 4 or more damage to a hero, attack action cards they control can't gain {p} during their next action phase.	Guardian Action - Attack					
-NQtBMGcTc8mwL9Whpm6RQ	Chokeslam	2	4	7	3			Guardian, Action, Attack	Crush						**Crush** - If Chokeslam deals 4 or more damage to a hero, attack action cards they control can't gain {p} during their next action phase.	Guardian Action - Attack					
-hTcPj7fQfqChgCnpMCDPB	Chokeslam	3	4	6	3			Guardian, Action, Attack	Crush						**Crush** - If Chokeslam deals 4 or more damage to a hero, attack action cards they control can't gain {p} during their next action phase.	Guardian Action - Attack					
+fzzJk9PmQWWNpWN9qWHCH	Chokeslam	1	4	8	3			Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, their attack action cards can't gain {p} during their next action phase.	Guardian Action - Attack					
+NQtBMGcTc8mwL9Whpm6RQ	Chokeslam	2	4	7	3			Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, their attack action cards can't gain {p} during their next action phase.	Guardian Action - Attack					
+hTcPj7fQfqChgCnpMCDPB	Chokeslam	3	4	6	3			Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, their attack action cards can't gain {p} during their next action phase.	Guardian Action - Attack					
 hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	2	1		3			Warrior, Attack Reaction	Unity, Dorinthea Specialization						"**Dorinthea Specialization**
 
 Until end of turn, target Dawnblade gets +1{p} and ""Damage this would deal can't be prevented.""
@@ -1012,7 +1017,7 @@ WGLcqWkRPGH7THqWjQzd7	Coalescence Mirage	3	2	5	3			Illusionist, Action, Attack	P
 
 When Coalescence Mirage is destroyed, you may put an Illusionist aura card with cost 0 from your hand into the arena."	Illusionist Action - Attack					
 KdPWDMfBd8BQp66B9chCQ	Coat of Frost				0			Ice, Equipment, Chest		Action	Go again			Fusion	**Action** - Destroy Coat of Frost: Create a Frostbite token under target hero's control. **Go again**	Ice Equipment - Chest					
-LzjkDR6QcL9WBztfDTRt9	Coax a Commotion	1	0	4	2			Generic, Action, Attack							"If Coax a Commotion hits, choose any number:
+LzjkDR6QcL9WBztfDTRt9	Coax a Commotion	1	0	4	2			Generic, Action, Attack							"When this hits, choose any number:
 
 - Each hero creates a Quicken token.
 - Each hero draws a card.
@@ -1062,6 +1067,7 @@ If Cold Wave was **fused**, cards and activated abilities cost opposing heroes a
 NzT7pTMkkPCfNr79ftFtG	Collapsing Trap	3	0		3			Ranger, Defense Reaction, Trap	Legendary, Riptide Specialization					Go again	"**Legendary Riptide Specialization**
 
 When this defends an attack with **go again**, the attacking hero discards their hand then draws that many cards minus 1."	Ranger Defense Reaction - Trap				No	
+p89Wnh7dDNTLmhGjhMkKD	Colossal Bearing	1	4	8	3			Guardian, Action, Attack	Tower						"**Tower** - If this has 13 or more {p}, it gets ""When this hits a hero, destroy an equipment they control with 1 or less {d}."""	Guardian Action - Attack				No	
 KwnFBgNNkWthnbL6kC8Cj	Combustible Courier	1	2	4	3			Mechanologist, Action, Attack	Boost					Boost	"If Combustible Courier hits, the next attack you **boost** this combat chain gains +3{p}.
 
 **Boost**"	Mechanologist Action - Attack					
@@ -1118,7 +1124,7 @@ If a card with 6 or more {p} is banished this way, the next attack action card y
 If a card with 6 or more {p} is banished this way, the next attack action card you play this turn gains +1{p} and **dominate**.
 
 **Go again**"	Shadow Brute Action				No	
-gzDGmdfm6gHWctgrcgfKf	Copper							Generic, Token, Item		Action	Go again				**Action** - {r}{r}{r}{r}, destroy Copper: Draw a card. **Go again**	Generic Token - Item					
+gzDGmdfm6gHWctgrcgfKf	Copper							Generic, Token, Item		Action	Go again				**Action** - {r}{r}{r}{r}, destroy this: Draw a card. **Go again**	Generic Token - Item					
 9b7hjHNnGDBkfL8jL89bf	Coronet Peak				2			Ice, Equipment, Head	Blade Break	Action					"**Action** - {r}{r}{r}: Target hero discards a card unless they pay {r}.
 
 **Blade Break**"	Ice Equipment - Head				No	
@@ -1134,7 +1140,7 @@ tbc6PrGdmPnPJkbN9DW9q	Cracker Jax				0			Generic, Equipment, Arms		Action	Go aga
 b9Hw6NhDgfdQWLDQffTPC	Crane Dance	1	0	3	3			Ninja, Action, Attack	Combo						**Combo** - If Soulbead Strike was the last attack this combat chain, Crane Dance gains +1{p}, **go again**, and it can't be defended by attack action cards with base {p} greater than the number of chain links you control.	Ninja Action - Attack				No	
 hdwcfGdrfcJ9bK78tPgRW	Crane Dance	2	0	2	3			Ninja, Action, Attack	Combo						**Combo** - If Soulbead Strike was the last attack this combat chain, Crane Dance gains +1{p}, **go again**, and it can't be defended by attack action cards with base {p} greater than the number of chain links you control.	Ninja Action - Attack				No	
 KWNMNMjTzTQMRK7FF9J6T	Crane Dance	3	0	1	3			Ninja, Action, Attack	Combo						**Combo** - If Soulbead Strike was the last attack this combat chain, Crane Dance gains +1{p}, **go again**, and it can't be defended by attack action cards with base {p} greater than the number of chain links you control.	Ninja Action - Attack				No	
-wc9L9bCGdNwhFrRD9Ntr6	Cranial Crush	3	6	8	3			Guardian, Action, Attack	Crush						**Crush** - If Cranial Crush deals 4 or more damage to a hero, they can't draw cards during their next action phase	Guardian Action - Attack				No	
+wc9L9bCGdNwhFrRD9Ntr6	Cranial Crush	3	6	8	3			Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, they can't draw cards during their next action phase	Guardian Action - Attack				No	
 HDnfHcMqHHBkwtWpgbMPF	Crankshaft	1	2	5	3			Mechanologist, Action, Attack	Boost					Boost	"When Crankshaft is banished to pay for a **boost** cost, put a steam counter on a Hyper Driver you control.
 
 **Boost**"	Mechanologist Action - Attack					
@@ -1144,10 +1150,12 @@ HDnfHcMqHHBkwtWpgbMPF	Crankshaft	1	2	5	3			Mechanologist, Action, Attack	Boost		
 NTCMFrrQdwdrKLnT8kcfc	Crankshaft	3	2	3	3			Mechanologist, Action, Attack	Boost						"When Crankshaft is banished to pay for a **boost** cost, put a steam counter on a Hyper Driver you control.
 
 **Boost**"	Mechanologist Action - Attack					
+bzBJdKw6Brc9KmtcNrJKp	Crash Down	1	3		3			Guardian, Action, Aura							At the start of your turn, destroy this, then the next Guardian attack action card you play this turn gets +6{p}.	Guardian Action - Aura				Yes	
+TgrNMPfTmLkB9DtNtkccP	Crash Down	2	3		3			Guardian, Action, Aura							At the start of your turn, destroy this, then the next Guardian attack action card you play this turn gets +5{p}.	Guardian Action - Aura				Yes	
 DbpdPtLqk9zqfp6bdQTP6	Crater Fist				2			Guardian, Equipment, Arms	Temper	Action	Go again			Crush	"**Action** - {r}{r}{r}, destroy Crater Fist: Your attacks with **crush** gain +2{p} this turn. **Go again**
 
 **Temper**"	Guardian Equipment - Arms				No	
-zHBTDcDtMLgTrqfnmTB9q	Crazy Brew	3	0					Generic, Action, Item		Action	Go again				"**Action** - Destroy Crazy Brew: Roll a 6 sided die. On;
+zHBTDcDtMLgTrqfnmTB9q	Crazy Brew	3	0					Generic, Action, Item		Action	Go again				"**Action** - Destroy this: Roll a 6 sided die. On;
 
 - 1 or 2 - Lose 2{h}. **Go again**
 - 3 or 4 - Gain 2{h}. **Go again**
@@ -1168,6 +1176,9 @@ fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger		0	0				Ninja, Action, Attack	Ephemeral, G
 QqNbkbMnDhQrdrBj77Qpr	Crow's Nest							Ranger, Equipment, Quiver	Azalea Specialization						"**Azalea Specialization**
 
 Whenever an arrow is put face up into your arsenal from your deck, you may pay {r}. If you do, put an aim counter on it."	Ranger Equipment - Quiver					
+DfkBWGW6Wqk8P6NdGjtrz	Crowd Control	1			4			Bard, Block							When this defends, you may pay {r}{r}{r}. If you do, it gets +1{d} for each opposing hero.	Bard Block				Yes	
+9MMPg6FzLBnGmNtjnFtCQ	Crowd Control	2			3			Bard, Block							When this defends, you may pay {r}{r}{r}. If you do, it gets +1{d} for each opposing hero.	Bard Block				Yes	
+WDTM8c7DNBzkphfGWtBkN	Crowd Control	3			2			Bard, Block							When this defends, you may pay {r}{r}{r}. If you do, it gets +1{d} for each opposing hero.	Bard Block				Yes	
 CQLdjjNmHTMfDnqzW6TLg	Crown of Dichotomy				0			Runeblade, Equipment, Head	Arcane Barrier 1	Action					"**Action** - {r}, destroy Crown of Dichotomy: Put target Runeblade attack action card and target Runeblade 'non-attack' action card from your graveyard on top of your deck in any order.
 
 **Arcane Barrier 1**"	Runeblade Equipment - Head					
@@ -1393,9 +1404,9 @@ JdCmtgpzCdnNWrD7FB7mp	Dimenxxional Vortex		3					Shadow, Action	Blood Debt						
 Each hero banishes a card from their arsenal.
 
 **Blood Debt**"	Shadow Action				No	
-TtMnqPqJNGgrjmMJ99KWn	Disable	1	5	9	3			Guardian, Action, Attack	Crush						**Crush** - If Disable deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.	Guardian Action - Attack				No	
-fgrK7Mbp8qQcbMtQDwk9F	Disable	2	5	8	3			Guardian, Action, Attack	Crush						**Crush** - If Disable deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.	Guardian Action - Attack				No	
-7LPnw9zFRhGmKHzCzMpdJ	Disable	3	5	7	3			Guardian, Action, Attack	Crush						**Crush** - If Disable deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.	Guardian Action - Attack				No	
+TtMnqPqJNGgrjmMJ99KWn	Disable	1	5	9	3			Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.	Guardian Action - Attack				No	
+fgrK7Mbp8qQcbMtQDwk9F	Disable	2	5	8	3			Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.	Guardian Action - Attack				No	
+7LPnw9zFRhGmKHzCzMpdJ	Disable	3	5	7	3			Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.	Guardian Action - Attack				No	
 WRhC8n6HHNkRn6MjzDHDL	Dishonor	3	0	2	3			Ninja, Action, Attack	Combo						"**Combo** - If Bonds of Ancestry was the last attack this combat chain, this has +2{p}.
 
 When this hits a hero, if you control Surging Strike, Descendent Gustwave, and Bonds of Ancestry, that hero loses all abilities for the rest of the game."	Ninja Action - Attack				No	
@@ -1572,6 +1583,8 @@ C7NCzqwTbKtcQKjwHRzBK	Dyadic Carapace				2			Runeblade, Equipment, Chest	Arcane 
 qCwM6LGq87rrqGQFk8rKG	Earthlore Bounty				2			Guardian, Equipment, Chest	Temper						"Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.
 
 **Temper**"	Guardian Equipment - Chest				No	
+pMKqgFjgdR8rmMKpdjP7q	Earthlore Empowerment	1	3		3			Guardian, Action, Aura							At the start of your turn, destroy this, then the next Guardian attack action card you play this turn costs {r} less to play and gets +5{p}.	Guardian Action - Aura				Yes	
+gdK9Qh67JW8FkFB6MWPrC	Earthlore Empowerment	2	3		3			Guardian, Action, Aura							At the start of your turn, destroy this, then the next Guardian attack action card you play this turn costs {r} less to play and gets +4{p}.	Guardian Action - Aura				Yes	
 cmFpRgfCJfJWFWPBgc7dw	Earthlore Surge	1	2		2			Earth, Action	Go again						"The next attack action card you play this turn gains +5{p}.
 
 **Go again**"	Earth Action					
@@ -1732,7 +1745,7 @@ dncM8DzP7fJ9JWDqqWfHj	Endless Winter	1	4	8	3			Elemental, Guardian, Action, Atta
 If Endless Winter was **fused**, whenever the defending hero adds a defending card to this chain link, create a Frostbite token under their control.
 
 If Endless Winter hits a hero, until the end of their next turn, whenever they activate an ability, create a Frostbite token under their control."	Elemental Guardian Action - Attack				No	
-nHTP6hGgLz6zfpdFH9Fpt	Energy Potion	3	0					Generic, Action, Item		Instant					**Instant** - Destroy Energy Potion: Gain {r}{r}	Generic Action - Item				No	
+nHTP6hGgLz6zfpdFH9Fpt	Energy Potion	3	0					Generic, Action, Item		Instant					**Instant** - Destroy this: Gain {r}{r}	Generic Action - Item				No	
 9GLmGhw9CCzhbkKBFzQzH	Engulfing Flamewave	1	2	5	2			Draconic, Ninja, Action, Attack	Go again						"When Engulfing Flamewave hits, reveal the top card of your deck. If it's an attack action card with cost less than number of Draconic chain links you control, banish it. You may play it this turn.
 
 **Go again**"	Draconic Ninja Action - Attack				No	
@@ -1924,6 +1937,7 @@ If Fervent Forerunner is played from arsenal, it gains **go again**."	Generic Ac
 zQMMbcBbbRKKJcTwcCPPQ	Fervent Forerunner	3	0	1	2			Generic, Action, Attack	Opt 2, Go again						"If Fervent Forerunner hits, **opt 2**.
 
 If Fervent Forerunner is played from arsenal, it gains **go again**."	Generic Action - Attack					
+p7CLrzj7kGMtt8cLfMdqT	Fiddle-dee							Bard, Equipment, Arms		Action	Go again				**Action** - Destroy this: Each hero creates a Might token.  **Go again**	Bard Equipment - Arms				No	
 cWRWbKczR8N8F6nGBMNG7	Figment of Erudition	2	4					Light, Illusionist, Instant, Figment	Legendary						"**Legendary**
 
 When this enters the arena, create a Ponder token."	Light Illusionist Instant - Figment				No	
@@ -1948,9 +1962,12 @@ When this enters the arena, attack action cards your opponents control get -1{p}
 qrhLKPQDzcR99cHLz7jgq	Figment of War	2	4					Light, Illusionist, Instant, Figment	Legendary						"**Legendary**
 
 When this enters the arena, create a Courage token."	Light Illusionist Instant - Figment				No	
-wrn8fmpTQHjKLzzHtqwNG	Final Act	1	1	1	3			Bard, Action, Attack							When this attacks, it gets +X{p} where X is twice the number of cards in all pitch zones.	Bard Action - Attack				No	
+wrn8fmpTQHjKLzzHtqwNG	Final Act	1	1	1	3			Bard, Action, Attack							When this attacks, it gets +X{p}, where X is twice the number of cards in all pitch zones.	Bard Action - Attack				No	
 PHz8kWCt6rw6Q6jMgbdQC	Find Center	3	0	2	3			Ninja, Action, Attack	Combo						"**Combo** - If Crane Dance was the last attack this combat chain, Find Center can't be defended by cards with {r} cost less than the number of chain links you control, and it gains ""If this hits, create a Zen State token."""	Ninja Action - Attack				No	
 FKCrQMngDF9nMT99qzNjn	Firebreathing	1	2	3	3			Generic, Action, Attack		Instant					**Instant** - {r}: Firebreathing gains +1{p}. Activate this ability only while Firebreathing is attacking.	Generic Action - Attack				No	
+kHP6QW9GNhJzkDjq7nGpk	Firewall	1			4			Mechanologist, Block							When this defends, reveal the top card of your deck. If it's an Evo, put it on top of your deck. Otherwise, put it on the bottom.	Mechanologist Block				No	
+zRdT7QbmBfgd7DKBwjfGd	Firewall	2			3			Mechanologist, Block							When this defends, reveal the top card of your deck. If it's an Evo, put it on top of your deck. Otherwise, put it on the bottom.	Mechanologist Block				No	
+qQQr98pt8gmgGdttPNTH7	Firewall	3			2			Mechanologist, Block							When this defends, reveal the top card of your deck. If it's an Evo, put it on top of your deck. Otherwise, put it on the bottom.	Mechanologist Block				No	
 FwDRt9TR7CCJd9NnNBmfP	Fisticuffs							Generic, Equipment, Arms		Attack Reaction					**Attack Reaction** - {r}{r}, destroy Fisticuffs: Target attack action card gains +1{p}.	Generic Equipment - Arms					
 KthQj9HCRMDRfngK88kCw	Flail of Agony			1				Shadow, Runeblade, Weapon, Flail, 1H	Vynnset Specialization	Once per Turn Action	Attack				"**Vynnset Specialization**
 
@@ -2055,9 +2072,9 @@ When you attack with Flock of the Feather Walkers, create a Quicken token."	Gene
 Wk9cnfJGMJRgWNMm7czwH	Fluster Fist	1	0	4	3			Ninja, Action, Attack	Combo						**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack				No	
 HGNCdBCQmdRqQGggmrLjg	Fluster Fist	2	0	3	3			Ninja, Action, Attack	Combo						**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack				No	
 9n8wHtnLRcNrMhctcDQCb	Fluster Fist	3	0	2	3			Ninja, Action, Attack	Combo						**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack				No	
-fRMpqdL8MjMKkPq9rG8J8	Flying Kick	1	2	5	3			Ninja, Action, Attack							If Flying Kick is played as chain link 3 or higher, it gains +2{p}.	Ninja Action - Attack					
-R7RwbN6Gw8g79hw7wwPMf	Flying Kick	2	2	4	3			Ninja, Action, Attack							If Flying Kick is played as chain link 3 or higher, it gains +2{p}.	Ninja Action - Attack					
-MCtGBgjzJWb8rPmNPTDWp	Flying Kick	3	2	3	3			Ninja, Action, Attack							If Flying Kick is played as chain link 3 or higher, it gains +2{p}.	Ninja Action - Attack					
+fRMpqdL8MjMKkPq9rG8J8	Flying Kick	1	2	5	3			Ninja, Action, Attack							When this is played as chain link 3 or higher, it gains +2{p}.	Ninja Action - Attack					
+R7RwbN6Gw8g79hw7wwPMf	Flying Kick	2	2	4	3			Ninja, Action, Attack							When this is played as chain link 3 or higher, it gains +2{p}.	Ninja Action - Attack					
+MCtGBgjzJWb8rPmNPTDWp	Flying Kick	3	2	3	3			Ninja, Action, Attack							When this is played as chain link 3 or higher, it gains +2{p}.	Ninja Action - Attack					
 tKf7fDRqqJHHn7QgrKjdR	Fog Down	2	3		3			Generic, Action, Aura					Go again		"'Non-attack' action cards lose and can't gain **go again**.
 
 At the beginning of your action phase, destroy Fog Down."	Generic Action - Aura				No	
@@ -2322,6 +2339,9 @@ bpcWc9DJf9pzfBczMWczJ	Grimoire of the Haunt							Shadow, Runeblade, Equipment, 
 gqJnkdRN8WkHKtFNtPTgN	Growl	1	0	3	2			Ninja, Action, Attack							"When this attacks, the next Crouching Tiger you play this combat chain gets +1{p}.
 
 **Go again**"	Ninja Action - Attack				No	
+p7gwqttrJdHDgWjpCHhtk	Growl	2	0	2	2			Ninja, Action, Attack	Go again						"When this attacks, the next Crouching Tiger you play this combat chain gets +1{p}.
+
+**Go again**"	Ninja Action - Attack				No	
 wLbNLfGtn86JfCTKBdMRg	Guardian of the Shadowrealm	1	2		6			Shadow, Defense Reaction	Blood Debt	Action					"**Action** - {r}{r}: Return Guardian of the Shadowrealm from your banished zone into your hand. Activate this ability only while Guardian of the Shadowrealm is in your banished zone.
 
 **Blood Debt**"	Shadow Defense Reaction				No	
@@ -2371,7 +2391,7 @@ zNgcmTJjnWHfGKcLmPw8G	Head Shot	3	1	2	3			Ranger, Action, Arrow, Attack							If
 hwFjtcMfQHTbj6whzfhk6	Healing Balm	1	0		2			Generic, Action							Gain 3{h}	Generic Action					
 z6Ltnt69ChWMCDBTTdWkL	Healing Balm	2	0		2			Generic, Action							Gain 2{h}	Generic Action					
 PdKcNzJNPJgpcF9TTCqm6	Healing Balm	3	0		2			Generic, Action							Gain 1{h}	Generic Action					
-mRhKjfhKd6K6DPB8f6Twg	Healing Potion	3	0					Generic, Action, Item		Action	Go again				**Action** - Destroy Healing Potion: Gain 2{h}. **Go again**	Generic Action - Item				No	
+mRhKjfhKd6K6DPB8f6Twg	Healing Potion	3	0					Generic, Action, Item		Action	Go again				**Action** - Destroy this: Gain 2{h}. **Go again**	Generic Action - Item				No	
 pBpLPQ7kg6mkBpNMMPdCD	Heart of Fyendal	3						Generic, Resource, Gem	Legendary						"**Legendary**
 
 When you pitch Heart of Fyendal, if you have less {h} than an opposing hero, gain 1{h}."	Generic Resource - Gem				No	
@@ -2380,6 +2400,7 @@ PpQBJwQCfFrHzKM9TkcbD	Heart of Ice				1			Ice, Equipment, Chest	Arcane Barrier 1
 **Arcane Barrier 1**
 
 **Blade Break**"	Ice Equipment - Chest				No	
+h7NLHrBf7dNmKLN8zqRLn	Heart-throb							Bard, Equipment, Chest		Action	Go again				**Action** - Destroy this: Each hero creates a Vigor token.  **Go again**	Bard Equipment - Chest				No	
 666mgFjKrrLQhdkpGzNzf	Heartened Cross Strap				0			Generic, Equipment, Chest		Action	Go again				**Action** - Destroy Heartened Cross Strap: The next attack action card you play this turn costs {r}{r} less to play. **Go again**	Generic Equipment - Chest					
 H6KCbhR6jqrLJnhjM8GPN	Heat Seeker	1	1	5	3			Ranger, Action, Arrow, Attack							When this hits, at the beginning of your end phase, put the top card of your deck face up into your arsenal.	Ranger Action - Arrow Attack				No	
 Prkf9mwfBCbLDHncK6CPP	Heat Wave				0			Draconic, Ninja, Equipment, Arms	Quell 1	Instant					"**Instant** - Destroy Heat Wave: Phoenix Flames you control gain +1{p} until end of turn.
@@ -2757,6 +2778,8 @@ W8hhkFmqt8rDrBnTfCCPw	Inspire Lightning	3	1		2			Elemental, Runeblade, Action	Li
 
 If Inspire Lightning was **fused**, deal 1 arcane damage to target hero."	Elemental Runeblade Action					
 cRRDRFWcfMpkDcWtTphFT	Interlude	1	0					Bard, Instant							Choose a hero. The next time they would be dealt damage this turn, prevent 3 of that damage. If you prevent damage to another hero this way, create a Copper token.	Bard Instant					
+hkmQgBRgHRJJh6jmzGW8G	Interlude	2	0					Bard, Instant							Choose a hero. The next time they would be dealt damage this turn, prevent 2 of that damage. If you prevent damage to another hero this way, create a Copper token.	Bard Instant					
+WLwb8QhpFqc69mcwQGg9n	Interlude	3	0					Bard, Instant							Choose a hero. The next time they would be dealt damage this turn, prevent 1 of that damage. If you prevent damage to another hero this way, create a Copper token.	Bard Instant					
 BzRzJh9PcztPDn7fhNLF9	Intoxicating Shot	3	0	4	3			Ranger, Action, Arrow, Attack	Riptide Specialization						"**Riptide Specialization**
 
 When this hits a hero, they create a Courage and Quicken token."	Ranger Action - Arrow Attack				No	
@@ -2852,7 +2875,7 @@ Whenever you play an Ice card during an opponents turn, create a Frostbite token
 If it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.
 
 Whenever you play an Ice card during an opponents turn, create a Frostbite token under their control."	Elemental Wizard Hero		No		No	
-GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit			2				Bard, Weapon, Fiddle, 2H							"**Once per Turn Action** - {r}{r}{r}: Target opposing hero chooses and creates a Might, Quicken, or Vigor token. You create a Copper token. **Go again**
+GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit			2				Bard, Weapon, Fiddle, 2H		Once per Turn Action, Action	Go again, Attack				"**Once per Turn Action** - {r}{r}{r}: Target opposing hero chooses and creates a Might, Quicken, or Vigor token. You create a Copper token. **Go again**
 
 **Action** - 0: **Attack**. When this hits, destroy it."	Bard Weapon - Fiddle (2H)					
 kfCPfkdm8jrFqmHMNGj8h	Jubeel, Spellbane			3				Warrior, Weapon, Sword, 2H							"**Once per Turn Action** - {r}: **Attack**
@@ -2964,19 +2987,19 @@ qGLzQjzncCQztM6QrtwPn	Life for a Life	3	1	2	2			Generic, Action, Attack	Go again
 When you play Life for a Life, if you have less {h} than an opposing hero, it gains **go again**."	Generic Action - Attack				No	
 LJ9FRbpjJLcpHMM6wk6HW	Life of the Party	1	2	4	2			Generic, Action, Attack	Go again						"You may discard or destroy a card you control named Crazy Brew rather than pay Life of the Party's {r} cost. If you do, choose all modes, otherwise choose 1 at random;
 
-- Life of the Party gains ""When this hits, gain life 2{h}.""
-- Life of the Party gains +2{p}.
-- Life of the Party gains **go again**."	Generic Action - Attack				No	
+- This gets ""When this hits, gain life 2{h}.""
+- This gets +2{p}.
+- This gets **go again**."	Generic Action - Attack				No	
 7frtgrpJFT9fmwbnbfrP6	Life of the Party	2	2	3	2			Generic, Action, Attack	Go again						"You may discard or destroy a card you control named Crazy Brew rather than pay Life of the Party's {r} cost. If you do, choose all modes, otherwise choose 1 at random;
 
-- Life of the Party gains ""When this hits, gain life 2{h}.""
-- Life of the Party gains +2{p}.
-- Life of the Party gains **go again**."	Generic Action - Attack				No	
+- This gets ""When this hits, gain life 2{h}.""
+- This gets +2{p}.
+- This gets **go again**."	Generic Action - Attack				No	
 bbgPwChkMppQBfwfrfTtL	Life of the Party	3	2	2	2			Generic, Action, Attack	Go again						"You may discard or destroy a card you control named Crazy Brew rather than pay Life of the Party's {r} cost. If you do, choose all modes, otherwise choose 1 at random;
 
-- Life of the Party gains ""When this hits, gain life 2{h}.""
-- Life of the Party gains +2{p}.
-- Life of the Party gains **go again**."	Generic Action - Attack				No	
+- This gets ""When this hits, gain life 2{h}.""
+- This gets +2{p}.
+- This gets **go again**."	Generic Action - Attack				No	
 7hLgJ6QwzWmFrG8phh9qb	Light it Up	2	1	4	3			Elemental, Ranger, Action, Arrow, Attack	Lexi Specialization, Lightning Fusion						"**Lexi Specialization**
 
 **Lightning Fusion**
@@ -3003,6 +3026,8 @@ bjwkrWNdkhrMrPjMtdRmm	Lightning Press	3	0					Lightning, Instant							Target at
 b7tLTkWGQtKDhqKG9fjQq	Lightning Surge	2	0	3	2			Lightning, Action, Attack	Go again						If Lightning Surge is played from arsenal, it gains **go again**.	Lightning Action - Attack					
 6CrqfmG7dCTFgNzLbKtcc	Lightning Surge	3	0	2	2			Lightning, Action, Attack	Go again						If Lightning Surge is played from arsenal, it gains **go again**.	Lightning Action - Attack					
 qKWKLWtD8fBWHrRbKrwkT	Liquefy	1	1		2			Draconic, Attack Reaction	Rupture						"**Rupture** - If Liquefy is played at chain link 4 or higher, target attack action card gains ""When this hits a hero, put a -1{d} counter on an equipment they control. Then if it has 0{d}, destroy it."""	Draconic Attack Reaction				No	
+p7QGFtHCDtj6b8r6wLFwB	Liquid-Cooled Mayhem	1	4	6	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This costs 1 {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
+WrpTBBHz9Qgf79MwRGtCP	Liquid-Cooled Mayhem	3	4	4	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This costs 1 {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
 RBmR6mwf6mzwwg7nwtGzK	Locked and Loaded	1	0		3			Mechanologist, Action	Opt 1, Go again					Boost	"The next Mechanologist attack action card you play this turn gains +3{p}.
 
 If you have **boosted** this turn, **opt 1**.
@@ -3141,6 +3166,7 @@ kMHrRGnggnJtkzk7PhbH8	Meat and Greet	3	1	2	3			Runeblade, Action, Attack	Go agai
 
 If you have dealt arcane damage to an opposing hero this turn, Meat and Greet gains **go again**."	Runeblade Action - Attack					
 KFh8LdDmdJdmn9RJc8hhJ	Mechanical Strength	1	3	5	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This gets +X{p}, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
+7FfRqNrB8z7L6HjzTpbJd	Mechanical Strength	3	3	3	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This gets +X{p}, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
 8hKgjhRrpGHqPGg76pzBN	Meganetic Shockwave	3	2	4	3			Mechanologist, Action, Attack						Boost	The defending hero must defend Meganetic Shockwave with X equipment they control, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack				No	
 npDPz98H6BnJGDzHBmdGk	Melody, Sing-along					20	4	Bard, Hero, Young		Once per Turn Action, Action	Go again, Attack				Whenever you play a song, create Copper tokens equal to the number of other heroes in the game.	Bard Hero - Young			No	No	
 CfdKKTqndtGPNzdh6gJ8w	Melting Point	1	1		3			Ranger, Action	Go again						"Your next arrow attack this turn gains +4{p}.
@@ -3315,6 +3341,7 @@ Search your deck for an arrow card, reveal it, then shuffle your deck and put it
 **Reload**
 
 **Go again**"	Ranger Action				No	
+GkMGqFmbbrpwRCGHJknjt	Nom de Plume							Bard, Equipment, Head		Action	Go again				**Action** - Destroy this: Each hero draws a card.  **Go again**	Bard Equipment - Head				No	
 CGhtqrGGT7TL9C89GjF8R	Northern Winds	3	0		2			Ice, Action	Oldhim Specialization, Unity, Freeze						"**Oldhim Specialization**
 
 **Freeze** up to 1 equipment, item, and/or ally each hero controls.
@@ -3429,15 +3456,15 @@ btndHckBR7ffBqCwHRJfD	Over Flex	3	1		2			Ranger, Action	Reload, Go again						"Y
 **Reload**
 
 **Go again**"	Ranger Action					
-RrjhFCHBwjJHg7PQc6Prk	Over Loop	1	2	5	3			Mechanologist, Action, Attack	Boost						"When this hits, put it on the bottom of its owner's deck.
+RrjhFCHBwjJHg7PQc6Prk	Over Loop	1	2	5	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
-**Boost**"	Mechanologist Action - Attack					
-d8qtfb87mk97GKMDPgDKb	Over Loop	2	2	4	3			Mechanologist, Action, Attack	Boost						"When this hits, put it on the bottom of its owner's deck.
+When this hits, put it on the bottom of its owner's deck."	Mechanologist Action - Attack					
+d8qtfb87mk97GKMDPgDKb	Over Loop	2	2	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
-**Boost**"	Mechanologist Action - Attack					
-CMTbqWQL99gDnd8L7tthp	Over Loop	3	2	3	3			Mechanologist, Action, Attack	Boost						"When this hits, put it on the bottom of its owner's deck.
+When this hits, put it on the bottom of its owner's deck."	Mechanologist Action - Attack					
+CMTbqWQL99gDnd8L7tthp	Over Loop	3	2	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
-**Boost**"	Mechanologist Action - Attack					
+When this hits, put it on the bottom of its owner's deck."	Mechanologist Action - Attack					
 wpLckQt7zw66h87TbjcWt	Overblast	1	2	5	3			Mechanologist, Action, Attack						Boost	Overblast gains +X{p}, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack					
 MHkLpfgkgh7hNwbrTJrDF	Overblast	2	2	4	3			Mechanologist, Action, Attack						Boost	Overblast gains +X{p}, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack					
 JHRhwNCKG97trbQLfhg9j	Overblast	3	2	3	3			Mechanologist, Action, Attack						Boost	Overblast gains +X{p}, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack					
@@ -3673,13 +3700,13 @@ qLwNCBR9FCfnnPtPjkWNp	Potion of Deja Vu	3	0					Generic, Action, Item		Instant		
 LRdKLkdKnTJ8CCczKmwzw	Potion of Ironhide	3	0					Generic, Action, Item		Instant					**Instant** - Destroy Potion of Ironhide: Attack action cards you own gain +1{d} this turn.	Generic Action - Item				No	
 K6NjFFzbnPdFpFCDRLMrK	Potion of Luck	3	0					Generic, Action, Item		Instant					**Instant** - Destroy Potion of Luck: Shuffle your hand and arsenal into your deck then draw that many cards.	Generic Action - Item				No	
 HkNT7zKrjgzBDp6Mq76Nm	Potion of Seeing	3	0					Generic, Action, Item		Instant					**Instant** - Destroy Potion of Seeing: Look at target hero's hand.	Generic Action - Item				No	
-fNMMHHpLGMCjHh8KQG8nW	Potion of Strength	3	0					Generic, Action, Item		Action	Go again				**Action** - Destroy Potion of Strength: Your next attack this turn gains +2{p}. **Go again**	Generic Action - Item				No	
+fNMMHHpLGMCjHh8KQG8nW	Potion of Strength	3	0					Generic, Action, Item		Action	Go again				**Action** - Destroy this: Your next attack this turn gains +2{p}. **Go again**	Generic Action - Item				No	
 HjFKhRGTDGJDk8NGmdFjB	Pouncing Paws				1			Ninja, Equipment, Legs	Battleworn	Instant					"**Instant** - Destroy this: Create a Crouching Tiger in your banished zone. You may play it this turn.
 
 **Battleworn**"	Ninja Equipment - Legs					
-jDjbmKWW9RHJwwncKDDfK	Pouncing Qi	1	0	3	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Crouching Tiger was the last attack this combat chain, Pouncing Qi has +1{p} and **go again**.	Ninja Action - Attack					
-KGCccRcdK768czQhpzLPq	Pouncing Qi	2	0	2	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Crouching Tiger was the last attack this combat chain, Pouncing Qi has +1{p} and **go again**.	Ninja Action - Attack					
-qmQ6tmqFznzMnf9dcDRcF	Pouncing Qi	3	0	1	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Crouching Tiger was the last attack this combat chain, Pouncing Qi has +1{p} and **go again**.	Ninja Action - Attack					
+jDjbmKWW9RHJwwncKDDfK	Pouncing Qi	1	0	3	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Crouching Tiger was the last attack this combat chain, this gets +1{p} and **go again**.	Ninja Action - Attack					
+KGCccRcdK768czQhpzLPq	Pouncing Qi	2	0	2	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Crouching Tiger was the last attack this combat chain, this gets +1{p} and **go again**.	Ninja Action - Attack					
+qmQ6tmqFznzMnf9dcDRcF	Pouncing Qi	3	0	1	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Crouching Tiger was the last attack this combat chain, this gets +1{p} and **go again**.	Ninja Action - Attack					
 kHtKHFpcQzRfhtQ8WGBzF	Pound for Pound	1	3	6	2			Generic, Action, Attack	Dominate						When you play Pound for Pound, if you have less {h} than an opposing hero, it gains **dominate**.	Generic Action - Attack					
 WGdTdNctcb6FPKwfCfpHB	Pound for Pound	2	3	5	2			Generic, Action, Attack	Dominate						When you play Pound for Pound, if you have less {h} than an opposing hero, it gains **dominate**.	Generic Action - Attack					
 HGLJL8mtz7JNN9djNW68Q	Pound for Pound	3	3	4	2			Generic, Action, Attack	Dominate						When you play Pound for Pound, if you have less {h} than an opposing hero, it gains **dominate**.	Generic Action - Attack					
@@ -3889,16 +3916,18 @@ At the beginning of your action phase, destroy Pyroglyphic Protection."	Wizard A
 PRh9NpRhN76FHztmTm7nt	Pyroglyphic Protection	3	2		2			Wizard, Action, Aura							"If your hero would be dealt arcane damage, prevent 1 arcane damage that source would deal.
 
 At the beginning of your action phase, destroy Pyroglyphic Protection."	Wizard Action - Aura					
+LqTz6CRb7ThHpK8NpdKpr	Qi Unbound	1	2	3	3			Ninja, Action, Attack	Combo						**Combo** - If Crouching Tiger was the last attack this combat chain, this gets +4{p}.	Ninja Action - Attack				Yes	
 twGn8N6Pm6ctFgKnjCpL7	Qi Unleashed	1	2	3	3			Ninja, Action, Attack	Combo						**Combo** - If Crouching Tiger was the last attack this combat chain, Qi Unleashed has +4{p}.	Ninja Action - Attack					
 hrPnGKq9czRctFqJqWknC	Qi Unleashed	2	2	2	3			Ninja, Action, Attack	Combo						**Combo** - If Crouching Tiger was the last attack this combat chain, Qi Unleashed has +4{p}.	Ninja Action - Attack					
 mBhNRNw6CMrF8trKHgtCC	Qi Unleashed	3	2	1	3			Ninja, Action, Attack	Combo						**Combo** - If Crouching Tiger was the last attack this combat chain, Qi Unleashed has +4{p}.	Ninja Action - Attack					
 k8d9d7n7fJRwkRDWG7Kcn	Quelling Robe				0			Generic, Equipment, Chest	Quell 1						**Quell 1**	Generic Equipment - Chest					
 QdCcTgDwqq66NHp6qDdTz	Quelling Sleeves				0			Generic, Equipment, Arms	Quell 1						**Quell 1**	Generic Equipment - Arms					
 DMht6KBFhqWNdGBJNL7NB	Quelling Slippers				0			Generic, Equipment, Legs	Quell 1						**Quell 1**	Generic Equipment - Legs					
-cDpMQnr8LwPFGMdgffNb8	Quicken							Generic, Token, Aura				Go again			When you play an attack action card or activate a weapon attack, destroy Quicken and the attack gains **go again**.	Generic Token - Aura					
+cDpMQnr8LwPFGMdgffNb8	Quicken							Generic, Token, Aura				Go again			When you play an attack action card or activate a weapon attack, destroy this and the attack gains **go again**.	Generic Token - Aura					
 MLc97c6bqmKcPCtNg9M9q	Quicksilver Dagger			1				Warrior, Weapon, Dagger, 1H	Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 If another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**."	Warrior Weapon - Dagger (1H)					
+DmpnhzMR7WhCgkFWncRkk	Quickstep							Bard, Equipment, Legs		Action	Go again				**Action** - Destroy this: Each hero creates a Quicken token.  **Go again**	Bard Equipment - Legs				No	
 FcJ9DMBN6LLbBJGhJ9Kkt	Quiver of Abyssal Depths							Ranger, Equipment, Quiver		Instant					**Instant** - {r}{r}{r}, destroy Quiver of Abyssal Depths: Shuffle up to 3 arrows with different names from your graveyard into your deck.	Ranger Equipment - Quiver				No	
 Pc9dDNQmwKnmDbgf6jrLH	Quiver of Rustling Leaves							Ranger, Equipment, Quiver		Instant					**Instant** - {r}{r}{r}: Reveal the top card of your deck. If it's an arrow, put it face up into your arsenal and destroy Quiver of Rustling Leaves.	Ranger Equipment - Quiver				No	
 GcD9dDfgTK8tmn7H8ccTk	Radiant Flow							Light, Equipment, Legs		Instant					**Instant** - Banish this and a card from your hero's soul: Prevent the next 2 damage that would be dealt to your hero this turn.	Light Equipment - Legs					
@@ -4414,7 +4443,7 @@ When this hits a hero, banish the top card of their deck."	Assassin Action - Att
 GCBnJqcCCpBHQwzBgdNbh	Sack the Shifty	3	0	2	3			Assassin, Action, Attack	Contract					Go again	"**Contract** - You are contracted to banish opponents' cards with base **go again**. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."	Assassin Action - Attack					
-zKtm8BQzLMCwJRgqcGLNm	Salt the Wound	2	0	2	3			Ninja, Action, Attack							Salt the Wound gains +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack					
+zKtm8BQzLMCwJRgqcGLNm	Salt the Wound	2	0	2	3			Ninja, Action, Attack							This gets +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack					
 9pnrkbM9DbqCqqkbDCC8N	Salvage Shot	1	1	5	3			Ranger, Action, Arrow, Attack							When this hits, put it on the bottom of its owner's deck.	Ranger Action - Arrow Attack					
 d8mzLHtQRkT8GWFcgR78H	Salvage Shot	2	1	4	3			Ranger, Action, Arrow, Attack							When this hits, put it on the bottom of its owner's deck.	Ranger Action - Arrow Attack					
 bjffjnzNfQhdcGKKCWKCd	Salvage Shot	3	1	3	3			Ranger, Action, Arrow, Attack							When this hits, put it on the bottom of its owner's deck.	Ranger Action - Arrow Attack					
@@ -4790,7 +4819,6 @@ TNJz9fCgqmhhLz9rP9tkt	Silver							Generic, Token, Item		Action	Go again				**Ac
 gCgcRpmr76G6zmFgpprRw	Silver Palms				2			Merchant, Equipment, Arms	Blade Break						"At the start of each other hero's turn, if they have less {h} than you, they may draw a card. If they do, you create a Silver token.
 
 **Blade Break**"	Merchant Equipment - Arms				No	
-NmgpFhWdc8zCKPKMBmttP	Silversheen Needle							Generic, Equipment, Off-Hand				Go again			Your constructs with Fabric in their name gain **go again**.	Generic Equipment - Off-Hand		No	No	No	
 jc7QRqTTh6cccdTjFmBf9	Silver the Tip	1	1		2			Ranger, Action	Go again						"If you have no cards in your arsenal, look at the top 4 cards of your deck. You may put an arrow card from among them face up into your arsenal, then put the rest on the bottom of your deck in any order.
 
 **Go again**"	Ranger Action				No	
@@ -4800,6 +4828,7 @@ JbCKcTKNzdcWKMfQwbrdr	Silver the Tip	2	1		2			Ranger, Action	Go again						"If y
 HDmnNfBFfmgphJMhDCt7T	Silver the Tip	3	1		2			Ranger, Action	Go again						"If you have no cards in your arsenal, look at the top 2 cards of your deck. You may put an arrow card from among them face up into your arsenal, then put the rest on the bottom of your deck in any order.
 
 **Go again**"	Ranger Action				No	
+NmgpFhWdc8zCKPKMBmttP	Silversheen Needle							Generic, Equipment, Off-Hand				Go again			Your constructs with Fabric in their name gain **go again**.	Generic Equipment - Off-Hand		No	No	No	
 JthBWKRDhpngQP6FcKtRR	Silverwind Shuriken	3	0					Ninja, Action, Shuriken, Item	Attack Reaction					Combo	**Attack Reaction** - Destroy Silverwind Shuriken: Target attack action card with **combo** gains +1{p}.	Ninja Action - Shuriken Item				No	
 WQPHQL8cWbfCc68dHrkLK	Singe	1	1		3			Wizard, Action							Deal 1 arcane damage to target hero and up to 3 target allies they control.	Wizard Action					
 h7MzmDDJRnbDwtMjqfcm6	Singe	2	1		3			Wizard, Action							Deal 1 arcane damage to target hero and up to 2 target allies they control.	Wizard Action					
@@ -4893,6 +4922,7 @@ b9jb87Hf88HzTMTFBRtwB	Sloggism	2	3		2			Generic, Action	Go again						"The next 
 PhTkFwKHqwmWW8NjCbKHG	Sloggism	3	3		2			Generic, Action	Go again						"The next attack action card with cost 2 or greater you play this turn gains +4{p}.
 
 **Go again**"	Generic Action					
+bbLpjmWJ6cpDGhhgmCBTR	Smack of Reality	1	5	9	3			Guardian, Action, Attack	Tower						"**Tower** - If this has 13 or more {p}, it gets ""When this hits a hero, destroy all aura tokens they control."""	Guardian Action - Attack				No	
 WNp6DbGwLqPchCNDmGq66	Smash Instinct	1	3	7	3			Brute, Action, Attack	Intimidate						When you attack with Smash Instinct, **intimidate**.	Brute Action - Attack					
 GH9kGJN7nDbcD9GRbwPNH	Smash Instinct	2	3	6	3			Brute, Action, Attack	Intimidate						When you attack with Smash Instinct, **intimidate**.	Brute Action - Attack					
 BDBWNGBLdhNLcKLQ6dcdw	Smash Instinct	3	3	5	3			Brute, Action, Attack	Intimidate						When you attack with Smash Instinct, **intimidate**.	Brute Action - Attack					
@@ -5432,7 +5462,7 @@ fC686brzCdJgKGMp6M7WC	Tear Through the Portal	2	0		2			Shadow, Action	Go again		
 HzqwtHgqqtMcCLcCGnQP9	Tear Through the Portal	3	0		2			Shadow, Action	Go again						"Choose a blue action card in your banished zone. It gets **go again** until end of turn.
 
 **Go again**"	Shadow Action					
-hwnbrjRKLGTmzF8wf6QDH	Tearing Shuko				1			Ninja, Equipment, Arms	Battleworn	Instant					"**Instant** - Destroy Tearing Shuko: The next Crouching Tiger you play this turn gains +2{p}.
+hwnbrjRKLGTmzF8wf6QDH	Tearing Shuko				1			Ninja, Equipment, Arms	Battleworn	Instant					"**Instant** - Destroy this: The next Crouching Tiger you play this turn gains +2{p}.
 
 **Battleworn**"	Ninja Equipment - Arms					
 TN6DmN7GK9DtMKd9pnmwF	Tectonic Plating				2			Guardian, Equipment, Chest	Battleworn						"**Once per turn Action** - {r}: Create a Seismic Surge aura token. **Go again**
@@ -5528,6 +5558,12 @@ MfFH89gTLWnFjfJjF9WFw	Thunder Quake	3	6	8	3			Guardian, Action, Attack	Heave 3		
 TDJfbQjqKCwLRT7RczDrM	Tide Flippers				0			Ninja, Equipment, Legs	Arcane Barrier 1	Attack Reaction		Go again			"**Attack Reaction** - Destroy Tide Flippers: Target attack action card with 2 or less base {p} gains **go again**.
 
 **Arcane Barrier 1**"	Ninja Equipment - Legs					
+gftbNkkj9bNCBFRpnbdtq	Tiger Eye Reflex	2			3			Ninja Block	Ambush						"**Ambush**
+
+When this defends, create a Crouching Tiger in your banished zone. You may play it during your next turn."	Ninja Block				No	
+6tj9kHRWLHbCbF6mG6tDh	Tiger Eye Reflex	3			2			Ninja Block	Ambush						"**Ambush**
+
+When this defends, create a Crouching Tiger in your banished zone. You may play it during your next turn."	Ninja Block				No	
 gtzjLhHGpPmFgcLdpTBFH	Tiger Stripe Shuko				2			Ninja, Equipment, Arms	Blade Break						"The second attack action card with 2 or less base {p} you play each turn has +1{p} and ""Damage that would be dealt by this can't be prevented.""
 
 **Blade Break**"	Ninja Equipment - Arms				No	
@@ -5542,7 +5578,7 @@ If Timekeeper's Whim is played during an opponent's turn, put it on the bottom o
 dmQ8Fr7wDgKwfw6BLpdzH	Timekeeper's Whim	3	3		3			Wizard, Action							"Deal 3 arcane damage to target hero.
 
 If Timekeeper's Whim is played during an opponent's turn, put it on the bottom of its owner's deck."	Wizard Action					
-mjww7bNnkN6g7DtDfRcmW	Timesnap Potion	3	0					Generic, Action, Item		Action					**Action** - Destroy Timesnap Potion: Gain 2 action points.	Generic Action - Item				No	
+mjww7bNnkN6g7DtDfRcmW	Timesnap Potion	3	0					Generic, Action, Item		Action					**Action** - Destroy this: Gain 2 action points.	Generic Action - Item				No	
 CptjnpckCjtKHPhLPNKBq	Timidity Point	1	1	5	3			Ranger, Action, Arrow, Attack							When Timidity Point hits a hero, attacks they control lose and can't gain **dominate** during their next turn.	Ranger Action - Arrow Attack					
 RFmtPCHdfDHpqhLnr9hTD	Timidity Point	2	1	4	3			Ranger, Action, Arrow, Attack							When Timidity Point hits a hero, attacks they control lose and can't gain **dominate** during their next turn.	Ranger Action - Arrow Attack					
 cpWqf8tmzQgqmrPqc9hbM	Timidity Point	3	1	3	3			Ranger, Action, Arrow, Attack							When Timidity Point hits a hero, attacks they control lose and can't gain **dominate** during their next turn.	Ranger Action - Arrow Attack					
@@ -5704,6 +5740,9 @@ RrMqgK8fbbhbJMTqcKbdM	Twin Twisters	3	1	1	2			Ninja, Action, Attack	Go again				
 
 **Go again**"	Ninja Action - Attack					
 hcrwmGkbzW8zBft77cKpj	Twinning Blade	2	0		3			Warrior, Attack Reaction							You may attack an additional time with target sword this turn.	Warrior Attack Reaction				No	
+gmR7DG76HhtdgwwTqQngT	Under Loop	1	1	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+When this hits, put it on the bottom of its owner's deck."	Mechanologist Action - Attack				Yes	
 MwMJK9DPnDgKBfjFTFmCW	Unhallowed Rites	1	1	4	3			Shadow, Runeblade, Action, Attack	Blood Debt					Blood Debt	"If you have played a 'non-attack' action card this turn, you may play Unhallowed Rites from your banished zone.
 
 You may put a 'non-attack' action card with blood debt from your graveyard on the bottom of your deck.
@@ -5823,6 +5862,7 @@ RCqkLt7cqwdWMNrmFqpc8	Victoria, Archangel of Triumph			4		4		Light, Angel, Ally	
 When Victoria attacks, you may banish a card from your hero's soul. If you do, attack action cards your opponents control get -1{p} until the start of your next turn.
 
 **Ward 4**"	Light - Angel Ally				No	
+DBhPCQqjnj6qqd9DtBB7W	Vigor							Generic, Token, Aura							At the start of your turn, destroy this and gain {r}.	Generic Token - Aura					
 dQR8fwBWNN6HPz7tzBCbk	Vigor Rush	1	1	4	2			Generic, Action, Attack	Go again						If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.	Generic Action - Attack					
 8p8KrLDmJnf6rMpTjQ6R6	Vigor Rush	2	1	3	2			Generic, Action, Attack	Go again						If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.	Generic Action - Attack					
 tjqTCGp8GFF7FzTHqzBhW	Vigor Rush	3	1	2	2			Generic, Action, Attack	Go again						If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.	Generic Action - Attack					
