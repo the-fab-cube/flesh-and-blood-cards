@@ -1,4 +1,10 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+FjH7WBT6NtmQjrBHBkbTk	Fender Bender	1	1	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+This gets +X{p}, where X is the number of equipment defending it."	Mechanologist Action - Attack					
+F9gtJwgzgM76KghF8jrcq	Junkyard Dogg	3	3	4	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it **scrapped** a card, this gets +1{p}."	Mechanologist Action - Attack					
 dTKDHwdcrLNPPb6ktczmR	Absorb in Aether	1	1		4			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 tWKN9zRJdgFmpw6pmPmkR	Absorb in Aether	2	1		3			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 WkDkrkTDzRnqWBh7WHJfh	Absorb in Aether	3	1		2			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
