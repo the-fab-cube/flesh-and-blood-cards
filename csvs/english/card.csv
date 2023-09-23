@@ -417,6 +417,9 @@ NGzjQTd9tDcWJPnrR8PqH	Beseech the Demigon	2	0		2			Shadow, Action	Go again						
 kB67fM6fFzGPc79Mqrn9Q	Beseech the Demigon	3	0		2			Shadow, Action	Go again						"Choose an attack action card in your banished zone. It gets +1{p} until end of turn.
 
 **Go again**"	Shadow Action					
+BbhMcGn9tRzPq6qdt8f8W	Big Bertha	3	3	4	3			Mechanologist, Action, Attack	Boost					Boost	"**Boost**
+
+When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
 jCLhjJp9PcgJFQHQfLQrf	Billowing Mirage	1	1	3	3			Draconic, Illusionist, Action, Attack	Transform, Go again						"When you attack with Billowing Mirage, **transform** up to 1 ash you control into an Aether Ashwing.
 
 **Go again**"	Draconic Illusionist Action - Attack					
@@ -3337,6 +3340,11 @@ If Moon Wish hits, search your deck for a card named Sun Kiss, reveal it, put it
 KdMNrGqDGQ9JPMbWjrr8M	Moon Wish	3	2	3	2			Generic, Action, Attack							"You may put a card from your hand on top of your deck rather than pay Moon Wish's {r} cost.
 
 If Moon Wish hits, search your deck for a card named Sun Kiss, reveal it, put it into your hand, then shuffle your deck."	Generic Action - Attack					
+khj76ndGTj7gDDQNwzjqw	Moonshot	2	XX	3	3			Mechanologist, Action, Attack	Overpower					Boost	"Play this only if you've **boosted** this turn. As an additional cost to play this, destroy X Hyper Drivers you control.
+
+When this attacks, it gets +3{p} for each Hyper Driver destroyed this way.
+
+If this has 10 or more {p}, it gets **overpower**."	Mechanologist Action - Attack				No	
 8djTKwBRrz8W69BGtCbk9	Mordred Tide	1	0		3			Runeblade, Action	Go again						"Until end of turn, if you would create one or more Runechant tokens, instead create that many plus 1.
 
 **Go again**"	Runeblade Action				No	
@@ -4047,6 +4055,11 @@ k8d9d7n7fJRwkRDWG7Kcn	Quelling Robe				0			Generic, Equipment, Chest	Quell 1				
 QdCcTgDwqq66NHp6qDdTz	Quelling Sleeves				0			Generic, Equipment, Arms	Quell 1						**Quell 1**	Generic Equipment - Arms					
 DMht6KBFhqWNdGBJNL7NB	Quelling Slippers				0			Generic, Equipment, Legs	Quell 1						**Quell 1**	Generic Equipment - Legs					
 cDpMQnr8LwPFGMdgffNb8	Quicken							Generic, Token, Aura				Go again			When you play an attack action card or activate a weapon attack, destroy this and the attack gains **go again**.	Generic Token - Aura					
+DbWLH6QCRngwP6RHftkdK	Quickfire	1	2		2			Mechanologist, Action	Go again					Boost	"This costs {r} less to play for each Hyper Driver you control.
+
+The next attack you **boost** this turn gets +4{p}.
+
+**Go again**"	Mechanologist Action					
 MLc97c6bqmKcPCtNg9M9q	Quicksilver Dagger			1				Warrior, Weapon, Dagger, 1H	Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 If another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**."	Warrior Weapon - Dagger (1H)					
@@ -5344,6 +5357,9 @@ HMFLP9L76wCJBGGhBKChT	Spring Tidings	2	0	2	3			Ninja, Action, Attack	Benji Speci
 When Spring Tidings hits, draw a card for each other attack action card with 2 or less base {p} you control on the combat chain.
 
 **Go again**"	Ninja Action - Attack				No	
+RNMKPPRN6zPQnrcLWqzwH	Spring a Leak	1	2	5	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+When this hits a hero, remove all steam counters from an equipment, item, or weapon they control."	Mechanologist Action - Attack				No	
 g8DJ9bCBRCD6hLtGrzkQh	Springboard Somersault	2	0		2			Generic, Defense Reaction							If Springboard Somersault is played from arsenal, it gains +2{d}.	Generic Defense Reaction					
 dzMTMbL8qfHbFmCJB8GG7	Sprocket Rocket	1	0	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
  
@@ -5728,6 +5744,11 @@ JdNthFgr8LrmfPffWTmGd	Thump	3	4	4	3			Guardian, Action, Attack	Dominate						"Wh
 8L9nbmwtGjCRCDdDBqRQc	Thunder Quake	1	6	10	3			Guardian, Action, Attack	Heave 3						**Heave 3**	Guardian Action - Attack				No	
 P8CJhgBHBcQwFQrK6jzWq	Thunder Quake	2	6	9	3			Guardian, Action, Attack	Heave 3						**Heave 3**	Guardian Action - Attack				No	
 MfFH89gTLWnFjfJjF9WFw	Thunder Quake	3	6	8	3			Guardian, Action, Attack	Heave 3						**Heave 3**	Guardian Action - Attack				No	
+hhfqThRH8RttBMmDMr7H6	Tick Tock Clock	1	0					Mechanologist, Action, Item	Crank						"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this and it deals 1 damage to you unless you remove a steam counter from it.
+
+When a Mechanologist attack action card you control hits a hero, destroy this and up to 2 other items in the arena. Then deal X damage to them, where X is the number of items destroyed this way."	Mechanologist Action - Item				No	
 TDJfbQjqKCwLRT7RczDrM	Tide Flippers				0			Ninja, Equipment, Legs	Arcane Barrier 1	Attack Reaction		Go again			"**Attack Reaction** - Destroy Tide Flippers: Target attack action card with 2 or less base {p} gains **go again**.
 
 **Arcane Barrier 1**"	Ninja Equipment - Legs					
