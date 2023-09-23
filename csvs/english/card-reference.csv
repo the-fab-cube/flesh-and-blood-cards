@@ -1,7 +1,4 @@
 Card Unique ID	Card Name	Card Pitch	Referenced Card Unique ID	Referenced Card Name	Referenced Card Pitch
-tJDKNg7fm6FHNcCtjznN8	Scrap Hopper	1	cDpMQnr8LwPFGMdgffNb8	Quicken	
-njDMNcdpbzTGfhDQmFPdq	Scrap Hopper	2	cDpMQnr8LwPFGMdgffNb8	Quicken	
-LJtbJgTpWKcpwLmPRgDMr	Scrap Hopper	3	cDpMQnr8LwPFGMdgffNb8	Quicken	
 KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement	2	n9r77QwMzdWJmnfhPLN9J	Shiyana, Diamond Gemini	
 nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement		jKhMgndCGwjzKLHQMM7Cj	Eloquence	
@@ -570,6 +567,10 @@ LDCrQmNm8bFk8wcCJ6pj9	Even Bigger Than That!	3	cDpMQnr8LwPFGMdgffNb8	Quicken
 RMcmPNFfqQp6rpn6dkJ9H	Evo Rapid Fire		fwNFw9pTWMpgz8t9dCgMD	Teklo Blaster	
 CJ9PkdfKF78Khqf88zDmM	Evo Scatter Shot		fwNFw9pTWMpgz8t9dCgMD	Teklo Blaster	
 qCj8gpDLNQpKTNfhM8jbL	Evo Tekloscope		fwNFw9pTWMpgz8t9dCgMD	Teklo Blaster	
+cjJpkCtJwndP7FwzwDDQc	Fabricate	1	kWMK7khntdgCmPBhqmkJ9	Proto Base Arms	
+cjJpkCtJwndP7FwzwDDQc	Fabricate	1	cNNm9qpcDKNGdmMgr9htd	Proto Base Chest	
+cjJpkCtJwndP7FwzwDDQc	Fabricate	1	MfJzLNc8CpcPLnpqfQGtN	Proto Base Head	
+cjJpkCtJwndP7FwzwDDQc	Fabricate	1	nggPgQmcj9hBWttfDrKtn	Proto Base Legs	
 QHNfbDkffrKWgwDw7MjwQ	Fai		kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1
 RjNJbgTJn7bJrjJHBdfC8	Fai, Rising Rebellion		kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1
 p7CLrzj7kGMtt8cLfMdqT	Fiddle-dee		6gqTwGnmHjkCLDqKPWt8c	Might	
@@ -656,6 +657,12 @@ JbrwN8cw6hzWNFg9cMrFH	Hundred Winds	3	JbrwN8cw6hzWNFg9cMrFH	Hundred Winds	3
 BRbggWh7bBGWNgDPP7Rrg	Hurricane Technique	2	C7zhnMLhctLTpqN7CnrjT	Rising Knee Thrust	1
 BRbggWh7bBGWNgDPP7Rrg	Hurricane Technique	2	q7ctPDWzHDk667rcJW9TL	Rising Knee Thrust	2
 BRbggWh7bBGWNgDPP7Rrg	Hurricane Technique	2	jdLb9qCbwmwjj9N6rNrnn	Rising Knee Thrust	3
+mC76qgRmwnBBqMkgTTfJ8	Hyper Scrapper	3	kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
+mC76qgRmwnBBqMkgTTfJ8	Hyper Scrapper	3	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
+mC76qgRmwnBBqMkgTTfJ8	Hyper Scrapper	3	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
+WkJPkznH7gWGLmhtcmrrR	Hyper-X3		kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
+WkJPkznH7gWGLmhtcmrrR	Hyper-X3		zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
+WkJPkznH7gWGLmhtcmrrR	Hyper-X3		chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
 zBQGRp777Mj9QPL7zTb9d	Ice Eternal	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 zBQGRp777Mj9QPL7zTb9d	Ice Eternal	3	TmKrpP8tDg8bmpnqMPtgj	Iyslander	
 zBQGRp777Mj9QPL7zTb9d	Ice Eternal	3	8KRCDf6drqhFMKK7hJhbM	Iyslander, Stormbind	
@@ -1006,6 +1013,10 @@ dkWqMzLQfPdRHktgJrMK8	Requiem for the Damned	1	jKhMgndCGwjzKLHQMM7Cj	Eloquence
 CBc98j9J9PmqRKNdTchgW	Resounding Courage	1	fQTg89mpRjTDTRmPGkQb6	Courage	
 dGQMGKjkBHPGpLCQjgm7P	Resounding Courage	2	fQTg89mpRjTDTRmPGkQb6	Courage	
 gW8BgNnBNK8JNCH7DC8cd	Resounding Courage	3	fQTg89mpRjTDTRmPGkQb6	Courage	
+HckWC8fcRWrtzDGbzkNBJ	Rev Up	1	kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
+HckWC8fcRWrtzDGbzkNBJ	Rev Up	1	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
+HckWC8fcRWrtzDGbzkNBJ	Rev Up	1	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
+HckWC8fcRWrtzDGbzkNBJ	Rev Up	1	FwwCqJKcNDNMjJn9mTCgg	Hyper Driver	
 z9Jm6MkWcjqRHwQWkgRDj	Revel in Runeblood	1	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 7G8RpL8NqHQQH86gGbnwk	Rise Up	1	Dz6FcRBNMFdBt9fJPMB7d	Dromai	
 7G8RpL8NqHQQH86gGbnwk	Rise Up	1	PrJkWBKNgtNdzhqhWLGFw	Dromai, Ash Artist	
@@ -1056,6 +1067,9 @@ GCBnJqcCCpBHQwzBgdNbh	Sack the Shifty	3	TNJz9fCgqmhhLz9rP9tkt	Silver
 BpjDRjGcMhFQkKQLnLLkQ	Sand Sketched Plan	3	wNRqrHCn6rrKLhrDkqPwp	Rhinar	
 BpjDRjGcMhFQkKQLnLLkQ	Sand Sketched Plan	3	wr9wBtTWwRrPrdhCRHCdN	Rhinar, Reckless Rampage	
 jktJDQ97DD6rnkQjhNdD8	Scepter of Pain		zfrHQjbPkpBmdQGrWcTMB	Runechant	
+tJDKNg7fm6FHNcCtjznN8	Scrap Hopper	1	cDpMQnr8LwPFGMdgffNb8	Quicken	
+njDMNcdpbzTGfhDQmFPdq	Scrap Hopper	2	cDpMQnr8LwPFGMdgffNb8	Quicken	
+LJtbJgTpWKcpwLmPRgDMr	Scrap Hopper	3	cDpMQnr8LwPFGMdgffNb8	Quicken	
 mpTmfWDrzmTzJbjbwqGth	Sedate	1	G6kbCqnBzwjhrb88Q6K7w	Inertia	
 d9H6WHrdmRqWRcc7MWzHH	Sedate	2	G6kbCqnBzwjhrb88Q6K7w	Inertia	
 qg77MwwLDDmNPnWmtjLPh	Sedate	3	G6kbCqnBzwjhrb88Q6K7w	Inertia	

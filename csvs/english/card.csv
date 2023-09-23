@@ -2721,6 +2721,14 @@ Once per turn, when you **boost** a card, remove a steam counter from Hyper Driv
 chD7n8jHMM6brNhDGJtfG	Hyper Driver	3	1					Mechanologist, Action, Item						Boost	"Hyper Driver enters the arena with a steam counters on it. When Hyper Driver has no steam counters on it, destroy it.
 
 Once per turn, when you **boost** a card, remove a steam counter from Hyper Driver and gain {r}."	Mechanologist Action - Item					
+mC76qgRmwnBBqMkgTTfJ8	Hyper Scrapper	3	X	2	3			Mechanologist, Action, Attack	Go Again						"As an additional cost to play this, banish X items from your graveyard.
+
+When this attacks it gets +X{p}. If 3 or more Hyper Drivers were banished to play this, gain {r}{r}{r} {r}{r}{r} and this gets **go again**."	Mechanologist Action - Attack				No	
+WkJPkznH7gWGLmhtcmrrR	Hyper-X3				1			Mechanologist, Equipment, Head	Battleworn					Boost	"Whenever you banish a Hyper Driver from **boosting**, put it under this.
+
+Once per turn, when a Hyper Driver is put under this, if there are 3 or more Hyper Drivers under this, draw a card.
+
+**Battleworn**"	Mechanologist Equipment - Head				No	
 HFwjczQFRKCgTFHdbjdzW	Hypothermia	3	0		2			Ice, Action, Affliction, Aura					Go again		"Attacks you control can't gain **go again**.
 
 At the beginning of your end phase, destroy Hypothermia."	Ice Action - Affliction Aura				No	
@@ -3259,6 +3267,9 @@ If you have dealt arcane damage to an opposing hero this turn, Meat and Greet ga
 KFh8LdDmdJdmn9RJc8hhJ	Mechanical Strength	1	3	5	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This gets +X{p}, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
 pHCcrc7zRQnTFLfqcpgjd	Mechanical Strength	2	3	4	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This gets +X{p}, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
 7FfRqNrB8z7L6HjzTpbJd	Mechanical Strength	3	3	3	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This gets +X{p}, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
+DG7DRnLw6kjDcMGH6hCmg	Meganetic Lockwave	3	XXX		3			Mechanologist, Action	Go Again						"Target hero chooses X equipment they control, then you choose 1 from among them. That hero must defend your attacks this turn with that equipment if able. 
+
+**Go again**"	Mechanologist Action				No	
 mBBqLnhkqmdBbQKnq7DMF	Meganetic Protocol	3	3	5	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - The defending hero must defend this with X equipment they control with -1{d} counters if able, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
 8hKgjhRrpGHqPGg76pzBN	Meganetic Shockwave	3	2	4	3			Mechanologist, Action, Attack						Boost	The defending hero must defend Meganetic Shockwave with X equipment they control, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack				No	
 npDPz98H6BnJGDzHBmdGk	Melody, Sing-along					20	4	Bard, Hero, Young		Once per Turn Action, Action	Go again, Attack				Whenever you play a song, create Copper tokens equal to the number of other heroes in the game.	Bard Hero - Young			No	No	
@@ -4244,6 +4255,9 @@ If you've **charged** this turn, create a Courage token."	Light Warrior Attack R
 gW8BgNnBNK8JNCH7DC8cd	Resounding Courage	3	1		3			Light, Warrior, Attack Reaction						Charge	"Target Light Warrior attack gets +1{p}.
 
 If you've **charged** this turn, create a Courage token."	Light Warrior Attack Reaction					
+HckWC8fcRWrtzDGbzkNBJ	Rev Up	1	3	6	3			Mechanologist, Action, Attack	Boost						"If you control a Hyper Driver, this costs {r} less to play.
+
+**Boost**"	Mechanologist Action - Attack					
 z9Jm6MkWcjqRHwQWkgRDj	Revel in Runeblood	1	0		2			Runeblade, Action	Go again						"If you have played an attack action card and another 'non-attack action' action card this turn, create 4 Runechant tokens.
 
 At the beginning of your end phase, destroy all Runechants you control.
@@ -5070,6 +5084,7 @@ bbLpjmWJ6cpDGhhgmCBTR	Smack of Reality	1	5	9	3			Guardian, Action, Attack	Tower	
 WNp6DbGwLqPchCNDmGq66	Smash Instinct	1	3	7	3			Brute, Action, Attack	Intimidate						When you attack with Smash Instinct, **intimidate**.	Brute Action - Attack					
 GH9kGJN7nDbcD9GRbwPNH	Smash Instinct	2	3	6	3			Brute, Action, Attack	Intimidate						When you attack with Smash Instinct, **intimidate**.	Brute Action - Attack					
 BDBWNGBLdhNLcKLQ6dcdw	Smash Instinct	3	3	5	3			Brute, Action, Attack	Intimidate						When you attack with Smash Instinct, **intimidate**.	Brute Action - Attack					
+jrRgGDGgCCbTG8gkfgJjb	Smash and Grab	1	3	6	3			Mechanologist, Action, Attack						Boost	"If you've **boosted** 2 or more times this turn, this gets +2{p} and ""When this hits a hero, gain control of an item they control."""	Mechanologist Action - Attack				No	
 8qztqjgD9PcLm6kqFTngM	Smash with Big Tree	1	2	7				Brute, Action, Attack								Brute Action - Attack					
 nTrqQhGFhgg6HJGBWgjmq	Smash with Big Tree	2	2	6				Brute, Action, Attack								Brute Action - Attack					
 7hdNz98BfjDQmrckcQzLh	Smash with Big Tree	3	2	5				Brute, Action, Attack								Brute Action - Attack					
@@ -5529,6 +5544,7 @@ NKnCpDpncwNQcfJrqTLPz	Swing Fist, Think Later	2	1	3	3			Brute, Action, Attack	Go
 FtFNN8f6NTbJtkPNGMmfJ	Swing Fist, Think Later	3	1	2	3			Brute, Action, Attack	Go again						"As an additional cost to play Swing Fist, Think Later, discard a random card.
 
 **Go again**"	Brute Action - Attack					
+GTWTq8HRqQM9nCCqQcTPD	System Failure	2	1		2			Mechanologist, Action							Remove all steam counters from target equipment, item, or weapon. If 2 or more steam counters are removed this way, deal 2 damage to its controler.	Mechanologist Action				No	
 7kwDMdkW6h7bMH8ctTjPC	T-Bone	1	0	3	3			Mechanologist, Action, Attack	Boost					Boost	"If you control a card on the combat chain that was boosted, the defending hero must defend T-Bone with an equipment they control if able.
 
 **Boost**"	Mechanologist Action - Attack				No	
