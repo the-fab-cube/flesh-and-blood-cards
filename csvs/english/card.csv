@@ -282,6 +282,11 @@ w77m97tB9GPDzK6ccgkjr	Ball Lightning	2	0	2	0			Lightning, Action, Attack	Go agai
 QnKbrhtk7HFcckCBbFmkt	Ball Lightning	3	0	1	0			Lightning, Action, Attack	Go again						"Whenever a Lightning or Elemental action card would deal damage this combat chain, instead it deals that much damage plus 1.
 
 **Go again**"	Lightning Action - Attack					
+LJrMwbT9tW99BNDwBKNfr	Banksy			3				Mechanologist, Weapon, Wrench, 2H	Maxx Specialization	Once per Turn Action	Attack			Crank	"**Maxx Specialization**
+
+**Once per Turn Action** - {r}: **Attack**. Activate this ability only if you've **cranked** this turn.
+
+When this hits a hero, put a steam counter on an item you control with **crank**."	Mechanologist Weapon - Wrench (2H)					
 PtBr9hn97WqBzgMqNHzFp	Banneret of Courage	2	1	4	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, create a Courage token.	Light Warrior Action - Attack				No	
 MT7rdNFQjRncfm9DzmLdH	Banneret of Gallantry	2	1	4	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, create a Quicken token.	Light Warrior Action - Attack				No	
 Hkdtj7NWwgjL9znCjwM9M	Banneret of Protection	2	1	4	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, create a Spellbane Aegis token.	Light Warrior Action - Attack				No	
@@ -3255,6 +3260,9 @@ tpCTjhFnCPJKBbPbRnFLM	Mauvrion Skies	3	0		2			Runeblade, Action	Go again			Go ag
 
 **Go again**"	Runeblade Action				No	
 mkDw7d9PKRDtJT7bCCRjh	Maximum Velocity	1	2	10	3			Mechanologist, Action, Attack						Boost	Play Maximum Velocity only if you have **boosted** 3 or more times this turn.	Mechanologist Action - Attack				No	
+tqBKqzRbFHWtBLQ7hhDgW	Maxx 'The Hype' Nitro					40	4	Mechanologist, Hero		Once Per Turn Action		Crank		Boost	"**Once per Turn Action** - {r}{r}: Create a Hyper Driver token with 2 steam counters.  Activate this ability only if you've **boosted** this turn.
+
+Hyper Drivers you control get **crank**."	Mechanologist Hero		No		No	
 z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro					20	4	Mechanologist, Hero, Young		Once Per Turn Action		Crank		Boost	"**Once per Turn Action** - {r}{r}: Create a Hyper Driver token with 2 steam counters.  Activate this ability only if you've **boosted** this turn.
 
 Hyper Drivers you control get **crank**."	Mechanologist Hero - Young			No		
