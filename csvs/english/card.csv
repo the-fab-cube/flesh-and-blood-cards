@@ -1,10 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-FjH7WBT6NtmQjrBHBkbTk	Fender Bender	1	1	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
-
-This gets +X{p}, where X is the number of equipment defending it."	Mechanologist Action - Attack					
-F9gtJwgzgM76KghF8jrcq	Junkyard Dogg	3	3	4	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
-
-When this attacks, if it **scrapped** a card, this gets +1{p}."	Mechanologist Action - Attack					
 dTKDHwdcrLNPPb6ktczmR	Absorb in Aether	1	1		4			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 tWKN9zRJdgFmpw6pmPmkR	Absorb in Aether	2	1		3			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 WkDkrkTDzRnqWBh7WHJfh	Absorb in Aether	3	1		2			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
@@ -161,6 +155,11 @@ When this hits a hero, banish the top card of their deck."	Assassin Action - Att
 7FckgndNDJwgBMfzFRQ86	Annihilate the Armed	3	1	3	3			Assassin, Action, Attack	Contract						"**Contract** - You are contracted to banish opponents' attack action cards. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."	Assassin Action - Attack					
+7ncNDLjkpLkn9MmfKqfKM	Annihilator Engine	1	6	6	3			Mechanologist, Action, Attack	Overpower						"If you have 1 or more Evos equipped, this gets """"When this hits a hero, destroy all cards defending this,"""" 
+
+- 2 or more, this costs {r}{r}{r} less to play,
+- 3 or more, this gets **overpower**,
+- 4 or more, this gets +3{p}."	Mechanologist Action - Attack				No	
 BFWbnQjgKgRBjw88jK8KH	Anothos			4				Guardian, Weapon, Hammer, 2H		Once per turn Action	Attack				"**Once per turn Action** - {r}{r}{r}: **Attack**
 
 While there are 2 or more cards with cost 3 or greater in your pitch zone, Anothos has +2{p}."	Guardian Weapon - Hammer (2H)					
@@ -1360,6 +1359,7 @@ Ckct9HBQDcCqzRKpnLKRR	Demolition Crew	2	2	5	2			Generic, Action, Attack	Dominate
 MrNgmfGDfJmF6rcLbFcrm	Demolition Crew	3	2	4	2			Generic, Action, Attack	Dominate						"As an additional cost to play Demolition Crew, reveal a card in your hand with cost 2 or greater.
 
 **Dominate**"	Generic Action - Attack					
+MWfDtTFgd8f8zNzQgDJjt	Demolition Protocol	1	3	7	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - When this attacks a hero, remove all steam counters from up to X equipment, items, and/or weapons they control, where X is the number of Evos you have equipped.	Mechanologist Action				No	
 ppcfhRgNk9GH8QWRpMbdt	Descendent Gustwave	1	1	3	2			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, this costs {r} less to play and has +2{p}.
 
 **Go again**"	Ninja Action - Attack					
@@ -1545,6 +1545,15 @@ When Drowning Dire hits, you may put a 'non-attack' action card from your gravey
 GhDWNg68bbPjPMPcGfK7Q	Drowning Dire	3	2	3	3			Runeblade, Action, Attack	Dominate						"If you have played or created an aura this turn, Drowning Dire gains **dominate**.
 
 When Drowning Dire hits, you may put a 'non-attack' action card from your graveyard on the bottom of your deck."	Runeblade Action - Attack					
+FttqpkcRJMrzDTmzGGhBC	Dumpster Dive	1	1	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
+ 
+If an item or equipment was banished from boosting this, this gets +1{p}."	Mechanologist Action - Attack					
+NwfNrcDCKznDRKzdbcpTP	Dumpster Dive	2	1	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
+ 
+If an item or equipment was banished from boosting this, this gets +1{p}."	Mechanologist Action - Attack					
+nbJdjHJjHRjNNQhdpCrDF	Dumpster Dive	3	1	2	3			Mechanologist, Action, Attack	Boost						"**Boost**
+ 
+If an item or equipment was banished from boosting this, this gets +1{p}."	Mechanologist Action - Attack					
 RFF6Bj8MJNDJLQG9kkpq8	Dunebreaker Cenipai	1	1	5	3			Draconic, Illusionist, Action, Attack	Phantasm, Go again						"**Phantasm**
 
 When Dunebreaker Cenipai is destroyed, create an Ash token.
@@ -1846,11 +1855,21 @@ LDCrQmNm8bFk8wcCJ6pj9	Even Bigger Than That!	3	0					Generic, Instant	Opt 1					
 tfdr8MdNBHPQjKn9FJCT6	Evergreen	1	3	7	2			Earth, Action, Attack							If Evergreen is played from arsenal, put it on the bottom of its owner's deck when the combat chain closes.	Earth Action - Attack				No	
 JTc7kdrn9kHtq7LdJ8pQW	Evergreen	2	3	6	2			Earth, Action, Attack							If Evergreen is played from arsenal, put it on the bottom of its owner's deck when the combat chain closes.	Earth Action - Attack				No	
 nRDPrpfRT9gGCWf9K8nBT	Evergreen	3	3	5	2			Earth, Action, Attack							If Evergreen is played from arsenal, put it on the bottom of its owner's deck when the combat chain closes.	Earth Action - Attack				No	
+G9PPQckWnzpDTBpWnt9M8	Evo Command Center	2	3		3			Mechanologist, Action, Equipment, Evo, Head	Transform, Blade Break						"If you have a base head equipped, **transform** it into this, then equip this.
+
+**Once per Turn Instant** - Destroy a card under this: Your next weapon attack this turn gets """"When this hits, draw a card.""""
+ 
+**Blade Break**"	Mechanologist Action Equipment - Evo Head				No	
 6B8TGFRbgK6dQQLKfP8qD	Evo Energy Matrix	3	3		2			Mechanologist, Action, Equipment, Evo, Chest	Transform, Battleworn						"If you have a base chest equipped, **transform** it into this, then equip this.
 
 Your Teklo Blaster costs {r} less to activate for each opposing hero.
 
 **Battleworn**"	Mechanologist Action Equipment - Evo Chest					
+DpRWWLNTqjtBtjMjpnm7J	Evo Engine Room	2	3		3			Mechanologist, Action, Equipment, Evo, Chest	Transform, Blade Break						"If you have a base chest equipped, **transform** it into this, then equip this.
+
+**Once per Turn Instant** - Destroy a card under this: Your next weapon attack this turn costs {r} less to activate.
+
+**Blade Break**"	Mechanologist Action Equipment - Evo Chest				No	
 RMcmPNFfqQp6rpn6dkJ9H	Evo Rapid Fire	3	3		2			Mechanologist, Action, Equipment, Evo, Legs	Transform, Battleworn			Go again			"If you have a base legs equipped, **transform** it into this, then equip this.
 
 Your Teklo Blaster attacks get **go again**.
@@ -1861,11 +1880,41 @@ CJ9PkdfKF78Khqf88zDmM	Evo Scatter Shot	3	3		2			Mechanologist, Action, Equipment
 Your Teklo Blaster gets +1{p} for each opposing hero.
 
 **Battleworn**"	Mechanologist Action Equipment - Evo Arms					
+mmMwHD8tLPdGBDtnCgWkR	Evo Smoothbore	2	3		3			Mechanologist, Action, Equipment, Evo, Arms	Transform, Blade Break						"If you have a base arms equipped, **transform** it into this, then equip this.
+
+**Once per Turn Instant** - Destroy a card under this: Your next weapon attack this turn gets +1{p}.
+
+**Blade Break**"	Mechanologist Action Equipment - Evo Arms				No	
+Hrt698DhrRNhNtJ8qFN8w	Evo Steel Soul Controller	3	4		3			Mechanologist, Action, Equipment, Evo, Base, Arms	Transform, Temper						"If you have base arms equipped, **transform** it into this, then equip this.
+
+When this **transforms** from or into an Evo with a different name, you may put an attack action card with 6{p} from your graveyard into your deck fifth from the top. If that Evo is a hero, instead this triggers twice.
+
+**Temper**"	Mechanologist Action Equipment - Evo Base Arms				No	
+cqk7QPJBgLDdNCnfgMwrH	Evo Steel Soul Memory	3	4		3			Mechanologist, Action, Equipment, Evo, Base, Head	Transform, Temper						"If you have a base head equipped, **transform** it into this, then equip this.
+
+When this **transforms** from or into an Evo with a different name, your hero gets +1{i} until end of turn. If that Evo is a hero, instead this triggers twice.
+
+**Temper**"	Mechanologist Action Equipment - Evo Base Head				No	
+Mmwtq8HtKPFpp6TcrF9fM	Evo Steel Soul Processor	3	4		3			Mechanologist, Action, Equipment, Evo, Base, Chest	Transform, Temper						"If you have a base chest equipped, **transform** it into this, then equip this.
+
+When this **transforms** from or into an Evo with a different name, gain {r}{r}{r}. If that Evo is a hero, instead this triggers twice.
+
+**Temper**"	Mechanologist Action Equipment - Evo Base Chest				No	
+tP6fcfbgwkrhMPdrrgqMw	Evo Steel Soul Tower	3	4		3			Mechanologist, Action, Equipment, Evo, Base, Legs	Transform, Temper						"If you have a base legs equipped, **transform** it into this, then equip this.
+
+When this **transforms** from or into an Evo with a different name, gain 1 action point. If that Evo is a hero, instead this triggers twice.
+
+**Temper**"	Mechanologist Action Equipment - Evo Base Legs				No	
 qCj8gpDLNQpKTNfhM8jbL	Evo Tekloscope	3	3		2			Mechanologist, Action, Equipment, Evo, Head	Transform, Battleworn						"If you have a base head equipped, **transform** it into this, then equip this.
 
 Your Teklo Blaster attacks can target any opposing hero.
 
 **Battleworn**"	Mechanologist Action Equipment - Evo Head					
+Bfbgtw7tPPWCMgFh8gDmc	Evo Thruster	2	3		3			Mechanologist, Action, Equipment, Evo, Legs	Transform, Blade Break						"If you have a base legs equipped, **transform** it into this, then equip this.
+
+**Once per Turn Instant** - Destroy a card under this: You may attack an additional time with target weapon this turn.
+
+**Blade Break**"	Mechanologist Action Equipment - Evo Legs				No	
 dWbFtRKNWnmPBPpBLrFqF	Expendable Limbs	3	0		4			Shadow, Brute, Defense Reaction							"As an additional cost to play this, banish a random card from your hand.
 
 If a card with 6 or more {p} is banished this way, you may play it from your banished zone during your next action phase."	Shadow Brute Defense Reaction				No	
@@ -1898,6 +1947,12 @@ RmRmtQCGDHrktQmrn7KhF	Exude Confidence	1	0	4	2			Generic, Action, Attack		Instan
 N77hdGp96fNQnzc79hqN9	Eye of Ophidia	3						Generic, Resource, Gem	Legendary, Opt 2						"**Legendary**
 
 When you pitch Eye of Ophidia, **opt 2**."	Generic Resource - Gem				No	
+cjJpkCtJwndP7FwzwDDQc	Fabricate	1	0					Mechanologist, Instant							"Choose 2;
+
+- Equip a base equipment with Proto in its name from your inventory.
+- Evo permanents you control get +1{d} this turn.
+- Put this under an Evo permanent you control.
+- You may banish an Evo from your hand. If you do, draw a card."	Mechanologist Instant				No	
 QHNfbDkffrKWgwDw7MjwQ	Fai					20	4	Draconic, Ninja, Hero, Young		Once per Turn Instant					"You may start the game with a Phoenix Flame in your graveyard.
 
 **Once per Turn Instant** - {r}{r}{r}: Return a Phoenix Flame from your graveyard to your hand. This ability costs {r} less for each Draconic chain link you control."	Draconic Ninja Hero - Young			No		
@@ -1934,6 +1989,15 @@ RNTCqkRgmcHbcjjNph96G	Felling Swing	2	3		3			Warrior, Action	Go again						"Your
 P8TDDpgPhhWHncTNcpC7n	Felling Swing	3	3		3			Warrior, Action	Go again						"Your next axe attack this turn gains +4{p}.
 
 **Go again**"	Warrior Action					
+RQTzJCzpBPBbNHDRF8DCN	Fender Bender	2	1	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+This gets +X{p}, where X is the number of equipment defending it."	Mechanologist Action - Attack					
+gjCWLwWCRRfm6J66cNL7q	Fender Bender	3	1	2	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+This gets +X{p}, where X is the number of equipment defending it."	Mechanologist Action - Attack					
+FjH7WBT6NtmQjrBHBkbTk	Fender Bender	1	1	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+This gets +X{p}, where X is the number of equipment defending it."	Mechanologist Action - Attack					
 cDDzQzMWRRDWjQdBC6PqN	Fervent Forerunner	1	0	3	2			Generic, Action, Attack	Opt 2, Go again						"If Fervent Forerunner hits, **opt 2**.
 
 If Fervent Forerunner is played from arsenal, it gains **go again**."	Generic Action - Attack					
@@ -2418,6 +2482,9 @@ HCGkgWcrLLkmHFBRbhpdM	Heaven's Claws	3	1	3	3			Lightning, Action, Attack								
 CnGbng8qnbmcNP96gkWzT	Heavy Artillery	1	3	6	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - The defending hero can't defend this with attack action cards with cost less than X, where X is the number of Evos you have equipped.	Mechanologist Action - Attack					
 zMKfFNMHWRtL67cqWCnL8	Heavy Artillery	2	3	5	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - The defending hero can't defend this with attack action cards with cost less than X, where X is the number of Evos you have equipped.	Mechanologist Action - Attack					
 9h6KqtDtctfGjqNTBBjJF	Heavy Artillery	3	3	4	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - The defending hero can't defend this with attack action cards with cost less than X, where X is the number of Evos you have equipped.	Mechanologist Action - Attack					
+NmRw7kHM96FTDqDF69qJ9	Heist	1	2	5	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+When this hits a hero, you may put an item with cost 0 or 1 from any banished zone into the arena under your control."	Mechanologist Action - Attack				No	
 gjgpkHgC6p7HNTPpCJdCh	Helio's Mitre				0			Generic, Equipment, Head		Instant					"*(A player may add a Helio's Mitre to their card pool in an Uprising limited format.)*
 
 **Instant** - {r}{r}: Prevent the next 1 damage that would be dealt to your hero this turn by a source of your choice. Destroy Helio's Mitre at the beginning of the end phase."	Generic Equipment - Head					
@@ -2896,6 +2963,15 @@ drBDmHmGtr8qtbmgztwdH	Jump Start	1	2	5	3			Mechanologist, Action, Attack	Boost		
 T8qmHczkFQMWqBMzJWtT6	Jump Start	3	2	3	3			Mechanologist, Action, Attack	Boost						"If you control a Hyper Driver, Jump Start costs {r} less to play.
 
 **Boost**"	Mechanologist Action - Attack					
+F9gtJwgzgM76KghF8jrcq	Junkyard Dogg	1	3	6	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it **scrapped** a card, this gets +1{p}."	Mechanologist Action - Attack					
+gTdJqkNfNt9HgCwbF8PwG	Junkyard Dogg	2	3	5	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it **scrapped** a card, this gets +1{p}."	Mechanologist Action - Attack					
+wDGJfznzQCFGmwgFfnhfw	Junkyard Dogg	3	3	4	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it **scrapped** a card, this gets +1{p}."	Mechanologist Action - Attack					
 Q9B8TDhTdfDLN8ccnBThK	Kano					15	4	Wizard, Hero, Young		Instant					**Instant** - {r}{r}{r}: Look at the top card of your deck. If it's a 'non-attack' action card, you may banish it. If you do, you may play it this turn as though it were an instant.	Wizard Hero - Young			No		
 kRPqHdCckKBKfRwjbfzNT	Kano, Dracai of Aether					30	4	Wizard, Hero		Instant					**Instant** - {r}{r}{r}: Look at the top card of your deck. If it's a 'non-attack' action card, you may banish it. If you do, you may play it this turn as though it were an instant.	Wizard Hero		No		No	
 wWmP8RJRq7MWk7kBh9q7w	Kassai, Cintari Sellsword					20	4	Warrior, Hero, Young							"Your second sword attack each turn costs {r} less.
@@ -2940,6 +3016,15 @@ BFpBkbT788fWNrCgGcWHt	Lava Vein Loyalty	1	0	3	3			Draconic, Ninja, Action, Attac
 pdfbRhNQ7rBq8r8HfcBbt	Lava Vein Loyalty	2	0	2	3			Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Lava Vein Loyalty has **go again**.	Draconic Ninja Action - Attack					
 KTF8r6hgr8f89Gn9PpGn6	Lava Vein Loyalty	3	0	1	3			Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Lava Vein Loyalty has **go again**.	Draconic Ninja Action - Attack					
 trdLjTnNnn6NjM7DzrcQh	Lay Down the Law	1	3	7	3			Guardian, Action, Attack	Tower						**Tower** - If this has 13 or more {p}, non-equipment cards get -1{d} while defending this.	Guardian Action - Attack				No	
+JcNpbqjGjLkFtBNjmtDfD	Lay Waste	1	2	5	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+This can't be defended by equipment."	Mechanologist Action - Attack					
+BhNdN8jj6GHKjncPhRqzT	Lay Waste	2	2	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+This can't be defended by equipment."	Mechanologist Action - Attack					
+Qcj66Pf677BBrkJKWFpPk	Lay Waste	3	2	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+This can't be defended by equipment."	Mechanologist Action - Attack					
 Jw6CQTrR7njDNnNMCfNC7	Lay to Rest	1	1	5	3			Light, Action, Attack							"When this attacks a Shadow hero, it gets +1{p}.
 
 When this hits a hero, you may turn a card in their banished zone face-down."	Light Action - Attack				No	
@@ -3172,7 +3257,9 @@ kMHrRGnggnJtkzk7PhbH8	Meat and Greet	3	1	2	3			Runeblade, Action, Attack	Go agai
 
 If you have dealt arcane damage to an opposing hero this turn, Meat and Greet gains **go again**."	Runeblade Action - Attack					
 KFh8LdDmdJdmn9RJc8hhJ	Mechanical Strength	1	3	5	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This gets +X{p}, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
+pHCcrc7zRQnTFLfqcpgjd	Mechanical Strength	2	3	4	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This gets +X{p}, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
 7FfRqNrB8z7L6HjzTpbJd	Mechanical Strength	3	3	3	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This gets +X{p}, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
+mBBqLnhkqmdBbQKnq7DMF	Meganetic Protocol	3	3	5	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - The defending hero must defend this with X equipment they control with -1{d} counters if able, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
 8hKgjhRrpGHqPGg76pzBN	Meganetic Shockwave	3	2	4	3			Mechanologist, Action, Attack						Boost	The defending hero must defend Meganetic Shockwave with X equipment they control, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack				No	
 npDPz98H6BnJGDzHBmdGk	Melody, Sing-along					20	4	Bard, Hero, Young		Once per Turn Action, Action	Go again, Attack				Whenever you play a song, create Copper tokens equal to the number of other heroes in the game.	Bard Hero - Young			No	No	
 CfdKKTqndtGPNzdh6gJ8w	Melting Point	1	1		3			Ranger, Action	Go again						"Your next arrow attack this turn gains +4{p}.
@@ -3422,6 +3509,15 @@ JwhRzNPr9KNpMHzP8kWNG	Ornate Tessen							Generic, Equipment, Off-Hand		Instant	
 qgzjH8rNPpg6Jb6PgzggC	Out Muscle	1	3	6	2			Generic, Action, Attack	Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack				No	
 dRFbtRTF8qzzBwbqHkWtF	Out Muscle	2	3	5	2			Generic, Action, Attack	Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack				No	
 Tt9bDKwjdn6dLqhGNc9Rc	Out Muscle	3	3	4	2			Generic, Action, Attack	Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack				No	
+QCNfk6P8BPNNwfP7WCczg	Out Pace	1	1	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+This can't be defended by equipment."	Mechanologist Action - Attack					
+NcjFG8znGbnFbjcRckFP9	Out Pace	2	1	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+This can't be defended by equipment."	Mechanologist Action - Attack					
+dHJNBgd9MgWfgbnz7WFPm	Out Pace	3	1	2	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+This can't be defended by equipment."	Mechanologist Action - Attack					
 gNPcP7pPgPCh6PCPBh9R8	Out for Blood	1	1		3			Warrior, Attack Reaction	Reprise						"Target weapon attack gains +3{p}.
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, your next attack this turn gains +1{p}."	Warrior Attack Reaction					
@@ -3496,6 +3592,15 @@ JkqmHRmjDr8cm6wcdCkPj	Pack Call	2	3	6	3			Brute, Action, Attack							When you d
 ckjckdp6twK8nfwqGch7J	Pack Hunt	1	2	6	3			Brute, Action, Attack	Intimidate						When you attack with Pack Hunt, **intimidate**.	Brute Action - Attack					
 rRHncwrCNq9TmTcndW8bq	Pack Hunt	2	2	5	3			Brute, Action, Attack	Intimidate						When you attack with Pack Hunt, **intimidate**.	Brute Action - Attack					
 BntHbFDb7HmGmNq8wmLCq	Pack Hunt	3	2	4	3			Brute, Action, Attack	Intimidate						When you attack with Pack Hunt, **intimidate**.	Brute Action - Attack					
+QqMdqbNP8f7jj7DkmNMj9	Panel Beater	1	2	5	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+This gets +X{p}, where X is the number of equipment defending it."	Mechanologist Action - Attack					
+dMqghRmmRF9DfFnqrBPbP	Panel Beater	2	2	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+This gets +X{p}, where X is the number of equipment defending it."	Mechanologist Action - Attack					
+LbTNzkLcknj97tLPRqJwH	Panel Beater	3	2	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+This gets +X{p}, where X is the number of equipment defending it."	Mechanologist Action - Attack					
 Gq8RtNNrR7hz6QB9gj7CG	Parable of Humility	2	4					Light, Illusionist, Instant, Aura	Spectra						"Attack action cards controlled by an opposing hero have -1{p} while attacking and defending.
 
 **Spectra**"	Light Illusionist Instant - Aura				No	
@@ -3858,6 +3963,7 @@ Your next Ice, Lightning, or Elemental attack this turn gains +4{p}."	Lightning 
 RhmtDg8Qcz8wtFLFQLh98	Pulsewave Harpoon	1	1	4	3			Mechanologist, Action, Attack	Boost					Boost	"When this attacks a hero, they reveal X cards from their hand, where X is the number of times you've **boosted** this combat chain. Choose an action card with {d} less than or equal to X, then add it to this chain link as a defending card.
 
 **Boost**"	Mechanologist Action - Attack				No	
+Nqr9cJGNPNKtQqKKrC7Fc	Pulsewave Protocol	2	3	6	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - When this attacks a hero, they reveal X cards from their hand, where X is the number of Evos you have equipped. Choose an action card with {d} less than X, then add it to this chain link as a defending card.	Mechanologist Action - Attack				No	
 FkNKF7G8Tn79TtGrgKNpn	Pulverize	1	10	14	3			Guardian, Action, Attack	Heave 3						"**Heave 3**
 
 If Pulverize hits a hero, their first attack during their next turn has -4{p}."	Guardian Action - Attack				No	
@@ -4545,6 +4651,38 @@ Bqj7zQj6nRg69nWJpqhdG	Scramble Pulse	2	2	4	3			Mechanologist, Action, Attack	Boo
 z6fwbc9tNttQCzDHGtCFP	Scramble Pulse	3	2	3	3			Mechanologist, Action, Attack	Boost						"Equipment have -1{d} while defending this combat chain.
 
 **Boost**"	Mechanologist Action - Attack				No	
+bRdLNzkL7pJQrQJMDgNqk	Scrap Compactor	1	0	3	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it scrapped a card, you may play your next Evo this turn as though it were an instant."	Mechanologist Action - Attack					
+zrDknmgJBBdDgbnf7HqzG	Scrap Compactor	2	0	2	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it scrapped a card, you may play your next Evo this turn as though it were an instant."	Mechanologist Action - Attack					
+KQpFGWBFTN6kKBFwGCwqK	Scrap Compactor	3	0	1	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it scrapped a card, you may play your next Evo this turn as though it were an instant."	Mechanologist Action - Attack					
+BTh7CrHFccLPDQBzLccbw	Scrap Harvester	1	3	6	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it scrapped a card, put a steam counter on an item you control with crank."	Mechanologist Action - Attack					
+NM9KMB9gpbC6dQQqKm9kC	Scrap Harvester	2	3	5	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it scrapped a card, put a steam counter on an item you control with crank."	Mechanologist Action - Attack					
+RHjPhrMkPMDrNghTztTzc	Scrap Harvester	3	3	4	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it scrapped a card, put a steam counter on an item you control with crank."	Mechanologist Action - Attack					
+tJDKNg7fm6FHNcCtjznN8	Scrap Hopper	1	0	3	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it scrapped a card, create a Quicken token."	Mechanologist Action - Attack				No	
+njDMNcdpbzTGfhDQmFPdq	Scrap Hopper	2	0	2	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it scrapped a card, create a Quicken token."	Mechanologist Action - Attack				No	
+LJtbJgTpWKcpwLmPRgDMr	Scrap Hopper	3	0	1	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it scrapped a card, create a Quicken token."	Mechanologist Action - Attack				No	
+CQpHCDTdJdmJgn8hGJrgq	Scrap Trader	1	0		2			Mechanologist, Action	Scrap						"**Scrap**
+
+**Scrap**
+
+Gain {r}{r} for each card this *scrapped**."	Mechanologist Action				No	
 jqRDtJRT9rF7rwC6pdfJD	Searing Emberblade			3				Draconic, Ninja, Weapon, Sword, 2H		Once per Turn Action	Go again				"**Once per Turn Action** - {r}{r}: **Attack**
 
 If you control 2 or more Draconic chain links, Searing Emberblade has **go again**."	Draconic Ninja Weapon - Sword (2H)					
@@ -5192,6 +5330,15 @@ When Spring Tidings hits, draw a card for each other attack action card with 2 o
 
 **Go again**"	Ninja Action - Attack				No	
 g8DJ9bCBRCD6hLtGrzkQh	Springboard Somersault	2	0		2			Generic, Defense Reaction							If Springboard Somersault is played from arsenal, it gains +2{d}.	Generic Defense Reaction					
+dzMTMbL8qfHbFmCJB8GG7	Sprocket Rocket	1	0	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
+ 
+If an item or equipment was banished from boosting this, this gets +1{p}."	Mechanologist Action - Attack					
+kQRmk6tcgNqLqhd887DBB	Sprocket Rocket	2	0	2	3			Mechanologist, Action, Attack	Boost						"**Boost**
+ 
+If an item or equipment was banished from boosting this, this gets +1{p}."	Mechanologist Action - Attack					
+WbWjnqbPBLjTN8rnbHhDD	Sprocket Rocket	3	0	1	3			Mechanologist, Action, Attack	Boost						"**Boost**
+ 
+If an item or equipment was banished from boosting this, this gets +1{p}."	Mechanologist Action - Attack					
 kGnRg6Kgz9P68LnjncPGj	Stab Wound	3	0	2	3			Assassin, Ninja, Action, Attack							When this hits a hero, they lose X{h}, where X is the number of times a dagger has hit this combat chain.	Assassin / Ninja Action - Attack				No	
 BCpDT6GfzNwKW8qz7WbrN	Stalagmite, Bastion of Isenloft				2			Ice, Guardian, Equipment, Off-Hand	Temper						Whenever you defend with Stalagmite, create a Frostbite token under the attacking hero's control. **Temper**	Ice Guardian Equipment - Off-Hand				No	
 6nBW69HNQRGM7mpMzNCGB	Stamp Authority	3	3		3			Guardian, Action, Aura							"When Stamp Authority enters the arena, if you have 2 or more cards in your pitch zone with cost 3 or greater, your hero gains +1{i} until end of turn.
@@ -5210,6 +5357,7 @@ CJmNCDkwJKGMbhbnjh6Q9	Staunch Response	3	2		5			Guardian, Defense Reaction						
 GzDfCdCfWPNTfP6KkN6pJ	Steadfast	1	3					Guardian, Instant							Prevent the next 6 damage that would be dealt to your hero this turn by a source of your choice.	Guardian Instant					
 J6wkdw6GbBPtzKqHrWbhC	Steadfast	2	3					Guardian, Instant							Prevent the next 5 damage that would be dealt to your hero this turn by a source of your choice.	Guardian Instant					
 pJgqNQCKBhKhr9rTrj7Dp	Steadfast	3	3					Guardian, Instant							Prevent the next 4 damage that would be dealt to your hero this turn by a source of your choice.	Guardian Instant					
+RhgwRgbM8Q8WBdBMTtwQR	Steel Street Enforcement	3			1			Mechanologist, Block	Evo Upgrade						**Evo Upgrade** - While this is defending, it gets +X{d} where X is the number of Evos you have equipped.	Mechanologist Block				No	
 dmnK9rtgp6tmCbN9LR9qQ	Steelblade Shunt	1	1		6			Warrior, Defense Reaction							If Steelblade Shunt defends a weapon attack, deal 1 damage to the attacking hero.	Warrior Defense Reaction				No	
 JbTJprLM9CcMPHwFgL888	Steelblade Shunt	2	1		5			Warrior, Defense Reaction							If Steelblade Shunt defends a weapon attack, deal 1 damage to the attacking hero.	Warrior Defense Reaction				No	
 CqjGDbBG9WMHfdcpF8fqJ	Steelblade Shunt	3	1		4			Warrior, Defense Reaction							If Steelblade Shunt defends a weapon attack, deal 1 damage to the attacking hero.	Warrior Defense Reaction				No	
@@ -5498,6 +5646,9 @@ fNFqtdWLq6tCPnnwjLLWL	Teklo Plasma Pistol			2				Mechanologist, Weapon, Pistol, 
 DgWtHJjggBQdwKWNpMKLz	Teklo Pounder	3	2					Mechanologist, Action, Item		Once per Turn Effect					"Teklo Pounder enters the arena with 3 steam counters on it. When Teklo Pounder has no steam counters on it, destroy it.
 
 **Once per Turn Effect** - Whenever you boost an attack action card, remove a steam counter from Teklo Pounder. If you do, the attack gains +2{p}."	Mechanologist Action - Item				No	
+RHn8rJBnGbggWjkLcJjJL	Teklonetic Force Field	1			3			Mechanologist, Block						Overpower	When this defends an attack with **overpower**, this gets +2{d}.	Mechanologist Block					
+WbkFQ7Dn6C8WjHp977dzJ	Teklonetic Force Field	2			2			Mechanologist, Block						Overpower	When this defends an attack with **overpower**, this gets +2{d}.	Mechanologist Block					
+TNkkjRT7C7cpJTKbBRfDm	Teklonetic Force Field	3			1			Mechanologist, Block						Overpower	When this defends an attack with **overpower**, this gets +2{d}.	Mechanologist Block					
 6PPFnJ8tNtPKN6Km7NWpp	Teklovossen					20	4	Mechanologist, Hero, Young		Once per Turn Instant					"You may play Evos from your banished zone.
 
 **Once per Turn Instant** - {r}{r}{r}: You may play your next Evo this turn as though it were an instant. When you do, draw a card."	Mechanologist Hero - Young			No		
@@ -5955,6 +6106,11 @@ When this hits, you may discard a card with cost 0. If you do, search your deck 
 
 **Go again**"	Ninja Action - Attack				No	
 kzzwCj8LJwfMf9MTntgtt	Waning Moon							Wizard, Weapon, Staff, 2H		Once per Turn Instant					**Once per Turn Instant** - {r}{r}: Deal 2 arcane damage to target hero. If it's not your turn, instead deal 3 arcane damage to them. Activate this ability only if you've played a 'non-attack' action card this turn.	Wizard Weapon - Staff (2H)					
+h6MnCpMCpWw8jn6GL6TtD	War Machine	1	6	6	3			Mechanologist, Action, Attack	Overpower						"If you have 1 or more Evos equipped, this gets """"When this hits a hero, destroy all cards in their arsenal,"""" 
+
+- 2 or more, this costs {r}{r}{r} less to play,
+- 3 or more, this gets **overpower**,
+- 4 or more, this gets +3{p}."	Mechanologist Action - Attack				No	
 KHDc7Tmt7fNcbRg6FDtn8	Warband of Bellona				2			Light, Warrior, Equipment, Head	Temper	Action	Go again, Charge				"**Action** - {r}{r}, destroy this: The next time you attack this turn, you may **charge** your hero's soul. If a yellow card is **charged** this way, draw a card. **Go again**
 
 **Temper**"	Light Warrior Equipment - Head				No	
