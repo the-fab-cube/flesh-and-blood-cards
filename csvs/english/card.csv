@@ -225,6 +225,11 @@ G7bRDqbhCJD76fH77Mfm7	Art of War	2	1					Generic, Instant							"Choose 2;
 - Until end of turn, you may defend with attack action cards from arsenal.
 - You may banish an attack action card from your hand. If you do, draw 2 cards."	Generic Instant				No	
 G6CnbFqjfGgKqqqmnCbMh	Ash							Draconic, Illusionist, Token, Ash	Material			Phantasm			**Material** - While Ash is under an object, that object has **phantasm**.	Draconic Illusionist Token - Ash					
+Frp76KgppTJBPkQGbJ87J	Autosave Script	3	0					Mechanologist, Action, Item	Crank						"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+Your Mechanologist attack action cards get ""When this hits, put it on the bottom of its owner's deck."""	Mechanologist Action - Item					
 nwNfL8wPDtKW9jCFktCBL	Autumn's Touch	1	3	7	3			Earth, Action, Attack								Earth Action - Attack					
 pKdGGghdpnBCzrjwPmkPg	Autumn's Touch	2	3	6	3			Earth, Action, Attack								Earth Action - Attack					
 QqghkNGDQHkGMRGRt8pDr	Autumn's Touch	3	3	5	3			Earth, Action, Attack								Earth Action - Attack					
@@ -3257,6 +3262,11 @@ z8GG8N7Lkg6BQR7FnWcwp	Luminaris, Celestial Fury							Light, Illusionist, Weapon
 GkJfHHnhbDNWnfwGNTznm	Lunartide Plunderer	2	3	6	2			Shadow, Action, Attack							If Lunartide Plunderer hits a hero, banish it and a card from their soul.	Shadow Action - Attack					
 wFPpjqhRHHNdNkDbRffBF	Lunartide Plunderer	3	3	5	2			Shadow, Action, Attack							If Lunartide Plunderer hits a hero, banish it and a card from their soul.	Shadow Action - Attack					
 KTHGJMmtDhhmTdbm9zcQC	Lunging Press	3	0		2			Generic, Attack Reaction							Target attack action card gains +1{p}.	Generic Attack Reaction					
+MBGNCzRpfLJ6bqMpMzppm	MHz Script	2	0					Mechanologist, Action, Item	Crank			Go again			"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+Your Mechanologist attack action cards get **go again**."	Mechanologist Action - Item					
 DRLzM9pggPjG76K6pFPt7	Macho Grande	1	7	10	3			Guardian, Action, Attack	Dominate						**Dominate**	Guardian Action - Attack					
 rhW9zNJCfhP8RG7fHCLLH	Macho Grande	2	7	9	3			Guardian, Action, Attack	Dominate						**Dominate**	Guardian Action - Attack					
 BQQmhzNRTm7rMzD87cFqR	Macho Grande	3	7	8	3			Guardian, Action, Attack	Dominate						**Dominate**	Guardian Action - Attack					
@@ -3690,6 +3700,11 @@ If Overload hits, it gains **go again**."	Generic Action - Attack
 cgRPcm7Hfj6jMHFKmbMtj	Overload	3	0	1	2			Generic, Action, Attack	Dominate, Go again						"**Dominate**
 
 If Overload hits, it gains **go again**."	Generic Action - Attack					
+zqwKN9QMKKMpNCJF6RwWN	Overload Script	1	0					Mechanologist, Action, Item	Crank			Overpower			"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+Your Mechanologist attack action cards get **overpower**."	Mechanologist Action - Item					
 BDbLKmLQzJTjHjgJrtLWT	Overpower	1	3		3			Warrior, Attack Reaction	Reprise						"Target weapon attack gains +4{p}
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, instead it gains +6{p}."	Warrior Attack Reaction				No	
@@ -5511,6 +5526,9 @@ zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	7	10	3			Guardian, Action, Attack	Bravo Spec
 **Crush** - When this deals 4 or more damage to a hero, the only attacks they may play or activate during their next turn are attacks with base {p} greater than the damage dealt this way.
 
 **Unity** - When this defends together with a card from hand, create a Seismic Surge token under any number of heroes' control."	Guardian Action - Attack				No	
+fdQ8rf8W6d7KgDhprdm9k	Stasis Cell	3	0					Mechanologist, Action, Item	Crank	Action	Go again				"When this enters or leaves the arena, activated abilities of target equipment can't be activated until the end of its controller's next turn.
+
+**Action** - Put this on the bottom of its owner's deck: Choose an equipment. It can't defend this turn. **Go again**"	Mechanologist Action - Item				No	
 QWftpgJpG9fHpC9MdjzKP	Staunch Response	1	2		7			Guardian, Defense Reaction							As an additional cost to play Staunch Response you may pay {r}{r}{r}{r}. If you do, Staunch Response gains +3{d}.	Guardian Defense Reaction				No	
 BmFFCfgQNp9CBNJWDNzj6	Staunch Response	2	2		6			Guardian, Defense Reaction							As an additional cost to play Staunch Response you may pay {r}{r}{r}{r}. If you do, Staunch Response gains +3{d}.	Guardian Defense Reaction				No	
 CJmNCDkwJKGMbhbnjh6Q9	Staunch Response	3	2		5			Guardian, Defense Reaction							As an additional cost to play Staunch Response you may pay {r}{r}{r}{r}. If you do, Staunch Response gains +3{d}.	Guardian Defense Reaction				No	
