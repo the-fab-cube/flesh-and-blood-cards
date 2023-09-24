@@ -1082,16 +1082,16 @@ Kqmkn6mpNKLqKQdRPjMmt	Cognition Nodes	3	1					Mechanologist, Action, Item		Actio
 **Once per Turn Attack Reaction** - Remove a steam counter from Cognition Nodes: Target attack action card gains ""When this hits, put it on the bottom of its owner's deck."""	Mechanologist Action - Item				No	
 PpnFdNFq8GrzCqrmDTbcW	Cogwerx Base Arms							Mechanologist, Equipment, Base, Arms		Once per Turn Instant				Boost	"When this is equipped, put a steam counter on it.
 
-**Once per turn Instant** - {r}, remove a steam counter from this: Your next Mechanologist attack this turn gets +1{p}. Activate this ability only if you've **boosted** this turn."	Mechanologist Equipment - Base Arms					
+**Once per Turn Instant** - {r}, remove a steam counter from this: Your next Mechanologist attack this turn gets +1{p}. Activate this ability only if you've **boosted** this turn."	Mechanologist Equipment - Base Arms					
 gqwdRLGrnGc9PbBQjMnpk	Cogwerx Base Chest							Mechanologist, Equipment, Base, Chest		Once per Turn Instant				Boost	"When this is equipped, put a steam counter on it.
 
-**Once per turn Instant** - {r}, remove a steam counter from this: Gain {r}{r}. Activate this ability only if you've **boosted** this turn."	Mechanologist Equipment - Base Chest					
+**Once per Turn Instant** - {r}, remove a steam counter from this: Gain {r}{r}. Activate this ability only if you've **boosted** this turn."	Mechanologist Equipment - Base Chest					
 KGBQtW9fTBCjQpqQTpHNz	Cogwerx Base Head							Mechanologist, Equipment, Base, Head		Once per Turn Instant				Boost	"When this is equipped, put a steam counter on it.
 
-**Once per turn Instant** - {r}, remove a steam counter from this: Shuffle a Mechanologist attack action card from your banished zone into your deck. Activate this ability only if you've **boosted** this turn."	Mechanologist Equipment - Base Head					
+**Once per Turn Instant** - {r}, remove a steam counter from this: Shuffle a Mechanologist attack action card from your banished zone into your deck. Activate this ability only if you've **boosted** this turn."	Mechanologist Equipment - Base Head					
 p6cgRTrMmWfjk6hCLH9Jt	Cogwerx Base Legs							Mechanologist, Equipment, Base, Legs		Once per Turn Instant				Boost	"When this is equipped, put a steam counter on it.
 
-**Once per turn Instant** - {r}, remove a steam counter from this: Gain 1 action point. Activate this ability only if you've **boosted** this turn."	Mechanologist Equipment - Base Legs					
+**Once per Turn Instant** - {r}, remove a steam counter from this: Gain 1 action point. Activate this ability only if you've **boosted** this turn."	Mechanologist Equipment - Base Legs					
 RGTFQcwQp66wkFBWJBk6T	Cold Snap	1	1		2			Ice, Action	Go again			Freeze			"Target hero may pay {r}{r}{r}. If they don't, **freeze** a card in their arsenal or an ally they control until the start of your next turn.
 
 If Cold Snap is played from arsenal, draw a card.
@@ -3392,17 +3392,17 @@ PnhGtMCHdMDGwzLj9JGwQ	Mindstate of Tiger	3	0		3			Ninja, Action, Aura							At t
 RkrCbfz9npggPKrTHFN8z	Minerva Themis				3			Warrior, Mentor						Specialization	"While Minerva is face down in arsenal, at the start of your turn, you may turn her face up.
 
 While Minerva is face up in arsenal, 1H weapons you control have +1{p}. Whenever a weapon you control hits, put a lesson counter on Minerva. Then if there are 3 or more lesson counters on her, banish her, search your deck for a **specialization** card, put it face up into arsenal, and shuffle."	Warrior Mentor			No	No	
-JcKjfFNMNnBQDB8NWhm9C	Mini Forcefield	1	1					Mechanologist, Action, Item	Crank, Ward						"**Crank**
+JcKjfFNMNnBQDB8NWhm9C	Mini Forcefield	1	1					Mechanologist, Action, Item	Crank, Ward X						"**Crank**
 
 This enters the arena with 4 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 **Ward X**, where X is the number of steam counters on this."	Mechanologist Action - Item					
-MGkPWTqMmP89btPrFNjdh	Mini Forcefield	2	1					Mechanologist, Action, Item	Crank, Ward						"**Crank**
+MGkPWTqMmP89btPrFNjdh	Mini Forcefield	2	1					Mechanologist, Action, Item	Crank, Ward X						"**Crank**
 
 This enters the arena with 3 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 **Ward X**, where X is the number of steam counters on this."	Mechanologist Action - Item					
-NWHc8gmFBQMrHFqb67NLh	Mini Forcefield	3	1					Mechanologist, Action, Item	Crank, Ward						"**Crank**
+NWHc8gmFBQMrHFqb67NLh	Mini Forcefield	3	1					Mechanologist, Action, Item	Crank, Ward X						"**Crank**
 
 This enters the arena with 2 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
 
