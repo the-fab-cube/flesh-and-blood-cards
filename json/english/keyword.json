@@ -72,6 +72,12 @@
         "description_plain": "When a player is contracted, they are given a set of instructions to complete. If they perform those instructions, they are considered to have completed the contract."
     },
     {
+        "unique_id": "C66q6GppkfMfbdB8KkhJN",
+        "name": "Crank",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "rG7F9GkDcmwNMczRbtwhL",
         "name": "Crush",
         "description": "A Guardian mechanic that showcases the strength of the guardian. When an attack with **crush** deals 4 or more damage to a hero, an effect is applied.",
@@ -114,6 +120,12 @@
         "description_plain": "Fusion is a keyword that fuses one or more elements with an elemental card to give an additional effect."
     },
     {
+        "unique_id": "jrGkNBJRdJDK9BPp7qGbf",
+        "name": "Galvanize",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "mmf6BdTtrbCGrhdhg8K9g",
         "name": "Go again",
         "description": "**Go again** allows multiple actions to be played in a turn, when usually playing an action would use up your action point, and therefore end your turn. A card with **go again** gives the controller of that card or activated ability 1 action point when it resolves.",
@@ -146,6 +158,12 @@
     {
         "unique_id": "jTtHPbKjwLkkDhRQHpWnK",
         "name": "Mirage",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "N6njwjtbdnp8c7RCgPng8",
+        "name": "Modular",
         "description": "",
         "description_plain": ""
     },

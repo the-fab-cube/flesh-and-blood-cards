@@ -10,6 +10,13 @@ When Absorption Dome has no steam counters on it, destroy it."	Mechanologist Act
 C7jcJhrdpQTMfd7F79jK9	Achilles Accelerator				0			Mechanologist, Equipment, Legs	Arcane Barrier 1	Instant				Boost	"**Instant** - Destroy Achilles Accelerator: Gain 1 action point. Activate this ability only if you have **boosted** this turn.
 
 **Arcane Barrier 1**"	Mechanologist Equipment - Legs					
+mkTDPKqkm7cprrDzWbF9z	Adaptive Plating				1			Mechanologist, Equipment	Modular, Galvanize, Blade Break	Action					"**Modular**
+
+**Action** - 0: Equip this to another equipment zone.
+
+**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d} until end of turn.
+
+**Blade Break**"	Mechanologist Equipment				No	
 W7wh8hBkTd9ntjtFfqrdz	Adrenaline Rush	1	2	4	2			Generic, Action, Attack							When you play Adrenaline Rush, if you have less {h} than an opposing hero, it gains +3{p}.	Generic Action - Attack					
 KjgnpjTfDBhndccFCCDHn	Adrenaline Rush	2	2	3	2			Generic, Action, Attack							When you play Adrenaline Rush, if you have less {h} than an opposing hero, it gains +3{p}.	Generic Action - Attack					
 bTCfkj7Q8WQKHcnhGqHCr	Adrenaline Rush	3	2	2	2			Generic, Action, Attack							When you play Adrenaline Rush, if you have less {h} than an opposing hero, it gains +3{p}.	Generic Action - Attack					
@@ -422,6 +429,12 @@ NGzjQTd9tDcWJPnrR8PqH	Beseech the Demigon	2	0		2			Shadow, Action	Go again						
 kB67fM6fFzGPc79Mqrn9Q	Beseech the Demigon	3	0		2			Shadow, Action	Go again						"Choose an attack action card in your banished zone. It gets +1{p} until end of turn.
 
 **Go again**"	Shadow Action					
+zgRHgqkpfq7FTNgrjRnbj	Big Bertha	1	3	6	3			Mechanologist, Action, Attack	Boost					Boost	"**Boost**
+
+When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
+hpjt9GGTdQKf9t6RC6tCk	Big Bertha	2	3	5	3			Mechanologist, Action, Attack	Boost					Boost	"**Boost**
+
+When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
 BbhMcGn9tRzPq6qdt8f8W	Big Bertha	3	3	4	3			Mechanologist, Action, Attack	Boost					Boost	"**Boost**
 
 When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
@@ -682,6 +695,11 @@ ffTGRRhMJmDGQQK9WPw6t	Boneyard Marauder	2	1	5	3			Shadow, Brute, Action, Attack	
 cW9DC9PbTtg8nqwr7JcLD	Boneyard Marauder	3	1	4	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play Boneyard Marauder, banish 3 random cards from your graveyard.
 
 **Blood Debt**"	Shadow Brute Action - Attack					
+GqcFmmwLcNfhh7pztGLgt	Boom Grenade	1	0					Mechanologist, Action, Item	Crank						"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+When a Mechanologist attack action card you control hits a hero, destroy this and deal 4 damage to them."	Mechanologist Action - Item					
 jLqRGt6GqBn9NbHrzbKKm	Boulder Drop	2	3	6	3			Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.	Guardian Action - Attack				No	
 wwKjnd7RF7HJwWCLkN78L	Boulder Drop	3	3	5	3			Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.	Guardian Action - Attack				No	
 9T6MpdKGz7bnbQpJrNQjq	Boulder Trap	2	0		3			Ranger, Defense Reaction, Trap							When this defends an attack with {p} greater than its base, put a -1{d} counter on an equipment the attacking hero controls.	Ranger Defense Reaction - Trap				No	
@@ -803,6 +821,15 @@ TctkW8gCmpjnHwQ6dfdMg	Buckle	3	3		3			Guardian, Action	Go again			Dominate			"Yo
 hK7djfn8zbWwdnmhzhJBh	Buckling Blow	1	4	8	3			Guardian, Action, Attack	Crush						**Crush** - If Buckling Blow deals 4 or more damage to a hero, put a -1{d} counter on target equipment they control.	Guardian Action - Attack					
 HDPdWgLqnPCTqDDMKFfM9	Buckling Blow	2	4	7	3			Guardian, Action, Attack	Crush						**Crush** - If Buckling Blow deals 4 or more damage to a hero, put a -1{d} counter on target equipment they control.	Guardian Action - Attack					
 CgDzPBKW6pnLgwkgP9DFw	Buckling Blow	3	4	6	3			Guardian, Action, Attack	Crush						**Crush** - If Buckling Blow deals 4 or more damage to a hero, put a -1{d} counter on target equipment they control.	Guardian Action - Attack					
+6CRmnh6wbcGBJLpzwPf6M	Bull Bar	1	2	5	3			Mechanologist, Action, Attack	Boost, Overpower						"**Boost**
+
+If you control a Hyper Driver, this gets **overpower**."	Mechanologist Action - Attack				No	
+bGjz8pF88jjCfGqbh8FRq	Bull Bar	2	2	4	3			Mechanologist, Action, Attack	Boost, Overpower						"**Boost**
+
+If you control a Hyper Driver, this gets **overpower**."	Mechanologist Action - Attack				No	
+69rMfrhmMBTgKkhmqHn6W	Bull Bar	3	2	3	3			Mechanologist, Action, Attack	Boost, Overpower						"**Boost**
+
+If you control a Hyper Driver, this gets **overpower**."	Mechanologist Action - Attack				No	
 FLfrm7mBczWhFLBTKmBgJ	Bull's Eye Bracers				0			Ranger, Equipment, Arms	Arcane Barrier 1	Action	Go again				"**Action** - Destroy Bull's Eye Bracers: If you have no cards in your arsenal, you may put an arrow card from your hand face up into your arsenal. It gains +1{p} until end of turn. **Go again**
 
 **Arcane Barrier 1**"	Ranger Equipment - Arms					
@@ -1053,6 +1080,18 @@ Create a Ponder token under your control and an Inertia token under each opponen
 Kqmkn6mpNKLqKQdRPjMmt	Cognition Nodes	3	1					Mechanologist, Action, Item		Action, Once per Turn Attack Reaction	Go again				"**Action** - {r}: If there are no steam counters on Cognition Nodes, put a steam counter on it. **Go again**
 
 **Once per Turn Attack Reaction** - Remove a steam counter from Cognition Nodes: Target attack action card gains ""When this hits, put it on the bottom of its owner's deck."""	Mechanologist Action - Item				No	
+PpnFdNFq8GrzCqrmDTbcW	Cogwerx Base Arms							Mechanologist, Equipment, Base, Arms		Once per Turn Instant				Boost	"When this is equipped, put a steam counter on it.
+
+**Once per turn Instant** - {r}, remove a steam counter from this: Your next Mechanologist attack this turn gets +1{p}. Activate this ability only if you've **boosted** this turn."	Mechanologist Equipment - Base Arms					
+gqwdRLGrnGc9PbBQjMnpk	Cogwerx Base Chest							Mechanologist, Equipment, Base, Chest		Once per Turn Instant				Boost	"When this is equipped, put a steam counter on it.
+
+**Once per turn Instant** - {r}, remove a steam counter from this: Gain {r}{r}. Activate this ability only if you've **boosted** this turn."	Mechanologist Equipment - Base Chest					
+KGBQtW9fTBCjQpqQTpHNz	Cogwerx Base Head							Mechanologist, Equipment, Base, Head		Once per Turn Instant				Boost	"When this is equipped, put a steam counter on it.
+
+**Once per turn Instant** - {r}, remove a steam counter from this: Shuffle a Mechanologist attack action card from your banished zone into your deck. Activate this ability only if you've **boosted** this turn."	Mechanologist Equipment - Base Head					
+p6cgRTrMmWfjk6hCLH9Jt	Cogwerx Base Legs							Mechanologist, Equipment, Base, Legs		Once per Turn Instant				Boost	"When this is equipped, put a steam counter on it.
+
+**Once per turn Instant** - {r}, remove a steam counter from this: Gain 1 action point. Activate this ability only if you've **boosted** this turn."	Mechanologist Equipment - Base Legs					
 RGTFQcwQp66wkFBWJBk6T	Cold Snap	1	1		2			Ice, Action	Go again			Freeze			"Target hero may pay {r}{r}{r}. If they don't, **freeze** a card in their arsenal or an ally they control until the start of your next turn.
 
 If Cold Snap is played from arsenal, draw a card.
@@ -1997,13 +2036,13 @@ RNTCqkRgmcHbcjjNph96G	Felling Swing	2	3		3			Warrior, Action	Go again						"Your
 P8TDDpgPhhWHncTNcpC7n	Felling Swing	3	3		3			Warrior, Action	Go again						"Your next axe attack this turn gains +4{p}.
 
 **Go again**"	Warrior Action					
+FjH7WBT6NtmQjrBHBkbTk	Fender Bender	1	1	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+This gets +X{p}, where X is the number of equipment defending it."	Mechanologist Action - Attack					
 RQTzJCzpBPBbNHDRF8DCN	Fender Bender	2	1	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
 This gets +X{p}, where X is the number of equipment defending it."	Mechanologist Action - Attack					
 gjCWLwWCRRfm6J66cNL7q	Fender Bender	3	1	2	3			Mechanologist, Action, Attack	Boost						"**Boost**
-
-This gets +X{p}, where X is the number of equipment defending it."	Mechanologist Action - Attack					
-FjH7WBT6NtmQjrBHBkbTk	Fender Bender	1	1	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
 This gets +X{p}, where X is the number of equipment defending it."	Mechanologist Action - Attack					
 cDDzQzMWRRDWjQdBC6PqN	Fervent Forerunner	1	0	3	2			Generic, Action, Attack	Opt 2, Go again						"If Fervent Forerunner hits, **opt 2**.
@@ -2294,6 +2333,21 @@ FdBq9qFfNpMbk67f7FRFL	Galvanic Bender				1			Mechanologist, Equipment, Arms	Mate
 
 **Battleworn**"	Mechanologist Equipment - Arms					
 nC7DHjMkPCgnPbjPdCTdj	Gambler's Gloves				0			Generic, Equipment, Arms							If a hero would roll one or more 6 sided dice, instead after the roll you may destroy Gambler's Gloves. If you do, that hero rerolls all 6 sided dice rolled this way.	Generic Equipment - Arms				No	
+FFM9wDc8wcmkbhTL8fpCG	Gas Up	1	1		2			Mechanologist, Action	Go again					Boost	"The next attack you **boost** this turn gets +4{p}.
+
+You may put a Hyper Driver from your banished zone into the arena.
+
+**Go again**"	Mechanologist Action					
+QqcPfRmQ9JHzRBmHkWqJp	Gas Up	2	1		2			Mechanologist, Action	Go again					Boost	"The next attack you **boost** this turn gets +3{p}.
+
+You may put a Hyper Driver from your banished zone into the arena.
+
+**Go again**"	Mechanologist Action					
+whJmFnkNbtrd8D98KGg8d	Gas Up	3	1		2			Mechanologist, Action	Go again					Boost	"The next attack you **boost** this turn gets +2{p}.
+
+You may put a Hyper Driver from your banished zone into the arena.
+
+**Go again**"	Mechanologist Action					
 tpgGtDJmWntFC6QcdhhgW	Gavel of Natural Order			2				Adjudicator, Weapon, Hammer, 1H	Pairs	Once per Turn Action	Attack				"**Pairs** with an off-hand
 
 **Once per Turn Action** - {r}{r}: **Attack**
@@ -2428,6 +2482,21 @@ LPNDBTkkJ9gfhfnqrctfJ	Hack to Reality	2	1		2			Generic, Action	Go again						"Yo
 The next time you hit a hero this turn, destroy a non-token aura they own with cost less than or equal to the damage dealt this way.
 
 **Go again**"	Generic Action				No	
+cjBPdpPNhzkzgdRCtKGPG	Hadron Collider	1	1					Mechanologist, Action, Item	Crank					Boost	"**Crank**
+
+This enters the arena with 4 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+When you **boost** an attack, destroy this. If you do, the attack gets +X{p}, where X is the number of steam counters on this."	Mechanologist Action - Item					
+KGHgthGPrb9MNrPpNKRpP	Hadron Collider	2	1					Mechanologist, Action, Item	Crank					Boost	"**Crank**
+
+This enters the arena with 3 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+When you **boost** an attack, destroy this. If you do, the attack gets +X{p}, where X is the number of steam counters on this."	Mechanologist Action - Item					
+CPgdwbjRGNNfKrgPn6ngL	Hadron Collider	3	1					Mechanologist, Action, Item	Crank					Boost	"**Crank**
+
+This enters the arena with 2 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+When you **boost** an attack, destroy this. If you do, the attack gets +X{p}, where X is the number of steam counters on this."	Mechanologist Action - Item					
 rWqFtWTCDnrgzPJthDHkR	Hala Goldenhelm				3			Warrior, Mentor				Go again			"While Hala is face down in arsenal, at the start of your turn, you may turn her face up.
 
 While Hala is face up in arsenal, whenever a sword attack you control hits, it gains **go again** and put a lesson counter on Hala. Then if there are 2 or more lesson counters on Hala, banish her, search your deck for Glistening Steelblade, put it face up in arsenal, and shuffle."	Warrior Mentor			No	No	
@@ -2717,9 +2786,6 @@ KJT8g9znGjfbKW9BhHrNc	Hurl	3	0	1	2			Assassin, Ninja, Action, Attack	Go again			
 
 **Go again**"	Assassin / Ninja Action - Attack				No	
 BRbggWh7bBGWNgDPP7Rrg	Hurricane Technique	2	1	4	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Rising Knee Thrust was the last attack this combat chain, Hurricane Technique gains +1{p}, **go again**, and ""If Hurricane Technique hits, put it into your hand."""	Ninja Action - Attack				No	
-FwwCqJKcNDNMjJn9mTCgg	Hyper Driver							Mechanologist, Token, Item						Boost	"When this has no steam counters, destroy it.
-
-Once per turn, when you **boost** a card, remove a steam counter from this and gain {r}."	Mechanologist Token - Item					
 kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1	1					Mechanologist, Action, Item						Boost	"This enters the arena with 3 steam counters. When it has none, destroy it.
 
 Once per turn, when you **boost** a card, remove a steam counter from this and gain {r}."	Mechanologist Action - Item					
@@ -2729,6 +2795,9 @@ Once per turn, when you **boost** a card, remove a steam counter from Hyper Driv
 chD7n8jHMM6brNhDGJtfG	Hyper Driver	3	1					Mechanologist, Action, Item						Boost	"Hyper Driver enters the arena with a steam counters on it. When Hyper Driver has no steam counters on it, destroy it.
 
 Once per turn, when you **boost** a card, remove a steam counter from Hyper Driver and gain {r}."	Mechanologist Action - Item					
+FwwCqJKcNDNMjJn9mTCgg	Hyper Driver							Mechanologist, Token, Item						Boost	"When this has no steam counters, destroy it.
+
+Once per turn, when you **boost** a card, remove a steam counter from this and gain {r}."	Mechanologist Token - Item					
 mC76qgRmwnBBqMkgTTfJ8	Hyper Scrapper	3	X	2	3			Mechanologist, Action, Attack	Go Again						"As an additional cost to play this, banish X items from your graveyard.
 
 When this attacks it gets +X{p}. If 3 or more Hyper Drivers were banished to play this, gain {r}{r}{r} {r}{r}{r} and this gets **go again**."	Mechanologist Action - Attack				No	
@@ -2830,30 +2899,30 @@ Jb6MjpJPRLbM99RJC8qKR	Inertia Trap	1	0		3			Assassin, Ranger, Defense Reaction, 
 NDFjzQLjMLL7LzGQNBtGd	Infect	1	0	3	3			Assassin, Action, Attack	Stealth						"**Stealth**
 
 When this hits a hero, create a Bloodrot Pox token under their control."	Assassin Action - Attack					
-LpcdHznLWndg78zmc6RHJ	Infect	2	0	2	3			Assassin, Action, Attack	Stealth						"**Stealth**
-
-When this hits a hero, create a Bloodrot Pox token under their control."	Assassin Action - Attack					
-Q8zWBnk8WGTkgwzHG8pcp	Infect	3	0	1	3			Assassin, Action, Attack	Stealth						"**Stealth**
-
-When this hits a hero, create a Bloodrot Pox token under their control."	Assassin Action - Attack					
 8fFPCT68cgF9gbWKppDgQ	Infecting Shot	1	1	5	3			Ranger, Action, Arrow, Attack							"If Infecting Shot has an aim counter, it has +1{p}.
 
 When this hits a hero, create a Bloodrot Pox token under their control."	Ranger Action - Arrow Attack					
-Nct7799R68FjJmTPdkLwc	Infecting Shot	2	1	4	3			Ranger, Action, Arrow, Attack							"If Infecting Shot has an aim counter, it has +1{p}.
-
-When this hits a hero, create a Bloodrot Pox token under their control."	Ranger Action - Arrow Attack					
-FTnGpQhbkrRGWFLwb9TGt	Infecting Shot	3	1	3	3			Ranger, Action, Arrow, Attack							"If Infecting Shot has an aim counter, it has +1{p}.
-
-When this hits a hero, create a Bloodrot Pox token under their control."	Ranger Action - Arrow Attack					
 dpwPgBFGQpTFjPWNTDdDt	Infectious Host	1	0	4	2			Generic, Action, Attack							When this attacks a hero, if you control a Frailty token, create a Frailty token under their control, then repeat for Inertia and Bloodrot Pox.	Generic Action - Attack				No	
-9hQDRdBpQpb8B8kJ9Lq8J	Infectious Host	2	0	3	2			Generic, Action, Attack							When this attacks a hero, if you control a Frailty token, create a Frailty token under their control, then repeat for Inertia and Bloodrot Pox.	Generic Action - Attack				No	
-LpmdRdBC8QLhFPbPwPg6h	Infectious Host	3	0	2	2			Generic, Action, Attack							When this attacks a hero, if you control a Frailty token, create a Frailty token under their control, then repeat for Inertia and Bloodrot Pox.	Generic Action - Attack				No	
 86gQBcFRPDjmJwnLd8dpL	Infiltrate	1	0	3	3			Assassin, Action, Attack	Stealth						"**Stealth**
 
 When this hits a hero, banish the top card of their deck. You may play it until the end of your next turn."	Assassin Action - Attack				No	
 pq96Kr6wpqctKgCCQRL9z	Inflame	1	0	1	2			Draconic, Action, Attack	Go again						"When you attack with Inflame, if you've played another red card this turn, you may return a Phoenix Flame from your graveyard to your hand.
 
 **Go again**"	Draconic Action - Attack					
+LpcdHznLWndg78zmc6RHJ	Infect	2	0	2	3			Assassin, Action, Attack	Stealth						"**Stealth**
+
+When this hits a hero, create a Bloodrot Pox token under their control."	Assassin Action - Attack					
+Nct7799R68FjJmTPdkLwc	Infecting Shot	2	1	4	3			Ranger, Action, Arrow, Attack							"If Infecting Shot has an aim counter, it has +1{p}.
+
+When this hits a hero, create a Bloodrot Pox token under their control."	Ranger Action - Arrow Attack					
+9hQDRdBpQpb8B8kJ9Lq8J	Infectious Host	2	0	3	2			Generic, Action, Attack							When this attacks a hero, if you control a Frailty token, create a Frailty token under their control, then repeat for Inertia and Bloodrot Pox.	Generic Action - Attack				No	
+Q8zWBnk8WGTkgwzHG8pcp	Infect	3	0	1	3			Assassin, Action, Attack	Stealth						"**Stealth**
+
+When this hits a hero, create a Bloodrot Pox token under their control."	Assassin Action - Attack					
+FTnGpQhbkrRGWFLwb9TGt	Infecting Shot	3	1	3	3			Ranger, Action, Arrow, Attack							"If Infecting Shot has an aim counter, it has +1{p}.
+
+When this hits a hero, create a Bloodrot Pox token under their control."	Ranger Action - Arrow Attack					
+LpmdRdBC8QLhFPbPwPg6h	Infectious Host	3	0	2	2			Generic, Action, Attack							When this attacks a hero, if you control a Frailty token, create a Frailty token under their control, then repeat for Inertia and Bloodrot Pox.	Generic Action - Attack				No	
 gfrwTGTGJhqjTPKbcd96P	Insidious Chill	3	3		2			Ice, Action, Aura							"Insidious Chill enters the arena with 3 frost counters on it. When it has no frost counters on it, destroy it.
 
 Whenever you **Ice Fuse**, remove a frost counter from Insidious Chill. If you do, target hero discards a card unless they pay {r}{r}."	Ice Action - Aura				No	
@@ -3323,6 +3392,21 @@ PnhGtMCHdMDGwzLj9JGwQ	Mindstate of Tiger	3	0		3			Ninja, Action, Aura							At t
 RkrCbfz9npggPKrTHFN8z	Minerva Themis				3			Warrior, Mentor						Specialization	"While Minerva is face down in arsenal, at the start of your turn, you may turn her face up.
 
 While Minerva is face up in arsenal, 1H weapons you control have +1{p}. Whenever a weapon you control hits, put a lesson counter on Minerva. Then if there are 3 or more lesson counters on her, banish her, search your deck for a **specialization** card, put it face up into arsenal, and shuffle."	Warrior Mentor			No	No	
+JcKjfFNMNnBQDB8NWhm9C	Mini Forcefield	1	1					Mechanologist, Action, Item	Crank, Ward						"**Crank**
+
+This enters the arena with 4 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+**Ward X**, where X is the number of steam counters on this."	Mechanologist Action - Item					
+MGkPWTqMmP89btPrFNjdh	Mini Forcefield	2	1					Mechanologist, Action, Item	Crank, Ward						"**Crank**
+
+This enters the arena with 3 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+**Ward X**, where X is the number of steam counters on this."	Mechanologist Action - Item					
+NWHc8gmFBQMrHFqb67NLh	Mini Forcefield	3	1					Mechanologist, Action, Item	Crank, Ward						"**Crank**
+
+This enters the arena with 2 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+**Ward X**, where X is the number of steam counters on this."	Mechanologist Action - Item					
 hFFjjMfRw6J8KhBC7Tdzj	Minnowism	1	0		2			Generic, Action	Go again						"The next attack action card with 3 or less base {p} you play this turn gains +3{p}.
 
 **Go again**"	Generic Action					
@@ -4068,6 +4152,16 @@ DbWLH6QCRngwP6RHftkdK	Quickfire	1	2		2			Mechanologist, Action	Go again					Boos
 The next attack you **boost** this turn gets +4{p}.
 
 **Go again**"	Mechanologist Action					
+qbdmChqm6wjCBfCFf6FMg	Quickfire	2	2		2			Mechanologist, Action	Go again					Boost	"This costs {r} less to play for each Hyper Driver you control.
+
+The next attack you **boost** this turn gets +3{p}.
+
+**Go again**"	Mechanologist Action					
+BGtcnnDGHpFQJt8HpJLkh	Quickfire	3	2		2			Mechanologist, Action	Go again					Boost	"This costs {r} less to play for each Hyper Driver you control.
+
+The next attack you **boost** this turn gets +2{p}.
+
+**Go again**"	Mechanologist Action					
 MLc97c6bqmKcPCtNg9M9q	Quicksilver Dagger			1				Warrior, Weapon, Dagger, 1H	Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 If another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**."	Warrior Weapon - Dagger (1H)					
@@ -4151,6 +4245,21 @@ N6gfwdhMGJKfG6mzt7RTL	Razor Reflex	3	1		2			Generic, Attack Reaction				Go again
 rpWjb6pnqgzTH7Cgcf98w	Razor's Edge	1	0		3			Assassin, Attack Reaction						Stealth	Target attack action card with **stealth** gains +3{p}.	Assassin Attack Reaction					
 mTdJmRRRjjqGBGbPHLcRq	Razor's Edge	2	0		3			Assassin, Attack Reaction						Stealth	Target attack action card with **stealth** gains +2{p}.	Assassin Attack Reaction					
 DzdfLNnTQbw7t99Bz8KqB	Razor's Edge	3	0		3			Assassin, Attack Reaction						Stealth	Target attack action card with **stealth** gains +1{p}.	Assassin Attack Reaction					
+cmCpRmRbNLkdGzbfrJ6Gj	Re-Charge!	1	1		2			Mechanologist, Action	Go again					Boost	"Put a steam counter on a Hyper Driver you control.
+
+The next attack you **boost** this turn gets +4{p}.
+
+**Go again**"	Mechanologist Action					
+nWGwFLz6GwBmkCL7mkCqr	Re-Charge!	2	1		2			Mechanologist, Action	Go again					Boost	"Put a steam counter on a Hyper Driver you control.
+
+The next attack you **boost** this turn gets +3{p}.
+
+**Go again**"	Mechanologist Action					
+CmJqfQdnpC6Htbq7LTrWN	Re-Charge!	3	1		2			Mechanologist, Action	Go again					Boost	"Put a steam counter on a Hyper Driver you control.
+
+The next attack you **boost** this turn gets +2{p}.
+
+**Go again**"	Mechanologist Action					
 z9CNDD6c68JqKb8QQ8Wjb	Read the Glide Path	1	0		2			Ranger, Action	Opt 1, Go again						"Your next arrow attack this turn gains +3{p}.
 
 **Opt 1**
@@ -4277,6 +4386,12 @@ gW8BgNnBNK8JNCH7DC8cd	Resounding Courage	3	1		3			Light, Warrior, Attack Reactio
 
 If you've **charged** this turn, create a Courage token."	Light Warrior Attack Reaction					
 HckWC8fcRWrtzDGbzkNBJ	Rev Up	1	3	6	3			Mechanologist, Action, Attack	Boost						"If you control a Hyper Driver, this costs {r} less to play.
+
+**Boost**"	Mechanologist Action - Attack					
+mzgjKKhK8DFNCTtfTNrGk	Rev Up	2	3	5	3			Mechanologist, Action, Attack	Boost						"If you control a Hyper Driver, this costs {r} less to play.
+
+**Boost**"	Mechanologist Action - Attack					
+f7f6TfTFjkgtcbQJ9rhDC	Rev Up	3	3	4	3			Mechanologist, Action, Attack	Boost						"If you control a Hyper Driver, this costs {r} less to play.
 
 **Boost**"	Mechanologist Action - Attack					
 z9Jm6MkWcjqRHwQWkgRDj	Revel in Runeblood	1	0		2			Runeblade, Action	Go again						"If you have played an attack action card and another 'non-attack action' action card this turn, create 4 Runechant tokens.
@@ -5366,6 +5481,12 @@ When Spring Tidings hits, draw a card for each other attack action card with 2 o
 
 **Go again**"	Ninja Action - Attack				No	
 RNMKPPRN6zPQnrcLWqzwH	Spring a Leak	1	2	5	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+When this hits a hero, remove all steam counters from an equipment, item, or weapon they control."	Mechanologist Action - Attack				No	
+KjQzCrccMrqpFdRPQwthr	Spring a Leak	2	2	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+When this hits a hero, remove all steam counters from an equipment, item, or weapon they control."	Mechanologist Action - Attack				No	
+TPpFGMrKfcLPPKgBrKq7T	Spring a Leak	3	2	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
 When this hits a hero, remove all steam counters from an equipment, item, or weapon they control."	Mechanologist Action - Attack				No	
 g8DJ9bCBRCD6hLtGrzkQh	Springboard Somersault	2	0		2			Generic, Defense Reaction							If Springboard Somersault is played from arsenal, it gains +2{d}.	Generic Defense Reaction					
