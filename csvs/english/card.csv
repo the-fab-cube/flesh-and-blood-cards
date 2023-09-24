@@ -1,130 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-dHGPHrcmzW8TJT6m8mrPp	Expedite	1	0	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
-
-When this hits, you may put an item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Attack					
-LjzDff6gRW8cmMRCn6MpN	Expedite	2	0	2	3			Mechanologist, Action, Attack	Boost						"**Boost**
-
-When this hits, you may put an item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Attack					
-9wKjTzmD9hzNBRc6PjLwf	Expedite	3	0	1	3			Mechanologist, Action, Attack	Boost						"**Boost**
-
-When this hits, you may put an item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Attack					
-FPCtrDJKLwTRHh7C6ckd6	MetEx	1	1	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
-
-When this hits, you may put an item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Attack					
-qtnfPdFjH8RTzn6DhHzfC	MetEx	2	1	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
-
-When this hits, you may put an item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Attack					
-krRzDjQr7CKM9wWkGgLpg	MetEx	3	1	2	3			Mechanologist, Action, Attack	Boost						"**Boost**
-
-When this hits, you may put an item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Attack					
-bh7RktHmCjjn9mKNmT6QK	System Reset	2	X		3			Mechanologist, Action							Banish X Mechanologist items you control with cost 0 or 1, then return them to the arena under their owners' control.	Mechanologist Action				No	
-MGGw9K9QMqmFBjLLTrbhq	Steel Street Hoons	3	3	3	2			Mechanologist, Action, Attack	Boost, Galvanize						"**Boost**
-
-If an item you control has been destroyed this turn, this gets +2{p}.
-
-**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d)."	Mechanologist Action - Attack				No	
-gGFjwC7rpLfpdBWDdQwgn	Infuse Alloy	1	0	4	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
-BdmMDknJzHtkq6dHDpMFk	Infuse Alloy	2	0	3	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
-fJdjjcFWMpqfCNKpJbNLr	Infuse Alloy	3	0	2	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
-PnfMD9zp7JgTwTmJTQkwz	Infuse Titanium	1	3	7	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
-qQbcdmqJw9tPqqDBnDpH9	Infuse Titanium	2	3	6	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
-JhJWJjwBffmkgq69rfrgC	Infuse Titanium	3	3	5	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
-DGJQcFJGcqDHggpkqRTt8	Soup Up	1	0	4	2			Mechanologist, Action, Attack	Go again, Galvanize						"If an item you control has been destroyed this turn, this gets **go again**.
-
-**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
-B7PppLKHtbMhBMnmLnRDp	Soup Up	2	0	3	2			Mechanologist, Action, Attack	Go again, Galvanize						"If an item you control has been destroyed this turn, this gets **go again**.
-
-**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
-kPPR9hbpbgQJMMNqLPFfB	Soup Up	3	0	2	2			Mechanologist, Action, Attack	Go again, Galvanize						"If an item you control has been destroyed this turn, this gets **go again**.
-
-**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
-fCB6H9HqcnhNkhKjtcG69	Torque Tuned	1	2	6	2			Mechanologist, Action, Attack	Overpower, Galvanize						"If an item you control has been destroyed this turn, this gets **overpower**.
-
-**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
-Rjgh7kQCWKkTdChRmWt7w	Torque Tuned	2	2	5	2			Mechanologist, Action, Attack	Overpower, Galvanize						"If an item you control has been destroyed this turn, this gets **overpower**.
-
-**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
-MkJgPht7nFRJFBKCgThrP	Torque Tuned	3	2	4	2			Mechanologist, Action, Attack	Overpower, Galvanize						"If an item you control has been destroyed this turn, this gets **overpower**.
-
-**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
-bCBGzFbQJnMCpTdwRWfK8	Boom Grenade	2	0					Mechanologist, Action, Item	Crank						"**Crank**
-
-This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
-
-When a Mechanologist attack action card you control hits a hero, destroy this and deal 3 damage to them."	Mechanologist Action - Item					
-CKmN6WtD9mjNbMHwdbKMp	Boom Grenade	3	0					Mechanologist, Action, Item	Crank						"**Crank**
-
-This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
-
-When a Mechanologist attack action card you control hits a hero, destroy this and deal 2 damage to them."	Mechanologist Action - Item					
-jfHbfHfWB7KPd8NTmqDd9	Polarity Reversal Script	1	1					Mechanologist, Action, Item	Crank						"**Crank**
-
-This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
-
-Action cards get -1{d} while defending your Mechanologist attack action cards."	Mechanologist Action - Item				No	
-qGKR8rcj7wrHQdF6kBwmk	Penetration Script	2	1					Mechanologist, Action, Item	Crank						"**Crank**
-
-This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
-
-Your Mechanologist attack action cards get +1{p}."	Mechanologist Action - Item				No	
-fBt7wHjJKcKKhftG6cGmW	Security Script	3	1					Mechanologist, Action, Item	Crank						"**Crank**
-
-This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
-
-Your Mechanologist attack action cards get +1{d}."	Mechanologist Action - Item				No	
-zkrrwbGgKqBtKwb9qhrgT	Backup Protocol: RED	1	0					Mechanologist, Action, Item	Crank						"**Crank**
-
-This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
-
-**Instant** - {r}{r}, destroy this: Return a red Mechanologist attack action card from your graveyard to your hand."	Mechanologist Action - Item					
-NhtzDBJkQ8cFtFkW7NLgf	Backup Protocol: YEL	2	0					Mechanologist, Action, Item	Crank						"**Crank**
-
-This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
-
-**Instant** - {r}{r}, destroy this: Return a yellow Mechanologist attack action card from your graveyard to your hand."	Mechanologist Action - Item					
-6QzjLDc9KbnJWrFqd8zjW	Backup Protocol: BLU	3	0					Mechanologist, Action, Item	Crank						"**Crank**
-
-This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
-
-**Instant** - {r}{r}, destroy this: Return a blue Mechanologist attack action card from your graveyard to your hand."	Mechanologist Action - Item					
-DnfHnbnMCChJD9zfLbgmJ	Fuel Injector	3	0					Mechanologist, Action, Item		Instant					**Instant** - Put this on the bottom of its owner's deck: Gain {r}	Mechanologist Action - Item				No	
-TNGCHzzLBft9q77QhkW9d	Grinding Gears	3	0					Mechanologist, Action, Item	Crank	Action					"**Crank**
-
-This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
-
-**Action** - 0: Target hero destroys the top card of their deck."	Mechanologist Action - Item				No	
-JnqPMkpqMBFTQhb7RBqdJ	Evo Data Mine	2	0		2			Mechanologist, Action, Equipment, Evo, Head	Transform, Blade Break	Once per Turn Instant					"If you have a base head equipped, **transform** it into this, then equip this.
-
-**Once per Turn Instant** - Destroy a card under this: Draw a card, then put a card from your hand on top of your deck.
-
-**Blade Break**"	Mechanologist Action Equipment - Evo Head					
-kD7rTHdWjpwfWR9mw8qG7	Evo Battery Pack	2	0		2			Mechanologist, Action, Equipment, Evo, Chest	Transform, Blade Break	Once per Turn Instant					"If you have a base chest equipped, **transform** it into this, then equip this.
-
-**Once per Turn Instant** - Destroy a card under this: Put a steam counter on an item you control with crank.
-
-**Blade Break**"	Mechanologist Action Equipment - Evo Chest					
-gDhRftBzcK9cMp7tRmCTB	Evo Cogspitter	2	0		2			Mechanologist, Action, Equipment, Evo, Arms	Transform, Blade Break	Once per Turn Instant					"If you have a base arms equipped, **transform** it into this, then equip this.
-
-**Once per Turn Instant** - Destroy a card under this: Put an item with cost 0 or 1 from your hand into the arena.
-
-**Blade Break**"	Mechanologist Action Equipment - Evo Arms					
-PzB6NcbhjdFqq7QBgTLgg	Evo Charging Rods	2	0		2			Mechanologist, Action, Equipment, Evo, Legs	Transform, Blade Break	Once per Turn Instant					"If you have a base legs equipped, **transform** it into this, then equip this.
-
-**Once per Turn Instant** - Destroy a card under this: Create a Quicken token.
-
-**Blade Break**"	Mechanologist Action Equipment - Evo Legs					
-hNkCtbWQNhtGkb77cFzhF	Evo Circut Breaker	1	0		0			Mechanologist, Instant, Equipment, Evo, Head	Transform					Boost	"If you have a base head equiped, **transform** it and X Hyper Drivers you control into this, then equip this. If you do, the next time you would be dealt damage this turn, prevent twice X of that damage.
-
-Whenever you **boost**, you may destroy a card under this. If you do, shuffle 2 attack action cards from your banished zone into your deck."	Mechanologist Instant Equipment - Evo Head				No	
-tGhCtnrQTn8KtcmnJdqmq	Evo Atom Breaker	1	0		0			Mechanologist, Instant, Equipment, Evo, Chest	Transform					Boost	"If you have a base chest equiped, **transform** it and X Hyper Drivers you control into this, then equip this. If you do, the next time you would be dealt damage this turn, prevent twice X of that damage.
-
-Whenever you **boost**, you may destroy a card under this. If you do, gain {r}{r}."	Mechanologist Instant Equipment - Evo Chest				No	
-qR9dqP7WCqkzp69ctCNcp	Evo Face Breaker	1	0		0			Mechanologist, Instant, Equipment, Evo, Arms	Transform					Boost	"If you have a base arms equipped, **transforms** it and X Hyper Drivers you control into this, then equip this. If you do, the next time you would be dealt damage this turn, prevent twice X of that damage.
-
-Whenever you **boost** an attack action card, you may destroy a card under this. If you do, the attack gets +2{p}."	Mechanologist Instant Equipment - Evo Arms				No	
-LHkFKd9GfdqN7cR6PgPQG	Evo Mach Breaker	1	0		0			Mechanologist, Instant, Equipment, Evo, Legs	Transform					Boost	"If you have a base legs equiped, **transform** it and X Hyper Drivers you control into this, then equip this. If you do, the next time you would be dealt damage this turn, prevent twice X of that damage.
-
-Whenever you **boost**, you may destroy a card under this. If you do, create a Quicken token."	Mechanologist Instant Equipment - Evo Legs				No	
 dTKDHwdcrLNPPb6ktczmR	Absorb in Aether	1	1		4			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 tWKN9zRJdgFmpw6pmPmkR	Absorb in Aether	2	1		3			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 WkDkrkTDzRnqWBh7WHJfh	Absorb in Aether	3	1		2			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
@@ -402,6 +276,21 @@ Defense reactions can't be played to Back Stab's chain link."	Assassin Action - 
 rdwhCnq7qjDG97zMqzDkz	Back Stab	3	0	1	3			Assassin, Action, Attack	Stealth						"**Stealth**
 
 Defense reactions can't be played to Back Stab's chain link."	Assassin Action - Attack				No	
+6QzjLDc9KbnJWrFqd8zjW	Backup Protocol: BLU	3	0					Mechanologist, Action, Item	Crank						"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+**Instant** - {r}{r}, destroy this: Return a blue Mechanologist attack action card from your graveyard to your hand."	Mechanologist Action - Item					
+zkrrwbGgKqBtKwb9qhrgT	Backup Protocol: RED	1	0					Mechanologist, Action, Item	Crank						"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+**Instant** - {r}{r}, destroy this: Return a red Mechanologist attack action card from your graveyard to your hand."	Mechanologist Action - Item					
+NhtzDBJkQ8cFtFkW7NLgf	Backup Protocol: YEL	2	0					Mechanologist, Action, Item	Crank						"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+**Instant** - {r}{r}, destroy this: Return a yellow Mechanologist attack action card from your graveyard to your hand."	Mechanologist Action - Item					
 khm9tznHm9dhKz9kWpCQt	Bad Beats	1	0		3			Brute, Action	Go again						"Roll a 6 sided die. If the number rolled is a 4, 5, or 6, the next Brute attack action card you play this turn gains +5{p}.
 
 **Go again**"	Brute Action					
@@ -831,6 +720,16 @@ GqcFmmwLcNfhh7pztGLgt	Boom Grenade	1	0					Mechanologist, Action, Item	Crank				
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 When a Mechanologist attack action card you control hits a hero, destroy this and deal 4 damage to them."	Mechanologist Action - Item					
+bCBGzFbQJnMCpTdwRWfK8	Boom Grenade	2	0					Mechanologist, Action, Item	Crank						"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+When a Mechanologist attack action card you control hits a hero, destroy this and deal 3 damage to them."	Mechanologist Action - Item					
+CKmN6WtD9mjNbMHwdbKMp	Boom Grenade	3	0					Mechanologist, Action, Item	Crank						"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+When a Mechanologist attack action card you control hits a hero, destroy this and deal 2 damage to them."	Mechanologist Action - Item					
 jLqRGt6GqBn9NbHrzbKKm	Boulder Drop	2	3	6	3			Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.	Guardian Action - Attack				No	
 wwKjnd7RF7HJwWCLkN78L	Boulder Drop	3	3	5	3			Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.	Guardian Action - Attack				No	
 9T6MpdKGz7bnbQpJrNQjq	Boulder Trap	2	0		3			Ranger, Defense Reaction, Trap							When this defends an attack with {p} greater than its base, put a -1{d} counter on an equipment the attacking hero controls.	Ranger Defense Reaction - Trap				No	
@@ -2048,11 +1947,37 @@ LDCrQmNm8bFk8wcCJ6pj9	Even Bigger Than That!	3	0					Generic, Instant	Opt 1					
 tfdr8MdNBHPQjKn9FJCT6	Evergreen	1	3	7	2			Earth, Action, Attack							If Evergreen is played from arsenal, put it on the bottom of its owner's deck when the combat chain closes.	Earth Action - Attack				No	
 JTc7kdrn9kHtq7LdJ8pQW	Evergreen	2	3	6	2			Earth, Action, Attack							If Evergreen is played from arsenal, put it on the bottom of its owner's deck when the combat chain closes.	Earth Action - Attack				No	
 nRDPrpfRT9gGCWf9K8nBT	Evergreen	3	3	5	2			Earth, Action, Attack							If Evergreen is played from arsenal, put it on the bottom of its owner's deck when the combat chain closes.	Earth Action - Attack				No	
+tGhCtnrQTn8KtcmnJdqmq	Evo Atom Breaker	1	0		0			Mechanologist, Instant, Equipment, Evo, Chest	Transform					Boost	"If you have a base chest equiped, **transform** it and X Hyper Drivers you control into this, then equip this. If you do, the next time you would be dealt damage this turn, prevent twice X of that damage.
+
+Whenever you **boost**, you may destroy a card under this. If you do, gain {r}{r}."	Mechanologist Instant Equipment - Evo Chest				No	
+kD7rTHdWjpwfWR9mw8qG7	Evo Battery Pack	2	0		2			Mechanologist, Action, Equipment, Evo, Chest	Transform, Blade Break	Once per Turn Instant					"If you have a base chest equipped, **transform** it into this, then equip this.
+
+**Once per Turn Instant** - Destroy a card under this: Put a steam counter on an item you control with crank.
+
+**Blade Break**"	Mechanologist Action Equipment - Evo Chest					
+PzB6NcbhjdFqq7QBgTLgg	Evo Charging Rods	2	0		2			Mechanologist, Action, Equipment, Evo, Legs	Transform, Blade Break	Once per Turn Instant					"If you have a base legs equipped, **transform** it into this, then equip this.
+
+**Once per Turn Instant** - Destroy a card under this: Create a Quicken token.
+
+**Blade Break**"	Mechanologist Action Equipment - Evo Legs					
+hNkCtbWQNhtGkb77cFzhF	Evo Circut Breaker	1	0		0			Mechanologist, Instant, Equipment, Evo, Head	Transform					Boost	"If you have a base head equiped, **transform** it and X Hyper Drivers you control into this, then equip this. If you do, the next time you would be dealt damage this turn, prevent twice X of that damage.
+
+Whenever you **boost**, you may destroy a card under this. If you do, shuffle 2 attack action cards from your banished zone into your deck."	Mechanologist Instant Equipment - Evo Head				No	
+gDhRftBzcK9cMp7tRmCTB	Evo Cogspitter	2	0		2			Mechanologist, Action, Equipment, Evo, Arms	Transform, Blade Break	Once per Turn Instant					"If you have a base arms equipped, **transform** it into this, then equip this.
+
+**Once per Turn Instant** - Destroy a card under this: Put an item with cost 0 or 1 from your hand into the arena.
+
+**Blade Break**"	Mechanologist Action Equipment - Evo Arms					
 G9PPQckWnzpDTBpWnt9M8	Evo Command Center	2	3		3			Mechanologist, Action, Equipment, Evo, Head	Transform, Blade Break	Once per Turn Instant					"If you have a base head equipped, **transform** it into this, then equip this.
 
 **Once per Turn Instant** - Destroy a card under this: Your next weapon attack this turn gets ""When this hits, draw a card.""
  
 **Blade Break**"	Mechanologist Action Equipment - Evo Head				No	
+JnqPMkpqMBFTQhb7RBqdJ	Evo Data Mine	2	0		2			Mechanologist, Action, Equipment, Evo, Head	Transform, Blade Break	Once per Turn Instant					"If you have a base head equipped, **transform** it into this, then equip this.
+
+**Once per Turn Instant** - Destroy a card under this: Draw a card, then put a card from your hand on top of your deck.
+
+**Blade Break**"	Mechanologist Action Equipment - Evo Head					
 6B8TGFRbgK6dQQLKfP8qD	Evo Energy Matrix	3	3		2			Mechanologist, Action, Equipment, Evo, Chest	Transform, Battleworn						"If you have a base chest equipped, **transform** it into this, then equip this.
 
 Your Teklo Blaster costs {r} less to activate for each opposing hero.
@@ -2063,6 +1988,12 @@ DpRWWLNTqjtBtjMjpnm7J	Evo Engine Room	2	3		3			Mechanologist, Action, Equipment,
 **Once per Turn Instant** - Destroy a card under this: Your next weapon attack this turn costs {r} less to activate.
 
 **Blade Break**"	Mechanologist Action Equipment - Evo Chest				No	
+qR9dqP7WCqkzp69ctCNcp	Evo Face Breaker	1	0		0			Mechanologist, Instant, Equipment, Evo, Arms	Transform					Boost	"If you have a base arms equipped, **transforms** it and X Hyper Drivers you control into this, then equip this. If you do, the next time you would be dealt damage this turn, prevent twice X of that damage.
+
+Whenever you **boost** an attack action card, you may destroy a card under this. If you do, the attack gets +2{p}."	Mechanologist Instant Equipment - Evo Arms				No	
+LHkFKd9GfdqN7cR6PgPQG	Evo Mach Breaker	1	0		0			Mechanologist, Instant, Equipment, Evo, Legs	Transform					Boost	"If you have a base legs equiped, **transform** it and X Hyper Drivers you control into this, then equip this. If you do, the next time you would be dealt damage this turn, prevent twice X of that damage.
+
+Whenever you **boost**, you may destroy a card under this. If you do, create a Quicken token."	Mechanologist Instant Equipment - Evo Legs				No	
 RMcmPNFfqQp6rpn6dkJ9H	Evo Rapid Fire	3	3		2			Mechanologist, Action, Equipment, Evo, Legs	Transform, Battleworn			Go again			"If you have a base legs equipped, **transform** it into this, then equip this.
 
 Your Teklo Blaster attacks get **go again**.
@@ -2108,6 +2039,15 @@ Bfbgtw7tPPWCMgFh8gDmc	Evo Thruster	2	3		3			Mechanologist, Action, Equipment, Ev
 **Once per Turn Instant** - Destroy a card under this: You may attack an additional time with target weapon this turn.
 
 **Blade Break**"	Mechanologist Action Equipment - Evo Legs				No	
+dHGPHrcmzW8TJT6m8mrPp	Expedite	1	0	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+When this hits, you may put an item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Attack					
+LjzDff6gRW8cmMRCn6MpN	Expedite	2	0	2	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+When this hits, you may put an item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Attack					
+9wKjTzmD9hzNBRc6PjLwf	Expedite	3	0	1	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+When this hits, you may put an item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Attack					
 dWbFtRKNWnmPBPpBLrFqF	Expendable Limbs	3	0		4			Shadow, Brute, Defense Reaction							"As an additional cost to play this, banish a random card from your hand.
 
 If a card with 6 or more {p} is banished this way, you may play it from your banished zone during your next action phase."	Shadow Brute Defense Reaction				No	
@@ -2445,6 +2385,7 @@ At the beginning of your end phase or when you play a card or activate an abilit
 pqPKGCqKntcTpQRjGwLpF	Frosting	1	0		3			Ice, Wizard, Action							Deal 3 arcane damage to any target.	Ice Wizard Action					
 wQwFMHb6LtTgHF6FJKnqQ	Frosting	2	0		3			Ice, Wizard, Action							Deal 2 arcane damage to any target.	Ice Wizard Action					
 mfbBCQnMpDR7PMbkgF9RP	Frosting	3	0		3			Ice, Wizard, Action							Deal 1 arcane damage to any target.	Ice Wizard Action					
+DnfHnbnMCChJD9zfLbgmJ	Fuel Injector	3	0					Mechanologist, Action, Item		Instant					**Instant** - Put this on the bottom of its owner's deck: Gain {r}	Mechanologist Action - Item				No	
 8RMfQqNQGhPfD6WrdPzHG	Fulminate	2	2		2			Elemental, Action	Earth and/or Lightning Fusion, Go again			Go again			"**Earth and/or Lightning Fusion**
 
 If Fulminate was **fused** with an Earth card, attack action cards you control gain +3{p} this turn.
@@ -2614,6 +2555,11 @@ bpcWc9DJf9pzfBczMWczJ	Grimoire of the Haunt							Shadow, Runeblade, Equipment, 
 **Arcane Barrier 1**
 
 **Blood Debt**"	Shadow Runeblade Equipment - Off-Hand				No	
+TNGCHzzLBft9q77QhkW9d	Grinding Gears	3	0					Mechanologist, Action, Item	Crank	Action					"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+**Action** - 0: Target hero destroys the top card of their deck."	Mechanologist Action - Item				No	
 gqJnkdRN8WkHKtFNtPTgN	Growl	1	0	3	2			Ninja, Action, Attack							"When this attacks, the next Crouching Tiger you play this combat chain gets +1{p}.
 
 **Go again**"	Ninja Action - Attack				No	
@@ -3042,6 +2988,8 @@ MNwTgMKtfwcbBTGTLCbzt	Induction Chamber	1	2					Mechanologist, Action, Item		Act
 **Once per Turn Attack Reaction** - Remove a steam counter from Induction Chamber: Target Mechanologist pistol attack gains **go again**."	Mechanologist Action - Item				No	
 G6kbCqnBzwjhrb88Q6K7w	Inertia							Generic, Token, Aura							At the beginning of your end phase, destroy Inertia, then put all cards from your hand and arsenal on the bottom of your deck.	Generic Token - Aura					
 Jb6MjpJPRLbM99RJC8qKR	Inertia Trap	1	0		3			Assassin, Ranger, Defense Reaction, Trap							When this defends an attack with {p} greater than its base, create an Inertia token under the attacking hero's control.	Assassin / Ranger Defense Reaction - Trap					
+gGFjwC7rpLfpdBWDdQwgn	Infuse Alloy	1	0	4	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
+PnfMD9zp7JgTwTmJTQkwz	Infuse Titanium	1	3	7	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
 NDFjzQLjMLL7LzGQNBtGd	Infect	1	0	3	3			Assassin, Action, Attack	Stealth						"**Stealth**
 
 When this hits a hero, create a Bloodrot Pox token under their control."	Assassin Action - Attack					
@@ -3055,6 +3003,8 @@ When this hits a hero, banish the top card of their deck. You may play it until 
 pq96Kr6wpqctKgCCQRL9z	Inflame	1	0	1	2			Draconic, Action, Attack	Go again						"When you attack with Inflame, if you've played another red card this turn, you may return a Phoenix Flame from your graveyard to your hand.
 
 **Go again**"	Draconic Action - Attack					
+BdmMDknJzHtkq6dHDpMFk	Infuse Alloy	2	0	3	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
+qQbcdmqJw9tPqqDBnDpH9	Infuse Titanium	2	3	6	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
 LpcdHznLWndg78zmc6RHJ	Infect	2	0	2	3			Assassin, Action, Attack	Stealth						"**Stealth**
 
 When this hits a hero, create a Bloodrot Pox token under their control."	Assassin Action - Attack					
@@ -3062,6 +3012,8 @@ Nct7799R68FjJmTPdkLwc	Infecting Shot	2	1	4	3			Ranger, Action, Arrow, Attack				
 
 When this hits a hero, create a Bloodrot Pox token under their control."	Ranger Action - Arrow Attack					
 9hQDRdBpQpb8B8kJ9Lq8J	Infectious Host	2	0	3	2			Generic, Action, Attack							When this attacks a hero, if you control a Frailty token, create a Frailty token under their control, then repeat for Inertia and Bloodrot Pox.	Generic Action - Attack				No	
+fJdjjcFWMpqfCNKpJbNLr	Infuse Alloy	3	0	2	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
+JhJWJjwBffmkgq69rfrgC	Infuse Titanium	3	3	5	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
 Q8zWBnk8WGTkgwzHG8pcp	Infect	3	0	1	3			Assassin, Action, Attack	Stealth						"**Stealth**
 
 When this hits a hero, create a Bloodrot Pox token under their control."	Assassin Action - Attack					
@@ -3519,6 +3471,15 @@ q7wHrf9PJpkmfdBQWQBzz	Merciful Retribution	2	4					Light, Illusionist, Instant, 
 nGkpNDKckjzwbzBqM7N8f	Merciless Battleaxe			3				Warrior, Weapon, Axe, 2H	Overpower	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}{r}: **Atttack**
 
 Whenever Merciless Battleaxe attacks, if its {p} is greater than twice its base {p}, the attack gains **overpower**."	Warrior Weapon - Axe (2H)				No	
+FPCtrDJKLwTRHh7C6ckd6	MetEx	1	1	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+When this hits, you may put an item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Attack					
+qtnfPdFjH8RTzn6DhHzfC	MetEx	2	1	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+When this hits, you may put an item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Attack					
+krRzDjQr7CKM9wWkGgLpg	MetEx	3	1	2	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+When this hits, you may put an item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Attack					
 RDTDDzfpjwLc9QrLWhqtB	Metacarpus Node				0			Wizard, Equipment, Arms	Arcane Barrier 1						"Whenever you play a card with an effect that deals arcane damage, you may pay {r}. If you do, instead it deals that much arcane damage plus 1, and destroy Metacarpus Node at the beginning of the end phase.
 
 **Arcane Barrier 1**"	Wizard Equipment - Arms				No	
@@ -3901,6 +3862,11 @@ zqpjjkQcPrDPQJGhDKkbC	Pedal to the Metal	3	2	3	3			Mechanologist, Action, Attack
 
 **Boost**"	Mechanologist Action - Attack				No	
 QGHNhTQCTGmdJ9FRDbTNC	Pendulum Trap	2	0		3			Ranger, Defense Reaction, Trap							When this defends and the attacking hero has played or activated a reaction this chain link, put the top 2 cards of their deck into their graveyard.	Ranger Defense Reaction - Trap				No	
+qGKR8rcj7wrHQdF6kBwmk	Penetration Script	2	1					Mechanologist, Action, Item	Crank						"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+Your Mechanologist attack action cards get +1{p}."	Mechanologist Action - Item				No	
 8CLhBWj6dbMgg9gfPCQjH	Perch Grapplers				2			Ranger, Equipment, Legs	Blade Break	Action	Go again	Go again			"**Action** - {r}{r}, destroy Perch Grapplers: Until end of turn, face up arrow cards played from arsenal gain **go again**. **Go again**
 
 **Blade Break**"	Ranger Equipment - Legs				No	
@@ -4074,6 +4040,11 @@ Deal 3 arcane damage to any target. If Polar Cap was **fused** and deals damage 
 L9QHgTrJMCPMd6DfgDCNr	Polar Cap	3	2		3			Elemental, Wizard, Action	Ice Fusion						"**Ice Fusion**
 
 Deal 2 arcane damage to any target. If Polar Cap was **fused** and deals damage to a hero, create a Frostbite token under their control."	Elemental Wizard Action					
+jfHbfHfWB7KPd8NTmqDd9	Polarity Reversal Script	1	1					Mechanologist, Action, Item	Crank						"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+Action cards get -1{d} while defending your Mechanologist attack action cards."	Mechanologist Action - Item				No	
 HpWqFJW8ftTDdzCLK9RkD	Ponder							Generic, Token, Aura							At the beginning of your end phase, destroy Ponder and draw a card.	Generic Token - Aura					
 qLwNCBR9FCfnnPtPjkWNp	Potion of Deja Vu	3	0					Generic, Action, Item		Instant					**Instant** - Destroy Potion of Déjà Vu: Put all cards from your pitch zone on top of your deck in any order.	Generic Action - Item				No	
 LRdKLkdKnTJ8CCczKmwzw	Potion of Ironhide	3	0					Generic, Action, Item		Instant					**Instant** - Destroy Potion of Ironhide: Attack action cards you own gain +1{d} this turn.	Generic Action - Item				No	
@@ -4300,6 +4271,11 @@ LqTz6CRb7ThHpK8NpdKpr	Qi Unbound	1	2	3	3			Ninja, Action, Attack	Combo						**Co
 twGn8N6Pm6ctFgKnjCpL7	Qi Unleashed	1	2	3	3			Ninja, Action, Attack	Combo						**Combo** - If Crouching Tiger was the last attack this combat chain, Qi Unleashed has +4{p}.	Ninja Action - Attack					
 hrPnGKq9czRctFqJqWknC	Qi Unleashed	2	2	2	3			Ninja, Action, Attack	Combo						**Combo** - If Crouching Tiger was the last attack this combat chain, Qi Unleashed has +4{p}.	Ninja Action - Attack					
 mBhNRNw6CMrF8trKHgtCC	Qi Unleashed	3	2	1	3			Ninja, Action, Attack	Combo						**Combo** - If Crouching Tiger was the last attack this combat chain, Qi Unleashed has +4{p}.	Ninja Action - Attack					
+c8tGz8c7GKmBJRLTcQHfJ	Quantum Processor	2	1					Mechanologist, Action, Item	Crank	Once per Turn Instant					"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+**Once per Turn Instant** - 0: Put a Mechanologist item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Item				No	
 k8d9d7n7fJRwkRDWG7Kcn	Quelling Robe				0			Generic, Equipment, Chest	Quell 1						**Quell 1**	Generic Equipment - Chest					
 QdCcTgDwqq66NHp6qDdTz	Quelling Sleeves				0			Generic, Equipment, Arms	Quell 1						**Quell 1**	Generic Equipment - Arms					
 DMht6KBFhqWNdGBJNL7NB	Quelling Slippers				0			Generic, Equipment, Legs	Quell 1						**Quell 1**	Generic Equipment - Legs					
@@ -5010,6 +4986,11 @@ PqwWTC8WTQccwfcNwtjNT	Second Swing	2	1		3			Warrior, Action	Go again						"If yo
 Chqpmcpccgmfb7wh7jrdh	Second Swing	3	1		3			Warrior, Action	Go again						"If you have attacked with a weapon this turn, your next attack this turn gains +2{p}.
 
 **Go again**"	Warrior Action					
+fBt7wHjJKcKKhftG6cGmW	Security Script	3	1					Mechanologist, Action, Item	Crank						"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+Your Mechanologist attack action cards get +1{d}."	Mechanologist Action - Item				No	
 mpTmfWDrzmTzJbjbwqGth	Sedate	1	0	3	3			Assassin, Action, Attack	Stealth						"**Stealth**
 
 When this hits a hero, create an Inertia token under their control."	Assassin Action - Attack					
@@ -5501,6 +5482,15 @@ KPcKCKn8CpthtjNrk6fC8	Soulbond Resolve				2			Light, Warrior, Equipment, Chest	C
 The first time you would be dealt damage each turn, if you've **charged** this turn, prevent 1 of that damage.
 
 **Temper**"	Light Warrior Equipment - Chest				No	
+DGJQcFJGcqDHggpkqRTt8	Soup Up	1	0	4	2			Mechanologist, Action, Attack	Go again, Galvanize						"If an item you control has been destroyed this turn, this gets **go again**.
+
+**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
+B7PppLKHtbMhBMnmLnRDp	Soup Up	2	0	3	2			Mechanologist, Action, Attack	Go again, Galvanize						"If an item you control has been destroyed this turn, this gets **go again**.
+
+**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
+kPPR9hbpbgQJMMNqLPFfB	Soup Up	3	0	2	2			Mechanologist, Action, Attack	Go again, Galvanize						"If an item you control has been destroyed this turn, this gets **go again**.
+
+**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
 nHTRFgmcjhjRWrN9jWn9k	Sow Tomorrow	1	1		2			Earth, Action	Go again						"Put target Earth or Elemental action card with cost 0 or greater from your graveyard on the bottom of your deck. Banish Sow Tomorrow.
 
 If Sow Tomorrow is played from arsenal, draw a card.
@@ -5679,6 +5669,11 @@ J6wkdw6GbBPtzKqHrWbhC	Steadfast	2	3					Guardian, Instant							Prevent the next
 pJgqNQCKBhKhr9rTrj7Dp	Steadfast	3	3					Guardian, Instant							Prevent the next 4 damage that would be dealt to your hero this turn by a source of your choice.	Guardian Instant					
 G8bkfPWkjKCjR6qWKBLFF	Steam Canister	3	0					Mechanologist, Action, Item		Instant				Crank	**Instant** - Put this on the bottom of its owner's deck: Put a steam counter on an item you control with **crank**.	Mechanologist Action - Item				No	
 RhgwRgbM8Q8WBdBMTtwQR	Steel Street Enforcement	3			1			Mechanologist, Block	Evo Upgrade						**Evo Upgrade** - While this is defending, it gets +X{d}, where X is the number of Evos you have equipped.	Mechanologist Block				No	
+MGGw9K9QMqmFBjLLTrbhq	Steel Street Hoons	3	3	3	2			Mechanologist, Action, Attack	Boost, Galvanize						"**Boost**
+
+If an item you control has been destroyed this turn, this gets +2{p}.
+
+**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d)."	Mechanologist Action - Attack				No	
 dmnK9rtgp6tmCbN9LR9qQ	Steelblade Shunt	1	1		6			Warrior, Defense Reaction							If Steelblade Shunt defends a weapon attack, deal 1 damage to the attacking hero.	Warrior Defense Reaction				No	
 JbTJprLM9CcMPHwFgL888	Steelblade Shunt	2	1		5			Warrior, Defense Reaction							If Steelblade Shunt defends a weapon attack, deal 1 damage to the attacking hero.	Warrior Defense Reaction				No	
 CqjGDbBG9WMHfdcpF8fqJ	Steelblade Shunt	3	1		4			Warrior, Defense Reaction							If Steelblade Shunt defends a weapon attack, deal 1 damage to the attacking hero.	Warrior Defense Reaction				No	
@@ -5851,6 +5846,7 @@ FtFNN8f6NTbJtkPNGMmfJ	Swing Fist, Think Later	3	1	2	3			Brute, Action, Attack	Go
 
 **Go again**"	Brute Action - Attack					
 GTWTq8HRqQM9nCCqQcTPD	System Failure	2	1		2			Mechanologist, Action							Remove all steam counters from target equipment, item, or weapon. If 2 or more steam counters are removed this way, deal 2 damage to its controler.	Mechanologist Action				No	
+bh7RktHmCjjn9mKNmT6QK	System Reset	2	X		3			Mechanologist, Action							Banish X Mechanologist items you control with cost 0 or 1, then return them to the arena under their owners' control.	Mechanologist Action				No	
 7kwDMdkW6h7bMH8ctTjPC	T-Bone	1	0	3	3			Mechanologist, Action, Attack	Boost					Boost	"If you control a card on the combat chain that was boosted, the defending hero must defend T-Bone with an equipment they control if able.
 
 **Boost**"	Mechanologist Action - Attack				No	
@@ -6106,6 +6102,15 @@ cWMCP7TF8MkHKQDgjj6jk	Tome of the Arknight	3	1		2			Runeblade, Action	Go again		
 
 **Go again**"	Runeblade Action				No	
 JQqp6Ctw7QMLRDMgTnW6g	Tomeltai			5		5		Draconic, Illusionist, Dragon, Ally							Whenever Tomeltai attacks a hero, reveal the top 2 cards of your deck. If 1 or more red cards are revealed this way, put that many -1{d} counters on an equipment they control, then if it has 0{d}, destroy it.	Draconic Illusionist - Dragon Ally				No	
+fCB6H9HqcnhNkhKjtcG69	Torque Tuned	1	2	6	2			Mechanologist, Action, Attack	Overpower, Galvanize						"If an item you control has been destroyed this turn, this gets **overpower**.
+
+**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
+Rjgh7kQCWKkTdChRmWt7w	Torque Tuned	2	2	5	2			Mechanologist, Action, Attack	Overpower, Galvanize						"If an item you control has been destroyed this turn, this gets **overpower**.
+
+**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
+MkJgPht7nFRJFBKCgThrP	Torque Tuned	3	2	4	2			Mechanologist, Action, Attack	Overpower, Galvanize						"If an item you control has been destroyed this turn, this gets **overpower**.
+
+**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
 9F67fMDKzMkLMJFr7GN67	Torrent of Tempo	1	1	5	3			Ninja, Action, Attack	Go again						If Torrent of Tempo hits, it gains **go again**.	Ninja Action - Attack					
 TR8gpGqrWD7JrKtjMqKbJ	Torrent of Tempo	2	1	4	3			Ninja, Action, Attack	Go again						If Torrent of Tempo hits, it gains **go again**.	Ninja Action - Attack					
 hRbLKmtGT7DJQqr9Q7MNN	Torrent of Tempo	3	1	3	3			Ninja, Action, Attack	Go again						If Torrent of Tempo hits, it gains **go again**.	Ninja Action - Attack					
