@@ -1316,6 +1316,9 @@ N6TDqDNWfKfrz6G6jNrQQ	Dash, Database					18	4	Mechanologist, Hero, Young							"
 Once per turn, you may play a Mechanologist item with cost 0 or 1 from the top of your deck as though it were an instant. It costs an additional {r} to play."	Mechanologist Hero - Young			No		
 6CcjWGnThrTmTQFQ9zHMN	Dash, Inventor Extraordinaire					40	4	Mechanologist, Hero							You may start the game with a Mechanologist item with cost 2 or less in the arena.	Mechanologist Hero		No		No	
 kbdzm8R7MHCpWC79RdTGH	Data Doll MKII					20	3	Mechanologist, Hero, Young							Whenever a Mechanologist item with cost 2 or less is put into your banished zone from your deck, put it into the arena.	Mechanologist Hero - Young			No		
+9FjqMc6RW8nJFCnG8cqMm	Data Link	1	0	3	3			Mechanologist, Action, Attack	Boost, Opt 1						"**Boost**
+
+When this hits, **opt 1**."	Mechanologist Action - Attack					
 wNjKmtGB97kW7GWKRgjDt	Dauntless	1	1		3			Warrior, Action	Go again						"Your next weapon attack this turn gains +3{p}.
 
 The next defense reaction card the defending hero plays this turn costs an additional {r} to play.
@@ -1518,6 +1521,9 @@ PFCpzppJRrWggRLgwdPHz	Dissolving Shield	3	0					Mechanologist, Action, Item	Cran
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 **Instant** - Remove a steam counter from this: Prevent the next 1 damage that would be dealt to you this turn. If this has no steam counters, destroy it."	Mechanologist Action - Item					
+mWQtWfkKC6hchJcQ67Mpt	Dive Through Data	1	2	4	3			Mechanologist, Action, Attack	Boost, Opt 1						"**Boost**
+
+When this hits, **opt 1**."	Mechanologist Action - Attack					
 bzkCGg6kcffpBcBhgHrkH	Dodge	3	0		2			Generic, Defense Reaction								Generic Defense Reaction					
 hjggcdqWwpwNKCrTBj6J7	Dominia			4		4		Draconic, Illusionist, Dragon, Ally							Whenever Dominia attacks a hero, reveal the top card of your deck. If it's a red card, look at their hand and banish a card from it.	Draconic Illusionist - Dragon Ally				No	
 w7HdMtLpHDBRNJcKHWHpc	Doomsday	3	0					Shadow, Instant	Legendary, Levia Specialization					Blood Debt	"**Legendary Levia Specialization**
@@ -4131,6 +4137,11 @@ jrQcdHwPDPTt8PWTdNLqk	Prism, Awakener of Sol					32	4	Light, Illusionist, Hero		
 
 **Once per Turn Instant** - {r}{r}, banish a card from Prism's soul: **Awaken** target figment you control."	Light Illusionist Hero		No		No	
 F7rQpTDjHFWPgQhcGg7RT	Prism, Sculptor of Arc Light					40	4	Light, Illusionist, Hero		Once per Turn Instant					**Once per Turn Instant** - {r}{r}, banish a card from Prism's soul: Create a Spectral Shield token.	Light Illusionist Hero		No		No	
+WtGmJPqkJc7nWGRBCFwww	Prismatic Lens	2	1					Mechanologist, Action, Item	Crank	Once per Turn Instant					"**Crank**
+
+This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+**Once per Turn Instant** - 0: Reveal the top card of your deck. Put a Mechanologist item of the same color from your banished zone on top of your deck."	Mechanologist Action - Item				No	
 KHwWtFzhjTgbrJJrkGjFc	Prismatic Shield	1	3					Illusionist, Instant							Create 3 Spectral Shield tokens.	Illusionist Instant				No	
 GwNppkqrrrfrMgRWhT9rr	Prismatic Shield	2	3					Illusionist, Instant							Create 2 Spectral Shield tokens.	Illusionist Instant				No	
 bFjnrzdmFLkwdBbWHnGfR	Prismatic Shield	3	3					Illusionist, Instant							Create a Spectral Shield token.	Illusionist Instant				No	
@@ -6038,10 +6049,10 @@ When a Mechanologist attack action card you control hits a hero, destroy this an
 TDJfbQjqKCwLRT7RczDrM	Tide Flippers				0			Ninja, Equipment, Legs	Arcane Barrier 1	Attack Reaction		Go again			"**Attack Reaction** - Destroy Tide Flippers: Target attack action card with 2 or less base {p} gains **go again**.
 
 **Arcane Barrier 1**"	Ninja Equipment - Legs					
-gftbNkkj9bNCBFRpnbdtq	Tiger Eye Reflex	2			3			Ninja Block	Ambush						"**Ambush**
+gftbNkkj9bNCBFRpnbdtq	Tiger Eye Reflex	2			3			Ninja, Block	Ambush						"**Ambush**
 
 When this defends, create a Crouching Tiger in your banished zone. You may play it during your next turn."	Ninja Block				No	
-6tj9kHRWLHbCbF6mG6tDh	Tiger Eye Reflex	3			2			Ninja Block	Ambush						"**Ambush**
+6tj9kHRWLHbCbF6mG6tDh	Tiger Eye Reflex	3			2			Ninja, Block	Ambush						"**Ambush**
 
 When this defends, create a Crouching Tiger in your banished zone. You may play it during your next turn."	Ninja Block				No	
 gtzjLhHGpPmFgcLdpTBFH	Tiger Stripe Shuko				2			Ninja, Equipment, Arms	Blade Break						"The second attack action card with 2 or less base {p} you play each turn has +1{p} and ""Damage that would be dealt by this can't be prevented.""
@@ -6210,6 +6221,9 @@ If Turn Timber was **fused**, it gains +2{d}."	Elemental Guardian Defense Reacti
 jR6rqDqWjjg79LTCFHMNQ	Turn Timber	3	2		4			Elemental, Guardian, Defense Reaction	Earth Fusion						"**Earth Fusion**
 
 If Turn Timber was **fused**, it gains +2{d}."	Elemental Guardian Defense Reaction				No	
+BB6TLbtFwBCqtH7H7wBjj	Twin Drive	1	2	5	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+**Boost**"	Mechanologist Action - Attack				No	
 bnFKRwPzBKMBGRmfLQRwg	Twin Twisters	1	1	3	2			Ninja, Action, Attack	Go again						"Choose 1:
 
 - Twin Twisters gains ""When this hits, your next attack this combat chain gains +1{p}.""
