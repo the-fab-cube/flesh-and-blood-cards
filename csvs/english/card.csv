@@ -1,4 +1,12 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+LkqQpr7QL8KpnqMh7dHpR	Dash I/O					36	4	Mechanologist, Hero							"You may look at the top card of your deck at any time.
+
+Once per turn, you may play a Mechanologist item with cost 0 or 1 from the top of your deck as though it were an instant. It costs an additional {r} to play."	Mechanologist Hero		No		No	
+tPW6ffbwKnNCWf9hKLKTN	Symbiosis Shot			2				Mechanologist, Weapon, Gun, 2H	Dash Specialization	Action	Attack				"**Dash Specialization**
+
+**Action** - Remove a steam counter from this: **Attack**
+
+Whenever a Mechanologist item enters the arena under your control, if this has fewer than 6 steam counters, you may put a steam counter on this."	Mechanologist Weapon - Gun (2H)					
 dTKDHwdcrLNPPb6ktczmR	Absorb in Aether	1	1		4			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 tWKN9zRJdgFmpw6pmPmkR	Absorb in Aether	2	1		3			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 WkDkrkTDzRnqWBh7WHJfh	Absorb in Aether	3	1		2			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
