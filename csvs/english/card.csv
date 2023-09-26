@@ -1,12 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-LkqQpr7QL8KpnqMh7dHpR	Dash I/O					36	4	Mechanologist, Hero							"You may look at the top card of your deck at any time.
-
-Once per turn, you may play a Mechanologist item with cost 0 or 1 from the top of your deck as though it were an instant. It costs an additional {r} to play."	Mechanologist Hero		No		No	
-tPW6ffbwKnNCWf9hKLKTN	Symbiosis Shot			2				Mechanologist, Weapon, Gun, 2H	Dash Specialization	Action	Attack				"**Dash Specialization**
-
-**Action** - Remove a steam counter from this: **Attack**
-
-Whenever a Mechanologist item enters the arena under your control, if this has fewer than 6 steam counters, you may put a steam counter on this."	Mechanologist Weapon - Gun (2H)					
 dTKDHwdcrLNPPb6ktczmR	Absorb in Aether	1	1		4			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 tWKN9zRJdgFmpw6pmPmkR	Absorb in Aether	2	1		3			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 WkDkrkTDzRnqWBh7WHJfh	Absorb in Aether	3	1		2			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
@@ -1319,12 +1311,21 @@ HjgMJg6DrhJqR6fMnp6fc	Dance of Darkness							Shadow, Equipment, Legs	Blood Debt
 
 **Blood Debt**"	Shadow Equipment - Legs					
 kftPnNkrBLJ7rPmFGgQCm	Dash					20	4	Mechanologist, Hero, Young							You may start the game with a Mechanologist item with cost 2 or less in the arena.	Mechanologist Hero - Young			No		
+LkqQpr7QL8KpnqMh7dHpR	Dash I/O					36	4	Mechanologist, Hero							"You may look at the top card of your deck at any time.
+
+Once per turn, you may play a Mechanologist item with cost 0 or 1 from the top of your deck as though it were an instant. It costs an additional {r} to play."	Mechanologist Hero		No		No	
 N6TDqDNWfKfrz6G6jNrQQ	Dash, Database					18	4	Mechanologist, Hero, Young							"You may look at the top card of your deck at any time.
 
 Once per turn, you may play a Mechanologist item with cost 0 or 1 from the top of your deck as though it were an instant. It costs an additional {r} to play."	Mechanologist Hero - Young			No		
 6CcjWGnThrTmTQFQ9zHMN	Dash, Inventor Extraordinaire					40	4	Mechanologist, Hero							You may start the game with a Mechanologist item with cost 2 or less in the arena.	Mechanologist Hero		No		No	
 kbdzm8R7MHCpWC79RdTGH	Data Doll MKII					20	3	Mechanologist, Hero, Young							Whenever a Mechanologist item with cost 2 or less is put into your banished zone from your deck, put it into the arena.	Mechanologist Hero - Young			No		
 9FjqMc6RW8nJFCnG8cqMm	Data Link	1	0	3	3			Mechanologist, Action, Attack	Boost, Opt 1						"**Boost**
+
+When this hits, **opt 1**."	Mechanologist Action - Attack					
+KjfkLJHHPhbFqpqjPhHMt	Data Link	2	0	2	3			Mechanologist, Action, Attack	Boost, Opt 1						"**Boost**
+
+When this hits, **opt 1**."	Mechanologist Action - Attack					
+qfgqjM7QnmJKDnPkmgHTw	Data Link	3	0	1	3			Mechanologist, Action, Attack	Boost, Opt 1						"**Boost**
 
 When this hits, **opt 1**."	Mechanologist Action - Attack					
 wNjKmtGB97kW7GWKRgjDt	Dauntless	1	1		3			Warrior, Action	Go again						"Your next weapon attack this turn gains +3{p}.
@@ -1529,7 +1530,13 @@ PFCpzppJRrWggRLgwdPHz	Dissolving Shield	3	0					Mechanologist, Action, Item	Cran
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 **Instant** - Remove a steam counter from this: Prevent the next 1 damage that would be dealt to you this turn. If this has no steam counters, destroy it."	Mechanologist Action - Item					
-mWQtWfkKC6hchJcQ67Mpt	Dive Through Data	1	2	4	3			Mechanologist, Action, Attack	Boost, Opt 1						"**Boost**
+mWQtWfkKC6hchJcQ67Mpt	Dive Through Data	1	1	4	3			Mechanologist, Action, Attack	Boost, Opt 1						"**Boost**
+
+When this hits, **opt 1**."	Mechanologist Action - Attack					
+NBKMt6PPm7WNcWf79B7NQ	Dive Through Data	2	1	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+When this hits, **opt 1**."	Mechanologist Action - Attack					
+q87bjWTPpRz8LHrN8drrd	Dive Through Data	3	1	2	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
 When this hits, **opt 1**."	Mechanologist Action - Attack					
 bzkCGg6kcffpBcBhgHrkH	Dodge	3	0		2			Generic, Defense Reaction								Generic Defense Reaction					
@@ -1969,6 +1976,9 @@ kD7rTHdWjpwfWR9mw8qG7	Evo Battery Pack	2	0		2			Mechanologist, Action, Equipment
 **Once per Turn Instant** - Destroy a card under this: Put a steam counter on an item you control with crank.
 
 **Blade Break**"	Mechanologist Action Equipment - Evo Chest					
+8CdLzKHrrnjKTFKG77GjM	Evo Buzz Hive	2	0		0			Mechanologist, Instant, Equipment, Evo, Chest	Transform						"If you have a base chest equipped, **transform** it into this, then equip this.
+
+When this is equipped, gain {r}."	Mechanologist Instant Equipment - Evo Chest					
 PzB6NcbhjdFqq7QBgTLgg	Evo Charging Rods	2	0		2			Mechanologist, Action, Equipment, Evo, Legs	Transform, Blade Break	Once per Turn Instant					"If you have a base legs equipped, **transform** it into this, then equip this.
 
 **Once per Turn Instant** - Destroy a card under this: Create a Quicken token.
@@ -2065,6 +2075,15 @@ Bfbgtw7tPPWCMgFh8gDmc	Evo Thruster	2	3		3			Mechanologist, Action, Equipment, Ev
 **Once per Turn Instant** - Destroy a card under this: You may attack an additional time with target weapon this turn.
 
 **Blade Break**"	Mechanologist Action Equipment - Evo Legs				No	
+9th8QzMpd9n9fpzbHbwJJ	Evo Whizz Bang	2	0		0			Mechanologist, Instant, Equipment, Evo, Arms	Transform						"If you have a base head equipped, **transform** it into this, then equip this.
+
+When this is equipped, up to 1 target attack gets +1{p}."	Mechanologist Instant Equipment - Evo Arms					
+MdmK9dmLDpbC7GFcz6W7C	Evo Zip Line	2	0		0			Mechanologist, Instant, Equipment, Evo, Legs	Transform			Go again			"If you have a base legs equipped, **transform** it into this, then equip this.
+
+When this is equipped, up to 1 target attack gets **go again**."	Mechanologist Instant Equipment - Evo Legs					
+gwnNzfNWWNnk6KRQnp7MW	Evo Zoom Call	2	0		0			Mechanologist, Instant, Equipment, Evo, Head	Transform						"If you have a base head equipped, **transform** it into this, then equip this.
+
+When this is equipped, you may banish a card from you hand. If you do, draw a card."	Mechanologist Instant Equipment - Evo Head					
 dHGPHrcmzW8TJT6m8mrPp	Expedite	1	0	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
 When this hits, you may put an item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Attack					
@@ -5876,6 +5895,11 @@ NKnCpDpncwNQcfJrqTLPz	Swing Fist, Think Later	2	1	3	3			Brute, Action, Attack	Go
 FtFNN8f6NTbJtkPNGMmfJ	Swing Fist, Think Later	3	1	2	3			Brute, Action, Attack	Go again						"As an additional cost to play Swing Fist, Think Later, discard a random card.
 
 **Go again**"	Brute Action - Attack					
+tPW6ffbwKnNCWf9hKLKTN	Symbiosis Shot			2				Mechanologist, Weapon, Gun, 2H	Dash Specialization	Action	Attack				"**Dash Specialization**
+
+**Action** - Remove a steam counter from this: **Attack**
+
+Whenever a Mechanologist item enters the arena under your control, if this has fewer than 6 steam counters, you may put a steam counter on this."	Mechanologist Weapon - Gun (2H)					
 GTWTq8HRqQM9nCCqQcTPD	System Failure	2	1		2			Mechanologist, Action							Remove all steam counters from target equipment, item, or weapon. If 2 or more steam counters are removed this way, deal 2 damage to its controler.	Mechanologist Action				No	
 bh7RktHmCjjn9mKNmT6QK	System Reset	2	X		3			Mechanologist, Action							Banish X Mechanologist items you control with cost 0 or 1, then return them to the arena under their owners' control.	Mechanologist Action				No	
 7kwDMdkW6h7bMH8ctTjPC	T-Bone	1	0	3	3			Mechanologist, Action, Attack	Boost					Boost	"If you control a card on the combat chain that was boosted, the defending hero must defend T-Bone with an equipment they control if able.
@@ -6013,6 +6037,15 @@ Reveal the top card of your deck. If it's a Mechanologist item card with cost 0,
 ndKnMFtcDt8JmPFD6bfbk	Teklovossen, Esteemed Magnate					40	4	Mechanologist, Hero		Once per Turn Instant					"You may play Evos from your banished zone.
 
 **Once per Turn Instant** - {r}{r}{r}: You may play your next Evo this turn as though it were an instant. When you do, draw a card."	Mechanologist Hero		No		No	
+BRpMLJdMBPgfJNJLJWDFg	Teklovossen, the Mechropotent			6	6	*	3	Shadow, Mechanologist, Demi-Hero, Equipment, Evo	Battleworn	Action	Attack	Go again			"**Action** - {r}{r}{r}, banish 2 cards from your soul: **Attack**
+
+Whenever this attacks a hero, they discard a card.
+
+Your Mechanologist attack action cards get **go again**.
+
+This counts as having 4 Evos equipped.
+
+**Battleworn**"	Shadow Mechanologist Demi-Hero Equipment - Evo				No	
 b9BCgJDp8qDb6zpNtJwfK	Tempest Aurora	1	0		2			Wizard, Action	Go again						"The next card you play this turn with cost 2 or less and an arcane damage effect, instead deals that much arcane damage plus 1.
 
 **Go again**"	Wizard Action					
