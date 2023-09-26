@@ -513,3 +513,4 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 PENDING:
 - Added card data for EVO and TCC
 - Updated functional text for Bittering Thorns, Blessing of Qi, Chokeslam, Coax a Commotion, Copper, Cranial Crush, Crankshaft, Disable, Energy Potion, Flying Kick, Fyendal's Spring Tunic, Healing Potion, Hyper Driver, Jump Start, Life of the Party, Over Loop, Potion of Strength, Pouncing Qi, Quicken, Salt the Wound, Tearing Shuko, and Timesnap Potion.
+- Fixed incorrect artist for Figment of Erudition
