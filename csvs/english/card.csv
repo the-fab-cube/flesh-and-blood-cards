@@ -1228,15 +1228,15 @@ b9Hw6NhDgfdQWLDQffTPC	Crane Dance	1	0	3	3			Ninja, Action, Attack	Combo						**C
 hdwcfGdrfcJ9bK78tPgRW	Crane Dance	2	0	2	3			Ninja, Action, Attack	Combo						**Combo** - If Soulbead Strike was the last attack this combat chain, Crane Dance gains +1{p}, **go again**, and it can't be defended by attack action cards with base {p} greater than the number of chain links you control.	Ninja Action - Attack				No	
 KWNMNMjTzTQMRK7FF9J6T	Crane Dance	3	0	1	3			Ninja, Action, Attack	Combo						**Combo** - If Soulbead Strike was the last attack this combat chain, Crane Dance gains +1{p}, **go again**, and it can't be defended by attack action cards with base {p} greater than the number of chain links you control.	Ninja Action - Attack				No	
 wc9L9bCGdNwhFrRD9Ntr6	Cranial Crush	3	6	8	3			Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, they can't draw cards during their next action phase	Guardian Action - Attack				No	
-HDnfHcMqHHBkwtWpgbMPF	Crankshaft	1	2	5	3			Mechanologist, Action, Attack	Boost					Boost	"When Crankshaft is banished to pay for a **boost** cost, put a steam counter on a Hyper Driver you control.
+HDnfHcMqHHBkwtWpgbMPF	Crankshaft	1	2	5	3			Mechanologist, Action, Attack	Boost					Boost	"**Boost**
 
-**Boost**"	Mechanologist Action - Attack					
-9fWDqPpBKjMCTghKhBW8p	Crankshaft	2	2	4	3			Mechanologist, Action, Attack	Boost						"When Crankshaft is banished to pay for a **boost** cost, put a steam counter on a Hyper Driver you control.
+When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
+9fWDqPpBKjMCTghKhBW8p	Crankshaft	2	2	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
-**Boost**"	Mechanologist Action - Attack					
-NTCMFrrQdwdrKLnT8kcfc	Crankshaft	3	2	3	3			Mechanologist, Action, Attack	Boost						"When Crankshaft is banished to pay for a **boost** cost, put a steam counter on a Hyper Driver you control.
+When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
+NTCMFrrQdwdrKLnT8kcfc	Crankshaft	3	2	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
-**Boost**"	Mechanologist Action - Attack					
+When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
 bzBJdKw6Brc9KmtcNrJKp	Crash Down	1	3		3			Guardian, Action, Aura							At the start of your turn, destroy this, then the next Guardian attack action card you play this turn gets +6{p}.	Guardian Action - Aura				Yes	
 TgrNMPfTmLkB9DtNtkccP	Crash Down	2	3		3			Guardian, Action, Aura							At the start of your turn, destroy this, then the next Guardian attack action card you play this turn gets +5{p}.	Guardian Action - Aura				Yes	
 DbpdPtLqk9zqfp6bdQTP6	Crater Fist				2			Guardian, Equipment, Arms	Temper	Action	Go again			Crush	"**Action** - {r}{r}{r}, destroy Crater Fist: Your attacks with **crush** gain +2{p} this turn. **Go again**
@@ -1704,7 +1704,7 @@ At the beginning of your end phase, if you haven't played an attack action card 
 w9NMmfttRBHm6fwjHhQbk	Dust Runner Outlaw	1	1	4	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
 m6TdpWNzf8mTDPrMNbN9q	Dust Runner Outlaw	2	1	3	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
 JjcbfdJBzNznwtrHkDN98	Dust Runner Outlaw	3	1	2	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
-KLL7GmCb6Pb9bQqmbm7Nw	Dust from the Chrome Caverns	1	0		3			Draconic, Action, Ash	Material						**Material** - While this is under a permanent other than Cromai, that permanent has phantasm.	Draconic Action - Ash				No	
+KLL7GmCb6Pb9bQqmbm7Nw	Dust from the Chrome Caverns	1	0		3			Draconic, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Cromai, that permanent has **phantasm**.	Draconic Action - Ash				No	
 KfcLhpjL6Jc6Mr8WTQMdn	Dust from the Golden Plains	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Themai, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
 Gq8F9nHbQ6N8rrPzdhJzn	Dust from the Red Desert	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Vynserakai, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
 zKQg9cTc7WMNdRbq6pwRk	Dust from the Shadow Crypts	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Nekria, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
@@ -3212,13 +3212,13 @@ GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit			2				Bard, Weapon, Fiddle, 2H		Onc
 kfCPfkdm8jrFqmHMNGj8h	Jubeel, Spellbane			3				Warrior, Weapon, Sword, 2H							"**Once per Turn Action** - {r}: **Attack**
 
 Whenever this hits a hero and you don't control a Spellbane Aegis, create a Spellbane Aegis token."	Warrior Weapon - Sword (2H)				No	
-drBDmHmGtr8qtbmgztwdH	Jump Start	1	2	5	3			Mechanologist, Action, Attack	Boost						"If you control a Hyper Driver, Jump Start costs {r} less to play.
+drBDmHmGtr8qtbmgztwdH	Jump Start	1	2	5	3			Mechanologist, Action, Attack	Boost						"If you control a Hyper Driver, this costs {r} less to play.
 
 **Boost**"	Mechanologist Action - Attack					
-8gBtrNrB6gqGGq9WjNrTj	Jump Start	2	2	4	3			Mechanologist, Action, Attack	Boost						"If you control a Hyper Driver, Jump Start costs {r} less to play.
+8gBtrNrB6gqGGq9WjNrTj	Jump Start	2	2	4	3			Mechanologist, Action, Attack	Boost						"If you control a Hyper Driver, this costs {r} less to play.
 
 **Boost**"	Mechanologist Action - Attack					
-T8qmHczkFQMWqBMzJWtT6	Jump Start	3	2	3	3			Mechanologist, Action, Attack	Boost						"If you control a Hyper Driver, Jump Start costs {r} less to play.
+T8qmHczkFQMWqBMzJWtT6	Jump Start	3	2	3	3			Mechanologist, Action, Attack	Boost						"If you control a Hyper Driver, this costs {r} less to play.
 
 **Boost**"	Mechanologist Action - Attack					
 F9gtJwgzgM76KghF8jrcq	Junkyard Dogg	1	3	6	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
