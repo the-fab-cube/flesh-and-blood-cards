@@ -458,6 +458,7 @@ When this is banished from **boosting**, put a steam counter on a Hyper Driver y
 BbhMcGn9tRzPq6qdt8f8W	Big Bertha	3	3	4	3			Mechanologist, Action, Attack	Boost					Boost	"**Boost**
 
 When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
+8FG8jW7HFB6fmBR6mkQdn	Big Shot	1	3	6	3			Mechanologist, Action, Attack						Boost	If you've **boosted** 2 or more times this turn, this gets +2{p}.	Mechanologist Action - Attack				No	
 jCLhjJp9PcgJFQHQfLQrf	Billowing Mirage	1	1	3	3			Draconic, Illusionist, Action, Attack	Transform, Go again						"When you attack with Billowing Mirage, **transform** up to 1 ash you control into an Aether Ashwing.
 
 **Go again**"	Draconic Illusionist Action - Attack					
@@ -872,6 +873,7 @@ HFHTwwNzfP98TwzjLdFjK	Burgeoning	1	2	6	2			Earth, Action, Attack							If Burgeo
 THkdFmjJffhRHdNTPcKmF	Burgeoning	2	2	5	2			Earth, Action, Attack							If Burgeoning is played from arsenal, it gains +1{p}.	Earth Action - Attack					
 CrcJtRzFPTCwQ8wQtzpmN	Burgeoning	3	2	4	2			Earth, Action, Attack							If Burgeoning is played from arsenal, it gains +1{p}.	Earth Action - Attack					
 kDgcBghDT7wRQwQWmpWRb	Burn Away	1	0	2	3			Draconic, Action, Attack	Go again						As an additional cost to play Burn Away, you may banish a Phoenix Flame from your graveyard. When you do, Burn Away gains +2{p} and **go again**.	Draconic Action - Attack					
+jbpNpCbdRQh9bFqg9Mjh6	Burn Rubber	1	3	5	3			Mechanologist, Action, Attack						Boost	If you've **boosted** 2 or more times this turn, this gets +2{p} and can't be defended by equipment.	Mechanologist Action - Attack				No	
 TKBfNBhjRmp7qF9rMQ9bK	Burn Them All	1	0		3			Draconic, Illusionist, Action, Aura	Go again						"**Go again**
 
 Once per turn, when a dragon you control attacks, it deals 1 arcane damage to each opposing hero.
@@ -1107,6 +1109,9 @@ GtdbFwh9DGwF76LrNhJrn	Codex of Inertia	2	0	0	2			Assassin, Ranger, Action	Go aga
 Create a Ponder token under your control and an Inertia token under each opponent's control.
 
 **Go again**"	Assassin / Ranger Action				No	
+WLn8D67P6kfgMj6bmRHhz	Cognition Field	1			3			Mechanologist, Block	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Block				No	
+RpfpDfqWNgzTTJGFHrFnb	Cognition Field	2			2			Mechanologist, Block	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Block				No	
+HK9PTNh6JKQcNK7cqg6Dq	Cognition Field	3			1			Mechanologist, Block	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Block				No	
 Kqmkn6mpNKLqKQdRPjMmt	Cognition Nodes	3	1					Mechanologist, Action, Item		Action, Once per Turn Attack Reaction	Go again				"**Action** - {r}: If there are no steam counters on Cognition Nodes, put a steam counter on it. **Go again**
 
 **Once per Turn Attack Reaction** - Remove a steam counter from Cognition Nodes: Target attack action card gains ""When this hits, put it on the bottom of its owner's deck."""	Mechanologist Action - Item				No	
@@ -1699,6 +1704,7 @@ At the beginning of your end phase, if you haven't played an attack action card 
 w9NMmfttRBHm6fwjHhQbk	Dust Runner Outlaw	1	1	4	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
 m6TdpWNzf8mTDPrMNbN9q	Dust Runner Outlaw	2	1	3	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
 JjcbfdJBzNznwtrHkDN98	Dust Runner Outlaw	3	1	2	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
+KLL7GmCb6Pb9bQqmbm7Nw	Dust from the Chrome Caverns	1	0		3			Draconic, Action, Ash	Material						**Material** - While this is under a permanent other than Cromai, that permanent has phantasm.	Draconic Action - Ash				No	
 KfcLhpjL6Jc6Mr8WTQMdn	Dust from the Golden Plains	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Themai, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
 Gq8F9nHbQ6N8rrPzdhJzn	Dust from the Red Desert	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Vynserakai, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
 zKQg9cTc7WMNdRbq6pwRk	Dust from the Shadow Crypts	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Nekria, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
@@ -2431,6 +2437,9 @@ pqPKGCqKntcTpQRjGwLpF	Frosting	1	0		3			Ice, Wizard, Action							Deal 3 arcane 
 wQwFMHb6LtTgHF6FJKnqQ	Frosting	2	0		3			Ice, Wizard, Action							Deal 2 arcane damage to any target.	Ice Wizard Action					
 mfbBCQnMpDR7PMbkgF9RP	Frosting	3	0		3			Ice, Wizard, Action							Deal 1 arcane damage to any target.	Ice Wizard Action					
 DnfHnbnMCChJD9zfLbgmJ	Fuel Injector	3	0					Mechanologist, Action, Item		Instant					**Instant** - Put this on the bottom of its owner's deck: Gain {r}	Mechanologist Action - Item				No	
+fwGHMG68wcDm6TmkfqC7w	Full Tilt	1	2	5	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
+Nfg6BhjddbLDCRHQgLzkf	Full Tilt	2	2	4	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
+JmQmLGBfp6bRfqBqchfzN	Full Tilt	3	2	3	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
 8RMfQqNQGhPfD6WrdPzHG	Fulminate	2	2		2			Elemental, Action	Earth and/or Lightning Fusion, Go again			Go again			"**Earth and/or Lightning Fusion**
 
 If Fulminate was **fused** with an Earth card, attack action cards you control gain +3{p} this turn.
@@ -2465,6 +2474,9 @@ FdBq9qFfNpMbk67f7FRFL	Galvanic Bender				1			Mechanologist, Equipment, Arms	Mate
 
 **Battleworn**"	Mechanologist Equipment - Arms					
 nC7DHjMkPCgnPbjPdCTdj	Gambler's Gloves				0			Generic, Equipment, Arms							If a hero would roll one or more 6 sided dice, instead after the roll you may destroy Gambler's Gloves. If you do, that hero rerolls all 6 sided dice rolled this way.	Generic Equipment - Arms				No	
+MNLgkBbQcz8fQrqzfTjTj	Gas Guzzler	1	3	6	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
+6gFbdhHwNwJmRJPqTfHRc	Gas Guzzler	2	3	5	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
+c9cWTPgkgQQJPQDFMJw7W	Gas Guzzler	3	3	4	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
 FFM9wDc8wcmkbhTL8fpCG	Gas Up	1	1		2			Mechanologist, Action	Go again					Boost	"The next attack you **boost** this turn gets +4{p}.
 
 You may put a Hyper Driver from your banished zone into the arena.
@@ -2504,6 +2516,15 @@ mCrNQktkbzMwG6fBR7TzP	Ghostly Visit	2	1	3	3			Shadow, Action, Attack	Blood Debt	
 f9gMHQcwjqhbDG8NHrpKK	Ghostly Visit	3	1	2	3			Shadow, Action, Attack	Blood Debt						"You may play Ghostly Visit from your banished zone.
 
 **Blood Debt**"	Shadow Action - Attack					
+KgHPwMcntCzhc9jm8BM6d	Gigawatt	1	1		2			Mechanologist, Action	Go again						"Your next Mechanologist attack this turn gets +4{p}.
+
+**Go again**"	Mechanologist Action				No	
+tznCbwFPngzWgKH6TzBKN	Gigawatt	2	1		2			Mechanologist, Action	Go again						"Your next Mechanologist attack this turn gets +4{p}.
+
+**Go again**"	Mechanologist Action				No	
+LqjLWfPCwPRnNCmJzn7Bg	Gigawatt	3	1		2			Mechanologist, Action	Go again						"Your next Mechanologist attack this turn gets +4{p}.
+
+**Go again**"	Mechanologist Action				No	
 KcbmbJJFzhLKRT6jDjTmP	Give and Take	1	1	3	3			Generic, Action, Attack	Go again						"Whenever an action card defends Give and Take, you may put an action card with cost less than Give and Take's {p} from your graveyard on top of your deck.
 
 **Go again**"	Generic Action - Attack				No	
@@ -2923,6 +2944,15 @@ KJT8g9znGjfbKW9BhHrNc	Hurl	3	0	1	2			Assassin, Ninja, Action, Attack	Go again			
 
 **Go again**"	Assassin / Ninja Action - Attack				No	
 BRbggWh7bBGWNgDPP7Rrg	Hurricane Technique	2	1	4	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Rising Knee Thrust was the last attack this combat chain, Hurricane Technique gains +1{p}, **go again**, and ""If Hurricane Technique hits, put it into your hand."""	Ninja Action - Attack				No	
+WrQKgDFnmpLc7KmTWRmHj	Hydraulic Press	1	3	6	3			Mechanologist, Action, Attack	Scrap, Overpower						"**Scrap**
+
+When this attacks, if it scrapped a card, this gets **overpower**."	Mechanologist Action - Attack				No	
+fqCqGRGmQ6QDRJGjrFDbg	Hydraulic Press	2	3	5	3			Mechanologist, Action, Attack	Scrap, Overpower						"**Scrap**
+
+When this attacks, if it scrapped a card, this gets **overpower**."	Mechanologist Action - Attack				No	
+HCR9pfkgzwfMgnwHdt8TP	Hydraulic Press	3	3	4	3			Mechanologist, Action, Attack	Scrap, Overpower						"**Scrap**
+
+When this attacks, if it scrapped a card, this gets **overpower**."	Mechanologist Action - Attack				No	
 kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1	1					Mechanologist, Action, Item						Boost	"This enters the arena with 3 steam counters. When it has none, destroy it.
 
 Once per turn, when you **boost** a card, remove a steam counter from this and gain {r}."	Mechanologist Action - Item					
@@ -3346,6 +3376,7 @@ b7tLTkWGQtKDhqKG9fjQq	Lightning Surge	2	0	3	2			Lightning, Action, Attack	Go aga
 6CrqfmG7dCTFgNzLbKtcc	Lightning Surge	3	0	2	2			Lightning, Action, Attack	Go again						If Lightning Surge is played from arsenal, it gains **go again**.	Lightning Action - Attack					
 qKWKLWtD8fBWHrRbKrwkT	Liquefy	1	1		2			Draconic, Attack Reaction	Rupture						"**Rupture** - If Liquefy is played at chain link 4 or higher, target attack action card gains ""When this hits a hero, put a -1{d} counter on an equipment they control. Then if it has 0{d}, destroy it."""	Draconic Attack Reaction				No	
 p7QGFtHCDtj6b8r6wLFwB	Liquid-Cooled Mayhem	1	4	6	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This costs 1 {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
+BzhRqCc9TLjNgJ9dKDPfc	Liquid-Cooled Mayhem	2	4	5	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This costs {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
 WrpTBBHz9Qgf79MwRGtCP	Liquid-Cooled Mayhem	3	4	4	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This costs 1 {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
 RBmR6mwf6mzwwg7nwtGzK	Locked and Loaded	1	0		3			Mechanologist, Action	Opt 1, Go again					Boost	"The next Mechanologist attack action card you play this turn gains +3{p}.
 
@@ -3466,6 +3497,9 @@ GBDFTmjdTmgRCdHngGWNR	Mask of the Pouncing Lynx				2			Ninja, Equipment, Head	Bl
 dGqFDHg9FqzfbDcNcLPtP	Massacre	1	3	6	3			Brute, Action, Attack	Intimidate			Intimidate			"When you attack with Massacre, if you have discarded a card with 6 or more {p} this turn, Massacre gains +2{p} and **intimidate**.
 
 If Massacre is discarded to pay the cost of a Brute attack action card, **intimidate**."	Brute Action - Attack				No	
+MLR9kCDtWdr7c67FQtNw7	Master Cog	2						Mechanologist, Resource, Gem	Legendary					Crank	"**Legendary**
+
+When this is pitched, you may put a steam counter on an item you control with **crank**."	Mechanologist Resource - Gem				No	
 Dg8tJh9RNQKhFWfqd8qDT	Mauling Qi	1	1	5	3			Ninja, Action, Attack	Combo						**Combo** - When this hits, if Crouching Tiger was the last attack this combat chain, deal 1 damage to each opposing hero.	Ninja Action - Attack				No	
 9CDHQQCrpWcFb7WnQPnJN	Mauvrion Skies	1	0		2			Runeblade, Action	Go again			Go again			"The next runeblade attack action card you play this turn gains **go again** and ""If this hits, create 3 Runechant tokens.""
 
@@ -4392,6 +4426,15 @@ DbKkp8BjFgtCBGjQCbwjH	Rapid Fire	2	0		2			Ranger, Action	Reload			Go again			"Un
 RCbbcgDkg87qdrBzwpRrD	Rapid Reflex	1	1		3			Ninja, Attack Reaction							Target attack action card with cost 0 gains +3{p}.	Ninja Attack Reaction				No	
 qJcckjdDhr8gK9nTnpTFC	Rapid Reflex	2	1		3			Ninja, Attack Reaction							Target attack action card with cost 0 gains +2{p}.	Ninja Attack Reaction				No	
 CKPhFMj8GJGRNdKrRnpzG	Rapid Reflex	3	1		3			Ninja, Attack Reaction							Target attack action card with cost 0 gains +1{p}.	Ninja Attack Reaction				No	
+KcrHDMhMgQNfzHwKnPDgt	Ratchet Up	1	1	5	2			Mechanologist, Action, Attack	Galvanize						"If an item you control has been destroyed this turn, action cards get -1{d} while defending this.
+
+**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
+FwdNLdm6dDRk6bjk9qwBQ	Ratchet Up	2	1	4	2			Mechanologist, Action, Attack	Galvanize						"If an item you control has been destroyed this turn, action cards get -1{d} while defending this.
+
+**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
+nwqRtHp9hhnB9RQgQLkpd	Ratchet Up	3	1	3	2			Mechanologist, Action, Attack	Galvanize						"If an item you control has been destroyed this turn, action cards get -1{d} while defending this.
+
+**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
 fQW6hh8zJtbjJrQMzjkpD	Rattle Bones	1	2		3			Runeblade, Action	Go again						"Banish target Runeblade attack action card from your graveyard. You may play it this turn.
 
 If you have dealt arcane damage to an opposing hero this turn, you may play Rattle Bones as though it were an instant.
@@ -4427,6 +4470,9 @@ N6gfwdhMGJKfG6mzt7RTL	Razor Reflex	3	1		2			Generic, Attack Reaction				Go again
 rpWjb6pnqgzTH7Cgcf98w	Razor's Edge	1	0		3			Assassin, Attack Reaction						Stealth	Target attack action card with **stealth** gains +3{p}.	Assassin Attack Reaction					
 mTdJmRRRjjqGBGbPHLcRq	Razor's Edge	2	0		3			Assassin, Attack Reaction						Stealth	Target attack action card with **stealth** gains +2{p}.	Assassin Attack Reaction					
 DzdfLNnTQbw7t99Bz8KqB	Razor's Edge	3	0		3			Assassin, Attack Reaction						Stealth	Target attack action card with **stealth** gains +1{p}.	Assassin Attack Reaction					
+zTMPPB7wDcRLDLpQjRBdR	Razzle Dazzle	1	1	4	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
+rfDKkpDcHbmmMK9w6nmnt	Razzle Dazzle	2	1	3	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
+LHFcqHMhT7L6wb8RFQd9k	Razzle Dazzle	3	1	2	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
 cmCpRmRbNLkdGzbfrJ6Gj	Re-Charge!	1	1		2			Mechanologist, Action	Go again					Boost	"Put a steam counter on a Hyper Driver you control.
 
 The next attack you **boost** this turn gets +4{p}.
@@ -5010,6 +5056,15 @@ When this attacks, if it **scrapped** a card, create a Quicken token."	Mechanolo
 LJtbJgTpWKcpwLmPRgDMr	Scrap Hopper	3	0	1	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
 
 When this attacks, if it **scrapped** a card, create a Quicken token."	Mechanologist Action - Attack				No	
+TnFgmkTHkFTnhCfDCtTwQ	Scrap Prospector	1	0	3	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it scrapped a card, gain {r}."	Mechanologist Action - Attack					
+q68ThQwdMntNzPqwkwhC7	Scrap Prospector	2	0	2	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it scrapped a card, gain {r}."	Mechanologist Action - Attack					
+w7tg6Pd8qbmgTCznmqtwM	Scrap Prospector	3	0	1	3			Mechanologist, Action, Attack	Scrap						"**Scrap**
+
+When this attacks, if it scrapped a card, gain {r}."	Mechanologist Action - Attack					
 CQpHCDTdJdmJgn8hGJrgq	Scrap Trader	1	0		2			Mechanologist, Action	Scrap						"**Scrap**
 
 **Scrap**
@@ -5360,6 +5415,7 @@ LhNtnmRzpc7mfbcgDcJk8	Sky Fire Lanterns	3	0		2			Runeblade, Action	Go again					
 QtbWQ6Lr8QmMRJHnpkB9L	Skybound Shot	1	1	5	3			Ranger, Action, Arrow, Attack							If Skybound Shot has an aim counter, it has +1{p}.	Ranger Action - Arrow Attack					
 kwFthgt77zLzFDmBw7k6W	Skybound Shot	2	1	4	3			Ranger, Action, Arrow, Attack							If Skybound Shot has an aim counter, it has +1{p}.	Ranger Action - Arrow Attack					
 kDkpNHC97jqcRDTr9CcCj	Skybound Shot	3	1	3	3			Ranger, Action, Arrow, Attack							If Skybound Shot has an aim counter, it has +1{p}.	Ranger Action - Arrow Attack					
+cdMqrK6rMMDTjHCwBMcqn	Slay	1	0					Shadow, Instant							Destroy target angel ally.	Shadow Instant				No	
 cM7zthPFbLMJ6KQQmB6P9	Slay the Scholars	1	0	4	3			Assassin, Action, Attack	Contract						"**Contract** - You are contracted to banish opponents' 'non-attack' action cards. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."	Assassin Action - Attack					
@@ -5994,6 +6050,9 @@ hwnbrjRKLGTmzF8wf6QDH	Tearing Shuko				1			Ninja, Equipment, Arms	Battleworn	Ins
 TN6DmN7GK9DtMKd9pnmwF	Tectonic Plating				2			Guardian, Equipment, Chest	Battleworn						"**Once per turn Action** - {r}: Create a Seismic Surge aura token. **Go again**
 
 **Battleworn**"	Guardian Equipment - Chest				No	
+69TdTgmPz69bNLRWPHLpK	Tectonic Rift	3	X		2			Guardian, Action	Go again						"Create X Seismic Surge tokens.
+
+**Go again**"	Guardian Action				No	
 ddc8cKjhFDgfDQqdpcRjB	Teklo Base Arms				1			Mechanologist, Equipment, Base, Arms	Blade Break						**Blade Break**	Mechanologist Equipment - Base Arms					
 LHBn8grtppJpC8gBmzfrd	Teklo Base Chest				1			Mechanologist, Equipment, Base, Chest	Blade Break						**Blade Break**	Mechanologist Equipment - Base Chest					
 DkcTJhjgpTcfrhDFffL6q	Teklo Base Head				1			Mechanologist, Equipment, Base, Head	Blade Break						**Blade Break**	Mechanologist Equipment - Base Head					
@@ -6298,6 +6357,12 @@ hcrwmGkbzW8zBft77cKpj	Twinning Blade	2	0		3			Warrior, Attack Reaction							You
 gmR7DG76HhtdgwwTqQngT	Under Loop	1	1	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
 When this hits, put it on the bottom of its owner's deck."	Mechanologist Action - Attack				Yes	
+pTpGTC8NqrJwRnMwqh6zR	Under Loop	2	1	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+When this hits, put it on the bottom of its owner's deck."	Mechanologist Action - Attack					
+tkh7Bb7tfHCfKPfMLchCP	Under Loop	3	1	2	3			Mechanologist, Action, Attack	Boost						"**Boost**
+
+When this hits, put it on the bottom of its owner's deck."	Mechanologist Action - Attack					
 MwMJK9DPnDgKBfjFTFmCW	Unhallowed Rites	1	1	4	3			Shadow, Runeblade, Action, Attack	Blood Debt					Blood Debt	"If you have played a 'non-attack' action card this turn, you may play Unhallowed Rites from your banished zone.
 
 You may put a 'non-attack' action card with blood debt from your graveyard on the bottom of your deck.
@@ -6743,6 +6808,9 @@ Whenever your hero would be dealt damage, prevent 1 damage that source would dea
 DC8RfMDzMnthBkWJgmWpQ	Zephyr Needle			2				Ninja, Weapon, Dagger, 1H		Once per Turn Action	Attack, Go again				"**Once per Turn Action** - {r}: **Attack**. **Go again**
 
 When Zephyr Needle is defended by a card with {d} greater than Zephyr Needle's {p}, destroy it when the combat chain closes."	Ninja Weapon - Dagger (1H)					
+WqmtQLDg96n6JTbjD8gjz	Zero to Fifty	1	0	3	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
+q7QqrKP8wnWdwdptDwHfP	Zero to Fifty	2	0	2	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
+Lc6zkNgRMkjHkLptqBMmF	Zero to Fifty	3	0	1	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
 FgPpQpjMRLqL88FKhFPq6	Zero to Sixty	1	0	4	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
 BrHCD9dtfmWcwwRGg7PMj	Zero to Sixty	2	0	3	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
 wKJrpKpFH8hPhtRrgqKCn	Zero to Sixty	3	0	2	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
