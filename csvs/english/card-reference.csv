@@ -1,22 +1,4 @@
 Card Unique ID	Card Name	Card Pitch	Referenced Card Unique ID	Referenced Card Name	Referenced Card Pitch
-tGhCtnrQTn8KtcmnJdqmq	Evo Atom Breaker	1	kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
-tGhCtnrQTn8KtcmnJdqmq	Evo Atom Breaker	1	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
-tGhCtnrQTn8KtcmnJdqmq	Evo Atom Breaker	1	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
-tGhCtnrQTn8KtcmnJdqmq	Evo Atom Breaker	1	FwwCqJKcNDNMjJn9mTCgg	Hyper Driver	
-hNkCtbWQNhtGkb77cFzhF	Evo Circut Breaker	1	kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
-hNkCtbWQNhtGkb77cFzhF	Evo Circut Breaker	1	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
-hNkCtbWQNhtGkb77cFzhF	Evo Circut Breaker	1	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
-hNkCtbWQNhtGkb77cFzhF	Evo Circut Breaker	1	FwwCqJKcNDNMjJn9mTCgg	Hyper Driver	
-qR9dqP7WCqkzp69ctCNcp	Evo Face Breaker	1	kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
-qR9dqP7WCqkzp69ctCNcp	Evo Face Breaker	1	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
-qR9dqP7WCqkzp69ctCNcp	Evo Face Breaker	1	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
-qR9dqP7WCqkzp69ctCNcp	Evo Face Breaker	1	FwwCqJKcNDNMjJn9mTCgg	Hyper Driver	
-LHkFKd9GfdqN7cR6PgPQG	Evo Mach Breaker	1	kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
-LHkFKd9GfdqN7cR6PgPQG	Evo Mach Breaker	1	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
-LHkFKd9GfdqN7cR6PgPQG	Evo Mach Breaker	1	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
-LHkFKd9GfdqN7cR6PgPQG	Evo Mach Breaker	1	FwwCqJKcNDNMjJn9mTCgg	Hyper Driver	
-LHkFKd9GfdqN7cR6PgPQG	Evo Mach Breaker	1	cDpMQnr8LwPFGMdgffNb8	Quicken	
-PzB6NcbhjdFqq7QBgTLgg	Evo Charging Rods	2	cDpMQnr8LwPFGMdgffNb8	Quicken	
 KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement	2	n9r77QwMzdWJmnfhPLN9J	Shiyana, Diamond Gemini	
 nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement		jKhMgndCGwjzKLHQMM7Cj	Eloquence	
@@ -607,7 +589,25 @@ CnzHmjrhb7TTzGJppkpfc	Eradicate	2	TNJz9fCgqmhhLz9rP9tkt	Silver
 WQQFCnb8FKJn9HrzCNDmG	Even Bigger Than That!	1	cDpMQnr8LwPFGMdgffNb8	Quicken	
 QbtQ6rBPTTD99TNC7PGRM	Even Bigger Than That!	2	cDpMQnr8LwPFGMdgffNb8	Quicken	
 LDCrQmNm8bFk8wcCJ6pj9	Even Bigger Than That!	3	cDpMQnr8LwPFGMdgffNb8	Quicken	
+tGhCtnrQTn8KtcmnJdqmq	Evo Atom Breaker	1	kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
+tGhCtnrQTn8KtcmnJdqmq	Evo Atom Breaker	1	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
+tGhCtnrQTn8KtcmnJdqmq	Evo Atom Breaker	1	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
+tGhCtnrQTn8KtcmnJdqmq	Evo Atom Breaker	1	FwwCqJKcNDNMjJn9mTCgg	Hyper Driver	
+PzB6NcbhjdFqq7QBgTLgg	Evo Charging Rods	2	cDpMQnr8LwPFGMdgffNb8	Quicken	
+hNkCtbWQNhtGkb77cFzhF	Evo Circut Breaker	1	kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
+hNkCtbWQNhtGkb77cFzhF	Evo Circut Breaker	1	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
+hNkCtbWQNhtGkb77cFzhF	Evo Circut Breaker	1	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
+hNkCtbWQNhtGkb77cFzhF	Evo Circut Breaker	1	FwwCqJKcNDNMjJn9mTCgg	Hyper Driver	
 6B8TGFRbgK6dQQLKfP8qD	Evo Energy Matrix		fwNFw9pTWMpgz8t9dCgMD	Teklo Blaster	
+qR9dqP7WCqkzp69ctCNcp	Evo Face Breaker	1	kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
+qR9dqP7WCqkzp69ctCNcp	Evo Face Breaker	1	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
+qR9dqP7WCqkzp69ctCNcp	Evo Face Breaker	1	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
+qR9dqP7WCqkzp69ctCNcp	Evo Face Breaker	1	FwwCqJKcNDNMjJn9mTCgg	Hyper Driver	
+LHkFKd9GfdqN7cR6PgPQG	Evo Mach Breaker	1	kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
+LHkFKd9GfdqN7cR6PgPQG	Evo Mach Breaker	1	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
+LHkFKd9GfdqN7cR6PgPQG	Evo Mach Breaker	1	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
+LHkFKd9GfdqN7cR6PgPQG	Evo Mach Breaker	1	FwwCqJKcNDNMjJn9mTCgg	Hyper Driver	
+LHkFKd9GfdqN7cR6PgPQG	Evo Mach Breaker	1	cDpMQnr8LwPFGMdgffNb8	Quicken	
 RMcmPNFfqQp6rpn6dkJ9H	Evo Rapid Fire		fwNFw9pTWMpgz8t9dCgMD	Teklo Blaster	
 CJ9PkdfKF78Khqf88zDmM	Evo Scatter Shot		fwNFw9pTWMpgz8t9dCgMD	Teklo Blaster	
 qCj8gpDLNQpKTNfhM8jbL	Evo Tekloscope		fwNFw9pTWMpgz8t9dCgMD	Teklo Blaster	
@@ -875,12 +875,12 @@ tqBKqzRbFHWtBLQ7hhDgW	Maxx 'The Hype' Nitro		zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	
 tqBKqzRbFHWtBLQ7hhDgW	Maxx 'The Hype' Nitro		chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
 tqBKqzRbFHWtBLQ7hhDgW	Maxx 'The Hype' Nitro		FwwCqJKcNDNMjJn9mTCgg	Hyper Driver	
 z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro		kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
-z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro		zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
-z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro		chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
-z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro		FwwCqJKcNDNMjJn9mTCgg	Hyper Driver	
 z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro		kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
 z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro		zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
+z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro		zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
 z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro		chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
+z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro		chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
+z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro		FwwCqJKcNDNMjJn9mTCgg	Hyper Driver	
 z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro		FwwCqJKcNDNMjJn9mTCgg	Hyper Driver	
 rpF86BNmBttKMGpckqJnq	Meat and Greet	1	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 7cFGrC8JzLcFjRzJ8fnWH	Meat and Greet	2	zfrHQjbPkpBmdQGrWcTMB	Runechant	
@@ -1194,6 +1194,10 @@ gCgcRpmr76G6zmFgpprRw	Silver Palms		TNJz9fCgqmhhLz9rP9tkt	Silver
 Crtn9djMPnRdwjKnhWRpk	Singing Steelblade	2	KGqRPDfRrnPqdj7Cm76fr	Dorinthea	
 Crtn9djMPnRdwjKnhWRpk	Singing Steelblade	2	Djhg6DMpCpFHD9rcPNFrN	Dorinthea Ironsong	
 Crtn9djMPnRdwjKnhWRpk	Singing Steelblade	2	NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy	
+67zdgKFWD7qzcPppbRHNB	Singularity	1	BLCMLHnwnbRKbdhPJ9DQp	Professor Teklovossen	
+67zdgKFWD7qzcPppbRHNB	Singularity	1	6PPFnJ8tNtPKN6Km7NWpp	Teklovossen	
+67zdgKFWD7qzcPppbRHNB	Singularity	1	ndKnMFtcDt8JmPFD6bfbk	Teklovossen, Esteemed Magnate	
+67zdgKFWD7qzcPppbRHNB	Singularity	1	BRpMLJdMBPgfJNJLJWDFg	Teklovossen, the Mechropotent	
 cjk6KqfdDWCF6pLdpQFdj	Skittering Sands	1	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing	
 RDkP9CqzbwDGJmTg7hrp7	Skittering Sands	2	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing	
 Q7JLckkNhtBmRQBKRqnJM	Skittering Sands	3	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing	
@@ -1217,9 +1221,9 @@ G8kbQ7Q6wgqdrcQgLGQpP	Soul Harvest	3	KCwnGqDJtnmJfth7fn8Qq	Levia, Shadowborn Abo
 wbTGmgDqLtMmbDgcPzCmJ	Soul Reaping	1	mCCnJrJQkqJ7KfqKNHGnc	Chane	
 wbTGmgDqLtMmbDgcPzCmJ	Soul Reaping	1	MhBTRHCCft7RbrMmkwwGw	Chane, Bound by Shadow	
 tqpr9PgWLMcrmggBmfL9B	Spark of Genius	2	kftPnNkrBLJ7rPmFGgQCm	Dash	
+tqpr9PgWLMcrmggBmfL9B	Spark of Genius	2	LkqQpr7QL8KpnqMh7dHpR	Dash I/O	
 tqpr9PgWLMcrmggBmfL9B	Spark of Genius	2	N6TDqDNWfKfrz6G6jNrQQ	Dash, Database	
 tqpr9PgWLMcrmggBmfL9B	Spark of Genius	2	6CcjWGnThrTmTQFQ9zHMN	Dash, Inventor Extraordinaire	
-tqpr9PgWLMcrmggBmfL9B	Spark of Genius	2	LkqQpr7QL8KpnqMh7dHpR	Dash I/O	
 qt6KzpDJ8JKfc9wNzgbmW	Spectral Possession	1	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 dW7KzrHdpwqwffrfBbQbq	Spectral Prowler	1	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 pKQkqkQhCrTkJtgCHH768	Spectral Prowler	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
@@ -1292,9 +1296,9 @@ NgdLmcdGCGFwQG98dqGwB	Sweeping Blow	3	G6CnbFqjfGgKqqqmnCbMh	Ash
 9Hp7c9HFRmwLFQ7WtKd86	Swell Tidings	1	HpWqFJW8ftTDdzCLK9RkD	Ponder	
 jPMgW9kwNF8Cj69gwJntt	Swing Big	1	cDpMQnr8LwPFGMdgffNb8	Quicken	
 tPW6ffbwKnNCWf9hKLKTN	Symbiosis Shot		kftPnNkrBLJ7rPmFGgQCm	Dash	
+tPW6ffbwKnNCWf9hKLKTN	Symbiosis Shot		LkqQpr7QL8KpnqMh7dHpR	Dash I/O	
 tPW6ffbwKnNCWf9hKLKTN	Symbiosis Shot		N6TDqDNWfKfrz6G6jNrQQ	Dash, Database	
 tPW6ffbwKnNCWf9hKLKTN	Symbiosis Shot		6CcjWGnThrTmTQFQ9zHMN	Dash, Inventor Extraordinaire	
-tPW6ffbwKnNCWf9hKLKTN	Symbiosis Shot		LkqQpr7QL8KpnqMh7dHpR	Dash I/O	
 zbnpfqW7d6CqN9wT8Dcft	Tales of Adventure	3	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing	
 zbnpfqW7d6CqN9wT8Dcft	Tales of Adventure	3	gzDGmdfm6gHWctgrcgfKf	Copper	
 zbnpfqW7d6CqN9wT8Dcft	Tales of Adventure	3	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth	
@@ -1311,9 +1315,9 @@ zbnpfqW7d6CqN9wT8Dcft	Tales of Adventure	3	nrMg9kDMg9KwBPPtJLJph	Yorick, Weaver 
 zbnpfqW7d6CqN9wT8Dcft	Tales of Adventure	3	HhTPF8HGRqhFbTT8HnBBh	Zen State	
 TN6DmN7GK9DtMKd9pnmwF	Tectonic Plating		Rf8CHpzmhJNppCtDDKWDm	Seismic Surge	
 WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	kftPnNkrBLJ7rPmFGgQCm	Dash	
+WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	LkqQpr7QL8KpnqMh7dHpR	Dash I/O	
 WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	N6TDqDNWfKfrz6G6jNrQQ	Dash, Database	
 WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	6CcjWGnThrTmTQFQ9zHMN	Dash, Inventor Extraordinaire	
-WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	LkqQpr7QL8KpnqMh7dHpR	Dash I/O	
 dJCRQcRmp7mhMTNDRgFN8	Thaw	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 gftbNkkj9bNCBFRpnbdtq	Tiger Eye Reflex		fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
 6tj9kHRWLHbCbF6mG6tDh	Tiger Eye Reflex		fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	

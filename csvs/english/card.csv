@@ -3510,7 +3510,7 @@ qgBwpjpHqRJFddcwwbCK8	Mauvrion Skies	2	0		2			Runeblade, Action	Go again			Go ag
 tpCTjhFnCPJKBbPbRnFLM	Mauvrion Skies	3	0		2			Runeblade, Action	Go again			Go again			"The next runeblade attack action card you play this turn gains **go again** and ""If this hits, create a Runechant token.""
 
 **Go again**"	Runeblade Action				No	
-mkDw7d9PKRDtJT7bCCRjh	Maximum Velocity	1	2	10	3			Mechanologist, Action, Attack						Boost	Play Maximum Velocity only if you have **boosted** 3 or more times this turn.	Mechanologist Action - Attack				No	
+mkDw7d9PKRDtJT7bCCRjh	Maximum Velocity	1	2	10	3			Mechanologist, Action, Attack						Boost	Play this only if you've **boosted** 3 or more times this turn.	Mechanologist Action - Attack				No	
 tqBKqzRbFHWtBLQ7hhDgW	Maxx 'The Hype' Nitro					40	4	Mechanologist, Hero		Once Per Turn Action		Crank		Boost	"**Once per Turn Action** - {r}{r}: Create a Hyper Driver token with 2 steam counters.  Activate this ability only if you've **boosted** this turn.
 
 Hyper Drivers you control get **crank**."	Mechanologist Hero		No		No	
@@ -3978,6 +3978,11 @@ dPbDhHRWLfGK8tDtRNmHg	Phantasmify	2	1		2			Illusionist, Action	Go again			Phanta
 cFhn8KcQF7jhzkgPfCQRn	Phantasmify	3	1		2			Illusionist, Action	Go again			Phantasm			"The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +3{p} and **phantasm**.
 
 **Go again**"	Illusionist Action				No	
+NBLbpCJJdNCtpKQndQ6nL	Phantom Tidemaw	3	0					Illusionist, Instant, Aura	Phantasm, Ward 1						"Whenever an Illusionist card you control is destroyed, put a +1{p} counter on this.
+
+**Phantasm**
+
+**Ward 1**"	Illusionist Instant - Aura				No	
 kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1	0	0				Draconic, Action, Attack	Go again						"*(A player may add up to 3 Phoenix Flame to their deck in an Uprising limited format.)*
 
 If you control 2 or more Draconic chain links, Phoenix Flame has +1{p}.
@@ -5377,6 +5382,9 @@ Crtn9djMPnRdwjKnhWRpk	Singing Steelblade	2	1		3			Warrior, Attack Reaction	Dorin
 Target weapon attack gains +1{p}.
 
 **Reprise** - If the defending hero has defended with a card from hand this chain link, search your deck for an attack reaction card, banish it face up, then shuffle your deck. You may play it this chain link."	Warrior Attack Reaction				No	
+67zdgKFWD7qzcPppbRHNB	Singularity	1	6		3			Mechanologist, Action, Construct	Transform, Legendary, Teklovossen Specialization						"**Legendary Teklovossen Specialization**
+
+**Transform** your hero, your weapon, and 4 Evos you have equipped into Teklovossen, the Mechropotent. It enters the arena with {h} equal to the hero it transformed from."	Mechanologist Action - Construct				No	
 LfddJTKKb9HwPzHMBH9w9	Sink Below	1	0		4			Generic, Defense Reaction							You may put a card from your hand on the bottom of your deck. If you do, draw a card.	Generic Defense Reaction					
 7RzTp9JnTprz6fjnhRJLM	Sink Below	2	0		3			Generic, Defense Reaction							You may put a card from your hand on the bottom of your deck. If you do, draw a card.	Generic Defense Reaction					
 bHRdHqLRCthfzcrffPNQH	Sink Below	3	0		2			Generic, Defense Reaction							You may put a card from your hand on the bottom of your deck. If you do, draw a card.	Generic Defense Reaction					
@@ -6063,7 +6071,7 @@ WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	0					Mechanologist, Action, Item	Dash Specia
 Teklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.
 
 At the beginning of your action phase, remove a steam counter from Teklo Core and gain {r}{r}."	Mechanologist Action - Item				No	
-tBqFrtGcBNQt7GnMFTPPB	Teklo Foundry Heart				2			Mechanologist, Equipment, Chest	Battleworn	Once per Turn Action	Go again			Boost	"**Once per Turn Action** - {r}: Banish the top 2 cards of your deck. Gain {r} for each Mechanologist card banished this way. Activate this ability only if you have **boosted** this turn. **Go again**
+tBqFrtGcBNQt7GnMFTPPB	Teklo Foundry Heart				2			Mechanologist, Equipment, Chest	Battleworn	Once per Turn Action	Go again			Boost	"**Once per Turn Action** - {r}: Banish the top 2 cards of your deck. Gain {r} for each Mechanologist card banished this way. Activate this ability only if you've **boosted** this turn. **Go again**
 
 **Battleworn**"	Mechanologist Equipment - Chest				No	
 JR8LzTchKj8QmqkCN7GHw	Teklo Leveler			2				Mechanologist, Weapon, Gun, 2H		Once per Turn Action	Attack, Go again				"If you have 1 or more Evos equipped, this gets ""**Once per Turn Action** - {r}{r}{r}: **Attack**,""
