@@ -5771,7 +5771,7 @@ zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	7	10	3			Guardian, Action, Attack	Bravo Spec
 **Crush** - When this deals 4 or more damage to a hero, the only attacks they may play or activate during their next turn are attacks with base {p} greater than the damage dealt this way.
 
 **Unity** - When this defends together with a card from hand, create a Seismic Surge token under any number of heroes' control."	Guardian Action - Attack				No	
-fdQ8rf8W6d7KgDhprdm9k	Stasis Cell	3	0					Mechanologist, Action, Item	Crank	Action	Go again				"When this enters or leaves the arena, activated abilities of target equipment can't be activated until the end of its controller's next turn.
+fdQ8rf8W6d7KgDhprdm9k	Stasis Cell	3	0					Mechanologist, Action, Item		Action	Go again				"When this enters or leaves the arena, activated abilities of target equipment can't be activated until the end of its controller's next turn.
 
 **Action** - Put this on the bottom of its owner's deck: Choose an equipment. It can't defend this turn. **Go again**"	Mechanologist Action - Item				No	
 QWftpgJpG9fHpC9MdjzKP	Staunch Response	1	2		7			Guardian, Defense Reaction							As an additional cost to play Staunch Response you may pay {r}{r}{r}{r}. If you do, Staunch Response gains +3{d}.	Guardian Defense Reaction				No	
