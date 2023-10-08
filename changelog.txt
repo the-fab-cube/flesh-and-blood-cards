@@ -511,7 +511,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card images for 1HP336, DYN121 (EA), DYN175 (EA), EVR017 (FA), and FAB136
 
 10-07-23:
-- Added card data for EVO and TCC - data entry assistance credit: Darth_Prentiss, OverkillAJ, Stingray, manwaring, Firecrest, BearLeePlays, hoodwill, Mofte, Dihimono, Tetsuo, Blasmophet
+- Added card data for EVO and TCC - data entry assistance credit: BearLeePlays, Blasmophet, Darth_Prentiss, Dihimono, Firecrest, hoodwill, manwaring, Mofte, OverkillAJ, Stingray, Tetsuo
 - Added card data for FAB168-FAB177, HER097-HER099, HER103, LGS212-LGS226, and WIN025-WIN027
 - Updated images for LGS169-LGS172 and LGS190-LGS193
 - Updated functional text for Bittering Thorns, Blessing of Qi, Chokeslam, Coax a Commotion, Copper, Cranial Crush, Crankshaft, Disable, Energy Potion, Flying Kick, Fyendal's Spring Tunic, Healing Potion, Hyper Driver, Jump Start, Life of the Party, Maximum Velocity, Over Loop, Potion of Strength, Pouncing Qi, Quicken, Salt the Wound, Tearing Shuko, Teklo Foundry Heart, and Timesnap Potion
