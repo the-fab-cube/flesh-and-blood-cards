@@ -1,5 +1,11 @@
 [
     {
+        "unique_id": "Fh696f9wpcPgwgpgg8d9j",
+        "name": "Ambush",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "77JKJwz6k8BRrGbmRDPTT",
         "name": "Arcane Barrier X",
         "description": "If you would be dealt arcane damage you may pay X{r} instead to prevent X arcane damage that source will deal.",
@@ -66,6 +72,12 @@
         "description_plain": "When a player is contracted, they are given a set of instructions to complete. If they perform those instructions, they are considered to have completed the contract."
     },
     {
+        "unique_id": "C66q6GppkfMfbdB8KkhJN",
+        "name": "Crank",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "rG7F9GkDcmwNMczRbtwhL",
         "name": "Crush",
         "description": "A Guardian mechanic that showcases the strength of the guardian. When an attack with **crush** deals 4 or more damage to a hero, an effect is applied.",
@@ -90,6 +102,12 @@
         "description_plain": "Essence is a keyword that exists on Elemental hero cards showing what Elements that hero specializes in and what Element cards can be included in the deck."
     },
     {
+        "unique_id": "wcg8K8J7frtBp89w7P6gm",
+        "name": "Evo Upgrade",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "g6BD6HNFJBRDDdwD9kBWK",
         "name": "Freeze",
         "description": "A **frozen** object can't be played or activated.",
@@ -100,6 +118,12 @@
         "name": "Fusion",
         "description": "**Fusion** is a keyword that **fuses** one or more elements with an elemental card to give an additional effect.",
         "description_plain": "Fusion is a keyword that fuses one or more elements with an elemental card to give an additional effect."
+    },
+    {
+        "unique_id": "jrGkNBJRdJDK9BPp7qGbf",
+        "name": "Galvanize",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "mmf6BdTtrbCGrhdhg8K9g",
@@ -134,6 +158,12 @@
     {
         "unique_id": "jTtHPbKjwLkkDhRQHpWnK",
         "name": "Mirage",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "N6njwjtbdnp8c7RCgPng8",
+        "name": "Modular",
         "description": "",
         "description_plain": ""
     },
@@ -174,6 +204,12 @@
         "description_plain": "If this is defended by an equipment, it has +X{p}."
     },
     {
+        "unique_id": "LNcJ8JT8MtHcJkwtHtmm9",
+        "name": "Protect",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "BrB9ww8W6WgHnWGFzFzqd",
         "name": "Quell X",
         "description": "If your hero would be dealt damage, you may pay X{r} to prevent X of that damage. If you do, destroy this at the beginning of the end phase.",
@@ -202,6 +238,12 @@
         "name": "Rupture",
         "description": "A Draconic mechanic that applies certain effects if the card is played at chain link 4 or higher.",
         "description_plain": "A Draconic mechanic that applies certain effects if the card is played at chain link 4 or higher."
+    },
+    {
+        "unique_id": "bbpQG8LjWGCDk7GDzf686",
+        "name": "Scrap",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "8mqHH6LQfddFgnbbm8pLp",
@@ -238,6 +280,12 @@
         "name": "Temper",
         "description": "**Temper** is a keyword that exists on equipment. Usually high in defense, **Temper** equipment presents a choice when it is down to 1{d}, of whether to defend with it one last time and see it destroyed, or save it to use for its ability.",
         "description_plain": "Temper is a keyword that exists on equipment. Usually high in defense, Temper equipment presents a choice when it is down to 1{d}, of whether to defend with it one last time and see it destroyed, or save it to use for its ability."
+    },
+    {
+        "unique_id": "LwJpTqDGKM96gQzcKwW76",
+        "name": "Tower",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "hGzPP7bNMQJWNJ8QzQhDQ",
