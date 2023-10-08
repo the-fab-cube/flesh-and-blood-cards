@@ -64,6 +64,14 @@
         "name": "Bard"
     },
     {
+        "unique_id": "NnGCkGMQcnkBjHrcQRKHr",
+        "name": "Base"
+    },
+    {
+        "unique_id": "FkBpwWG8pfCrNFQGm8dtM",
+        "name": "Block"
+    },
+    {
         "unique_id": "KNJrMrb9HkWffrRC9tK98",
         "name": "Book"
     },
@@ -126,6 +134,10 @@
     {
         "unique_id": "NGBgjq76Q7GHNH9P9nHgM",
         "name": "Equipment"
+    },
+    {
+        "unique_id": "JJWPzmkGQhHNMqMn77rkm",
+        "name": "Fiddle"
     },
     {
         "unique_id": "QtLkb7CJCKTtgzrn7tb6N",
@@ -278,6 +290,10 @@
     {
         "unique_id": "LFkWktbnhfjKm6MFWJJJr",
         "name": "Shuriken"
+    },
+    {
+        "unique_id": "DCzN7qCMFqRDFGN7GGB87",
+        "name": "Song"
     },
     {
         "unique_id": "kK6NKKTFHQnmBJFFpFGgT",

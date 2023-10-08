@@ -222,5 +222,29 @@
         "date_announced": "2023-05-04T00:00:00.000Z",
         "date_in_effect": "2023-05-05T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/articles/banned-suspended-may-2023/"
+    },
+    {
+        "unique_id": "J9GCWBbh9PtGWD6tPtp96",
+        "card_unique_id": "9bQFfTFGQWJFWrcJnfQgz",
+        "status_active": true,
+        "date_announced": "2023-08-16T00:00:00.000Z",
+        "date_in_effect": "2023-08-16T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/official-blitz-update/"
+    },
+    {
+        "unique_id": "TLWT6CJndzLkKQT6JD6fK",
+        "card_unique_id": "Nhmj8MBNCmWFC68JkhkNC",
+        "status_active": true,
+        "date_announced": "2023-08-16T00:00:00.000Z",
+        "date_in_effect": "2023-08-16T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/official-blitz-update/"
+    },
+    {
+        "unique_id": "WhfJz6q6jggWk7zfJQ9dg",
+        "card_unique_id": "hJt6FwT8mhQbcWQLzgHMT",
+        "status_active": true,
+        "date_announced": "2023-08-16T00:00:00.000Z",
+        "date_in_effect": "2023-08-16T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/official-blitz-update/"
     }
 ]
