@@ -317,9 +317,9 @@ When this hits a hero, put a steam counter on an item you control with **crank**
 PtBr9hn97WqBzgMqNHzFp	Banneret of Courage	2	1	4	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, create a Courage token.	Light Warrior Action - Attack				No	
 MT7rdNFQjRncfm9DzmLdH	Banneret of Gallantry	2	1	4	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, create a Quicken token.	Light Warrior Action - Attack				No	
 Hkdtj7NWwgjL9znCjwM9M	Banneret of Protection	2	1	4	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, create a Spellbane Aegis token.	Light Warrior Action - Attack				No	
-BJNg8JCdrjgzCwM6N8786	Banneret of Resilience	2	0	3	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, the next action card you defend with this turn gets +1{d}.	Light Warrior Action - Attack					
-H7rF9J86RzTp6dbPjmMRm	Banneret of Salvation	2	0	3	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, the next time you hit this turn, gain 1{h}.	Light Warrior Action - Attack					
-CnQgknqjtfWWqnwKNCWHk	Banneret of Vigor	2	0	3	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, the next time you hit this turn, gain {r}.	Light Warrior Action - Attack					
+BJNg8JCdrjgzCwM6N8786	Banneret of Resilience	2	0	3	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, the next action card you defend with this turn gets +1{d}.	Light Warrior Action - Attack				No	
+H7rF9J86RzTp6dbPjmMRm	Banneret of Salvation	2	0	3	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, the next time you hit this turn, gain 1{h}.	Light Warrior Action - Attack				No	
+CnQgknqjtfWWqnwKNCWHk	Banneret of Vigor	2	0	3	3			Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, the next time you hit this turn, gain {r}.	Light Warrior Action - Attack				No	
 jPfMCnKDptNbCbp6T96dT	Barbed Castaway							Ranger, Weapon, Bow, 2H	Once per Turn Instant						"**Once per Turn Instant** - {r}: You may put an arrow card from your hand face up into your arsenal.
 
 **Once per Turn Instant** - {r}: You may turn a face down arrow in your arsenal face up. If you do, put an aim counter on it."	Ranger Weapon - Bow (2H)					
@@ -947,9 +947,9 @@ BJtgTRQQmrbDwrGQMmqm6	Celestial Kimono							Illusionist, Equipment, Chest	Ward 
 6RMJpmJnGGNQdHFMnJKcD	Celestial Reprimand	1	0					Light, Illusionist, Instant							Target card defending an attack with Herald in its name gets -3{p} this combat chain.	Light Illusionist Instant					
 HNGR7BRBnbGMpLd69QG68	Celestial Reprimand	2	0					Light, Illusionist, Instant							Target card defending an attack with Herald in its name gets -2{p} this combat chain.	Light Illusionist Instant					
 CKwppWjqB6NhjDKqcgPjM	Celestial Reprimand	3	0					Light, Illusionist, Instant							Target card defending an attack with Herald in its name gets -1{p} this combat chain.	Light Illusionist Instant					
-JMgPdnR9tCMwwHnMbFDkk	Celestial Resolve	1	0					Light, Illusionist, Instant							Target attack action card with Herald in it's name gets +5{d}.	Light Illusionist Instant					
-nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	0					Light, Illusionist, Instant							Target attack action card with Herald in it's name gets +4{d}.	Light Illusionist Instant					
-mPqMgTrrpbgkWPFBDwwzQ	Celestial Resolve	3	0					Light, Illusionist, Instant							Target attack action card with Herald in it's name gets +3{d}.	Light Illusionist Instant					
+JMgPdnR9tCMwwHnMbFDkk	Celestial Resolve	1	0					Light, Illusionist, Instant							Target attack action card with Herald in its name gets +5{d}.	Light Illusionist Instant					
+nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	0					Light, Illusionist, Instant							Target attack action card with Herald in its name gets +4{d}.	Light Illusionist Instant					
+mPqMgTrrpbgkWPFBDwwzQ	Celestial Resolve	3	0					Light, Illusionist, Instant							Target attack action card with Herald in its name gets +3{d}.	Light Illusionist Instant					
 gNqK8KBP7kPKcnpWrmq8p	Censor	1	1	5	3			Generic, Action, Attack							When this hits a hero, name a card. They can't play the named card until the end of their next turn.	Generic Action - Attack				No	
 bBtWcpCjGqkMMkwqwgtRT	Chain Lightning	2	1		3			Wizard, Action							"You may play your next Wizard 'non-attack' action card this turn as though it were an instant.
 
@@ -1453,7 +1453,7 @@ Ckct9HBQDcCqzRKpnLKRR	Demolition Crew	2	2	5	2			Generic, Action, Attack	Dominate
 MrNgmfGDfJmF6rcLbFcrm	Demolition Crew	3	2	4	2			Generic, Action, Attack	Dominate						"As an additional cost to play Demolition Crew, reveal a card in your hand with cost 2 or greater.
 
 **Dominate**"	Generic Action - Attack					
-MWfDtTFgd8f8zNzQgDJjt	Demolition Protocol	1	3	7	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - When this attacks a hero, remove all steam counters from up to X equipment, items, and/or weapons they control, where X is the number of Evos you have equipped.	Mechanologist Action				No	
+MWfDtTFgd8f8zNzQgDJjt	Demolition Protocol	1	3	7	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - When this attacks a hero, remove all steam counters from up to X equipment, items, and/or weapons they control, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
 ppcfhRgNk9GH8QWRpMbdt	Descendent Gustwave	1	1	3	2			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, this costs {r} less to play and has +2{p}.
 
 **Go again**"	Ninja Action - Attack					
@@ -1704,7 +1704,7 @@ At the beginning of your end phase, if you haven't played an attack action card 
 w9NMmfttRBHm6fwjHhQbk	Dust Runner Outlaw	1	1	4	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
 m6TdpWNzf8mTDPrMNbN9q	Dust Runner Outlaw	2	1	3	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
 JjcbfdJBzNznwtrHkDN98	Dust Runner Outlaw	3	1	2	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
-KLL7GmCb6Pb9bQqmbm7Nw	Dust from the Chrome Caverns	1	0		3			Draconic, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Cromai, that permanent has **phantasm**.	Draconic Action - Ash				No	
+KLL7GmCb6Pb9bQqmbm7Nw	Dust from the Chrome Caverns	1	0		3			Draconic, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Cromai, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
 KfcLhpjL6Jc6Mr8WTQMdn	Dust from the Golden Plains	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Themai, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
 Gq8F9nHbQ6N8rrPzdhJzn	Dust from the Red Desert	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Vynserakai, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
 zKQg9cTc7WMNdRbq6pwRk	Dust from the Shadow Crypts	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Nekria, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
@@ -2012,7 +2012,7 @@ JnqPMkpqMBFTQhb7RBqdJ	Evo Data Mine	2	0		2			Mechanologist, Action, Equipment, E
 
 Your Teklo Blaster costs {r} less to activate for each opposing hero.
 
-**Battleworn**"	Mechanologist Action Equipment - Evo Chest					
+**Battleworn**"	Mechanologist Action Equipment - Evo Chest				No	
 DpRWWLNTqjtBtjMjpnm7J	Evo Engine Room	2	3		3			Mechanologist, Action, Equipment, Evo, Chest	Transform, Blade Break	Once per Turn Instant					"If you have a base chest equipped, **transform** it into this, then equip this.
 
 **Once per Turn Instant** - Destroy a card under this: Your next weapon attack this turn costs {r} less to activate.
@@ -2028,22 +2028,22 @@ RMcmPNFfqQp6rpn6dkJ9H	Evo Rapid Fire	3	3		2			Mechanologist, Action, Equipment, 
 
 Your Teklo Blaster attacks get **go again**.
 
-**Battleworn**"	Mechanologist Action Equipment - Evo Legs					
+**Battleworn**"	Mechanologist Action Equipment - Evo Legs				No	
 CJ9PkdfKF78Khqf88zDmM	Evo Scatter Shot	3	3		2			Mechanologist, Action, Equipment, Evo, Arms	Transform, Battleworn						"If you have a base arms equipped, **transform** it into this, then equip this.
 
 Your Teklo Blaster gets +1{p} for each opposing hero.
 
-**Battleworn**"	Mechanologist Action Equipment - Evo Arms					
-PzrMFnfwtKgzMTTLWqRdj	Evo Sentry Base Arms	1	2		2			Mechanologist, Action, Equipment, Evo, Base, Arms	Transform, Battleworn						"If you have a base head equipped, **transform** it into this, then equip this.
+**Battleworn**"	Mechanologist Action Equipment - Evo Arms				No	
+PzrMFnfwtKgzMTTLWqRdj	Evo Sentry Base Arms	1	2		2			Mechanologist, Action, Equipment, Evo, Base, Arms	Transform, Battleworn						"If you have a base arms equipped, **transform** it into this, then equip this.
 
 **Battleworn**"	Mechanologist Action Equipment - Evo Base Arms					
-gbKHPCw8zzPmQcKWN9gnC	Evo Sentry Base Chest	1	2		2			Mechanologist, Action, Equipment, Evo, Base, Chest	Transform, Battleworn						"If you have a base head equipped, **transform** it into this, then equip this.
+gbKHPCw8zzPmQcKWN9gnC	Evo Sentry Base Chest	1	2		2			Mechanologist, Action, Equipment, Evo, Base, Chest	Transform, Battleworn						"If you have a base chest equipped, **transform** it into this, then equip this.
 
 **Battleworn**"	Mechanologist Action Equipment - Evo Base Chest					
 JCpttFGTtgBH7BKwJ6T7r	Evo Sentry Base Head	1	2		2			Mechanologist, Action, Equipment, Evo, Base, Head	Transform, Battleworn						"If you have a base head equipped, **transform** it into this, then equip this.
 
 **Battleworn**"	Mechanologist Action Equipment - Evo Base Head					
-nmGPgfcDFHDb8gkndLkfM	Evo Sentry Base Legs	1	2		2			Mechanologist, Action, Equipment, Evo, Base, Legs	Transform, Battleworn						"If you have a base head equipped, **transform** it into this, then equip this.
+nmGPgfcDFHDb8gkndLkfM	Evo Sentry Base Legs	1	2		2			Mechanologist, Action, Equipment, Evo, Base, Legs	Transform, Battleworn						"If you have a base legs equipped, **transform** it into this, then equip this.
 
 **Battleworn**"	Mechanologist Action Equipment - Evo Base Legs					
 mmMwHD8tLPdGBDtnCgWkR	Evo Smoothbore	2	3		3			Mechanologist, Action, Equipment, Evo, Arms	Transform, Blade Break	Once per Turn Instant					"If you have a base arms equipped, **transform** it into this, then equip this.
@@ -2075,7 +2075,7 @@ qCj8gpDLNQpKTNfhM8jbL	Evo Tekloscope	3	3		2			Mechanologist, Action, Equipment, 
 
 Your Teklo Blaster attacks can target any opposing hero.
 
-**Battleworn**"	Mechanologist Action Equipment - Evo Head					
+**Battleworn**"	Mechanologist Action Equipment - Evo Head				No	
 Bfbgtw7tPPWCMgFh8gDmc	Evo Thruster	2	3		3			Mechanologist, Action, Equipment, Evo, Legs	Transform, Blade Break	Once per Turn Instant					"If you have a base legs equipped, **transform** it into this, then equip this.
 
 **Once per Turn Instant** - Destroy a card under this: You may attack an additional time with target weapon this turn.
@@ -2519,10 +2519,10 @@ f9gMHQcwjqhbDG8NHrpKK	Ghostly Visit	3	1	2	3			Shadow, Action, Attack	Blood Debt	
 KgHPwMcntCzhc9jm8BM6d	Gigawatt	1	1		2			Mechanologist, Action	Go again						"Your next Mechanologist attack this turn gets +4{p}.
 
 **Go again**"	Mechanologist Action				No	
-tznCbwFPngzWgKH6TzBKN	Gigawatt	2	1		2			Mechanologist, Action	Go again						"Your next Mechanologist attack this turn gets +4{p}.
+tznCbwFPngzWgKH6TzBKN	Gigawatt	2	1		2			Mechanologist, Action	Go again						"Your next Mechanologist attack this turn gets +3{p}.
 
 **Go again**"	Mechanologist Action				No	
-LqjLWfPCwPRnNCmJzn7Bg	Gigawatt	3	1		2			Mechanologist, Action	Go again						"Your next Mechanologist attack this turn gets +4{p}.
+LqjLWfPCwPRnNCmJzn7Bg	Gigawatt	3	1		2			Mechanologist, Action	Go again						"Your next Mechanologist attack this turn gets +2{p}.
 
 **Go again**"	Mechanologist Action				No	
 KcbmbJJFzhLKRT6jDjTmP	Give and Take	1	1	3	3			Generic, Action, Attack	Go again						"Whenever an action card defends Give and Take, you may put an action card with cost less than Give and Take's {p} from your graveyard on top of your deck.
@@ -2626,7 +2626,7 @@ TNGCHzzLBft9q77QhkW9d	Grinding Gears	3	0					Mechanologist, Action, Item	Crank	A
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 **Action** - 0: Target hero destroys the top card of their deck."	Mechanologist Action - Item				No	
-gqJnkdRN8WkHKtFNtPTgN	Growl	1	0	3	2			Ninja, Action, Attack							"When this attacks, the next Crouching Tiger you play this combat chain gets +1{p}.
+gqJnkdRN8WkHKtFNtPTgN	Growl	1	0	3	2			Ninja, Action, Attack	Go again						"When this attacks, the next Crouching Tiger you play this combat chain gets +1{p}.
 
 **Go again**"	Ninja Action - Attack				No	
 p7gwqttrJdHDgWjpCHhtk	Growl	2	0	2	2			Ninja, Action, Attack	Go again						"When this attacks, the next Crouching Tiger you play this combat chain gets +1{p}.
@@ -3359,13 +3359,13 @@ If Light it Up deals damage to a hero equal to or greater than the number of equ
 76cHnpRhNn7GWNNfFbNhL	Light of Sol	2						Light, Resource, Gem	Legendary						"**Legendary**
 
 When this is pitched, reveal the top card of your deck. If it's yellow, you may put it into your hero's soul."	Light Resource - Gem				No	
-dJkTjzNPzkH9fc98PJdDk	Light the Way	1	0	3	3			Light, Warrior, Action, Attack	Charge, Go again						"As an additional cost to play this, you man **charge** your hero's soul.
+dJkTjzNPzkH9fc98PJdDk	Light the Way	1	0	3	3			Light, Warrior, Action, Attack	Charge, Go again						"As an additional cost to play this, you may **charge** your hero's soul.
 
 When this hits, if a yellow card was **charged** this way, this gets **go again**."	Light Warrior Action - Attack					
-N8hnQ98bBq7GrpTh8Pzmt	Light the Way	2	0	2	3			Light, Warrior, Action, Attack	Charge, Go again						"As an additional cost to play this, you man **charge** your hero's soul.
+N8hnQ98bBq7GrpTh8Pzmt	Light the Way	2	0	2	3			Light, Warrior, Action, Attack	Charge, Go again						"As an additional cost to play this, you may **charge** your hero's soul.
 
 When this hits, if a yellow card was **charged** this way, this gets **go again**."	Light Warrior Action - Attack					
-TGKkqC6BBFJnggLzKtDLt	Light the Way	3	0	1	3			Light, Warrior, Action, Attack	Charge, Go again						"As an additional cost to play this, you man **charge** your hero's soul.
+TGKkqC6BBFJnggLzKtDLt	Light the Way	3	0	1	3			Light, Warrior, Action, Attack	Charge, Go again						"As an additional cost to play this, you may **charge** your hero's soul.
 
 When this hits, if a yellow card was **charged** this way, this gets **go again**."	Light Warrior Action - Attack					
 QWgWwdcd8GPj8dCjCmRCR	Lightning Press	1	0					Lightning, Instant							Target attack action card with cost 1 or less gains +3{p}.	Lightning Instant				No	
@@ -3375,9 +3375,9 @@ bjwkrWNdkhrMrPjMtdRmm	Lightning Press	3	0					Lightning, Instant							Target at
 b7tLTkWGQtKDhqKG9fjQq	Lightning Surge	2	0	3	2			Lightning, Action, Attack	Go again						If Lightning Surge is played from arsenal, it gains **go again**.	Lightning Action - Attack					
 6CrqfmG7dCTFgNzLbKtcc	Lightning Surge	3	0	2	2			Lightning, Action, Attack	Go again						If Lightning Surge is played from arsenal, it gains **go again**.	Lightning Action - Attack					
 qKWKLWtD8fBWHrRbKrwkT	Liquefy	1	1		2			Draconic, Attack Reaction	Rupture						"**Rupture** - If Liquefy is played at chain link 4 or higher, target attack action card gains ""When this hits a hero, put a -1{d} counter on an equipment they control. Then if it has 0{d}, destroy it."""	Draconic Attack Reaction				No	
-p7QGFtHCDtj6b8r6wLFwB	Liquid-Cooled Mayhem	1	4	6	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This costs 1 {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
+p7QGFtHCDtj6b8r6wLFwB	Liquid-Cooled Mayhem	1	4	6	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This costs {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
 BzhRqCc9TLjNgJ9dKDPfc	Liquid-Cooled Mayhem	2	4	5	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This costs {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
-WrpTBBHz9Qgf79MwRGtCP	Liquid-Cooled Mayhem	3	4	4	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This costs 1 {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
+WrpTBBHz9Qgf79MwRGtCP	Liquid-Cooled Mayhem	3	4	4	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This costs {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
 RBmR6mwf6mzwwg7nwtGzK	Locked and Loaded	1	0		3			Mechanologist, Action	Opt 1, Go again					Boost	"The next Mechanologist attack action card you play this turn gains +3{p}.
 
 If you have **boosted** this turn, **opt 1**.
@@ -4210,7 +4210,7 @@ Your next Brute attack this turn gains +3{p}.
 NGkHQHjzkFqfmGLKmRCpj	Prism					20	4	Light, Illusionist, Hero, Young		Once per Turn Instant					**Once per Turn Instant** - {r}{r}, banish a card from Prism's soul: Create a Spectral Shield token.	Light Illusionist Hero - Young			No		
 dhbhdcr8CB6ngRrf9GTgm	Prism, Advent of Thrones					16	4	Light, Illusionist, Hero, Young		Once per Turn Instant	Awaken				"Whenever a card with Herald in its name is put into Prism's soul during an action phase, you may search your deck for a figment, put it into the arena, then shuffle.
 
-**Once per Turn Instant** - {r}{r}, banish a card from Prism's soul: **Awaken** target figment you control."	Light Illusionist Hero - Young			No		
+**Once per Turn Instant** - {r}{r}, banish a card from Prism's soul: **Awaken** target figment you control."	Light Illusionist Hero - Young			No	No	
 jrQcdHwPDPTt8PWTdNLqk	Prism, Awakener of Sol					32	4	Light, Illusionist, Hero		Once per Turn Instant	Awaken				"Whenever a card with Herald in its name is put into Prism's soul during an action phase, you may search your deck for a figment, put it into the arena, then shuffle.
 
 **Once per Turn Instant** - {r}{r}, banish a card from Prism's soul: **Awaken** target figment you control."	Light Illusionist Hero		No		No	
@@ -4356,7 +4356,7 @@ At the beginning of your action phase, destroy Pyroglyphic Protection."	Wizard A
 PRh9NpRhN76FHztmTm7nt	Pyroglyphic Protection	3	2		2			Wizard, Action, Aura							"If your hero would be dealt arcane damage, prevent 1 arcane damage that source would deal.
 
 At the beginning of your action phase, destroy Pyroglyphic Protection."	Wizard Action - Aura					
-twGn8N6Pm6ctFgKnjCpL7	Qi Unleashed	1	2	3	3			Ninja, Action, Attack	Combo						**Combo** - If Crouching Tiger was the last attack this combat chain, Qi Unleashed has +4{p}.	Ninja Action - Attack					
+twGn8N6Pm6ctFgKnjCpL7	Qi Unleashed	1	2	3	3			Ninja, Action, Attack	Combo						**Combo** - If Crouching Tiger was the last attack this combat chain, this gets +4{p}.	Ninja Action - Attack					
 hrPnGKq9czRctFqJqWknC	Qi Unleashed	2	2	2	3			Ninja, Action, Attack	Combo						**Combo** - If Crouching Tiger was the last attack this combat chain, Qi Unleashed has +4{p}.	Ninja Action - Attack					
 mBhNRNw6CMrF8trKHgtCC	Qi Unleashed	3	2	1	3			Ninja, Action, Attack	Combo						**Combo** - If Crouching Tiger was the last attack this combat chain, Qi Unleashed has +4{p}.	Ninja Action - Attack					
 c8tGz8c7GKmBJRLTcQHfJ	Quantum Processor	2	1					Mechanologist, Action, Item	Crank	Once per Turn Instant					"**Crank**
@@ -5547,9 +5547,9 @@ LQ8bccmDBnnTLLzJRBb8k	Sonata Fantasmia	3	XX		3			Runeblade, Action	Viserai Speci
 Create X Runechant tokens.
 
 If X is 6 or greater, target hero discards 3 random cards."	Runeblade Action				No	
-PCLwwwtFMQmLLpj6TD7hj	Song of Jack-Be-Quick	3	0		3			Bard, Action, Song							Create a Quicken token under each other hero's control.	Bard Action - Song					
+PCLwwwtFMQmLLpj6TD7hj	Song of Jack-be-Quick	3	0		3			Bard, Action, Song							Create a Quicken token under each other hero's control.	Bard Action - Song					
 GRqLrz7CNrwQB8RKfqKnM	Song of Sweet Nectar	3	0		3			Bard, Action, Song							Each other hero gains 1{h}.	Bard Action - Song					
-nzRWpgWz8fR6ChrGQWWdm	Song of Yesteryears	3	0		3			Bard, Action, Song							Each other hero puts an attack action card from their graveyard on the bottom of the deck.	Bard Action - Song					
+nzRWpgWz8fR6ChrGQWWdm	Song of Yesteryears	3	0		3			Bard, Action, Song							Each other hero puts an attack action card from their graveyard on the bottom of their deck.	Bard Action - Song					
 jRGGnkWgcLPMMQ6D7bdnk	Song of the Rosen Matador	3	0		3			Bard, Action, Song							Create a Vigor token under each other hero's control.	Bard Action - Song					
 NqkBRhGqcjNCjBhMq8qpF	Song of the Shining Knight	3	0		3			Bard, Action, Song							Create a Might token under each other hero's control.	Bard Action - Song					
 mdMHPhNzNwbQnHLrgLccp	Song of the Wandering Mind	3	0		3			Bard, Action, Song							Each other hero draws a card.	Bard Action - Song					
@@ -6122,9 +6122,10 @@ RLFbbtnr6PH8fKBQmHLCg	Tempest Aurora	3	0		2			Wizard, Action	Go again						"The 
 
 **Go again**"	Wizard Action					
 zknqNdwtDMrHbRpgKkBJw	Terminator Tank	1	6	6	3			Mechanologist, Action, Attack	Overpower						"If you have 1 or more Evos equipped, this gets ""When this hits a hero, they discard a card,""
-* 2 or more, this costs {r}{r}{r} less to play,
-* 3 or more, this gets **overpower**,
-* 4 or more, this gets +3{p}."	Mechanologist Action - Attack				No	
+
+- 2 or more, this costs {r}{r}{r} less to play,
+- 3 or more, this gets **overpower**,
+- 4 or more, this gets +3{p}."	Mechanologist Action - Attack				No	
 89p6tjT7cTLrGWkKrRkjt	That All You Got?	2	0		3			Generic, Defense Reaction							While this is defending an attack with 2 or less {p}, when the combat chain closes, draw a card.	Generic Defense Reaction				No	
 dJCRQcRmp7mhMTNDRgFN8	Thaw	1	2	6	2			Draconic, Action, Attack				Unfreeze			"While thaw is in your graveyard, at the start of your turn, you may banish it and choose 1:
 
