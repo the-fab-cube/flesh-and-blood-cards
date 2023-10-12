@@ -525,3 +525,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 10-08-23:
 - Fixed missing Illusionist type for Dust from the Chrome Caverns - bug notice credit: OotTheMonk
+
+10-11-23:
+- Fixed typo in the name for Evo Circuit Breaker - bug notice: Soiure
+- Added card data for Diamond Hands (minus image)
+- Added card association between Pink Visor and `Ruu'di, Gem Keeper`
