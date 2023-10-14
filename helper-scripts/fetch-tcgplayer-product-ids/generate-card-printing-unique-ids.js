@@ -1,80 +1,80 @@
 import * as fs from 'fs'
 import * as csv from 'csv'
-import * as helper from '../helper-functions.js'
 
-// // Set an index to null to omit generation for the associated unique ID
-// export const generateCardPrintingUniqueIds = (language, uniqueIdIndex, cardIdIndex, editionIdIndex, foilingIdIndex, artVariationIndex) => {
-//     return new Promise((resolve, reject) => {
-//         const inputCSV = `../../csvs/${language}/card-printing.csv`
-//         const outputCSV = `./temp-${language}-card-printing.csv`
+// Set an index to null to omit generation for the associated unique ID
+export const populateProductIds = (productDetails, language, cardIdIndex, rarityIndex, productIdIndex) => {
+    return new Promise((resolve, reject) => {
+        const inputCSV = `../../csvs/${language}/card-printing.csv`
+        const outputCSV = `./temp-${language}-card-printing.csv`
 
-//         const readStream = fs.createReadStream(inputCSV)
-//         const writeStream = fs.createWriteStream(outputCSV)
-//         const csvStream = csv.parse({ delimiter: "\t" })
-//         const stringifier = csv.stringify({ delimiter: "\t" });
+        const readStream = fs.createReadStream(inputCSV)
+        const writeStream = fs.createWriteStream(outputCSV)
+        const csvStream = csv.parse({ delimiter: "\t" })
+        const stringifier = csv.stringify({ delimiter: "\t" });
 
-//         const capitalizedLanguage = helper.capitalizeFirstLetter(language)
+        const capitalizedLanguage = helper.capitalizeFirstLetter(language)
 
-//         const csvStreamFinished = function (cardPrintingIdsAdded) {
-//             fs.renameSync(outputCSV, inputCSV)
-//             console.log(`Unique ID generation completed for ${capitalizedLanguage} card printings with ${cardPrintingIdsAdded} new card printing IDs!`)
-//         }
+        const csvStreamFinished = function (cardPrintingIdsAdded) {
+            fs.renameSync(outputCSV, inputCSV)
+            console.log(`Product ID population completed for ${capitalizedLanguage} card printings with ${cardPrintingIdsAdded} new card printing IDs!`)
+        }
 
-//         var headerRead = false
-//         var cardPrintingIdsAdded = 0
+        var headerRead = false
+        var cardPrintingIdsAdded = 0
 
-//         csvStream.on("data", function(data) {
-//             // Skip header
-//             if (!headerRead) {
-//                 headerRead = true
-//                 stringifier.write(data)
-//                 return
-//             }
+        csvStream.on("data", function(data) {
+            // Skip header
+            if (!headerRead) {
+                headerRead = true
+                stringifier.write(data)
+                return
+            }
 
-//             // Card Printing Unique ID
-//             if (
-//                 uniqueIdIndex !== null && uniqueIdIndex !== undefined &&
-//                 cardIdIndex !== null && cardIdIndex !== undefined &&
-//                 editionIdIndex !== null && editionIdIndex !== undefined &&
-//                 foilingIdIndex !== null && foilingIdIndex !== undefined &&
-//                 artVariationIndex !== null && artVariationIndex !== undefined
-//             ) {
-//                 // current card unique ID data
-//                 var uniqueID = data[uniqueIdIndex]
-//                 var cardID = data[cardIdIndex]
-//                 var edition = data[editionIdIndex]
-//                 var foiling = data[foilingIdIndex]
-//                 var artVariation = data[artVariationIndex]
+            // Card Printing Unique ID
+            if (
+                cardIdIndex !== null && cardIdIndex !== undefined &&
+                rarityIndex !== null && rarityIndex !== undefined &&
+                productIdIndex !== null && productIdIndex !== undefined
+            ) {
+                // current card unique ID data
+                var cardId = data[cardIdIndex]
+                var rarity = data[rarityIndex]
+                var productId = data[productIdIndex]
 
-//                 var uniqueIdExists = uniqueID.trim() !== ''
+                var productIdExists = productId.trim() !== ''
 
-//                 // generate unique ID for card
-//                 if (!uniqueIdExists) {
-//                     var loggingText = `Generating unique ID for ${capitalizedLanguage} card printing ${cardID} - ${edition} - ${foiling}`
+                // generate unique ID for card
+                if (!productIdExists) {
+                    const matchingProductDetail = findMatchingProductDetail(productDetails, cardId, rarity)
+                    data[productIdIndex] = matchingProductDetail.productId
+                    cardPrintingIdsAdded += 1
+                }
+            }
 
-//                     if (artVariation.trim() !== '') {
-//                         loggingText += ` - ${artVariation}`
-//                     }
+            // save CSV row
+            stringifier.write(data)
+        })
+        .on('end', () => {
+            csvStreamFinished(cardPrintingIdsAdded)
+            resolve()
+        })
+        .on("error", function (error) {
+            console.log(error.message)
+            reject()
+        })
 
-//                     console.log(loggingText)
-//                     cardPrintingIdsAdded += 1
-//                     data[uniqueIdIndex] = helper.customNanoId()
-//                 }
-//             }
+        stringifier.pipe(writeStream)
+        readStream.pipe(csvStream)
+    })
+}
 
-//             // save CSV row
-//             stringifier.write(data)
-//         })
-//         .on('end', () => {
-//             csvStreamFinished(cardPrintingIdsAdded)
-//             resolve()
-//         })
-//         .on("error", function (error) {
-//             console.log(error.message)
-//             reject()
-//         })
+const findMatchingProductDetail = (productDetails, cardId, rarity) => {
+    const matchingDetails = productDetails.filter(productDetail => productDetail.cardId == cardId && productDetail.rarity == rarity)
 
-//         stringifier.pipe(writeStream)
-//         readStream.pipe(csvStream)
-//     })
-// }
+    if (matchingDetails.length != 1) {
+        console.log(`Could not properly match product ID for ${cardId} - found ${matchingDetails.length} matches!`)
+        return null
+    }
+
+    return matchingDetails[0]
+}

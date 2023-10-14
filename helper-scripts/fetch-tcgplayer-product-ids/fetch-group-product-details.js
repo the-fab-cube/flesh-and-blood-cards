@@ -3,7 +3,8 @@ import axios from 'axios'
 export const fetchGroupProductDetails = async (groupId, bearerToken) => {
     const productIds = await fetchAllGroupProductIds(groupId, bearerToken)
     const productDetails = await fetchAllGroupProductDetails(productIds, bearerToken)
-    console.log(productDetails)
+
+    return productDetails
 }
 
 const fetchAllGroupProductIds = async (groupId, bearerToken) => {
@@ -30,8 +31,6 @@ const fetchAllGroupProductDetails = async (productIds, bearerToken) => {
     let productDetails = []
 
     while (offset <= productIds.length) {
-        offset += limit
-
         const startIndex = offset
         let endIndex = offset + limit
 
@@ -39,11 +38,16 @@ const fetchAllGroupProductDetails = async (productIds, bearerToken) => {
             endIndex = productIds.length
         }
 
+
         const productIdSubsection = productIds.slice(startIndex, endIndex)
 
         let response = await makeGetProductDetailsCall(productIdSubsection, bearerToken)
-        productDetails = productDetails.concat(response.results.map(result => result)) // TODO: Map to expected object
+        productDetails = productDetails.concat(response.results.map(result => formatProductDetail(result)))
+
+        offset += limit
     }
+    
+    productDetails.forEach(splitDFCIntoTwoEntries)
 
     return productDetails
 }
@@ -82,4 +86,63 @@ const makeGetProductDetailsCall = async (productIds, bearerToken) => {
     const url = `https://api.tcgplayer.com/catalog/products/${productIds.join(',')}`
 
     return (await axios.get(url, config)).data
+}
+
+// Object mapping //
+
+const formatProductDetail = (productDetail) => {
+    const name = productDetail.name
+    const productId = productDetail.productId
+    const rarity = formatRarity(productDetail.extendedData.find(dataElement => dataElement.name.toLowerCase() == 'rarity')?.value)
+    const cardId = productDetail.extendedData.find(dataElement => dataElement.name.toLowerCase() == 'number')?.value
+
+    return {
+        name,
+        productId,
+        rarity,
+        cardId
+    }
+}
+
+const formatRarity = (rarity) => {
+    switch (rarity.toLowerCase()) {
+        case 'token':
+            return 'T'
+        case 'common':
+            return 'C'
+        case 'rare':
+            return 'R'
+        case 'super rare':
+            return 'S'
+        case 'majestic':
+            return 'M'
+        case 'legendary':
+            return 'L'
+        case 'fable':
+            return 'F'
+        case 'marvel':
+            return 'V'
+        default:
+            return rarity
+    }
+}
+
+const splitDFCIntoTwoEntries = (productDetail, index, array) => {
+    if (productDetail.name.includes("//") && productDetail.cardId.includes("//")) {
+
+        const splitName = productDetail.name.split("//")
+        const splitCardId = productDetail.cardId.split("//")
+
+        if (splitName.length == 2 && splitCardId.length == 2) {
+            productDetail.name = splitName[0].trim()
+            productDetail.cardId = splitCardId[0].trim()
+
+            array.push({
+                name: splitName[1].trim(),
+                productId: productDetail.productId,
+                rarity: productDetail.rarity,
+                cardId: splitCardId[1].trim()
+            })
+        }
+    }
 }

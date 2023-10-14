@@ -25,4 +25,4 @@ const extractGroupIdFromArgs = () => {
 const bearerToken = extractBearerTokenFromArgs()
 const groupId = extractGroupIdFromArgs()
 
-await fetchGroupProductDetails(groupId, bearerToken)
+const productDetails = await fetchGroupProductDetails(groupId, bearerToken)
