@@ -533,5 +533,5 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 10-14-23:
 - Added new populate-tcgplayer-product-ids script
-- Added all TCGPlayer Product IDs for 1HP, BOL, BRI, CHN, CRU, DYN, ELE, EVR, LEV, LXI, MON, OLD, PSM
-- Added more missing TCGPlayer Product IDs for DTD, FAB, HER, LGS, LSS, XXX
+- Added all TCGPlayer Product IDs for 1HP, ARA, AZL, BEN, BOL, BRI, BVO, CHN, CRU, DRO, DVR, DYN, ELE, EVR, KAT, KSU, IRA, LEV, LXI, MON, OLD, PSM, RIP, RVD, UZU
+- Added more missing TCGPlayer Product IDs for DTD, FAB, FAI, HER, JDG, LGS, LSS, RNR, XXX
