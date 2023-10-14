@@ -530,3 +530,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed typo in the name for Evo Circuit Breaker - bug notice: Soiure
 - Added card data for Diamond Hands (minus image)
 - Added card association between Pink Visor and `Ruu'di, Gem Keeper`
+
+10-14-23:
+- Added new populate-tcgplayer-product-ids script
+- Added TCGPlayer Product IDs for BRI, CRU, ELE, LXI, and OLD
