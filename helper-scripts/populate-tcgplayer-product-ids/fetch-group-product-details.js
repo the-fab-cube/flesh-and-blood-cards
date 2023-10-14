@@ -123,6 +123,8 @@ const formatRarity = (rarity) => {
             return 'F'
         case 'marvel':
             return 'V'
+        case 'promo':
+            return 'P'
         default:
             return rarity
     }
