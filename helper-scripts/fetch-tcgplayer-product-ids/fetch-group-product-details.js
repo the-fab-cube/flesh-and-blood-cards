@@ -105,7 +105,7 @@ const formatProductDetail = (productDetail) => {
 }
 
 const formatRarity = (rarity) => {
-    switch (rarity.toLowerCase()) {
+    switch (rarity?.toLowerCase()) {
         case 'token':
             return 'T'
         case 'common':

@@ -1,8 +1,9 @@
 import * as fs from 'fs'
 import * as csv from 'csv'
+import * as helper from './helper-functions.js'
 
 // Set an index to null to omit generation for the associated unique ID
-export const populateProductIds = (productDetails, language, cardIdIndex, rarityIndex, productIdIndex) => {
+export const populateProductIds = (productDetails, language, setIdToMatch, cardIdIndex, rarityIndex, productIdIndex) => {
     return new Promise((resolve, reject) => {
         const inputCSV = `../../csvs/${language}/card-printing.csv`
         const outputCSV = `./temp-${language}-card-printing.csv`
@@ -16,7 +17,7 @@ export const populateProductIds = (productDetails, language, cardIdIndex, rarity
 
         const csvStreamFinished = function (cardPrintingIdsAdded) {
             fs.renameSync(outputCSV, inputCSV)
-            console.log(`Product ID population completed for ${capitalizedLanguage} card printings with ${cardPrintingIdsAdded} new card printing IDs!`)
+            console.log(`Product ID population completed for ${capitalizedLanguage} ${setIdToMatch} card printings with ${cardPrintingIdsAdded} new product IDs!`)
         }
 
         var headerRead = false
@@ -44,10 +45,13 @@ export const populateProductIds = (productDetails, language, cardIdIndex, rarity
                 var productIdExists = productId.trim() !== ''
 
                 // generate unique ID for card
-                if (!productIdExists) {
+                if (!productIdExists && cardId.includes(setIdToMatch)) {
                     const matchingProductDetail = findMatchingProductDetail(productDetails, cardId, rarity)
-                    data[productIdIndex] = matchingProductDetail.productId
-                    cardPrintingIdsAdded += 1
+
+                    if (matchingProductDetail) {
+                        data[productIdIndex] = matchingProductDetail.productId
+                        cardPrintingIdsAdded += 1
+                    }
                 }
             }
 
