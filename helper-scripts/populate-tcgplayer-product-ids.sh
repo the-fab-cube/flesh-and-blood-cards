@@ -2,7 +2,7 @@
 
 [ -d "helper-scripts" ] && cd helper-scripts
 
-cd ./fetch-tcgplayer-product-ids
+cd ./populate-tcgplayer-product-ids
 
 source ~/.nvm/nvm.sh
 

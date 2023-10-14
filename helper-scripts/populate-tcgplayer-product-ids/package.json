@@ -1,5 +1,5 @@
 {
-  "name": "fetch-tcgplayer-product-ids",
+  "name": "populate-tcgplayer-product-ids",
   "version": "1.0.0",
   "description": "Add tcgplayer product ids to any lines on english/card.csv that need it.",
   "main": "index.js",
