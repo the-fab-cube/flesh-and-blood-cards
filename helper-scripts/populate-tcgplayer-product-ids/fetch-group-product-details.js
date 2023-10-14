@@ -119,6 +119,7 @@ const formatRarity = (rarity) => {
         case 'legendary':
             return 'L'
         case 'fable':
+        case 'fabled':
             return 'F'
         case 'marvel':
             return 'V'

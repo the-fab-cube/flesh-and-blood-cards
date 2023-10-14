@@ -3,7 +3,7 @@ import * as csv from 'csv'
 import * as helper from './helper-functions.js'
 
 // Set an index to null to omit generation for the associated unique ID
-export const populateProductIds = (productDetails, language, setIdToMatch, cardIdIndex, rarityIndex, productIdIndex) => {
+export const populateProductIds = (productDetails, language, setIdToMatch, cardIdIndex, rarityIndex, artVariationIndex, productIdIndex) => {
     return new Promise((resolve, reject) => {
         const inputCSV = `../../csvs/${language}/card-printing.csv`
         const outputCSV = `./temp-${language}-card-printing.csv`
@@ -35,18 +35,20 @@ export const populateProductIds = (productDetails, language, setIdToMatch, cardI
             if (
                 cardIdIndex !== null && cardIdIndex !== undefined &&
                 rarityIndex !== null && rarityIndex !== undefined &&
+                artVariationIndex !== null && artVariationIndex !== undefined &&
                 productIdIndex !== null && productIdIndex !== undefined
             ) {
                 // current card unique ID data
                 var cardId = data[cardIdIndex]
                 var rarity = data[rarityIndex]
+                var artVariation = data[artVariationIndex]
                 var productId = data[productIdIndex]
 
                 var productIdExists = productId.trim() !== ''
 
                 // generate unique ID for card
                 if (!productIdExists && cardId.includes(setIdToMatch)) {
-                    const matchingProductDetail = findMatchingProductDetail(productDetails, cardId, rarity)
+                    const matchingProductDetail = findMatchingProductDetail(productDetails, cardId, rarity, artVariation)
 
                     if (matchingProductDetail) {
                         data[productIdIndex] = matchingProductDetail.productId
@@ -72,10 +74,21 @@ export const populateProductIds = (productDetails, language, setIdToMatch, cardI
     })
 }
 
-const findMatchingProductDetail = (productDetails, cardId, rarity) => {
+const findMatchingProductDetail = (productDetails, cardId, rarity, artVariation) => {
     const matchingDetails = productDetails.filter(productDetail => productDetail.cardId == cardId && productDetail.rarity == rarity)
 
     if (matchingDetails.length != 1) {
+        const matchingExtendedArtDetails = matchingDetails.filter(productDetail => productDetail.name.toLowerCase().includes("extended art"))
+        const matchingNonExtendedArtDetails = matchingDetails.filter(productDetail => !productDetail.name.toLowerCase().includes("extended art"))
+
+        if (!artVariation && matchingNonExtendedArtDetails.length == 1) {
+            return matchingNonExtendedArtDetails[0]
+        }
+
+        if (artVariation == 'EA' && matchingExtendedArtDetails.length == 1) {
+            return matchingExtendedArtDetails[0]
+        }
+
         console.log(`Could not properly match product ID for ${cardId} - found ${matchingDetails.length} matches!`)
         return null
     }
