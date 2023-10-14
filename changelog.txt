@@ -527,6 +527,12 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed missing Illusionist type for Dust from the Chrome Caverns - bug notice credit: OotTheMonk
 
 10-11-23:
-- Fixed typo in the name for Evo Circuit Breaker - bug notice: Soiure
+- Fixed typo in the name for Evo Circuit Breaker - bug notice credit: Soiure
 - Added card data for Diamond Hands (minus image)
 - Added card association between Pink Visor and `Ruu'di, Gem Keeper`
+
+10-14-23:
+- Added new populate-tcgplayer-product-ids script
+- Added all TCGPlayer Product IDs for 1HP, ARA, AZL, BEN, BOL, BRI, BVO, CHN, CRU, DRO, DVR, DYN, ELE, EVR, KAT, KSU, IRA, LEV, LXI, MON, OLD, PSM, RIP, RVD, UPR, and UZU
+- Added more missing TCGPlayer Product IDs for ARC, DTD, FAB, FAI, HER, JDG, LGS, LSS, OUT, RNR, and XXX
+- Fixed incorrect Commoner legality for Blood Scent - bug notice credit: Palada
