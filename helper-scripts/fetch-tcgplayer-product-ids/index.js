@@ -12,14 +12,14 @@ const extractBearerTokenFromArgs = () => {
 }
 
 const extractGroupIdFromArgs = () => {
-    const bearer = process.argv[2]
+    const groupId = parseInt(process.argv[2])
 
-    if (!bearer) {
+    if (!groupId) {
         console.error('ERROR: Expected a TCGPlayer groupId as 1st argument!');
         process.exit(1);
     }
 
-    return bearer
+    return groupId
 }
 
 const bearerToken = extractBearerTokenFromArgs()
