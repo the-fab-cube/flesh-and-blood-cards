@@ -1,6 +1,6 @@
 # Fetch TCGPlayer Product IDs
 
-Fetch missing TCGPlayer Product Ids for the specified TCGPlayer group and insert any missing product IDs into the CSVs.
+Fetch missing TCGPlayer Product Ids for the specified TCGPlayer group and insert any missing product IDs for a specific set into the CSVs.
 
 ## Initial Setup
 
@@ -10,4 +10,5 @@ Fetch missing TCGPlayer Product Ids for the specified TCGPlayer group and insert
 
 ## Running the Script
 
-1. Run `npm run start` to run the script.
+1. Please note that you'll need to have access to TCGPlayer's API and a valid Access Token. You can find more info [here](https://docs.tcgplayer.com/docs/getting-started).
+1. Run `npm run start [tcgplayerGroupId] [setId] [tcgplayerAccessToken]` to run the script to fetch the productIds for the TCGPlayer group id (limiting matching to the setId printings in the CSV).
