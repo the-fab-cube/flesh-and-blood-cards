@@ -539,4 +539,4 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 1016023:
 - Added card data for Jack-o'-lantern
-- Added printing data for LGS174-LGS176 and LGS194-LGS197
+- Added printing data for LGS174-LGS176, LGS182-LGS185, and LGS194-LGS197
