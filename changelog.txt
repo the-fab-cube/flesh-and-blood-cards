@@ -536,3 +536,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added all TCGPlayer Product IDs for 1HP, ARA, AZL, BEN, BOL, BRI, BVO, CHN, CRU, DRO, DVR, DYN, ELE, EVR, KAT, KSU, IRA, LEV, LXI, MON, OLD, PSM, RIP, RVD, UPR, and UZU
 - Added more missing TCGPlayer Product IDs for ARC, DTD, FAB, FAI, HER, JDG, LGS, LSS, OUT, RNR, and XXX
 - Fixed incorrect Commoner legality for Blood Scent - bug notice credit: Palada
+
+1016023:
+- Added card data for Jack-o'-lantern
+- Added printing data for LGS174-LGS176 and LGS194-LGS197

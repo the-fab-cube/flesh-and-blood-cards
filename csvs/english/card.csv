@@ -3211,6 +3211,9 @@ Whenever you play an Ice card during an opponents turn, create a Frostbite token
 If it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.
 
 Whenever you play an Ice card during an opponents turn, create a Frostbite token under their control."	Elemental Wizard Hero		No		No	
+MqhJWhp7gnBLjtMwzwmm8	Jack-o'-lantern	1	0		2			Shadow, Runeblade, Action	Go again						Banish the top card of your deck. If it's red, create a Runechant token.	Shadow Runeblade Action					
+KmMWLT6fF88QdfKTJ9GFf	Jack-o'-lantern	2	0		2			Shadow, Runeblade, Action	Go again						Banish the top card of your deck. If it's yellow, create a Runechant token.	Shadow Runeblade Action					
+b9tmpTgLPfDhD6qDJ7FwD	Jack-o'-lantern	3	0		2			Shadow, Runeblade, Action	Go again						Banish the top card of your deck. If it's blue, create a Runechant token.	Shadow Runeblade Action					
 GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit			2				Bard, Weapon, Fiddle, 2H		Once per Turn Action, Action	Go again, Attack				"**Once per Turn Action** - {r}{r}{r}: Target opposing hero chooses and creates a Might, Quicken, or Vigor token. You create a Copper token. **Go again**
 
 **Action** - 0: **Attack**. When this hits, destroy it."	Bard Weapon - Fiddle (2H)					
