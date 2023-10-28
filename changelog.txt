@@ -544,3 +544,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 10-27-23:
 - Added card data for Agility, Double Down, Runner Runner, and Talk a Big Game
 - Added printing data for FAB144-FAB152, FAB193-FAB195, and HVY240
+
+10-28-23:
+- Added card images for ARA001-ARA029
