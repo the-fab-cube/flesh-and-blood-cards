@@ -84,6 +84,7 @@ CrWjLrqtQtppQhQCMt9LH	Aether Wildfire	1	2		3			Wizard, Action							"Deal 4 arca
 
 If Aether Wildfire is played during an opponents turn, until end of turn, action card effects that deal arcane damage instead deal that much arcane damage plus X, where X is the damage dealt by Aether Wildfire."	Wizard Action				No	
 hp6NPdQkGkWhrwpd7JWTF	Aetherize	3	1					Wizard, Instant	Negate						**Negate** target instant card with cost {r} or less.	Wizard Instant				No	
+WqTTMjDgKKCp7Lnb7LH6d	Agility							Generic, Token, Aura				Go again			At the start of your turn, destroy this, then your next attack this turn gets **go again**.	Generic Token - Aura					
 nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement	2	2	2	2			Shapeshifter, Action, Attack	Shiyana Specialization, Unity						"**Shiyana Specialization**
 
 When this attacks, the defending hero reveals their hand. You may choose an attack action card revealed this way. If you do, this becomes the chosen card.
@@ -1559,6 +1560,13 @@ Create a Blasmophet, the Soul Harvester token."	Shadow Instant				No
 KGqRPDfRrnPqdj7Cm76fr	Dorinthea					20	4	Warrior, Hero, Young							**Once per turn Effect** - When a weapon you control hits, you may attack an additional time with that weapon this turn.	Warrior Hero - Young			No		
 Djhg6DMpCpFHD9rcPNFrN	Dorinthea Ironsong					40	4	Warrior, Hero							**Once per turn Effect** - When a weapon you control hits, you may attack an additional time with that weapon this turn.	Warrior Hero		No		No	
 NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy					20	4	Warrior, Hero, Young						Go again	The first time Dawnblade, Resplendent gains **go again** each turn, you may attack an additional time with it this turn.	Warrior Hero - Young			No	No	
+8JF8CGqcQRDnGWNBhkhtD	Double Down	1	2		3			Guardian, Warrior, Action	Go again			Overpower		Wager	"You may destroy a Gold you control rather than pay Double Down's {r} cost.
+
+The next attack that **wagers** this turn gets +3{p} and **overpower**.
+
+If a hero would create 1 or more tokens from a **wager** this turn, instead they create that many plus 1 of each of those tokens.
+
+**Go again**"	Guardian / Warrior Action					
 PrzDDzhJCLMPdrJDzrrpr	Double Strike	1	0	1	2			Ninja, Action, Attack	Go again						"When Double Strike's chain link resolves, banish it. You may play it this combat chain. If you do, it loses this ability.
 
 **Go again**"	Nina Action - Attack				No	
@@ -3068,39 +3076,39 @@ MNwTgMKtfwcbBTGTLCbzt	Induction Chamber	1	2					Mechanologist, Action, Item		Act
 **Once per Turn Attack Reaction** - Remove a steam counter from Induction Chamber: Target Mechanologist pistol attack gains **go again**."	Mechanologist Action - Item				No	
 G6kbCqnBzwjhrb88Q6K7w	Inertia							Generic, Token, Aura							At the beginning of your end phase, destroy Inertia, then put all cards from your hand and arsenal on the bottom of your deck.	Generic Token - Aura					
 Jb6MjpJPRLbM99RJC8qKR	Inertia Trap	1	0		3			Assassin, Ranger, Defense Reaction, Trap							When this defends an attack with {p} greater than its base, create an Inertia token under the attacking hero's control.	Assassin / Ranger Defense Reaction - Trap					
-gGFjwC7rpLfpdBWDdQwgn	Infuse Alloy	1	0	4	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
-PnfMD9zp7JgTwTmJTQkwz	Infuse Titanium	1	3	7	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
 NDFjzQLjMLL7LzGQNBtGd	Infect	1	0	3	3			Assassin, Action, Attack	Stealth						"**Stealth**
+
+When this hits a hero, create a Bloodrot Pox token under their control."	Assassin Action - Attack					
+LpcdHznLWndg78zmc6RHJ	Infect	2	0	2	3			Assassin, Action, Attack	Stealth						"**Stealth**
+
+When this hits a hero, create a Bloodrot Pox token under their control."	Assassin Action - Attack					
+Q8zWBnk8WGTkgwzHG8pcp	Infect	3	0	1	3			Assassin, Action, Attack	Stealth						"**Stealth**
 
 When this hits a hero, create a Bloodrot Pox token under their control."	Assassin Action - Attack					
 8fFPCT68cgF9gbWKppDgQ	Infecting Shot	1	1	5	3			Ranger, Action, Arrow, Attack							"If Infecting Shot has an aim counter, it has +1{p}.
 
 When this hits a hero, create a Bloodrot Pox token under their control."	Ranger Action - Arrow Attack					
+Nct7799R68FjJmTPdkLwc	Infecting Shot	2	1	4	3			Ranger, Action, Arrow, Attack							"If Infecting Shot has an aim counter, it has +1{p}.
+
+When this hits a hero, create a Bloodrot Pox token under their control."	Ranger Action - Arrow Attack					
+FTnGpQhbkrRGWFLwb9TGt	Infecting Shot	3	1	3	3			Ranger, Action, Arrow, Attack							"If Infecting Shot has an aim counter, it has +1{p}.
+
+When this hits a hero, create a Bloodrot Pox token under their control."	Ranger Action - Arrow Attack					
 dpwPgBFGQpTFjPWNTDdDt	Infectious Host	1	0	4	2			Generic, Action, Attack							When this attacks a hero, if you control a Frailty token, create a Frailty token under their control, then repeat for Inertia and Bloodrot Pox.	Generic Action - Attack				No	
+9hQDRdBpQpb8B8kJ9Lq8J	Infectious Host	2	0	3	2			Generic, Action, Attack							When this attacks a hero, if you control a Frailty token, create a Frailty token under their control, then repeat for Inertia and Bloodrot Pox.	Generic Action - Attack				No	
+LpmdRdBC8QLhFPbPwPg6h	Infectious Host	3	0	2	2			Generic, Action, Attack							When this attacks a hero, if you control a Frailty token, create a Frailty token under their control, then repeat for Inertia and Bloodrot Pox.	Generic Action - Attack				No	
 86gQBcFRPDjmJwnLd8dpL	Infiltrate	1	0	3	3			Assassin, Action, Attack	Stealth						"**Stealth**
 
 When this hits a hero, banish the top card of their deck. You may play it until the end of your next turn."	Assassin Action - Attack				No	
 pq96Kr6wpqctKgCCQRL9z	Inflame	1	0	1	2			Draconic, Action, Attack	Go again						"When you attack with Inflame, if you've played another red card this turn, you may return a Phoenix Flame from your graveyard to your hand.
 
 **Go again**"	Draconic Action - Attack					
+gGFjwC7rpLfpdBWDdQwgn	Infuse Alloy	1	0	4	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
 BdmMDknJzHtkq6dHDpMFk	Infuse Alloy	2	0	3	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
-qQbcdmqJw9tPqqDBnDpH9	Infuse Titanium	2	3	6	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
-LpcdHznLWndg78zmc6RHJ	Infect	2	0	2	3			Assassin, Action, Attack	Stealth						"**Stealth**
-
-When this hits a hero, create a Bloodrot Pox token under their control."	Assassin Action - Attack					
-Nct7799R68FjJmTPdkLwc	Infecting Shot	2	1	4	3			Ranger, Action, Arrow, Attack							"If Infecting Shot has an aim counter, it has +1{p}.
-
-When this hits a hero, create a Bloodrot Pox token under their control."	Ranger Action - Arrow Attack					
-9hQDRdBpQpb8B8kJ9Lq8J	Infectious Host	2	0	3	2			Generic, Action, Attack							When this attacks a hero, if you control a Frailty token, create a Frailty token under their control, then repeat for Inertia and Bloodrot Pox.	Generic Action - Attack				No	
 fJdjjcFWMpqfCNKpJbNLr	Infuse Alloy	3	0	2	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
+PnfMD9zp7JgTwTmJTQkwz	Infuse Titanium	1	3	7	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
+qQbcdmqJw9tPqqDBnDpH9	Infuse Titanium	2	3	6	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
 JhJWJjwBffmkgq69rfrgC	Infuse Titanium	3	3	5	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
-Q8zWBnk8WGTkgwzHG8pcp	Infect	3	0	1	3			Assassin, Action, Attack	Stealth						"**Stealth**
-
-When this hits a hero, create a Bloodrot Pox token under their control."	Assassin Action - Attack					
-FTnGpQhbkrRGWFLwb9TGt	Infecting Shot	3	1	3	3			Ranger, Action, Arrow, Attack							"If Infecting Shot has an aim counter, it has +1{p}.
-
-When this hits a hero, create a Bloodrot Pox token under their control."	Ranger Action - Arrow Attack					
-LpmdRdBC8QLhFPbPwPg6h	Infectious Host	3	0	2	2			Generic, Action, Attack							When this attacks a hero, if you control a Frailty token, create a Frailty token under their control, then repeat for Inertia and Bloodrot Pox.	Generic Action - Attack				No	
 gfrwTGTGJhqjTPKbcd96P	Insidious Chill	3	3		2			Ice, Action, Aura							"Insidious Chill enters the arena with 3 frost counters on it. When it has no frost counters on it, destroy it.
 
 Whenever you **Ice Fuse**, remove a frost counter from Insidious Chill. If you do, target hero discards a card unless they pay {r}{r}."	Ice Action - Aura				No	
@@ -4930,6 +4938,7 @@ The next Runeblade attack action card you play this turn gets +3{p}.
 
 **Go again**"	Runeblade Action				No	
 gBdLwdzLq6zrMGbHKpKfw	Runic Reclamation	1	3	7	3			Runeblade, Action, Attack							When Runic Reclamation hits a hero, destroy target aura they control. If you do, create a Runechant token.	Runeblade Action - Attack				No	
+hPQ9NCmMKDdgMkzpkpGb6	Runner Runner	1	2	6	3			Brute, Warrior, Action						Go again	When this attacks, if it has **go again**, create an Agility token.	Brute / Warrior Action					
 wmN6kmKhktkmfhWtqLmHm	Rushing River	1	0	3	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack				No	
 cdcnJRkcCzJkDmb7NwnPQ	Rushing River	2	0	2	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack				No	
 tMDDnhBrcpCL8c9MW7BgC	Rushing River	3	0	1	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack				No	
@@ -6041,6 +6050,9 @@ prmFpdjrdCqD9hDmHTfPK	Talisman of Warfare	2	0					Generic, Action, Item	Go again
 
 When a source you control deals exactly 2 damage to an opposing hero, destroy Talisman of Warfare and all cards in all arsenals."	Generic Action - Item				No	
 JTNgbmMDfnz69RKFpjrrR	Talismanic Lens				0			Generic, Equipment, Head		Instant	Opt 2				**Instant** - Destroy Talismanic Lens: **Opt 2**	Generic Equipment - Head					
+Cqr7rhqq8hQPPhpHQBCHr	Talk a Big Game	3	0		3			Brute, Guardian, Action	Go again						"Choose a number. The next time you deal that much or more {p} damage to a hero this turn, create that many Might tokens.
+
+**Go again**"	Brute / Guardian Action					
 BPHDqTPTT6nKHGjRqjFzR	Tarpit Trap	2	0		3			Ranger, Defense Reaction, Trap						Go again	When this defends an attack with **go again**, the next time an attack action card hits this turn, effects don't trigger.	Ranger Defense Reaction - Trap				No	
 PkD89rQPqTmdPjzH6GMhf	Taylor					18	4	Shapeshifter, Hero, Young							"You may have equipment of any class or talent in your inventory. Each equipment in your starting inventory must have a different name.
 

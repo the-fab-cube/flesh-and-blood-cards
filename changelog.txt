@@ -537,6 +537,10 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added more missing TCGPlayer Product IDs for ARC, DTD, FAB, FAI, HER, JDG, LGS, LSS, OUT, RNR, and XXX
 - Fixed incorrect Commoner legality for Blood Scent - bug notice credit: Palada
 
-1016023:
+10-16-23:
 - Added card data for Jack-o'-lantern
 - Added printing data for LGS174-LGS176, LGS182-LGS185, and LGS194-LGS197
+
+10-27-23:
+- Added card data for Agility, Double Down, Runner Runner, and Talk a Big Game
+- Added printing data for FAB193-FAB195 and HVY240
