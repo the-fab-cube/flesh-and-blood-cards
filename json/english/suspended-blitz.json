@@ -331,5 +331,14 @@
         "date_in_effect": "2023-05-05T00:00:00.000Z",
         "planned_end": "",
         "legality_article": "https://fabtcg.com/articles/banned-suspended-may-2023/"
+    },
+    {
+        "unique_id": "6Rfz8mJrLGqCQtpkHNkTN",
+        "card_unique_id": "wbTGmgDqLtMmbDgcPzCmJ",
+        "status_active": true,
+        "date_announced": "2023-11-06T00:00:00.000Z",
+        "date_in_effect": "2023-11-06T00:00:00.000Z",
+        "planned_end": "until Chane becomes Living Legend",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-suspended-announcement-nov6/"
     }
 ]

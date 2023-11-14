@@ -1544,10 +1544,10 @@ This enters the arena with a steam counter. At the start of your turn, destroy t
 mWQtWfkKC6hchJcQ67Mpt	Dive Through Data	1	1	4	3			Mechanologist, Action, Attack	Boost, Opt 1						"**Boost**
 
 When this hits, **opt 1**."	Mechanologist Action - Attack					
-NBKMt6PPm7WNcWf79B7NQ	Dive Through Data	2	1	3	3			Mechanologist, Action, Attack	Boost						"**Boost**
+NBKMt6PPm7WNcWf79B7NQ	Dive Through Data	2	1	3	3			Mechanologist, Action, Attack	Boost, Opt 1						"**Boost**
 
 When this hits, **opt 1**."	Mechanologist Action - Attack					
-q87bjWTPpRz8LHrN8drrd	Dive Through Data	3	1	2	3			Mechanologist, Action, Attack	Boost						"**Boost**
+q87bjWTPpRz8LHrN8drrd	Dive Through Data	3	1	2	3			Mechanologist, Action, Attack	Boost, Opt 1						"**Boost**
 
 When this hits, **opt 1**."	Mechanologist Action - Attack					
 bzkCGg6kcffpBcBhgHrkH	Dodge	3	0		2			Generic, Defense Reaction								Generic Defense Reaction					
@@ -5776,6 +5776,7 @@ If an item or equipment was banished from **boosting** this, this gets +1{p}."	M
 WbWjnqbPBLjTN8rnbHhDD	Sprocket Rocket	3	0	1	3			Mechanologist, Action, Attack	Boost						"**Boost**
  
 If an item or equipment was banished from **boosting** this, this gets +1{p}."	Mechanologist Action - Attack					
+czfMfgfthg6qKLtKBMQjD	Squizzy & Floof					20	4	Merchant, Hero, Young							At the start of each opposing hero's turn, they may create a Cracked Bauble in their hand. If they do, you create a Gold token.	Merchant Hero - Young		No	No	No	
 kGnRg6Kgz9P68LnjncPGj	Stab Wound	3	0	2	3			Assassin, Ninja, Action, Attack							When this hits a hero, they lose X{h}, where X is the number of times a dagger has hit this combat chain.	Assassin / Ninja Action - Attack				No	
 BCpDT6GfzNwKW8qz7WbrN	Stalagmite, Bastion of Isenloft				2			Ice, Guardian, Equipment, Off-Hand	Temper						Whenever you defend with Stalagmite, create a Frostbite token under the attacking hero's control. **Temper**	Ice Guardian Equipment - Off-Hand				No	
 6nBW69HNQRGM7mpMzNCGB	Stamp Authority	3	3		3			Guardian, Action, Aura							"When Stamp Authority enters the arena, if you have 2 or more cards in your pitch zone with cost 3 or greater, your hero gains +1{i} until end of turn.
