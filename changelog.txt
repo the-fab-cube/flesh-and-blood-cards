@@ -559,3 +559,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data for FAB121 and HER100 (data entry credit - manwaring)
 - Added printing data for LGS197-LGS199 and LGS227
 - Fixed Dive Through Data (yellow and blue) missing Opt 1 keyword (bug notice - Stingray)
+
+TODO:
+- Added card data for HVY
+- Added printing data for HVY

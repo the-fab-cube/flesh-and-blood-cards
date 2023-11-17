@@ -653,6 +653,9 @@ As an additional cost to play Blood on Her Hands, destroy any number of Copper y
 - Target 1H weapon may attack twice this turn.
 
 **Go again**"	Warrior Action				No	
+fgm7jmdTQgBBcd6JPdjcW	Bloodied Oval				*			Generic, Equipment, Off-Hand	Blade Break						"Bloodied Oval's {d} is equal to the number of opposing heroes with greater {h} than you.
+
+**Blade Break**"	Generic Equipment - Off-Hand					
 drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox							Generic, Token, Aura							At the beginning of your end phase, destroy Bloodrot Pox, then it deals 2 damage to you unless you pay {r}{r}{r}.	Generic Token - Aura					
 MrtrMDKjt868mrrb9cjJW	Bloodrot Trap	1	0		3			Assassin, Ranger, Defense Reaction, Trap							When this defends and the attacking hero has played or activated a reaction this chain link, create a Bloodrot Pox token under their control.	Assassin / Ranger Defense Reaction - Trap					
 fTbpMzhTMBwFNCpGKCft7	Bloodrush Bellow	2	1		3			Brute, Action	Go again						"As an additional cost to play Bloodrush Bellow, discard a random card.
@@ -1049,6 +1052,9 @@ tWNrwHgH8LJbC8ndwkwPz	Cinderskin Devotion	3	1	2	3			Draconic, Ninja, Action, Att
 PpwQBBjqmBbgBrKMPbbBr	Cintari Saber			2				Warrior, Weapon, Sword, 1H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 Whenever Cintari Saber is defended by 1 or more attack action cards, it gains +1{p} until end of turn."	Warrior Weapon - Sword (1H)					
+CcGMKpDNfnzz8mKDqmqnc	Cintari Sellsword			3		2		Warrior, Token, Mercenary, Ally		Once per Turn Action	Attack, Go again				"**Once per Turn Action** - {r}: **Attack**. **Go again**
+
+Cintari Sellsword can only attack if you've attacked with a weapon this turn."	Warrior Token - Mercenary Ally					
 TwcL67rLrL9CfqgFdPF9t	Civic Duty				2			Guardian, Equipment, Chest	Temper						"Whenever this defends, create a Vigor token under another hero's control.
 
 **Temper**"	Guardian Equipment - Chest					
@@ -2580,7 +2586,7 @@ Whenever Dawnblade hits a hero this turn, put a +1{p} counter on it.
 
 **Go again**"	Warrior Action				No	
 Ngk6PkmH6JQnfdC9zg8fQ	Go Bananas	2	0					Generic, Instant							Name an action card. Open and reveal a booster pack of Flesh and Blood and put all cards with the chosen name into your hand. If the booster pack does not contain a card with the chosen name, you may repeat this process.	Generic Instant		No	No	No	
-8qdmprPg7kckn8ktMTKQh	Gold							Generic, Token, Item		Action	Go again				**Action** - {r}{r}, destroy Gold: Draw a card. **Go again**	Generic Token - Item					
+8qdmprPg7kckn8ktMTKQh	Gold							Generic, Token, Item		Action	Go again				**Action** - {r}{r}, destroy this: Draw a card. **Go again**	Generic Token - Item					
 bPGmQFC976CBt9cTGc88t	Goliath Gauntlet				0			Generic, Equipment, Arms		Action	Go again				**Action** - Destroy Goliath Gauntlet: The next attack action card with cost 2 or greater you play this turn gains +2{p}. **Go again**	Generic Equipment - Arms					
 nnFHwzGctzmqqwMTrfBpQ	Good Deeds Don't Go Unnoticed	2	0		3			Generic, Action, Aura							"At the start of each other hero's turn, choose 1; they draw a card, they gain {r}, they gain 1{h}, or their next attack this turn gains +1{p}.
 
@@ -2594,6 +2600,9 @@ Draw X cards, where X is 1 plus the number of Gorganian Tomes in all graveyards.
 pwfB8pHmJRDD8CfP8mTbr	Grandeur of Valahai	3						Guardian, Resource, Gem	Legendary						"**Legendary**
 
 When you pitch Grandeur of Valahai, create a Seismic Surge token."	Guardian Resource - Gem				No	
+zBCwfCKHpdpkngRHWMFhN	Grandstand Legplates				*			Generic, Equipment, Legs	Blade Break						"Grandstand Legplates' {d} is equal to the number of opposing heroes with greater {h} than you.
+
+**Blade Break**"	Generic Equipment - Legs					
 76MpwMj77CmK8wDp6HMDn	Grasp of Darkness							Shadow, Equipment, Arms	Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
 
 **Blood Debt**"	Shadow Equipment - Arms					
@@ -2706,6 +2715,9 @@ p8tbQ7KL7G8RwQTtdKnNH	Head Leads the Tail	1	1	3	2			Ninja, Action, Attack	Go aga
 KjdKWBHLWtqdF66zPzRwG	Head Shot	1	1	4	3			Ranger, Action, Arrow, Attack							If Head Shot is put into your arsenal face up, it gains +2{p} until end of turn.	Ranger Action - Arrow Attack					
 cDJpRqfcbpFm8NjnhDfCw	Head Shot	2	1	3	3			Ranger, Action, Arrow, Attack							If Head Shot is put into your arsenal face up, it gains +2{p} until end of turn.	Ranger Action - Arrow Attack					
 zNgcmTJjnWHfGKcLmPw8G	Head Shot	3	1	2	3			Ranger, Action, Arrow, Attack							If Head Shot is put into your arsenal face up, it gains +2{p} until end of turn.	Ranger Action - Arrow Attack					
+BB7nwJkKWfznpRkt6gcCF	Headliner Helm				*			Generic, Equipment, Head	Blade Break						"Headliner Helm's {d} is equal to the number of opposing heroes with greater {h} than you.
+
+**Blade Break**"	Generic Equipment - Head					
 hwFjtcMfQHTbj6whzfhk6	Healing Balm	1	0		2			Generic, Action							Gain 3{h}	Generic Action					
 z6Ltnt69ChWMCDBTTdWkL	Healing Balm	2	0		2			Generic, Action							Gain 2{h}	Generic Action					
 PdKcNzJNPJgpcF9TTCqm6	Healing Balm	3	0		2			Generic, Action							Gain 1{h}	Generic Action					
@@ -2875,6 +2887,9 @@ If you have attacked with a weapon this turn, your next attack this turn gains +
 gqHqnRkFrm7dmJRDf9kzJ	Hit and Run	3	0		3			Warrior, Action	Go again			Go again			"Your next weapon attack this turn gains **go again**.
 
 If you have attacked with a weapon this turn, your next attack this turn gains +1{p}.
+
+**Go again**"	Warrior Action					
+nPfKdqt8wHnfLqdFNHKFH	Hold 'em	1	1		3			Warrior, Action	Go again			Wager			"Your next Warrior attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Vigor token with them.""
 
 **Go again**"	Warrior Action					
 77rDjRrtRKDHTpNwbHWDW	Hold the Line	3	0		2			Generic, Defense Reaction							If the attacking hero has drawn 2 or more cards this turn, prevent the next 3 damage that would be dealt to your hero this turn.	Generic Defense Reaction				No	
@@ -3248,6 +3263,12 @@ wDGJfznzQCFGmwgFfnhfw	Junkyard Dogg	3	3	4	3			Mechanologist, Action, Attack	Scra
 When this attacks, if it **scrapped** a card, this gets +1{p}."	Mechanologist Action - Attack					
 Q9B8TDhTdfDLN8ccnBThK	Kano					15	4	Wizard, Hero, Young		Instant					**Instant** - {r}{r}{r}: Look at the top card of your deck. If it's a 'non-attack' action card, you may banish it. If you do, you may play it this turn as though it were an instant.	Wizard Hero - Young			No		
 kRPqHdCckKBKfRwjbfzNT	Kano, Dracai of Aether					30	4	Wizard, Hero		Instant					**Instant** - {r}{r}{r}: Look at the top card of your deck. If it's a 'non-attack' action card, you may banish it. If you do, you may play it this turn as though it were an instant.	Wizard Hero		No		No	
+GwMRRqcL8rDHFRDTfqWzt	Kassai					20	4	Warrior, Hero, Young		Once per Turn Action	Go again				"If you've drawn a card this turn, your sword attacks cost {r} less to activate.
+
+**Once per Turn Action** - Banish 2 red and 2 yellow cards from your graveyard: The next time a weapon you control hits a hero this turn, create a Gold token. **Go again**"	Warrior Hero - Young			No		
+ffKGNQcWnLkfQD7w66MRL	Kassai of the Golden Sand					40	4	Warrior, Hero		Once per Turn Action	Go again				"If you've drawn a card this turn, your sword attacks cost {r} less to activate.
+
+**Once per Turn Action** - Banish 2 red and 2 yellow cards from your graveyard: The next time a weapon you control hits a hero this turn, create a Gold token. **Go again**"	Warrior Hero		No		No	
 wWmP8RJRq7MWk7kBh9q7w	Kassai, Cintari Sellsword					20	4	Warrior, Hero, Young							"Your second sword attack each turn costs {r} less.
 
 At the beginning of your end phase, if you have attacked 2 or more times with weapons this turn, create a Copper token for each weapon attack that hit."	Warrior Hero - Young			No		
@@ -3631,6 +3652,7 @@ When Miraging Metamorph is destroyed, create a token that's a copy of an aura yo
 dhmDDqtfNCPcBnzfTKzrp	Mischievous Meeps	1	1	2	2			Generic, Action, Attack	Go again						"When this hits a hero, gain control of an item with cost 2 or less they control. Otherwise, draw a card.
 
 **Go again**"	Generic Action - Attack				No	
+7mgnPjCmmLc9K9WwLdhJ6	Money Where Ya Mouth Is	1	1		2			Generic, Action	Go again			Wager			"Your next attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 mhLrKM6RbWGGHNrTGjtMw	Moon Wish	1	2	5	2			Generic, Action, Attack							"You may put a card from your hand on top of your deck rather than pay Moon Wish's {r} cost.
 
 If Moon Wish hits, search your deck for a card named Sun Kiss, reveal it, put it into your hand, then shuffle your deck."	Generic Action - Attack					
@@ -4417,6 +4439,13 @@ bfbfWCWnHw6zP7bfrPGdC	Ragamuffin's Hat				0			Generic, Equipment, Head		Instant	
 dMJht8gmwFJG8cKdpzCnw	Raging Onslaught	2	3	6	3			Generic, Action, Attack								Generic Action - Attack					
 DdH9qjhnPGKnpr9fTfNjb	Raging Onslaught	3	3	5	3			Generic, Action, Attack								Generic Action - Attack					
 K7KgTFCHdGNnqTkJfPtTG	Rain Razors	2	0					Ranger, Instant							Arrows have +2{p} while attacking this turn.	Ranger Instant				No	
+JW7fjRH9gMGGLdgQRjNGk	Raise an Army	2	0		3			Warrior, Action	Kassai Specialization, Go again						"**Kassai Specialization**
+
+As an additional cost to play this, destroy X Gold you control.
+
+Create X Cintari Sellsword tokens.
+
+**Go again**"	Warrior Action				No	
 W6R6JDdMT8g77qmHJCDhG	Rake the Embers	1	1		2			Draconic, Illusionist, Action	Transform, Go again						"Create an Ash token, then **transform** up to 3 ash you control into Aether Ashwings.
 
 **Go again**"	Draconic Illusionist Action					
@@ -5778,6 +5807,9 @@ WbWjnqbPBLjTN8rnbHhDD	Sprocket Rocket	3	0	1	3			Mechanologist, Action, Attack	Bo
 If an item or equipment was banished from **boosting** this, this gets +1{p}."	Mechanologist Action - Attack					
 czfMfgfthg6qKLtKBMQjD	Squizzy & Floof					20	4	Merchant, Hero, Young							At the start of each opposing hero's turn, they may create a Cracked Bauble in their hand. If they do, you create a Gold token.	Merchant Hero - Young		No	No	No	
 kGnRg6Kgz9P68LnjncPGj	Stab Wound	3	0	2	3			Assassin, Ninja, Action, Attack							When this hits a hero, they lose X{h}, where X is the number of times a dagger has hit this combat chain.	Assassin / Ninja Action - Attack				No	
+L6FBCMGPMwNfTBBKrhqDT	Stadium Centerpiece				*			Generic, Equipment, Chest	Blade Break						"Stadium Centerpiece's {d} is equal to the number of opposing heroes with greater {h} than you.
+
+**Blade Break**"	Generic Equipment - Chest					
 BCpDT6GfzNwKW8qz7WbrN	Stalagmite, Bastion of Isenloft				2			Ice, Guardian, Equipment, Off-Hand	Temper						Whenever you defend with Stalagmite, create a Frostbite token under the attacking hero's control. **Temper**	Ice Guardian Equipment - Off-Hand				No	
 6nBW69HNQRGM7mpMzNCGB	Stamp Authority	3	3		3			Guardian, Action, Aura							"When Stamp Authority enters the arena, if you have 2 or more cards in your pitch zone with cost 3 or greater, your hero gains +1{i} until end of turn.
 
@@ -5789,6 +5821,7 @@ zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	7	10	3			Guardian, Action, Attack	Bravo Spec
 **Crush** - When this deals 4 or more damage to a hero, the only attacks they may play or activate during their next turn are attacks with base {p} greater than the damage dealt this way.
 
 **Unity** - When this defends together with a card from hand, create a Seismic Surge token under any number of heroes' control."	Guardian Action - Attack				No	
+kD798qm7kWr9fhCLM9dDm	Starting Stake	2	0		3			Generic, Action							If you control no Gold tokens, create a Gold token.	Generic Action					
 fdQ8rf8W6d7KgDhprdm9k	Stasis Cell	3	0					Mechanologist, Action, Item		Action	Go again				"When this enters or leaves the arena, activated abilities of target equipment can't be activated until the end of its controller's next turn.
 
 **Action** - Put this on the bottom of its owner's deck: Choose an equipment. It can't defend this turn. **Go again**"	Mechanologist Action - Item				No	
@@ -6147,6 +6180,8 @@ zknqNdwtDMrHbRpgKkBJw	Terminator Tank	1	6	6	3			Mechanologist, Action, Attack	Ov
 - 2 or more, this costs {r}{r}{r} less to play,
 - 3 or more, this gets **overpower**,
 - 4 or more, this gets +3{p}."	Mechanologist Action - Attack				No	
+6ChQcHfgrFqCLTrFppwQG	Test of Agility	1			4			Brute, Warrior, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Block					
+zmkd9LqrNQFfqHCWKcQNr	Test of Strength	1			4			Generic, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates a Gold token.	Generic Block					
 89p6tjT7cTLrGWkKrRkjt	That All You Got?	2	0		3			Generic, Defense Reaction							While this is defending an attack with 2 or less {p}, when the combat chain closes, draw a card.	Generic Defense Reaction				No	
 dJCRQcRmp7mhMTNDRgFN8	Thaw	1	2	6	2			Draconic, Action, Attack				Unfreeze			"While thaw is in your graveyard, at the start of your turn, you may banish it and choose 1:
 
@@ -6187,6 +6222,9 @@ hhfqThRH8RttBMmDMr7H6	Tick Tock Clock	1	0					Mechanologist, Action, Item	Crank	
 This enters the arena with a steam counter. At the start of your turn, destroy this and it deals 1 damage to you unless you remove a steam counter from it.
 
 When a Mechanologist attack action card you control hits a hero, destroy this and up to 2 other items in the arena. Then deal X damage to them, where X is the number of items destroyed this way."	Mechanologist Action - Item				No	
+d8qcmDrkwJ7D6FnMjQDW9	Ticket Puncher				*			Generic, Equipment, Arms	Blade Break						"Ticket Puncher's {d} is equal to the number of opposing heroes with greater {h} than you.
+
+**Blade Break**"	Generic Equipment - Arms					
 TDJfbQjqKCwLRT7RczDrM	Tide Flippers				0			Ninja, Equipment, Legs	Arcane Barrier 1	Attack Reaction		Go again			"**Attack Reaction** - Destroy Tide Flippers: Target attack action card with 2 or less base {p} gains **go again**.
 
 **Arcane Barrier 1**"	Ninja Equipment - Legs					

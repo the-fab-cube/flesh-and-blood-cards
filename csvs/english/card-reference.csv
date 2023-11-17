@@ -1,7 +1,7 @@
 Card Unique ID	Card Name	Card Pitch	Referenced Card Unique ID	Referenced Card Name	Referenced Card Pitch
 KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
+nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement	2	jKhMgndCGwjzKLHQMM7Cj	Eloquence	
 nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement	2	n9r77QwMzdWJmnfhPLN9J	Shiyana, Diamond Gemini	
-nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement		jKhMgndCGwjzKLHQMM7Cj	Eloquence	
 GgDFFHhLh8Kc7tJK8nBLj	Alpha Rampage	1	wNRqrHCn6rrKLhrDkqPwp	Rhinar	
 GgDFFHhLh8Kc7tJK8nBLj	Alpha Rampage	1	wr9wBtTWwRrPrdhCRHCdN	Rhinar, Reckless Rampage	
 7nk7cnttWTLRfKgLWnWwP	Already Dead	1	TNJz9fCgqmhhLz9rP9tkt	Silver	
@@ -253,6 +253,8 @@ wfzwGpLbJTtQ9DDhCchdP	Blizzard Bolt	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite
 wqm8d9NngqkJN7dDNwtHJ	Blizzard Bolt	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 gJCkLbwKKhftmCtmQqr7r	Blizzard Bolt	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 RHrBnDBNJwLh8PDLGBmch	Blood On Her Hands	2	gzDGmdfm6gHWctgrcgfKf	Copper	
+RHrBnDBNJwLh8PDLGBmch	Blood On Her Hands	2	GwMRRqcL8rDHFRDTfqWzt	Kassai	
+RHrBnDBNJwLh8PDLGBmch	Blood On Her Hands	2	ffKGNQcWnLkfQD7w66MRL	Kassai of the Golden Sand	
 RHrBnDBNJwLh8PDLGBmch	Blood On Her Hands	2	wWmP8RJRq7MWk7kBh9q7w	Kassai, Cintari Sellsword	
 WQzcLfDqKwCFFJMBcddJ6	Blood Scent		fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
 MrtrMDKjt868mrrb9cjJW	Bloodrot Trap	1	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox	
@@ -514,8 +516,8 @@ Cqwf78hdKQTfgCtbkcrdL	Destructive Deliberation	1	HpWqFJW8ftTDdzCLK9RkD	Ponder
 FgzGnMR8GKFpMNMr7DcKH	Destructive Deliberation	2	HpWqFJW8ftTDdzCLK9RkD	Ponder	
 THJWhmjtGRtWfPMRFFkdd	Destructive Deliberation	3	HpWqFJW8ftTDdzCLK9RkD	Ponder	
 LFhRKcJC6fbfQjKdqLqp7	Diadem of Dreamstate		HpWqFJW8ftTDdzCLK9RkD	Ponder	
-7wcw6w9b7dwfdQwf67MmK	Diamond Hands		hRMhmf8qkn6pR7TWQLqgb	Ruu'di, Gem Keeper	
 7wcw6w9b7dwfdQwf67MmK	Diamond Hands		HRTwtGRhPJkpHT8fN9DGp	Diamond	
+7wcw6w9b7dwfdQwf67MmK	Diamond Hands		hRMhmf8qkn6pR7TWQLqgb	Ruu'di, Gem Keeper	
 WRhC8n6HHNkRn6MjzDHDL	Dishonor	3	RMH9HdzcjCWdzLR7qwgbm	Bonds of Ancestry	1
 WRhC8n6HHNkRn6MjzDHDL	Dishonor	3	dPTR67DTztNrb8wdFHnGW	Bonds of Ancestry	2
 WRhC8n6HHNkRn6MjzDHDL	Dishonor	3	jrHMpbmnF6Hh97PffFzG8	Bonds of Ancestry	3
@@ -703,6 +705,7 @@ j8jNwqCDtMqHPbCrnLcbf	Heron's Flight	1	KWNMNMjTzTQMRK7FF9J6T	Crane Dance	3
 8DbbfFFWLbmpbtdFMbnDM	High Striker	1	gzDGmdfm6gHWctgrcgfKf	Copper	
 dT9zWQdWrRnqwfC7Qmcnp	High Striker	2	gzDGmdfm6gHWctgrcgfKf	Copper	
 RFdQdrNDp9QHmpffbKFfg	High Striker	3	gzDGmdfm6gHWctgrcgfKf	Copper	
+nPfKdqt8wHnfLqdFNHKFH	Hold 'em	1	DBhPCQqjnj6qqd9DtBB7W	Vigor	
 mgrmPqRmdHfMbptFfDcbC	Hummingbird, Adventurer's Call		cDpMQnr8LwPFGMdgffNb8	Quicken	
 pGDD7t8RQzK7gdJkjdhdQ	Hundred Winds	1	pGDD7t8RQzK7gdJkjdhdQ	Hundred Winds	1
 pGDD7t8RQzK7gdJkjdhdQ	Hundred Winds	1	gcfNgcdDLzRGCmpfWnKqF	Hundred Winds	2
@@ -795,6 +798,8 @@ drBDmHmGtr8qtbmgztwdH	Jump Start	1	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
 T8qmHczkFQMWqBMzJWtT6	Jump Start	3	kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
 T8qmHczkFQMWqBMzJWtT6	Jump Start	3	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
 T8qmHczkFQMWqBMzJWtT6	Jump Start	3	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
+GwMRRqcL8rDHFRDTfqWzt	Kassai		8qdmprPg7kckn8ktMTKQh	Gold	
+ffKGNQcWnLkfQD7w66MRL	Kassai of the Golden Sand		8qdmprPg7kckn8ktMTKQh	Gold	
 wWmP8RJRq7MWk7kBh9q7w	Kassai, Cintari Sellsword		gzDGmdfm6gHWctgrcgfKf	Copper	
 rgq8FqBMdhn9khbwjDK6Q	Kavdaen, Trader of Skins		gzDGmdfm6gHWctgrcgfKf	Copper	
 jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	zDfRfgF6fn7WGTKcj67JK	Amulet of Assertiveness	2
@@ -894,6 +899,7 @@ kMHrRGnggnJtkzk7PhbH8	Meat and Greet	3	zfrHQjbPkpBmdQGrWcTMB	Runechant
 npDPz98H6BnJGDzHBmdGk	Melody, Sing-along		gzDGmdfm6gHWctgrcgfKf	Copper	
 r8fjLMCFnQhFrRjwpMTgK	Micro-processor	3	kbdzm8R7MHCpWC79RdTGH	Data Doll MKII	
 PnhGtMCHdMDGwzLj9JGwQ	Mindstate of Tiger	3	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
+7mgnPjCmmLc9K9WwLdhJ6	Money Where Ya Mouth Is	1	8qdmprPg7kckn8ktMTKQh	Gold	
 mhLrKM6RbWGGHNrTGjtMw	Moon Wish	1	QqKLnDCDCgnqtz8bzgFRt	Sun Kiss	1
 mhLrKM6RbWGGHNrTGjtMw	Moon Wish	1	tnCRf6pBMHN7tLRBMRB9p	Sun Kiss	2
 mhLrKM6RbWGGHNrTGjtMw	Moon Wish	1	rcCgrhCWrcPC9RGFqMqm9	Sun Kiss	3
@@ -1056,6 +1062,11 @@ BGtcnnDGHpFQJt8HpJLkh	Quickfire	3	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
 BGtcnnDGHpFQJt8HpJLkh	Quickfire	3	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
 BGtcnnDGHpFQJt8HpJLkh	Quickfire	3	FwwCqJKcNDNMjJn9mTCgg	Hyper Driver	
 DmpnhzMR7WhCgkFWncRkk	Quickstep		cDpMQnr8LwPFGMdgffNb8	Quicken	
+JW7fjRH9gMGGLdgQRjNGk	Raise an Army	2	CcGMKpDNfnzz8mKDqmqnc	Cintari Sellsword	
+JW7fjRH9gMGGLdgQRjNGk	Raise an Army	2	8qdmprPg7kckn8ktMTKQh	Gold	
+JW7fjRH9gMGGLdgQRjNGk	Raise an Army	2	GwMRRqcL8rDHFRDTfqWzt	Kassai	
+JW7fjRH9gMGGLdgQRjNGk	Raise an Army	2	ffKGNQcWnLkfQD7w66MRL	Kassai of the Golden Sand	
+JW7fjRH9gMGGLdgQRjNGk	Raise an Army	2	wWmP8RJRq7MWk7kBh9q7w	Kassai, Cintari Sellsword	
 W6R6JDdMT8g77qmHJCDhG	Rake the Embers	1	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing	
 W6R6JDdMT8g77qmHJCDhG	Rake the Embers	1	G6CnbFqjfGgKqqqmnCbMh	Ash	
 ctP6TMfCKqwK6QpjG7wLH	Rake the Embers	2	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing	
@@ -1329,6 +1340,8 @@ WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	kftPnNkrBLJ7rPmFGgQCm	Dash
 WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	LkqQpr7QL8KpnqMh7dHpR	Dash I/O	
 WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	N6TDqDNWfKfrz6G6jNrQQ	Dash, Database	
 WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	6CcjWGnThrTmTQFQ9zHMN	Dash, Inventor Extraordinaire	
+6ChQcHfgrFqCLTrFppwQG	Test of Agility	1	WqTTMjDgKKCp7Lnb7LH6d	Agility	
+zmkd9LqrNQFfqHCWKcQNr	Test of Strength	1	8qdmprPg7kckn8ktMTKQh	Gold	
 dJCRQcRmp7mhMTNDRgFN8	Thaw	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 gftbNkkj9bNCBFRpnbdtq	Tiger Eye Reflex		fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
 6tj9kHRWLHbCbF6mG6tDh	Tiger Eye Reflex		fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
