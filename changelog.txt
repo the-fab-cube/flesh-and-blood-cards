@@ -559,3 +559,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data for FAB121 and HER100 (data entry credit - manwaring)
 - Added printing data for LGS197-LGS199 and LGS227
 - Fixed Dive Through Data (yellow and blue) missing Opt 1 keyword (bug notice - Stingray)
+
+11-18-23:
+- Added card data for Popped Collar Polo
+- Added printing data for FAB152, HER104, and LSS114-LSS115
