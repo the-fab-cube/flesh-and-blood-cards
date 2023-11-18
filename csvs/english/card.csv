@@ -1,5 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-KLrGzkPn8QfB6cqNqcN8m	Popped Collar Polo				0			Generic, Equipment, Chest		Action	Go again				**Action** - Destroy this: Gain {r}. **Go again**	Generic Equipment - Chest		No	No	No	
 dTKDHwdcrLNPPb6ktczmR	Absorb in Aether	1	1		4			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 tWKN9zRJdgFmpw6pmPmkR	Absorb in Aether	2	1		3			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 WkDkrkTDzRnqWBh7WHJfh	Absorb in Aether	3	1		2			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
@@ -4169,6 +4168,7 @@ This enters the arena with a steam counter. At the start of your turn, destroy t
 
 Action cards get -1{d} while defending your Mechanologist attack action cards."	Mechanologist Action - Item				No	
 HpWqFJW8ftTDdzCLK9RkD	Ponder							Generic, Token, Aura							At the beginning of your end phase, destroy Ponder and draw a card.	Generic Token - Aura					
+KLrGzkPn8QfB6cqNqcN8m	Popped Collar Polo				0			Generic, Equipment, Chest		Action	Go again				**Action** - Destroy this: Gain {r}. **Go again**	Generic Equipment - Chest		No	No	No	
 qLwNCBR9FCfnnPtPjkWNp	Potion of Deja Vu	3	0					Generic, Action, Item		Instant					**Instant** - Destroy Potion of Déjà Vu: Put all cards from your pitch zone on top of your deck in any order.	Generic Action - Item				No	
 LRdKLkdKnTJ8CCczKmwzw	Potion of Ironhide	3	0					Generic, Action, Item		Instant					**Instant** - Destroy Potion of Ironhide: Attack action cards you own gain +1{d} this turn.	Generic Action - Item				No	
 K6NjFFzbnPdFpFCDRLMrK	Potion of Luck	3	0					Generic, Action, Item		Instant					**Instant** - Destroy Potion of Luck: Shuffle your hand and arsenal into your deck then draw that many cards.	Generic Action - Item				No	
