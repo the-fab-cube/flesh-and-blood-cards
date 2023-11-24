@@ -564,6 +564,9 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for Popped Collar Polo
 - Added printing data for FAB152, HER104, and LSS114-LSS115
 
+11-24-23:
+- Added printing data for LSS116
+
 TODO:
 - Added card data for HVY
 - Added printing data for HVY
