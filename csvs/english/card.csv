@@ -1116,6 +1116,11 @@ GtdbFwh9DGwF76LrNhJrn	Codex of Inertia	2	0	0	2			Assassin, Ranger, Action	Go aga
 Create a Ponder token under your control and an Inertia token under each opponent's control.
 
 **Go again**"	Assassin / Ranger Action				No	
+KP7QFDQPWfTW9DwmgBJq9	Coercive Tendency	3	0		3			Assassin, Attack Reaction	Arakni Specialization			Go again		Contract	"**Arakni Specialization**
+
+Look at the top 3 cards of the defending hero's deck. Put them back in any order, then banish the top card of their deck.
+
+If you complete a **contract** this way, your Assassin attacks get **go again** this combat chain."	Assassin Attack Reaction				No	
 WLn8D67P6kfgMj6bmRHhz	Cognition Field	1			3			Mechanologist, Block	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Block				No	
 RpfpDfqWNgzTTJGFHrFnb	Cognition Field	2			2			Mechanologist, Block	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Block				No	
 HK9PTNh6JKQcNK7cqg6Dq	Cognition Field	3			1			Mechanologist, Block	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Block				No	
@@ -2618,6 +2623,11 @@ HTcdhdgt7bhtPBc6NQR7D	Graveling Growl	2	1	6	3			Shadow, Brute, Action, Attack	Bl
 njTt7R6g7QzNHm96wQQDb	Graveling Growl	3	1	5	3			Shadow, Brute, Action, Attack	Blood Debt						"Play Graveling Growl only if a card with 6 or more {p} has been put into your banished zone this turn.
 
 **Blood Debt**"	Shadow Brute Action - Attack					
+Ng9LqqDzcwcTmQmDzWzjT	Graven Call			1				Assassin, Weapon, Dagger, 1H	Piercing 1	Once per Turn Action, Instant	Attack, Go again				"**Once per Turn Action** - {r}{r}: **Attack**. **Go again**
+
+**Piercing 1**
+
+**Instant** - Destroy 2 Silver you control: Equip this with a +1{p} counter. Activate this ability only while this is in your graveyard."	Assassin Weapon - Dagger (1H)				No	
 fNGtM6WDcWMR6DcmjtRdw	Great Library of Solana		2					Light, Action, Landmark	Legendary	Action	Go again				"**Legendary**
 
 At the beginning of each end phase, if a hero has 2 or more cards with yellow color strips in their pitch zone, they gain +1{i} until end of turn.
