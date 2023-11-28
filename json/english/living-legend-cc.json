@@ -86,5 +86,21 @@
         "date_announced": "2023-11-06T00:00:00.000Z",
         "date_in_effect": "2023-11-06T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-suspended-announcement-nov6/"
+    },
+    {
+        "unique_id": "cHqrTrfHqJ6QBgPHmTmLN",
+        "card_unique_id": "8KRCDf6drqhFMKK7hJhbM",
+        "status_active": true,
+        "date_announced": "2023-11-27T00:00:00.000Z",
+        "date_in_effect": "2023-12-01T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legends-iyslander-stormbind-kano-and-kassai-cintari-sellsword/"
+    },
+    {
+        "unique_id": "qmNMPTgzDDBM7NrDCgLg6",
+        "card_unique_id": "Cd6PTGH6CqTHmt7LQmBMp",
+        "status_active": true,
+        "date_announced": "2023-11-27T00:00:00.000Z",
+        "date_in_effect": "2023-12-01T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legends-iyslander-stormbind-kano-and-kassai-cintari-sellsword/"
     }
 ]
