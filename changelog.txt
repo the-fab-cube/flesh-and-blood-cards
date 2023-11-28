@@ -552,9 +552,9 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card images for AZL001-AZL030, BEN001-BEN026, KAT001-KAT026, RIP001-RIP030, and UZU001-UZU031
 
 11-14-23:
-- Update CC Living Legend status for `Lexi, Livewire` and `Voltaire, Strike Twice`
-- Update CC Suspended status for Bull's Eye Bracers
-- Update Blitz Suspended status for Soul Reaping
+- Updated CC Living Legend status for `Lexi, Livewire` and `Voltaire, Strike Twice`
+- Updated CC Suspended status for Bull's Eye Bracers
+- Updated Blitz Suspended status for Soul Reaping
 - Added card data for `Squizzy & Floof` (data entry credit - manwaring)
 - Added printing data for FAB121 and HER100 (data entry credit - manwaring)
 - Added printing data for LGS197-LGS199 and LGS227
@@ -566,3 +566,9 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 11-24-23:
 - Added printing data for LSS116
+
+11-27-23:
+- Updated CC Living Legend status for `Iyslander, Stormbinde` and Kraken's Aethervein
+- Updated CC Suspended status for Amulet of Ice and Hypothermia
+- Updated Blitz Living Legend status for Chane, Galaxxi Black, Kano, Crucible of Aetherweave, `Kassai, Cintari Sellsword`, and Cintari Sabers
+- Updated Blitz Suspended status for Seeds of Agony and Soul Reaping
