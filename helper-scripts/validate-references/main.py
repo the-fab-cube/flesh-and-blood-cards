@@ -90,6 +90,7 @@ legality_csv_filenames = [
     '../../csvs/english/suspended-blitz.csv',
     '../../csvs/english/suspended-cc.csv',
     '../../csvs/english/suspended-commoner.csv',
+    '../../csvs/english/restricted-ll.csv',
 ]
 
 for legality_filename in legality_csv_filenames:

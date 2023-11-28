@@ -37,6 +37,7 @@
         "blitz_suspended": false,
         "cc_suspended": false,
         "commoner_suspended": false,
+        "ll_restricted": false,
         "printings": [
             {
                 "unique_id": "gqTfggK6mrJwr9hMKwDWh",
@@ -93,6 +94,7 @@
         "blitz_suspended": false,
         "cc_suspended": false,
         "commoner_suspended": false,
+        "ll_restricted": false,
         "printings": [
             {
                 "unique_id": "FNpT9W8cRMtNDjTtbMHKp",
@@ -149,6 +151,7 @@
         "blitz_suspended": false,
         "cc_suspended": false,
         "commoner_suspended": false,
+        "ll_restricted": false,
         "printings": [
             {
                 "unique_id": "6bHjcdPFjtzC8cBJjKcnQ",

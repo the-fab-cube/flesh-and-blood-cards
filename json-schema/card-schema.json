@@ -205,6 +205,14 @@
                 "description": "Represents when the card is set to be unsuspended in Commoner. Contains a displayable text describing when it will be unsuspended if it is currently suspended (will not be present otherwise).",
                 "type": ["string"]
             },
+            "ll_restricted": {
+                "description": "A boolean representing if the card is currently restricted in Living Legend.",
+                "type": ["boolean"]
+            },
+            "ll_restricted_start": {
+                "description": "The date the card became banned in Living Legend (will not be present otherwise).",
+                "type": ["string"]
+            },
             "referenced_cards": {
                 "description": "Contains a list of unique IDs representing the various cards referenced by this card.",
                 "type": "array",
@@ -357,6 +365,7 @@
             "blitz_suspended",
             "cc_suspended",
             "commoner_suspended",
+            "ll_restricted",
             "printings"
         ]
     }

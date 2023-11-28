@@ -47,6 +47,7 @@ generate_json_file.legality.generate_json_file("living-legend-cc")
 generate_json_file.legality.generate_json_file("suspended-blitz")
 generate_json_file.legality.generate_json_file("suspended-cc")
 generate_json_file.legality.generate_json_file("suspended-commoner")
+generate_json_file.legality.generate_json_file("restricted-ll")
 
 generate_json_file.art_variation.generate_json_file()
 generate_json_file.card.generate_json_file()

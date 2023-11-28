@@ -50,6 +50,8 @@ def create_table(cur):
             commoner_suspended BOOLEAN NOT NULL DEFAULT FALSE,
             commoner_suspended_start TIMESTAMP,
             commoner_suspended_end VARCHAR(1000),
+            ll_restricted BOOLEAN NOT NULL DEFAULT FALSE,
+            ll_restricted_start TIMESTAMP,
             PRIMARY KEY (unique_id),
             UNIQUE (name, pitch)
         )
@@ -122,6 +124,8 @@ def prep_function(card, language):
         commoner_suspended = card['commoner_suspended']
         commoner_suspended_start = card.get('commoner_suspended_start')
         commoner_suspended_end = card.get('commoner_suspended_end')
+        ll_restricted = card['ll_restricted']
+        ll_restricted_start = card.get('ll_restricted_start')
 
         print("Prepping {0} - {1} card with unique id {2}...".format(name, pitch, unique_id))
 
@@ -132,7 +136,7 @@ def prep_function(card, language):
                    cc_living_legend_start, blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned,
                    commoner_banned_start, upf_banned, upf_banned_start, blitz_suspended, blitz_suspended_start, blitz_suspended_end,
                    cc_suspended, cc_suspended_start, cc_suspended_end, commoner_suspended, commoner_suspended_start,
-                   commoner_suspended_end)
+                   commoner_suspended_end, ll_restricted, ll_restricted_start)
 
 def upsert_function(cur, cards):
         print("Upserting {} cards".format(len(cards)))
@@ -147,7 +151,7 @@ def upsert_function(cur, cards):
             played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
             blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
             blitz_suspended, blitz_suspended_start, blitz_suspended_end, cc_suspended, cc_suspended_start, cc_suspended_end,
-            commoner_suspended, commoner_suspended_start, commoner_suspended_end)""",
+            commoner_suspended, commoner_suspended_start, commoner_suspended_end, ll_restricted, ll_restricted_start)""",
             "(unique_id)",
             """UPDATE SET
                 (name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
@@ -155,13 +159,13 @@ def upsert_function(cur, cards):
                     played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
                     blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
                     blitz_suspended, blitz_suspended_start, blitz_suspended_end, cc_suspended, cc_suspended_start, cc_suspended_end,
-                    commoner_suspended, commoner_suspended_start, commoner_suspended_end) =
+                    commoner_suspended, commoner_suspended_start, commoner_suspended_end, ll_restricted, ll_restricted_start) =
                 (EXCLUDED.name, EXCLUDED.pitch, EXCLUDED.cost, EXCLUDED.power, EXCLUDED.defense, EXCLUDED.health, EXCLUDED.intelligence, EXCLUDED.types, EXCLUDED.card_keywords, EXCLUDED.abilities_and_effects,
                     EXCLUDED.ability_and_effect_keywords, EXCLUDED.granted_keywords, EXCLUDED.removed_keywords, EXCLUDED.interacts_with_keywords, EXCLUDED.functional_text, EXCLUDED.functional_text_plain, EXCLUDED.type_text,
                     EXCLUDED.played_horizontally, EXCLUDED.blitz_legal, EXCLUDED.cc_legal, EXCLUDED.commoner_legal, EXCLUDED.blitz_living_legend, EXCLUDED.blitz_living_legend_start, EXCLUDED.cc_living_legend, EXCLUDED.cc_living_legend_start,
                     EXCLUDED.blitz_banned, EXCLUDED.blitz_banned_start, EXCLUDED.cc_banned, EXCLUDED.cc_banned_start, EXCLUDED.commoner_banned, EXCLUDED.commoner_banned_start, EXCLUDED.upf_banned, EXCLUDED.upf_banned_start,
                     EXCLUDED.blitz_suspended, EXCLUDED.blitz_suspended_start, EXCLUDED.blitz_suspended_end, EXCLUDED.cc_suspended, EXCLUDED.cc_suspended_start, EXCLUDED.cc_suspended_end,
-                    EXCLUDED.commoner_suspended, EXCLUDED.commoner_suspended_start, EXCLUDED.commoner_suspended_end)
+                    EXCLUDED.commoner_suspended, EXCLUDED.commoner_suspended_start, EXCLUDED.commoner_suspended_end, EXCLUDED.ll_restricted, EXCLUDED.ll_restricted_start)
             """
         )
 
