@@ -572,6 +572,12 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated CC Suspended status for Amulet of Ice and Hypothermia
 - Updated Blitz Living Legend status for Chane, Galaxxi Black, Kano, Crucible of Aetherweave, `Kassai, Cintari Sellsword`, and Cintari Sabers
 - Updated Blitz Suspended status for Seeds of Agony and Soul Reaping
+- Added Living Legend Restricted status files and fields
+
+12-03-23:
+- Added card data for Fabric of Blossoms and Fabric of Spring
+- Added printing data for LSS010 and LSS011
+- Updated functional text for Blossom of Spring
 
 TODO:
 - Added card data for HVY

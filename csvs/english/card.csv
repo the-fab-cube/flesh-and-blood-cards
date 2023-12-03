@@ -687,7 +687,7 @@ qbzLPGM6RCTWWhGKdnCNf	Bloodspill Invocation	3	1		2			Runeblade, Action, Aura	Go 
 When an attack action card you control hits, destroy Bloodspill Invocation then create a Runechant token.
 
 When your hero is dealt damage, destroy Bloodspill Invocation."	Runeblade Action - Aura					
-gwz9PFtw8TdHG9DDTDctw	Blossom of Spring				0			Generic, Equipment, Chest		Action	Go again				**Action** - Destroy Blossom of Spring: Gain {r}. **Go again**	Generic Equipment - Chest					
+gwz9PFtw8TdHG9DDTDctw	Blossom of Spring				0			Generic, Equipment, Chest		Action	Go again				**Action** - Destroy this: Gain {r}. **Go again**	Generic Equipment - Chest					
 nDWpQJCqCqHJM6WbhD7GN	Blossoming Spellblade	1	2	6	3			Elemental, Runeblade, Action, Attack	Earth and Lightning Fusion						"**Earth and Lightning Fusion**
 
 If Blossoming Spellblade was fused, it gains ""Whenever this deals damage to an opposing hero, you may banish a 'non-attack' action card from your graveyard. If you do, you may play it this turn as though it were an instant and if it would be put into your graveyard this turn, instead banish it.""
@@ -2161,6 +2161,8 @@ RmRmtQCGDHrktQmrn7KhF	Exude Confidence	1	0	4	2			Generic, Action, Attack		Instan
 N77hdGp96fNQnzc79hqN9	Eye of Ophidia	3						Generic, Resource, Gem	Legendary, Opt 2						"**Legendary**
 
 When you pitch Eye of Ophidia, **opt 2**."	Generic Resource - Gem				No	
+LTzk7nGqnkqRdddd9LRjQ	Fabric of Blossoms	3	0		2			Generic, Action, Construct	Negate						Equip Blossom of Spring. If you don't, **negate this**.	Generic Action - Construct		No	No	No	
+NTnphGB9GCpfrLRQRcNbj	Fabric of Spring	2	0		2			Generic, Action, Construct	Negate						Equip Fyendal's Spring Tunic. If you don't, **negate this**.	Generic Action - Construct		No	No	No	
 cjJpkCtJwndP7FwzwDDQc	Fabricate	1	0					Mechanologist, Instant							"Choose 2;
 
 - Equip a base equipment with Proto in its name from your inventory.

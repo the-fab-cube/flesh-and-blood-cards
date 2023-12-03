@@ -28,6 +28,7 @@ validate_json ../../json-schema/legality-schema.json ../../json/english/living-l
 validate_json ../../json-schema/legality-schema.json ../../json/english/suspended-blitz.json
 validate_json ../../json-schema/legality-schema.json ../../json/english/suspended-cc.json
 validate_json ../../json-schema/legality-schema.json ../../json/english/suspended-commoner.json
+validate_json ../../json-schema/legality-schema.json ../../json/english/restricted-ll.json
 validate_json ../../json-schema/rarity-schema.json ../../json/english/rarity.json
 validate_json ../../json-schema/set-schema.json ../../json/english/set.json
 validate_json ../../json-schema/type-schema.json ../../json/english/type.json
