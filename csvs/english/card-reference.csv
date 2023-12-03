@@ -1,8 +1,4 @@
 Card Unique ID	Card Name	Card Pitch	Referenced Card Unique ID	Referenced Card Name	Referenced Card Pitch
-Ng9LqqDzcwcTmQmDzWzjT	Graven Call		TNJz9fCgqmhhLz9rP9tkt	Silver	
-KP7QFDQPWfTW9DwmgBJq9	Coercive Tendency	3	9F7RHWjLgCDRqwMww99GN	Arakni	
-KP7QFDQPWfTW9DwmgBJq9	Coercive Tendency	3	CKtFCgnGdwMDBh7dzDqqz	Arakni, Huntsman	
-KP7QFDQPWfTW9DwmgBJq9	Coercive Tendency	3	jkwfjdcDbhRnDrPWDnwT9	Arakni, Solitary Confinement	
 KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement	2	jKhMgndCGwjzKLHQMM7Cj	Eloquence	
 nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement	2	n9r77QwMzdWJmnfhPLN9J	Shiyana, Diamond Gemini	
@@ -459,6 +455,9 @@ tjnCb9JGD7mzznFPfDzHp	Codex of Bloodrot	2	HpWqFJW8ftTDdzCLK9RkD	Ponder
 7pc6MTFPJjzjNTRH6zdNh	Codex of Frailty	2	HpWqFJW8ftTDdzCLK9RkD	Ponder	
 GtdbFwh9DGwF76LrNhJrn	Codex of Inertia	2	G6kbCqnBzwjhrb88Q6K7w	Inertia	
 GtdbFwh9DGwF76LrNhJrn	Codex of Inertia	2	HpWqFJW8ftTDdzCLK9RkD	Ponder	
+KP7QFDQPWfTW9DwmgBJq9	Coercive Tendency	3	9F7RHWjLgCDRqwMww99GN	Arakni	
+KP7QFDQPWfTW9DwmgBJq9	Coercive Tendency	3	CKtFCgnGdwMDBh7dzDqqz	Arakni, Huntsman	
+KP7QFDQPWfTW9DwmgBJq9	Coercive Tendency	3	jkwfjdcDbhRnDrPWDnwT9	Arakni, Solitary Confinement	
 NzT7pTMkkPCfNr79ftFtG	Collapsing Trap	3	DhffBQC7PHwzdJpjTjNBm	Riptide	
 NzT7pTMkkPCfNr79ftFtG	Collapsing Trap	3	RNfgGmc8wHgBrmC6gkqBd	Riptide, Lurker of the Deep	
 mjFjGKmpGbTCnrJR6fN79	Construct Nitro Mechanoid	2	wCLt8CtdLmrbMPcqLCzqc	Nitro Mechanoid	
@@ -689,6 +688,7 @@ Mqj9K8NgJ7LFBwMKWk6L7	Genis Wotchuneed		TNJz9fCgqmhhLz9rP9tkt	Silver
 7BHmLFHMLWwnzR7Fhf667	Glistening Steelblade	2	NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy	
 pwfB8pHmJRDD8CfP8mTbr	Grandeur of Valahai		Rf8CHpzmhJNppCtDDKWDm	Seismic Surge	
 6WM7PKt9BCGmw7wQzn7k6	Grasp of the Arknight		zfrHQjbPkpBmdQGrWcTMB	Runechant	
+Ng9LqqDzcwcTmQmDzWzjT	Graven Call		TNJz9fCgqmhhLz9rP9tkt	Silver	
 bpcWc9DJf9pzfBczMWczJ	Grimoire of the Haunt		jKhMgndCGwjzKLHQMM7Cj	Eloquence	
 gqJnkdRN8WkHKtFNtPTgN	Growl		fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
 rWqFtWTCDnrgzPJthDHkR	Hala Goldenhelm		7BHmLFHMLWwnzR7Fhf667	Glistening Steelblade	2
@@ -793,6 +793,8 @@ GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit		6gqTwGnmHjkCLDqKPWt8c	Might
 GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit		cDpMQnr8LwPFGMdgffNb8	Quicken	
 GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit		DBhPCQqjnj6qqd9DtBB7W	Vigor	
 kfCPfkdm8jrFqmHMNGj8h	Jubeel, Spellbane		pdMgMzHwDgBpCNjD7WGLD	Spellbane Aegis	
+D9N8LLTrcrbm9pk7HnPqN	Judge, Jury, Executioner	1	Fc8mPQBjrNq6Fg9LW9RLc	Azalea	
+D9N8LLTrcrbm9pk7HnPqN	Judge, Jury, Executioner	1	PTFnJCdhWD9cFgMMNPqQj	Azalea, Ace in the Hole	
 drBDmHmGtr8qtbmgztwdH	Jump Start	1	kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
 drBDmHmGtr8qtbmgztwdH	Jump Start	1	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
 drBDmHmGtr8qtbmgztwdH	Jump Start	1	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
