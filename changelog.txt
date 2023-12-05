@@ -579,6 +579,11 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data for LSS010 and LSS011
 - Updated functional text for Blossom of Spring
 
+12-04-23:
+- Added printing data for FAB178, HER087-HER088, HER101 and JDG015-JDG018
+- Added images for FAB144-FAB152, HER087, HER100-HER101, LGS176-LGS178, LGS194-LGS199, LGS227, LSS008, and LSS014-LSS016
+- Added TCGPlayer info for FAB178, HER100-HER101, JDG015-JDG018, LGS176-LGS178, and LGS194-LGS199
+
 TODO:
 - Added card data for HVY
 - Added printing data for HVY
