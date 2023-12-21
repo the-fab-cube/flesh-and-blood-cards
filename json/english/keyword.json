@@ -60,6 +60,12 @@
         "description_plain": "Charge is a keyword that exist on Light Warrior attacks. This showcases Boltyn's eagerness to engage in battle and charge his soul in the process. As an additional cost to playing a card with charge you may put a card from your hand into your hero's soul. This would turn on powerful effects that care about if you have charged this turn. You may elect to not pay the additional cost o charge - however this would mean you did not charge.)"
     },
     {
+        "unique_id": "PwFQq6hKkTq7dNjKJ6KcB",
+        "name": "Clash",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "H6nNm6Nndrp8qTGFJL7GB",
         "name": "Combo",
         "description": "A Ninja mechanic that showcases the power of playing multiple attacks in a perfect sequence. **Combo** cares about the last (most recent previous) attack that was played in the combat chain.",
@@ -302,6 +308,18 @@
     {
         "unique_id": "H6QfMpMdgD8Fhcfqgq6rm",
         "name": "Unity",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "tkB9tfFWLbkpqfNJwpTWF",
+        "name": "Universal",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "k9Tt9gnfKHKFHHmq9LTnG",
+        "name": "Wager",
         "description": "",
         "description_plain": ""
     },

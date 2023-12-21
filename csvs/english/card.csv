@@ -450,6 +450,11 @@ NGzjQTd9tDcWJPnrR8PqH	Beseech the Demigon	2	0		2			Shadow, Action	Go again						
 kB67fM6fFzGPc79Mqrn9Q	Beseech the Demigon	3	0		2			Shadow, Action	Go again						"Choose an attack action card in your banished zone. It gets +1{p} until end of turn.
 
 **Go again**"	Shadow Action					
+fkJjHhHdB79QkMRRGLRTr	Bet Big	1	4	8	3			Guardian, Action, Attack	Betsy Specialization, Wager						"**Betsy Specialization**
+
+When this attacks a hero, you may **wager** a Gold, Might, and Vigor token with them."	Guardian Action - Attack				No	
+zdWrPkDgdbWdGBWjCLnhj	Betsy					20	4	Guardian, Hero, Young				Overpower		Wager	Whenever an attack you control **wagers**, you may pay {r}{r}. If you do, the attack gets +1{p} and **overpower**.	Guardian Hero - Young			No		
+m7WjNjrtmfKdLfqPLWDHw	Betsy, Skin in the Game					40	4	Guardian, Hero				Overpower		Wager	Whenever an attack you control **wagers**, you may pay {r}{r}. If you do, the attack gets +1{p} and **overpower**.	Guardian Hero		No		No	
 zgRHgqkpfq7FTNgrjRnbj	Big Bertha	1	3	6	3			Mechanologist, Action, Attack	Boost					Boost	"**Boost**
 
 When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
@@ -460,6 +465,9 @@ BbhMcGn9tRzPq6qdt8f8W	Big Bertha	3	3	4	3			Mechanologist, Action, Attack	Boost		
 
 When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
 8FG8jW7HFB6fmBR6mkQdn	Big Shot	1	3	6	3			Mechanologist, Action, Attack						Boost	If you've **boosted** 2 or more times this turn, this gets +2{p}.	Mechanologist Action - Attack				No	
+8qgwqKgbDwGwGNMjh7qLQ	Bigger Than Big	1	3		2			Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +5{p} and ""When this attacks a hero, you may **wager** a Might token with them."""	Guardian Action - Aura					
+zGd78mnnbrJdQLzn7TqRk	Bigger Than Big	2	3		2			Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +4{p} and ""When this attacks a hero, you may **wager** a Might token with them."""	Guardian Action - Aura					
+TK6twQMzpt7pKnRM8bFKn	Bigger Than Big	3	3		2			Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Might token with them."""	Guardian Action - Aura					
 jCLhjJp9PcgJFQHQfLQrf	Billowing Mirage	1	1	3	3			Draconic, Illusionist, Action, Attack	Transform, Go again						"When you attack with Billowing Mirage, **transform** up to 1 ash you control into an Aether Ashwing.
 
 **Go again**"	Draconic Illusionist Action - Attack					
@@ -2596,6 +2604,9 @@ Whenever Dawnblade hits a hero this turn, put a +1{p} counter on it.
 
 **Go again**"	Warrior Action				No	
 Ngk6PkmH6JQnfdC9zg8fQ	Go Bananas	2	0					Generic, Instant							Name an action card. Open and reveal a booster pack of Flesh and Blood and put all cards with the chosen name into your hand. If the booster pack does not contain a card with the chosen name, you may repeat this process.	Generic Instant		No	No	No	
+gnCjFF9rFPTrhTrBcjJGc	Goblet of Bloodrun Wine	3	0		2			Warrior, Action	Go again						"Create an Agility and a Vigor token.
+
+**Go again**"	Warrior Action					
 8qdmprPg7kckn8ktMTKQh	Gold							Generic, Token, Item		Action	Go again				**Action** - {r}{r}, destroy this: Draw a card. **Go again**	Generic Token - Item					
 bPGmQFC976CBt9cTGc88t	Goliath Gauntlet				0			Generic, Equipment, Arms		Action	Go again				**Action** - Destroy Goliath Gauntlet: The next attack action card with cost 2 or greater you play this turn gains +2{p}. **Go again**	Generic Equipment - Arms					
 nnFHwzGctzmqqwMTrfBpQ	Good Deeds Don't Go Unnoticed	2	0		3			Generic, Action, Aura							"At the start of each other hero's turn, choose 1; they draw a card, they gain {r}, they gain 1{h}, or their next attack this turn gains +1{p}.
@@ -4082,6 +4093,9 @@ If you have dealt arcane damage to an opposing hero this turn, Piercing Shadow V
 fq6Pbr7BmJdqbLFqdfdTW	Pink Visor							Merchant, Equipment, Head	Ruu'di Specialization	Once per Turn Action					"**Ruu'di Specialization**
 
 **Once per Turn Action** - {r}: The next card you reveal this turn has its grade increased by 1. **Go again**"	Merchant Equipment - Head		No	No	No	
+bRM9LLRrhJ8LLqBrGKCgb	Pint of Strong and Stout	3	0		2			Guardian, Action	Go again						"Create a Might and a Vigor token.
+
+**Go again**"	Guardian Action					
 NDJfTHzHkWNMz77HPFkgD	Pitfall Trap	2	0		3			Ranger, Defense Reaction, Trap							"Pitfall Trap can only be played from arsenal.
 
 When this defends, deal 2 damage to the attacking hero unless they pay {r}."	Ranger Defense Reaction - Trap				No	
@@ -5544,6 +5558,9 @@ jrRgGDGgCCbTG8gkfgJjb	Smash and Grab	1	3	5	3			Mechanologist, Action, Attack				
 8qztqjgD9PcLm6kqFTngM	Smash with Big Tree	1	2	7				Brute, Action, Attack								Brute Action - Attack					
 nTrqQhGFhgg6HJGBWgjmq	Smash with Big Tree	2	2	6				Brute, Action, Attack								Brute Action - Attack					
 7hdNz98BfjDQmrckcQzLh	Smash with Big Tree	3	2	5				Brute, Action, Attack								Brute Action - Attack					
+87pqdhz7F6GRCGzpD7cjj	Smashback Alehorn	3	0		2			Brute, Action	Go again						"Create an Agility and a Might token.
+
+**Go again**"	Brute Action					
 cF9RB7PrtgKHQ7FRmcdM9	Smashing Good Time	1	0		2			Generic, Action	Go again						"The next time an attack action card hits a hero this turn, you may destroy an item they control with cost 2 or less.
 
 If Smashing Good Time is played from arsenal, the next attack action card you play this turn gains +3{p}.
@@ -6650,6 +6667,18 @@ Whenever you play a Shadow non-attack action card, you may pay {h}. If you do, t
 
 Whenever you play a Shadow non-attack action card, you may pay {h}. If you do, the next Runechant effect that would deal damage this turn can't be prevented."	Shadow Runeblade Hero		No		No	
 MFrJG8G8RgrhkpfkD8KWj	Vynserakai			6		1		Draconic, Illusionist, Dragon, Ally							Whenever Vynserakai hits a hero, he deals 3 arcane damage to them.	Draconic Illusionist - Dragon Ally				No	
+HkLqBHQMJDcpJrMh7zhFm	Wage Agility	1	3	7	2			Brute, Warrior, Action, Attack							When this attacks a hero, you may **wager** an Agility token with them.	Brute / Warrior Action - Attack					
+PQJbFn9m8g7J6BttmD6LN	Wage Gold	1	3	7	1			Generic, Action, Attack	Universal, Wager						"**Universal**
+
+When this attacks a hero, you may **wager** a Gold token with them."	Generic Action - Attack					
+rz9tKHQJFKq8wCbrKFchG	Wage Gold	2	3	6	1			Generic, Action, Attack	Universal, Wager						"**Universal**
+
+When this attacks a hero, you may **wager** a Gold token with them."	Generic Action - Attack					
+NQch97pRQJKKFBcwtTP9c	Wage Gold	3	3	5	1			Generic, Action, Attack	Universal, Wager						"**Universal**
+
+When this attacks a hero, you may **wager** a Gold token with them."	Generic Action - Attack					
+LRqdhhQnNFKCpttQmMJKq	Wage Might	1	3	7	2			Brute, Guardian, Action, Attack	Wager						When this attacks a hero, you may **wager** a Might token with them.	Brute / Guardian Action - Attack					
+cgFCqbggd6BNB8kHFWNKJ	Wage Vigor	1	3	7	2			Guardian, Warrior, Action, Attack	Wager						When this attacks a hero, you may **wager** a Vigor token with them.	Guardian / Warrior Action - Attack					
 mdhBmNB8JHPmK9KzKg7D6	Wall Breaker	1	2	6	3			Shadow, Brute, Action, Attack	Overpower, Blood Debt						"If you've banished a card with 6 or more {p} this turn, this gets **overpower**.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	
