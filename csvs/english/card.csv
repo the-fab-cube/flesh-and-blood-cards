@@ -3859,6 +3859,8 @@ hw6qHfWdqQGfRPfKJMgR7	Oldhim					20	4	Elemental, Guardian, Hero, Young	Essence o
 bh96L8jp69mNpjcGRCDbj	Oldhim, Grandfather of Eternity					40	4	Elemental, Guardian, Hero	Essence of Earth and Ice	Once per Turn Defense Reaction					"**Essence of Earth and Ice**
 
 **Once per Turn Defense Reaction** - {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck."	Elemental Guardian Hero		No		No	
+t7H7JCQcTb9TTjjCbNwDH	Olympia					20	4	Warrior, Hero, Young						Wager	The first time each of your attacks wins a **wager**, create a Gold token.	Warrior Hero - Young			No		
+9JqrM7dbgfG87L6tPghrM	Olympia, Prized Fighter					40	4	Warrior, Hero						Wager	The first time each of your attacks wins a **wager**, create a Gold token.	Warrior Hero		No		No	
 rC98Cch9DNGTfpggrNBh6	On a Knife Edge	2	0		2			Generic, Action	Go again			Go again			"Your next sword attack this turn gains **go again**.
 
 **Go again**"	Generic Action					
@@ -6099,6 +6101,9 @@ hhQwdkFWGnMzRtpDBTzQ9	Take Flight	3	1	2	3			Light, Warrior, Action, Attack	Charg
 
 If you've **charged** this turn, Take Flight gains **go again**."	Light Warrior Action - Attack					
 TtF8Q9WNQqPmJdrd6qp7k	Take the Tempo	1	1	5	3			Ninja, Action, Attack							When Take the Tempo hits, if you've hit 3 or more times this combat chain, banish the top card of your deck. If it's an attack action card, you may play it until the end of your next turn.	Nina Action - Attack				No	
+p6Q8Fw6T7dfBwGGpwQDrq	Take the Upper Hand	1	0		3			Warrior, Attack Reaction						Wager	"Play this only if you've **wagered** this chain link.
+
+Target attack gets +3{p}."	Warrior Attack Reaction				No	
 zbnpfqW7d6CqN9wT8Dcft	Tales of Adventure	3	0		3			Bard, Action	Yorick Specialization						"**Yorick Specialization**
 
 Each other hero chooses and creates a token that hasn't been chosen; Aether Ashwing, Embodiment of Earth, Embodiment of Lightning, Ponder, Quicken, Runechant, Seismic Surge, Soul Shackle, Spectral Shield, Zen State.
@@ -6513,6 +6518,13 @@ j9DCRLfzFKbQzprNRw8Ld	Unworldly Bellow	3	1		3			Shadow, Brute, Action	Go again		
 The next Brute or Shadow attack action card you play this turn gains +2{p}.
 
 **Go again**"	Shadow Brute Action					
+W7QPrj9bzNgddWCCFFCRw	Up the Ante	3	X		3			Warrior, Attack Reaction	Olympia Specialization, Wager			Wager		Wager	"**Olympia Specialization**
+
+Choose X+1;
+- Target attack **wagers** an Agility token with the defending hero.
+- Target attack **wagers** a Gold token with the defending hero.
+- Target attack **wagers** a Vigor token with the defending hero.
+- Target attack gets +Y{p}, where Y is the number of times it has **wagered**."	Warrior Attack Reaction				No	
 N9RMNzqcJCBQ98hchcLpb	Uprising	1	0		3			Draconic, Action	Go again						"Your next 4 Draconic attacks this turn gain +1{p}.
 
 **Go again**"	Draconic Action				No	
