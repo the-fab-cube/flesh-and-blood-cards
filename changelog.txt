@@ -592,3 +592,4 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 TODO:
 - Added card data for HVY
 - Added printing data for HVY
+- Fixed Codex of Inertia having 0 power instead of null
