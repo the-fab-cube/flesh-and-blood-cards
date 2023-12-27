@@ -30,6 +30,12 @@
         "description_plain": "Equipment that wear down after each time they are used to defend. If you defend with a card with Battleworn, put a -1{d} counter on it when the combat chain closes."
     },
     {
+        "unique_id": "JHPDpLdkdBNb76pLM9q8C",
+        "name": "Beat Chest",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "cG88qzrJhwLnJH6TJ9cpp",
         "name": "Blade Break",
         "description": "Equipment that are fragile and break after being used to defend. If you defend with a card with **Blade Break**, destroy it when the combat chain closes.",
