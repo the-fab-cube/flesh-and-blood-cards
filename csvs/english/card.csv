@@ -3304,6 +3304,16 @@ At the beginning of your end phase, if you have attacked 2 or more times with we
 QnGJNBGBFw98q9n9NCdRW	Katsu					20	4	Ninja, Hero, Young		Once per turn Effect				Combo	The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it face up, then shuffle your deck. You may play it this turn.	Ninja Hero - Young			No		
 nM8BHGHd9qLGTPgwtWzkJ	Katsu, the Wanderer					40	4	Ninja, Hero		Once per turn Effect				Combo	The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it face up, then shuffle your deck. You may play it this turn.	Ninja Hero		No		No	
 rgq8FqBMdhn9khbwjDK6Q	Kavdaen, Trader of Skins					20	4	Merchant, Hero, Young		Once per Turn Action	Go again				**Once per Turn Action** - {r}{r}{r}: If a hero has more {h} than all other hero's, they lose 1{h} and create a Copper token. Then if a hero has less {h} than all other hero's, they gain 1{h}. **Go again**	Merchant Hero - Young			No		
+HhFFJJRzq78LdNWPJP88t	Kayo					20	4	Brute, Hero, Young							"You have 1 weapon zone.
+
+Attack action cards you own get +1{p} while they are in any zone other than the combat chain.
+
+The first time you discard a card with 6 or more {p} during each of your action phases, create a Might token."	Brute Hero - Young			No		
+qdLHRPTdGkw6TjpMjPTW7	Kayo, Armed and Dangerous					40	4	Brute, Hero							"You have 1 weapon zone.
+
+Attack action cards you own get +1{p} while they are in any zone other than the combat chain.
+
+The first time you discard a card with 6 or more {p} during each of your action phases, create a Might token."	Brute Hero		No		No	
 NcQMQ79gb9P7CTMfWfBz8	Kayo, Berserker Runt					19	4	Brute, Hero, Young							"Whenever you play an attack action card with base power 6 or more {p}, roll a 6 sided die. On;
 
 - 1 to 4 - Halve the attack's base {p}, rounded down.
