@@ -1,12 +1,6 @@
 Card Unique ID	Card Name	Card Pitch	Referenced Card Unique ID	Referenced Card Name	Referenced Card Pitch
-9JqrM7dbgfG87L6tPghrM	Olympia, Prized Fighter		8qdmprPg7kckn8ktMTKQh	Gold	
-t7H7JCQcTb9TTjjCbNwDH	Olympia		8qdmprPg7kckn8ktMTKQh	Gold	
-W7QPrj9bzNgddWCCFFCRw	Up the Ante	3	9JqrM7dbgfG87L6tPghrM	Olympia, Prized Fighter	
-W7QPrj9bzNgddWCCFFCRw	Up the Ante	3	t7H7JCQcTb9TTjjCbNwDH	Olympia	
-W7QPrj9bzNgddWCCFFCRw	Up the Ante	3	WqTTMjDgKKCp7Lnb7LH6d	Agility	
-W7QPrj9bzNgddWCCFFCRw	Up the Ante	3	8qdmprPg7kckn8ktMTKQh	Gold	
-W7QPrj9bzNgddWCCFFCRw	Up the Ante	3	DBhPCQqjnj6qqd9DtBB7W	Vigor	
 KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
+h9jqjKPhPLfwCdgkQ9NBB	Agile Windup	3	WqTTMjDgKKCp7Lnb7LH6d	Agility	
 nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement	2	jKhMgndCGwjzKLHQMM7Cj	Eloquence	
 nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement	2	n9r77QwMzdWJmnfhPLN9J	Shiyana, Diamond Gemini	
 GgDFFHhLh8Kc7tJK8nBLj	Alpha Rampage	1	wNRqrHCn6rrKLhrDkqPwp	Rhinar	
@@ -942,6 +936,7 @@ rpF86BNmBttKMGpckqJnq	Meat and Greet	1	zfrHQjbPkpBmdQGrWcTMB	Runechant
 kMHrRGnggnJtkzk7PhbH8	Meat and Greet	3	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 npDPz98H6BnJGDzHBmdGk	Melody, Sing-along		gzDGmdfm6gHWctgrcgfKf	Copper	
 r8fjLMCFnQhFrRjwpMTgK	Micro-processor	3	kbdzm8R7MHCpWC79RdTGH	Data Doll MKII	
+RjjGjcfnzzmwGGw6DcLWj	Mighty Windup	3	6gqTwGnmHjkCLDqKPWt8c	Might	
 PnhGtMCHdMDGwzLj9JGwQ	Mindstate of Tiger	3	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
 7mgnPjCmmLc9K9WwLdhJ6	Money Where Ya Mouth Is	1	8qdmprPg7kckn8ktMTKQh	Gold	
 mhLrKM6RbWGGHNrTGjtMw	Moon Wish	1	QqKLnDCDCgnqtz8bzgFRt	Sun Kiss	1
@@ -991,6 +986,8 @@ F6nMWMTR7mjDm9LMjhgpd	Oblivion	3	GpmN8jcWjbH7fMHd7hWjJ	Nasreth, the Soul Harrowe
 F6nMWMTR7mjDm9LMjhgpd	Oblivion	3	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 F6nMWMTR7mjDm9LMjhgpd	Oblivion	3	WhKb7MKbcDLhGThWGP8hT	Vynnset	
 F6nMWMTR7mjDm9LMjhgpd	Oblivion		9CwWmnzhhfLbJgc6q7Hm7	Vynnset, Iron Maiden	
+t7H7JCQcTb9TTjjCbNwDH	Olympia		8qdmprPg7kckn8ktMTKQh	Gold	
+9JqrM7dbgfG87L6tPghrM	Olympia, Prized Fighter		8qdmprPg7kckn8ktMTKQh	Gold	
 pFLwpNDCLLMNtd7rRqNMf	One-Two Punch	1	JtCMThrjDDLjGmBbCcpWc	Head Jab	1
 pFLwpNDCLLMNtd7rRqNMf	One-Two Punch	1	CwHzMDBNQRNdWpMc7phMr	Head Jab	2
 pFLwpNDCLLMNtd7rRqNMf	One-Two Punch	1	CbngjC9FTFNdmTGT7ddCT	Head Jab	3
@@ -1426,6 +1423,11 @@ wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breake
 wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	n9r77QwMzdWJmnfhPLN9J	Shiyana, Diamond Gemini	
 wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	pdMgMzHwDgBpCNjD7WGLD	Spellbane Aegis	
+W7QPrj9bzNgddWCCFFCRw	Up the Ante	3	9JqrM7dbgfG87L6tPghrM	Olympia, Prized Fighter	
+W7QPrj9bzNgddWCCFFCRw	Up the Ante	3	t7H7JCQcTb9TTjjCbNwDH	Olympia	
+W7QPrj9bzNgddWCCFFCRw	Up the Ante	3	WqTTMjDgKKCp7Lnb7LH6d	Agility	
+W7QPrj9bzNgddWCCFFCRw	Up the Ante	3	8qdmprPg7kckn8ktMTKQh	Gold	
+W7QPrj9bzNgddWCCFFCRw	Up the Ante	3	DBhPCQqjnj6qqd9DtBB7W	Vigor	
 bChp6GBR8QhHJLgpzKC6J	V of the Vanguard	2	Fmf8trg9w8B8BBbWrf8w9	Boltyn	
 bChp6GBR8QhHJLgpzKC6J	V of the Vanguard	2	QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breaker of Dawn	
 zWhGF8kMMdmKdhMNdj6NH	Valda Brightaxe		Rf8CHpzmhJNppCtDDKWDm	Seismic Surge	

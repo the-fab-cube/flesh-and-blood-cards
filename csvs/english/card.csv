@@ -84,6 +84,7 @@ CrWjLrqtQtppQhQCMt9LH	Aether Wildfire	1	2		3			Wizard, Action							"Deal 4 arca
 
 If Aether Wildfire is played during an opponents turn, until end of turn, action card effects that deal arcane damage instead deal that much arcane damage plus X, where X is the damage dealt by Aether Wildfire."	Wizard Action				No	
 hp6NPdQkGkWhrwpd7JWTF	Aetherize	3	1					Wizard, Instant	Negate						**Negate** target instant card with cost {r} or less.	Wizard Instant				No	
+h9jqjKPhPLfwCdgkQ9NBB	Agile Windup	3	3	5	2			Brute, Warrior, Action, Attack		Instant					**Instant** - Discard this: Create an Agility token.	Brute / Warrior Action - Attack					
 WqTTMjDgKKCp7Lnb7LH6d	Agility							Generic, Token, Aura				Go again			At the start of your turn, destroy this, then your next attack this turn gets **go again**.	Generic Token - Aura					
 nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement	2	2	2	2			Shapeshifter, Action, Attack	Shiyana Specialization, Unity						"**Shiyana Specialization**
 
@@ -3654,6 +3655,7 @@ r8fjLMCFnQhFrRjwpMTgK	Micro-processor	3	2					Mechanologist, Action, Item	Data D
 
 The first time you activate Micro-processor each turn, gain 1 action point."	Mechanologist Action - Item				No	
 6gqTwGnmHjkCLDqKPWt8c	Might							Generic, Token, Aura							At the start of your turn, destroy this, then your next attack this turn gets +1{p}.	Generic Token - Aura					
+RjjGjcfnzzmwGGw6DcLWj	Mighty Windup	3	3	5	2			Brute, Guardian, Action, Attack		Instant					**Instant** - Discard this: Create a Might token.	Brute / Guardian Action - Attack					
 LBLTcF8zccK7mKLcDqgPb	Mind Warp	2	0		3			Wizard, Action	Surge						"Deal 2 arcane damage to target hero.
 
 **Surge** - If this deals more than 2 damage to a hero, they shuffle their hand into their deck, then they draw that many cards minus 1."	Wizard Action				No	
@@ -3808,6 +3810,9 @@ When this hits a hero, banish the top card of their deck."	Assassin Action - Att
 G78pTWjgm7fW77FWfLpkM	Nix the Nimble	3	1	3	3			Assassin, Action, Attack	Contract						"**Contract** - You are contracted to banish opponents' reaction cards. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."	Assassin Action - Attack					
+nQpD6DkRrkPWthN78mh8P	No Fear	1	0					Brute, Instant							"As an additional cost to play this, banish any number of cards with 6 or more {p} from your hand. At the beginning of the end phase, return them to your hand.
+
+The next time you would be dealt damage this turn, prevent X of that damage, where X is 2 plus the number of cards banished to play this."	Brute Instant				No	
 zDLrkgc8QGm77T8qPGwqd	Nock the Deathwhistle	3	0		3			Ranger, Action	Azalea Specialization, Reload, Go again						"**Azalea Specialization**
 
 Search your deck for an arrow card, reveal it, then shuffle your deck and put it on top of your deck.
