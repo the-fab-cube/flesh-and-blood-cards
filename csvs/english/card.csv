@@ -727,6 +727,16 @@ NdJfHMk8nMjh67drcwMK7	Bonebreaker Bellow	1	1		3			Brute, Action	Beat Chest, Go a
 Your next Brute attack this turn gains +3{p}. If you've **beaten chest** this turn, instead it gains +5{p}.
 
 **Go again**"	Brute Action					
+TDLFjnMHgTRGkfnwrFkLh	Bonebreaker Bellow	2	1		3			Brute, Action	Beat Chest, Go again					Beat Chest	"**Beat Chest**
+
+Your next Brute attack this turn gains +2{p}. If you've **beaten chest** this turn, instead it gains +5{p}.
+
+**Go again**"	Brute Action					
+RjcPtRpbKCD9THck8w7Nw	Bonebreaker Bellow	3	1		3			Brute, Action	Beat Chest, Go again					Beat Chest	"**Beat Chest**
+
+Your next Brute attack this turn gains +1{p}. If you've **beaten chest** this turn, instead it gains +5{p}.
+
+**Go again**"	Brute Action					
 wmTPDLtBjwhmbKqqJmgCm	Boneyard Marauder	1	1	6	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play Boneyard Marauder, banish 3 random cards from your graveyard.
 
 **Blood Debt**"	Shadow Brute Action - Attack					
@@ -4563,6 +4573,12 @@ gBWrqJjBJrKJHBCdmBtcC	Ravenous Rabble	3	0	3	2			Generic, Action, Attack	Go again
 
 **Go again**"	Generic Action - Attack					
 kcCW9ztqdpRtmqtM7h8kB	Rawhide Rumble	1	2	6	3			Brute, Action, Attack	Beat Chest, Intimidate					Beat Chest	"**Beat Chest**
+
+When this attacks a hero, if you've **beaten chest** this turn, **intimidate** them."	Brute Action - Attack				No	
+BT8PkTWJLPMRmprqRJJjb	Rawhide Rumble	2	2	5	3			Brute, Action, Attack	Beat Chest, Intimidate					Beat Chest	"**Beat Chest**
+
+When this attacks a hero, if you've **beaten chest** this turn, **intimidate** them."	Brute Action - Attack				No	
+kQKHchJfQHNR7zbbBPQCR	Rawhide Rumble	3	2	4	3			Brute, Action, Attack	Beat Chest, Intimidate					Beat Chest	"**Beat Chest**
 
 When this attacks a hero, if you've **beaten chest** this turn, **intimidate** them."	Brute Action - Attack				No	
 MkwQMWr6GQMDNHdDFgtk9	Ray of Hope	2	1					Light, Instant							"Attacks you control have +1{p} while attacking a Shadow hero this turn.
