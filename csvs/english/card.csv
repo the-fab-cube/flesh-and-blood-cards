@@ -1,9 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-NdJfHMk8nMjh67drcwMK7	Bonebreaker Bellow	1	1		3			Brute, Action	Beat Chest, Go again					Beat Chest	"**Beat Chest**
-
-Your next Brute attack this turn gains +3{p}. If you've **beaten chest** this turn, instead it gains +5{p}.
-
-**Go again**"	Brute Action					
 dTKDHwdcrLNPPb6ktczmR	Absorb in Aether	1	1		4			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 tWKN9zRJdgFmpw6pmPmkR	Absorb in Aether	2	1		3			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 WkDkrkTDzRnqWBh7WHJfh	Absorb in Aether	3	1		2			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
@@ -727,6 +722,11 @@ FtpGCGDBMdRPgcbb7MTdM	Bone Head Barrier	2	1					Brute, Instant							Roll a 6 si
 96FgPdNpKj7CpbmtgGCjR	Bone Vizier				1			Brute, Equipment, Head	Blade Break						"When Bone Vizier is destroyed, reveal the top card of your deck. If it has 6 or more {p}, put it on top of your deck. Otherwise, put it on the bottom.
 
 **Blade Break**"	Brute Equipment - Head					
+NdJfHMk8nMjh67drcwMK7	Bonebreaker Bellow	1	1		3			Brute, Action	Beat Chest, Go again					Beat Chest	"**Beat Chest**
+
+Your next Brute attack this turn gains +3{p}. If you've **beaten chest** this turn, instead it gains +5{p}.
+
+**Go again**"	Brute Action					
 wmTPDLtBjwhmbKqqJmgCm	Boneyard Marauder	1	1	6	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play Boneyard Marauder, banish 3 random cards from your graveyard.
 
 **Blood Debt**"	Shadow Brute Action - Attack					
@@ -4562,6 +4562,9 @@ Nqzb8D8Kkdw8pjk9R9Wb7	Ravenous Rabble	2	0	4	2			Generic, Action, Attack	Go again
 gBWrqJjBJrKJHBCdmBtcC	Ravenous Rabble	3	0	3	2			Generic, Action, Attack	Go again						"When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way.
 
 **Go again**"	Generic Action - Attack					
+kcCW9ztqdpRtmqtM7h8kB	Rawhide Rumble	1	2	6	3			Brute, Action, Attack	Beat Chest, Intimidate					Beat Chest	"**Beat Chest**
+
+When this attacks a hero, if you've **beaten chest** this turn, **intimidate** them."	Brute Action - Attack				No	
 MkwQMWr6GQMDNHdDFgtk9	Ray of Hope	2	1					Light, Instant							"Attacks you control have +1{p} while attacking a Shadow hero this turn.
 
 If you have less {h} than an opposing Shadow hero, put Ray of Hope into your hero's soul."	Light Instant					
@@ -5391,6 +5394,11 @@ Jft78nTNLMwm6KCjzwP8Q	Short and Sharp	2	1		2			Assassin, Ninja, Attack Reaction	
 9JpPtMLzwkcGrbt9K8tBW	Short and Sharp	3	1		2			Assassin, Ninja, Attack Reaction							"Choose 1;
 - Target dagger attack gains +1{p}.
 - Target attack action card with 2 or less base {p} gains +1{p}."	Assassin / Ninja Attack Reaction					
+qDc8bfW6zw8HrDpgdJcJz	Show No Mercy	1	3	6	3			Brute, Action, Attack	Rhinar Specialization, Intimidate						"**Rhinar Specialization**
+
+When this attacks a hero, **intimidate** them.
+
+If the defending hero has no cards in hand, this gets +3{p}."	Brute Action - Attack				No	
 hMQTg6qwCLqnHBdGbP6wH	Show Time!	3	3		3			Guardian, Action, Aura	Bravo Specialization						"**Bravo Specialization**
 
 When Show Time! enters the arena, search your deck for a Guardian attack action card, reveal it and put it into your hand, then shuffle your deck.
