@@ -698,6 +698,7 @@ nDWpQJCqCqHJM6WbhD7GN	Blossoming Spellblade	1	2	6	3			Elemental, Runeblade, Acti
 If Blossoming Spellblade was fused, it gains ""Whenever this deals damage to an opposing hero, you may banish a 'non-attack' action card from your graveyard. If you do, you may play it this turn as though it were an instant and if it would be put into your graveyard this turn, instead banish it.""
 
 When you attack with Blossoming Spellblade, if it was **fused**, deal 1 arcane damage to target hero."	Elemental Runeblade Action - Attack				No	
+LmKFmh8JznLWB8mTjmRcC	Boast	3			3			Guardian, Block						Clash	This gets +X{d} while defending, where X is twice the number of **clashes** you've won this turn.	Guardian Block				No	
 qh6Ww9QDjpGFfHG8gJgb7	Bolt of Courage	1	0	3	3			Light, Warrior, Action, Attack	Charge					Charge	"As an additional cost to play Bolt of Courage, you may **charge** your hero's soul.
 
 If you've **charged** this turn, Bolt of Courage gains ""If this hits, draw a card."""	Light Warrior Action - Attack					
@@ -3675,6 +3676,9 @@ The first time you activate Micro-processor each turn, gain 1 action point."	Mec
 RGHRQgGJdBhBPgM9Pfgw7	Mighty Windup	1	3	7	2			Brute, Guardian, Action, Attack		Instant					**Instant** - Discard this: Create a Might token.	Brute / Guardian Action - Attack					
 wWrJrBcLPWcwc7RTrc6Bk	Mighty Windup	2	3	6	2			Brute, Guardian, Action, Attack		Instant					**Instant** - Discard this: Create a Might token.	Brute / Guardian Action - Attack					
 RjjGjcfnzzmwGGw6DcLWj	Mighty Windup	3	3	5	2			Brute, Guardian, Action, Attack		Instant					**Instant** - Discard this: Create a Might token.	Brute / Guardian Action - Attack					
+RRfwzgrbMbFGNqppnD8rB	Miller's Grindstone			4				Guardian, Weapon, Hammer, 1H	Clash	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}{r}: **Attack**
+
+When this hits a hero, **clash** with them. If you win, destroy the top card of their deck. If they win, put a -1{p} counter on this."	Guardian Weapon - Hammer (1H)					
 LBLTcF8zccK7mKLcDqgPb	Mind Warp	2	0		3			Wizard, Action	Surge						"Deal 2 arcane damage to target hero.
 
 **Surge** - If this deals more than 2 damage to a hero, they shuffle their hand into their deck, then they draw that many cards minus 1."	Wizard Action				No	
@@ -5902,6 +5906,21 @@ WbWjnqbPBLjTN8rnbHhDD	Sprocket Rocket	3	0	1	3			Mechanologist, Action, Attack	Bo
 If an item or equipment was banished from **boosting** this, this gets +1{p}."	Mechanologist Action - Attack					
 czfMfgfthg6qKLtKBMQjD	Squizzy & Floof					20	4	Merchant, Hero, Young							At the start of each opposing hero's turn, they may create a Cracked Bauble in their hand. If they do, you create a Gold token.	Merchant Hero - Young		No	No	No	
 kGnRg6Kgz9P68LnjncPGj	Stab Wound	3	0	2	3			Assassin, Ninja, Action, Attack							When this hits a hero, they lose X{h}, where X is the number of times a dagger has hit this combat chain.	Assassin / Ninja Action - Attack				No	
+jW9jRfpRdt7tWjpdNCTCz	Stacked in Your Favor	1	2		2			Guardian, Action, Aura	Go again						"**Go again**
+
+Your attack action cards get +3{d} while defending.
+
+At the start of your turn, destroy this, draw a card, then put a card from your hand on top of your deck."	Guardian Action - Aura				No	
+RMzHL8LcWc9KdMbRPP8CB	Stacked in Your Favor	2	2		2			Guardian, Action, Aura	Go again						"**Go again**
+
+Your attack action cards get +2{d} while defending.
+
+At the start of your turn, destroy this, draw a card, then put a card from your hand on top of your deck."	Guardian Action - Aura				No	
+TbgKcWrFRjcpzhF9768BC	Stacked in Your Favor	3	2		2			Guardian, Action, Aura	Go again						"**Go again**
+
+Your attack action cards get +1{d} while defending.
+
+At the start of your turn, destroy this, draw a card, then put a card from your hand on top of your deck."	Guardian Action - Aura				No	
 L6FBCMGPMwNfTBBKrhqDT	Stadium Centerpiece				*			Generic, Equipment, Chest	Blade Break						"Stadium Centerpiece's {d} is equal to the number of opposing heroes with greater {h} than you.
 
 **Blade Break**"	Generic Equipment - Chest					
@@ -6286,6 +6305,11 @@ dJCRQcRmp7mhMTNDRgFN8	Thaw	1	2	6	2			Draconic, Action, Attack				Unfreeze			"Whi
 - Destroy target Frostbite.
 - Destroy target Ice affliction.
 - **Unfreeze** target **frozen** card."	Draconic Action - Attack				No	
+wPnWnDTdFfnjghqkQB88C	The Golden Son	2	4	7	3			Guardian, Action, Attack	Victor Specialization, Overpower					Clash	"**Victor Specialization**
+
+As an additional cost to play this, you may destroy a Gold you control. If you do, this gets +3{p} and **overpower**.
+
+When you win a **clash** revealing this, create a Gold token."	Guardian Action - Attack				No	
 QcgncKTnLcdGKQnwDjqdz	The Librarian				3			Illusionist, Mentor						Specialization	"While The Librarian is face down in arsenal, at the start of your turn, you may turn him face up.
 
 While The Librarian is face up in arsenal, once per turn when you create a Spectral Shield token, draw a card and put a lesson counter on The Librarian. Then if there are 3 or more lesson counters on him, banish him, search your deck for a **specialization** card, put it face up into arsenal, and shuffle."	Illusionist Mentor			No	No	
@@ -6650,6 +6674,12 @@ WppPJNLCfdp8kwwjHDgBT	Vexing Malice	2	1	2	3			Runeblade, Action, Attack							De
 wQh8rPTLTrzGqHhfbGnq6	Vexing Quillhand				0			Runeblade, Equipment, Arms	Arcane Barrier 1	Action	Go again				"**Action** - Destroy Vexing Quillhand: Create 2 Runechant tokens. **Go again**
 
 **Arcane Barrier 1**"	Runeblade Equipment - Arms				No	
+kHmRR6Q7mJPjQgdQJcjpQ	Victor Goldmane					20	4	Guardian, Hero, Young	Clash					Clash	"The first time each turn you create a Gold token from an effect you control, draw a card.
+
+The first time each turn you would fail to win a **clash**, instead you may destroy a Gold you control. If you do, put 1 of the revealed cards on the bottom of its owner's deck, then **clash** again."	Guardian Hero			No		
+fc8jMwTprwnhRbPKDmF9J	Victor Goldmane, High and Mighty					40	4	Guardian, Hero	Clash					Clash	"The first time each turn you create a Gold token from an effect you control, draw a card.
+
+The first time each turn you would fail to win a **clash**, instead you may destroy a Gold you control. If you do, put 1 of the revealed cards on the bottom of its owner's deck, then **clash** again."	Guardian Hero		No		No	
 RCqkLt7cqwdWMNrmFqpc8	Victoria, Archangel of Triumph			4		4		Light, Angel, Ally	Ward 4	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
 When Victoria attacks, you may banish a card from your hero's soul. If you do, attack action cards your opponents control get -1{p} until the start of your next turn.
