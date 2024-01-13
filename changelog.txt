@@ -591,7 +591,9 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 TODO:
 - Added card data for HVY
+- Added card data for Proclamation of Production
 - Added printing data for HVY
-- Fixed Codex of Inertia having 0 power instead of null
 - Updated function text for Vigor
-- TODO: FAB, JDG, and LGS promos
+- Fixed Codex of Inertia having 0 power instead of null
+- Fixed Proclamation of Requisition not having Action marked as an ability
+- TODO: FAB, JDG, and LGS promos printings
