@@ -594,3 +594,4 @@ TODO:
 - Added printing data for HVY
 - Fixed Codex of Inertia having 0 power instead of null
 - Updated function text for Vigor
+- TODO: FAB, JDG, and LGS promos
