@@ -730,12 +730,12 @@ Your next Brute attack this turn gains +3{p}. If you've **beaten chest** this tu
 **Go again**"	Brute Action					
 TDLFjnMHgTRGkfnwrFkLh	Bonebreaker Bellow	2	1		3			Brute, Action	Beat Chest, Go again					Beat Chest	"**Beat Chest**
 
-Your next Brute attack this turn gains +2{p}. If you've **beaten chest** this turn, instead it gains +5{p}.
+Your next Brute attack this turn gains +2{p}. If you've **beaten chest** this turn, instead it gains +4{p}.
 
 **Go again**"	Brute Action					
 RjcPtRpbKCD9THck8w7Nw	Bonebreaker Bellow	3	1		3			Brute, Action	Beat Chest, Go again					Beat Chest	"**Beat Chest**
 
-Your next Brute attack this turn gains +1{p}. If you've **beaten chest** this turn, instead it gains +5{p}.
+Your next Brute attack this turn gains +1{p}. If you've **beaten chest** this turn, instead it gains +3{p}.
 
 **Go again**"	Brute Action					
 wmTPDLtBjwhmbKqqJmgCm	Boneyard Marauder	1	1	6	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play Boneyard Marauder, banish 3 random cards from your graveyard.
@@ -2937,6 +2937,12 @@ If you have attacked with a weapon this turn, your next attack this turn gains +
 nPfKdqt8wHnfLqdFNHKFH	Hold 'em	1	1		3			Warrior, Action	Go again			Wager			"Your next Warrior attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Vigor token with them.""
 
 **Go again**"	Warrior Action					
+HhJtCMW6nLMfzGJLn7g8m	Hold 'em	2	1		3			Warrior, Action	Go again, Wager			Wager			"Your next Warrior attack this turn gets +2{p} and ""When this attacks a hero, you may **wager** a Vigor token with them.""
+
+**Go again**"	Warrior Action					
+WHLRchgdMH8Bjb8TDngkp	Hold 'em	3	1		3			Warrior, Action	Go again, Wager			Wager			"Your next Warrior attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** a Vigor token with them.""
+
+**Go again**"	Warrior Action					
 77rDjRrtRKDHTpNwbHWDW	Hold the Line	3	0		2			Generic, Defense Reaction							If the attacking hero has drawn 2 or more cards this turn, prevent the next 3 damage that would be dealt to your hero this turn.	Generic Defense Reaction				No	
 zc8n8JQRfBTPHGfnBmw8L	Honing Hood		0		0			Ranger, Equipment, Head		Instant					**Instant** - Destroy Honing Hood: Return all cards in your arsenal to your hand, then put a card from your hand face down into your arsenal.	Ranger Equipment - Head					
 khP7tT6NRCgzjJMWB8JHm	Hooves of the Shadowbeast				1			Shadow, Brute, Equipment, Legs	Battleworn						"Whenever a card with 6 or more {p} is put into your banished zone, you may destroy Hooves of the Shadowbeast. If you do, gain 1 action point.
@@ -3718,6 +3724,8 @@ dhmDDqtfNCPcBnzfTKzrp	Mischievous Meeps	1	1	2	2			Generic, Action, Attack	Go aga
 
 **Go again**"	Generic Action - Attack				No	
 7mgnPjCmmLc9K9WwLdhJ6	Money Where Ya Mouth Is	1	1		2			Generic, Action	Go again			Wager			"Your next attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
+B7Db99Nw9PFrJLmRzPT7t	Money Where Ya Mouth Is	2	1		2			Generic, Action	Go again			Wager			"Your next attack this turn gets +2{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
+9BM9L9zrh8BgBWkPDdJgf	Money Where Ya Mouth Is	3	1		2			Generic, Action	Go again			Wager			"Your next attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 mhLrKM6RbWGGHNrTGjtMw	Moon Wish	1	2	5	2			Generic, Action, Attack							"You may put a card from your hand on top of your deck rather than pay Moon Wish's {r} cost.
 
 If Moon Wish hits, search your deck for a card named Sun Kiss, reveal it, put it into your hand, then shuffle your deck."	Generic Action - Attack					
@@ -6171,6 +6179,12 @@ TtF8Q9WNQqPmJdrd6qp7k	Take the Tempo	1	1	5	3			Ninja, Action, Attack							When 
 p6Q8Fw6T7dfBwGGpwQDrq	Take the Upper Hand	1	0		3			Warrior, Attack Reaction						Wager	"Play this only if you've **wagered** this chain link.
 
 Target attack gets +3{p}."	Warrior Attack Reaction				No	
+mKhjrDrWRrQRrTBjQPw8B	Take the Upper Hand	2	0		3			Warrior, Attack Reaction						Wager	"Play this only if you've **wagered** this chain link.
+
+Target attack gets +2{p}."	Warrior Attack Reaction				No	
+8fDjHmMPJKnqMtqcHbQBw	Take the Upper Hand	3	0		3			Warrior, Attack Reaction						Wager	"Play this only if you've **wagered** this chain link.
+
+Target attack gets +1{p}."	Warrior Attack Reaction				No	
 zbnpfqW7d6CqN9wT8Dcft	Tales of Adventure	3	0		3			Bard, Action	Yorick Specialization						"**Yorick Specialization**
 
 Each other hero chooses and creates a token that hasn't been chosen; Aether Ashwing, Embodiment of Earth, Embodiment of Lightning, Ponder, Quicken, Runechant, Seismic Surge, Soul Shackle, Spectral Shield, Zen State.
@@ -6685,7 +6699,7 @@ RCqkLt7cqwdWMNrmFqpc8	Victoria, Archangel of Triumph			4		4		Light, Angel, Ally	
 When Victoria attacks, you may banish a card from your hero's soul. If you do, attack action cards your opponents control get -1{p} until the start of your next turn.
 
 **Ward 4**"	Light - Angel Ally				No	
-DBhPCQqjnj6qqd9DtBB7W	Vigor							Generic, Token, Aura							At the start of your turn, destroy this and gain {r}.	Generic Token - Aura					
+DBhPCQqjnj6qqd9DtBB7W	Vigor							Generic, Token, Aura							At the start of your turn, destroy this, then gain {r}.	Generic Token - Aura					
 dQR8fwBWNN6HPz7tzBCbk	Vigor Rush	1	1	4	2			Generic, Action, Attack	Go again						If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.	Generic Action - Attack					
 8p8KrLDmJnf6rMpTjQ6R6	Vigor Rush	2	1	3	2			Generic, Action, Attack	Go again						If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.	Generic Action - Attack					
 tjqTCGp8GFF7FzTHqzBhW	Vigor Rush	3	1	2	2			Generic, Action, Attack	Go again						If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.	Generic Action - Attack					
@@ -6758,6 +6772,8 @@ Whenever you play a Shadow non-attack action card, you may pay {h}. If you do, t
 Whenever you play a Shadow non-attack action card, you may pay {h}. If you do, the next Runechant effect that would deal damage this turn can't be prevented."	Shadow Runeblade Hero		No		No	
 MFrJG8G8RgrhkpfkD8KWj	Vynserakai			6		1		Draconic, Illusionist, Dragon, Ally							Whenever Vynserakai hits a hero, he deals 3 arcane damage to them.	Draconic Illusionist - Dragon Ally				No	
 HkLqBHQMJDcpJrMh7zhFm	Wage Agility	1	3	7	2			Brute, Warrior, Action, Attack							When this attacks a hero, you may **wager** an Agility token with them.	Brute / Warrior Action - Attack					
+WmzwN8GGDC6dhhLB9NbMc	Wage Agility	2	3	6	2			Brute, Warrior, Action, Attack	Wager						When this attacks a hero, you may **wager** an Agility token with them.	Brute / Warrior Action - Attack					
+zCGntgRNcRP9bRjb8KNCR	Wage Agility	3	3	5	2			Brute, Warrior, Action, Attack	Wager						When this attacks a hero, you may **wager** an Agility token with them.	Brute / Warrior Action - Attack					
 PQJbFn9m8g7J6BttmD6LN	Wage Gold	1	3	7	2			Generic, Action, Attack	Universal, Wager						"**Universal**
 
 When this attacks a hero, you may **wager** a Gold token with them."	Generic Action - Attack					
@@ -6768,7 +6784,11 @@ NQch97pRQJKKFBcwtTP9c	Wage Gold	3	3	5	2			Generic, Action, Attack	Universal, Wag
 
 When this attacks a hero, you may **wager** a Gold token with them."	Generic Action - Attack					
 LRqdhhQnNFKCpttQmMJKq	Wage Might	1	3	7	2			Brute, Guardian, Action, Attack	Wager						When this attacks a hero, you may **wager** a Might token with them.	Brute / Guardian Action - Attack					
+FLHFkrDTc9RLpNnR8wbK9	Wage Might	2	3	6	2			Brute, Guardian, Action, Attack	Wager						When this attacks a hero, you may **wager** a Might token with them.	Brute / Guardian Action - Attack					
+wGwjNqdjmKwqgzKrPhMn9	Wage Might	3	3	5	2			Brute, Guardian, Action, Attack	Wager						When this attacks a hero, you may **wager** a Might token with them.	Brute / Guardian Action - Attack					
 cgFCqbggd6BNB8kHFWNKJ	Wage Vigor	1	3	7	2			Guardian, Warrior, Action, Attack	Wager						When this attacks a hero, you may **wager** a Vigor token with them.	Guardian / Warrior Action - Attack					
+MQN9FMbnbmGjrndKzFCC8	Wage Vigor	2	3	6	2			Guardian, Warrior, Action, Attack	Wager						When this attacks a hero, you may **wager** a Vigor token with them.	Guardian / Warrior Action - Attack					
+9t79HPQncwtwKtBg8MhRH	Wage Vigor	3	3	5	2			Guardian, Warrior, Action, Attack	Wager						When this attacks a hero, you may **wager** a Vigor token with them.	Guardian / Warrior Action - Attack					
 mdhBmNB8JHPmK9KzKg7D6	Wall Breaker	1	2	6	3			Shadow, Brute, Action, Attack	Overpower, Blood Debt						"If you've banished a card with 6 or more {p} this turn, this gets **overpower**.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	

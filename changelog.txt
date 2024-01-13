@@ -593,3 +593,4 @@ TODO:
 - Added card data for HVY
 - Added printing data for HVY
 - Fixed Codex of Inertia having 0 power instead of null
+- Updated function text for Vigor
