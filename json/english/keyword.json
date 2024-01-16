@@ -144,6 +144,12 @@
         "description_plain": "Go again allows multiple actions to be played in a turn, when usually playing an action would use up your action point, and therefore end your turn. A card with go again gives the controller of that card or activated ability 1 action point when it resolves."
     },
     {
+        "unique_id": "JpQHgf9ttGqRjHjW6rgR8",
+        "name": "Guardwell",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "hbjfTFTQmCR9FjzP7DWGK",
         "name": "Heave X",
         "description": "At the beginning of your end phase, if this is in your hand and you have an empty arsenal zone, you may pay X and put this face up into your arsenal. If you do, create X Seismic Surge tokens.",
