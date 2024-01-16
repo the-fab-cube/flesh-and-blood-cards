@@ -179,6 +179,9 @@ wJQMt6Lpf6D9JFQ8BW898	Anthem of Spring	3	0		2			Earth, Action	Briar Specializati
 The next attack action card you play this turn gets +1{p}. **Go again**
 
 **Unity** - When this defends together with a card from hand, create an Embodiment of Earth token under any number of heroes' control."	Earth Action				No	
+QTpCnrrjTbQhdRdLBzLzB	Apex Bonebreaker				2			Brute, Equipment, Arms	Temper						"When this defends together with a card with 6 or more {p}, create a Might token.
+
+**Temper**"	Brute Equipment - Arms				No	
 mHnppNNqw9hMncFgCJdCB	Apocalypse Automaton	1	3	6	3			Mechanologist, Action, Attack	Evo Upgrade						"Play this only if you have 1 or more Evos equipped.
 
 **Evo Upgrade** - This attacks up to X target opposing heroes, where X is the number of Evos you have equipped."	Mechanologist Action - Attack				No	
@@ -229,6 +232,11 @@ G7bRDqbhCJD76fH77Mfm7	Art of War	2	1					Generic, Instant							"Choose 2;
 - Until end of turn, you may defend with attack action cards from arsenal.
 - You may banish an attack action card from your hand. If you do, draw 2 cards."	Generic Instant				No	
 G6CnbFqjfGgKqqqmnCbMh	Ash							Draconic, Illusionist, Token, Ash	Material			Phantasm			**Material** - While Ash is under an object, that object has **phantasm**.	Draconic Illusionist Token - Ash					
+qMpdhqQqktTKQHcQJ8f6B	Aurum Aegis				2			Guardian, Equipment, Off-Hand	Victor Specialization, Temper						"**Victor Specialization**
+
+This counts as a Gold.
+
+**Temper**"	Guardian Equipment - Off-Hand				No	
 Frp76KgppTJBPkQGbJ87J	Autosave Script	3	0					Mechanologist, Action, Item	Crank						"**Crank**
 
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
@@ -304,6 +312,12 @@ TbhnTBPLncChnLHTcG7jz	Bad Beats	2	0		3			Brute, Action	Go again						"Roll a 6 s
 B7rWtLgFHDgNJ6LJmCqJc	Bad Beats	3	0		3			Brute, Action	Go again						"Roll a 6 sided die. If the number rolled is a 6, the next Brute attack action card you play this turn gains +5{p}.
 
 **Go again**"	Brute Action					
+fFHTT7tCd9NDBqn9qCgh6	Balance of Justice				2			Generic, Equipment, Head	Guardwell	Instant					"**Instant** - Destroy this: Draw a card. Activate this ability only if an opponent has drawn 2 or more cards this turn.
+
+**Guardwell**"	Generic Equipment - Head				No	
+jW9czbpr7pQHgHwcq9dNH	Ball Breaker			3				Brute, Weapon, Flail, 1H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
+
+If you've discarded a card with 6 or more {p} this turn, this gets +1{p}."	Brute Weapon - Flail (1H)					
 TJdbQPDBpnLGpNmmN7fhg	Ball Lightning	1	0	3	0			Lightning, Action, Attack	Go again						"Whenever a Lightning or Elemental action card would deal damage this combat chain, instead it deals that much damage plus 1.
 
 **Go again**"	Lightning Action - Attack					
@@ -411,6 +425,11 @@ dHNcBPjwggj8GdFnqbkrD	Beast Within	2	3	6	3			Brute, Action, Attack							If Beas
 zCWhR7jRCmH7D7fKDGKcF	Beaten Trackers				1			Brute, Equipment, Legs	Battleworn						"Whenever you discard a random card with 6 or more {p}, you may destroy Beaten Trackers. If you do, gain 1 action point.
 
 **Battleworn**"	Brute Equipment - Legs					
+k7CQWQNw7LjqTcGB8gDTq	Beckon Applause				0			Warrior, Equipment, Arms	Temper						"If you control an Agility token, this gets +1{d}.
+
+If you control a Vigor token, this gets +1{d}.
+
+**Temper**"	Warrior Equipment - Arms					
 KHpc7bwPqmLjMF977CjcR	Beckoning Light	1	0	3	3			Light, Warrior, Action, Attack	Charge						"As an additional cost to play this, you may **charge** your hero's soul.
 
 If a yellow card is **charged** this way, whenever an attack action card hits this combat chain, you may put an attack action card from your graveyard on top of your deck."	Light Warrior Action - Attack				No	
@@ -1220,6 +1239,9 @@ GQzfCQbchkDFn7crcnkrg	Concealed Blade	3	0		3			Assassin, Ninja, Attack Reaction	
 dzP7wmmnGhcPk78jJpwQ6	Conduit of Frostburn				0			Ice, Wizard, Equipment, Arms	Quell 1	Instant					"**Instant** - Destroy Conduit of Frostburn: The next card you play this turn with an effect that deals arcane damage gains ""When this deals arcane damage to a hero, destroy a **frozen** card in their arsenal.""
 
 **Quell 1**"	Ice Wizard Equipment - Arms					
+GtL9zmpkGKMqgBcFfCQgN	Confront Adversity				2			Generic, Equipment, Chest	Blade Break						"This may only defend an attack if the attack's controller has destroyed a Vigor token this turn.
+
+**Blade Break**"	Generic Equipment - Chest					
 mjFjGKmpGbTCnrJR6fN79	Construct Nitro Mechanoid	2	4		3			Mechanologist, Action, Construct	Transform, Negate, Go again						"**Transform** target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, **negate** this.
 
 **Go again**"	Mechanologist Action - Construct				No	
@@ -1844,6 +1866,9 @@ At the beginning of your action phase, destroy Embolden then the next Guardian a
 nRGKwwb7q7HQnfGQLr6gp	Emboldened Blade	3	0		3			Warrior, Action	Go again						"Turn a face-down card in any arsenal face-up. If it's a defense reaction, destroy it and your next weapon attack this turn gets +1{p}.
 
 **Go again**"	Warrior Action				No	
+7LBccf7qnHMdgb996CcWz	Embrace Adversity				2			Generic, Equipment, Arms	Blade Break						"This may only defend an attack if the attack's controller has destroyed a Might token this turn.
+
+**Blade Break**"	Generic Equipment - Arms					
 FFrCkdLPFwwTzHJPwcTRC	Emerging Avalanche	1	2		3			Elemental, Guardian, Action, Aura	Ice Fusion, Go again						"**Ice Fusion**
 
 **Go again**
@@ -2193,6 +2218,9 @@ cjJpkCtJwndP7FwzwDDQc	Fabricate	1	0					Mechanologist, Instant							"Choose 2;
 - Evo permanents you control get +1{d} this turn.
 - Put this under an Evo permanent you control.
 - You may banish an Evo from your hand. If you do, draw a card."	Mechanologist Instant				No	
+WfL7bkMHHG7DNGr6fDRWD	Face Adversity				2			Generic, Equipment, Head	Blade Break						"This may only defend an attack if the attack's controller has drawn a card this turn.
+
+**Blade Break**"	Generic Equipment - Head					
 QHNfbDkffrKWgwDw7MjwQ	Fai					20	4	Draconic, Ninja, Hero, Young		Once per Turn Instant					"You may start the game with a Phoenix Flame in your graveyard.
 
 **Once per Turn Instant** - {r}{r}{r}: Return a Phoenix Flame from your graveyard to your hand. This ability costs {r} less for each Draconic chain link you control."	Draconic Ninja Hero - Young			No		
@@ -2548,6 +2576,9 @@ whJmFnkNbtrd8D98KGg8d	Gas Up	3	1		2			Mechanologist, Action	Go again					Boost	"
 You may put a Hyper Driver from your banished zone into the arena.
 
 **Go again**"	Mechanologist Action					
+CHNL9gtPrf8NhTwLWjT6w	Gauntlet of Might				1			Brute, Guardian, Equipment, Arms	Blade Break	Action	Go again				"Action - Destroy this: Create a Might token. **Go again**
+
+**Blade Break**"	Brute / Guardian Equipment - Arms					
 tpgGtDJmWntFC6QcdhhgW	Gavel of Natural Order			2				Adjudicator, Weapon, Hammer, 1H	Pairs	Once per Turn Action	Attack				"**Pairs** with an off-hand
 
 **Once per Turn Action** - {r}{r}: **Attack**
@@ -2622,6 +2653,7 @@ Your next Dawnblade attack this turn has **go again**.
 Whenever Dawnblade hits a hero this turn, put a +1{p} counter on it.
 
 **Go again**"	Warrior Action				No	
+FcfhgdgwB6BBHjbNHkFtL	Glory Seeker							Generic, Equipment, Head		Instant					**Instant** - {r}{r}{r}, destroy this: Draw a card.	Generic Equipment - Head					
 Ngk6PkmH6JQnfdC9zg8fQ	Go Bananas	2	0					Generic, Instant							Name an action card. Open and reveal a booster pack of Flesh and Blood and put all cards with the chosen name into your hand. If the booster pack does not contain a card with the chosen name, you may repeat this process.	Generic Instant		No	No	No	
 gnCjFF9rFPTrhTrBcjJGc	Goblet of Bloodrun Wine	3	0		2			Warrior, Action	Go again						"Create an Agility and a Vigor token.
 
@@ -2637,6 +2669,9 @@ rbMGNnJJBHjnNMdRCWBhw	Gorganian Tome		0					Generic, Action	Legendary, Go again	
 Draw X cards, where X is 1 plus the number of Gorganian Tomes in all graveyards.
 
 **Go again**"	Generic Action				No	
+FhJWwcJKQjbQhHGRcNFTf	Grains of Bloodspill				2			Warrior, Equipment, Chest	Temper						"Whenever a weapon attack you control hits, you may pay {r}. If you do, create a Vigor token. 
+
+**Temper**"	Warrior Equipment - Chest				No	
 pwfB8pHmJRDD8CfP8mTbr	Grandeur of Valahai	3						Guardian, Resource, Gem	Legendary						"**Legendary**
 
 When you pitch Grandeur of Valahai, create a Seismic Surge token."	Guardian Resource - Gem				No	
@@ -2952,6 +2987,9 @@ DW7LjrR6RwKPhNB8d9CGM	Hope Merchant's Hood				0			Generic, Equipment, Head		Inst
 kHTFbHM7GGctRFhMm8hBg	Hornet's Sting				1			Ranger, Equipment, Arms	Blade Break						"Whenever Hornet's Sting defends, reveal the top card of your deck. If it's an arrow, deal 1 damage to the attacking hero or ally. Otherwise, put it on the bottom of your deck.
 
 **Blade Break**"	Ranger Equipment - Arms					
+WKGJ7ktHDWrtCBnC9J7gW	Hot Streak			2				Warrior, Weapon, Sword, 1H	Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
+
+When this is defended by 1 or more attack action cards, Hot Streak's attacks get **go again** this turn."	Warrior Weapon - Sword (1H)					
 hGgJfbfTpknpFCTCgQCzw	Howl from Beyond	1	2		2			Shadow, Action	Go again, Blood Debt						"You may play Howl from Beyond from your banished zone.
 
 The next attack action card you play this turn gains +3{p}.
@@ -3348,6 +3386,11 @@ jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-brac	1	3		2			Generic, Action							"As
 
 Search your deck for a card with Amulet, Potion, or Talisman in its name, put it into the arena, then shuffle. For each 4 Copper, 2 Silver, and/or 1 Gold destroyed this way, repeat this process."	Generic Action				No	
 BCBmbhp7nbzkzBHcpzjp7	Knives Out	3	0		3			Assassin, Ninja, Attack Reaction							Your daggers gain +1{p} this turn.	Assassin / Ninja Attack Reaction				No	
+WqDtDMqJhHBhHfdjTRRFb	Knucklehead				2			Brute, Equipment, Head	Kayo Specialization, Temper	Action					"**Kayo Specialization** 
+
+Action - Destroy this: Roll a 6-sided die. Until end of turn, your base {i} is the number rolled.
+
+**Temper**"	Brute Equipment - Head					
 jbDgmHNWr6GGD6GqmBCTf	Korshem, Crossroad of Elements		1					Elemental, Action, Landmark	Legendary, Go again						"**Legendary**
 
 **Go again**
@@ -3707,6 +3750,9 @@ NWHc8gmFBQMrHFqb67NLh	Mini Forcefield	3	1					Mechanologist, Action, Item	Crank,
 This enters the arena with 2 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 **Ward X**, where X is the number of steam counters on this."	Mechanologist Action - Item					
+jhhhz6KGqJtTdjBhLTF7B	Mini Meataxe			3				Brute, Weapon, Axe, 1H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
+
+When this attacks, draw a card then discard a random card."	Brute Weapon - Axe (1H)					
 hFFjjMfRw6J8KhBC7Tdzj	Minnowism	1	0		2			Generic, Action	Go again						"The next attack action card with 3 or less base {p} you play this turn gains +3{p}.
 
 **Go again**"	Generic Action					
@@ -3726,6 +3772,11 @@ dhmDDqtfNCPcBnzfTKzrp	Mischievous Meeps	1	1	2	2			Generic, Action, Attack	Go aga
 7mgnPjCmmLc9K9WwLdhJ6	Money Where Ya Mouth Is	1	1		2			Generic, Action	Go again			Wager			"Your next attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 B7Db99Nw9PFrJLmRzPT7t	Money Where Ya Mouth Is	2	1		2			Generic, Action	Go again			Wager			"Your next attack this turn gets +2{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 9BM9L9zrh8BgBWkPDdJgf	Money Where Ya Mouth Is	3	1		2			Generic, Action	Go again			Wager			"Your next attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
+t68gtGcPf8H9wTGBCfj8L	Monstrous Veil				1			Brute, Equipment, Head	Rhinar Specialization, Battleworn	Action	Go again				"**Rhinar Specialization**
+
+Action - Destroy this: Draw a card then discard a random card. **Go again**
+
+**Battleworn**"	Brute Equipment - Head					
 mhLrKM6RbWGGHNrTGjtMw	Moon Wish	1	2	5	2			Generic, Action, Attack							"You may put a card from your hand on top of your deck rather than pay Moon Wish's {r} cost.
 
 If Moon Wish hits, search your deck for a card named Sun Kiss, reveal it, put it into your hand, then shuffle your deck."	Generic Action - Attack					
@@ -3989,6 +4040,9 @@ When this hits, put it on the bottom of its owner's deck."	Mechanologist Action 
 wpLckQt7zw66h87TbjcWt	Overblast	1	2	5	3			Mechanologist, Action, Attack						Boost	Overblast gains +X{p}, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack					
 MHkLpfgkgh7hNwbrTJrDF	Overblast	2	2	4	3			Mechanologist, Action, Attack						Boost	Overblast gains +X{p}, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack					
 JHRhwNCKG97trbQLfhg9j	Overblast	3	2	3	3			Mechanologist, Action, Attack						Boost	Overblast gains +X{p}, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack					
+BrCKk9JLw8r69fGgNt8BH	Overcome Adversity				2			Generic, Equipment, Legs	Blade Break						"This may only defend an attack if the attack's controller has destroyed an Agility token this turn.
+
+**Blade Break**"	Generic Equipment - Legs					
 jjzTRHWhnQT7M7FwKjjpq	Overload	1	0	3	2			Generic, Action, Attack	Dominate, Go again						"**Dominate**
 
 If Overload hits, it gains **go again**."	Generic Action - Attack					
@@ -4028,6 +4082,11 @@ This gets +X{p}, where X is the number of equipment defending it."	Mechanologist
 Gq8RtNNrR7hz6QB9gj7CG	Parable of Humility	2	4					Light, Illusionist, Instant, Aura	Spectra						"Attack action cards controlled by an opposing hero have -1{p} while attacking and defending.
 
 **Spectra**"	Light Illusionist Instant - Aura				No	
+8RgDcJhnpLP9j6DqNqPfp	Parry Blade			2	0			Warrior, Weapon, Equipment, Sword, 1H	Blade Break	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
+
+This gets +2{d} while defending a weapon attack.
+
+**Blade Break**"	Warror Weapon Equipment - Sword (1H)					
 NBnFFCH9njbMMhBLc6jzw	Passing Mirage	3	0		2			Illusionist, Action, Aura	Spectra				Phantasm		"Your first Illusionist attack each turn loses and can't gain **phantasm**.
 
 **Spectra**"	Illusionist Action - Aura				No	
@@ -5391,6 +5450,7 @@ zKdWmn8NjhRbPNKFRBgmz	Sharpen Steel	3	0		3			Warrior, Action	Go again						"Your
 
 **Go again**"	Warrior Action					
 RJNjgKCzrKtWJfdqRPMhg	Shatter	2	0		3			Warrior, Attack Reaction							"Until end of turn, target 2H weapon gains ""Whenever this would deal {p} damage, instead you may destroy target defending equipment with {d} less than the damage that would be dealt this way."	Warrior Attack Reaction				No	
+PfLGWkcf8RngRHztHDfFT	Sheltered Cove							Generic, Equipment, Head		Instant					**Instant** - {r}{r}{r}, destroy this: The next time you would be dealt damage this turn, prevent 2 of that damage	Generic Equipment - Head					
 cJPFBnkLWpF7cKKwzRNTq	Shield Bash	1	3		6			Guardian, Defense Reaction							If a Guardian off-hand with 1 or more {d} is defending this chain link, deal 1 damage to the attacking hero unless they discard a card.	Guardian Defense Reaction				No	
 jBnLmTGRRPcCF9hpccHHT	Shield Bash	2	3		5			Guardian, Defense Reaction							If a Guardian off-hand with 1 or more {d} is defending this chain link, deal 1 damage to the attacking hero unless they discard a card.	Guardian Defense Reaction				No	
 T6GTpNNkdNMhBWqfPfK8P	Shield Bash	3	3		4			Guardian, Defense Reaction							If a Guardian off-hand with 1 or more {d} is defending this chain link, deal 1 damage to the attacking hero unless they discard a card.	Guardian Defense Reaction				No	
@@ -5939,6 +5999,11 @@ BCpDT6GfzNwKW8qz7WbrN	Stalagmite, Bastion of Isenloft				2			Ice, Guardian, Equi
 While Stamp Authority is in the arena, attack action card effects do not trigger when they hit.
 
 At the beginning of your action phase, destroy Stamp Authority."	Guardian Action - Aura				No	
+WJzNjPfQGqdTtjTHQP6rL	Stand Ground				0			Guardian, Equipment, Legs	Temper						"If you control a Might token, this gets +1{d}.
+
+If you control a Vigor token, this gets +1{d}.
+
+**Temper**"	Guardian Equipment - Legs					
 zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	7	10	3			Guardian, Action, Attack	Bravo Specialization, Crush, Unity						"**Bravo Specialization**
 
 **Crush** - When this deals 4 or more damage to a hero, the only attacks they may play or activate during their next turn are attacks with base {p} greater than the damage dealt this way.
@@ -6009,6 +6074,9 @@ W7rtcPqhKrfQd6fFGbGFR	Stonewall Confidence	3	2		3			Guardian, Action, Aura	Go ag
 Cards you control with cost 3 or greater gain +2{d} while defending.
 
 At the beginning of your action phase, destroy Stonewall Confidence."	Guardian Action - Aura					
+6CrKfkzFgFLWFD7tFgT9H	Stonewall Impasse				1			Guardian, Equipment, Off-Hand	Temper, Clash						"When this defends, **clash** with the attacking hero. If you win, this gets +1{d} until end of turn.
+
+**Temper**"	Guardian Equipment - Off-Hand					
 c8GP9JNp9PKhcQg7TkBQR	Stony Woottonhog	1	2	6	2			Generic, Action, Attack							While Stony Woottonhog is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack					
 RnbGbqBjNFp8HMNrzKWHp	Stony Woottonhog	2	2	5	2			Generic, Action, Attack							While Stony Woottonhog is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack					
 hDrpDgFFTLFGDTHrBCfzC	Stony Woottonhog	3	2	4	2			Generic, Action, Attack							While Stony Woottonhog is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack					
@@ -6701,6 +6769,9 @@ When Victoria attacks, you may banish a card from your hero's soul. If you do, a
 
 **Ward 4**"	Light - Angel Ally				No	
 DBhPCQqjnj6qqd9DtBB7W	Vigor							Generic, Token, Aura							At the start of your turn, destroy this, then gain {r}.	Generic Token - Aura					
+GpQBzCwwRFCKjWNq8Hgtj	Vigor Girth				1			Guardian, Warrior, Equipment, Chest	Blade Break	Action	Go again				"Action - Destroy this: Create a Vigor token. **Go again**
+
+**Blade Break**"	Guardian / Warrior Equipment - Chest					
 dQR8fwBWNN6HPz7tzBCbk	Vigor Rush	1	1	4	2			Generic, Action, Attack	Go again						If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.	Generic Action - Attack					
 8p8KrLDmJnf6rMpTjQ6R6	Vigor Rush	2	1	3	2			Generic, Action, Attack	Go again						If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.	Generic Action - Attack					
 tjqTCGp8GFF7FzTHqzBhW	Vigor Rush	3	1	2	2			Generic, Action, Attack	Go again						If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.	Generic Action - Attack					
