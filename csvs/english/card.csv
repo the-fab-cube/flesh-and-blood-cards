@@ -2855,6 +2855,7 @@ PpQBJwQCfFrHzKM9TkcbD	Heart of Ice				1			Ice, Equipment, Chest	Arcane Barrier 1
 **Blade Break**"	Ice Equipment - Chest				No	
 h7NLHrBf7dNmKLN8zqRLn	Heart-throb							Bard, Equipment, Chest		Action	Go again				**Action** - Destroy this: Each hero creates a Vigor token.  **Go again**	Bard Equipment - Chest				No	
 666mgFjKrrLQhdkpGzNzf	Heartened Cross Strap				0			Generic, Equipment, Chest		Action	Go again				**Action** - Destroy Heartened Cross Strap: The next attack action card you play this turn costs {r}{r} less to play. **Go again**	Generic Equipment - Chest					
+8KcHGzJF7JBb67qmjgNMb	Hearty Block	1			3			Guardian, Warrior, Block							When this defends, if you control a Vigor token, gain 1{h}.	Guardian / Warrior Block					
 H6KCbhR6jqrLJnhjM8GPN	Heat Seeker	1	1	5	3			Ranger, Action, Arrow, Attack							When this hits, at the beginning of your end phase, put the top card of your deck face up into your arsenal.	Ranger Action - Arrow Attack				No	
 Prkf9mwfBCbLDHncK6CPP	Heat Wave				0			Draconic, Ninja, Equipment, Arms	Quell 1	Instant					"**Instant** - Destroy Heat Wave: Phoenix Flames you control gain +1{p} until end of turn.
 
@@ -5173,6 +5174,7 @@ Your next Brute attack this turn gains +2{p}.
 DBDwbqjgnpnNfFrJ8Dmhr	Run Through	2	1		3			Warrior, Attack Reaction				Go again			"Target sword attack gains **go again**.
 
 Your next sword attack this turn gains +2{p}."	Warrior Attack Reaction				No	
+wbJtMrPCzqL6NRGrT6fJK	Run into Trouble	1			3			Brute, Warrior, Block							When this defends, if you control an Agility token, deal damage to the attacking hero.	Brute / Warrior Block					
 QFg6Qh7ckkNzfhkDrJdrh	Runaways				0			Generic, Equipment, Legs		Instant					**Instant** - Destroy Runaways: Prevent the next 1 damage that would be dealt to your hero this turn. Activate this ability only if your hero has been dealt damage this turn.	Generic Equipment - Legs					
 TWm6BC9zbHp69FkFNmbnR	Rune Flash	1	3	4	3			Runeblade, Action, Attack	Go again						"Rune Flash costs {r} less to play for each Runechant you control.
 
@@ -6990,6 +6992,7 @@ PTwFjp7bRMhWjwr6dcj68	Wall Breaker	2	2	5	3			Shadow, Brute, Action, Attack	Overp
 PPzmrDdFPbkKphtPwrwW7	Wall Breaker	3	2	4	3			Shadow, Brute, Action, Attack	Overpower, Blood Debt						"If you've banished a card with 6 or more {p} this turn, this gets **overpower**.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	
+JrqgkhzCLT6cDgrhNjnKJ	Wall of Meat and Muscle	1			3			Brute, Guardian, Block							When this defends, if you control a Might token, you may put an attack action card from your graveyard on top of your deck.	Brute / Guardian Block					
 cgLKkrphHT8RTF9T9cggM	Wallop	1	4	7	3			Guardian, Action, Attack							When you win a **clash** revealing this, create a Vigor token.	Guardian Action - Attack					
 rppddnbcWR8QzfQzQFHWR	Wallop	2	4	6	3			Guardian, Action, Attack							When you win a **clash** revealing this, create a Vigor token.	Guardian Action - Attack					
 QJWNKmgngBdFTwDGmmjCF	Wallop	3	4	5	3			Guardian, Action, Attack							When you win a **clash** revealing this, create a Vigor token.	Guardian Action - Attack					
