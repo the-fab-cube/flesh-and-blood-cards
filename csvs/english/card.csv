@@ -236,6 +236,12 @@ G6CnbFqjfGgKqqqmnCbMh	Ash							Draconic, Illusionist, Token, Ash	Material			Pha
 bnFnGz7gd8tRfQfcmk8nG	Assault and Battery	1	3	7	3			Brute, Action, Attack	Beat Chest					Beat Chest	"**Beat Chest**
 
 When this attacks, if you've **beaten chest** this turn, create an Agility token."	Brute Action - Attack					
+qPCk966FkDC7zpqffQpqD	Assault and Battery	2	3	6	3			Brute, Action, Attack	Beat Chest					Beat Chest	"**Beat Chest**
+
+When this attacks, if you've **beaten chest** this turn, create an Agility token."	Brute Action - Attack					
+TgfHM6NJztn6HpbgjDNMg	Assault and Battery	3	3	5	3			Brute, Action, Attack	Beat Chest					Beat Chest	"**Beat Chest**
+
+When this attacks, if you've **beaten chest** this turn, create an Agility token."	Brute Action - Attack					
 qMpdhqQqktTKQHcQJ8f6B	Aurum Aegis				2			Guardian, Equipment, Off-Hand	Victor Specialization, Temper						"**Victor Specialization**
 
 This counts as a Gold.
@@ -1252,6 +1258,8 @@ Until end of turn, your Warrior attacks get ""When this is defended by 1 or more
 **Go again**"	Warrior Action				No	
 GQzfCQbchkDFn7crcnkrg	Concealed Blade	3	0		3			Assassin, Ninja, Attack Reaction							"Target Assassin or Ninja attack action card gains +1{p} and ""When this hits, equip a dagger from your inventory."""	Assassin / Ninja Attack Reaction				No	
 LFHpbg9HjJqrGt8jHNGHN	Concuss	1	3	6	3			Guardian, Action, Attack							When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack					
+8GRgqRnNmTCMH8NnfzKPg	Concuss	2	3	5	3			Guardian, Action, Attack							When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack					
+fLpMkKFnPn9qGw7LgJhmQ	Concuss	3	3	4	3			Guardian, Action, Attack							When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack					
 dzP7wmmnGhcPk78jJpwQ6	Conduit of Frostburn				0			Ice, Wizard, Equipment, Arms	Quell 1	Instant					"**Instant** - Destroy Conduit of Frostburn: The next card you play this turn with an effect that deals arcane damage gains ""When this deals arcane damage to a hero, destroy a **frozen** card in their arsenal.""
 
 **Quell 1**"	Ice Wizard Equipment - Arms					
@@ -3493,6 +3501,16 @@ WbckgKBJq6kBM88nRFGmB	Lead with Power	3	1		2			Brute, Guardian, Action	Go again	
 Create a Might token.
 
 **Go again**"	Brute / Guardian Action					
+W8LHRTQFddrfnG8ptNjHW	Lead with Speed	1	1		2			Brute, Warrior, Action	Go again						"Your next Brute or Warrior attack this turn gets +3{p}.
+
+Create an Agility token.
+
+**Go again**"	Brute / Warrior Action					
+nwCQmwCJLFCtDCBtH8mfD	Lead with Speed	2	1		2			Brute, Warrior, Action	Go again						"Your next Brute or Warrior attack this turn gets +2{p}.
+
+Create an Agility token.
+
+**Go again**"	Brute / Warrior Action					
 9fPKGQrHcMrfMjQ7MqgGL	Lead with Speed	3	1		2			Brute, Warrior, Action	Go again						"Your next Brute or Warrior attack this turn gets +1{p}.
 
 Create an Agility token.
@@ -4121,10 +4139,12 @@ BDbLKmLQzJTjHjgJrtLWT	Overpower	1	3		3			Warrior, Attack Reaction	Reprise						"
 68PDzWMgFLKpqQNpQGQFB	Overpower	3	3		3			Warrior, Attack Reaction	Reprise						"Target weapon attack gains +2{p}
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, instead it gains +4{p}."	Warrior Attack Reaction				No	
-JkqmHRmjDr8cm6wcdCkPj	Pack Call	2	3	6	3			Brute, Action, Attack							When you defend with Pack Call, reveal the top card of your deck. If it has 6 or more {p}, put it on top of your deck. Otherwise, put it on the bottom.	Brute Action - Attack				No	
-ckjckdp6twK8nfwqGch7J	Pack Hunt	1	2	6	3			Brute, Action, Attack	Intimidate						When you attack with Pack Hunt, **intimidate**.	Brute Action - Attack					
-rRHncwrCNq9TmTcndW8bq	Pack Hunt	2	2	5	3			Brute, Action, Attack	Intimidate						When you attack with Pack Hunt, **intimidate**.	Brute Action - Attack					
-BntHbFDb7HmGmNq8wmLCq	Pack Hunt	3	2	4	3			Brute, Action, Attack	Intimidate						When you attack with Pack Hunt, **intimidate**.	Brute Action - Attack					
+MzqJQdLGgrHNQnLjMG99B	Pack Call	1	3	7	3			Brute, Action, Attack							When this defends, reveal the top card of your deck. If it has 6 or more {p}, put it on top. Otherwise, put it on the bottom.	Brute Action - Attack				No	
+JkqmHRmjDr8cm6wcdCkPj	Pack Call	2	3	6	3			Brute, Action, Attack							When this defends, reveal the top card of your deck. If it has 6 or more {p}, put it on top. Otherwise, put it on the bottom.	Brute Action - Attack				No	
+WBf76MHCnCnh87Wt86w9T	Pack Call	3	3	5	3			Brute, Action, Attack							When this defends, reveal the top card of your deck. If it has 6 or more {p}, put it on top. Otherwise, put it on the bottom.	Brute Action - Attack				No	
+ckjckdp6twK8nfwqGch7J	Pack Hunt	1	2	6	3			Brute, Action, Attack	Intimidate						When this attacks, **intimidate**.	Brute Action - Attack					
+rRHncwrCNq9TmTcndW8bq	Pack Hunt	2	2	5	3			Brute, Action, Attack	Intimidate						When this attacks, **intimidate**.	Brute Action - Attack					
+BntHbFDb7HmGmNq8wmLCq	Pack Hunt	3	2	4	3			Brute, Action, Attack	Intimidate						When this attacks, **intimidate**.	Brute Action - Attack					
 QqMdqbNP8f7jj7DkmNMj9	Panel Beater	1	2	5	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
 This gets +X{p}, where X is the number of equipment defending it."	Mechanologist Action - Attack					
@@ -4382,6 +4402,12 @@ jDjbmKWW9RHJwwncKDDfK	Pouncing Qi	1	0	3	3			Ninja, Action, Attack	Combo, Go agai
 KGCccRcdK768czQhpzLPq	Pouncing Qi	2	0	2	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Crouching Tiger was the last attack this combat chain, this gets +1{p} and **go again**.	Ninja Action - Attack					
 qmQ6tmqFznzMnf9dcDRcF	Pouncing Qi	3	0	1	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Crouching Tiger was the last attack this combat chain, this gets +1{p} and **go again**.	Ninja Action - Attack					
 jkPdKzd9rfgc7W87rjr6r	Pound Town	1	3	7	3			Brute, Action, Attack	Beat Chest					Beat Chest	"**Beat Chest**
+
+When this attacks, if you've **beaten chest** this turn, create a Might token."	Brute Action - Attack					
+hBNjTCpMptr8QmFbPHjN8	Pound Town	2	3	6	3			Brute, Action, Attack	Beat Chest					Beat Chest	"**Beat Chest**
+
+When this attacks, if you've **beaten chest** this turn, create a Might token."	Brute Action - Attack					
+rKcfc9TTdwWgLrqtWJ67N	Pound Town	3	3	5	3			Brute, Action, Attack	Beat Chest					Beat Chest	"**Beat Chest**
 
 When this attacks, if you've **beaten chest** this turn, create a Might token."	Brute Action - Attack					
 kHtKHFpcQzRfhtQ8WGBzF	Pound for Pound	1	3	6	2			Generic, Action, Attack	Dominate						When you play Pound for Pound, if you have less {h} than an opposing hero, it gains **dominate**.	Generic Action - Attack					
@@ -5017,6 +5043,7 @@ You may return a Phoenix Flame from your graveyard to your hand.
 C7zhnMLhctLTpqN7CnrjT	Rising Knee Thrust	1	0	3	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.	Ninja Action - Attack					
 q7ctPDWzHDk667rcJW9TL	Rising Knee Thrust	2	0	2	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.	Ninja Action - Attack					
 jdLb9qCbwmwjj9N6rNrnn	Rising Knee Thrust	3	0	1	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.	Ninja Action - Attack					
+HNT9PzL7tQJdKdKP8fNRz	Rising Power	1	2	6	2			Brute, Guardian, Action, Attack							If you've drawn a card this turn, this gets +1{p}.	Brute / Guardian Action - Attack					
 hPWBFwq8Nmf96PM87BF6t	Rising Resentment	1	0	3	2			Draconic, Ninja, Action, Attack	Go again						"When Rising Resentment hits, you may banish an attack action card from your hand with cost less than the number of Draconic chain links you control. If you do, it costs {r} less to play and you may play it this turn.
 
 **Go again**"	Draconic Ninja Action - Attack					
@@ -6327,6 +6354,7 @@ If you've **charged** this turn, Take Flight gains **go again**."	Light Warrior 
 hhQwdkFWGnMzRtpDBTzQ9	Take Flight	3	1	2	3			Light, Warrior, Action, Attack	Charge					Charge	"As an additional cost to play Take Flight, you may **charge** your hero's soul.
 
 If you've **charged** this turn, Take Flight gains **go again**."	Light Warrior Action - Attack					
+TChD6cjwh6bQmkf7kQFqP	Take it on the Chin	1	0					Brute, Warrior, Instant							The next time you would be dealt damage this turn, prevent 2 of that damage. If you do, create an Agility token.	Brute / Warrior Instant				No	
 TtF8Q9WNQqPmJdrd6qp7k	Take the Tempo	1	1	5	3			Ninja, Action, Attack							When Take the Tempo hits, if you've hit 3 or more times this combat chain, banish the top card of your deck. If it's an attack action card, you may play it until the end of your next turn.	Nina Action - Attack				No	
 p6Q8Fw6T7dfBwGGpwQDrq	Take the Upper Hand	1	0		3			Warrior, Attack Reaction						Wager	"Play this only if you've **wagered** this chain link.
 
@@ -6509,6 +6537,7 @@ P8CJhgBHBcQwFQrK6jzWq	Thunder Quake	2	6	9	3			Guardian, Action, Attack	Heave 3		
 MfFH89gTLWnFjfJjF9WFw	Thunder Quake	3	6	8	3			Guardian, Action, Attack	Heave 3						**Heave 3**	Guardian Action - Attack				No	
 PDPbhCGj7twzTP8HGfhBb	Thunk	1	5	8	3			Guardian, Action, Attack						Clash	When you win a **clash** revealing this, create a Might token.	Guardian Action - Attack					
 KqtjpgTftPFhRbhwQkcBQ	Thunk	2	5	7	3			Guardian, Action, Attack						Clash	When you win a **clash** revealing this, create a Might token.	Guardian Action - Attack					
+7HFBMWtFrdmQpQkLLwHGJ	Thunk	3	5	6	3			Guardian, Action, Attack						Clash	When you win a **clash** revealing this, create a Might token.	Guardian Action - Attack					
 hhfqThRH8RttBMmDMr7H6	Tick Tock Clock	1	0					Mechanologist, Action, Item	Crank						"**Crank**
 
 This enters the arena with a steam counter. At the start of your turn, destroy this and it deals 1 damage to you unless you remove a steam counter from it.

@@ -593,7 +593,7 @@ TODO:
 - Added card data for HVY
 - Added card data for Proclamation of Production
 - Added printing data for HVY
-- Updated function text for Mandible Claw and Vigor
+- Updated function text for Mandible Claw, Pack Hunt, and Vigor
 - Fixed Codex of Inertia having 0 power instead of null
 - Fixed Proclamation of Requisition not having Action marked as an ability
 - TODO: FAB, JDG, and LGS promos printings
