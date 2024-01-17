@@ -1674,8 +1674,8 @@ PrzDDzhJCLMPdrJDzrrpr	Double Strike	1	0	1	2			Ninja, Action, Attack	Go again				
 
 **Go again**"	Nina Action - Attack				No	
 JFKn8JgrMchwh6D6dCQNw	Down But Not Out	1	3	5	3			Generic, Action, Attack	Overpower						"When this attacks a hero, if you have less {h} and control fewer equipment and tokens than them, this gets +3{p}, **overpower**, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack				No	
-n6jb6thTHT9TpcTdRjdQm	Down But Not Out	2	3	4	3			Generic, Action, Attack							"When this attacks a hero, if you have less {g} and control fewer equipment and tokens than them, this gets +3{p}, overpower, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack				No	
-PCCtHrqDfnnmwFJwMNGDW	Down But Not Out	3	3	3	3			Generic, Action, Attack							"When this attacks a hero, if you have less {g} and control fewer equipment and tokens than them, this gets +3{p}, overpower, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack				No	
+n6jb6thTHT9TpcTdRjdQm	Down But Not Out	2	3	4	3			Generic, Action, Attack	Overpower						"When this attacks a hero, if you have less {h} and control fewer equipment and tokens than them, this gets +3{p}, **overpower**, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack				No	
+PCCtHrqDfnnmwFJwMNGDW	Down But Not Out	3	3	3	3			Generic, Action, Attack	Overpower						"When this attacks a hero, if you have less {h} and control fewer equipment and tokens than them, this gets +3{p}, **overpower**, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack				No	
 HgLNTDb7kMk7MdJrTjn8T	Down and Dirty	1	2	6	2			Generic, Action, Attack							While Down and Dirty is in your arsenal, you may defend with it.	Generic Action - Attack				No	
 78FGMN9nn9QR9FDzC9z68	Dracona Optimai			6		6		Draconic, Illusionist, Dragon, Ally							Whenever Dracona Optimai attacks a hero, reveal the top 3 cards of your deck. He deals arcane damage equal to twice the number of red cards revealed this way to them or an ally they control.	Draconic Illusionist - Dragon Ally				No	
 nFBgGfC6HwTwNFCgmnCRn	Dragons of Legend							Invocation, Placeholder Card							"Dracona Optimai - 1 pitch, 6 cost, 3 block
@@ -1873,13 +1873,13 @@ Create an Ursur, the Soul Reaper token."	Shadow Instant				No
 mJGB9zwRwKTg7zhpbPRnP	Eclipse Existence	3	0					Shadow, Instant							"Until end of turn, whenever an attack hits a Light hero, you may banish a card from their soul. If they do, they lose 1{h}.
 
 If you have more {h} than an opposing Light hero, you may banish an action card from your graveyard."	Shadow Instant					
-J8WjCNLBmFtppjBfWqjtW	Edge Ahead	1	1		3			Warrior, Action	Go again						"Your next Warrior attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** an Agility token with them.""
+J8WjCNLBmFtppjBfWqjtW	Edge Ahead	1	1		3			Warrior, Action	Go again			Wager			"Your next Warrior attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** an Agility token with them.""
 
 **Go again**"	Warrior Action					
-c6GzLGmQpLLQHMqQBLRNz	Edge Ahead	2	1		3			Warrior, Action	Go again						"Your next Warrior attack this turn gets +2{p} and ""When this attacks a hero, you may **wager** an Agility token with them.""
+c6GzLGmQpLLQHMqQBLRNz	Edge Ahead	2	1		3			Warrior, Action	Go again			Wager			"Your next Warrior attack this turn gets +2{p} and ""When this attacks a hero, you may **wager** an Agility token with them.""
 
 **Go again**"	Warrior Action					
-mPWjQbHQmbd8nr8jWdhJH	Edge Ahead	3	1		3			Warrior, Action	Go again						"Your next Warrior attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** an Agility token with them.""
+mPWjQbHQmbd8nr8jWdhJH	Edge Ahead	3	1		3			Warrior, Action	Go again			Wager			"Your next Warrior attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** an Agility token with them.""
 
 **Go again**"	Warrior Action					
 FfRMHD8fbLP7FjLJdmbtM	Edge of Autumn			1				Ninja, Weapon, Sword, 2H		Once per Turn Action	Attack, Go again				**Once per Turn Action** - {r}: **Attack**. **Go again**	Ninja Weapon - Sword (2H)					

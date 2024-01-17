@@ -1,9 +1,8 @@
 Card Unique ID	Card Name	Card Pitch	Referenced Card Unique ID	Referenced Card Name	Referenced Card Pitch	
-JrqgkhzCLT6cDgrhNjnKJ	Wall of Meat and Muscle	1	6gqTwGnmHjkCLDqKPWt8c	Might		
-wbJtMrPCzqL6NRGrT6fJK	Run into Trouble	1	WqTTMjDgKKCp7Lnb7LH6d	Agility		
-8KcHGzJF7JBb67qmjgNMb	Hearty Block	1	DBhPCQqjnj6qqd9DtBB7W	Vigor		
 KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield		
 tFKpRnDbfcwtC8dwqm9qm	Agile Engagement	1	WqTTMjDgKKCp7Lnb7LH6d	Agility		
+9czLrcQJTpWrCcJRm8dnz	Agile Engagement	2	WqTTMjDgKKCp7Lnb7LH6d	Agility		
+Mj9fkHtdrzzmDw8RNCKmT	Agile Engagement	3	WqTTMjDgKKCp7Lnb7LH6d	Agility		
 Rmm8PgnzKNNfLcnKh86jd	Agile Windup	1	WqTTMjDgKKCp7Lnb7LH6d	Agility		
 rbzdbLWNThgMnfbcpj7zK	Agile Windup	2	WqTTMjDgKKCp7Lnb7LH6d	Agility		
 h9jqjKPhPLfwCdgkQ9NBB	Agile Windup	3	WqTTMjDgKKCp7Lnb7LH6d	Agility		
@@ -157,6 +156,8 @@ pkMGCRh9fDT98dRgnQF8W	Arknight Shard	3	zfrHQjbPkpBmdQGrWcTMB	Runechant
 pkMGCRh9fDT98dRgnQF8W	Arknight Shard	3	RHnFkKb8FKdFzp9rdzGjF	Viserai		
 pkMGCRh9fDT98dRgnQF8W	Arknight Shard	3	TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood		
 bnFnGz7gd8tRfQfcmk8nG	Assault and Battery	1	WqTTMjDgKKCp7Lnb7LH6d	Agility		
+qPCk966FkDC7zpqffQpqD	Assault and Battery	2	WqTTMjDgKKCp7Lnb7LH6d	Agility		
+TgfHM6NJztn6HpbgjDNMg	Assault and Battery	3	WqTTMjDgKKCp7Lnb7LH6d	Agility		
 qMpdhqQqktTKQHcQJ8f6B	Aurum Aegis		fc8jMwTprwnhRbPKDmF9J	Victor Goldmane, High and Mighty		
 qMpdhqQqktTKQHcQJ8f6B	Aurum Aegis		kHmRR6Q7mJPjQgdQJcjpQ	Victor Goldmane		
 qMpdhqQqktTKQHcQJ8f6B	Aurum Aegis		8qdmprPg7kckn8ktMTKQh	Gold		
@@ -236,6 +237,8 @@ BbhMcGn9tRzPq6qdt8f8W	Big Bertha	3	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
 BbhMcGn9tRzPq6qdt8f8W	Big Bertha	3	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3	
 BbhMcGn9tRzPq6qdt8f8W	Big Bertha	3	FwwCqJKcNDNMjJn9mTCgg	Hyper Driver		
 L6rgnMGtzqKkLfHdkTPph	Big Bop	1	DBhPCQqjnj6qqd9DtBB7W	Vigor		
+c7LrgMPzh9mcqbCqM9mmw	Big Bop	2	DBhPCQqjnj6qqd9DtBB7W	Vigor		
+LFnMwmW9pgdNwzHCtfNnL	Big Bop	3	DBhPCQqjnj6qqd9DtBB7W	Vigor		
 8qgwqKgbDwGwGNMjh7qLQ	Bigger Than Big	1	6gqTwGnmHjkCLDqKPWt8c	Might		
 zGd78mnnbrJdQLzn7TqRk	Bigger Than Big	2	6gqTwGnmHjkCLDqKPWt8c	Might		
 TK6twQMzpt7pKnRM8bFKn	Bigger Than Big	3	6gqTwGnmHjkCLDqKPWt8c	Might		
@@ -336,6 +339,8 @@ Ld6twwNTNGTcWFw9rRWfh	Cash In	2	gzDGmdfm6gHWctgrcgfKf	Copper
 Ld6twwNTNGTcWFw9rRWfh	Cash In	2	8qdmprPg7kckn8ktMTKQh	Gold		
 Ld6twwNTNGTcWFw9rRWfh	Cash In	2	TNJz9fCgqmhhLz9rP9tkt	Silver		
 tWjDdc6FFdnDNk7dLgzt7	Cash Out	3	TNJz9fCgqmhhLz9rP9tkt	Silver		
+6KQdhWqcGdhFgmRzwBrnh	Cast Bones	1	6gqTwGnmHjkCLDqKPWt8c	Might		
+6KQdhWqcGdhFgmRzwBrnh	Cast Bones	1	WqTTMjDgKKCp7Lnb7LH6d	Agility		
 6RMJpmJnGGNQdHFMnJKcD	Celestial Reprimand	1	9BPFcP6dTCwRdJKJBbqCc	Herald of Erudition	2	
 6RMJpmJnGGNQdHFMnJKcD	Celestial Reprimand	1	z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	2	
 6RMJpmJnGGNQdHFMnJKcD	Celestial Reprimand	1	LrjRbqHNNKbLGfqDPjp7R	Herald of Protection	1	
@@ -472,8 +477,13 @@ TwcL67rLrL9CfqgFdPF9t	Civic Duty		DBhPCQqjnj6qqd9DtBB7W	Vigor
 zFTw6RPr76Gc7cqPMFBzz	Civic Guide		6gqTwGnmHjkCLDqKPWt8c	Might		
 qQ9JC8BtngfRq7n9pqpKM	Civic Steps		cDpMQnr8LwPFGMdgffNb8	Quicken		
 gRpHwzjCr7Q6RQwnGTT7t	Clash of Agility	1	WqTTMjDgKKCp7Lnb7LH6d	Agility		
+8dw7PGfBNcKMcRkgMdPJz	Clash of Agility	2	WqTTMjDgKKCp7Lnb7LH6d	Agility		
+ghCPQqFqNjMq9cn7nTrzJ	Clash of Agility	3	WqTTMjDgKKCp7Lnb7LH6d	Agility		
 NGMpfnrcHzjWtB6bmGC6C	Clash of Might	1	6gqTwGnmHjkCLDqKPWt8c	Might		
+HQGTg8btKJgCCrhmBGrDN	Clash of Might	2	6gqTwGnmHjkCLDqKPWt8c	Might		
+KnJTJP7KPKfpNC7FNLJB8	Clash of Might	3	6gqTwGnmHjkCLDqKPWt8c	Might		
 FWQPHMnG9JDfm7JmC6hJ6	Clash of Vigor	1	DBhPCQqjnj6qqd9DtBB7W	Vigor		
+HrKnbRbWgpztmkCN6DJfR	Clash of Vigor	2	DBhPCQqjnj6qqd9DtBB7W	Vigor		
 pBjNr7MRTR6L7LMKT8j9d	Clash of Vigor	3	DBhPCQqjnj6qqd9DtBB7W	Vigor		
 KdPWDMfBd8BQp66B9chCQ	Coat of Frost		GHG6KkBzPkHDnMf7hL7K7	Frostbite		
 LzjkDR6QcL9WBztfDTRt9	Coax a Commotion	1	cDpMQnr8LwPFGMdgffNb8	Quicken		
@@ -568,6 +578,12 @@ NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy		kTzjGBrWbwncJCt7wLTrH	Dawn
 JFKn8JgrMchwh6D6dCQNw	Down But Not Out	1	WqTTMjDgKKCp7Lnb7LH6d	Agility		
 JFKn8JgrMchwh6D6dCQNw	Down But Not Out	1	6gqTwGnmHjkCLDqKPWt8c	Might		
 JFKn8JgrMchwh6D6dCQNw	Down But Not Out	1	DBhPCQqjnj6qqd9DtBB7W	Vigor		
+n6jb6thTHT9TpcTdRjdQm	Down But Not Out	2	WqTTMjDgKKCp7Lnb7LH6d	Agility		
+n6jb6thTHT9TpcTdRjdQm	Down But Not Out	2	6gqTwGnmHjkCLDqKPWt8c	Might		
+n6jb6thTHT9TpcTdRjdQm	Down But Not Out	2	DBhPCQqjnj6qqd9DtBB7W	Vigor		
+PCCtHrqDfnnmwFJwMNGDW	Down But Not Out	3	WqTTMjDgKKCp7Lnb7LH6d	Agility		
+PCCtHrqDfnnmwFJwMNGDW	Down But Not Out	3	6gqTwGnmHjkCLDqKPWt8c	Might		
+PCCtHrqDfnnmwFJwMNGDW	Down But Not Out	3	DBhPCQqjnj6qqd9DtBB7W	Vigor		
 FWdhrBqFCH9nqqmRGPcTL	Drawn to the Dark Dimension	1	zfrHQjbPkpBmdQGrWcTMB	Runechant		
 fDnDDNRg7WC6tfmFgz9LC	Drawn to the Dark Dimension	2	zfrHQjbPkpBmdQGrWcTMB	Runechant		
 PMm7cqpbBL7wGwbqcqMcz	Drawn to the Dark Dimension	3	zfrHQjbPkpBmdQGrWcTMB	Runechant		
@@ -592,6 +608,9 @@ qCwM6LGq87rrqGQFk8rKG	Earthlore Bounty		Rf8CHpzmhJNppCtDDKWDm	Seismic Surge
 PDHFDfPrn8TwBGw6h7cFr	Eclipse	3	mCCnJrJQkqJ7KfqKNHGnc	Chane		
 PDHFDfPrn8TwBGw6h7cFr	Eclipse	3	MhBTRHCCft7RbrMmkwwGw	Chane, Bound by Shadow		
 PDHFDfPrn8TwBGw6h7cFr	Eclipse	3	pN9zPNQfc6GGrwdgMBLkj	Ursur, the Soul Reaper		
+J8WjCNLBmFtppjBfWqjtW	Edge Ahead	1	WqTTMjDgKKCp7Lnb7LH6d	Agility		
+c6GzLGmQpLLQHMqQBLRNz	Edge Ahead	2	WqTTMjDgKKCp7Lnb7LH6d	Agility		
+mPWjQbHQmbd8nr8jWdhJH	Edge Ahead	3	WqTTMjDgKKCp7Lnb7LH6d	Agility		
 kqndgG6wmB6CLq6FqfjJ9	Embermaw Cenipai	1	G6CnbFqjfGgKqqqmnCbMh	Ash		
 NKpQT99rMW9DHw6Jjgrq8	Embermaw Cenipai	2	G6CnbFqjfGgKqqqmnCbMh	Ash		
 fkrcRbTfRgjF8tpTKPMNH	Embermaw Cenipai	3	G6CnbFqjfGgKqqqmnCbMh	Ash		
@@ -744,6 +763,7 @@ DLCqPPF6cRwMCgdhRBj6F	Hammer of Havenhold		WtQz7cpTHPLGqtFLFJwjj	Chivalry
 TCDKdFdzFT6nJnBBRbCLL	Hatchet of Mind		99B9LdcMnLqBhwjQmrHRG	Hatchet of Body		
 RFRrT7hMB7bMJ9jcjzJgj	Haze Bending	3	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield		
 h7NLHrBf7dNmKLN8zqRLn	Heart-throb		DBhPCQqjnj6qqd9DtBB7W	Vigor		
+8KcHGzJF7JBb67qmjgNMb	Hearty Block	1	DBhPCQqjnj6qqd9DtBB7W	Vigor		
 Prkf9mwfBCbLDHncK6CPP	Heat Wave		kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1	
 z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	2	NGkHQHjzkFqfmGLKmRCpj	Prism		
 z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	2	F7rQpTDjHFWPgQhcGg7RT	Prism, Sculptor of Arc Light		
@@ -860,6 +880,8 @@ GwMRRqcL8rDHFRDTfqWzt	Kassai		8qdmprPg7kckn8ktMTKQh	Gold
 ffKGNQcWnLkfQD7w66MRL	Kassai of the Golden Sand		8qdmprPg7kckn8ktMTKQh	Gold		
 wWmP8RJRq7MWk7kBh9q7w	Kassai, Cintari Sellsword		gzDGmdfm6gHWctgrcgfKf	Copper		
 rgq8FqBMdhn9khbwjDK6Q	Kavdaen, Trader of Skins		gzDGmdfm6gHWctgrcgfKf	Copper		
+HhFFJJRzq78LdNWPJP88t	Kayo		6gqTwGnmHjkCLDqKPWt8c	Might		
+qdLHRPTdGkw6TjpMjPTW7	Kayo, Armed and Dangerous		6gqTwGnmHjkCLDqKPWt8c	Might		
 jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	zDfRfgF6fn7WGTKcj67JK	Amulet of Assertiveness	2	
 jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	8PgrwjDp8NNrz9mDGDP8B	Amulet of Earth	3	
 jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-Brac	1	fgWtKprkRGWMhWwkCPJFm	Amulet of Echoes	3	
@@ -893,7 +915,14 @@ WqDtDMqJhHBhHfdjTRRFb	Knucklehead		HhFFJJRzq78LdNWPJP88t	Kayo
 gdFrmMtzgg8DcqjN6tfBM	Lace with Bloodrot	1	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox		
 cztrB96QNb9CqKDgBRwcN	Lace with Frailty	1	KPWKQmMgm7rmM7bfFw9gF	Frailty		
 n877nqgWkLDfjQBwM7DM7	Lace with Inertia	1	G6kbCqnBzwjhrb88Q6K7w	Inertia		
+CTq6Kdn7WcJ87LzrmznkH	Lead with Heart	1	DBhPCQqjnj6qqd9DtBB7W	Vigor		
+QqFg7dmp9NTgKcr88p6KG	Lead with Heart	2	DBhPCQqjnj6qqd9DtBB7W	Vigor		
+mRhcrTprzbbdTbB9gdTHw	Lead with Heart	3	DBhPCQqjnj6qqd9DtBB7W	Vigor		
+zCCQtzBrr9QWp6fqDQNrC	Lead with Power	1	6gqTwGnmHjkCLDqKPWt8c	Might		
+PNLWb9zzTRkcJ6Dbrg67G	Lead with Power	2	6gqTwGnmHjkCLDqKPWt8c	Might		
 WbckgKBJq6kBM88nRFGmB	Lead with Power	3	6gqTwGnmHjkCLDqKPWt8c	Might		
+W8LHRTQFddrfnG8ptNjHW	Lead with Speed	1	WqTTMjDgKKCp7Lnb7LH6d	Agility		
+nwCQmwCJLFCtDCBtH8mfD	Lead with Speed	2	WqTTMjDgKKCp7Lnb7LH6d	Agility		
 9fPKGQrHcMrfMjQ7MqgGL	Lead with Speed	3	WqTTMjDgKKCp7Lnb7LH6d	Agility		
 zWjNwt6zMt9hMq9TDKJWp	Leave No Witnesses	1	TNJz9fCgqmhhLz9rP9tkt	Silver		
 DGNn7nRKwBjzf9f9rmzJM	Lesson in Lava	2	Q9B8TDhTdfDLN8ccnBThK	Kano		
@@ -1071,7 +1100,9 @@ JJcft9d6mrcTCbwbkQTcB	Pay Day	3	TNJz9fCgqmhhLz9rP9tkt	Silver
 NGjkmJLnHHqG7GGcGFk69	Peace of Mind	1	HpWqFJW8ftTDdzCLK9RkD	Ponder		
 WJF9DkbGLF6zWdGFFRFnh	Peace of Mind	2	HpWqFJW8ftTDdzCLK9RkD	Ponder		
 LhPbGbqqgcdFhMMJTkHhw	Peace of Mind	3	HpWqFJW8ftTDdzCLK9RkD	Ponder		
+NJcrQWnf8KF9jd7FGDg8p	Performance Bonus	1	8qdmprPg7kckn8ktMTKQh	Gold		
 ChbzMDmWzwMD9FRF87cq8	Performance Bonus	2	8qdmprPg7kckn8ktMTKQh	Gold		
+RnL78Jfhr8nfnqbgFFQwk	Performance Bonus	3	8qdmprPg7kckn8ktMTKQh	Gold		
 6KwJ86P99FbcRKnbnRpnj	Phantasmal Haze	1	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield		
 cQkdbRCNDrm6LmPNWPTHz	Phantasmal Haze	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield		
 JqK88CP9ND6FCGjTGRMgj	Phantasmal Haze	3	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield		
@@ -1096,6 +1127,8 @@ jDjbmKWW9RHJwwncKDDfK	Pouncing Qi	1	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger
 KGCccRcdK768czQhpzLPq	Pouncing Qi	2	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger		
 qmQ6tmqFznzMnf9dcDRcF	Pouncing Qi	3	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger		
 jkPdKzd9rfgc7W87rjr6r	Pound Town	1	6gqTwGnmHjkCLDqKPWt8c	Might		
+hBNjTCpMptr8QmFbPHjN8	Pound Town	2	6gqTwGnmHjkCLDqKPWt8c	Might		
+rKcfc9TTdwWgLrqtWJ67N	Pound Town	3	6gqTwGnmHjkCLDqKPWt8c	Might		
 QBBDQjBmrCk9CR7BG8wmH	Pounding Gale	1	TkCWdhw8pfcpfckC9MLNm	Open the Center	1	
 QBBDQjBmrCk9CR7BG8wmH	Pounding Gale	1	BfQnT8rqMhTBmDWCFgdhW	Open the Center	2	
 QBBDQjBmrCk9CR7BG8wmH	Pounding Gale	1	CChttCnwGwHMcBKm6LhNR	Open the Center	3	
@@ -1269,6 +1302,7 @@ Kh8MDbwK76BTHkdjzDFTK	Roar of the Tiger	2	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger
 fDLQ8hHmzqnngwPhBdkNJ	Rob the Rich	1	TNJz9fCgqmhhLz9rP9tkt	Silver		
 rC9hRJc8GLMpncbLwkn8q	Rob the Rich	2	TNJz9fCgqmhhLz9rP9tkt	Silver		
 LKppkHRwJHjnccLKhNHGG	Rob the Rich	3	TNJz9fCgqmhhLz9rP9tkt	Silver		
+wbJtMrPCzqL6NRGrT6fJK	Run into Trouble	1	WqTTMjDgKKCp7Lnb7LH6d	Agility		
 TWm6BC9zbHp69FkFNmbnR	Rune Flash	1	zfrHQjbPkpBmdQGrWcTMB	Runechant		
 FCJjCLKrKbQ7nhwhHwbHB	Rune Flash	2	zfrHQjbPkpBmdQGrWcTMB	Runechant		
 TGPPfm8pTmjLGHjB889bD	Rune Flash	3	zfrHQjbPkpBmdQGrWcTMB	Runechant		
@@ -1441,6 +1475,7 @@ tPW6ffbwKnNCWf9hKLKTN	Symbiosis Shot		kftPnNkrBLJ7rPmFGgQCm	Dash
 tPW6ffbwKnNCWf9hKLKTN	Symbiosis Shot		LkqQpr7QL8KpnqMh7dHpR	Dash I/O		
 tPW6ffbwKnNCWf9hKLKTN	Symbiosis Shot		N6TDqDNWfKfrz6G6jNrQQ	Dash, Database		
 tPW6ffbwKnNCWf9hKLKTN	Symbiosis Shot		6CcjWGnThrTmTQFQ9zHMN	Dash, Inventor Extraordinaire		
+TChD6cjwh6bQmkf7kQFqP	Take it on the Chin	1	WqTTMjDgKKCp7Lnb7LH6d	Agility		
 zbnpfqW7d6CqN9wT8Dcft	Tales of Adventure	3	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing		
 zbnpfqW7d6CqN9wT8Dcft	Tales of Adventure	3	gzDGmdfm6gHWctgrcgfKf	Copper		
 zbnpfqW7d6CqN9wT8Dcft	Tales of Adventure	3	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth		
@@ -1470,6 +1505,7 @@ wPnWnDTdFfnjghqkQB88C	The Golden Son	2	kHmRR6Q7mJPjQgdQJcjpQ	Victor Goldmane
 wPnWnDTdFfnjghqkQB88C	The Golden Son	2	8qdmprPg7kckn8ktMTKQh	Gold		
 PDPbhCGj7twzTP8HGfhBb	Thunk	1	6gqTwGnmHjkCLDqKPWt8c	Might		
 KqtjpgTftPFhRbhwQkcBQ	Thunk	2	6gqTwGnmHjkCLDqKPWt8c	Might		
+7HFBMWtFrdmQpQkLLwHGJ	Thunk	3	6gqTwGnmHjkCLDqKPWt8c	Might		
 gftbNkkj9bNCBFRpnbdtq	Tiger Eye Reflex		fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger		
 6tj9kHRWLHbCbF6mG6tDh	Tiger Eye Reflex		fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger		
 mFNK7nKtRMLWdHJzrngNb	Tiger Swipe	1	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger		
@@ -1517,6 +1553,8 @@ kHmRR6Q7mJPjQgdQJcjpQ	Victor Goldmane		8qdmprPg7kckn8ktMTKQh	Gold
 fc8jMwTprwnhRbPKDmF9J	Victor Goldmane, High and Mighty		8qdmprPg7kckn8ktMTKQh	Gold		
 GpQBzCwwRFCKjWNq8Hgtj	Vigor Girth		DBhPCQqjnj6qqd9DtBB7W	Vigor		
 Wqzz9n7hGCTknBPgFqdTH	Vigorous Engagement	1	DBhPCQqjnj6qqd9DtBB7W	Vigor		
+MqGBqBNK77NbbzGrBmLFz	Vigorous Engagement	2	DBhPCQqjnj6qqd9DtBB7W	Vigor		
+KKQzqtKwzCTR9z7khM7Bp	Vigorous Engagement	3	DBhPCQqjnj6qqd9DtBB7W	Vigor		
 JrjbG9mbwQC8zQcnPRhHg	Virulent Touch	1	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox		
 hw9HLQQjJ9nzWtBGFzWgc	Virulent Touch	2	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox		
 z78cKCmLRbWfftGfpcJGd	Virulent Touch	3	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox		
@@ -1536,9 +1574,12 @@ PQJbFn9m8g7J6BttmD6LN	Wage Gold	1	8qdmprPg7kckn8ktMTKQh	Gold
 rz9tKHQJFKq8wCbrKFchG	Wage Gold	2	8qdmprPg7kckn8ktMTKQh	Gold		
 NQch97pRQJKKFBcwtTP9c	Wage Gold	3	8qdmprPg7kckn8ktMTKQh	Gold		
 LRqdhhQnNFKCpttQmMJKq	Wage Might	1	6gqTwGnmHjkCLDqKPWt8c	Might		
+FLHFkrDTc9RLpNnR8wbK9	Wage Might	2	6gqTwGnmHjkCLDqKPWt8c	Might		
+wGwjNqdjmKwqgzKrPhMn9	Wage Might	3	6gqTwGnmHjkCLDqKPWt8c	Might		
 cgFCqbggd6BNB8kHFWNKJ	Wage Vigor	1	DBhPCQqjnj6qqd9DtBB7W	Vigor		
 MQN9FMbnbmGjrndKzFCC8	Wage Vigor	2	DBhPCQqjnj6qqd9DtBB7W	Vigor		
 9t79HPQncwtwKtBg8MhRH	Wage Vigor	3	DBhPCQqjnj6qqd9DtBB7W	Vigor		
+JrqgkhzCLT6cDgrhNjnKJ	Wall of Meat and Muscle	1	6gqTwGnmHjkCLDqKPWt8c	Might		
 cgLKkrphHT8RTF9T9cggM	Wallop	1	DBhPCQqjnj6qqd9DtBB7W	Vigor		
 rppddnbcWR8QzfQzQFHWR	Wallop	2	DBhPCQqjnj6qqd9DtBB7W	Vigor		
 QJWNKmgngBdFTwDGmmjCF	Wallop	3	DBhPCQqjnj6qqd9DtBB7W	Vigor		
