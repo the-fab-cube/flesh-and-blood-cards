@@ -1,5 +1,6 @@
 Card Unique ID	Card Name	Card Pitch	Referenced Card Unique ID	Referenced Card Name	Referenced Card Pitch
 KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
+tFKpRnDbfcwtC8dwqm9qm	Agile Engagement	1	WqTTMjDgKKCp7Lnb7LH6d	Agility	
 h9jqjKPhPLfwCdgkQ9NBB	Agile Windup	3	WqTTMjDgKKCp7Lnb7LH6d	Agility	
 nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement	2	jKhMgndCGwjzKLHQMM7Cj	Eloquence	
 nBf66Gt7ghRTqhn7nNqKh	Alluring Inducement	2	n9r77QwMzdWJmnfhPLN9J	Shiyana, Diamond Gemini	
@@ -149,6 +150,7 @@ hKGMtQDHtqLhzg8Lzmjmc	Arknight Ascendancy	1	TKbRWjjBLJThMmLkTFb6q	Viserai, Rune 
 pkMGCRh9fDT98dRgnQF8W	Arknight Shard	3	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 pkMGCRh9fDT98dRgnQF8W	Arknight Shard	3	RHnFkKb8FKdFzp9rdzGjF	Viserai	
 pkMGCRh9fDT98dRgnQF8W	Arknight Shard	3	TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood	
+bnFnGz7gd8tRfQfcmk8nG	Assault and Battery	1	WqTTMjDgKKCp7Lnb7LH6d	Agility	
 qMpdhqQqktTKQHcQJ8f6B	Aurum Aegis		fc8jMwTprwnhRbPKDmF9J	Victor Goldmane, High and Mighty	
 qMpdhqQqktTKQHcQJ8f6B	Aurum Aegis		kHmRR6Q7mJPjQgdQJcjpQ	Victor Goldmane	
 qMpdhqQqktTKQHcQJ8f6B	Aurum Aegis		8qdmprPg7kckn8ktMTKQh	Gold	
@@ -227,6 +229,7 @@ BbhMcGn9tRzPq6qdt8f8W	Big Bertha	3	kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
 BbhMcGn9tRzPq6qdt8f8W	Big Bertha	3	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
 BbhMcGn9tRzPq6qdt8f8W	Big Bertha	3	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
 BbhMcGn9tRzPq6qdt8f8W	Big Bertha	3	FwwCqJKcNDNMjJn9mTCgg	Hyper Driver	
+L6rgnMGtzqKkLfHdkTPph	Big Bop	1	DBhPCQqjnj6qqd9DtBB7W	Vigor	
 8qgwqKgbDwGwGNMjh7qLQ	Bigger Than Big	1	6gqTwGnmHjkCLDqKPWt8c	Might	
 zGd78mnnbrJdQLzn7TqRk	Bigger Than Big	2	6gqTwGnmHjkCLDqKPWt8c	Might	
 TK6twQMzpt7pKnRM8bFKn	Bigger Than Big	3	6gqTwGnmHjkCLDqKPWt8c	Might	
@@ -462,6 +465,10 @@ hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	2	NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quic
 TwcL67rLrL9CfqgFdPF9t	Civic Duty		DBhPCQqjnj6qqd9DtBB7W	Vigor	
 zFTw6RPr76Gc7cqPMFBzz	Civic Guide		6gqTwGnmHjkCLDqKPWt8c	Might	
 qQ9JC8BtngfRq7n9pqpKM	Civic Steps		cDpMQnr8LwPFGMdgffNb8	Quicken	
+gRpHwzjCr7Q6RQwnGTT7t	Clash of Agility	1	WqTTMjDgKKCp7Lnb7LH6d	Agility	
+NGMpfnrcHzjWtB6bmGC6C	Clash of Might	1	6gqTwGnmHjkCLDqKPWt8c	Might	
+FWQPHMnG9JDfm7JmC6hJ6	Clash of Vigor	1	DBhPCQqjnj6qqd9DtBB7W	Vigor	
+pBjNr7MRTR6L7LMKT8j9d	Clash of Vigor	3	DBhPCQqjnj6qqd9DtBB7W	Vigor	
 KdPWDMfBd8BQp66B9chCQ	Coat of Frost		GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 LzjkDR6QcL9WBztfDTRt9	Coax a Commotion	1	cDpMQnr8LwPFGMdgffNb8	Quicken	
 tjnCb9JGD7mzznFPfDzHp	Codex of Bloodrot	2	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox	
@@ -552,6 +559,9 @@ w7HdMtLpHDBRNJcKHWHpc	Doomsday	3	WwzJLfPwhRTkFLDNjJPrk	Levia
 w7HdMtLpHDBRNJcKHWHpc	Doomsday	3	KCwnGqDJtnmJfth7fn8Qq	Levia, Shadowborn Abomination	
 NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy		kTzjGBrWbwncJCt7wLTrH	Dawnblade, Resplendent	
 8JF8CGqcQRDnGWNBhkhtD	Double Down	1	8qdmprPg7kckn8ktMTKQh	Gold	
+JFKn8JgrMchwh6D6dCQNw	Down But Not Out	1	WqTTMjDgKKCp7Lnb7LH6d	Agility	
+JFKn8JgrMchwh6D6dCQNw	Down But Not Out	1	6gqTwGnmHjkCLDqKPWt8c	Might	
+JFKn8JgrMchwh6D6dCQNw	Down But Not Out	1	DBhPCQqjnj6qqd9DtBB7W	Vigor	
 FWdhrBqFCH9nqqmRGPcTL	Drawn to the Dark Dimension	1	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 fDnDDNRg7WC6tfmFgz9LC	Drawn to the Dark Dimension	2	zfrHQjbPkpBmdQGrWcTMB	Runechant	
 PMm7cqpbBL7wGwbqcqMcz	Drawn to the Dark Dimension	3	zfrHQjbPkpBmdQGrWcTMB	Runechant	
@@ -656,6 +666,7 @@ KthQj9HCRMDRfngK88kCw	Flail of Agony		WhKb7MKbcDLhGThWGP8hT	Vynnset
 KthQj9HCRMDRfngK88kCw	Flail of Agony		9CwWmnzhhfLbJgc6q7Hm7	Vynnset, Iron Maiden	
 WnBPzmt9KKqqBpccHPJTG	Flameborn Retribution	1	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1
 HjFbJmPHHbLwqfnbPfFML	Flamecall Awakening	1	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1
+RNdgT9tDmGkztGN7zpkRn	Flat Trackers		WqTTMjDgKKCp7Lnb7LH6d	Agility	
 cKbtrKKgB6TQdgwKQRRMp	Fleece the Frail	1	TNJz9fCgqmhhLz9rP9tkt	Silver	
 pTkGCNJD989J9TkqLnfRb	Fleece the Frail	2	TNJz9fCgqmhhLz9rP9tkt	Silver	
 QBDrnc9CmJD6BdzzhQGjJ	Fleece the Frail	3	TNJz9fCgqmhhLz9rP9tkt	Silver	
@@ -707,6 +718,14 @@ Mqj9K8NgJ7LFBwMKWk6L7	Genis Wotchuneed		TNJz9fCgqmhhLz9rP9tkt	Silver
 7BHmLFHMLWwnzR7Fhf667	Glistening Steelblade	2	NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy	
 gnCjFF9rFPTrhTrBcjJGc	Goblet of Bloodrun Wine	3	WqTTMjDgKKCp7Lnb7LH6d	Agility	
 gnCjFF9rFPTrhTrBcjJGc	Goblet of Bloodrun Wine	3	DBhPCQqjnj6qqd9DtBB7W	Vigor	
+69GnfBCnLKPjLMkhQ6gF6	Golden Glare		fc8jMwTprwnhRbPKDmF9J	Victor Goldmane, High and Mighty	
+69GnfBCnLKPjLMkhQ6gF6	Golden Glare		kHmRR6Q7mJPjQgdQJcjpQ	Victor Goldmane	
+69GnfBCnLKPjLMkhQ6gF6	Golden Glare		8qdmprPg7kckn8ktMTKQh	Gold	
+JJqgR7zTPJmjWNtnFdQ88	Good Time Chapeau		zdWrPkDgdbWdGBWjCLnhj	Betsy	
+JJqgR7zTPJmjWNtnFdQ88	Good Time Chapeau		m7WjNjrtmfKdLfqPLWDHw	Betsy, Skin in the Game	
+JJqgR7zTPJmjWNtnFdQ88	Good Time Chapeau		8qdmprPg7kckn8ktMTKQh	Gold	
+JJqgR7zTPJmjWNtnFdQ88	Good Time Chapeau		6gqTwGnmHjkCLDqKPWt8c	Might	
+JJqgR7zTPJmjWNtnFdQ88	Good Time Chapeau		DBhPCQqjnj6qqd9DtBB7W	Vigor	
 FhJWwcJKQjbQhHGRcNFTf	Grains of Bloodspill		DBhPCQqjnj6qqd9DtBB7W	Vigor	
 pwfB8pHmJRDD8CfP8mTbr	Grandeur of Valahai		Rf8CHpzmhJNppCtDDKWDm	Seismic Surge	
 6WM7PKt9BCGmw7wQzn7k6	Grasp of the Arknight		zfrHQjbPkpBmdQGrWcTMB	Runechant	
@@ -866,6 +885,8 @@ WqDtDMqJhHBhHfdjTRRFb	Knucklehead		HhFFJJRzq78LdNWPJP88t	Kayo
 gdFrmMtzgg8DcqjN6tfBM	Lace with Bloodrot	1	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox	
 cztrB96QNb9CqKDgBRwcN	Lace with Frailty	1	KPWKQmMgm7rmM7bfFw9gF	Frailty	
 n877nqgWkLDfjQBwM7DM7	Lace with Inertia	1	G6kbCqnBzwjhrb88Q6K7w	Inertia	
+WbckgKBJq6kBM88nRFGmB	Lead with Power	3	6gqTwGnmHjkCLDqKPWt8c	Might	
+9fPKGQrHcMrfMjQ7MqgGL	Lead with Speed	3	WqTTMjDgKKCp7Lnb7LH6d	Agility	
 zWjNwt6zMt9hMq9TDKJWp	Leave No Witnesses	1	TNJz9fCgqmhhLz9rP9tkt	Silver	
 DGNn7nRKwBjzf9f9rmzJM	Lesson in Lava	2	Q9B8TDhTdfDLN8ccnBThK	Kano	
 DGNn7nRKwBjzf9f9rmzJM	Lesson in Lava	2	kRPqHdCckKBKfRwjbfzNT	Kano, Dracai of Aether	
@@ -977,6 +998,9 @@ zjzpNfJzKkkQPptTjCthC	Mugenshi: RELEASE	2	Hpq8jQm9H97HbfhBKgctd	Surging Strike	2
 zjzpNfJzKkkQPptTjCthC	Mugenshi: RELEASE	2	KtHkGCQfc6Td7Dg8htCcJ	Surging Strike	3
 zjzpNfJzKkkQPptTjCthC	Mugenshi: RELEASE	3	QnGJNBGBFw98q9n9NCdRW	Katsu	
 zjzpNfJzKkkQPptTjCthC	Mugenshi: RELEASE	3	nM8BHGHd9qLGTPgwtWzkJ	Katsu, the Wanderer	
+fgPwzMt7tqqtN77zFbjzP	Nasty Surprise	3	WqTTMjDgKKCp7Lnb7LH6d	Agility	
+fgPwzMt7tqqtN77zFbjzP	Nasty Surprise	3	6gqTwGnmHjkCLDqKPWt8c	Might	
+fgPwzMt7tqqtN77zFbjzP	Nasty Surprise	3	DBhPCQqjnj6qqd9DtBB7W	Vigor	
 RWwk8hgBdnRdWfjkrfJHt	Nebula Blade		zfrHQjbPkpBmdQGrWcTMB	Runechant	
 b886KqRJLbpj78kHWMQJ9	Nekria		G6CnbFqjfGgKqqqmnCbMh	Ash	
 tfgqfmpf8PtwhJqcBKDwB	Nimble Strike	1	8gDnjCfGbwdzrRztkMJJG	Nimblism	1
@@ -1030,9 +1054,11 @@ h7cHBbCqJnRKPFFLHmbHL	Outland Skirmish	2	gzDGmdfm6gHWctgrcgfKf	Copper
 dR8hjTth9bHpdLfTBPLNM	Ouvia		pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing	
 BrCKk9JLw8r69fGgNt8BH	Overcome Adversity		WqTTMjDgKKCp7Lnb7LH6d	Agility	
 JJcft9d6mrcTCbwbkQTcB	Pay Day	3	TNJz9fCgqmhhLz9rP9tkt	Silver	
+97PpjPGqWTWDfNdPCGKLM	Pay Up	1	8qdmprPg7kckn8ktMTKQh	Gold	
 NGjkmJLnHHqG7GGcGFk69	Peace of Mind	1	HpWqFJW8ftTDdzCLK9RkD	Ponder	
 WJF9DkbGLF6zWdGFFRFnh	Peace of Mind	2	HpWqFJW8ftTDdzCLK9RkD	Ponder	
 LhPbGbqqgcdFhMMJTkHhw	Peace of Mind	3	HpWqFJW8ftTDdzCLK9RkD	Ponder	
+ChbzMDmWzwMD9FRF87cq8	Performance Bonus	2	8qdmprPg7kckn8ktMTKQh	Gold	
 6KwJ86P99FbcRKnbnRpnj	Phantasmal Haze	1	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 cQkdbRCNDrm6LmPNWPTHz	Phantasmal Haze	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 JqK88CP9ND6FCGjTGRMgj	Phantasmal Haze	3	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
@@ -1056,6 +1082,7 @@ HjFKhRGTDGJDk8NGmdFjB	Pouncing Paws		fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger
 jDjbmKWW9RHJwwncKDDfK	Pouncing Qi	1	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
 KGCccRcdK768czQhpzLPq	Pouncing Qi	2	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
 qmQ6tmqFznzMnf9dcDRcF	Pouncing Qi	3	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
+jkPdKzd9rfgc7W87rjr6r	Pound Town	1	6gqTwGnmHjkCLDqKPWt8c	Might	
 QBBDQjBmrCk9CR7BG8wmH	Pounding Gale	1	TkCWdhw8pfcpfckC9MLNm	Open the Center	1
 QBBDQjBmrCk9CR7BG8wmH	Pounding Gale	1	BfQnT8rqMhTBmDWCFgdhW	Open the Center	2
 QBBDQjBmrCk9CR7BG8wmH	Pounding Gale	1	CChttCnwGwHMcBKm6LhNR	Open the Center	3
@@ -1063,6 +1090,8 @@ r9GQj9McpQbr8Jf9jhkch	Predatory Streak	1	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger
 fgtKgMrhTRwMmQqMfg9FH	Predatory Streak	2	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
 fdfdpDhwBKNpbGPntGkKd	Predatory Streak	3	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
 fMgQnGBfTgfGdLFMDjDWJ	Premeditate	1	HpWqFJW8ftTDdzCLK9RkD	Ponder	
+DTNR6KNnBDCBqkczc9PnT	Primed to Fight	1	6gqTwGnmHjkCLDqKPWt8c	Might	
+DTNR6KNnBDCBqkczc9PnT	Primed to Fight	1	DBhPCQqjnj6qqd9DtBB7W	Vigor	
 NGkHQHjzkFqfmGLKmRCpj	Prism		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 dhbhdcr8CB6ngRrf9GTgm	Prism, Advent of Thrones		9BPFcP6dTCwRdJKJBbqCc	Herald of Erudition	2
 dhbhdcr8CB6ngRrf9GTgm	Prism, Advent of Thrones		z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	2
@@ -1108,6 +1137,9 @@ F7rQpTDjHFWPgQhcGg7RT	Prism, Sculptor of Arc Light		NwwnMqBg9tdRBp9NWHpgf	Spectr
 KHwWtFzhjTgbrJJrkGjFc	Prismatic Shield	1	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 GwNppkqrrrfrMgRWhT9rr	Prismatic Shield	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 bFjnrzdmFLkwdBbWHnGfR	Prismatic Shield	3	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
+mRCfW6wBLjzRzjnNrKqQn	Prized Galea		t7H7JCQcTb9TTjjCbNwDH	Olympia	
+mRCfW6wBLjzRzjnNrKqQn	Prized Galea		9JqrM7dbgfG87L6tPghrM	Olympia, Prized Fighter	
+mRCfW6wBLjzRzjnNrKqQn	Prized Galea		8qdmprPg7kckn8ktMTKQh	Gold	
 twGn8N6Pm6ctFgKnjCpL7	Qi Unleashed	1	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
 hrPnGKq9czRctFqJqWknC	Qi Unleashed	2	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
 mBhNRNw6CMrF8trKHgtCC	Qi Unleashed	3	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
@@ -1135,6 +1167,8 @@ ctP6TMfCKqwK6QpjG7wLH	Rake the Embers	2	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing
 ctP6TMfCKqwK6QpjG7wLH	Rake the Embers	2	G6CnbFqjfGgKqqqmnCbMh	Ash	
 pP7GCzgTjQPMNLBFfRbBw	Rake the Embers	3	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing	
 pP7GCzgTjQPMNLBFfRbBw	Rake the Embers	3	G6CnbFqjfGgKqqqmnCbMh	Ash	
+mgcdBrjHkNTmKKjwnJKF9	Raw Meat		6gqTwGnmHjkCLDqKPWt8c	Might	
+mgcdBrjHkNTmKKjwnJKF9	Raw Meat		DBhPCQqjnj6qqd9DtBB7W	Vigor	
 cmCpRmRbNLkdGzbfrJ6Gj	Re-Charge!	1	kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1
 cmCpRmRbNLkdGzbfrJ6Gj	Re-Charge!	1	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2
 cmCpRmRbNLkdGzbfrJ6Gj	Re-Charge!	1	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
@@ -1414,16 +1448,22 @@ WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	N6TDqDNWfKfrz6G6jNrQQ	Dash, Database
 WhkHHgjnWgncTLFtLDKjn	Teklo Core	3	6CcjWGnThrTmTQFQ9zHMN	Dash, Inventor Extraordinaire	
 6ChQcHfgrFqCLTrFppwQG	Test of Agility	1	WqTTMjDgKKCp7Lnb7LH6d	Agility	
 zmkd9LqrNQFfqHCWKcQNr	Test of Strength	1	8qdmprPg7kckn8ktMTKQh	Gold	
+zt8NGKPrTHDJ8pDrDdJgw	Test of Vigor	1	DBhPCQqjnj6qqd9DtBB7W	Vigor	
 dJCRQcRmp7mhMTNDRgFN8	Thaw	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite	
 wPnWnDTdFfnjghqkQB88C	The Golden Son	2	fc8jMwTprwnhRbPKDmF9J	Victor Goldmane, High and Mighty	
 wPnWnDTdFfnjghqkQB88C	The Golden Son	2	kHmRR6Q7mJPjQgdQJcjpQ	Victor Goldmane	
 wPnWnDTdFfnjghqkQB88C	The Golden Son	2	8qdmprPg7kckn8ktMTKQh	Gold	
+PDPbhCGj7twzTP8HGfhBb	Thunk	1	6gqTwGnmHjkCLDqKPWt8c	Might	
+KqtjpgTftPFhRbhwQkcBQ	Thunk	2	6gqTwGnmHjkCLDqKPWt8c	Might	
 gftbNkkj9bNCBFRpnbdtq	Tiger Eye Reflex		fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
 6tj9kHRWLHbCbF6mG6tDh	Tiger Eye Reflex		fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
 mFNK7nKtRMLWdHJzrngNb	Tiger Swipe	1	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger	
 QCKJqg6QMPR9pLPBCJQJK	Toxic Tips		drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox	
 QCKJqg6QMPR9pLPBCJQJK	Toxic Tips		KPWKQmMgm7rmM7bfFw9gF	Frailty	
 QCKJqg6QMPR9pLPBCJQJK	Toxic Tips		G6kbCqnBzwjhrb88Q6K7w	Inertia	
+p9Mw8DBq9hPqKnPRrwCHz	Trounce	1	8qdmprPg7kckn8ktMTKQh	Gold	
+p9Mw8DBq9hPqKnPRrwCHz	Trounce	1	6gqTwGnmHjkCLDqKPWt8c	Might	
+p9Mw8DBq9hPqKnPRrwCHz	Trounce	1	DBhPCQqjnj6qqd9DtBB7W	Vigor	
 wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	Fmf8trg9w8B8BBbWrf8w9	Boltyn	
 wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	tzTbzLkLhDzmW9QMJr9KF	Bravo	
 wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	NtLDgPBR7HqDqhDzJMHmk	Bravo, Showstopper	
@@ -1461,6 +1501,7 @@ wQh8rPTLTrzGqHhfbGnq6	Vexing Quillhand		zfrHQjbPkpBmdQGrWcTMB	Runechant
 kHmRR6Q7mJPjQgdQJcjpQ	Victor Goldmane		8qdmprPg7kckn8ktMTKQh	Gold	
 fc8jMwTprwnhRbPKDmF9J	Victor Goldmane, High and Mighty		8qdmprPg7kckn8ktMTKQh	Gold	
 GpQBzCwwRFCKjWNq8Hgtj	Vigor Girth		DBhPCQqjnj6qqd9DtBB7W	Vigor	
+Wqzz9n7hGCTknBPgFqdTH	Vigorous Engagement	1	DBhPCQqjnj6qqd9DtBB7W	Vigor	
 JrjbG9mbwQC8zQcnPRhHg	Virulent Touch	1	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox	
 hw9HLQQjJ9nzWtBGFzWgc	Virulent Touch	2	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox	
 z78cKCmLRbWfftGfpcJGd	Virulent Touch	3	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox	
@@ -1479,6 +1520,9 @@ rz9tKHQJFKq8wCbrKFchG	Wage Gold	2	8qdmprPg7kckn8ktMTKQh	Gold
 NQch97pRQJKKFBcwtTP9c	Wage Gold	3	8qdmprPg7kckn8ktMTKQh	Gold	
 LRqdhhQnNFKCpttQmMJKq	Wage Might	1	6gqTwGnmHjkCLDqKPWt8c	Might	
 cgFCqbggd6BNB8kHFWNKJ	Wage Vigor	1	DBhPCQqjnj6qqd9DtBB7W	Vigor	
+cgLKkrphHT8RTF9T9cggM	Wallop	1	DBhPCQqjnj6qqd9DtBB7W	Vigor	
+rppddnbcWR8QzfQzQFHWR	Wallop	2	DBhPCQqjnj6qqd9DtBB7W	Vigor	
+QJWNKmgngBdFTwDGmmjCF	Wallop	3	DBhPCQqjnj6qqd9DtBB7W	Vigor	
 LdTTQMN8HhrFjcDrLN6rP	Wander with Purpose	2	HT8r8mg8rHmbWJthCFHfH	Benji, the Piercing Wind	
 tB76Jz9T9FcQTtbFDpbmN	Water Glow Lanterns	1	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
 bgpJPGPPtgB7BDckBpRdM	Water Glow Lanterns	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield	
