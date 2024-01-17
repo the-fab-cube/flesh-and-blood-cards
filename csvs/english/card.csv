@@ -85,6 +85,8 @@ CrWjLrqtQtppQhQCMt9LH	Aether Wildfire	1	2		3			Wizard, Action							"Deal 4 arca
 If Aether Wildfire is played during an opponents turn, until end of turn, action card effects that deal arcane damage instead deal that much arcane damage plus X, where X is the damage dealt by Aether Wildfire."	Wizard Action				No	
 hp6NPdQkGkWhrwpd7JWTF	Aetherize	3	1					Wizard, Instant	Negate						**Negate** target instant card with cost {r} or less.	Wizard Instant				No	
 tFKpRnDbfcwtC8dwqm9qm	Agile Engagement	1	1		2			Warrior, Attack Reaction							Target Warrior attack gets +3{p}. If it's defended by an attack action card, create an Agility token.	Warrior Attack Reaction					
+9czLrcQJTpWrCcJRm8dnz	Agile Engagement	2	1		2			Warrior, Attack Reaction							Target Warrior attack gets +2{p}. If it's defended by an attack action card, create an Agility token.	Warrior Attack Reaction					
+Mj9fkHtdrzzmDw8RNCKmT	Agile Engagement	3	1		2			Warrior, Attack Reaction							Target Warrior attack gets +1{p}. If it's defended by an attack action card, create an Agility token.	Warrior Attack Reaction					
 Rmm8PgnzKNNfLcnKh86jd	Agile Windup	1	3	7	2			Brute, Warrior, Action, Attack		Instant					**Instant** - Discard this: Create an Agility token.	Brute / Warrior Action - Attack					
 rbzdbLWNThgMnfbcpj7zK	Agile Windup	2	3	6	2			Brute, Warrior, Action, Attack		Instant					**Instant** - Discard this: Create an Agility token.	Brute / Warrior Action - Attack					
 h9jqjKPhPLfwCdgkQ9NBB	Agile Windup	3	3	5	2			Brute, Warrior, Action, Attack		Instant					**Instant** - Discard this: Create an Agility token.	Brute / Warrior Action - Attack					
@@ -431,6 +433,8 @@ mGnLtgpdjnhKbGFhzBnrj	Beaming Bravado	3	0	1	3			Light, Warrior, Action, Attack	C
 
 If a yellow card is **charged** this way, this gets +1{p}"	Light Warrior Action - Attack				No	
 GCQjzHBLkpLKfW89ckp7q	Beast Mode	1	3	6	3			Brute, Action, Attack						Intimidate	If you've **intimidated** this turn, this gets +2{p}.	Brute Action - Attack				No	
+qChkdKF86TQpR6ctdDhRw	Beast Mode	2	3	5	3			Brute, Action, Attack						Intimidate	If you've **intimidated** this turn, this gets +2{p}.	Brute Action - Attack				No	
+Gtz9rhLqmgQNLCBWWrhn6	Beast Mode	3	3	4	3			Brute, Action, Attack						Intimidate	If you've **intimidated** this turn, this gets +2{p}.	Brute Action - Attack				No	
 dHNcBPjwggj8GdFnqbkrD	Beast Within	2	3	6	3			Brute, Action, Attack							If Beast Within is put into a graveyard from anywhere other than the combat chain, banish the top card of your deck and lose 1{h}. If it has 6 or more {p}, put it into your hand, otherwise, repeat this process.	Brute Action - Attack				No	
 zCWhR7jRCmH7D7fKDGKcF	Beaten Trackers				1			Brute, Equipment, Legs	Battleworn						"Whenever you discard a random card with 6 or more {p}, you may destroy Beaten Trackers. If you do, gain 1 action point.
 
@@ -497,6 +501,8 @@ BbhMcGn9tRzPq6qdt8f8W	Big Bertha	3	3	4	3			Mechanologist, Action, Attack	Boost		
 
 When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
 L6rgnMGtzqKkLfHdkTPph	Big Bop	1	3		2			Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +5{p} and ""When this attacks a hero, you may **wager** a Vigor token with them."""	Guardian Action - Aura					
+c7LrgMPzh9mcqbCqM9mmw	Big Bop	2	3		2			Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +4{p} and ""When this attacks a hero, you may **wager** a Vigor token with them."""	Guardian Action - Aura					
+LFnMwmW9pgdNwzHCtfNnL	Big Bop	3	3		2			Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Vigor token with them."""	Guardian Action - Aura					
 8FG8jW7HFB6fmBR6mkQdn	Big Shot	1	3	6	3			Mechanologist, Action, Attack						Boost	If you've **boosted** 2 or more times this turn, this gets +2{p}.	Mechanologist Action - Attack				No	
 8qgwqKgbDwGwGNMjh7qLQ	Bigger Than Big	1	3		2			Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +5{p} and ""When this attacks a hero, you may **wager** a Might token with them."""	Guardian Action - Aura					
 zGd78mnnbrJdQLzn7TqRk	Bigger Than Big	2	3		2			Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +4{p} and ""When this attacks a hero, you may **wager** a Might token with them."""	Guardian Action - Aura					
@@ -999,6 +1005,9 @@ tWjDdc6FFdnDNk7dLgzt7	Cash Out	3	0		2			Generic, Action	Go again						"As an add
 Create a Silver token for each permanent destroyed this way.
 
 **Go again**"	Generic Action				No	
+6KQdhWqcGdhFgmRzwBrnh	Cast Bones	1	0		3			Brute, Action							"Reveal the top 6 cards of your deck. Create a Might token for each card with 6 or more {p} revealed this way. Put the revealed cards on top of your deck in a random order.
+
+If you control 6 or more Might tokens, create an Agility token."	Brute Action				No	
 RLBLjtFb8gPjJLmTPL9j9	Celestial Cataclysm	2	0	7	3			Light, Action, Attack	Go again						"As an additional cost to play Celestial Cataclysm, banish 3 cards from your hero's soul.
 
 **Go again**"	Light Action - Attack				No	
@@ -1126,8 +1135,13 @@ qQ9JC8BtngfRq7n9pqpKM	Civic Steps				2			Guardian, Equipment, Legs	Temper						"
 **Temper**"	Guardian Equipment - Legs					
 M8HJKTz7QwHTjGtjdHqDM	Clarity Potion	3	0					Generic, Action, Item		Instant	Opt 2				**Instant** - Destroy Clarity Potion: **Opt 2**	Generic Action - Item				No	
 gRpHwzjCr7Q6RQwnGTT7t	Clash of Agility	1	2	6	3			Brute, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Action - Attack				No	
+8dw7PGfBNcKMcRkgMdPJz	Clash of Agility	2	2	5	3			Brute, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Action - Attack				No	
+ghCPQqFqNjMq9cn7nTrzJ	Clash of Agility	3	2	4	3			Brute, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Action - Attack				No	
 NGMpfnrcHzjWtB6bmGC6C	Clash of Might	1	2	6	3			Brute, Guardian, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Action - Attack				No	
+HQGTg8btKJgCCrhmBGrDN	Clash of Might	2	2	5	3			Brute, Guardian, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Action - Attack				No	
+KnJTJP7KPKfpNC7FNLJB8	Clash of Might	3	2	4	3			Brute, Guardian, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Action - Attack				No	
 FWQPHMnG9JDfm7JmC6hJ6	Clash of Vigor	1	2	6	3			Guardian, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Action - Attack				No	
+HrKnbRbWgpztmkCN6DJfR	Clash of Vigor	2	2	5	3			Guardian, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Action - Attack				No	
 pBjNr7MRTR6L7LMKT8j9d	Clash of Vigor	3	2	4	3			Guardian, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Action - Attack				No	
 8fNNR6wFmtQfKWqgkB6pb	Cleansing Light	1	3		2			Light, Action							"If a card has been put into your hero's soul this turn, you may play this as though it were an instant.
 
@@ -1250,6 +1264,8 @@ Dc8cHfKHFHkg98Pwn6H96	Come to Fight	3	1		3			Generic, Action	Go again						"The 
 
 **Go again**"	Generic Action					
 wDgmFWt7nFMQwCGnzHgR9	Command Respect	1	3	6	3			Guardian, Action, Attack							When this hits a hero, if this has {p} greater than its base, destroy a card in their arsenal.	Guardian Action - Attack					
+wgbL9K6GfgnDk8GJDfFqF	Command Respect	2	3	5	3			Guardian, Action, Attack							When this hits a hero, if this has {p} greater than its base, destroy a card in their arsenal.	Guardian Action - Attack					
+JkQtdwTJzQ7Bw8g8wNtCh	Command Respect	3	3	4	3			Guardian, Action, Attack							When this hits a hero, if this has {p} greater than its base, destroy a card in their arsenal.	Guardian Action - Attack					
 kMRjHHLzPtgLw7j7PmQqf	Command and Conquer	1	2	6	3			Generic, Action, Attack							Defense reaction cards can't be played this chain link. When this hits a hero, destroy all cards in their arsenal.	Generic Action - Attack				No	
 89mKDmGqtctqmbdpthJhz	Commanding Performance	1	1		3			Warrior, Action	Go again						"Your next Warrior attack this turn gets +3{p}. 
 
@@ -1658,6 +1674,8 @@ PrzDDzhJCLMPdrJDzrrpr	Double Strike	1	0	1	2			Ninja, Action, Attack	Go again				
 
 **Go again**"	Nina Action - Attack				No	
 JFKn8JgrMchwh6D6dCQNw	Down But Not Out	1	3	5	3			Generic, Action, Attack	Overpower						"When this attacks a hero, if you have less {h} and control fewer equipment and tokens than them, this gets +3{p}, **overpower**, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack				No	
+n6jb6thTHT9TpcTdRjdQm	Down But Not Out	2	3	4	3			Generic, Action, Attack							"When this attacks a hero, if you have less {g} and control fewer equipment and tokens than them, this gets +3{p}, overpower, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack				No	
+PCCtHrqDfnnmwFJwMNGDW	Down But Not Out	3	3	3	3			Generic, Action, Attack							"When this attacks a hero, if you have less {g} and control fewer equipment and tokens than them, this gets +3{p}, overpower, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack				No	
 HgLNTDb7kMk7MdJrTjn8T	Down and Dirty	1	2	6	2			Generic, Action, Attack							While Down and Dirty is in your arsenal, you may defend with it.	Generic Action - Attack				No	
 78FGMN9nn9QR9FDzC9z68	Dracona Optimai			6		6		Draconic, Illusionist, Dragon, Ally							Whenever Dracona Optimai attacks a hero, reveal the top 3 cards of your deck. He deals arcane damage equal to twice the number of red cards revealed this way to them or an ally they control.	Draconic Illusionist - Dragon Ally				No	
 nFBgGfC6HwTwNFCgmnCRn	Dragons of Legend							Invocation, Placeholder Card							"Dracona Optimai - 1 pitch, 6 cost, 3 block
@@ -1686,6 +1704,16 @@ Yendurai - 1 pitch, 1 cost, 3 block
 
 You may put this in your deck in place of an invocation you own. Mark the box next to the dragon's name this invokes. When this card is played or put into your graveyard, swap it for the invocation card."	Invocation Placeholder Card					
 bnCP8zG8wBkghLtnppFqw	Draw Swords	1	3		3			Warrior, Action	Go again						"Your next Warrior attack this turn gets +3{p}.
+
+Draw a card.
+
+**Go again**"	Warrior Action					
+kNBgrQWKRDrDb97mWjKpz	Draw Swords	2	3		3			Warrior, Action	Go again						"Your next Warrior attack this turn gets +2{p}.
+
+Draw a card.
+
+**Go again**"	Warrior Action					
+fbfLBzMKtdBhJDLbBrPtg	Draw Swords	3	3		3			Warrior, Action	Go again						"Your next Warrior attack this turn gets +1{p}.
 
 Draw a card.
 
@@ -2612,6 +2640,9 @@ You may put a Hyper Driver from your banished zone into the arena.
 CHNL9gtPrf8NhTwLWjT6w	Gauntlet of Might				1			Brute, Guardian, Equipment, Arms	Blade Break	Action	Go again				"Action - Destroy this: Create a Might token. **Go again**
 
 **Blade Break**"	Brute / Guardian Equipment - Arms					
+z6GNFrJctrhjhmJMLFQt9	Gauntlets of Iron Will				2			Guardian, Equipment, Arms	Temper						"When this defends, the next time an attack would gain {p} this chain link, instead it gains that much minus 1.
+
+**Temper**"	Guardian Equipment - Arms				No	
 tpgGtDJmWntFC6QcdhhgW	Gavel of Natural Order			2				Adjudicator, Weapon, Hammer, 1H	Pairs	Once per Turn Action	Attack				"**Pairs** with an off-hand
 
 **Once per Turn Action** - {r}{r}: **Attack**
@@ -3497,6 +3528,31 @@ PBLrCPQwdHtqcFgWbR9qk	Lead the Charge	2	0		2			Generic, Action	Go again						"Th
 86rPJjLKBzfmJm76C9z8N	Lead the Charge	3	0		2			Generic, Action	Go again						"The next time you play an action card with cost 2 or greater this turn, gain 1 action point.
 
 **Go again**"	Generic Action					
+CTq6Kdn7WcJ87LzrmznkH	Lead with Heart	1	1		2			Guardian, Warrior, Action	Go again						"Your next Guardian or Warrior attack this turn gets +3{p}.
+
+Create a Vigor token.
+
+**Go again**"	Guardian / Warrior Action					
+QqFg7dmp9NTgKcr88p6KG	Lead with Heart	2	1		2			Guardian, Warrior, Action	Go again						"Your next Guardian or Warrior attack this turn gets +2{p}.
+
+Create a Vigor token.
+
+**Go again**"	Guardian / Warrior Action					
+mRhcrTprzbbdTbB9gdTHw	Lead with Heart	3	1		2			Guardian, Warrior, Action	Go again						"Your next Guardian or Warrior attack this turn gets +1{p}.
+
+Create a Vigor token.
+
+**Go again**"	Guardian / Warrior Action					
+zCCQtzBrr9QWp6fqDQNrC	Lead with Power	1	1		2			Brute, Guardian, Action	Go again						"Your next Brute or Guardian attack this turn gets +3{p}.
+
+Create a Might token.
+
+**Go again**"	Brute / Guardian Action					
+PNLWb9zzTRkcJ6Dbrg67G	Lead with Power	2	1		2			Brute, Guardian, Action	Go again						"Your next Brute or Guardian attack this turn gets +2{p}.
+
+Create a Might token.
+
+**Go again**"	Brute / Guardian Action					
 WbckgKBJq6kBM88nRFGmB	Lead with Power	3	1		2			Brute, Guardian, Action	Go again						"Your next Brute or Guardian attack this turn gets +1{p}.
 
 Create a Might token.
@@ -4111,6 +4167,8 @@ CMTbqWQL99gDnd8L7tthp	Over Loop	3	2	3	3			Mechanologist, Action, Attack	Boost			
 
 When this hits, put it on the bottom of its owner's deck."	Mechanologist Action - Attack					
 BRQTgW6LNkTcB7MQFWTNL	Over the Top	1	3	6	3			Guardian, Action, Attack	Overpower						If this has {p} greater than its base, it gets **overpower**.	Guardian Action - Attack				No	
+6LHg9KT9MK8GzCJ8HGPpN	Over the Top	2	3	5	3			Guardian, Action, Attack	Overpower						If this has {p} greater than its base, it gets **overpower**.	Guardian Action - Attack				No	
+WJJfW7bHMPbfLPbK8Q9Wm	Over the Top	3	3	4	3			Guardian, Action, Attack	Overpower						If this has {p} greater than its base, it gets **overpower**.	Guardian Action - Attack				No	
 wpLckQt7zw66h87TbjcWt	Overblast	1	2	5	3			Mechanologist, Action, Attack						Boost	Overblast gains +X{p}, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack					
 MHkLpfgkgh7hNwbrTJrDF	Overblast	2	2	4	3			Mechanologist, Action, Attack						Boost	Overblast gains +X{p}, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack					
 JHRhwNCKG97trbQLfhg9j	Overblast	3	2	3	3			Mechanologist, Action, Attack						Boost	Overblast gains +X{p}, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack					
@@ -4203,9 +4261,13 @@ Your Mechanologist attack action cards get +1{p}."	Mechanologist Action - Item		
 8CLhBWj6dbMgg9gfPCQjH	Perch Grapplers				2			Ranger, Equipment, Legs	Blade Break	Action	Go again	Go again			"**Action** - {r}{r}, destroy Perch Grapplers: Until end of turn, face up arrow cards played from arsenal gain **go again**. **Go again**
 
 **Blade Break**"	Ranger Equipment - Legs				No	
+NJcrQWnf8KF9jd7FGDg8p	Performance Bonus	1	0	3	2			Generic, Action, Attack	Go again						"When this hits, create a Gold token.
+If this was played from arsenal, it gets **Go again**."	Generic Action - Attack					
 ChbzMDmWzwMD9FRF87cq8	Performance Bonus	2	0	2	2			Generic, Action, Attack	Go again						"When this hits, create a Gold token.
 
 If this was played from arsenal, it gets **go again**."	Generic Action - Attack					
+RnL78Jfhr8nfnqbgFFQwk	Performance Bonus	3	0	1	2			Generic, Action, Attack	Go again						"When this hits, create a Gold token.
+If this was played from arsenal, it gets **Go again**."	Generic Action - Attack					
 tPqfbKjpBmrNfBnFgDFMH	Phantasmaclasm	1	3	9	3			Illusionist, Action, Attack	Phantasm						"Look at the defending hero's hand and choose a card. They put it on the bottom of their deck then draw a card.
 
 **Phantasm**"	Illusionist Action - Attack				No	
@@ -5014,6 +5076,7 @@ pkLRpwfMwHKhkdBGJmFW6	Rip Through Reality	3	2	2	3			Shadow, Runeblade, Action, A
 If you have dealt arcane damage to an opposing hero this turn, Rip Through Reality gains **go again**.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack					
+QqfKkBhgJfFFnDLmwcHfL	Ripple Away	3	2	4	3			Generic, Action, Attack		Instant					**Instant** - Discard this: If an action card effect would create 1 or more tokens this turn, instead it creates that many minus 1 of each of those tokens.	Generic Action - Attack				No	
 DhffBQC7PHwzdJpjTjNBm	Riptide					19	4	Ranger, Hero, Young							"Whenever you play a card from hand, you may put a card from hand face down into your arsenal.
 
 Whenever a trap you control triggers, deal 1 damage to the attacking hero."	Ranger Hero - Young					
@@ -5045,6 +5108,8 @@ C7zhnMLhctLTpqN7CnrjT	Rising Knee Thrust	1	0	3	3			Ninja, Action, Attack	Combo, 
 q7ctPDWzHDk667rcJW9TL	Rising Knee Thrust	2	0	2	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.	Ninja Action - Attack					
 jdLb9qCbwmwjj9N6rNrnn	Rising Knee Thrust	3	0	1	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.	Ninja Action - Attack					
 HNT9PzL7tQJdKdKP8fNRz	Rising Power	1	2	6	2			Brute, Guardian, Action, Attack							If you've drawn a card this turn, this gets +1{p}.	Brute / Guardian Action - Attack					
+7Cftm8TM9jQpwggJdLkTW	Rising Power	2	2	5	2			Brute, Guardian, Action, Attack							If you've drawn a card this turn, this gets +1{p}.	Brute / Guardian Action - Attack					
+pQzndWKCf7PkBDGrrbGGp	Rising Power	3	2	4	2			Brute, Guardian, Action, Attack							If you've drawn a card this turn, this gets +1{p}.	Brute / Guardian Action - Attack					
 hPWBFwq8Nmf96PM87BF6t	Rising Resentment	1	0	3	2			Draconic, Ninja, Action, Attack	Go again						"When Rising Resentment hits, you may banish an attack action card from your hand with cost less than the number of Draconic chain links you control. If you do, it costs {r} less to play and you may play it this turn.
 
 **Go again**"	Draconic Ninja Action - Attack					
@@ -5505,6 +5570,7 @@ When Sekem attacks, you may banish a card from your hero's soul. If you do, deal
 
 **Ward 4**"	Light - Angel Ally				No	
 MDhfpQwtDBtKLhT6Cn7f7	Semblance	3	3					Illusionist, Instant					Phantasm	Phantasm	Negate all **phantasm** triggered effects of target Illusionist attack you control. The attack loses and can't gain **phantasm**.	Illusionist Instant				No	
+WQtbdGwPbtmLmmkRjQzqj	Send Packing	2	3	6	3			Brute, Action, Attack							When this attacks a hero, banish a card from their arsenal. When the chain link resolves, if this didn't hit, return the banished card to its owner's hand.	Brute Action - Attack				No	
 QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breaker of Dawn					40	4	Light, Warrior, Hero		Attack Reaction		Go again		Charge	"If you've **charged** this turn, attacks you control have +1{p} while defended by an attack action card.
 
 **Attack Reaction** - Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains **go again**."	Light Warrior Hero		No		No	
@@ -6116,6 +6182,7 @@ WJzNjPfQGqdTtjTHQP6rL	Stand Ground				0			Guardian, Equipment, Legs	Temper						
 If you control a Vigor token, this gets +1{d}.
 
 **Temper**"	Guardian Equipment - Legs					
+GCWFNNQtKW9JFqJjqtCjP	Standing Order	1	0	4	3			Generic, Action, Attack							When this attacks or defends, you may put a card from your arsenal on the bottom of your deck. If you do, this gets +2{p} and +2{d}.	Generic Action - Attack				No	
 zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	7	10	3			Guardian, Action, Attack	Bravo Specialization, Crush, Unity						"**Bravo Specialization**
 
 **Crush** - When this deals 4 or more damage to a hero, the only attacks they may play or activate during their next turn are attacks with base {p} greater than the damage dealt this way.
@@ -6897,6 +6964,8 @@ dQR8fwBWNN6HPz7tzBCbk	Vigor Rush	1	1	4	2			Generic, Action, Attack	Go again					
 8p8KrLDmJnf6rMpTjQ6R6	Vigor Rush	2	1	3	2			Generic, Action, Attack	Go again						If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.	Generic Action - Attack					
 tjqTCGp8GFF7FzTHqzBhW	Vigor Rush	3	1	2	2			Generic, Action, Attack	Go again						If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.	Generic Action - Attack					
 Wqzz9n7hGCTknBPgFqdTH	Vigorous Engagement	1	1		2			Warrior, Attack Reaction							Target Warrior attack gets +3{p}. If it's defended by an attack action card, create a Vigor token.	Warrior Attack Reaction					
+MqGBqBNK77NbbzGrBmLFz	Vigorous Engagement	2	1		2			Warrior, Attack Reaction							Target Warrior attack gets +2{p}. If it's defended by an attack action card, create a Vigor token.	Warrior Attack Reaction					
+KKQzqtKwzCTR9z7khM7Bp	Vigorous Engagement	3	1		2			Warrior, Attack Reaction							Target Warrior attack gets +1{p}. If it's defended by an attack action card, create a Vigor token.	Warrior Attack Reaction					
 CpMzgzzqzDH6thBrdGRHM	Vile Inquisition	1	2		3			Shadow, Action	Blood Debt						"You may play this from your banished zone. If you do, it costs {r}{r} less to play.
 
 Target hero banishes the top card of their deck. If it's red, they lose 1{h}.
