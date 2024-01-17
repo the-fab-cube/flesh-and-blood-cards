@@ -1,4 +1,71 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+fgPwzMt7tqqtN77zFbjzP	Nasty Surprise	3	0	2	3			Generic, Action, Attack							When an opponent's effect puts this into your graveyard from anywhere, create an Agility, Might, and Vigor token.	Generic Action - Attack				No	
+97PpjPGqWTWDfNdPCGKLM	Pay Up	1	3	6	3			Generic, Action, Attack	Overpower						"If defending hero controls a Gold, this gets **overpower**.
+
+When this hits a hero, gain control of a Gold token they control. If you don't, deal 1 damage to them."	Generic Action - Attack				No	
+hJbgjmKWm7PKWGrrRhMf6	Tenacity	2	0	2	3			Generic, Action, Attack							When this attacks, it gets +X{p}, where X is the number of defending cards on the combat chain.	Generic Action - Attack				No	
+9wnz6M6QrJktmmcPLgpbr	Seduce Secrets	2	0					Generic, Instant							"Look at target hero's hand and the top card of their deck.
+
+If this was played from arsenal, draw a card."	Generic Instant				No	
+JFKn8JgrMchwh6D6dCQNw	Down But Not Out	1	3	5	3			Generic, Action, Attack	Overpower						"When this attacks a hero, if you have less {h} and control fewer equipment and tokens than them, this gets +3{p}, **overpower**, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack				No	
+FWQPHMnG9JDfm7JmC6hJ6	Clash of Vigor	1	2	6	3			Guardian, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Action - Attack				No	
+RNdgT9tDmGkztGN7zpkRn	Flat Trackers				1			Brute, Warrior, Equipment, Legs	Blade Break	Action	Go again				"Action - Destroy this: Create an Agility token. **Go again**
+
+**Blade Break**"	Brute / Warrior Equipment - Legs					
+gRpHwzjCr7Q6RQwnGTT7t	Clash of Agility	1	2	6	3			Brute, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Action - Attack				No	
+NGMpfnrcHzjWtB6bmGC6C	Clash of Might	1	2	6	3			Brute, Guardian, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Action - Attack				No	
+tFKpRnDbfcwtC8dwqm9qm	Agile Engagement	1	1		2			Warrior, Attack Reaction							Target Warrior attack gets +3{p}. If it's defended by an attack action card, create an Agility token.	Warrior Attack Reaction					
+Wqzz9n7hGCTknBPgFqdTH	Vigorous Engagement	1	1		2			Warrior, Attack Reaction							Target Warrior attack gets +3{p}. If it's defended by an attack action card, create a Vigor token.	Warrior Attack Reaction					
+bnCP8zG8wBkghLtnppFqw	Draw Swords	1	3		3			Warrior, Action	Go again						"Your next Warrior attack this turn gets +3{p}.
+
+Draw a card.
+
+**Go again**"	Warrior Action					
+tpMDpBjtFznFdgjFtnqQf	Shift the Tide of Battle	2	0		3			Warrior, Attack Reaction				Go again			"Target Warrior attack with {p} greater than its base gets **go again**.
+
+The next time an opposing hero is dealt damage this turn, create an Agility token."	Warrior Attack Reaction				No	
+89mKDmGqtctqmbdpthJhz	Commanding Performance	1	1		3			Warrior, Action	Go again						"Your next Warrior attack this turn gets +3{p}. 
+
+Until end of turn, your Warrior attacks get ""When this is defended by 1 or more attack action cards, destroy a card in the defending hero's arsenal.""
+
+**Go again**"	Warrior Action				No	
+mRCfW6wBLjzRzjnNrKqQn	Prized Galea				2			Warrior, Equipment, Head	Olympia Specialization, Temper	Attack Reaction					"**Olympia Specialization**
+
+**Attack Reaction** - {r}, destroy this: Target weapon attack you control **wagers** a Gold token with the defending hero.
+
+**Temper**"	Warrior Equipment - Head					
+L6rgnMGtzqKkLfHdkTPph	Big Bop	1	3		2			Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +5{p} and ""When this attacks a hero, you may **wager** a Vigor token with them."""	Guardian Action - Aura					
+p9Mw8DBq9hPqKnPRrwCHz	Trounce	1			3			Guardian, Block	Clash						"When this defends, **clash** with the attacking hero. Put the revealed cards on the bottom of their owner's deck, then **clash** again.
+
+If a hero wins both **clashes**, they create a Gold, Might, and Vigor token."	Guardian Block				No	
+BRQTgW6LNkTcB7MQFWTNL	Over the Top	1	3	6	3			Guardian, Action, Attack	Overpower						If this has {p} greater than its base, it gets **overpower**.	Guardian Action - Attack				No	
+DTNR6KNnBDCBqkczc9PnT	Primed to Fight	1	5	9	3			Guardian, Action, Attack							"If you've controlled a Vigor token this turn, this costs {r} less to play.
+
+If you've controlled a Might token this turn, this gets +1{p}."	Guardian Action - Attack				No	
+69GnfBCnLKPjLMkhQ6gF6	Golden Glare				2			Guardian, Equipment, Head	Victor Specialization, Blade Break						"**Victor Specialization**
+
+When this defends together with 2 or more yellow cards, create a Gold token.
+
+**Blade Break**"	Guardian Equipment - Head					
+JJqgR7zTPJmjWNtnFdQ88	Good Time Chapeau				2			Guardian, Equipment, Head	Betsy Specialization, Temper	Action	Go again	Wager			"**Betsy Specialization**
+
+**Action** - Destroy a Gold you control: Your next attack this turn gets ""When this attacks a hero, **wager** a Might and a Vigor token with them."" **Go again**
+
+**Temper**"	Guardian Equipment - Head					
+qRkrJ8t9RgGhDgpMpBBFd	High Riser			3				Guardian, Weapon, Hammer, 1H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}{r}: **Attack**
+
+If you've drawn a card this turn, this gets +1{p}."	Guardian Weapon - Hammer (1H)					
+jkPdKzd9rfgc7W87rjr6r	Pound Town	1	3	7	3			Brute, Action, Attack	Beat Chest					Beat Chest	"**Beat Chest**
+
+When this attacks, if you've **beaten chest** this turn, create a Might token."	Brute Action - Attack					
+bnFnGz7gd8tRfQfcmk8nG	Assault and Battery	1	3	7	3			Brute, Action, Attack	Beat Chest					Beat Chest	"**Beat Chest**
+
+When this attacks, if you've **beaten chest** this turn, create an Agility token."	Brute Action - Attack					
+mgcdBrjHkNTmKKjwnJKF9	Raw Meat				0			Brute, Equipment, Chest	Temper						"If you control an Agility token, this gets +1{d}.
+
+If you control a Might token, this gets +1{d}.
+
+**Temper**"	Brute Equipment - Chest					
 dTKDHwdcrLNPPb6ktczmR	Absorb in Aether	1	1		4			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 tWKN9zRJdgFmpw6pmPmkR	Absorb in Aether	2	1		3			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 WkDkrkTDzRnqWBh7WHJfh	Absorb in Aether	3	1		2			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
