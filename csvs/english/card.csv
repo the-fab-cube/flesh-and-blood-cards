@@ -1,4 +1,15 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+cgLKkrphHT8RTF9T9cggM	Wallop	1	4	7	3			Guardian, Action, Attack							When you win a **clash** revealing this, create a Vigor token.	Guardian Action - Attack					
+rppddnbcWR8QzfQzQFHWR	Wallop	2	4	6	3			Guardian, Action, Attack							When you win a **clash** revealing this, create a Vigor token.	Guardian Action - Attack					
+QJWNKmgngBdFTwDGmmjCF	Wallop	3	4	5	3			Guardian, Action, Attack							When you win a **clash** revealing this, create a Vigor token.	Guardian Action - Attack					
+zt8NGKPrTHDJ8pDrDdJgw	Test of Vigor	1			4			Guardian, Warrior, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Block				No	
+LFHpbg9HjJqrGt8jHNGHN	Concuss	1	3	6	3			Guardian, Action, Attack							When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack					
+wDgmFWt7nFMQwCGnzHgR9	Command Respect	1	3	6	3			Guardian, Action, Attack							When this hits a hero, if this has {p} greater than its base, destroy a card in their arsenal.	Guardian Action - Attack					
+ChbzMDmWzwMD9FRF87cq8	Performance Bonus	2	0	2	2			Generic, Action, Attack	Go again						"When this hits, create a Gold token.
+
+If this was played from arsenal, it gets **go again**."	Generic Action - Attack					
+PDPbhCGj7twzTP8HGfhBb	Thunk	1	5	8	3			Guardian, Action, Attack						Clash	When you win a **clash** revealing this, create a Might token.	Guardian Action - Attack					
+KqtjpgTftPFhRbhwQkcBQ	Thunk	2	5	7	3			Guardian, Action, Attack						Clash	When you win a **clash** revealing this, create a Might token.	Guardian Action - Attack					
 fgPwzMt7tqqtN77zFbjzP	Nasty Surprise	3	0	2	3			Generic, Action, Attack							When an opponent's effect puts this into your graveyard from anywhere, create an Agility, Might, and Vigor token.	Generic Action - Attack				No	
 97PpjPGqWTWDfNdPCGKLM	Pay Up	1	3	6	3			Generic, Action, Attack	Overpower						"If defending hero controls a Gold, this gets **overpower**.
 
@@ -9,6 +20,7 @@ hJbgjmKWm7PKWGrrRhMf6	Tenacity	2	0	2	3			Generic, Action, Attack							When this
 If this was played from arsenal, draw a card."	Generic Instant				No	
 JFKn8JgrMchwh6D6dCQNw	Down But Not Out	1	3	5	3			Generic, Action, Attack	Overpower						"When this attacks a hero, if you have less {h} and control fewer equipment and tokens than them, this gets +3{p}, **overpower**, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack				No	
 FWQPHMnG9JDfm7JmC6hJ6	Clash of Vigor	1	2	6	3			Guardian, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Action - Attack				No	
+pBjNr7MRTR6L7LMKT8j9d	Clash of Vigor	3	2	4	3			Guardian, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Action - Attack				No	
 RNdgT9tDmGkztGN7zpkRn	Flat Trackers				1			Brute, Warrior, Equipment, Legs	Blade Break	Action	Go again				"Action - Destroy this: Create an Agility token. **Go again**
 
 **Blade Break**"	Brute / Warrior Equipment - Legs					
@@ -487,7 +499,7 @@ If a yellow card is **charged** this way, this gets +1{p}"	Light Warrior Action 
 mGnLtgpdjnhKbGFhzBnrj	Beaming Bravado	3	0	1	3			Light, Warrior, Action, Attack	Charge						"As an additional cost to play this, you may **charge** your hero's soul.
 
 If a yellow card is **charged** this way, this gets +1{p}"	Light Warrior Action - Attack				No	
-GCQjzHBLkpLKfW89ckp7q	Beast Mode	1	3	6	3			Brute, Action, Attack						Intimidate	If you have **intimidated** this turn, Beast Mode gains +2{p}.	Brute Action - Attack				No	
+GCQjzHBLkpLKfW89ckp7q	Beast Mode	1	3	6	3			Brute, Action, Attack						Intimidate	If you've **intimidated** this turn, this gets +2{p}.	Brute Action - Attack				No	
 dHNcBPjwggj8GdFnqbkrD	Beast Within	2	3	6	3			Brute, Action, Attack							If Beast Within is put into a graveyard from anywhere other than the combat chain, banish the top card of your deck and lose 1{h}. If it has 6 or more {p}, put it into your hand, otherwise, repeat this process.	Brute Action - Attack				No	
 zCWhR7jRCmH7D7fKDGKcF	Beaten Trackers				1			Brute, Equipment, Legs	Battleworn						"Whenever you discard a random card with 6 or more {p}, you may destroy Beaten Trackers. If you do, gain 1 action point.
 
@@ -4669,9 +4681,9 @@ ctP6TMfCKqwK6QpjG7wLH	Rake the Embers	2	1		2			Draconic, Illusionist, Action	Tra
 pP7GCzgTjQPMNLBFfRbBw	Rake the Embers	3	1		2			Draconic, Illusionist, Action	Transform, Go again						"Create an Ash token, then **transform** up to 1 ash you control into an Aether Ashwing.
 
 **Go again**"	Draconic Illusionist Action					
-68J8LFDffgJ8j6RJ6FhmD	Rally the Rearguard	1	2	6	2			Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: Rally the Rearguard gains +3{d}. Activate this ability only while Rally the Rearguard is defending.	Generic Action - Attack					
-hKdWPHqc8bLM9Nkbwmncc	Rally the Rearguard	2	2	5	2			Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: Rally the Rearguard gains +3{d}. Activate this ability only while Rally the Rearguard is defending.	Generic Action - Attack					
-LQjBwTpQK6MR6LNkpnNPK	Rally the Rearguard	3	2	4	2			Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: Rally the Rearguard gains +3{d}. Activate this ability only while Rally the Rearguard is defending.	Generic Action - Attack					
+68J8LFDffgJ8j6RJ6FhmD	Rally the Rearguard	1	2	6	2			Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this ability only while this is defending.	Generic Action - Attack					
+hKdWPHqc8bLM9Nkbwmncc	Rally the Rearguard	2	2	5	2			Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this ability only while this is defending.	Generic Action - Attack					
+LQjBwTpQK6MR6LNkpnNPK	Rally the Rearguard	3	2	4	2			Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this ability only while this is defending.	Generic Action - Attack					
 RpM6tCjLdHHdfWcFbJrK6	Ram Raider	1	2	6	3			Shadow, Brute, Action, Attack	Blood Debt, Go again						"As an additional cost to play this, banish a random card from your hand. If a card with 6 or more {p} is banished this way, this gets **go again**.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	
