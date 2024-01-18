@@ -393,6 +393,7 @@ hJdQ9Bfwm8Fz8kdtzHHqL	Barraging Brawnhide	2	3	6	2			Generic, Action, Attack					
 QKgbfzgpnzfq7HKgWTzRg	Bastion of Unity				1			Warrior, Equipment, Off-Hand	Unity, Temper						"**Unity** - When this defends together with a card from hand, this gets +1{d} until end of turn.
 
 **Temper**"	Warrior Equipment - Off-hand				No	
+RKqGdm6WndJLgwRtTQkpc	Battered Not Broken	1	0					Brute, Guardian, Instant							The next time you would be dealt damage this turn, prevent 2 of that damage. If you do, create a Might token.	Brute / Guardian Instant				No	
 jnptttBbHJCwHBC99PMkF	Battering Bolt	1	2	6	3			Ranger, Action, Arrow, Attack							If Battering Bolt hits a hero, they reveal their hand and discard all cards other than action cards. Then they lose 1{h} for each card discarded this way.	Ranger Action - Arrow Attack				No	
 f8wtgfmb6wRGbJH9bqtRw	Battlefield Blitz	1	1	5	3			Light, Warrior, Action, Attack	Go again					Charge	If you've **charged** this turn, Battlefield Blitz gains **go again**.	Light Warrior Action - Attack				No	
 Wg7zz9866gDH6BmjMNGd8	Battlefield Blitz	2	1	4	3			Light, Warrior, Action, Attack	Go again					Charge	If you've **charged** this turn, Battlefield Blitz gains **go again**.	Light Warrior Action - Attack				No	
@@ -1391,6 +1392,9 @@ JfndQHGQ9CTQ8FPcFC6RH	Cryptic Crossing	2	3	6	3			Runeblade, Action, Attack						
 wb9JwfqjqdfgtdKBDmtbw	Cut Down to Size	1	2	6	2			Generic, Action, Attack							When this hits a hero, if they have 4 or more cards in hand, they discard a card.	Generic Action - Attack					
 gGnD9FWMjp89q8PGwThGr	Cut Down to Size	2	2	5	2			Generic, Action, Attack							When this hits a hero, if they have 4 or more cards in hand, they discard a card.	Generic Action - Attack					
 wDqGGmznKnwnMBQT6thmt	Cut Down to Size	3	2	4	2			Generic, Action, Attack							When this hits a hero, if they have 4 or more cards in hand, they discard a card.	Generic Action - Attack					
+6jHQz9TfCjcddBGqKkWgJ	Cut the Deck	1	1		3			Warrior, Attack Reaction							Target Warrior attack gets +3{p}. If it's defended by an attack action card, draw a card, then put a card from your hand or arsenal on the bottom of your deck.	Warrior Attack Reaction				No	
+NWz7896QdrKM7p9nzfCcP	Cut the Deck	2	1		3			Warrior, Attack Reaction							Target Warrior attack gets +2{p}. If it's defended by an attack action card, draw a card, then put a card from your hand or arsenal on the bottom of your deck.	Warrior Attack Reaction				No	
+knbbJdFrQgDbdzh8r8hTd	Cut the Deck	3	1		3			Warrior, Attack Reaction							Target Warrior attack gets +1{p}. If it's defended by an attack action card, draw a card, then put a card from your hand or arsenal on the bottom of your deck.	Warrior Attack Reaction				No	
 N8LcRHMmCMTbwRNRm9P7q	Cut to the Chase	1	0		3			Assassin, Attack Reaction						Contract	"Target Assassin attack action card with **contract** gains +3{p}.
 
 Look at the top card of the defending hero's deck. You may put it on the bottom."	Assassin Attack Reaction					
@@ -2026,6 +2030,15 @@ If Endless Winter was **fused**, whenever the defending hero adds a defending ca
 
 If Endless Winter hits a hero, until the end of their next turn, whenever they activate an ability, create a Frostbite token under their control."	Elemental Guardian Action - Attack				No	
 nHTP6hGgLz6zfpdFH9Fpt	Energy Potion	3	0					Generic, Action, Item		Instant					**Instant** - Destroy this: Gain {r}{r}	Generic Action - Item				No	
+BRg6rFMmGRn6kPpT96W89	Engaged Swiftblade	1	1		3			Warrior, Action	Go again			Go again			"Your next Warrior attack this turn gets +3{p} and ""If this is defended by an attack action card, this gets **Go again**.""
+
+**Go again**"	Warrior Action					
+T8JFkBdwqccpH6PFCcBHq	Engaged Swiftblade	2	1		3			Warrior, Action	Go again			Go again			"Your next Warrior attack this turn gets +2{p} and ""If this is defended by an attack action card, this gets **Go again**.""
+
+**Go again**"	Warrior Action					
+MDPTg8tjBW6CC9gFrGWFQ	Engaged Swiftblade	3	1		3			Warrior, Action	Go again			Go again			"Your next Warrior attack this turn gets +1{p} and ""If this is defended by an attack action card, this gets **Go again**.""
+
+**Go again**"	Warrior Action					
 9GLmGhw9CCzhbkKBFzQzH	Engulfing Flamewave	1	2	5	2			Draconic, Ninja, Action, Attack	Go again						"When Engulfing Flamewave hits, reveal the top card of your deck. If it's an attack action card with cost less than number of Draconic chain links you control, banish it. You may play it this turn.
 
 **Go again**"	Draconic Ninja Action - Attack				No	
@@ -2303,6 +2316,15 @@ tpbMRQDzgf7p8WGmMm9wt	Falcon Wing	2	0	2	3			Ranger, Action, Arrow, Attack	Go aga
 MgM8rpdGfh97ChtG7RQ9L	Falcon Wing	3	0	1	3			Ranger, Action, Arrow, Attack	Go again						"If Falcon Wing has an aim counter, it has +1{p}.
 
 **Go again**"	Ranger Action					
+NqdJLJhMF9r9NnLdppgtK	Fatal Engagement	1	2		3			Warrior, Attack Reaction							"Play this only if an attack action card is defending this chain link.
+
+Target attack gets +5{p}."	Warrior Attack Reaction				No	
+KHTgDNP9hmH6BfjKr8FFn	Fatal Engagement	2	2		3			Warrior, Attack Reaction							"Play this only if an attack action card is defending this chain link.
+
+Target attack gets +4{p}."	Warrior Attack Reaction				No	
+HFtJKqJgR6tQqRNF99gmq	Fatal Engagement	3	2		3			Warrior, Attack Reaction							"Play this only if an attack action card is defending this chain link.
+
+Target attack gets +3{p}."	Warrior Attack Reaction				No	
 rHQbwp8qrzCcfGm9GQFqp	Fate Foreseen	1	0		4			Generic, Defense Reaction	Opt 1						**Opt 1**	Generic Defense Reaction					
 w8QN7hhNck8pQJHcc9rFj	Fate Foreseen	2	0		3			Generic, Defense Reaction	Opt 1						**Opt 1**	Generic Defense Reaction					
 mbF7WMCnnpGHh9bwBwBKf	Fate Foreseen	3	0		2			Generic, Defense Reaction	Opt 1						**Opt 1**	Generic Defense Reaction					
@@ -5113,6 +5135,9 @@ JNchKhPQf6PpwzgqNQQM9	Rise from the Ashes	3	0		2			Draconic, Ninja, Action	Go ag
 You may return a Phoenix Flame from your graveyard to your hand.
 
 **Go again**"	Draconic Ninja Action				No	
+99mLLCjqp78PFD7mcGktB	Rising Energy	1	2	6	2			Guardian, Warrior, Action, Attack							If you've drawn a card this turn, this costs {r} less to play.	Guardian / Warrior Action - Attack					
+8q67M7Fw6zfwfRktjNP7J	Rising Energy	2	2	5	2			Guardian, Warrior, Action, Attack							If you've drawn a card this turn, this costs {r} less to play.	Guardian / Warrior Action - Attack					
+L6NBmDrd7jCjf76kgNB8C	Rising Energy	3	2	4	2			Guardian, Warrior, Action, Attack							If you've drawn a card this turn, this costs {r} less to play.	Guardian / Warrior Action - Attack					
 C7zhnMLhctLTpqN7CnrjT	Rising Knee Thrust	1	0	3	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.	Ninja Action - Attack					
 q7ctPDWzHDk667rcJW9TL	Rising Knee Thrust	2	0	2	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.	Ninja Action - Attack					
 jdLb9qCbwmwjj9N6rNrnn	Rising Knee Thrust	3	0	1	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.	Ninja Action - Attack					
@@ -5131,6 +5156,9 @@ WCgtGGznkpKghPh6LwwzG	Rising Resentment	2	0	2	2			Draconic, Ninja, Action, Attac
 Dr8NPdFcFHJzh7rGjbpFw	Rising Solartide	1	1	5	3			Light, Action, Attack							If Rising Solartide hits, put it into your hero's soul.	Light Action - Attack					
 GtRc9H8qfcRhrkpqCmhrt	Rising Solartide	2	1	4	3			Light, Action, Attack							If Rising Solartide hits, put it into your hero's soul.	Light Action - Attack					
 kqMJRRjLHfnPFBL6nDHPc	Rising Solartide	3	1	3	3			Light, Action, Attack							If Rising Solartide hits, put it into your hero's soul.	Light Action - Attack					
+cDdGBtFJkhzCrmgC6bmfb	Rising Speed	1	2	5	2			Brute, Warrior, Action, Attack	Go again						If you've drawn a card this turn, this gets **go again**.	Brute / Warrior Action - Attack					
+7QpRQBkcWN7fWjnwdhgQ6	Rising Speed	2	2	4	2			Brute, Warrior, Action, Attack	Go again						If you've drawn a card this turn, this gets **go again**.	Brute / Warrior Action - Attack					
+BhQ9Pr8pQbhkCmCHG8hhT	Rising Speed	3	2	3	2			Brute, Warrior, Action, Attack	Go again						If you've drawn a card this turn, this gets **go again**.	Brute / Warrior Action - Attack					
 bq8bmCkrPKHgb7fMRPkjM	Rites of Lightning	1	1	4	3			Elemental, Runeblade, Action, Attack	Lightning Fusion, Go again						"**Lightning Fusion**
 
 When you attack with Rites of Lightning, if it was **fused**, deal 1 arcane damage to target hero.
@@ -5816,6 +5844,7 @@ LhNtnmRzpc7mfbcgDcJk8	Sky Fire Lanterns	3	0		2			Runeblade, Action	Go again					
 QtbWQ6Lr8QmMRJHnpkB9L	Skybound Shot	1	1	5	3			Ranger, Action, Arrow, Attack							If Skybound Shot has an aim counter, it has +1{p}.	Ranger Action - Arrow Attack					
 kwFthgt77zLzFDmBw7k6W	Skybound Shot	2	1	4	3			Ranger, Action, Arrow, Attack							If Skybound Shot has an aim counter, it has +1{p}.	Ranger Action - Arrow Attack					
 kDkpNHC97jqcRDTr9CcCj	Skybound Shot	3	1	3	3			Ranger, Action, Arrow, Attack							If Skybound Shot has an aim counter, it has +1{p}.	Ranger Action - Arrow Attack					
+6JWDWhqwDrdDPnGfqMQQR	Slap-Happy	1	0					Guardian, Warrior, Instant							The next time you would be dealt damage this turn, prevent 2 of that damage. If you do, create a Vigor token.	Guardian / Warrior Instant				No	
 cdMqrK6rMMDTjHCwBMcqn	Slay	1	0					Shadow, Instant							Destroy target angel ally.	Shadow Instant				No	
 cM7zthPFbLMJ6KQQmB6P9	Slay the Scholars	1	0	4	3			Assassin, Action, Attack	Contract						"**Contract** - You are contracted to banish opponents' 'non-attack' action cards. Whenever you complete this contract, create a Silver token.
 
@@ -6571,6 +6600,7 @@ zknqNdwtDMrHbRpgKkBJw	Terminator Tank	1	6	6	3			Mechanologist, Action, Attack	Ov
 - 3 or more, this gets **overpower**,
 - 4 or more, this gets +3{p}."	Mechanologist Action - Attack				No	
 6ChQcHfgrFqCLTrFppwQG	Test of Agility	1			4			Brute, Warrior, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Block				No	
+QBwMd7jJGmz7cFKLRDjHd	Test of Might	1			4			Brute, Guardian, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Block				No	
 zmkd9LqrNQFfqHCWKcQNr	Test of Strength	1			4			Generic, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates a Gold token.	Generic Block					
 zt8NGKPrTHDJ8pDrDdJgw	Test of Vigor	1			4			Guardian, Warrior, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Block				No	
 89p6tjT7cTLrGWkKrRkjt	That All You Got?	2	0		3			Generic, Defense Reaction							While this is defending an attack with 2 or less {p}, when the combat chain closes, draw a card.	Generic Defense Reaction				No	
@@ -6975,6 +7005,9 @@ tjqTCGp8GFF7FzTHqzBhW	Vigor Rush	3	1	2	2			Generic, Action, Attack	Go again					
 Wqzz9n7hGCTknBPgFqdTH	Vigorous Engagement	1	1		2			Warrior, Attack Reaction							Target Warrior attack gets +3{p}. If it's defended by an attack action card, create a Vigor token.	Warrior Attack Reaction					
 MqGBqBNK77NbbzGrBmLFz	Vigorous Engagement	2	1		2			Warrior, Attack Reaction							Target Warrior attack gets +2{p}. If it's defended by an attack action card, create a Vigor token.	Warrior Attack Reaction					
 KKQzqtKwzCTR9z7khM7Bp	Vigorous Engagement	3	1		2			Warrior, Attack Reaction							Target Warrior attack gets +1{p}. If it's defended by an attack action card, create a Vigor token.	Warrior Attack Reaction					
+6DkjQLNmzwdBmwhfGWTJG	Vigorous Windup	1	3	7	2			Guardian, Warrior, Action, Attack							**Instant** - Discard this: Create a Vigor token.	Guardian / Warrior Action - Attack					
+Lw7QfMJwTckhkKbK9Wrhm	Vigorous Windup	2	3	6	2			Guardian, Warrior, Action, Attack							**Instant** - Discard this: Create a Vigor token.	Guardian / Warrior Action - Attack					
+DCdRpLqtTFj8Q8gghKppK	Vigorous Windup	3	3	5	2			Guardian, Warrior, Action, Attack							**Instant** - Discard this: Create a Vigor token.	Guardian / Warrior Action - Attack					
 CpMzgzzqzDH6thBrdGRHM	Vile Inquisition	1	2		3			Shadow, Action	Blood Debt						"You may play this from your banished zone. If you do, it costs {r}{r} less to play.
 
 Target hero banishes the top card of their deck. If it's red, they lose 1{h}.
