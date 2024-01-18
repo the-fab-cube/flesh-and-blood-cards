@@ -288,6 +288,12 @@
         "description_plain": "Spellvoid is a keyword primarily on equipment or items. Spellvoid is a one time use effect that prevents arcane damage."
     },
     {
+        "unique_id": "gkcpTQwRjMPTtRkrHpDhT",
+        "name": "Stealth",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "CKRGw9dCnNdKpNTdTBqgz",
         "name": "Surge",
         "description": "**Surge** is an effect that applies if a card deals more arcane damage than it's printed amount.",
