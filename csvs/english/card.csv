@@ -150,6 +150,11 @@ rtq8MPBRKQzBpWTWRpj8t	Amulet of Oblation	3	0					Generic, Action, Item	Go again	
 qCDqQNmzPzM8DfbRPBqWj	Ancestral Empowerment	1	0		3			Ninja, Attack Reaction							"Target Ninja attack action card gains +1{p}.
 
 Draw a card."	Ninja Attack Reaction				No	
+qdbgkqgpTRMQQPr7jcdQL	Ancestral Harmony	3	0		3			Ninja, Action	Go again					Combo	"Your attacks with **combo** get +1{p} this turn.
+
+Banish the top card of your deck. If it has **combo**, you may play it this turn.
+
+**Go again**"	Ninja Action				No	
 bnhnjB7ggkRhpfqQHn6D6	Angelic Descent	1	0					Light, Illusionist, Instant				Go again			"Target attack action card with Herald in its name gets **go again**.
 
 Your next angel attack this turn gets +3{p}."	Light Illusionist Instant					
@@ -4930,6 +4935,11 @@ If a hero has more {h} than any other hero, they can't gain {h}."	Runeblade Weap
 TBw6LqgGqtfjFjgTc8df8	Rebellious Rush	1	2	5	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
 rPWHqNjBzFDtRjRhLqqDG	Rebellious Rush	2	2	4	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
 zHJtcC6C7FgrmmqHgtJkf	Rebellious Rush	3	2	3	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
+mRjQC9fPztGKb7NJ68gkc	Reckless Charge	3	0		3			Brute, Action	Kayo Specialization						"**Kayo Specialization**
+
+Roll a 6 sided die. Gain action points equal to half the number rolled, rounded down.
+
+If you've rolled a 6 on a die this turn, draw a card."	Brute Action				No	
 mmtHRdGFhPtwR8LF8tq6p	Reckless Swing	3	0		4			Brute, Defense Reaction							"As an additional cost to play Reckless Swing, discard a random card.
 
 If the discarded card has 6 or more {p}, deal 2 damage to the attacking hero."	Brute Defense Reaction				No	
