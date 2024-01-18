@@ -17,14 +17,17 @@ mkTDPKqkm7cprrDzWbF9z	Adaptive Plating				1			Mechanologist, Equipment	Modular, 
 **Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d} until end of turn.
 
 **Blade Break**"	Mechanologist Equipment				No	
-W7wh8hBkTd9ntjtFfqrdz	Adrenaline Rush	1	2	4	2			Generic, Action, Attack							When you play Adrenaline Rush, if you have less {h} than an opposing hero, it gains +3{p}.	Generic Action - Attack					
-KjgnpjTfDBhndccFCCDHn	Adrenaline Rush	2	2	3	2			Generic, Action, Attack							When you play Adrenaline Rush, if you have less {h} than an opposing hero, it gains +3{p}.	Generic Action - Attack					
-bTCfkj7Q8WQKHcnhGqHCr	Adrenaline Rush	3	2	2	2			Generic, Action, Attack							When you play Adrenaline Rush, if you have less {h} than an opposing hero, it gains +3{p}.	Generic Action - Attack					
+W7wh8hBkTd9ntjtFfqrdz	Adrenaline Rush	1	2	4	2			Generic, Action, Attack							When you play this, if you have less {h} than an opposing hero, this gets +3{p}.	Generic Action - Attack					
+KjgnpjTfDBhndccFCCDHn	Adrenaline Rush	2	2	3	2			Generic, Action, Attack							When you play this, if you have less {h} than an opposing hero, this gets +3{p}.	Generic Action - Attack					
+bTCfkj7Q8WQKHcnhGqHCr	Adrenaline Rush	3	2	2	2			Generic, Action, Attack							When you play this, if you have less {h} than an opposing hero, this gets +3{p}.	Generic Action - Attack					
 KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection			4		4		Light, Angel, Ally	Ward 4	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
 When Aegis attacks, you may banish a card from your hero's soul. If you do, create 2 Spectral Shield tokens.
 
 **Ward 4**"	Light - Angel Ally				No	
+BzkLdhrmkWpnbDBWNMJhp	Aether Arc	3	0		3			Wizard, Action							"Deal 1 arcane damage to each opposing hero.
+
+Create a Ponder token for each hero dealt damage this way."	Wizard Action				No	
 pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing			1		1		Draconic, Illusionist, Token, Dragon, Ally	Arcane Barrier 1						**Arcane Barrier 1**	Draconic Illusionist Token - Dragon Ally					
 HFnfqgNGj6JdDwMjDC7KQ	Aether Conduit							Wizard, Weapon, Staff, 2H		Once per Turn Action					**Once per Turn Action** - {r}{r}: Deal 2 arcane damage to target hero.	Wizard Weapon - Staff (2H)					
 w6BQnKDGdGkHCTzjF6htg	Aether Dart	1	0		3			Wizard, Action							Deal 3 arcane damage to any target.	Wizard Action					
