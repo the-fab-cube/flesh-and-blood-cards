@@ -559,6 +559,9 @@ wLNgpgF6DJHmgfFHMnnpK	Blade Cuff				1			Assassin, Ninja, Equipment, Arms	Blade B
 
 **Blade Break**"	Assassin / Ninja Equipment - Arms					
 BmMFHFgmDWmHn9H7QHBdF	Blade Flash	3	1		2			Generic, Attack Reaction				Go again			Target sword attack gains **go again**.	Generic Attack Reaction					
+9Frf6rQGgmQ9bqWRDzzjM	Blade Flurry	1	0		3			Warrior, Attack Reaction							"Target weapon attack gets +2{p}.
+
+Your next weapon attack this turn gets +2{p}."	Warrior Attack Reaction				No	
 JpPbKrMTptDdR7BCKqQbC	Blade Runner	1	1		3			Warrior, Attack Reaction				Go again			"Target 1H weapon attack gains **go again**.
 
 Your next weapon attack this turn gains +3{p}."	Warrior Attack Reaction					
@@ -5329,7 +5332,7 @@ The next Runeblade attack action card you play this turn gets +3{p}.
 
 **Go again**"	Runeblade Action				No	
 gBdLwdzLq6zrMGbHKpKfw	Runic Reclamation	1	3	7	3			Runeblade, Action, Attack							When Runic Reclamation hits a hero, destroy target aura they control. If you do, create a Runechant token.	Runeblade Action - Attack				No	
-hPQ9NCmMKDdgMkzpkpGb6	Runner Runner	1	2	6	3			Brute, Warrior, Action						Go again	When this attacks, if it has **go again**, create an Agility token.	Brute / Warrior Action					
+hPQ9NCmMKDdgMkzpkpGb6	Runner Runner	1	2	6	3			Brute, Warrior, Action, Attack						Go again	When this attacks, if it has **go again**, create an Agility token.	Brute / Warrior Action - Attack					
 wmN6kmKhktkmfhWtqLmHm	Rushing River	1	0	3	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack				No	
 cdcnJRkcCzJkDmb7NwnPQ	Rushing River	2	0	2	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack				No	
 tMDDnhBrcpCL8c9MW7BgC	Rushing River	3	0	1	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack				No	
