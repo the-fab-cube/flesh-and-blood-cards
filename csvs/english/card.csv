@@ -1,11 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-F78CPMJgBqhTfNMLM7TH6	Deathmatch Arena		0					Generic, Action, Landmark	Legendary, Go again						"**Legendary**
-
-**Go again**
-
-Heroes can attack any opposing hero.
-
-When a hero deals lethal damage to another hero, they create Gold tokens equal to the number of heroes who started this game."	Generic Action - Landmark	Yes			No	
 dTKDHwdcrLNPPb6ktczmR	Absorb in Aether	1	1		4			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 tWKN9zRJdgFmpw6pmPmkR	Absorb in Aether	2	1		3			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 WkDkrkTDzRnqWBh7WHJfh	Absorb in Aether	3	1		2			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
@@ -1554,6 +1547,13 @@ Fn8bTWKkJC77cqjfPmkjC	Deathly Wail	3	3	4	3			Shadow, Runeblade, Action, Attack	R
 When the combat chain closes, create Runechant tokens equal to the number of heroes who have lost {h} this turn.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack				No	
+F78CPMJgBqhTfNMLM7TH6	Deathmatch Arena		0					Generic, Action, Landmark	Legendary, Go again						"**Legendary**
+
+**Go again**
+
+Heroes can attack any opposing hero.
+
+When a hero deals lethal damage to another hero, they create Gold tokens equal to the number of heroes who started this game."	Generic Action - Landmark	Yes			No	
 QLGJkQKtpmGkqwpTtHqzG	Debilitate	1	4	8	3			Guardian, Action, Attack	Crush						**Crush** - If Debilitate deals 4 or more damage to a hero, their first attack during their next turn has -2{p}.	Guardian Action - Attack					
 pb9kwPfCFccrmCDgGq7bJ	Debilitate	2	4	7	3			Guardian, Action, Attack	Crush						**Crush** - If Debilitate deals 4 or more damage to a hero, their first attack during their next turn has -2{p}.	Guardian Action - Attack					
 z6t6dcr7F7fWjwKwtqdRd	Debilitate	3	4	6	3			Guardian, Action, Attack	Crush						**Crush** - If Debilitate deals 4 or more damage to a hero, their first attack during their next turn has -2{p}.	Guardian Action - Attack					
