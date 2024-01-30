@@ -94,5 +94,13 @@
         "date_announced": "2023-11-27T00:00:00.000Z",
         "date_in_effect": "2023-12-01T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/articles/living-legends-iyslander-stormbind-kano-and-kassai-cintari-sellsword/"
+    },
+    {
+        "unique_id": "jJkPwdTJH67frnn6k9MnD",
+        "card_unique_id": "PpwQBBjqmBbgBrKMPbbBr",
+        "status_active": false,
+        "date_announced": "2023-12-18T00:00:00.000Z",
+        "date_in_effect": "2024-02-02T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-eoy/"
     }
 ]

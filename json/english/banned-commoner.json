@@ -46,5 +46,21 @@
         "date_announced": "2022-06-24T00:00:00.000Z",
         "date_in_effect": "2022-07-01T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/articles/scheduled-banned-suspended-announcement-june-2022/"
+    },
+    {
+        "unique_id": "n8trKdDPp8BLN9QHWcDMC",
+        "card_unique_id": "t6MkmHjPRNghmMcMQbqch",
+        "status_active": true,
+        "date_announced": "2023-12-18T00:00:00.000Z",
+        "date_in_effect": "2023-12-22T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-eoy/"
+    },
+    {
+        "unique_id": "bWFnQTLBhHBQfb9rmGJFp",
+        "card_unique_id": "wj7qpMrzMjDbn8tmtfPL7",
+        "status_active": true,
+        "date_announced": "2023-12-18T00:00:00.000Z",
+        "date_in_effect": "2023-12-22T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-eoy/"
     }
 ]

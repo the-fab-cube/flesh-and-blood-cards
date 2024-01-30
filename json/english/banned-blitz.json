@@ -246,5 +246,37 @@
         "date_announced": "2023-08-16T00:00:00.000Z",
         "date_in_effect": "2023-08-16T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/articles/official-blitz-update/"
+    },
+    {
+        "unique_id": "ppPLnCB78kPghcNMBGjzD",
+        "card_unique_id": "CrWjLrqtQtppQhQCMt9LH",
+        "status_active": false,
+        "date_announced": "2023-12-18T00:00:00.000Z",
+        "date_in_effect": "2023-12-22T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-eoy/"
+    },
+    {
+        "unique_id": "QBGnTFCJCb7fnDHGzqwTr",
+        "card_unique_id": "fMdnz9D9MRDrzMrBFf7Kr",
+        "status_active": false,
+        "date_announced": "2023-12-18T00:00:00.000Z",
+        "date_in_effect": "2023-12-22T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-eoy/"
+    },
+    {
+        "unique_id": "LGTNHqMH9qQHp8NTCT6tP",
+        "card_unique_id": "nPwjcRFWBmzNQWM6BMcgB",
+        "status_active": false,
+        "date_announced": "2023-12-18T00:00:00.000Z",
+        "date_in_effect": "2023-12-22T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-eoy/"
+    },
+    {
+        "unique_id": "fMFwKT9PMBR8wppQfht7j",
+        "card_unique_id": "k8wMFCFHtGTtTRfnzKGqQ",
+        "status_active": false,
+        "date_announced": "2023-12-18T00:00:00.000Z",
+        "date_in_effect": "2023-12-22T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-eoy/"
     }
 ]
