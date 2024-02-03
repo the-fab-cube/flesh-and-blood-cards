@@ -818,6 +818,24 @@
         ]
     },
     {
+        "unique_id": "RJdbhzKTCkTW9HCbphgJn",
+        "id": "VIC",
+        "name": "Victor Goldmane Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "TfzGq9K9Ctg98wnHpBQDf",
+                "edition": "N",
+                "start_card_id": "VIC001",
+                "end_card_id": "VIC030",
+                "initial_release_date": "2024-02-02T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/heavy-hitters/heavy-hitters-blitz-decks/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/heavy-hitters/",
+                "card_gallery": null
+            }
+        ]
+    },
+    {
         "unique_id": "bKWKRDkTtWgGww6kjtfhR",
         "id": "WIN",
         "name": "Worlds / Pro Tour Prize Cards",
