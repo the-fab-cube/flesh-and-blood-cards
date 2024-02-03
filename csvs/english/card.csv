@@ -1691,7 +1691,7 @@ The next attack that **wagers** this turn gets +3{p} and **overpower**.
 
 If a hero would create 1 or more tokens from a **wager** this turn, instead they create that many plus 1 of each of those tokens.
 
-**Go again**"	Guardian / Warrior Action					
+**Go again**"	Guardian / Warrior Action				No	
 PrzDDzhJCLMPdrJDzrrpr	Double Strike	1	0	1	2			Ninja, Action, Attack	Go again						"When Double Strike's chain link resolves, banish it. You may play it this combat chain. If you do, it loses this ability.
 
 **Go again**"	Nina Action - Attack				No	
@@ -2940,7 +2940,7 @@ PpQBJwQCfFrHzKM9TkcbD	Heart of Ice				1			Ice, Equipment, Chest	Arcane Barrier 1
 **Blade Break**"	Ice Equipment - Chest				No	
 h7NLHrBf7dNmKLN8zqRLn	Heart-throb							Bard, Equipment, Chest		Action	Go again				**Action** - Destroy this: Each hero creates a Vigor token.  **Go again**	Bard Equipment - Chest				No	
 666mgFjKrrLQhdkpGzNzf	Heartened Cross Strap				0			Generic, Equipment, Chest		Action	Go again				**Action** - Destroy Heartened Cross Strap: The next attack action card you play this turn costs {r}{r} less to play. **Go again**	Generic Equipment - Chest					
-8KcHGzJF7JBb67qmjgNMb	Hearty Block	1			3			Guardian, Warrior, Block							When this defends, if you control a Vigor token, gain 1{h}.	Guardian / Warrior Block					
+8KcHGzJF7JBb67qmjgNMb	Hearty Block	1			3			Guardian, Warrior, Block							When this defends, if you control a Vigor token, gain 1{h}.	Guardian / Warrior Block				No	
 H6KCbhR6jqrLJnhjM8GPN	Heat Seeker	1	1	5	3			Ranger, Action, Arrow, Attack							When this hits, at the beginning of your end phase, put the top card of your deck face up into your arsenal.	Ranger Action - Arrow Attack				No	
 Prkf9mwfBCbLDHncK6CPP	Heat Wave				0			Draconic, Ninja, Equipment, Arms	Quell 1	Instant					"**Instant** - Destroy Heat Wave: Phoenix Flames you control gain +1{p} until end of turn.
 
@@ -5304,7 +5304,7 @@ Your next Brute attack this turn gains +2{p}.
 DBDwbqjgnpnNfFrJ8Dmhr	Run Through	2	1		3			Warrior, Attack Reaction				Go again			"Target sword attack gains **go again**.
 
 Your next sword attack this turn gains +2{p}."	Warrior Attack Reaction				No	
-wbJtMrPCzqL6NRGrT6fJK	Run into Trouble	1			3			Brute, Warrior, Block							When this defends, if you control an Agility token, deal damage to the attacking hero.	Brute / Warrior Block					
+wbJtMrPCzqL6NRGrT6fJK	Run into Trouble	1			3			Brute, Warrior, Block							When this defends, if you control an Agility token, deal damage to the attacking hero.	Brute / Warrior Block				No	
 QFg6Qh7ckkNzfhkDrJdrh	Runaways				0			Generic, Equipment, Legs		Instant					**Instant** - Destroy Runaways: Prevent the next 1 damage that would be dealt to your hero this turn. Activate this ability only if your hero has been dealt damage this turn.	Generic Equipment - Legs					
 TWm6BC9zbHp69FkFNmbnR	Rune Flash	1	3	4	3			Runeblade, Action, Attack	Go again						"Rune Flash costs {r} less to play for each Runechant you control.
 
@@ -5357,7 +5357,7 @@ The next Runeblade attack action card you play this turn gets +3{p}.
 
 **Go again**"	Runeblade Action				No	
 gBdLwdzLq6zrMGbHKpKfw	Runic Reclamation	1	3	7	3			Runeblade, Action, Attack							When Runic Reclamation hits a hero, destroy target aura they control. If you do, create a Runechant token.	Runeblade Action - Attack				No	
-hPQ9NCmMKDdgMkzpkpGb6	Runner Runner	1	2	6	3			Brute, Warrior, Action, Attack						Go again	When this attacks, if it has **go again**, create an Agility token.	Brute / Warrior Action - Attack					
+hPQ9NCmMKDdgMkzpkpGb6	Runner Runner	1	2	6	3			Brute, Warrior, Action, Attack						Go again	When this attacks, if it has **go again**, create an Agility token.	Brute / Warrior Action - Attack				No	
 wmN6kmKhktkmfhWtqLmHm	Rushing River	1	0	3	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack				No	
 cdcnJRkcCzJkDmb7NwnPQ	Rushing River	2	0	2	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack				No	
 tMDDnhBrcpCL8c9MW7BgC	Rushing River	3	0	1	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack				No	
@@ -6532,7 +6532,7 @@ When a source you control deals exactly 2 damage to an opposing hero, destroy Ta
 JTNgbmMDfnz69RKFpjrrR	Talismanic Lens				0			Generic, Equipment, Head		Instant	Opt 2				**Instant** - Destroy Talismanic Lens: **Opt 2**	Generic Equipment - Head					
 Cqr7rhqq8hQPPhpHQBCHr	Talk a Big Game	3	0		3			Brute, Guardian, Action	Go again						"Choose a number. The next time you deal that much or more {p} damage to a hero this turn, create that many Might tokens.
 
-**Go again**"	Brute / Guardian Action					
+**Go again**"	Brute / Guardian Action				No	
 BPHDqTPTT6nKHGjRqjFzR	Tarpit Trap	2	0		3			Ranger, Defense Reaction, Trap						Go again	When this defends an attack with **go again**, the next time an attack action card hits this turn, effects don't trigger.	Ranger Defense Reaction - Trap				No	
 PkD89rQPqTmdPjzH6GMhf	Taylor					18	4	Shapeshifter, Hero, Young							"You may have equipment of any class or talent in your inventory. Each equipment in your starting inventory must have a different name.
 
@@ -7131,7 +7131,7 @@ PTwFjp7bRMhWjwr6dcj68	Wall Breaker	2	2	5	3			Shadow, Brute, Action, Attack	Overp
 PPzmrDdFPbkKphtPwrwW7	Wall Breaker	3	2	4	3			Shadow, Brute, Action, Attack	Overpower, Blood Debt						"If you've banished a card with 6 or more {p} this turn, this gets **overpower**.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	
-JrqgkhzCLT6cDgrhNjnKJ	Wall of Meat and Muscle	1			3			Brute, Guardian, Block							When this defends, if you control a Might token, you may put an attack action card from your graveyard on top of your deck.	Brute / Guardian Block					
+JrqgkhzCLT6cDgrhNjnKJ	Wall of Meat and Muscle	1			3			Brute, Guardian, Block							When this defends, if you control a Might token, you may put an attack action card from your graveyard on top of your deck.	Brute / Guardian Block				No	
 cgLKkrphHT8RTF9T9cggM	Wallop	1	4	7	3			Guardian, Action, Attack							When you win a **clash** revealing this, create a Vigor token.	Guardian Action - Attack					
 rppddnbcWR8QzfQzQFHWR	Wallop	2	4	6	3			Guardian, Action, Attack							When you win a **clash** revealing this, create a Vigor token.	Guardian Action - Attack					
 QJWNKmgngBdFTwDGmmjCF	Wallop	3	4	5	3			Guardian, Action, Attack							When you win a **clash** revealing this, create a Vigor token.	Guardian Action - Attack					
