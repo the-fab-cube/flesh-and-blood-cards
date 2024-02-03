@@ -638,6 +638,24 @@
         ]
     },
     {
+        "unique_id": "pRmKczPQQff9T6HTkqHkm",
+        "id": "OLA",
+        "name": "Olympia Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "8bcCwFdQGfdTMTKRFKPQ6",
+                "edition": "N",
+                "start_card_id": "OLA001",
+                "end_card_id": "OLA030",
+                "initial_release_date": "2024-02-02T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/heavy-hitters/heavy-hitters-blitz-decks/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/heavy-hitters/",
+                "card_gallery": null
+            }
+        ]
+    },
+    {
         "unique_id": "jHCNJwm8Q6Gm7L8mLQ8Tg",
         "id": "OLD",
         "name": "Oldhim Blitz Deck",
