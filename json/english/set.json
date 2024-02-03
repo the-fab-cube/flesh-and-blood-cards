@@ -101,6 +101,24 @@
         ]
     },
     {
+        "unique_id": "KP7GC9CdJBWjqNjcpbBDN",
+        "id": "BET",
+        "name": "Betsy Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "9qbkzGGLN6KNpgc6rfjmQ",
+                "edition": "N",
+                "start_card_id": "BET001",
+                "end_card_id": "BET030",
+                "initial_release_date": "2024-02-02T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/heavy-hitters/heavy-hitters-blitz-decks/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/heavy-hitters/",
+                "card_gallery": null
+            }
+        ]
+    },
+    {
         "unique_id": "HPKkthwQKdFTDgK6WTQqR",
         "id": "BOL",
         "name": "Boltyn Blitz Deck",
