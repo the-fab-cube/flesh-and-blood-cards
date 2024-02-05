@@ -3421,11 +3421,11 @@ k8mnLNbhrPPrtF9W9jbnH	Ironrot Plate				1			Generic, Equipment, Chest	Blade Break
 PqNCC7zzLf8kFWDCpj7g6	Ironsong Determination	2	0		3			Warrior, Action	Go again			Dominate			"Target weapon gains +1{p} and **dominate** until end of turn.
 
 **Go again**"	Warrior Action				No	
-DWRBqLngTDmHThkjT6LFn	Ironsong Pride	1	1					Warrior, Instant, Aura							"Put a +1{p} counter on target sword you control.
+DWRBqLngTDmHThkjT6LFn	Ironsong Pride	1	1					Warrior, Instant, Aura							"When this enters the arena, put a +1{p} counter on target sword you control.
 
-When Ironsong Pride leaves the arena, remove all +1{p} counters from swords you control.
+When this leaves the arena, remove all +1{p} counters from swords you control.
 
-At the beginning of your end phase, if a sword has not hit this turn, destroy Ironsong Pride."	Warrior Instant - Aura				No	
+At the beginning of your end phase, if a sword has not hit this turn, destroy this."	Warrior Instant - Aura				No	
 9Kp6GPmC6WKb7NqNPwNrd	Ironsong Response	1	0		3			Warrior, Attack Reaction	Reprise						**Reprise** - If the defending hero has defended with a card from their hand this chain link, target weapon attack gains +3{p}.	Warrior Attack Reaction					
 L7jKNGkRd9WwpN6NQKGbf	Ironsong Response	2	0		3			Warrior, Attack Reaction	Reprise						**Reprise** - If the defending hero has defended with a card from their hand this chain link, target weapon attack gains +2{p}.	Warrior Attack Reaction					
 tnLDhJDNRMRQrcTzBkTF9	Ironsong Response	3	0		3			Warrior, Attack Reaction	Reprise						**Reprise** - If the defending hero has defended with a card from their hand this chain link, target weapon attack gains +1{p}.	Warrior Attack Reaction					
@@ -5315,11 +5315,11 @@ FCJjCLKrKbQ7nhwhHwbHB	Rune Flash	2	3	3	3			Runeblade, Action, Attack	Go again			
 TGPPfm8pTmjLGHjB889bD	Rune Flash	3	3	2	3			Runeblade, Action, Attack	Go again						"Rune Flash costs {r} less to play for each Runechant you control.
 
 **Go again**"	Runeblade Action - Attack					
-NNF6jp7QzRTLGJwdK7Cdz	Runeblood Barrier	2	3		2			Runeblade, Action, Aura							"Create 4 Runechant tokens.
+NNF6jp7QzRTLGJwdK7Cdz	Runeblood Barrier	2	3		2			Runeblade, Action, Aura							"When this enters the arena, create 4 Runechant tokens.
 
-If your hero would be dealt damage, instead destroy that many Runechants you control and prevent 1 damage that source would deal for each Runechant token destroyed this way.
+If your hero would be dealt damage, instead destroy that many Runechant tokens you control and prevent 1 damage for each Runechant token destroyed this way.
 
-At the beginning of your action phase, destroy Runeblood Barrier."	Runeblade Action - Aura				No	
+At the beginning of your action phase, destroy this."	Runeblade Action - Aura				No	
 HP8HBbKwHCRChp7n7MgDB	Runeblood Incantation	1	1		2			Runeblade, Action, Aura	Go again						"**Go again**
 
 Runeblood Incantation enters the arena with 3 verse counters on it.
