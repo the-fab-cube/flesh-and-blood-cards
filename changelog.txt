@@ -593,6 +593,7 @@ TODO:
 - Added card data for HVY
 - Added card data for Proclamation of Production
 - Added printing data for HVY
+- Added Macro type
 - Updated functional text for Mandible Claw, Pack Hunt, and Vigor
 - Updated functional text for Ironsong Pride and Runeblood Barrier with errata from Errata Bulletin #8
 - Fixed Codex of Inertia having 0 power instead of null

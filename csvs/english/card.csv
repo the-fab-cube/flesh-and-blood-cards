@@ -925,6 +925,9 @@ H6HqHg669zTz9nb6qGdcg	Brush Off	2	0					Generic, Instant							The next time you
 JCprRtPfKncrRpBJDBJDF	Brutal Assault	1	2	6	3			Generic, Action, Attack								Generic Action - Attack					
 JdRbp7cnCzB8PLFTQ8rLM	Brutal Assault	2	2	5	3			Generic, Action, Attack								Generic Action - Attack					
 qhPfDmWPHpHT8gpFmNkkr	Brutal Assault	3	2	4	3			Generic, Action, Attack								Generic Action - Attack					
+Dh8tPtFJwkqg8jbGTjNWQ	Brutus, Summa Rudis					20	4	Adjudicator, Hero						Clash	"You may have cards with **clash** of any class or talent in your deck.
+
+If all heroes in a **clash** would fail to win, instead choose which hero wins the clash."	Adjudicator Hero		No	No	No	
 TctkW8gCmpjnHwQ6dfdMg	Buckle	3	3		3			Guardian, Action	Go again			Dominate			"Your next Guardian attack this turn gains +1{p}, **dominate**, and ""When this hits a hero, destroy an equipment they control with a -1{d} counter on it.""
 
 **Go again**"	Guardian Action				No	
@@ -3362,6 +3365,11 @@ If Inspire Lightning was **fused**, deal 2 arcane damage to target hero."	Elemen
 W8hhkFmqt8rDrBnTfCCPw	Inspire Lightning	3	1		2			Elemental, Runeblade, Action	Lightning Fusion						"**Lightning Fusion**
 
 If Inspire Lightning was **fused**, deal 1 arcane damage to target hero."	Elemental Runeblade Action					
+QGjhRDwJdHr68gtkNqCWm	Intellect Penalty							Macro							"Your hero has -1{i}.
+
+If you would create an Intellect Penalty with X counters on it, instead add X turn counters onto this.
+
+If you would draw up to your hero's intellect as an end-of-turn procedure, instead draw that many cards, remove a turn counter from this, and remove it from the game if it has no turn counters on it."	Macro		No	No	No	
 cRRDRFWcfMpkDcWtTphFT	Interlude	1	0					Bard, Instant							Choose a hero. The next time they would be dealt damage this turn, prevent 3 of that damage. If you prevent damage to another hero this way, create a Copper token.	Bard Instant					
 hkmQgBRgHRJJh6jmzGW8G	Interlude	2	0					Bard, Instant							Choose a hero. The next time they would be dealt damage this turn, prevent 2 of that damage. If you prevent damage to another hero this way, create a Copper token.	Bard Instant					
 WLwb8QhpFqc69mcwQGg9n	Interlude	3	0					Bard, Instant							Choose a hero. The next time they would be dealt damage this turn, prevent 1 of that damage. If you prevent damage to another hero this way, create a Copper token.	Bard Instant					
@@ -4618,6 +4626,7 @@ mRCfW6wBLjzRzjnNrKqQn	Prized Galea				2			Warrior, Equipment, Head	Olympia Speci
 
 **Temper**"	Warrior Equipment - Head					
 wQcpct8M6ddWK6BkKMMgC	Proclamation of Abundance							Adjudicator, Equipment, Off-Hand		Action					**Action** - {r}{r}{r}, destroy this: Each hero draws up to their {i}.	Adjudicator Equipment - Off-Hand		No	No	No	
+LwtRft6CKgLFgbDKrwTJn	Proclamation of Combat							Adjudicator, Equipment, Off-Hand		Action					**Action** - Destroy this: Until the start of your next turn, the only actions heroes may play or activate are weapon and attack actions.	Adjudicator Equipment - Off-Hand		No	No	No	
 7tzgdpf9qnJbqRp6PTNj7	Proclamation of Production							Adjudicator, Equipment, Off-Hand		Action					**Action** - Destroy this: Each hero may search their deck for an item with cost 0 or 1, put it into the arena, then shuffle. Each hero who doesn't put an item into the arena this way discards a card.	Adjudicator Equipment - Off-Hand		No	No	No	
 nPNcp7BDrghp6dLPfHnNp	Proclamation of Requisition							Adjudicator, Equipment, Off-Hand		Action					**Action** - Discard a red card, destroy Proclamation of Requisition: Each opponent chooses an item or landmark they control. Gain control of the chosen permanents.	Adjudicator Equipment - Off-Hand		No	No	No	
 BLCMLHnwnbRKbdhPJ9DQp	Professor Teklovossen					20	4	Mechanologist, Hero, Young							"Evos cost {r} less to play for each opposing hero.
