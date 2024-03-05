@@ -1,6 +1,4 @@
 Front Card Printing Unique ID	Front Card Name	Front Card Printing	Back Card Printing Unique ID	Back Card Name	Back Card Printing	Is DFC
-7Ltc6HmMDQFzzRD7cwmHQ	Agility	LGS229 - N	Mm6NDMDtrPqLTHGDmGRKK	Gold	LGS229 - N	No
-wmhk6pzP9hh9HzfWpbHjg	Might	LGS230 - N	dntLnwMMJtBdhzLrqMFmL	Vigor	LGS230 - N	No
 QMtJWfnNCfFRmcKNWMWf6	Bloodrot Pox	ARA027 – N	PPmNz6gjrQzpMNjmmHtJN	Frailty	ARA028 – N	No
 PPmNz6gjrQzpMNjmmHtJN	Frailty	ARA028 – N	P9MJrhFJbhwFrnfggb9GT	Inertia	ARA029 – N	No
 P9MJrhFJbhwFrnfggb9GT	Inertia	ARA029 – N	QMtJWfnNCfFRmcKNWMWf6	Bloodrot Pox	ARA027 – N	No
@@ -43,6 +41,8 @@ BPKLhncNz9Wng6t6pnF8g	Kano, Dracai of Aether	ARC113 – U	fnc8WWRBBzK7K9GBf8tQj	
 KFmzJGL6LWd9Bkqk8MwQj	Bloodrot Pox	AZL028 – N	fKBf6LRnGJcwPnLTzbTJB	Frailty	AZL029 – N	No
 fKBf6LRnGJcwPnLTzbTJB	Frailty	AZL029 – N	HmRjQFpmcNFTBrHgRKR7G	Inertia	AZL030 – N	No
 HmRjQFpmcNFTBrHgRKR7G	Inertia	AZL030 – N	KFmzJGL6LWd9Bkqk8MwQj	Bloodrot Pox	AZL028 – N	No
+DmCDWFRjLGcM7qCq9NCJP	Might	BET028 - N	cLgtFfNjBkpmnfTGbtQzd	Gold	BET030 - N	No
+GTmdqK9p99DPzmBBRPKLJ	Vigor	BET029 - N	cLgtFfNjBkpmnfTGbtQzd	Gold	BET030 - N	No
 gchhRHddRfR7jpdc8T9LB	Embodiment of Lightning	BRI002 – N	wgPCprWkFMGJzc8hgKKnK	Embodiment of Earth	BRI003 – N	No
 WKnQ8PDRb9Nh76Tbj6h9c	Soul Shackle	CHN030 – N	WKnQ8PDRb9Nh76Tbj6h9c	Soul Shackle	CHN030 – N	No
 rBTczjHn8hMkhtzHqm6jk	Ash	DRO002 – N	q6R8QkpHGCWPKnQNkP9Nh	Aether Ashwing	DRO003 – N	No
@@ -97,13 +97,28 @@ mzrkMTfHcq7Hkn8kq6HH8	Singularity	EVO010 - V	rCMmrJcLzNhRGcjDwjRfk	Teklovossen, 
 fNtW66gBndLQBWp9NcgBb	Hyper Driver	EVO234 - N	FmcnzCM6bqjDbDm8NL9dL	Quicken	EVO250 - N	No
 DFjQGNbTkNqjWhJPFL78C	Bravo, Star of the Show	EVR017 – N	nRMnPD6nnmCpFf7WkwTN7	Bravo, Star of the Show	EVR017 – N (Marvel CF Back)	No
 zkwtMrCw8C6kjNTMWdGzr	Kayo, Armed and Dangerous	HVY001 - N (Marvel CF Front)	FRC6K6BTNtzrrF6RRcwKc	Kayo, Armed and Dangerous	HVY001 - N (Marvel CF Back)	No
+qwtffKTM6prpL8pGzTGjB	Kayo	HVY002 - N	HHtk8TzmNDtWzw9ThR7DF	Rhinar	HVY004 - N	No
 qCfgNGJgKLqmHnd6McnkK	Kayo	HVY002 - N (Marvel CF Front)	tLJtc7LTWR9pqp9DFGtPM	Kayo	HVY002 - N (Marvel CF Back)	No
+w7KWfqwzwWDRDhKqcMMCF	Mandible Claw	HVY005 - N	ftd7mWfqNJgJDdbkGNqqF	High Riser	HVY049 - N	No
+w7KWfqwzwWDRDhKqcMMCF	Mandible Claw	HVY005 - N	wpQMbCNRJrKzjgBGMp7nm	Cintari Saber	HVY094 - N	No
 CRQj8LHNrqTBT6pb7zB6z	Betsy, Skin in the Game	HVY045 - N (Marvel CF Front)	t6MBPQL8MT7GBMTDcjPKb	Betsy, Skin in the Game	HVY045 - N (Marvel CF Back)	No
+9nhT7f6wqFTnWnKpGpGnh	Betsy	HVY046 - N	TnPLc88GKqMJtkNPdNpm9	Victor Goldmane	HVY048 - N	No
 dntcwCbmhHqD7dcKJhCwQ	Betsy	HVY046 - N (Marvel CF Front)	zwktDMjg9FndkBhPQgGBg	Betsy	HVY046 - N (Marvel CF Back)	No
+ftd7mWfqNJgJDdbkGNqqF	High Riser	HVY049 - N	wpQMbCNRJrKzjgBGMp7nm	Cintari Saber	HVY094 - N	No
 gQPNPJD7WGcw6Tt68MTtc	Kassai of the Golden Sand	HVY090 - N (Marvel CF Front)	JCFgtBGRdKtHDrQwQHLfD	Kassai of the Golden Sand	HVY090 - N (Marvel CF Back)	No
+c8W6MbTM9mfQqhdwHjwMK	Kassai	HVY091 - N	LmrDKHwrR7mwBcQ8mB7rt	Olympia	HVY093 - N	No
 mT6NcjPQMNRhdgRgnfnML	Kassai	HVY091 - N (Marvel CF Front)	M6cMFtJqgFtHK7QWqNLq6	Kassai	HVY091 - N (Marvel CF Back)	No
 Fq6kGRqnnqmLGG8fz9qk7	Olympia, Prized Fighter	HVY092 - N (Marvel CF Front)	6KgBNNDCww6WL98w7CTTF	Olympia, Prized Fighter	HVY092 - N (Marvel CF Back)	No
 tRdndDbzcKDtMPK7RpW6K	Olympia	HVY093 - N (Marvel CF Front)	wDPFHkbGwd6hRQnTF8LDN	Olympia	HVY093 - N (Marvel CF Back)	No
+8wrrcrJfMC8PwgWHzDphK	Agility	HVY240 - N	PHbRQP8kwz8zfhh8DPWhL	Gold	HVY243 - N	No
+WntwMmRpfdHzPjTh7tPkN	Might	HVY241 - N	WHhhTjLfkJk7LLTWHtDfB	Vigor	HVY242 - N	No
+7dfgnjKBmFTtNR8dgkKpW	Agility	KSI028 - N	DNGMkqQcjHdtMbWL7jm8P	Gold	KSI030 - N	No
+p6RgLJj9FKNTzWLLqWJNn	Vigor	KSI029 - N	DNGMkqQcjHdtMbWL7jm8P	Gold	KSI030 - N	No
+pbzd6MFCkkqntLzrgKrmR	Agility	KYO027 - N	bWbMNtBpwWQWdfrzR8W8H	Might	KYO028 - N	No
+bWbMNtBpwWQWdfrzR8W8H	Might	KYO028 - N	8th6WgKrHpHhdm9jRcHMc	Vigor	KYO029 - N	No
+8th6WgKrHpHhdm9jRcHMc	Vigor	KYO029 - N	pbzd6MFCkkqntLzrgKrmR	Agility	KYO027 - N	No
+7Ltc6HmMDQFzzRD7cwmHQ	Agility	LGS229 - N	Mm6NDMDtrPqLTHGDmGRKK	Gold	LGS229 - N	No
+wmhk6pzP9hh9HzfWpbHjg	Might	LGS230 - N	dntLnwMMJtBdhzLrqMFmL	Vigor	LGS230 - N	No
 W9wh9JzqwjFT6prMhjqNp	Fabric of Blossoms	LSS010 - N	JfjqPNnNBCWwLWjNHQGWb	Blossom of Spring	LSS010 - N	Yes
 cCDK8KWzHWNMBfTQJ8R88	Fabric of Spring	LSS011 - N	BPdfCzDNJchD7ntDnWtKt	Fyendal's Spring Tunic	LSS011 - N	Yes
 z8wHgc7wCGRC8pNDMrPc7	Frostbite	LXI030 – N	z8wHgc7wCGRC8pNDMrPc7	Frostbite	LXI030 – N	No
@@ -141,6 +156,8 @@ RBgpLfthF7rMmwKtrbJGz	Soul Shackle	MON186 – F	gBrgqQk9KftpRN6f9rmDB	Ravenous M
 MkrGPHzTFDPNBPFf7WMN9	Soul Shackle	MON186 – U	gP7bp9zBnthqpTn6T6HMb	Ravenous Meataxe	MON221 – U	No
 kKNhkFNRm8Dh8gpBh9Rb9	Blasmophet, the Soul Harvester	MON219 – F	w8F6mq6MMMJhQKDgHbHc7	 Ursur, the Soul Reaper	MON220 – F	No
 9cztD9Bfmp96dNKdnKmL8	Blasmophet, the Soul Harvester	MON219 – U	6wPnTkq9ccp8hGMJg8bmG	 Ursur, the Soul Reaper	MON220 – U	No
+LbwhWmHwwcJLrDTwFKqRz	Agility	OLA028 - N	WnCGWGD7hp6LHpTwKbd6P	Gold	OLA030 - N	No
+bNQQhnQnPDTKBfrqcmt9C	Vigor	OLA029 - N	WnCGWGD7hp6LHpTwKbd6P	Gold	OLA030 - N	No
 TkRdKzGznrk9FGqh6CDqt	Frostbite	OLD031 – N	TkRdKzGznrk9FGqh6CDqt	Frostbite	OLD031 – N	No
 btpCrNpw6DkLbm9tLN6nK	Seismic Surge	OLD032 – N	btpCrNpw6DkLbm9tLN6nK	Seismic Surge	OLD032 – N	No
 ctrCNh8jrpmrtDnF8JLTD	Uzuri, Switchblade	OUT001 – N	kn7qBBh8q7Brnqtt9tdJt	Ponder	OUT237 – N	No
@@ -159,6 +176,7 @@ Cd76Bq6mpdFfCMrFqHP9K	 Spectral Shield	PSM030 – N	Cd76Bq6mpdFfCMrFqHP9K	 Spect
 8MckLrrL6jzkQDbjdRLCb	Bloodrot Pox	RIP028 – N	9hfpwFJrgKDbdTknMGJBh	Frailty	RIP029 – N	No
 9hfpwFJrgKDbdTknMGJBh	Frailty	RIP029 – N	JTTDLMQMkgJhPLCwmbwcb	Inertia	RIP030 – N	No
 JTTDLMQMkgJhPLCwmbwcb	Inertia	RIP030 – N	8MckLrrL6jzkQDbjdRLCb	Bloodrot Pox	RIP028 – N	No
+qkk6wHCmtrKzncMMdG6cT	Might	RNR028 - N	8kkrjjjPnqmBCHt9rTTjt	Agility	RNR029 - N	No
 CwtwCz8T8RWDhghCTTjdP	Dromai, Ash Artist 	UPR001 – N	rJ7F6nLrJw8qqRzdDRTNb	Dromai	UPR002 – N	No
 rJ7F6nLrJw8qqRzdDRTNb	Dromai	UPR002 – N	8TN77GqRLM6CdmpkDgCHk	Waning Moon	UPR165 – N	No
 wCCjJNgnpKdRHBPhhqmTq	Storm of Sandikai	UPR003 – N	nQqW7c87GKmKt7rNJRWPT	Fai	UPR045 – N	No
@@ -198,6 +216,8 @@ kDdmbCmzCdwg6h8KGqDfT	Bloodrot Pox	UZU028 – N	TG7Tzmc8njLwJBqHKLrfb	Frailty	UZ
 TG7Tzmc8njLwJBqHKLrfb	Frailty	UZU029 – N	9FhrCTGmpD8kdL9f9gNmF	Inertia	UZU030 – N	No
 9FhrCTGmpD8kdL9f9gNmF	Inertia	UZU030 – N	hFWQ9Gpf8hQwmRKRkkb7N	Ponder	UZU031 – N	No
 hFWQ9Gpf8hQwmRKRkkb7N	Ponder	UZU031 – N	kDdmbCmzCdwg6h8KGqDfT	Bloodrot Pox	UZU028 – N	No
+zdNNDKB6DbkCzHLGtnzbP	Might	VIC028 - N	DbzQLPqhP6kGbqPHJnKhH	Gold	VIC030 - N	No
+76MfJPjNwDMfJWtFGTFPQ	Vigor	VIC029 - N	DbzQLPqhP6kGbqPHJnKhH	Gold	VIC030 - N	No
 wk6LmqFWmnRcdQN9TTrgB	Rhinar, Reckless Rampage	WTR001 - A	fnqN8jmfNG6HzPLHk7DbD	Harmonized Kodachi	WTR078 - A	No
 RcT68bt6fmP6HCwrrPPt8	Rhinar, Reckless Rampage	WTR001 – U	nFbJW6NpWjhtMGQ7DjKpN	Harmonized Kodachi	WTR078 – U	No
 cgJkHcrD7mndHBbT8z8kL	Rhinar	WTR002 - A	66tCNcNDtDfcpCHfKdPdd	Dorinthea	WTR114 – A	No
