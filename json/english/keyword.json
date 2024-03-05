@@ -30,6 +30,12 @@
         "description_plain": "Equipment that wear down after each time they are used to defend. If you defend with a card with Battleworn, put a -1{d} counter on it when the combat chain closes."
     },
     {
+        "unique_id": "JHPDpLdkdBNb76pLM9q8C",
+        "name": "Beat Chest",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "cG88qzrJhwLnJH6TJ9cpp",
         "name": "Blade Break",
         "description": "Equipment that are fragile and break after being used to defend. If you defend with a card with **Blade Break**, destroy it when the combat chain closes.",
@@ -58,6 +64,12 @@
         "name": "Charge",
         "description": "**Charge** is a keyword that exist on Light Warrior attacks. This showcases Boltyn's eagerness to engage in battle and **charge** his soul in the process. As an additional cost to playing a card with **charge** you may put a card from your hand into your hero's soul. This would turn on powerful effects that care about if you have **charged** this turn. *You may elect to not pay the additional cost o **charge** - however this would mean you did not **charge**.)*",
         "description_plain": "Charge is a keyword that exist on Light Warrior attacks. This showcases Boltyn's eagerness to engage in battle and charge his soul in the process. As an additional cost to playing a card with charge you may put a card from your hand into your hero's soul. This would turn on powerful effects that care about if you have charged this turn. You may elect to not pay the additional cost o charge - however this would mean you did not charge.)"
+    },
+    {
+        "unique_id": "PwFQq6hKkTq7dNjKJ6KcB",
+        "name": "Clash",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "H6nNm6Nndrp8qTGFJL7GB",
@@ -130,6 +142,12 @@
         "name": "Go again",
         "description": "**Go again** allows multiple actions to be played in a turn, when usually playing an action would use up your action point, and therefore end your turn. A card with **go again** gives the controller of that card or activated ability 1 action point when it resolves.",
         "description_plain": "Go again allows multiple actions to be played in a turn, when usually playing an action would use up your action point, and therefore end your turn. A card with go again gives the controller of that card or activated ability 1 action point when it resolves."
+    },
+    {
+        "unique_id": "JpQHgf9ttGqRjHjW6rgR8",
+        "name": "Guardwell",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "hbjfTFTQmCR9FjzP7DWGK",
@@ -270,6 +288,12 @@
         "description_plain": "Spellvoid is a keyword primarily on equipment or items. Spellvoid is a one time use effect that prevents arcane damage."
     },
     {
+        "unique_id": "gkcpTQwRjMPTtRkrHpDhT",
+        "name": "Stealth",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "CKRGw9dCnNdKpNTdTBqgz",
         "name": "Surge",
         "description": "**Surge** is an effect that applies if a card deals more arcane damage than it's printed amount.",
@@ -302,6 +326,18 @@
     {
         "unique_id": "H6QfMpMdgD8Fhcfqgq6rm",
         "name": "Unity",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "tkB9tfFWLbkpqfNJwpTWF",
+        "name": "Universal",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "k9Tt9gnfKHKFHHmq9LTnG",
+        "name": "Wager",
         "description": "",
         "description_plain": ""
     },
