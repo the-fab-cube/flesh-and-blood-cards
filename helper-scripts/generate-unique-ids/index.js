@@ -46,6 +46,7 @@ await Promise.allSettled([
     generators.generateLegalityUniqueIds("living-legend-cc", 0, 2),
     generators.generateLegalityUniqueIds("suspended-blitz", 0, 2),
     generators.generateLegalityUniqueIds("suspended-cc", 0, 2),
-    generators.generateLegalityUniqueIds("suspended-commoner", 0, 2)
+    generators.generateLegalityUniqueIds("suspended-commoner", 0, 2),
+    generators.generateLegalityUniqueIds("restricted-ll", 0, 2)
 ]).then(() => promisesFinished())
 

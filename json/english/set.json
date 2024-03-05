@@ -101,6 +101,24 @@
         ]
     },
     {
+        "unique_id": "KP7GC9CdJBWjqNjcpbBDN",
+        "id": "BET",
+        "name": "Betsy Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "9qbkzGGLN6KNpgc6rfjmQ",
+                "edition": "N",
+                "start_card_id": "BET001",
+                "end_card_id": "BET030",
+                "initial_release_date": "2024-02-02T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/heavy-hitters/heavy-hitters-blitz-decks/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/heavy-hitters/",
+                "card_gallery": null
+            }
+        ]
+    },
+    {
         "unique_id": "HPKkthwQKdFTDgK6WTQqR",
         "id": "BOL",
         "name": "Boltyn Blitz Deck",
@@ -229,7 +247,7 @@
                 "edition": "N",
                 "start_card_id": "DTD000",
                 "end_card_id": "DTD235",
-                "initial_release_date": null,
+                "initial_release_date": "2023-07-23T00:00:00.000Z",
                 "out_of_print_date": null,
                 "product_page": null,
                 "collectors_center": "https://fabtcg.com/collectors-centre/dusk-till-dawn/",
@@ -347,7 +365,7 @@
                 "unique_id": "j76qTFctqc8krqh9GKGmT",
                 "edition": "N",
                 "start_card_id": "FAB001",
-                "end_card_id": "FAB177",
+                "end_card_id": "FAB223",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
@@ -383,12 +401,30 @@
                 "unique_id": "NrpJFBQQGpNM8D9w8BBfG",
                 "edition": "N",
                 "start_card_id": "HER000",
-                "end_card_id": "HER103",
+                "end_card_id": "HER110",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
                 "collectors_center": "https://fabtcg.com/collectors-centre/promos-and-extras/",
                 "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "9GGpwPrfzfDL7Pg9wdbFQ",
+        "id": "HVY",
+        "name": "Heavy Hitters",
+        "printings": [
+            {
+                "unique_id": "n8gpKL7pTMQ7zcTdj8fL6",
+                "edition": "N",
+                "start_card_id": "HVY000",
+                "end_card_id": "HVY254",
+                "initial_release_date": "2024-02-02T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/heavy-hitters/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/heavy-hitters/",
+                "card_gallery": "https://fabtcg.com/resources/card-galleries/heavy-hitters/"
             }
         ]
     },
@@ -418,8 +454,8 @@
             {
                 "unique_id": "hqBm7CnKjCWzKBQcph89t",
                 "edition": "N",
-                "start_card_id": "JDG001",
-                "end_card_id": "JDG014",
+                "start_card_id": "JDG000",
+                "end_card_id": "JDG029",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
@@ -447,6 +483,24 @@
         ]
     },
     {
+        "unique_id": "rgRWRm9GbMpPTt789kgHW",
+        "id": "KSI",
+        "name": "Kassai Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "C7KjLHKwBJhRH9qqdFjbg",
+                "edition": "N",
+                "start_card_id": "KSI001",
+                "end_card_id": "KSI030",
+                "initial_release_date": "2024-02-02T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/heavy-hitters/heavy-hitters-blitz-decks/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/heavy-hitters/",
+                "card_gallery": null
+            }
+        ]
+    },
+    {
         "unique_id": "Wp8RnQbnhjM8dPR7CjJLj",
         "id": "KSU",
         "name": "Katsu Hero Deck",
@@ -461,6 +515,24 @@
                 "product_page": "https://fabtcg.com/products/booster-set/welcome-rathe/wtr-hero-decks/",
                 "collectors_center": "https://fabtcg.com/collectors-centre/welcome-rathe/",
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/katsu-hero-deck/"
+            }
+        ]
+    },
+    {
+        "unique_id": "DmbjR8R9B8jPfCgcn7dL8",
+        "id": "KYO",
+        "name": "Kayo Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "qdLrpf9jRrTRkpDGMgG7r",
+                "edition": "N",
+                "start_card_id": "KYO001",
+                "end_card_id": "KYO029",
+                "initial_release_date": "2024-02-02T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/heavy-hitters/heavy-hitters-blitz-decks/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/heavy-hitters/",
+                "card_gallery": null
             }
         ]
     },
@@ -491,7 +563,7 @@
                 "unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
                 "edition": "N",
                 "start_card_id": "LGS001",
-                "end_card_id": "LGS226",
+                "end_card_id": "LGS252",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
@@ -509,7 +581,7 @@
                 "unique_id": "B8Nwc79RrDqgRrqPCczFb",
                 "edition": "N",
                 "start_card_id": "LSS001",
-                "end_card_id": "LSS009",
+                "end_card_id": "LSS016",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
@@ -562,6 +634,24 @@
                 "product_page": "https://fabtcg.com/products/booster-set/monarch-unlimited/",
                 "collectors_center": "https://fabtcg.com/collectors-centre/monarch/",
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/monarch-booster-unlimited/"
+            }
+        ]
+    },
+    {
+        "unique_id": "pRmKczPQQff9T6HTkqHkm",
+        "id": "OLA",
+        "name": "Olympia Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "8bcCwFdQGfdTMTKRFKPQ6",
+                "edition": "N",
+                "start_card_id": "OLA001",
+                "end_card_id": "OLA030",
+                "initial_release_date": "2024-02-02T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/heavy-hitters/heavy-hitters-blitz-decks/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/heavy-hitters/",
+                "card_gallery": null
             }
         ]
     },
@@ -651,6 +741,24 @@
                 "out_of_print_date": null,
                 "product_page": null,
                 "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "BqWfHnHgd8BtnF9FHBNHG",
+        "id": "RNR",
+        "name": "Rhinar Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "DnzncFjbdKCmJjgMJrrR6",
+                "edition": "N",
+                "start_card_id": "RNR001",
+                "end_card_id": "RNR029",
+                "initial_release_date": "2024-02-02T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/heavy-hitters/heavy-hitters-blitz-decks/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/heavy-hitters/",
                 "card_gallery": null
             }
         ]
@@ -759,6 +867,24 @@
                 "out_of_print_date": null,
                 "product_page": null,
                 "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "RJdbhzKTCkTW9HCbphgJn",
+        "id": "VIC",
+        "name": "Victor Goldmane Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "TfzGq9K9Ctg98wnHpBQDf",
+                "edition": "N",
+                "start_card_id": "VIC001",
+                "end_card_id": "VIC030",
+                "initial_release_date": "2024-02-02T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/heavy-hitters/heavy-hitters-blitz-decks/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/heavy-hitters/",
                 "card_gallery": null
             }
         ]

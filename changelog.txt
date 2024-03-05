@@ -536,3 +536,74 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added all TCGPlayer Product IDs for 1HP, ARA, AZL, BEN, BOL, BRI, BVO, CHN, CRU, DRO, DVR, DYN, ELE, EVR, KAT, KSU, IRA, LEV, LXI, MON, OLD, PSM, RIP, RVD, UPR, and UZU
 - Added more missing TCGPlayer Product IDs for ARC, DTD, FAB, FAI, HER, JDG, LGS, LSS, OUT, RNR, and XXX
 - Fixed incorrect Commoner legality for Blood Scent - bug notice credit: Palada
+
+10-16-23:
+- Added card data for Jack-o'-lantern
+- Added printing data for LGS174-LGS176, LGS182-LGS185, and LGS194-LGS197
+
+10-27-23:
+- Added card data for Agility, Double Down, Runner Runner, and Talk a Big Game
+- Added printing data for FAB144-FAB152, FAB193-FAB195, and HVY240
+
+10-28-23:
+- Added card images for ARA001-ARA029
+
+10-31-23:
+- Added card images for AZL001-AZL030, BEN001-BEN026, KAT001-KAT026, RIP001-RIP030, and UZU001-UZU031
+
+11-14-23:
+- Updated CC Living Legend status for `Lexi, Livewire` and `Voltaire, Strike Twice`
+- Updated CC Suspended status for Bull's Eye Bracers
+- Updated Blitz Suspended status for Soul Reaping
+- Added card data for `Squizzy & Floof` (data entry credit - manwaring)
+- Added printing data for FAB121 and HER100 (data entry credit - manwaring)
+- Added printing data for LGS197-LGS199 and LGS227
+- Fixed Dive Through Data (yellow and blue) missing Opt 1 keyword (bug notice - Stingray)
+
+11-18-23:
+- Added card data for Popped Collar Polo
+- Added printing data for FAB152, HER104, and LSS114-LSS115
+
+11-24-23:
+- Added printing data for LSS116
+
+11-27-23:
+- Updated CC Living Legend status for `Iyslander, Stormbinde` and Kraken's Aethervein
+- Updated CC Suspended status for Amulet of Ice and Hypothermia
+- Updated Blitz Living Legend status for Chane, Galaxxi Black, Kano, Crucible of Aetherweave, `Kassai, Cintari Sellsword`, and Cintari Sabers
+- Updated Blitz Suspended status for Seeds of Agony and Soul Reaping
+- Added Living Legend Restricted status files and fields
+
+12-03-23:
+- Added card data for Fabric of Blossoms and Fabric of Spring
+- Added printing data for LSS010 and LSS011
+- Updated functional text for Blossom of Spring
+
+12-04-23:
+- Added printing data for FAB178, HER087-HER088, HER101 and JDG015-JDG018
+- Added images for FAB144-FAB152, HER087, HER100-HER101, LGS176-LGS178, LGS194-LGS199, LGS227, LSS008, and LSS014-LSS016
+- Added TCGPlayer info for FAB178, HER100-HER101, JDG015-JDG018, LGS176-LGS178, and LGS194-LGS199
+
+12-16-23:
+- Added printing data for HER089-HER096, HER102, and LGS201-LGS204
+- Added images for FAB177, HER088-HER096, HER103-HER104, LGS198-LGS204, LGS212-LGS222, LGS226, WIN025-WIN027
+- Added TCGPlayer info for FAB153 and FAB176
+
+03-04-23:
+- Added card data for new HVY cards - data entry assistance credit: manwaring, hoodwill, Pizza
+- Added card data for Intellect Penalty, Proclamation of Production
+- Added printing data for BET001-BET030, FAB179-FAB192, FAB196-FAB206, FAB223, HER103-HER110, HVY000-HVY254, JDG000, JDG019-JDG029, KSI001-KSI030, KYO001-KYO029, LGS228-LGS252, OLA001-OLA030, RNR001-RNR029 (blitz), VIC001-VIC030, WIN028-WIN032
+- Added images for EVR155 (Cold Foil), FAB172-FAB175, FAB178, FAB193-FAB195, HER102, HER105-HER110, HVY000-HVY254, JDG019-JDG029, KSI001-KSI030, KYO001-KYO029, LGS228-LGS252, OLA001-OLA030, RNR001-RNR029 (blitz), VIC001-VIC030, WIN028-WIN032
+- Added TCGPlayer IDs for FAB152, FAB172-FAB175, FAB177-FAB206, FAB223, HER088-HER093, HER095-HER096, HER103-HER104, HVY000-HVY254, JDG020-JDG028, KSI001-KSI030, KYO001-KYO029, LGS201-LGS204, LGS229-LGS252, OLA001-OLA030, RNR001-RNR029 (blitz), VIC001-VIC030
+- Added Macro type
+- Added Beat Chest, Clash, Guardwell, Stealth, Universal, and Wager keywords
+- Updated functional text for Adrenaline Rush, Gold, Mandible Claw, Pack Hunt, and Vigor
+- Updated functional text for Ironsong Pride and Runeblood Barrier with errata from Errata Bulletin #8\
+- Fixed incorrect format legalites for Arakni, `Arakni, Solitary Confinement`, Jack-o'-Lantern, Uzuri, and `Yoji, Royal Protector`
+- Fixed Fabric of Spring missing the Legendary keyword
+- Fixed JDG012 being marked as Alternate Border when other JDG promos are not
+- Fixed Codex of Inertia having 0 power instead of null
+- Fixed Proclamation of Requisition not having Action marked as an ability
+- Fixed Ironsong Pride having the incorrect TCGPlayer ID - bug notice credit: manwaring
+- Fixed Snapdragon Scalers alpha printing foiling being marked as rainbow foil instead of cold foil
+- Fixed DTD set printing missing a release date

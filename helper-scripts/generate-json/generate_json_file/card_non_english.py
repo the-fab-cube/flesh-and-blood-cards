@@ -141,6 +141,10 @@ def generate_json_file(language):
             if 'commoner_suspended_end' in english_card:
                 card_object['commoner_suspended_end'] = english_card['commoner_suspended_end']
 
+            card_object['ll_restricted'] = english_card['ll_restricted']
+            if 'll_restricted_start' in english_card:
+                card_object['ll_restricted_start'] = english_card['ll_restricted_start']
+
             # Clean up fields
 
             card_object['functional_text'] = card_object['functional_text'].replace("'", "''")

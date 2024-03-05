@@ -331,5 +331,50 @@
         "date_in_effect": "2023-05-05T00:00:00.000Z",
         "planned_end": "",
         "legality_article": "https://fabtcg.com/articles/banned-suspended-may-2023/"
+    },
+    {
+        "unique_id": "6Rfz8mJrLGqCQtpkHNkTN",
+        "card_unique_id": "wbTGmgDqLtMmbDgcPzCmJ",
+        "status_active": true,
+        "date_announced": "2023-11-06T00:00:00.000Z",
+        "date_in_effect": "2023-11-06T00:00:00.000Z",
+        "planned_end": "until Chane becomes Living Legend",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-suspended-announcement-nov6/"
+    },
+    {
+        "unique_id": "WB7mFP9mh7cTPqHnwdhWW",
+        "card_unique_id": "bkwMDWGMmKTMd9dKQMt76",
+        "status_active": false,
+        "date_announced": "2023-11-20T00:00:00.000Z",
+        "date_in_effect": "2023-11-24T00:00:00.000Z",
+        "planned_end": "",
+        "legality_article": "https://fabtcg.com/articles/chane-ascends-to-living-to-legend/"
+    },
+    {
+        "unique_id": "b6gJMJHLqMJDH7GfpzzCd",
+        "card_unique_id": "g9ckPjGmpNNkmbgChTQNR",
+        "status_active": false,
+        "date_announced": "2023-11-20T00:00:00.000Z",
+        "date_in_effect": "2023-11-24T00:00:00.000Z",
+        "planned_end": "",
+        "legality_article": "https://fabtcg.com/articles/chane-ascends-to-living-to-legend/"
+    },
+    {
+        "unique_id": "WcTMqBJQCmk8G66qzBnkn",
+        "card_unique_id": "BnQtggKJtBNmpqKR7NWBH",
+        "status_active": false,
+        "date_announced": "2023-11-20T00:00:00.000Z",
+        "date_in_effect": "2023-11-24T00:00:00.000Z",
+        "planned_end": "",
+        "legality_article": "https://fabtcg.com/articles/chane-ascends-to-living-to-legend/"
+    },
+    {
+        "unique_id": "hnKHRFth6zFhHFNHjGpCh",
+        "card_unique_id": "wbTGmgDqLtMmbDgcPzCmJ",
+        "status_active": false,
+        "date_announced": "2023-11-20T00:00:00.000Z",
+        "date_in_effect": "2023-11-24T00:00:00.000Z",
+        "planned_end": "",
+        "legality_article": "https://fabtcg.com/articles/chane-ascends-to-living-to-legend/"
     }
 ]

@@ -23,6 +23,7 @@ def generate_json_file():
     suspended_blitz_json_path = Path(__file__).parent / "../../../json/english/suspended-blitz.json"
     suspended_cc_json_path = Path(__file__).parent / "../../../json/english/suspended-cc.json"
     suspended_commoner_json_path = Path(__file__).parent / "../../../json/english/suspended-commoner.json"
+    ll_restricted_json_path = Path(__file__).parent / "../../../json/english/restricted-ll.json"
 
     card_csv_path = Path(__file__).parent / "../../../csvs/english/card.csv"
     card_printing_csv_path = Path(__file__).parent / "../../../csvs/english/card-printing.csv"
@@ -41,6 +42,7 @@ def generate_json_file():
         suspended_blitz_json_path.open(newline='') as suspended_blitz_json_file,
         suspended_cc_json_path.open(newline='') as suspended_cc_json_file,
         suspended_commoner_json_path.open(newline='') as suspended_commoner_json_file,
+        ll_restricted_json_path.open(newline='') as ll_restricted_json_file,
     ):
         reader = csv.DictReader(csvfile, delimiter='\t', quotechar='"')
 
@@ -54,6 +56,7 @@ def generate_json_file():
         suspended_blitz_array = json.load(suspended_blitz_json_file)
         suspended_cc_array = json.load(suspended_cc_json_file)
         suspended_commoner_array = json.load(suspended_commoner_json_file)
+        ll_restricted_array = json.load(ll_restricted_json_file)
 
         for row in reader:
             card_object = {}
@@ -169,6 +172,12 @@ def generate_json_file():
 
                 card_object['commoner_suspended_start'] = start_info['date_in_effect']
                 card_object['commoner_suspended_end'] = suspended_commoner_info['planned_end']
+                
+            ll_restricted_info_array = [x for x in ll_restricted_array if x['card_unique_id'] == card_unique_id]
+            ll_restricted_info = ll_restricted_info_array[-1] if len(ll_restricted_info_array) > 0 else None
+            card_object['ll_restricted'] = ll_restricted_info['status_active'] if ll_restricted_info != None else False
+            if card_object['ll_restricted']:
+                card_object['ll_restricted_start'] = ll_restricted_info['date_in_effect']
 
             # Clean up fields
 

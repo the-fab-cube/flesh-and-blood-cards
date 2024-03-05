@@ -46,5 +46,61 @@
         "date_announced": "2023-05-04T00:00:00.000Z",
         "date_in_effect": "2023-05-05T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/articles/banned-suspended-may-2023/"
+    },
+    {
+        "unique_id": "fcdzL9DnDNpPjKMTJRRNz",
+        "card_unique_id": "mCCnJrJQkqJ7KfqKNHGnc",
+        "status_active": true,
+        "date_announced": "2023-11-20T00:00:00.000Z",
+        "date_in_effect": "2023-11-24T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/chane-ascends-to-living-to-legend/"
+    },
+    {
+        "unique_id": "FGhMFPQGDQpKmgm9ztjf6",
+        "card_unique_id": "r8Bq8zBCNdzGPkmMcr6QL",
+        "status_active": true,
+        "date_announced": "2023-11-20T00:00:00.000Z",
+        "date_in_effect": "2023-11-24T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/chane-ascends-to-living-to-legend/"
+    },
+    {
+        "unique_id": "wCbhWfR8cwmWTGBjfcjg9",
+        "card_unique_id": "Q9B8TDhTdfDLN8ccnBThK",
+        "status_active": true,
+        "date_announced": "2023-11-27T00:00:00.000Z",
+        "date_in_effect": "2023-12-01T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legends-iyslander-stormbind-kano-and-kassai-cintari-sellsword/"
+    },
+    {
+        "unique_id": "rrDCNwmFmDr6mrjWcQKn7",
+        "card_unique_id": "nzDWrNMqGWgmJfgJhChNb",
+        "status_active": true,
+        "date_announced": "2023-11-27T00:00:00.000Z",
+        "date_in_effect": "2023-12-01T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legends-iyslander-stormbind-kano-and-kassai-cintari-sellsword/"
+    },
+    {
+        "unique_id": "WCFLt7jdNRrL7k8LJ88Lf",
+        "card_unique_id": "wWmP8RJRq7MWk7kBh9q7w",
+        "status_active": true,
+        "date_announced": "2023-11-27T00:00:00.000Z",
+        "date_in_effect": "2023-12-01T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legends-iyslander-stormbind-kano-and-kassai-cintari-sellsword/"
+    },
+    {
+        "unique_id": "nMPBLj9BJdCgdGFGKwFTT",
+        "card_unique_id": "PpwQBBjqmBbgBrKMPbbBr",
+        "status_active": true,
+        "date_announced": "2023-11-27T00:00:00.000Z",
+        "date_in_effect": "2023-12-01T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legends-iyslander-stormbind-kano-and-kassai-cintari-sellsword/"
+    },
+    {
+        "unique_id": "jJkPwdTJH67frnn6k9MnD",
+        "card_unique_id": "PpwQBBjqmBbgBrKMPbbBr",
+        "status_active": false,
+        "date_announced": "2023-12-18T00:00:00.000Z",
+        "date_in_effect": "2024-02-02T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-eoy/"
     }
 ]

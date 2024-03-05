@@ -151,5 +151,32 @@
         "date_in_effect": "2023-09-22T00:00:00.000Z",
         "planned_end": "until Lexi, Livewire becomes Living Legend",
         "legality_article": "https://fabtcg.com/articles/scheduled-banned-suspended-announcement-sep19-23/"
+    },
+    {
+        "unique_id": "fdzN8QQLQcDqK6zrwKmTb",
+        "card_unique_id": "FLfrm7mBczWhFLBTKmBgJ",
+        "status_active": false,
+        "date_announced": "2023-11-06T00:00:00.000Z",
+        "date_in_effect": "2023-11-06T00:00:00.000Z",
+        "planned_end": "",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-suspended-announcement-nov6/"
+    },
+    {
+        "unique_id": "mqWkWW6p6FQzdd9bkQM7D",
+        "card_unique_id": "t6MkmHjPRNghmMcMQbqch",
+        "status_active": false,
+        "date_announced": "2023-11-27T00:00:00.000Z",
+        "date_in_effect": "2023-12-01T00:00:00.000Z",
+        "planned_end": "",
+        "legality_article": "https://fabtcg.com/articles/living-legends-iyslander-stormbind-kano-and-kassai-cintari-sellsword/"
+    },
+    {
+        "unique_id": "QmJ76dRd8c8JWMRjbbP9b",
+        "card_unique_id": "HFwjczQFRKCgTFHdbjdzW",
+        "status_active": false,
+        "date_announced": "2023-11-27T00:00:00.000Z",
+        "date_in_effect": "2023-12-01T00:00:00.000Z",
+        "planned_end": "",
+        "legality_article": "https://fabtcg.com/articles/living-legends-iyslander-stormbind-kano-and-kassai-cintari-sellsword/"
     }
 ]
