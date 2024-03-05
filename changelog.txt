@@ -589,13 +589,21 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added images for FAB177, HER088-HER096, HER103-HER104, LGS198-LGS204, LGS212-LGS222, LGS226, WIN025-WIN027
 - Added TCGPlayer info for FAB153 and FAB176
 
-TODO:
-- Added card data for HVY
-- Added card data for Proclamation of Production
-- Added printing data for HVY
+03-04-23:
+- Added card data for new HVY cards
+- Added card data for Intellect Penalty, Proclamation of Production
+- Added printing data for BET001-BET030, FAB179-FAB192, FAB196-FAB206, FAB223, HER103-HER110, HVY000-HVY254, JDG000, JDG019-JDG029, KSI001-KSI030, KYO001-KYO029, LGS228-LGS252, OLA001-OLA030, RNR001-RNR029 (blitz), VIC001-VIC030, WIN028-WIN032
+- Added images for EVR155 (Cold Foil), FAB172-FAB175, FAB178, FAB193-FAB195, HER102, HER105-HER110, HVY000-HVY254, JDG019-JDG029, KSI001-KSI030, KYO001-KYO029, LGS228-LGS252, OLA001-OLA030, RNR001-RNR029 (blitz), VIC001-VIC030, WIN028-WIN032
+- Added TCGPlayer IDs for FAB152, FAB172-FAB175, FAB177-FAB206, FAB223, HER088-HER093, HER095-HER096, HER103-HER104, HVY000-HVY254, JDG020-JDG028, KSI001-KSI030, KYO001-KYO029, LGS201-LGS204, LGS229-LGS252, OLA001-OLA030, RNR001-RNR029 (blitz), VIC001-VIC030
 - Added Macro type
-- Updated functional text for Mandible Claw, Pack Hunt, and Vigor
-- Updated functional text for Ironsong Pride and Runeblood Barrier with errata from Errata Bulletin #8
+- Added Beat Chest, Clash, Guardwell, Stealth, Universal, and Wager keywords
+- Updated functional text for Adrenaline Rush, Gold, Mandible Claw, Pack Hunt, and Vigor
+- Updated functional text for Ironsong Pride and Runeblood Barrier with errata from Errata Bulletin #8\
+- Fixed incorrect format legalites for Arakni, `Arakni, Solitary Confinement`, Jack-o'-Lantern, Uzuri, and `Yoji, Royal Protector`
+- Fixed Fabric of Spring missing the Legendary keyword
+- Fixed JDG012 being marked as Alternate Border when other JDG promos are not
 - Fixed Codex of Inertia having 0 power instead of null
 - Fixed Proclamation of Requisition not having Action marked as an ability
-- TODO: FAB, JDG, and LGS promos printings
+- Fixed Ironsong Pride having the incorrect TCGPlayer ID - bug notice credit: manwaring
+- Fixed Snapdragon Scalers alpha printing foiling being marked as rainbow foil instead of cold foil
+- Fixed DTD set printing missing a release date
