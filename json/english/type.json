@@ -136,6 +136,10 @@
         "name": "Equipment"
     },
     {
+        "unique_id": "hJ7L9WbpPFdjw9hKWN8cP",
+        "name": "Evo"
+    },
+    {
         "unique_id": "JJWPzmkGQhHNMqMn77rkm",
         "name": "Fiddle"
     },
@@ -226,6 +230,10 @@
     {
         "unique_id": "bwTjFPPD6BPQRmzGTMQC8",
         "name": "Mentor"
+    },
+    {
+        "unique_id": "cGdNmJhKfktDTfp8qpbHG",
+        "name": "Mercenary"
     },
     {
         "unique_id": "J8QjfW6zKK89wPpprJncb",
@@ -326,6 +334,10 @@
     {
         "unique_id": "q9GWTdPwD8QQFtwtRTPTj",
         "name": "Wizard"
+    },
+    {
+        "unique_id": "JcMmPWgPHqTKWJH8LDDHT",
+        "name": "Wrench"
     },
     {
         "unique_id": "QPtmrBGhLFbnpFMQznnwH",
