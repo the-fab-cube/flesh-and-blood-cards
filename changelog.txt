@@ -611,3 +611,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 03-11-24:
 - Fixed an issue where `Hummingbird, Call of Adventure` had the incorrect name of `Hummingbird, Adventure's Call` - bug notice credit: TheZackAttack
 - Added Evo, Mercenary, and Wrench as types - notice credit: pnelson5
+
+03-19-24:
+- Fixed incorrect type text for Victor Goldmane - bug notice credit: xerogold
