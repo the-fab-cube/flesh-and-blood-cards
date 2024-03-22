@@ -1,4 +1,18 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+MghLPDjq8CfBJ8RzNc7Ft	Nuu, Alluring Desire					40	4	Mystic, Assassin, Hero		Instant				Stealth	"Your attacks with **stealth** get ""When this chain link resolves, banish all action cards defending this.""
+
+**Instant** - {b}{b}{b}: Look at the top card of an opposing hero's deck. If it's blue, you may banish it. Until end of turn, you may play blue cards from that hero's banished zone without paying their {r} cost."	Mystic Assassin Hero		No		No	
+prMJkPd8w9KQHQ9BjgMmG	Nuu					20	4	Mystic, Assassin, Hero, Young		Instant				Stealth	"Your attacks with **stealth** get ""When this chain link resolves, banish all action cards defending this.""
+
+**Instant** - {b}{b}{b}: Look at the top card of an opposing hero's deck. If it's blue, you may banish it. Until end of turn, you may play blue cards from that hero's banished zone without paying their {r} cost."	Mystic Assassin Hero - Young			No		
+tJhRRN9kkMCnGQdQJ8TWg	Enigma, Ledger of Ancestry					40	4	Mystic, Illusionist, Hero		Once per Turn Instant					"Your first Spectral Shield attack each turn costs {r} less to activate.
+
+**Once per Turn Instant** - {b}{b}{b}: Create a Spectral Shield token with a +1{p} counter."	Mystic Illusionist Hero		No		No	
+JKPFKKFqnLtmctLkwNCmc	Enigma					20	4	Mystic, Illusionist, Hero, Young		Once per Turn Instant					"Your first Spectral Shield attack each turn costs {r} less to activate.
+
+**Once per Turn Instant** - {b}{b}{b}: Create a Spectral Shield token with a +1{p} counter."	Mystic Illusionist Hero - Young					
+GDbCgdDrFKCWWthrgD6h6	Zen, Tamer of Purpose					40	4	Mystic, Ninja, Hero		Once per Turn Instant				Combo	**Once per Turn Instant** - {b}{b}{b}: Create a Crouching Tiger in your hand. Search your deck for a card with **combo**, banish it, then shuffle. You may play it this turn.	Mystic Ninja Hero		No		No	
+7FHM67fkfjCjzwWzKfFKH	Zen					20	4	Mystic, Ninja, Hero, Young		Once per Turn Instant				Combo	**Once per Turn Instant** - {b}{b}{b}: Create a Crouching Tiger in your hand. Search your deck for a card with **combo**, banish it, then shuffle. You may play it this turn.	Mystic Ninja Hero - Young					
 dTKDHwdcrLNPPb6ktczmR	Absorb in Aether	1	1		4			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 tWKN9zRJdgFmpw6pmPmkR	Absorb in Aether	2	1		3			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 WkDkrkTDzRnqWBh7WHJfh	Absorb in Aether	3	1		2			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
