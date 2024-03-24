@@ -614,3 +614,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 03-19-24:
 - Fixed incorrect type text for Victor Goldmane - bug notice credit: xerogold
+
+03-24-24
+- Added card data for Fabric of Scales and Venomback Fabric
+- Added printing data for LSS017-LSS018
