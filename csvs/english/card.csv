@@ -3966,7 +3966,7 @@ B7Db99Nw9PFrJLmRzPT7t	Money Where Ya Mouth Is	2	1		2			Generic, Action	Go again	
 9BM9L9zrh8BgBWkPDdJgf	Money Where Ya Mouth Is	3	1		2			Generic, Action	Go again			Wager			"Your next attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 t68gtGcPf8H9wTGBCfj8L	Monstrous Veil				1			Brute, Equipment, Head	Rhinar Specialization, Battleworn	Action	Go again				"**Rhinar Specialization**
 
-Action - Destroy this: Draw a card then discard a random card. **Go again**
+**Action** - Destroy this: Draw a card then discard a random card. **Go again**
 
 **Battleworn**"	Brute Equipment - Head					
 mhLrKM6RbWGGHNrTGjtMw	Moon Wish	1	2	5	2			Generic, Action, Attack							"You may put a card from your hand on top of your deck rather than pay Moon Wish's {r} cost.
@@ -5643,7 +5643,7 @@ FFGW6Kn6mWFFFWcwkpdHh	Seismic Stir	2	2		3			Guardian, Action	Go again						"Crea
 h7n8tCF66mwtfWfqLLz87	Seismic Stir	3	2		3			Guardian, Action	Go again						"Create a Seismic Surge token.
 
 **Go again**"	Guardian Action					
-Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							Guardian, Token, Aura							At the beginning of your action phase, destroy Seismic Surge then the next Guardian attack action card you play this turn costs {r} less to play.	Guardian Token - Aura					
+Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							Guardian, Token, Aura							At the beginning of your action phase, destroy this, then the next Guardian attack action card you play this turn costs {r} less to play.	Guardian Token - Aura					
 PBFbJTw6qrKRHPHPDCrMT	Sekem, Archangel of Ravages			4		4		Light, Angel, Ally	Ward 4	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
 When Sekem attacks, you may banish a card from your hero's soul. If you do, deal 2 arcane damage to any target.
@@ -7299,9 +7299,9 @@ If Widowmaker is defended by fewer than 2 cards, it has +3{p}."	Ranger Action - 
 6Ncbh6FMrcwkH7DmjJMwj	Widowmaker	3	1	2	3			Ranger, Action, Arrow, Attack							"Defense reactions can't be played to Widowmaker's chain link.
 
 If Widowmaker is defended by fewer than 2 cards, it has +3{p}."	Ranger Action - Arrow Attack					
-TKR9cWhRJgWjgjjL7kWmf	Wild Ride	1	2	6				Brute, Action, Attack							When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack					
-bPtqgMTnhqqJcHF7BJJWw	Wild Ride	2	2	5				Brute, Action, Attack							When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack					
-fwHfwDjtckfDmGQQQrKLw	Wild Ride	3	2	4				Brute, Action, Attack							When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack					
+TKR9cWhRJgWjgjjL7kWmf	Wild Ride	1	2	6				Brute, Action, Attack	Go again						When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack					
+bPtqgMTnhqqJcHF7BJJWw	Wild Ride	2	2	5				Brute, Action, Attack	Go again						When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack					
+fwHfwDjtckfDmGQQQrKLw	Wild Ride	3	2	4				Brute, Action, Attack	Go again						When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack					
 zcrgwbPhb8wr7MFmMDTzw	Winds of Eternity	3	0	2	3			Ninja, Action, Attack	Combo						"**Combo** - If Winds of Eternity was the last attack this combat chain, Winds of Eternity gains +2{p} and ""If this hits, shuffle all cards named Hundred Winds you control on this combat chain into your deck."""	Ninja Action - Attack				No	
 Hb6ThkhpGRD9K9J6hBLDM	Winter's Bite	1	0		2			Ice, Action	Go again						"Target hero discards a card unless they pay {r}{r}{r}.
 
@@ -7354,9 +7354,9 @@ When this hits a hero, you may turn a card in their arsenal face up, then destro
 D9TnG8PWbhKLR8Nc9N6K7	Wreck Havoc	3	2	4	2			Generic, Action, Attack							"Defense reactions can't be played to Wreck Havoc's chain link.
 
 When this hits a hero, you may turn a card in their arsenal face up, then destroy a defense reaction in their arsenal."	Generic Action - Attack				No	
-qfFQbdJPqGhjD99dLC6gD	Wrecker Romp	1	2	8	3			Brute, Action, Attack							As an additional cost to play Wrecker Romp. Discard a random card.	Brute Action - Attack					
-HhfPFLHfgBhNMMnMqNRf9	Wrecker Romp	2	2	7	3			Brute, Action, Attack							As an additional cost to play Wrecker Romp. Discard a random card.	Brute Action - Attack					
-nPdtpJ7BgkdccWhMGttWr	Wrecker Romp	3	2	6	3			Brute, Action, Attack							As an additional cost to play Wrecker Romp. Discard a random card.	Brute Action - Attack					
+qfFQbdJPqGhjD99dLC6gD	Wrecker Romp	1	2	8	3			Brute, Action, Attack							As an additional cost to play this, discard a random card.	Brute Action - Attack					
+HhfPFLHfgBhNMMnMqNRf9	Wrecker Romp	2	2	7	3			Brute, Action, Attack							As an additional cost to play this, discard a random card.	Brute Action - Attack					
+nPdtpJ7BgkdccWhMGttWr	Wrecker Romp	3	2	6	3			Brute, Action, Attack							As an additional cost to play this, discard a random card.	Brute Action - Attack					
 zLnFQ6KLkBQbNQ7RhQnKb	Wrecking Ball	1	3	6				Brute, Action, Attack	Intimidate						When you attack with Wrecking Ball, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, **intimidate**.	Brute Action - Attack				No	
 nrgkNJFCNRwKmHPWhqDqg	Writhing Beast Hulk	1	2	6	3			Shadow, Brute, Action, Attack	Dominate, Blood Debt						"As an additional cost to play Writhing Beast Hulk, banish 3 random cards from your graveyard.
 
