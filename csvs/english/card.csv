@@ -1,8 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-6LLwpNzLJBgr8c8nTqdmr	Fabric of Scales	3	0		2			Generic, Action, Construct	Negate						Equip Snapdragon Scalers. If you don't, **negate** this.	Generic Action - Construct		No	No	No	
-PL9FMwTgW7WnnKfbhRWRG	Venomback Fabric	2	0		3			Generic, Action, Construct	Legendary, Negate						"**Legendary**
-
-Equip Scabskin Leathers. If you don't, **negate** this."	Generic Action - Construct		No	No	No	
 dTKDHwdcrLNPPb6ktczmR	Absorb in Aether	1	1		4			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 tWKN9zRJdgFmpw6pmPmkR	Absorb in Aether	2	1		3			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 WkDkrkTDzRnqWBh7WHJfh	Absorb in Aether	3	1		2			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
@@ -513,6 +509,7 @@ When this is banished from **boosting**, put a steam counter on a Hyper Driver y
 BbhMcGn9tRzPq6qdt8f8W	Big Bertha	3	3	4	3			Mechanologist, Action, Attack	Boost					Boost	"**Boost**
 
 When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
+9GHTwjj8W9dWDtc9zbfmc	Big Blue Sky	3	0		2			Mystic, Defense Reaction							This gets +1{d} for each blue card you've pitched this turn.	Mystic Defense Reaction					
 L6rgnMGtzqKkLfHdkTPph	Big Bop	1	3		2			Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +5{p} and ""When this attacks a hero, you may **wager** a Vigor token with them."""	Guardian Action - Aura					
 c7LrgMPzh9mcqbCqM9mmw	Big Bop	2	3		2			Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +4{p} and ""When this attacks a hero, you may **wager** a Vigor token with them."""	Guardian Action - Aura					
 LFnMwmW9pgdNwzHCtfNnL	Big Bop	3	3		2			Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Vigor token with them."""	Guardian Action - Aura					
@@ -2327,6 +2324,7 @@ N77hdGp96fNQnzc79hqN9	Eye of Ophidia	3						Generic, Resource, Gem	Legendary, Op
 
 When you pitch Eye of Ophidia, **opt 2**."	Generic Resource - Gem				No	
 LTzk7nGqnkqRdddd9LRjQ	Fabric of Blossoms	3	0		2			Generic, Action, Construct	Negate						Equip Blossom of Spring. If you don't, **negate this**.	Generic Action - Construct		No	No	No	
+6LLwpNzLJBgr8c8nTqdmr	Fabric of Scales	3	0		2			Generic, Action, Construct	Negate						Equip Snapdragon Scalers. If you don't, **negate** this.	Generic Action - Construct		No	No	No	
 NTnphGB9GCpfrLRQRcNbj	Fabric of Spring	2	0		2			Generic, Action, Construct	Legendary, Negate						Equip Fyendal's Spring Tunic. If you don't, **negate this**.	Generic Action - Construct		No	No	No	
 cjJpkCtJwndP7FwzwDDQc	Fabricate	1	0					Mechanologist, Instant							"Choose 2;
 
@@ -5326,6 +5324,7 @@ BhPz6pPfhwj69gGJTqCPp	Rumble Grunting	3	0		3			Brute, Action	Go again						"Play
 Your next Brute attack this turn gains +2{p}.
 
 **Go again**"	Brute Action					
+WLNGdRBzRcLqzhdrMbDG8	Run Roughshod	3	1	5	3			Brute, Action, Attack							Play this only if you've discarded a card with 6 or more {p} this turn.	Brute Action - Attack				No	
 DBDwbqjgnpnNfFrJ8Dmhr	Run Through	2	1		3			Warrior, Attack Reaction				Go again			"Target sword attack gains **go again**.
 
 Your next sword attack this turn gains +2{p}."	Warrior Attack Reaction				No	
@@ -5438,6 +5437,9 @@ When you attack with Savage Feast, if a card with 6 or more {p} was discarded as
 FkLTfnTqkjBKt9Ch9m8C8	Savage Feast	3	1	4	3			Brute, Action, Attack							"As an additional cost to play Savage Feast discard a random card.
 
 When you attack with Savage Feast, if a card with 6 or more {p} was discarded as an additional cost to play it, draw a card."	Brute Action - Attack				No	
+WPkcWHhWGzFKcNWQFM7hf	Savage Sash				2			Brute, Equipment, Chest		Action	Go again				"**Action** - Destroy this: Attack action cards with 6 or more {p} cost you {r} less to play this turn. **Go again**
+
+**Temper**"	Brute Equipment - Chest				No	
 N8DMCFHgLPLrn9wQhhTjC	Savage Swing	1	1	7	3			Brute, Action, Attack							As an additional cost to play Savage Swing, discard a random card.	Brute Action - Attack					
 cKRWnQCGq8f8dGKT7G8pF	Savage Swing	2	1	6	3			Brute, Action, Attack							As an additional cost to play Savage Swing, discard a random card.	Brute Action - Attack					
 7zdfJDbhwjMnMNqkDJ9Qb	Savage Swing	3	1	5	3			Brute, Action, Attack							As an additional cost to play Savage Swing, discard a random card.	Brute Action - Attack					
@@ -7027,6 +7029,9 @@ If Vela Flash was **fused**, you may play your next 'non-attack' action card thi
 KW9mBkBhNqKJMLf6TkNpg	Vela Flash	3	1	3	3			Elemental, Runeblade, Action, Attack	Lightning Fusion						"**Lightning Fusion**
 
 If Vela Flash was **fused**, you may play your next 'non-attack' action card this turn as though it were an instant."	Elemental Runeblade Action - Attack					
+PL9FMwTgW7WnnKfbhRWRG	Venomback Fabric	2	0		3			Generic, Action, Construct	Legendary, Negate						"**Legendary**
+
+Equip Scabskin Leathers. If you don't, **negate** this."	Generic Action - Construct		No	No	No	
 dcMMQNzjpzQ76GQPpnQwz	Vest of the First Fist				0			Generic, Equipment, Chest							When an attack action card you control hits, you may destroy Vest of the First Fist. If you do, gain {r}{r}.	Generic Equipment - Chest					
 PTjbDJpDMHwR6TdJkBLtr	Vestige of Sol				1			Light, Equipment, Chest	Blade Break						"If a card has been put into your hero's soul this turn, whenever you pitch a Light card, instead gain that many {r} plus 1.
 
@@ -7281,6 +7286,7 @@ HpcmJjndDjCmChMWWDnnc	Whisper of the Oracle	2	0		3			Generic, Action	Opt 3, Go a
 CdP6DCmhLMzBWKB7tWcNJ	Whisper of the Oracle	3	0		3			Generic, Action	Opt 2, Go again						"**Opt 2**
 
 **Go again**"	Generic Action					
+GHJwMBntf9h6wFk7Dfk7j	Wide Blue Yonder	3	0		2			Mystic, Attack Reaction							Target attack gets +1{p} for each blue card you've pitched this turn.	Mystic Attack Reaction					
 QMWDbQKHnWCcj8zrpmTMk	Widespread Annihilation	3	4	6	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
 
 When the combat chain closes, each hero who has lost {h} this turn banishes a card from their hand.

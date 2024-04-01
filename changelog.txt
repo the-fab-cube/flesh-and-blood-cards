@@ -618,3 +618,9 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 03-24-24
 - Added card data for Fabric of Scales and Venomback Fabric
 - Added printing data for LSS017-LSS018
+
+03-29-24
+- Added card data for Big Blue Sky, Run Roughshod, Savage Sash, and Wide Blue Yonder
+- Added printing data for AKO005-AKO024, FAB207, FAB231, FAB238-FAB239, HER111-HER112
+- Update CC Banned status for Berserk and Crown of Seeds
+- Update Blitz Banned status for Berserk
