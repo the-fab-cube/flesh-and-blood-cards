@@ -624,3 +624,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data for AKO005-AKO024, FAB207, FAB231, FAB238-FAB239, HER111-HER112
 - Update CC Banned status for Berserk and Crown of Seeds
 - Update Blitz Banned status for Berserk
+
+03-31-24
+- Added card data for Moon Chakra, Tide Chakra, and Wind Chakra
+- Added printing data for LGS263-LGS265

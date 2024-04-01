@@ -3975,6 +3975,7 @@ t68gtGcPf8H9wTGBCfj8L	Monstrous Veil				1			Brute, Equipment, Head	Rhinar Specia
 Action - Destroy this: Draw a card then discard a random card. **Go again**
 
 **Battleworn**"	Brute Equipment - Head					
+pDpQ79NgQN6MQtz9zQrCW	Moon Chakra	1	0					Mystic, Illusionist, Instant						Transcend	The next time you would be dealt damage this turn, prevent 3 of that damage. If you've **transcended** this turn, instead prevent 5.	Mystic Illusionist Instant					
 mhLrKM6RbWGGHNrTGjtMw	Moon Wish	1	2	5	2			Generic, Action, Attack							"You may put a card from your hand on top of your deck rather than pay Moon Wish's {r} cost.
 
 If Moon Wish hits, search your deck for a card named Sun Kiss, reveal it, put it into your hand, then shuffle your deck."	Generic Action - Attack					
@@ -6709,6 +6710,7 @@ When a Mechanologist attack action card you control hits a hero, destroy this an
 d8qcmDrkwJ7D6FnMjQDW9	Ticket Puncher				*			Generic, Equipment, Arms	Blade Break						"Ticket Puncher's {d} is equal to the number of opposing heroes with greater {h} than you.
 
 **Blade Break**"	Generic Equipment - Arms					
+ftdRwjTPb9PNhfpfMMkzC	Tide Chakra	1	1		3			Mystic, Asssasin, Attack Reaction						Transcend	Target Assassin or Mystic attack action card gets +3[p}. If you've **transcended** this turn, instead it gets +5{p}.	Mystic Assassin Attack Reaction					
 TDJfbQjqKCwLRT7RczDrM	Tide Flippers				0			Ninja, Equipment, Legs	Arcane Barrier 1	Attack Reaction		Go again			"**Attack Reaction** - Destroy Tide Flippers: Target attack action card with 2 or less base {p} gains **go again**.
 
 **Arcane Barrier 1**"	Ninja Equipment - Legs					
@@ -7314,6 +7316,9 @@ If Widowmaker is defended by fewer than 2 cards, it has +3{p}."	Ranger Action - 
 TKR9cWhRJgWjgjjL7kWmf	Wild Ride	1	2	6				Brute, Action, Attack							When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack					
 bPtqgMTnhqqJcHF7BJJWw	Wild Ride	2	2	5				Brute, Action, Attack							When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack					
 fwHfwDjtckfDmGQQQrKLw	Wild Ride	3	2	4				Brute, Action, Attack							When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack					
+KRLHmjMcJTWNdrHrHqbkt	Wind Chakra	1	0		3			Mystic, Ninja, Action	Go again					Transcend	"The next Crouching Tiger you play this turn gets +3{p}. If you've **transcended** this turn, instead it gets +5{p}.
+
+**Go again**"	Mystic Ninja Action					
 zcrgwbPhb8wr7MFmMDTzw	Winds of Eternity	3	0	2	3			Ninja, Action, Attack	Combo						"**Combo** - If Winds of Eternity was the last attack this combat chain, Winds of Eternity gains +2{p} and ""If this hits, shuffle all cards named Hundred Winds you control on this combat chain into your deck."""	Ninja Action - Attack				No	
 Hb6ThkhpGRD9K9J6hBLDM	Winter's Bite	1	0		2			Ice, Action	Go again						"Target hero discards a card unless they pay {r}{r}{r}.
 
