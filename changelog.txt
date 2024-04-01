@@ -626,10 +626,12 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Update Blitz Banned status for Berserk
 
 03-31-24
-- Added card data for Moon Chakra, Tide Chakra, and Wind Chakra
 - Added printing data for LGS253-LGS257 - notice credit: torgeirl
-- Added printing data for LGS263-LGS265
 - Updated functional text for Wrecker Romp and Seismic Surge - notice credit: manwaring
 - Fixed missing Go again keyword for Wild Ride - bug notice credit: Stingray
 - Fixed TCGPlayer ID for Hold 'Em (Red) - bug notice credit: manwaring
 - Fixed functional text formatting for Monstrous Veil
+
+TODO:
+- Added card data for Moon Chakra, Tide Chakra, and Wind Chakra
+- Added printing data for LGS263-LGS265
