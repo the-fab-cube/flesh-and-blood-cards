@@ -3361,6 +3361,7 @@ fJdjjcFWMpqfCNKpJbNLr	Infuse Alloy	3	0	2	2			Mechanologist, Action, Attack	Galva
 PnfMD9zp7JgTwTmJTQkwz	Infuse Titanium	1	3	7	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
 qQbcdmqJw9tPqqDBnDpH9	Infuse Titanium	2	3	6	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
 JhJWJjwBffmkgq69rfrgC	Infuse Titanium	3	3	5	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
+FRTnBzBCRC7TbNhdKLWqW	Inner Chi	3						Mystic, Resource, Chi								Mystic Resource - Chi					
 gfrwTGTGJhqjTPKbcd96P	Insidious Chill	3	3		2			Ice, Action, Aura							"Insidious Chill enters the arena with 3 frost counters on it. When it has no frost counters on it, destroy it.
 
 Whenever you **Ice Fuse**, remove a frost counter from Insidious Chill. If you do, target hero discards a card unless they pay {r}{r}."	Ice Action - Aura				No	
@@ -4601,6 +4602,11 @@ fMgQnGBfTgfGdLFMDjDWJ	Premeditate	1	0		2			Generic, Action	Go again						"The ne
 The next attack action card you play from arsenal this turn gains +3{p}.
 
 **Go again**"	Generic Action				No	
+jpWjmrzckFnCzG8tFMppt	Preserve Tradition	3	0					Mystic, Instant	Legendary, Transcend						"**Legendary**
+
+Put target action card from your graveyard on the bottom of your deck.
+
+If you've played another blue card this turn, **transcend**."	Mystic Instant					
 DTNR6KNnBDCBqkczc9PnT	Primed to Fight	1	5	9	3			Guardian, Action, Attack							"If you've controlled a Vigor token this turn, this costs {r} less to play.
 
 If you've controlled a Might token this turn, this gets +1{p}."	Guardian Action - Attack				No	
@@ -5399,6 +5405,24 @@ When this hits a hero, banish the top card of their deck."	Assassin Action - Att
 GCBnJqcCCpBHQwzBgdNbh	Sack the Shifty	3	0	2	3			Assassin, Action, Attack	Contract					Go again	"**Contract** - You are contracted to banish opponents' cards with base **go again**. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."	Assassin Action - Attack					
+cdb8cTqP9MRgwqr7Q6rHQ	Sacred Art: Immortal Lunar Shrine	3	3					Mystic, Illusionist, Instant	Legendary, Transcend					Ward	"**Legendary**
+
+If you've played another blue card this turn, choose 3. Otherwise, choose 1;
+- Create 2 Spectral Shield tokens.
+- Put a +1{p} counter on each aura with **ward** you control.
+- **Transcend**"	Mystic Illusionist Instant				No	
+GJzhGm6bb6gW8nMBgQRbz	Sacred Art: Jade Tiger Domain	3	3					Mystic, Ninja, Instant	Legendary, Transcend						"**Legendary**
+
+If you've played another blue card this turn, choose 3. Otherwise, choose 1;
+- Create 2 Crouching Tigers in your hand.
+- Your Crouching Tigers get +1{p} this turn.
+- **Transcend**"	Mystic Ninja Instant				No	
+c8CdW9QBrMJPh6nwJGJ6Q	Sacred Art: Undercurrent Desires	3	3					Mystic, Assassin, Instant	Legendary, Transcend						"**Legendary**
+
+If you've played another blue card this turn, choose 3. Otherwise, choose 1;
+- Create a Fang Strike and Slither in your hand.
+- Banish up to 2 cards in an opposing hero's graveyard.
+- **Transcend**"	Mystic Assassin Instant				No	
 zKtm8BQzLMCwJRgqcGLNm	Salt the Wound	2	0	2	3			Ninja, Action, Attack							This gets +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack					
 9pnrkbM9DbqCqqkbDCC8N	Salvage Shot	1	1	5	3			Ranger, Action, Arrow, Attack							When this hits, put it on the bottom of its owner's deck.	Ranger Action - Arrow Attack					
 d8mzLHtQRkT8GWFcgR78H	Salvage Shot	2	1	4	3			Ranger, Action, Arrow, Attack							When this hits, put it on the bottom of its owner's deck.	Ranger Action - Arrow Attack					

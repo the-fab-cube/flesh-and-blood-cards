@@ -805,6 +805,11 @@
         "is_DFC": false
     },
     {
+        "front_unique_id": "hLLpGTBhhRDhFFBGnHFMj",
+        "back_unique_id": "N7CCptkRTNcpq7cWbF7pm",
+        "is_DFC": true
+    },
+    {
         "front_unique_id": "HPKKdcJLbBRrpcKQt69gD",
         "back_unique_id": "7FdrTtrWTWMFmdN9ctRJW",
         "is_DFC": false
@@ -815,6 +820,11 @@
         "is_DFC": false
     },
     {
+        "front_unique_id": "qhBj6crT6gWLQfJPrr877",
+        "back_unique_id": "RPHwGnbjw8HzQmJpnQmHM",
+        "is_DFC": true
+    },
+    {
         "front_unique_id": "hdkCcB8pR7mCDNTfmknGJ",
         "back_unique_id": "tQPKCjzwfPr7HMNtRWgCH",
         "is_DFC": false
@@ -823,6 +833,21 @@
         "front_unique_id": "WFTBhBkPphNj8bHcrf9dJ",
         "back_unique_id": "FnKTPhfPRMzttpRqzKLmH",
         "is_DFC": false
+    },
+    {
+        "front_unique_id": "MdzRKDj9nML69H7LzF8MQ",
+        "back_unique_id": "k8KKKzmhMLdrWwdJfRgjT",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "CntrPwtQJn9Kwqzt9qbhp",
+        "back_unique_id": "k8kwLQPbt9G9mCrbTLjdp",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "gLTJrdmGWRFWqdhJTgmkQ",
+        "back_unique_id": "98NpGLRrgLNJgkChwprCm",
+        "is_DFC": true
     },
     {
         "front_unique_id": "LbwhWmHwwcJLrDTwFKqRz",

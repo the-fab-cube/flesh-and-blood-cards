@@ -633,5 +633,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed functional text formatting for Monstrous Veil
 
 TODO:
-- Added card data for Moon Chakra, Tide Chakra, and Wind Chakra
-- Added printing data for LGS263-LGS265
+- Added card data for MST
+- Added printing data for FAB232-FAB234, FAB241, HER116, LGS263-LGS265, MST???-MST???
+- Added Transcend keyword
