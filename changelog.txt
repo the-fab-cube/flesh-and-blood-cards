@@ -632,6 +632,11 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed TCGPlayer ID for Hold 'Em (Red) - bug notice credit: manwaring
 - Fixed functional text formatting for Monstrous Veil
 
+04-05-24:
+- Added card data for Strength Rules All
+- Added printing data for AKO013
+- Fixed wrong card id for Savage Sash (AKO005 -> AKO004)
+
 TODO:
 - Added card data for MST
 - Added printing data for FAB232-FAB234, FAB241, HER116, LGS263-LGS265, MST???-MST???
