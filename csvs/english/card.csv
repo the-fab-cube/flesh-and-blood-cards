@@ -1814,6 +1814,7 @@ If you've played a red card this turn, dragons you control have **go again** whi
 9bQFfTFGQWJFWrcJnfQgz	Drone of Brutality	1	2	6	2			Generic, Action, Attack							If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.	Generic Action - Attack				No	
 Nhmj8MBNCmWFC68JkhkNC	Drone of Brutality	2	2	5	2			Generic, Action, Attack							If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.	Generic Action - Attack				No	
 hJt6FwT8mhQbcWQLzgHMT	Drone of Brutality	3	2	4	2			Generic, Action, Attack							If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.	Generic Action - Attack				No	
+gzdhT8FLprLrfPNCdNtR7	Droplet	3	0	2	2			Mystic, Action, Attack							If you've played another blue card this turn, this gets +2{p}.	Mystic Action - Attack					
 rB8rmFM8LLnw7BNFPbNtW	Drowning Dire	1	2	5	3			Runeblade, Action, Attack	Dominate						"If you have played or created an aura this turn, Drowning Dire gains **dominate**.
 
 When Drowning Dire hits, you may put a 'non-attack' action card from your graveyard on the bottom of your deck."	Runeblade Action - Attack					
@@ -5222,6 +5223,7 @@ kqMJRRjLHfnPFBL6nDHPc	Rising Solartide	3	1	3	3			Light, Action, Attack							If 
 cDdGBtFJkhzCrmgC6bmfb	Rising Speed	1	2	5	2			Brute, Warrior, Action, Attack	Go again						If you've drawn a card this turn, this gets **go again**.	Brute / Warrior Action - Attack					
 7QpRQBkcWN7fWjnwdhgQ6	Rising Speed	2	2	4	2			Brute, Warrior, Action, Attack	Go again						If you've drawn a card this turn, this gets **go again**.	Brute / Warrior Action - Attack					
 BhQ9Pr8pQbhkCmCHG8hhT	Rising Speed	3	2	3	2			Brute, Warrior, Action, Attack	Go again						If you've drawn a card this turn, this gets **go again**.	Brute / Warrior Action - Attack					
+m8qP9TTpMfdKndW7wN7M7	Rising Tide	3	1	3	2			Mystic, Action, Attack							If you've played another blue card this turn, this gets +2{p}.	Mystic Action - Attack					
 bq8bmCkrPKHgb7fMRPkjM	Rites of Lightning	1	1	4	3			Elemental, Runeblade, Action, Attack	Lightning Fusion, Go again						"**Lightning Fusion**
 
 When you attack with Rites of Lightning, if it was **fused**, deal 1 arcane damage to target hero.
@@ -6212,6 +6214,7 @@ NbddFmpDCff8m7FWk6dnQ	Spike with Inertia	1	1		3			Assassin, Attack Reaction					
 6b6WhdH96PdDWBQhMzgLB	Spill Blood	1	1		3			Warrior, Action	Go again			Dominate			"Axes you control gain +2{p} and **dominate** until end of turn.
 
 **Go again**"	Warrior Action				No	
+PTbtpLNBrfMq9nNffBmMJ	Spillover	3	2	4	2			Mystic, Action, Attack							If you've played another blue card this turn, this gets +2{p}.	Mystic Action - Attack					
 BwgjdFCGncmNwKPkrznN7	Spinal Crush	1	5	9	3			Guardian, Action, Attack	Crush						**Crush** - If Spinal Crush deals 4 or more damage to a hero, action cards, activated abilities, and attacks they control lose and can't gain **go again** during their next action phase.	Guardian Action - Attack				No	
 8w9NwkkKWrtCGbmBBcfJR	Spinning Wheel Kick	1	1	4	2			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Twin Twisters or Spinning Wheel Kick was the last attack this combat chain, this has +1{p} and ""When this hits, put it on the bottom of its owner's deck.""
 
@@ -6740,6 +6743,7 @@ When a Mechanologist attack action card you control hits a hero, destroy this an
 d8qcmDrkwJ7D6FnMjQDW9	Ticket Puncher				*			Generic, Equipment, Arms	Blade Break						"Ticket Puncher's {d} is equal to the number of opposing heroes with greater {h} than you.
 
 **Blade Break**"	Generic Equipment - Arms					
+qLbkgfKHC7bFpQhKbNdCw	Tidal Surge	3	3	5	2			Mystic, Action, Attack							If you've played another blue card this turn, this gets +2{p}.	Mystic Action - Attack					
 ftdRwjTPb9PNhfpfMMkzC	Tide Chakra	1	1		3			Mystic, Asssasin, Attack Reaction						Transcend	Target Assassin or Mystic attack action card gets +3[p}. If you've **transcended** this turn, instead it gets +5{p}.	Mystic Assassin Attack Reaction					
 TDJfbQjqKCwLRT7RczDrM	Tide Flippers				0			Ninja, Equipment, Legs	Arcane Barrier 1	Attack Reaction		Go again			"**Attack Reaction** - Destroy Tide Flippers: Target attack action card with 2 or less base {p} gains **go again**.
 
