@@ -6348,6 +6348,11 @@ At the beginning of your end phase, destroy Sting of Sorcery."	Runeblade Action 
 fMdnz9D9MRDrzMrBFf7Kr	Stir the Aetherwinds	1	2		2			Wizard, Action							You may play your next Wizard 'non-attack' action card this turn as though it were an instant and if it has an effect that deals arcane damage, instead that effect deals that much arcane damage plus 3.	Wizard Action				No	
 nPwjcRFWBmzNQWM6BMcgB	Stir the Aetherwinds	2	2		2			Wizard, Action							You may play your next Wizard 'non-attack' action card this turn as though it were an instant and if it has an effect that deals arcane damage, instead that effect deals that much arcane damage plus 2.	Wizard Action				No	
 k8wMFCFHtGTtTRfnzKGqQ	Stir the Aetherwinds	3	2		2			Wizard, Action							You may play your next Wizard 'non-attack' action card this turn as though it were an instant and if it has an effect that deals arcane damage, instead that effect deals that much arcane damage plus 1.	Wizard Action				No	
+pjpcnH9bKnGR6KFCFGz6Q	Stir the Pot	3	0					Mystic, Instant	Legendary, Transcend						"**Legendary**
+
+Shuffle.
+
+If you've played another blue card this turn, **transcend**."	Mystic Instant					
 8cCrr6Bd9HchgpQHnztTb	Stir the Wildwood	1	2	5	3			Elemental, Runeblade, Action, Attack	Earth Fusion						"**Earth Fusion**
 
 If you have dealt arcane damage to an opposing hero this turn, Stir the Wildwood gains +2{p}.
