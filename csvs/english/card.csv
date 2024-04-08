@@ -4183,6 +4183,9 @@ wrBpz9J66tTJtRK67FWdp	Orbitoclast			1				Assassin, Weapon, Dagger, 1H	Piercing 1
 **Piercing 1**
 
 When this hits a hero, the next time they defend with 1 or more 'non-attack' action cards this turn, those cards have -1{d} while defending."	Assassin Weapon - Dagger (1H)				No	
+bwtjtjCqP6wTHtkR9HtGh	Orihon of Mystic Tenets	3	4					Mystic, Instant	Legendary						"**Legendary**
+
+Draw 2 cards. If a Chi was pitched to play this, instead draw 3 cards."	Mystic Instant				No	
 JwhRzNPr9KNpMHzP8kWNG	Ornate Tessen							Generic, Equipment, Off-Hand		Instant					**Instant** - {r}, destroy Ornate Tessen: Put a card from your hand on the bottom of your deck. If you do, draw a card.	Generic Equipment - Off-Hand					
 qgzjH8rNPpg6Jb6PgzggC	Out Muscle	1	3	6	2			Generic, Action, Attack	Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack				No	
 dRFbtRTF8qzzBwbqHkWtF	Out Muscle	2	3	5	2			Generic, Action, Attack	Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack				No	
@@ -4308,6 +4311,11 @@ If you've played another blue card this turn, **transcend**."	Mystic Instant
 NBnFFCH9njbMMhBLc6jzw	Passing Mirage	3	0		2			Illusionist, Action, Aura	Spectra				Phantasm		"Your first Illusionist attack each turn loses and can't gain **phantasm**.
 
 **Spectra**"	Illusionist Action - Aura				No	
+7fN6NNBdf9KQF9gWWpdzL	Path Well Traveled	3	0					Mystic, Instant	Legendary, Transcend			Go again			"**Legendary**
+
+Target attack gets **go again**.
+
+If you've played another blue card this turn, **transcend**."	Mystic Instant					
 WMDBhmGwnGHT7MKf7dLdk	Pathing Helix	1	0	4	3			Ranger, Action, Arrow, Attack							If Pathing Helix hits and you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.	Ranger Action - Arrow Attack					
 KBND9JzTdFwBdtMgMq7Tj	Pathing Helix	2	0	3	3			Ranger, Action, Arrow, Attack							If Pathing Helix hits and you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.	Ranger Action - Arrow Attack					
 b7DpNcDrnBrhFD78gQPdD	Pathing Helix	3	0	2	3			Ranger, Action, Arrow, Attack							If Pathing Helix hits and you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.	Ranger Action - Arrow Attack					
