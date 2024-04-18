@@ -7165,12 +7165,22 @@ z78cKCmLRbWfftGfpcJGd	Virulent Touch	3	0	2	2			Assassin, Ranger, Action, Attack	
 When this chain link resolves, if Virulent Touch is defended by a card from hand, create a Bloodrot Pox token under the defending hero's control."	Assassin / Ranger Action - Attack					
 RHnFkKb8FKdFzp9rdzGjF	Viserai					20	4	Runeblade, Hero, Young							Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token.	Runeblade Hero - Young			No		
 TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood					40	4	Runeblade, Hero							Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token.	Runeblade Hero		No		No	
+n6fRnMQh7NKBzqLKMMK68	Visit Goldmane Estate	3	1		3			Guardian, Action	Victor Specialization, Go again						"**Victor Specialization**
+
+Create a Gold token. Then if you control 3 or more Gold, create that many Might tokens.
+
+**Go again**"	Guardian Action				No	
 7JJG6Pdjw7Fq9rHGtmPBJ	Visit the Blacksmith	3	0		2			Generic, Action	Go again						"Your next sword attack this turn gains +1{p}.
 
 **Go again**"	Generic Action					
 zTKjp9zwk8Whfjr7bKpbn	Visit the Floating Dojo	3	0					Ninja, Instant	Katsu Specialization					Combo	"**Katsu Specialization**
 
 Put a Surging Strike and a card with **combo** from your graveyard on the top and/or bottom of your deck."	Ninja Instant				No	
+ndg9MJNHtTFG6BQqK7Lgz	Visit the Golden Anvil	3	0		3			Warrior, Action	Olympia Specialization						"**Olympia Specialization**
+
+As an additional cost to play this, destroy X Gold you control.
+
+Equip X weapons and/or equipment from your inventory."	Warrior Action				No	
 MjHm8rcQpcMfmR9MnbWTK	Visit the Imperial Forge	1	0		3			Warrior, Action	Go again			Piercing 3			"Sword and dagger attacks have **piercing 3** this turn.
 
 **Go again**"	Warrior Action					
@@ -7206,7 +7216,7 @@ Whenever you play a Shadow non-attack action card, you may pay {h}. If you do, t
 
 Whenever you play a Shadow non-attack action card, you may pay {h}. If you do, the next Runechant effect that would deal damage this turn can't be prevented."	Shadow Runeblade Hero		No		No	
 MFrJG8G8RgrhkpfkD8KWj	Vynserakai			6		1		Draconic, Illusionist, Dragon, Ally							Whenever Vynserakai hits a hero, he deals 3 arcane damage to them.	Draconic Illusionist - Dragon Ally				No	
-HkLqBHQMJDcpJrMh7zhFm	Wage Agility	1	3	7	2			Brute, Warrior, Action, Attack							When this attacks a hero, you may **wager** an Agility token with them.	Brute / Warrior Action - Attack					
+HkLqBHQMJDcpJrMh7zhFm	Wage Agility	1	3	7	2			Brute, Warrior, Action, Attack	Wager						When this attacks a hero, you may **wager** an Agility token with them.	Brute / Warrior Action - Attack					
 WmzwN8GGDC6dhhLB9NbMc	Wage Agility	2	3	6	2			Brute, Warrior, Action, Attack	Wager						When this attacks a hero, you may **wager** an Agility token with them.	Brute / Warrior Action - Attack					
 zCGntgRNcRP9bRjb8KNCR	Wage Agility	3	3	5	2			Brute, Warrior, Action, Attack	Wager						When this attacks a hero, you may **wager** an Agility token with them.	Brute / Warrior Action - Attack					
 PQJbFn9m8g7J6BttmD6LN	Wage Gold	1	3	7	2			Generic, Action, Attack	Universal, Wager						"**Universal**
