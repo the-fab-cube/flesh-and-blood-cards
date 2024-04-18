@@ -636,3 +636,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for Strength Rules All
 - Added printing data for AKO013
 - Fixed wrong card id for Savage Sash (AKO005 -> AKO004)
+
+04-17-24:
+- Added printing data for LGS258-LGS226
+- Fixed missing Wager keyword for Wage Agility (Red)
+- Fixed missing EA art variation for FAB088
