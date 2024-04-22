@@ -3753,6 +3753,9 @@ If you have **boosted** this turn, **opt 1**.
 Jcr8qghhWR9GPwR9GzDJq	Long Shot	1	0	3	3			Ranger, Action, Arrow, Attack							If Long Shot has an aim counter, it has +2{p}.	Ranger Action - Arrow Attack					
 Pbw7BCzT7RnLTqz7R8TgN	Long Shot	2	0	2	3			Ranger, Action, Arrow, Attack							If Long Shot has an aim counter, it has +2{p}.	Ranger Action - Arrow Attack					
 wcQzjTdhBwLkDWQbjLG8c	Long Shot	3	0	1	3			Ranger, Action, Arrow, Attack							If Long Shot has an aim counter, it has +2{p}.	Ranger Action - Arrow Attack					
+tNBLJKrbDpBL9TMb678wM	Longdraw Half-glove				1			Ranger, Equipment, Arms	Battleworn	Instant					"**Instant** - Destroy this, put 2 cards from your hand and/or arsenal on the bottom of your deck: Your next arrow attack this turn gets +4{p}.
+
+**Battleworn**"	Ranger Equipment - Arms				No	
 JckmT8QFTgHWrGCBPNWKh	Looking for a Scrap	1	1	4	2			Generic, Action, Attack	Go again						As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.	Generic Action - Attack				No	
 ntNzmrhJNcwpc9pbjbFmL	Looking for a Scrap	2	1	3	2			Generic, Action, Attack	Go again						As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.	Generic Action - Attack				No	
 bpQN7JWMfcWndWkjWkJwb	Looking for a Scrap	3	1	2	2			Generic, Action, Attack	Go again						As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.	Generic Action - Attack				No	
@@ -4039,6 +4042,11 @@ Damage that would be dealt by Murkmire Grapnel can't be prevented."	Ranger Actio
 MFMLnHfwqKpqhKhcHTGHt	Murkmire Grapnel	3	0	2	3			Ranger, Action, Arrow, Attack							"If Murkmire Grapnel has an aim counter, it has +1{p}.
 
 Damage that would be dealt by Murkmire Grapnel can't be prevented."	Ranger Action - Arrow Attack					
+RmpWGrQMtkjKRfd8QqrGJ	Murky Water	1	2	6	3			Ranger, Action, Arrow, Attack	Riptide Specialization, Dominate						"**Riptide Specialization**
+
+If this has an aim counter, it gets +1{p} and **dominate**.
+
+When this hits, you may banish face-down 3 traps from your graveyard. If you do, choose one at random and put it into your arsenal."	Ranger Action - Arrow Attack				No	
 Nq9dPQ8KmtgWjCczcJQfz	Muscle Mutt	2	3	6	2			Generic, Action, Attack								Generic Action - Attack					
 Fw7hr8tGFkDbJkJB8Gjhk	Mutated Mass	3	1	*	*			Shadow, Action, Attack	Blood Debt						"You may play Mutated Mass from your banished zone.
 
