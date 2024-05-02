@@ -1937,6 +1937,11 @@ If Electrify is played from arsenal, draw a card.
 
 **Go again**"	Lightning Action					
 jKhMgndCGwjzKLHQMM7Cj	Eloquence							Generic, Token, Aura				Go again			When you play a non-attack action card, destroy this and the card gets **go again**.	Generic Token - Aura					
+zjjTKPFFzRh9fMGmR6jPR	Eloquent Eulogy	1	1	4	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
+
+When the combat chain closes, if a hero has lost {h} this turn, create an Eloquence token.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack				No	
 kqndgG6wmB6CLq6FqfjJ9	Embermaw Cenipai	1	2	8	3			Draconic, Illusionist, Action, Attack	Phantasm						"**Phantasm**
 
 When Embermaw Cenipai is destroyed, create an Ash token."	Draconic Illusionist Action - Attack					
@@ -5770,6 +5775,11 @@ pntf8jrgBbNzC8jBkChDJ	Shadow of Ursur	3	0	2	3			Shadow, Runeblade, Action, Attac
 As an additional cost to play Shadow of Ursur, you may banish a card with blood debt from your hand. If you do, Shadow of Ursur gains **go again**.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack				No	
+q9rhJWLhqmFgpRdrb6LGM	Shadowrealm Horror	1	2	6	3			Shadow, Brute, Action, Attack	Go again, Blood Debt						"As an additional cost to play this, banish 3 random cards in your graveyard.
+
+If 1 or more cards with 6 or more {p} are banished this way, this gets +1{p}. 2 or more, this gets **go again**. 3 or more, you may play a card banished this way this turn.
+
+**Blood Debt**"	Shadow Brute Action - Attack				No	
 DMH8PRWDTmMm6mWtQqttn	Shake Down	1	2	6	3			Assassin, Action, Attack	Uzuri Specialization						"**Uzuri Specialization**
 
 If you've played or activated an attack reaction this chain link, Shake Down has ""When this hits a hero, choose red, yellow, or blue. They reveal their hand. Banish a card of the chosen color."""	Assassin Action - Attack				No	
