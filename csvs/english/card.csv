@@ -5435,6 +5435,9 @@ WPkcWHhWGzFKcNWQFM7hf	Savage Sash				2			Brute, Equipment, Chest		Action	Go agai
 N8DMCFHgLPLrn9wQhhTjC	Savage Swing	1	1	7	3			Brute, Action, Attack							As an additional cost to play Savage Swing, discard a random card.	Brute Action - Attack					
 cKRWnQCGq8f8dGKT7G8pF	Savage Swing	2	1	6	3			Brute, Action, Attack							As an additional cost to play Savage Swing, discard a random card.	Brute Action - Attack					
 7zdfJDbhwjMnMNqkDJ9Qb	Savage Swing	3	1	5	3			Brute, Action, Attack							As an additional cost to play Savage Swing, discard a random card.	Brute Action - Attack					
+WKb8wmGL6MRRzwLnzqLBj	Saving Grace	2	0		3			Light, Warrior, Defense Reaction	Charge					Charge	"As an additional cost to play this, you may **charge** your hero's soul.
+
+If you've **charged** this turn, target attack gets -2{p}."	Light Warrior Defense Reaction				No	
 nkCCKCB8ftPdMCHHWHWtk	Scabskin Leathers				2			Brute, Equipment, Legs	Battleworn	Once per turn Action					"**Once per turn Action** - 0: Roll a 6 sided die. Gain action points equal to half the number rolled, rounded down.
 
 **Battleworn**"	Brute Equipment - Legs				No	
@@ -7186,6 +7189,9 @@ fgtdwK9LKpQLht8bnpG6L	Warmonger's Recital	2	1		2			Generic, Action	Go again					
 qBfKKnkJT8hhtwHqnHfpG	Warmonger's Recital	3	1		2			Generic, Action	Go again						"The next attack action card you play this turn gains +1{p} and ""When this hits, put it on the bottom of its owner's deck.""
 
 **Go again**"	Generic Action					
+rdKrHRBf66GR7WdzL8dpN	Warpath of Winged Grace				2			Light, Warrior, Equipment, Legs	Charge, Blade Break						"When this defends, you may **charge** your hero's soul. If a yellow card is **charged** this way, create a Quicken token.
+
+**Blade Break**"	Light Warrior Equipment - Legs				No	
 rMhFpgrgBCtQdqrrcpHNh	Warrior's Valor	1	1		3			Warrior, Action	Go again			Go again			"Your next weapon attack this turn gains +3{p} and ""If this hits, the attack gains **go again**.""
 
 **Go again**"	Warrior Action				No	

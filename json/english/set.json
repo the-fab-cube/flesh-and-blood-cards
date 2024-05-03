@@ -83,6 +83,24 @@
         ]
     },
     {
+        "unique_id": "gmPW6zdL8Fkcd7T6Fghdb",
+        "id": "ASB",
+        "name": "Armory Deck Boltyn",
+        "printings": [
+            {
+                "unique_id": "hcwhwT87GNGLw8dzpzKWn",
+                "edition": "N",
+                "start_card_id": "ASB006",
+                "end_card_id": "ASB025",
+                "initial_release_date": "2024-07-12T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/armory-deck-boltyn/",
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
         "unique_id": "7DwGmMt7dfMKMwTKFQ6hB",
         "id": "AZL",
         "name": "Azalea Blitz Deck",
