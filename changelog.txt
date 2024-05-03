@@ -641,3 +641,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data for LGS258-LGS226
 - Fixed missing Wager keyword for Wage Agility (Red)
 - Fixed missing EA art variation for FAB088
+
+05-03-24:
+- Added card data for Hide Tanner
+- Added printing data for AKO001-AKO028
+- Updated functional text for Beaten Trackers, Bare Fangs, Humble, Pulping, Reincarnate, Savage Beatdown, and Wild Ride
