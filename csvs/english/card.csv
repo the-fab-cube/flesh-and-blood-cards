@@ -1,4 +1,36 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+NbbDrzwLMP7CH69PHcWfK	Aqua Seeing Shell				1			Mystic, Equipment, Head	Cloaked, Instant						"**Cloaked**
+
+**Instant** - {r}{r}{r}, turn this face-up: Draw a card.
+
+At the start of your turn, destroy this."	Mystic Equipment - Head					
+mccHtdK6wgfhL6g98CKMT	Koi Blessed Kimono							Mystic, Equipment, Chest	Cloaked						"**Cloaked**
+
+While this is equipped face-down, at the start of your turn, if you have exactly 1{h}, you may turn this face-up.
+
+When this is turned face-up, destroy it. Search your deck for an Inner Chi, reveal it, put it into your hand, then shuffle."	Mystic Equipment - Chest					
+zmtr9qmT89RLcGDGLRgLM	Waves of Aqua Marine				1			Mystic, Equipment, Arms	Cloaked, Attack Reaction						"**Cloaked**
+
+**Attack Reaction** - {r}, turn this face-up: Target attack gets +1{p}.
+
+At the start of your turn, destroy this."	Mystic Equipment - Arms					
+gJg89dTHTbjhQPnnfkMpP	Aqua Laps				1			Mystic, Equipment, Legs	Cloaked, Attack Reaction						"**Cloaked**
+
+**Attack Reaction** - {r}, turn this face up: Target attack gets **go again**.
+
+At the start of your turn, destroy this."	Mystic Equipment - Legs					
+pfbmHDDCBzPj7kPKLHtJj	Skycrest Keikoi							Mystic, Equipment, Head	Cloaked, Instant						"**Cloaked**
+
+**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this ability only while this is face-down."	Mystic Equipment - Head					
+rLzdPNHmqwPfmRFLhWM8R	Skybody Keikoi							Mystic, Equipment, Chest	Cloaked, Instant						"**Cloaked**
+
+**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this ability only while this is face-down."	Mystic Equipment - Chest					
+LhPHmJ9Wmq6R6RDjDGtwC	Skyhold Keikoi							Mystic, Equipment, Arms	Cloaked, Instant						"**Cloaked**
+
+**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this ability only while this is face-down."	Mystic Equipment - Arms					
+Rn7bzNz8BdmwrcTBkMHM6	Skywalker Keikoi							Mystic, Equipment, Legs	Cloaked, Instant						"**Cloaked**
+
+**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this ability only while this is face-down."	Mystic Equipment - Legs					
 CqNB8MLzfCh6tRP6RRMdj	A Drop in the Ocean	3	0					Mystic, Instant	Legendary, Transcend						"**Legendary**
 
 Target attack gets -1{p}.

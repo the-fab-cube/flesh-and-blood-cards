@@ -78,6 +78,12 @@
         "description_plain": ""
     },
     {
+        "unique_id": "MrLqQCHjdB86fJCQJjJKw",
+        "name": "Cloaked",
+        "description": "Equip this face-down.",
+        "description_plain": "Equip this face-down."
+    },
+    {
         "unique_id": "H6nNm6Nndrp8qTGFJL7GB",
         "name": "Combo",
         "description": "A Ninja mechanic that showcases the power of playing multiple attacks in a perfect sequence. **Combo** cares about the last (most recent previous) attack that was played in the combat chain.",
