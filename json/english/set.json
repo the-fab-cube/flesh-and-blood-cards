@@ -25,8 +25,8 @@
             {
                 "unique_id": "q77LRn8kGwH9TM76kFWNp",
                 "edition": "N",
-                "start_card_id": "AKO004",
-                "end_card_id": "AKO024",
+                "start_card_id": "AKO001",
+                "end_card_id": "AKO028",
                 "initial_release_date": "2024-05-03T00:00:00.000Z",
                 "out_of_print_date": null,
                 "product_page": "https://fabtcg.com/products/booster-set/armory-deck-kayo/",
@@ -79,6 +79,24 @@
                 "product_page": "https://fabtcg.com/products/booster-set/arcane-rising-unlimited/",
                 "collectors_center": "https://fabtcg.com/collectors-centre/arcane-rising/",
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/arcane-rising-unlimited-booster/"
+            }
+        ]
+    },
+    {
+        "unique_id": "gmPW6zdL8Fkcd7T6Fghdb",
+        "id": "ASB",
+        "name": "Armory Deck Boltyn",
+        "printings": [
+            {
+                "unique_id": "hcwhwT87GNGLw8dzpzKWn",
+                "edition": "N",
+                "start_card_id": "ASB006",
+                "end_card_id": "ASB025",
+                "initial_release_date": "2024-07-12T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/armory-deck-boltyn/",
+                "collectors_center": null,
+                "card_gallery": null
             }
         ]
     },

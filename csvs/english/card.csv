@@ -367,9 +367,9 @@ jPfMCnKDptNbCbp6T96dT	Barbed Castaway							Ranger, Weapon, Bow, 2H	Once per Tur
 
 **Once per Turn Instant** - {r}: You may turn a face down arrow in your arsenal face up. If you do, put an aim counter on it."	Ranger Weapon - Bow (2H)					
 jNbd7cDQccq8zTwgTT8Rb	Barbed Undertow	1	1	5	3			Ranger, Action, Arrow, Attack							"If Barbed Undertow has an aim counter, it gains ""When this hits a hero, choose red, yellow, or blue. Until the start of your next turn, they can't pitch cards of the chosen color."""	Ranger Action - Arrow Attack				No	
-WDqWgDfRpTjWdMdTMM666	Bare Fangs	1	2	6				Brute, Action, Attack							When you attack with Bare Fangs, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.	Brute Action - Attack					
-zznJbCwttpMHdRkQHccHp	Bare Fangs	2	2	5				Brute, Action, Attack							When you attack with Bare Fangs, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.	Brute Action - Attack					
-g7DBTGtKGzCtWWfLKdFcr	Bare Fangs	3	2	4				Brute, Action, Attack							When you attack with Bare Fangs, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.	Brute Action - Attack					
+WDqWgDfRpTjWdMdTMM666	Bare Fangs	1	2	6				Brute, Action, Attack							When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.	Brute Action - Attack					
+zznJbCwttpMHdRkQHccHp	Bare Fangs	2	2	5				Brute, Action, Attack							When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.	Brute Action - Attack					
+g7DBTGtKGzCtWWfLKdFcr	Bare Fangs	3	2	4				Brute, Action, Attack							When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.	Brute Action - Attack					
 dLhBfHW9rQGrQHqRrcQqG	Barkbone Strapping				1			Brute, Equipment, Chest	Battleworn	Instant					"**Instant** - Destroy Barkbone Strapping: Roll a 6 die. Gain {r} equal to half the number rolled, rounded down.
 
 **Battleworn**"	Brute Equipment - Chest					
@@ -453,7 +453,7 @@ GCQjzHBLkpLKfW89ckp7q	Beast Mode	1	3	6	3			Brute, Action, Attack						Intimidate
 qChkdKF86TQpR6ctdDhRw	Beast Mode	2	3	5	3			Brute, Action, Attack						Intimidate	If you've **intimidated** this turn, this gets +2{p}.	Brute Action - Attack				No	
 Gtz9rhLqmgQNLCBWWrhn6	Beast Mode	3	3	4	3			Brute, Action, Attack						Intimidate	If you've **intimidated** this turn, this gets +2{p}.	Brute Action - Attack				No	
 dHNcBPjwggj8GdFnqbkrD	Beast Within	2	3	6	3			Brute, Action, Attack							If Beast Within is put into a graveyard from anywhere other than the combat chain, banish the top card of your deck and lose 1{h}. If it has 6 or more {p}, put it into your hand, otherwise, repeat this process.	Brute Action - Attack				No	
-zCWhR7jRCmH7D7fKDGKcF	Beaten Trackers				1			Brute, Equipment, Legs	Battleworn						"Whenever you discard a random card with 6 or more {p}, you may destroy Beaten Trackers. If you do, gain 1 action point.
+zCWhR7jRCmH7D7fKDGKcF	Beaten Trackers				1			Brute, Equipment, Legs	Battleworn						"Whenever you discard a random card with 6 or more {p}, you may destroy this. If you do, gain 1 action point.
 
 **Battleworn**"	Brute Equipment - Legs					
 k7CQWQNw7LjqTcGB8gDTq	Beckon Applause				0			Warrior, Equipment, Arms	Temper						"If you control an Agility token, this gets +1{d}.
@@ -3070,6 +3070,9 @@ j8jNwqCDtMqHPbCrnLcbf	Heron's Flight	1	0	3	3			Ninja, Action, Attack	Combo						
 zCRpPtm9BTfzBJFNkdpNw	Hexagore, the Death Hydra			6				Shadow, Brute, Weapon, Flail, 2H		Once per Turn Action	Attack			Blood Debt	"**Once per Turn Action** - {r}{r}: **Attack**
 
 Whenever you attack with Hexagore, it deals damage to you equal to 6 minus the number of cards with **blood debt** in your banished zone."	Shadow Brute Weapon - Flail (2H)				No	
+7MNrGmWN7jTtR99LrWNm7	Hide Tanner				1			Brute, Equipment, Arms	Battleworn						"When you discard a random card with 6 or more {p}, you may destroy this. If you do, create 2 Might tokens.
+
+**Battleworn**"	Brute Equipment - Arms				No	
 BF7rFRwnNckBK8cMGpKHH	High Octane	1	1		3			Mechanologist, Action	Go again						"Whenever you **boost** a card this turn, gain 1 action point.
 
 Draw a card.
@@ -3178,9 +3181,9 @@ The next attack action card you play this turn gains +1{p}.
 **Go again**
 
 **Blood Debt**"	Shadow Action				No	
-Ck8jCNWQmgKkcmD98bdjG	Humble	1	2	6	2			Generic, Action, Attack							When this hits a hero, that hero loses all abilities until the end of their next turn.	Generic Action - Attack				No	
-RJn7qQFgkNz6qR9rwntCc	Humble	2	2	5	2			Generic, Action, Attack							When this hits a hero, that hero loses all abilities until the end of their next turn.	Generic Action - Attack				No	
-JnQ8mtr69DWrhqmrWkJ8z	Humble	3	2	4	2			Generic, Action, Attack							When this hits a hero, that hero loses all abilities until the end of their next turn.	Generic Action - Attack				No	
+Ck8jCNWQmgKkcmD98bdjG	Humble	1	2	6	2			Generic, Action, Attack							When this hits a hero, they lose all hero card abilities until the end of their next turn.	Generic Action - Attack				No	
+RJn7qQFgkNz6qR9rwntCc	Humble	2	2	5	2			Generic, Action, Attack							When this hits a hero, they lose all hero card abilities until the end of their next turn.	Generic Action - Attack				No	
+JnQ8mtr69DWrhqmrWkJ8z	Humble	3	2	4	2			Generic, Action, Attack							When this hits a hero, they lose all hero card abilities until the end of their next turn.	Generic Action - Attack				No	
 mgrmPqRmdHfMbptFfDcbC	Hummingbird, Call of Adventure							Bard, Weapon, Lute, 2H							"At the start of your turn, choose 1;
 - Each hero creates a Quicken token.
 - Each hero draws a card.
@@ -4733,15 +4736,15 @@ You may choose a card revealed this way. If you do, that hero puts it on the bot
 cBbDbtL7FMKjqwNQpkWQ6	Pry	3	0		3			Wizard, Action							"Target hero reveals a card from their hand. If Pry is played during an opponents turn, instead they reveal all cards in their hand.
 
 You may choose a card revealed this way. If you do, that hero puts it on the bottom of their deck then draws a card."	Wizard Action					
-Hpdjj6RbkDfKMmNqQmwTR	Pulping	1	2	6				Brute, Action, Attack	Dominate, Go again						"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**.
+Hpdjj6RbkDfKMmNqQmwTR	Pulping	1	2	6				Brute, Action, Attack	Dominate, Go again						"When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **dominate**.
 
-While Pulping is defended by less than 2 non-equipment cards, it has **go again**."	Brute Action - Attack				No	
-KpDFLFJMK7zK8PC7gr6nJ	Pulping	2	2	5				Brute, Action, Attack	Dominate, Go again						"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**.
+If this is defended by fewer than 2 non-equipment cards, it gets **go again**."	Brute Action - Attack				No	
+KpDFLFJMK7zK8PC7gr6nJ	Pulping	2	2	5				Brute, Action, Attack	Dominate, Go again						"When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **dominate**.
 
-While Pulping is defended by less than 2 non-equipment cards, it has **go again**."	Brute Action - Attack				No	
-qmgKfChbmD6w66dbDz7K6	Pulping	3	2	4				Brute, Action, Attack	Dominate, Go again						"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**.
+If this is defended by fewer than 2 non-equipment cards, it gets **go again**."	Brute Action - Attack				No	
+qmgKfChbmD6w66dbDz7K6	Pulping	3	2	4				Brute, Action, Attack	Dominate, Go again						"When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **dominate**.
 
-While Pulping is defended by less than 2 non-equipment cards, it has **go again**."	Brute Action - Attack				No	
+If this is defended by fewer than 2 non-equipment cards, it gets **go again**."	Brute Action - Attack				No	
 LChfNqqwjw9Njbdntwcz7	Pulse of Candlehold	2	0		3			Earth, Lightning, Action	Legendary, Go again						"**Legendary**
 
 Put up to 2 target Earth, Lightning and/or Elemental action cards from your graveyard on top of your deck. Banish Pulse of Candlehold.
@@ -5063,9 +5066,9 @@ Regicide can't be defended by cards with the same name as cards in the defending
 J9LLjWpb6hwCtGPgdrg9h	Regurgitating Slog	1	2	6	2			Generic, Action, Attack	Dominate						As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.	Generic Action - Attack					
 W7kjMQq9pJGQrBDPhhbgT	Regurgitating Slog	2	2	5	2			Generic, Action, Attack	Dominate						As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.	Generic Action - Attack					
 br9CQqckKLHbJmqnrLnfR	Regurgitating Slog	3	2	4	2			Generic, Action, Attack	Dominate						As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.	Generic Action - Attack					
-96KF7bgGdkjfMm9zRfLKj	Reincarnate	1	3	7	3			Brute, Action, Attack							When Reincarnate is discarded at random, put it on the bottom of your deck.	Brute Action - Attack				No	
-Qww77MgHTjLnBWCJ7NTDp	Reincarnate	2	3	6	3			Brute, Action, Attack							When Reincarnate is discarded at random, put it on the bottom of your deck.	Brute Action - Attack				No	
-DPDqwkWf9krhLLDWpmDwD	Reincarnate	3	3	5	3			Brute, Action, Attack							When Reincarnate is discarded at random, put it on the bottom of your deck.	Brute Action - Attack				No	
+96KF7bgGdkjfMm9zRfLKj	Reincarnate	1	3	7	3			Brute, Action, Attack							When this is discarded at random, put it on the bottom of its owner's deck.	Brute Action - Attack				No	
+Qww77MgHTjLnBWCJ7NTDp	Reincarnate	2	3	6	3			Brute, Action, Attack							When this is discarded at random, put it on the bottom of its owner's deck.	Brute Action - Attack				No	
+DPDqwkWf9krhLLDWpmDwD	Reincarnate	3	3	5	3			Brute, Action, Attack							When this is discarded at random, put it on the bottom of its owner's deck.	Brute Action - Attack				No	
 GjBwbt7gjn8pNKHWMTmGm	Reinforce Steel	1	2		3			Guardian, Action							Remove a -1{d} counter from a Guardian off-hand you control with 3 or less base {d}.	Guardian Action					
 Fdn6HgNgF9gtLhHGckWKp	Reinforce Steel	2	2		3			Guardian, Action							Remove a -1{d} counter from a Guardian off-hand you control with 2 or less base {d}.	Guardian Action					
 gG7HktC9HdknC8z8pMGjw	Reinforce Steel	3	2		3			Guardian, Action							Remove a -1{d} counter from a Guardian off-hand you control with 1 or less base {d}.	Guardian Action					
@@ -5187,9 +5190,9 @@ fbKhDHT7dDzFfh7cpBjkJ	Rifting	1	2	6	2			Generic, Action, Attack							If Rifting
 ngDCfBTHCC9RGG6mQFcQp	Rifting	2	2	5	2			Generic, Action, Attack							If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.	Generic Action - Attack					
 jNHCpjQbFbfjnj8KD9rjg	Rifting	3	2	4	2			Generic, Action, Attack							If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.	Generic Action - Attack					
 WjTbCjjCgPncF9w7WH9Q8	Righteous Cleansing	2	7	10	3			Guardian, Action, Attack	Crush						**Crush** - If Righteous Cleansing deals 4 or more damage to a hero, look at the top 5 cards of their deck. Banish 1 or more cards with the same name from among them, then put the rest on top of their deck in any order.	Guardian Action - Attack				No	
-FDktk7t9NkNdLDQQhCPBR	Riled Up	1	3	7	3			Brute, Action, Attack							If you have discarded a card with 6 or more {p} this turn, Riled Up gains +1{p}.	Brute Action - Attack					
-B9HmMb6jB9M8kWFLH86fT	Riled Up	2	3	6	3			Brute, Action, Attack							If you have discarded a card with 6 or more {p} this turn, Riled Up gains +1{p}.	Brute Action - Attack					
-gnjKkBhQtpnDgQ6Q6KD9G	Riled Up	3	3	5	3			Brute, Action, Attack							If you have discarded a card with 6 or more {p} this turn, Riled Up gains +1{p}.	Brute Action - Attack					
+FDktk7t9NkNdLDQQhCPBR	Riled Up	1	3	7	3			Brute, Action, Attack							If you've discarded a card with 6 or more {p} this turn, this gets +1{p}.	Brute Action - Attack					
+B9HmMb6jB9M8kWFLH86fT	Riled Up	2	3	6	3			Brute, Action, Attack							If you've discarded a card with 6 or more {p} this turn, this gets +1{p}.	Brute Action - Attack					
+gnjKkBhQtpnDgQ6Q6KD9G	Riled Up	3	3	5	3			Brute, Action, Attack							If you've discarded a card with 6 or more {p} this turn, this gets +1{p}.	Brute Action - Attack					
 9dRcPdjTTpWLNzbfhJwqB	Rip Through Reality	1	2	4	3			Shadow, Runeblade, Action, Attack	Go again, Blood Debt						"You may play Rip Through Reality from your banished zone.
 
 If you have dealt arcane damage to an opposing hero this turn, Rip Through Reality gains **go again**.
@@ -5494,11 +5497,11 @@ pGWLw8bBqKqTQHnrhg6b6	Sap	3	0		3			Wizard, Action	Surge						"Deal 1 arcane dama
 
 **Surge** - If this deals more than 1 damage to a hero, you may remove an energy counter from a permanent they control."	Wizard Action					
 9BqdPQckmdgcfzwtjw7BP	Sash of Sandikai				0			Draconic, Equipment, Chest		Instant					**Instant** - Destroy Sash of Sandikai: Gain {r}. Activate this ability only if you've played a red card this turn.	Draconic Equipment - Chest					
-7mdh968cg9r9JB7dfzcFW	Savage Beatdown	1	3	6	3			Brute, Action, Attack							"Play Savage Beatdown only if you've discarded a card with 6 or more {p} this turn.
+7mdh968cg9r9JB7dfzcFW	Savage Beatdown	1	3	6	3			Brute, Action, Attack							"Play this only if you've discarded a card with 6 or more {p} this turn.
 
-As an additional cost to play Savage Beatdown, discard a random card.
+As an additional cost to play this, discard a random card.
 
-If the discarded card has 6 or more {p}, Savage Beatdown has +6{p}."	Brute Action - Attack				No	
+If the discarded card has 6 or more {p}, this gets +6{p}."	Brute Action - Attack				No	
 mFdkTGPQDnWjLB9Tgmdmm	Savage Feast	1	1	6	3			Brute, Action, Attack							"As an additional cost to play Savage Feast discard a random card.
 
 When you attack with Savage Feast, if a card with 6 or more {p} was discarded as an additional cost to play it, draw a card."	Brute Action - Attack				No	
@@ -5514,6 +5517,9 @@ WPkcWHhWGzFKcNWQFM7hf	Savage Sash				2			Brute, Equipment, Chest		Action	Go agai
 N8DMCFHgLPLrn9wQhhTjC	Savage Swing	1	1	7	3			Brute, Action, Attack							As an additional cost to play Savage Swing, discard a random card.	Brute Action - Attack					
 cKRWnQCGq8f8dGKT7G8pF	Savage Swing	2	1	6	3			Brute, Action, Attack							As an additional cost to play Savage Swing, discard a random card.	Brute Action - Attack					
 7zdfJDbhwjMnMNqkDJ9Qb	Savage Swing	3	1	5	3			Brute, Action, Attack							As an additional cost to play Savage Swing, discard a random card.	Brute Action - Attack					
+WKb8wmGL6MRRzwLnzqLBj	Saving Grace	2	0		3			Light, Warrior, Defense Reaction	Charge					Charge	"As an additional cost to play this, you may **charge** your hero's soul.
+
+If you've **charged** this turn, target attack gets -2{p}."	Light Warrior Defense Reaction				No	
 nkCCKCB8ftPdMCHHWHWtk	Scabskin Leathers				2			Brute, Equipment, Legs	Battleworn	Once per turn Action					"**Once per turn Action** - 0: Roll a 6 sided die. Gain action points equal to half the number rolled, rounded down.
 
 **Battleworn**"	Brute Equipment - Legs				No	
@@ -6021,9 +6027,9 @@ PhTkFwKHqwmWW8NjCbKHG	Sloggism	3	3		2			Generic, Action	Go again						"The next 
 
 **Go again**"	Generic Action					
 bbLpjmWJ6cpDGhhgmCBTR	Smack of Reality	1	5	9	3			Guardian, Action, Attack	Tower						"**Tower** - If this has 13 or more {p}, it gets ""When this hits a hero, destroy all aura tokens they control."""	Guardian Action - Attack				No	
-WNp6DbGwLqPchCNDmGq66	Smash Instinct	1	3	7	3			Brute, Action, Attack	Intimidate						When you attack with Smash Instinct, **intimidate**.	Brute Action - Attack					
-GH9kGJN7nDbcD9GRbwPNH	Smash Instinct	2	3	6	3			Brute, Action, Attack	Intimidate						When you attack with Smash Instinct, **intimidate**.	Brute Action - Attack					
-BDBWNGBLdhNLcKLQ6dcdw	Smash Instinct	3	3	5	3			Brute, Action, Attack	Intimidate						When you attack with Smash Instinct, **intimidate**.	Brute Action - Attack					
+WNp6DbGwLqPchCNDmGq66	Smash Instinct	1	3	7	3			Brute, Action, Attack	Intimidate						When this attacks, **intimidate**.	Brute Action - Attack					
+GH9kGJN7nDbcD9GRbwPNH	Smash Instinct	2	3	6	3			Brute, Action, Attack	Intimidate						When this attacks, **intimidate**.	Brute Action - Attack					
+BDBWNGBLdhNLcKLQ6dcdw	Smash Instinct	3	3	5	3			Brute, Action, Attack	Intimidate						When this attacks, **intimidate**.	Brute Action - Attack					
 jrRgGDGgCCbTG8gkfgJjb	Smash and Grab	1	3	5	3			Mechanologist, Action, Attack						Boost	"If you've **boosted** 2 or more times this turn, this gets +2{p} and ""When this hits a hero, gain control of an item they control."""	Mechanologist Action - Attack				No	
 8qztqjgD9PcLm6kqFTngM	Smash with Big Tree	1	2	7				Brute, Action, Attack								Brute Action - Attack					
 nTrqQhGFhgg6HJGBWgjmq	Smash with Big Tree	2	2	6				Brute, Action, Attack								Brute Action - Attack					
@@ -7293,6 +7299,9 @@ fgtdwK9LKpQLht8bnpG6L	Warmonger's Recital	2	1		2			Generic, Action	Go again					
 qBfKKnkJT8hhtwHqnHfpG	Warmonger's Recital	3	1		2			Generic, Action	Go again						"The next attack action card you play this turn gains +1{p} and ""When this hits, put it on the bottom of its owner's deck.""
 
 **Go again**"	Generic Action					
+rdKrHRBf66GR7WdzL8dpN	Warpath of Winged Grace				2			Light, Warrior, Equipment, Legs	Charge, Blade Break						"When this defends, you may **charge** your hero's soul. If a yellow card is **charged** this way, create a Quicken token.
+
+**Blade Break**"	Light Warrior Equipment - Legs				No	
 rMhFpgrgBCtQdqrrcpHNh	Warrior's Valor	1	1		3			Warrior, Action	Go again			Go again			"Your next weapon attack this turn gains +3{p} and ""If this hits, the attack gains **go again**.""
 
 **Go again**"	Warrior Action				No	
@@ -7411,9 +7420,9 @@ If Widowmaker is defended by fewer than 2 cards, it has +3{p}."	Ranger Action - 
 6Ncbh6FMrcwkH7DmjJMwj	Widowmaker	3	1	2	3			Ranger, Action, Arrow, Attack							"Defense reactions can't be played to Widowmaker's chain link.
 
 If Widowmaker is defended by fewer than 2 cards, it has +3{p}."	Ranger Action - Arrow Attack					
-TKR9cWhRJgWjgjjL7kWmf	Wild Ride	1	2	6				Brute, Action, Attack	Go again						When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack					
-bPtqgMTnhqqJcHF7BJJWw	Wild Ride	2	2	5				Brute, Action, Attack	Go again						When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack					
-fwHfwDjtckfDmGQQQrKLw	Wild Ride	3	2	4				Brute, Action, Attack	Go again						When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack					
+TKR9cWhRJgWjgjjL7kWmf	Wild Ride	1	2	6				Brute, Action, Attack	Go again						When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **go again**.	Brute Action - Attack					
+bPtqgMTnhqqJcHF7BJJWw	Wild Ride	2	2	5				Brute, Action, Attack	Go again						When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **go again**.	Brute Action - Attack					
+fwHfwDjtckfDmGQQQrKLw	Wild Ride	3	2	4				Brute, Action, Attack	Go again						When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **go again**.	Brute Action - Attack					
 KRLHmjMcJTWNdrHrHqbkt	Wind Chakra	1	0		3			Mystic, Ninja, Action	Go again					Transcend	"The next Crouching Tiger you play this turn gets +3{p}. If you've **transcended** this turn, instead it gets +5{p}.
 
 **Go again**"	Mystic Ninja Action					
@@ -7460,13 +7469,13 @@ gFQQLWKpNnLW9TPg86kL7	Wounded Bull	3	3	5	2			Generic, Action, Attack							When 
 rLN8wNfkTtF9zBg8zwGzW	Wounding Blow	1	0	4	3			Generic, Action, Attack								Generic Action - Attack					
 Tb79JpdtgFJJwfFCGc9Dc	Wounding Blow	2	0	3	3			Generic, Action, Attack								Generic Action - Attack					
 nGQcDzcjQ8gw8HGzwCGnF	Wounding Blow	3	0	2	3			Generic, Action, Attack								Generic Action - Attack					
-JwTrbpHfNtCHmMnBmqrtb	Wreck Havoc	1	2	6	2			Generic, Action, Attack							"Defense reactions can't be played to Wreck Havoc's chain link.
+JwTrbpHfNtCHmMnBmqrtb	Wreck Havoc	1	2	6	2			Generic, Action, Attack							"Defense reactions can't be played to this chain link.
 
 When this hits a hero, you may turn a card in their arsenal face up, then destroy a defense reaction in their arsenal."	Generic Action - Attack				No	
-kJngGmGgbGgKLLJPJKQbg	Wreck Havoc	2	2	5	2			Generic, Action, Attack							"Defense reactions can't be played to Wreck Havoc's chain link.
+kJngGmGgbGgKLLJPJKQbg	Wreck Havoc	2	2	5	2			Generic, Action, Attack							"Defense reactions can't be played to this chain link.
 
 When this hits a hero, you may turn a card in their arsenal face up, then destroy a defense reaction in their arsenal."	Generic Action - Attack				No	
-D9TnG8PWbhKLR8Nc9N6K7	Wreck Havoc	3	2	4	2			Generic, Action, Attack							"Defense reactions can't be played to Wreck Havoc's chain link.
+D9TnG8PWbhKLR8Nc9N6K7	Wreck Havoc	3	2	4	2			Generic, Action, Attack							"Defense reactions can't be played to this chain link.
 
 When this hits a hero, you may turn a card in their arsenal face up, then destroy a defense reaction in their arsenal."	Generic Action - Attack				No	
 qfFQbdJPqGhjD99dLC6gD	Wrecker Romp	1	2	8	3			Brute, Action, Attack							As an additional cost to play this, discard a random card.	Brute Action - Attack					

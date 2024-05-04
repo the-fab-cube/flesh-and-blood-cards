@@ -642,6 +642,12 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed missing Wager keyword for Wage Agility (Red)
 - Fixed missing EA art variation for FAB088
 
+05-03-24:
+- Added card data for Hide Tanner, Saving Grace, and Warpath of Winged Grace
+- Added printing data for AKO001-AKO028
+- Added Printing data for ASB006 and ASB025
+- Updated functional text for Beaten Trackers, Bare Fangs, Humble, Pulping, Reincarnate, Savage Beatdown, and Wild Ride
+
 TODO:
 - Added card data for MST
 - Added printing data for FAB232-FAB234, FAB241, HER113-HER116, LGS263-LGS265, MST???-MST???, WIN033-WIN035
