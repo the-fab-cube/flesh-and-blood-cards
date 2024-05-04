@@ -1,6 +1,4 @@
 Front Card Printing Unique ID	Front Card Name	Front Card Printing	Back Card Printing Unique ID	Back Card Name	Back Card Printing	Is DFC
-pJTr9NdJrQftrMhzmtmPF	Fabric of Scales	LSS017 - N	fKzpjnqMzg8bKJ9DrWjmG	Snapdragon Scalers	LSS017 - N	Yes
-Q99HrDKt8kkp97hqFNMnj	Venomback Fabric	LSS018 - N	KHRfzdLTN7fBPQhqfCpq7	Scabskin Leathers	LSS018 - N	Yes
 QMtJWfnNCfFRmcKNWMWf6	Bloodrot Pox	ARA027 – N	PPmNz6gjrQzpMNjmmHtJN	Frailty	ARA028 – N	No
 PPmNz6gjrQzpMNjmmHtJN	Frailty	ARA028 – N	P9MJrhFJbhwFrnfggb9GT	Inertia	ARA029 – N	No
 P9MJrhFJbhwFrnfggb9GT	Inertia	ARA029 – N	QMtJWfnNCfFRmcKNWMWf6	Bloodrot Pox	ARA027 – N	No
@@ -123,6 +121,8 @@ bWbMNtBpwWQWdfrzR8W8H	Might	KYO028 - N	8th6WgKrHpHhdm9jRcHMc	Vigor	KYO029 - N	No
 wmhk6pzP9hh9HzfWpbHjg	Might	LGS230 - N	dntLnwMMJtBdhzLrqMFmL	Vigor	LGS230 - N	No
 W9wh9JzqwjFT6prMhjqNp	Fabric of Blossoms	LSS010 - N	JfjqPNnNBCWwLWjNHQGWb	Blossom of Spring	LSS010 - N	Yes
 cCDK8KWzHWNMBfTQJ8R88	Fabric of Spring	LSS011 - N	BPdfCzDNJchD7ntDnWtKt	Fyendal's Spring Tunic	LSS011 - N	Yes
+pJTr9NdJrQftrMhzmtmPF	Fabric of Scales	LSS017 - N	fKzpjnqMzg8bKJ9DrWjmG	Snapdragon Scalers	LSS017 - N	Yes
+Q99HrDKt8kkp97hqFNMnj	Venomback Fabric	LSS018 - N	KHRfzdLTN7fBPQhqfCpq7	Scabskin Leathers	LSS018 - N	Yes
 z8wHgc7wCGRC8pNDMrPc7	Frostbite	LXI030 – N	z8wHgc7wCGRC8pNDMrPc7	Frostbite	LXI030 – N	No
 BpjDthwCBKTtL7fFzBH6G	Prism, Sculptor of Arc Light	MON001 – F	pbRFQCzPPgmDbtwHrhN7W	Prism	MON002 – F	No
 rnwkKdmQwMkKDRpKW9K6L	Prism, Sculptor of Arc Light	MON001 – U	rRBFBkDTRDMMFD88Q6NQJ	Prism	MON002 – U	No
@@ -160,15 +160,32 @@ kKNhkFNRm8Dh8gpBh9Rb9	Blasmophet, the Soul Harvester	MON219 – F	w8F6mq6MMMJhQK
 9cztD9Bfmp96dNKdnKmL8	Blasmophet, the Soul Harvester	MON219 – U	6wPnTkq9ccp8hGMJg8bmG	 Ursur, the Soul Reaper	MON220 – U	No
 QtMtcMzmcmbDpMJqcQLtW	Nuu, Alluring Desire	MST001 - N (Marvel CF Front)	BHB6kDbKwfzfftfqdKzzp	Nuu, Alluring Desire	MST001 - N (Marvel CF Back)	No
 bzQMtMWghHNtBkgFBF9FH	Nuu	MST002 - N (Marvel CF Front)	Cdz8WHTFppFDDcDdDBMjG	Nuu	MST002 - N (Marvel CF Back)	No
+BPpLnPrmGjfcf8k9pMJpW	Sacred Art: Undercurrent Desires	MST010 - N	FgdHdCPrb8KTdPPJwMR9B	Inner Chi	MST010 - N	Yes
 hLLpGTBhhRDhFFBGnHFMj	Sacred Art: Undercurrent Desires	MST010 - N (Marvel CF Front)	N7CCptkRTNcpq7cWbF7pm	Inner Chi	MST010 - N (Marvel CF Back)	Yes
 HPKKdcJLbBRrpcKQt69gD	Enigma, Ledger of Ancestry	MST025 - N (Marvel CF Front)	7FdrTtrWTWMFmdN9ctRJW	Enigma, Ledger of Ancestry	MST025 - N (Marvel CF Back)	No
 mJmr7NJztJF8DTkBcwk6G	Enigma	MST026 - N (Marvel CF Front)	GKJwtCqFRphhntQH6QJpD	Enigma	MST026 - N (Marvel CF Back)	No
+pJcjMrkJzDPdn9qg8MRwz	Sacred Art: Immortal Lunar Shrine	MST032 - N	7z8ddMHFpWrDrRPfQDbtj	Inner Chi	MST032 - N	Yes
 qhBj6crT6gWLQfJPrr877	Sacred Art: Immortal Lunar Shrine	MST032 - N (Marvel CF Front)	RPHwGnbjw8HzQmJpnQmHM	Inner Chi	MST032 - N (Marvel CF Back)	Yes
 hdkCcB8pR7mCDNTfmknGJ	Zen, Tamer of Purpose	MST046 - N (Marvel CF Front)	tQPKCjzwfPr7HMNtRWgCH	Zen, Tamer of Purpose	MST046 - N (Marvel CF Back)	No
 WFTBhBkPphNj8bHcrf9dJ	Zen	MST047 - N (Marvel CF Front)	FnKTPhfPRMzttpRqzKLmH	Zen	MST047 - N (Marvel CF Back)	No
+GmNwzhWzg68dRjhqwKwCh	Sacred Art: Jade Tiger Domain	MST053 - N	m7rhWCgWdB6MRz7jdjntR	Inner Chi	MST053 - N	Yes
 MdzRKDj9nML69H7LzF8MQ	Sacred Art: Jade Tiger Domain	MST053 - N (Marvel CF Front)	k8KKKzmhMLdrWwdJfRgjT	Inner Chi	MST053 - N (Marvel CF Back)	Yes
+LdPNhcjLDj6qFqzcwHFNt	A Drop in the Ocean	MST095 - N	qkd8FDT9cWDdmJgHF8gK8	Inner Chi	MST095 - N	Yes
+gggdmMtD6hfm6WrjzQtDK	A Drop in the Ocean	MST095 - N (Marvel CF Back)	gg7zmptW8jdNrnWbJzt7F	Inner Chi	MST095 - N (Marvel CF Back)	Yes
+tBchTdc8dpwbfmHPcLrbM	Homage to Ancestors	MST096 - N	wRBTwcfPjrKRQqgnNwWKm	Inner Chi	MST096 - N	Yes
+tztrbt6frhjTdWfKFNkhD	Homage to Ancestors	MST096 - N (Marvel CF Back)	9rKWLhMFCChGGwTwRQdjm	Inner Chi	MST096 - N (Marvel CF Back)	Yes
+hWmmTpgKwzdbWnPntfHjt	Pass Over	MST097 - N	TFppqL6CjGMmgrgTBCPPd	Inner Chi	MST097 - N	Yes
+MgFttGFCzfJbhr8PHGpRP	Pass Over	MST097 - N (Marvel CF Back)	6Ghc6KrDfDR6tTfcdDtgD	Inner Chi	MST097 - N (Marvel CF Back)	Yes
+rzJgGHKTLPtHL8BTMTFJc	Path Well Traveled	MST098 - N	KkRjtNCRzqb9gkhHnCqPf	Inner Chi	MST098 - N	Yes
+Mcd9MQjrWzKFCpdJtMgtr	Path Well Traveled	MST098 - N (Marvel CF Back)	wnkqHNqzCQcbQwrNHRcC7	Inner Chi	MST098 - N (Marvel CF Back)	Yes
 CntrPwtQJn9Kwqzt9qbhp	Preserve Tradition	MST099 - N	k8kwLQPbt9G9mCrbTLjdp	Inner Chi	MST099 - N	Yes
 gLTJrdmGWRFWqdhJTgmkQ	Preserve Tradition	MST099 - N (Marvel CF Front)	98NpGLRrgLNJgkChwprCm	Inner Chi	MST099 - N (Marvel CF Back)	Yes
+pnGzgtWNBnHBjz9pcgHqC	Rising Sun, Setting Moon	MST100 - N	bBbN8NfKDnzcMwmK9DzRp	Inner Chi	MST100 - N	Yes
+qqWFqdFB8cQLRDBDGfLQH	Rising Sun, Setting Moon	MST100 - N (Marvel CF Back)	BMpzrM7rcgjH7PBCMp8tD	Inner Chi	MST100 - N (Marvel CF Back)	Yes
+JJjQW8MNtTDTjgznzCQzr	Stir the Pot	MST101 - N	nTKtpQMqpQqzMwFhjT9TC	Inner Chi	MST101 - N	Yes
+7QtPtjP6pbQNqM77TJd6k	Stir the Pot	MST101 - N (Marvel CF Back)	cWCrtj9qPJT8BzTdGMLqP	Inner Chi	MST101 - N (Marvel CF Back)	Yes
+tWRJnWk6fwNz8GrwGrnzM	The Grain that Tips the Scale	MST102 - N	dCrJP7DCmmb6LBrffwjrH	Inner Chi	MST102 - N	Yes
+8bRD7RLGTqbnFRG6N9PHg	The Grain that Tips the Scale	MST102 - N (Marvel CF Back)	PkjnLCNP8N76NhDpkqrmM	Inner Chi	MST102 - N (Marvel CF Back)	Yes
 LbwhWmHwwcJLrDTwFKqRz	Agility	OLA028 - N	WnCGWGD7hp6LHpTwKbd6P	Gold	OLA030 - N	No
 bNQQhnQnPDTKBfrqcmt9C	Vigor	OLA029 - N	WnCGWGD7hp6LHpTwKbd6P	Gold	OLA030 - N	No
 TkRdKzGznrk9FGqh6CDqt	Frostbite	OLD031 – N	TkRdKzGznrk9FGqh6CDqt	Frostbite	OLD031 – N	No
