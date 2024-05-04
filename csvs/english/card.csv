@@ -1,36 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-NbbDrzwLMP7CH69PHcWfK	Aqua Seeing Shell				1			Mystic, Equipment, Head	Cloaked, Instant						"**Cloaked**
-
-**Instant** - {r}{r}{r}, turn this face-up: Draw a card.
-
-At the start of your turn, destroy this."	Mystic Equipment - Head					
-mccHtdK6wgfhL6g98CKMT	Koi Blessed Kimono							Mystic, Equipment, Chest	Cloaked						"**Cloaked**
-
-While this is equipped face-down, at the start of your turn, if you have exactly 1{h}, you may turn this face-up.
-
-When this is turned face-up, destroy it. Search your deck for an Inner Chi, reveal it, put it into your hand, then shuffle."	Mystic Equipment - Chest					
-zmtr9qmT89RLcGDGLRgLM	Waves of Aqua Marine				1			Mystic, Equipment, Arms	Cloaked, Attack Reaction						"**Cloaked**
-
-**Attack Reaction** - {r}, turn this face-up: Target attack gets +1{p}.
-
-At the start of your turn, destroy this."	Mystic Equipment - Arms					
-gJg89dTHTbjhQPnnfkMpP	Aqua Laps				1			Mystic, Equipment, Legs	Cloaked, Attack Reaction						"**Cloaked**
-
-**Attack Reaction** - {r}, turn this face up: Target attack gets **go again**.
-
-At the start of your turn, destroy this."	Mystic Equipment - Legs					
-pfbmHDDCBzPj7kPKLHtJj	Skycrest Keikoi							Mystic, Equipment, Head	Cloaked, Instant						"**Cloaked**
-
-**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this ability only while this is face-down."	Mystic Equipment - Head					
-rLzdPNHmqwPfmRFLhWM8R	Skybody Keikoi							Mystic, Equipment, Chest	Cloaked, Instant						"**Cloaked**
-
-**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this ability only while this is face-down."	Mystic Equipment - Chest					
-LhPHmJ9Wmq6R6RDjDGtwC	Skyhold Keikoi							Mystic, Equipment, Arms	Cloaked, Instant						"**Cloaked**
-
-**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this ability only while this is face-down."	Mystic Equipment - Arms					
-Rn7bzNz8BdmwrcTBkMHM6	Skywalker Keikoi							Mystic, Equipment, Legs	Cloaked, Instant						"**Cloaked**
-
-**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this ability only while this is face-down."	Mystic Equipment - Legs					
 CqNB8MLzfCh6tRP6RRMdj	A Drop in the Ocean	3	0					Mystic, Instant	Legendary, Transcend						"**Legendary**
 
 Target attack gets -1{p}.
@@ -233,6 +201,16 @@ QTpCnrrjTbQhdRdLBzLzB	Apex Bonebreaker				2			Brute, Equipment, Arms	Temper					
 mHnppNNqw9hMncFgCJdCB	Apocalypse Automaton	1	3	6	3			Mechanologist, Action, Attack	Evo Upgrade						"Play this only if you have 1 or more Evos equipped.
 
 **Evo Upgrade** - This attacks up to X target opposing heroes, where X is the number of Evos you have equipped."	Mechanologist Action - Attack				No	
+gJg89dTHTbjhQPnnfkMpP	Aqua Laps				1			Mystic, Equipment, Legs	Cloaked	Attack Reaction					"**Cloaked**
+
+**Attack Reaction** - {r}, turn this face up: Target attack gets **go again**.
+
+At the start of your turn, destroy this."	Mystic Equipment - Legs					
+NbbDrzwLMP7CH69PHcWfK	Aqua Seeing Shell				1			Mystic, Equipment, Head	Cloaked	Instant					"**Cloaked**
+
+**Instant** - {r}{r}{r}, turn this face-up: Draw a card.
+
+At the start of your turn, destroy this."	Mystic Equipment - Head					
 9F7RHWjLgCDRqwMww99GN	Arakni					20	4	Assassin, Hero, Young							Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.	Assassin Hero - Young			No		
 CKtFCgnGdwMDBh7dzDqqz	Arakni, Huntsman					40	4	Assassin, Hero							Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.	Assassin Hero				No	
 jkwfjdcDbhRnDrPWDnwT9	Arakni, Solitary Confinement					19	4	Assassin, Hero, Young				Go again		Stealth	Your first attack with **stealth** each turn has **go again**.	Assassin Hero - Young			No		
@@ -3602,6 +3580,11 @@ WqDtDMqJhHBhHfdjTRRFb	Knucklehead				2			Brute, Equipment, Head	Kayo Specializat
 Action - Destroy this: Roll a 6-sided die. Until end of turn, your base {i} is the number rolled.
 
 **Temper**"	Brute Equipment - Head					
+mccHtdK6wgfhL6g98CKMT	Koi Blessed Kimono							Mystic, Equipment, Chest	Cloaked						"**Cloaked**
+
+While this is equipped face-down, at the start of your turn, if you have exactly 1{h}, you may turn this face-up.
+
+When this is turned face-up, destroy it. Search your deck for an Inner Chi, reveal it, put it into your hand, then shuffle."	Mystic Equipment - Chest					
 jbDgmHNWr6GGD6GqmBCTf	Korshem, Crossroad of Elements		1					Elemental, Action, Landmark	Legendary, Go again						"**Legendary**
 
 **Go again**
@@ -6013,9 +5996,21 @@ tH6dnJR9CTdw7mmzGJckd	Sky Fire Lanterns	2	0		2			Runeblade, Action	Go again					
 LhNtnmRzpc7mfbcgDcJk8	Sky Fire Lanterns	3	0		2			Runeblade, Action	Go again						"Reveal the top card of your deck. If it's blue, create a Runechant token.
 
 **Go again**"	Runeblade Action					
+rLzdPNHmqwPfmRFLhWM8R	Skybody Keikoi							Mystic, Equipment, Chest	Cloaked	Instant					"**Cloaked**
+
+**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this ability only while this is face-down."	Mystic Equipment - Chest					
 QtbWQ6Lr8QmMRJHnpkB9L	Skybound Shot	1	1	5	3			Ranger, Action, Arrow, Attack							If Skybound Shot has an aim counter, it has +1{p}.	Ranger Action - Arrow Attack					
 kwFthgt77zLzFDmBw7k6W	Skybound Shot	2	1	4	3			Ranger, Action, Arrow, Attack							If Skybound Shot has an aim counter, it has +1{p}.	Ranger Action - Arrow Attack					
 kDkpNHC97jqcRDTr9CcCj	Skybound Shot	3	1	3	3			Ranger, Action, Arrow, Attack							If Skybound Shot has an aim counter, it has +1{p}.	Ranger Action - Arrow Attack					
+pfbmHDDCBzPj7kPKLHtJj	Skycrest Keikoi							Mystic, Equipment, Head	Cloaked	Instant					"**Cloaked**
+
+**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this ability only while this is face-down."	Mystic Equipment - Head					
+LhPHmJ9Wmq6R6RDjDGtwC	Skyhold Keikoi							Mystic, Equipment, Arms	Cloaked	Instant					"**Cloaked**
+
+**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this ability only while this is face-down."	Mystic Equipment - Arms					
+Rn7bzNz8BdmwrcTBkMHM6	Skywalker Keikoi							Mystic, Equipment, Legs	Cloaked	Instant					"**Cloaked**
+
+**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this ability only while this is face-down."	Mystic Equipment - Legs					
 6JWDWhqwDrdDPnGfqMQQR	Slap-Happy	1	0					Guardian, Warrior, Instant							The next time you would be dealt damage this turn, prevent 2 of that damage. If you do, create a Vigor token.	Guardian / Warrior Instant				No	
 cdMqrK6rMMDTjHCwBMcqn	Slay	1	0					Shadow, Instant							Destroy target angel ally.	Shadow Instant				No	
 cM7zthPFbLMJ6KQQmB6P9	Slay the Scholars	1	0	4	3			Assassin, Action, Attack	Contract						"**Contract** - You are contracted to banish opponents' 'non-attack' action cards. Whenever you complete this contract, create a Silver token.
@@ -7367,6 +7362,11 @@ bgpJPGPPtgB7BDckBpRdM	Water Glow Lanterns	2	0		2			Illusionist, Action	Go again	
 w9D7zGdNGdhHJKQ78DFNF	Wave of Reality							Illusionist, Equipment, Arms	Ward 1						"When Wave of Reality is destroyed, create a Spectral Shield token.
 
 **Ward 1**"	Illusionist Equipment - Arms					
+zmtr9qmT89RLcGDGLRgLM	Waves of Aqua Marine				1			Mystic, Equipment, Arms	Cloaked	Attack Reaction					"**Cloaked**
+
+**Attack Reaction** - {r}, turn this face-up: Target attack gets +1{p}.
+
+At the start of your turn, destroy this."	Mystic Equipment - Arms					
 RGqFf9CnkWKhjMgfrTbdz	Wax Off	3	0		2			Ninja, Defense Reaction							If you've played Wax On this turn, create a Zen State token.	Ninja Defense Reaction				No	
 HMktjwMDWRjcFTC8gMHGL	Wax On	1	0		3			Ninja, Defense Reaction							While Wax On is defending an attack action card with cost 0, it gains +2{d}.	Ninja Defense Reaction					
 TBHBqQQ8FjFLkNKbGRncf	Wax On	2	0		2			Ninja, Defense Reaction							While Wax On is defending an attack action card with cost 0, it gains +2{d}.	Ninja Defense Reaction					
