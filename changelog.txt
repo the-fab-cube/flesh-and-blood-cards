@@ -651,4 +651,4 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 TODO:
 - Added card data for MST
 - Added printing data for FAB232-FAB234, FAB241, HER113-HER116, LGS263-LGS265, MST???-MST???, WIN033-WIN035
-- Added Transcend keyword
+- Added Amp, Cloaked, Transcend keyword
