@@ -2938,6 +2938,9 @@ rbMGNnJJBHjnNMdRCWBhw	Gorganian Tome		0					Generic, Action	Legendary, Go again	
 Draw X cards, where X is 1 plus the number of Gorganian Tomes in all graveyards.
 
 **Go again**"	Generic Action				No	
+tFjCKTzpnNCbMGwgtMjFn	Gorgon's Gaze	2	2		3			Mystic, Assassin, Attack Reaction							"Create a Slither in your hand.
+
+Banish all defending attack action cards on the combat chain. If a Chi was pitched to play this, you may play the banished cards this combat chain without paying their {r} cost."	Mystic Assassin Attack Reaction				No	
 FhJWwcJKQjbQhHGRcNFTf	Grains of Bloodspill				2			Warrior, Equipment, Chest	Temper						"Whenever a weapon attack you control hits, you may pay {r}. If you do, create a Vigor token. 
 
 **Temper**"	Warrior Equipment - Chest				No	
@@ -6134,13 +6137,13 @@ Crtn9djMPnRdwjKnhWRpk	Singing Steelblade	2	1		3			Warrior, Attack Reaction	Dorin
 Target weapon attack gains +1{p}.
 
 **Reprise** - If the defending hero has defended with a card from hand this chain link, search your deck for an attack reaction card, banish it face up, then shuffle your deck. You may play it this chain link."	Warrior Attack Reaction				No	
-C8jqfdnRnWRfnnnFrMwFq	Single Minded Determination	1	2					Illusionist, Action, Aura	Ward 2						"When this enters the arena, if you control no other Illusionist auras, put three +1{p} counters on this.
+C8jqfdnRnWRfnnnFrMwFq	Single Minded Determination	1	2		3			Illusionist, Action, Aura	Ward 2						"When this enters the arena, if you control no other Illusionist auras, put three +1{p} counters on this.
 
 **Ward 2**"	Illusionist Action - Aura					
-7n6JMpGRwqrWnFrTb88c9	Single Minded Determination	2	2					Illusionist, Action, Aura	Ward 2						"When this enters the arena, if you control no other Illusionist auras, put two +1{p} counters on this.
+7n6JMpGRwqrWnFrTb88c9	Single Minded Determination	2	2		3			Illusionist, Action, Aura	Ward 2						"When this enters the arena, if you control no other Illusionist auras, put two +1{p} counters on this.
 
 **Ward 2**"	Illusionist Action - Aura					
-7t9Wg9qBgKrQ7WdMqFbdJ	Single Minded Determination	3	2					Illusionist, Action, Aura	Ward 2						"When this enters the arena, if you control no other Illusionist auras, put a +1{p} counter on this.
+7t9Wg9qBgKrQ7WdMqFbdJ	Single Minded Determination	3	2		3			Illusionist, Action, Aura	Ward 2						"When this enters the arena, if you control no other Illusionist auras, put a +1{p} counter on this.
 
 **Ward 2**"	Illusionist Action - Aura					
 67zdgKFWD7qzcPppbRHNB	Singularity	1	6		3			Mechanologist, Action, Construct	Transform, Legendary, Teklovossen Specialization						"**Legendary Teklovossen Specialization**
