@@ -812,6 +812,9 @@ fCNzFrbKLkdgtrnMdp7D8	Bolt'n' Shot	3	0	2	3			Ranger, Action, Arrow, Attack	Go ag
 Fmf8trg9w8B8BBbWrf8w9	Boltyn					20	4	Light, Warrior, Hero, Young		Attack Reaction		Go again		Charge	"If you've **charged** this turn, attacks you control have +1{p} while defended by an attack action card.
 
 **Attack Reaction** - Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains **go again**."	Light Warrior Hero - Young			No		
+wJtCpBD9Hd8TzNRghPzFM	Bonds of Agony	3	0	1	3			Assassin, Action, Attack	Stealth						"**Stealth**
+
+If you've played or activated 3 or more attack reactions this chain link, this gets +3{p} and ""When this hits a hero, look at their hand and choose a card. Search their hand, deck, and graveyard and banish up to 3 cards with the same name as the chosen card. They shuffle."""	Assassin Action - Attack				No	
 RMH9HdzcjCWdzLR7qwgbm	Bonds of Ancestry	1	2	4	3			Ninja, Action, Attack	Combo, Go again					Combo	"**Combo** - If a card with Gustwave in its name was the last attack this combat chain, this costs {r}{r} less to play, and has **go again** and ""When this attacks, you may banish a card with **combo** from your graveyard. If you do, search your deck for a card with the same name, banish it, then shuffle. You may play it this combat chain."""	Ninja Action - Attack				No	
 dPTR67DTztNrb8wdFHnGW	Bonds of Ancestry	2	2	3	3			Ninja, Action, Attack	Combo, Go again					Combo	"**Combo** - If a card with Gustwave in its name was the last attack this combat chain, this costs {r}{r} less to play, and has **go again** and ""When this attacks, you may banish a card with **combo** from your graveyard. If you do, search your deck for a card with the same name, banish it, then shuffle. You may play it this combat chain."""	Ninja Action - Attack				No	
 jrHMpbmnF6Hh97PffFzG8	Bonds of Ancestry	3	2	2	3			Ninja, Action, Attack	Combo, Go again					Combo	"**Combo** - If a card with Gustwave in its name was the last attack this combat chain, this costs {r}{r} less to play, and has **go again** and ""When this attacks, you may banish a card with **combo** from your graveyard. If you do, search your deck for a card with the same name, banish it, then shuffle. You may play it this combat chain."""	Ninja Action - Attack				No	
@@ -1161,6 +1164,7 @@ WfqwhCzMFNJrtQdBjn6WN	Charge of the Light Brigade	2	0		3			Light, Warrior, Actio
 T7LWwwbfhmJMhQrBLKc7F	Charge of the Light Brigade	3	0		3			Light, Warrior, Action	Go again					Charge	"The next attack you **charge** to play this turn gets +1{p}.
 
 **Go again**"	Light Warrior Action					
+WRGBnNRjPprcPjd67kBqM	Chase the Tail	1	1	4	3			Ninja, Action, Attack	Combo						**Combo** - When this attacks, if Crouching Tiger was the last attack this combat chain, this gets go again and the next Crouching Tiger you play this combat chain gets +3{p}.	Ninja Action - Attack				No	
 LrjhhdFHqndpWG8d66GJz	Chief Ruk'utan				3			Brute, Mentor	Intimidate						"While Ruk'utan is face down in arsenal, at the start of your turn, you may turn him face up.
 
 While Ruk'utan is face up in arsenal, whenever you play a card with 6 or more {p}, **intimidate**, and put a lesson counter on him. Then if there are 2 or more lesson counters on Ruk'utan, banish him, search your deck for Alpha Rampage, put it face up in arsenal, and shuffle."	Brute Mentor			No	No	
@@ -7410,6 +7414,9 @@ KW9mBkBhNqKJMLf6TkNpg	Vela Flash	3	1	3	3			Elemental, Runeblade, Action, Attack	
 
 If Vela Flash was **fused**, you may play your next 'non-attack' action card this turn as though it were an instant."	Elemental Runeblade Action - Attack					
 pc7tf6hwQmpPJnngCLdhT	Vengeful Apparition	1	0		3			Illusionist, Action, Aura	Ward 1						"When this leaves the arena, if you control no Illusionist auras, you may play your next aura with cost 2 or less this turn as though it were an instant. If you do, it enters the arena with a +1{p} counter.
+
+**Ward 1**"	Illusionist Action - Aura					
+dD77fLzCjbgCCzMTRCBjt	Vengeful Apparition	2	0		3			Illusionist, Action, Aura	Ward 1						"When this leaves the arena, if you control no Illusionist auras, you may play your next aura with cost 1 or less this turn as though it were an instant. If you do, it enters the arena with a +1{p} counter.
 
 **Ward 1**"	Illusionist Action - Aura					
 7gwBCNKjdk8w6cqJCdB9D	Vengeful Apparition	3	0		3			Illusionist, Action, Aura	Ward 1						"When this leaves the arena, if you control no Illusionist auras, you may play your next aura with cost 0 this turn as though it were an instant. If you do, it enters the arena with a +1{p} counter.
