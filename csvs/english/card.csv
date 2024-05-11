@@ -2336,6 +2336,11 @@ DpRWWLNTqjtBtjMjpnm7J	Evo Engine Room	2	3		3			Mechanologist, Action, Equipment,
 qR9dqP7WCqkzp69ctCNcp	Evo Face Breaker	1	0		0			Mechanologist, Instant, Equipment, Evo, Arms	Transform					Boost	"If you have a base arms equipped, **transform** it and X Hyper Drivers you control into this, then equip this. If you do, the next time you would be dealt damage this turn, prevent twice X of that damage.
 
 Whenever you **boost** an attack action card, you may destroy a card under this. If you do, the attack gets +2{p}."	Mechanologist Instant Equipment - Evo Arms				No	
+zn9kGcMM8kRmtkdLchqqM	Evo Heartdrive	3	0		0			Mechanologist, Instant, Equipment, Evo, Chest	Arcane Barrier 1						"If you have a base chest equipped, transform it into this, then equip this.
+
+When this is equipped, the next attack action card you play this turn costs {r} less to play.
+
+**Arcane Barrier 1**"	Mechanologist Instant Equipment - Evo Chest				No	
 LHkFKd9GfdqN7cR6PgPQG	Evo Mach Breaker	1	0		0			Mechanologist, Instant, Equipment, Evo, Legs	Transform					Boost	"If you have a base legs equipped, **transform** it and X Hyper Drivers you control into this, then equip this. If you do, the next time you would be dealt damage this turn, prevent twice X of that damage.
 
 Whenever you **boost**, you may destroy a card under this. If you do, create a Quicken token."	Mechanologist Instant Equipment - Evo Legs				No	
@@ -2349,6 +2354,11 @@ RMcmPNFfqQp6rpn6dkJ9H	Evo Rapid Fire	3	3		2			Mechanologist, Action, Equipment, 
 Your Teklo Blaster attacks get **go again**.
 
 **Battleworn**"	Mechanologist Action Equipment - Evo Legs				No	
+Pwqq9mKTNnKBPMrH9NHk6	Evo Recall	3	0		0			Mechanologist, Instant, Equipment, Evo, Head	Arcane Barrier 1						"If you have a base head equipped, transform it into this, then equip this.
+
+When this is equipped, put up to 1 Mechanologist action card from your banished zone on top of your deck.
+
+**Arcane Barrier 1**"	Mechanologist Instant Equipment - Evo Head				No	
 CJ9PkdfKF78Khqf88zDmM	Evo Scatter Shot	3	3		2			Mechanologist, Action, Equipment, Evo, Arms	Transform, Battleworn						"If you have a base arms equipped, **transform** it into this, then equip this.
 
 Your Teklo Blaster gets +1{p} for each opposing hero.
@@ -2366,6 +2376,11 @@ JCpttFGTtgBH7BKwJ6T7r	Evo Sentry Base Head	1	2		2			Mechanologist, Action, Equip
 nmGPgfcDFHDb8gkndLkfM	Evo Sentry Base Legs	1	2		2			Mechanologist, Action, Equipment, Evo, Base, Legs	Transform, Battleworn						"If you have a base legs equipped, **transform** it into this, then equip this.
 
 **Battleworn**"	Mechanologist Action Equipment - Evo Base Legs					
+NtRJdNDbtJKWHJBPFn7Pc	Evo Shortcircuit	3	0		0			Mechanologist, Instant, Equipment, Evo, Arms	Arcane Barrier 1						"If you have a base arms equipped, transform it into this, then equip this.
+
+When this is equipped, deal 1 damage to any target.
+
+**Arcane Barrier 1**"	Mechanologist Instant Equipment - Evo Arms				No	
 mmMwHD8tLPdGBDtnCgWkR	Evo Smoothbore	2	3		3			Mechanologist, Action, Equipment, Evo, Arms	Transform, Blade Break	Once per Turn Instant					"If you have a base arms equipped, **transform** it into this, then equip this.
 
 **Once per Turn Instant** - Destroy a card under this: Your next weapon attack this turn gets +1{p}.
@@ -6752,6 +6767,11 @@ If you have played a card named Moon Wish this turn, draw a card and Sun Kiss ga
 rcCgrhCWrcPC9RGFqMqm9	Sun Kiss	3	0		2			Generic, Action	Go again						"Gain 1{h}.
 
 If you have played a card named Moon Wish this turn, draw a card and Sun Kiss gains **go again**."	Generic Action					
+H99k8wdCTRgwmHP7ftWt7	Supercell	3	X		2			Mechanologist, Action							"Put X steam counters on X target Hyper Drivers you control.
+
+Create a Hyper Driver token with X steam counters.
+
+If X is 3 or greater, you may shuffle a Construct Nitro Mechanoid from your banished zone into your deck."	Mechanologist Action				No	
 JR9JmbdnQ8mTLfjMHf9n8	Suraya, Archangel of Erudition			4		4		Light, Angel, Ally	Ward 4	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
 When Suraya attacks, you may banish a card from your hero's soul. If you do, draw 2 cards.
@@ -7012,6 +7032,7 @@ If you've played another blue card this turn, **transcend**."	Mystic Instant
 QcgncKTnLcdGKQnwDjqdz	The Librarian				3			Illusionist, Mentor						Specialization	"While The Librarian is face down in arsenal, at the start of your turn, you may turn him face up.
 
 While The Librarian is face up in arsenal, once per turn when you create a Spectral Shield token, draw a card and put a lesson counter on The Librarian. Then if there are 3 or more lesson counters on him, banish him, search your deck for a **specialization** card, put it face up into arsenal, and shuffle."	Illusionist Mentor			No	No	
+JjHcGC99TqTf6Mz697hng	The Weakest Link	1	2	6	3			Generic, Action, Attack							When this hits a hero, look at their hand and choose a card without base {d}. If you do, they discard it and you draw a card.	Generic Action - Attack				No	
 HBMfgJPgbmbWzJrRtJCjk	Themai			3		4		Draconic, Illusionist, Dragon, Ally							Opponents can't play cards or activate abilities during your turn.	Draconic Illusionist - Dragon Ally				No	
 8cQmdjw8zKNzddKkwcHWj	Themis, Archangel of Judgment			4		4		Light, Angel, Ally	Ward 4	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
