@@ -3623,6 +3623,12 @@ If you would draw up to your hero's intellect as an end-of-turn procedure, inste
 cRRDRFWcfMpkDcWtTphFT	Interlude	1	0					Bard, Instant							Choose a hero. The next time they would be dealt damage this turn, prevent 3 of that damage. If you prevent damage to another hero this way, create a Copper token.	Bard Instant					
 hkmQgBRgHRJJh6jmzGW8G	Interlude	2	0					Bard, Instant							Choose a hero. The next time they would be dealt damage this turn, prevent 2 of that damage. If you prevent damage to another hero this way, create a Copper token.	Bard Instant					
 WLwb8QhpFqc69mcwQGg9n	Interlude	3	0					Bard, Instant							Choose a hero. The next time they would be dealt damage this turn, prevent 1 of that damage. If you prevent damage to another hero this way, create a Copper token.	Bard Instant					
+fn6R8HkftTRfr6dD8Gfgh	Intimate Inducement	1	0		3			Mystic, Assassin, Attack Reaction							"Target Assassin or Mystic attack action card gets +1{p}.
+
+Look at the top 4 cards of the defending hero's deck and choose a card. If it's blue, it has 0 base {d}. Put the chosen card onto the active chain link as a defending card and the rest on top in any order."	Mystic Assassin Attack Reaction					
+jrBknpNwPbrNbzmfKMnKw	Intimate Inducement	2	0		3			Mystic, Assassin, Attack Reaction							"Target Assassin or Mystic attack action card gets +1{p}.
+
+Look at the top 3 cards of the defending hero's deck and choose a card. If it's blue, it has 0 base {d}. Put the chosen card onto the active chain link as a defending card and the rest on top in any order."	Mystic Assassin Attack Reaction					
 b8WGTGmWNGDdGwCWP7r66	Intimate Inducement	3	0		3			Mystic, Assassin, Attack Reaction							"Target Assassin or Mystic attack action card gets +1{p}.
 
 Look at the top 2 cards of the defending hero's deck and choose a card. If it's blue, it has 0 base {d}. Put the chosen card onto the active chain link as a defending card and the rest on top in any order."	Mystic Assassin Attack Reaction					
@@ -4091,7 +4097,7 @@ RnjfWPNBLBd9nGR8RdhnT	Mask of Perdition				1			Assassin, Equipment, Head	Battlew
 **Attack Reaction** - Destroy Mask of Perdition: Target Assassin attack action card gains ""When this hits a hero, banish the top card of their deck.""
 
 **Battleworn**"	Assassin Equipment - Head				No	
-qdzjnDqPpGjnHHqPgzmQC	Mask of Recurring Nightmares				2			Mystic, Asassin, Equipment, Head	Blade Break	Once per Turn Attack Reaction					"**Once per Turn Attack Reaction** - {b}{b}{b}: Target defending hero banishes a card from their hand.
+qdzjnDqPpGjnHHqPgzmQC	Mask of Recurring Nightmares				2			Mystic, Assassin, Equipment, Head	Blade Break	Once per Turn Attack Reaction					"**Once per Turn Attack Reaction** - {b}{b}{b}: Target defending hero banishes a card from their hand.
 
 **Blade Break**"	Mystic Assassin Equipment - Head				No	
 bbr8GPmnDkdphMkdpWkcM	Mask of Shifting Perspectives				1			Assassin, Ninja, Equipment, Head	Blade Break	Attack Reaction					**Attack Reaction** - Destroy Mask of Shifting Perspectives: Whenever a dagger hits this turn, you may put a card from your hand on the bottom of your deck. If you do, draw a card.	Assassin / Ninja Equipment - Head					
