@@ -1,8 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-F7Btpwc6Cgn79D67Hkbpd	Maul	2	0		3			Ninja, Attack Reaction							"Choose 1 or both;
-- Target attack action card with 1 or less base {p} gets +3{p}.
-- Target Crouching Tiger gets ""When this hits, create 2 Crouching Tigers in your banished zone. You may play them this turn."""	Ninja Attack Reaction				No	
-DJQQGbkdhhkMkqpDzWwrw	Territorial Domain	3	0		2			Ninja, Defense Reaction							While this is defending, if you've created a Crouching Tiger this turn, this gets +3{d}.	Ninja Defense Reaction				No	
 CqNB8MLzfCh6tRP6RRMdj	A Drop in the Ocean	3	0					Mystic, Instant	Legendary, Transcend						"**Legendary**
 
 Target attack gets -1{p}.
@@ -999,6 +995,7 @@ If the discarded card has 6 or more {p}, Breakneck Battery gains **go again**."	
 NDtf9QNdnRFLkjncQDRgM	Breakneck Battery	3	2	4	3			Brute, Action, Attack	Go again						"As an additional cost to play Breakneck Battery, discard a random card.
 
 If the discarded card has 6 or more {p}, Breakneck Battery gains **go again**."	Brute Action - Attack				No	
+H6WLbh6cgMkhmdqLhQWrJ	Breed Anger	1	1	4	3			Ninja, Action, Attack	Combo, Go again						**Combo** - When this attacks, if Crouching Tiger was the last attack this combat chain, this gets **go again** and create a Crouching Tiger in your banished zone. You may play it this turn.	Ninja Action - Attack					
 LQFQqtHDnRNhPQ6GP8z9j	Breeze Rider Boots				1			Ninja, Equipment, Legs	Battleworn			Go again		Combo	"When a Ninja attack action card you control hits, you may destroy Breeze Rider Boots. If you do, attack action cards with **combo** gain **go again** this turn.
 
 **Battleworn**"	Ninja Equipment - Legs				No	
@@ -3924,6 +3921,10 @@ DGNn7nRKwBjzf9f9rmzJM	Lesson in Lava	2	1		3			Wizard, Action	Kano Specialization
 Deal 3 arcane damage to target opposing hero.
 
 If Lesson in Lava deals damage, you may search your deck for a Wizard card with {r} cost equal to or less than the damage dealt by Lesson in Lava, reveal it, then shuffle your deck and put it on top of your deck."	Wizard Action				No	
+PzdWT6J9q9kMDBkMpjC9F	Levels of Enlightenment	3	1	3	3			Mystic, Action, Attack	Go again						"When this attacks, choose 1 for each blue card you've pitched this turn;
+- Draw a card.
+- This gets +2{p}.
+- This gets **go again**."	Mystic Action - Attack				No	
 WwzJLfPwhRTkFLDNjJPrk	Levia					20	4	Shadow, Brute, Hero, Young					Blood Debt		If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose **blood debt** during the end phase.	Shadow Brute Hero - Young			No		
 qjqqRn6kHWHGz6PQGWd7z	Levia, Redeemed					8	4	Shadow, Demi-Hero	Legendary, Levia Specialization	Action	Transform		Blood Debt	Blood Debt	"**Legendary Levia Specialization**
 
@@ -4122,6 +4123,9 @@ If Massacre is discarded to pay the cost of a Brute attack action card, **intimi
 MLR9kCDtWdr7c67FQtNw7	Master Cog	2						Mechanologist, Resource, Gem	Legendary					Crank	"**Legendary**
 
 When this is pitched, you may put a steam counter on an item you control with **crank**."	Mechanologist Resource - Gem				No	
+F7Btpwc6Cgn79D67Hkbpd	Maul	2	0		3			Ninja, Attack Reaction							"Choose 1 or both;
+- Target attack action card with 1 or less base {p} gets +3{p}.
+- Target Crouching Tiger gets ""When this hits, create 2 Crouching Tigers in your banished zone. You may play them this turn."""	Ninja Attack Reaction				No	
 Dg8tJh9RNQKhFWfqd8qDT	Mauling Qi	1	1	5	3			Ninja, Action, Attack	Combo						**Combo** - When this hits, if Crouching Tiger was the last attack this combat chain, deal 1 damage to each opposing hero.	Ninja Action - Attack				No	
 9CDHQQCrpWcFb7WnQPnJN	Mauvrion Skies	1	0		2			Runeblade, Action	Go again			Go again			"The next runeblade attack action card you play this turn gains **go again** and ""If this hits, create 3 Runechant tokens.""
 
@@ -7087,6 +7091,7 @@ zknqNdwtDMrHbRpgKkBJw	Terminator Tank	1	6	6	3			Mechanologist, Action, Attack	Ov
 - 2 or more, this costs {r}{r}{r} less to play,
 - 3 or more, this gets **overpower**,
 - 4 or more, this gets +3{p}."	Mechanologist Action - Attack				No	
+DJQQGbkdhhkMkqpDzWwrw	Territorial Domain	3	0		2			Ninja, Defense Reaction							While this is defending, if you've created a Crouching Tiger this turn, this gets +3{d}.	Ninja Defense Reaction				No	
 6ChQcHfgrFqCLTrFppwQG	Test of Agility	1			4			Brute, Warrior, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Block				No	
 QBwMd7jJGmz7cFKLRDjHd	Test of Might	1			4			Brute, Guardian, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Block				No	
 zmkd9LqrNQFfqHCWKcQNr	Test of Strength	1			4			Generic, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates a Gold token.	Generic Block					
@@ -7354,6 +7359,11 @@ If Turn Timber was **fused**, it gains +2{d}."	Elemental Guardian Defense Reacti
 jR6rqDqWjjg79LTCFHMNQ	Turn Timber	3	2		4			Elemental, Guardian, Defense Reaction	Earth Fusion						"**Earth Fusion**
 
 If Turn Timber was **fused**, it gains +2{d}."	Elemental Guardian Defense Reaction				No	
+kQcrWWddhc7qJJrtdpggp	Twelve Petal Kāṣāya				2			Mystic, Ninja, Equipment, Chest	Blade Break	Instant				Transcend	"Whenever you **transcend**, you may gain {r}.
+
+**Instant** - {b}{b}{b}, destroy this: Create a Zen State token.
+
+**Blade Break**"	Mystic Ninja Equipment - Chest				No	
 BB6TLbtFwBCqtH7H7wBjj	Twin Drive	1	2	5	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
 **Boost**"	Mechanologist Action - Attack				No	
