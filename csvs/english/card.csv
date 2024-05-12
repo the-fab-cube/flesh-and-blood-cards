@@ -2136,6 +2136,7 @@ At the beginning of your action phase, destroy Emerging Power then the next Guar
 DtjWNmQLmDmKg6dwzNh7h	Emeritus Scolding	1	2		3			Wizard, Action							Deal 4 arcane damage to target hero. If Emeritus Scolding is played during an opponents turn, instead deal 6 arcane damage to them.	Wizard Action				No	
 zrQ8nHpjJBbtRTpRDjfMf	Emeritus Scolding	2	2		3			Wizard, Action							Deal 3 arcane damage to target hero. If Emeritus Scolding is played during an opponents turn, instead deal 5 arcane damage to them.	Wizard Action				No	
 TLfzTNH6GD9CG9fnwzwhb	Emeritus Scolding	3	2		3			Wizard, Action							Deal 2 arcane damage to target hero. If Emeritus Scolding is played during an opponents turn, instead deal 4 arcane damage to them.	Wizard Action				No	
+MhJphRFQWwMc7JpbJQfGt	Emissary of Wind	1	0	4	2			Generic, Action, Attack	Go again						When this attacks, you may put a card from your hand on the bottom of your deck. If you do, this gets **go again**.	Generic Action - Attack				No	
 QgqNQGbtcF6NNBMDbDMhh	Emperor, Dracai of Aesir					15	4	Royal, Draconic, Warrior, Wizard, Hero, Young		Action	Attack				"You may only have red cards in your deck.
 
 **Action** - {r}{r}{r}: Search your deck for Command and Conquer, **attack** with it, then shuffle."	Royal Draconic Warrior Wizard Hero - Young			No	No	
