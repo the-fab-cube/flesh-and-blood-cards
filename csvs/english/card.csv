@@ -1,4 +1,8 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+F7Btpwc6Cgn79D67Hkbpd	Maul	2	0		3			Ninja, Attack Reaction							"Choose 1 or both;
+- Target attack action card with 1 or less base {p} gets +3{p}.
+- Target Crouching Tiger gets ""When this hits, create 2 Crouching Tigers in your banished zone. You may play them this turn."""	Ninja Attack Reaction				No	
+DJQQGbkdhhkMkqpDzWwrw	Territorial Domain	3	0		2			Ninja, Defense Reaction							While this is defending, if you've created a Crouching Tiger this turn, this gets +3{d}.	Ninja Defense Reaction				No	
 CqNB8MLzfCh6tRP6RRMdj	A Drop in the Ocean	3	0					Mystic, Instant	Legendary, Transcend						"**Legendary**
 
 Target attack gets -1{p}.
@@ -3162,7 +3166,7 @@ z7HGHDCwMDgBmhdhTnRhW	Heirloom of Rabbit Hide							Mystic, Illusionist, Equipme
 While this is equipped face-down, at the start of your turn, if you have exactly 1{h}, you may turn this face-up.
 
 **Ward 4**"	Mystic Illusionist Equipment - Chest					
-wqzWn8rMcWhGwNQfKtWtG	Heirloom of Snake Hide				2			Mystic, Asassin, Equipment, Chest	Cloaked, Battleworn						"**Cloaked**
+wqzWn8rMcWhGwNQfKtWtG	Heirloom of Snake Hide				2			Mystic, Assassin, Equipment, Chest	Cloaked, Battleworn						"**Cloaked**
 
 While this is equipped face-down, at the start of your turn, if you have exactly 1{h}, you may turn this face-up.
 
