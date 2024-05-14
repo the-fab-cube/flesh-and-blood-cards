@@ -1,4 +1,7 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3			Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
+
+**Ward 10**"	Illusionist Action - Aura				No	
 CqNB8MLzfCh6tRP6RRMdj	A Drop in the Ocean	3	0					Mystic, Instant	Legendary, Transcend						"**Legendary**
 
 Target attack gets -1{p}.
@@ -1439,6 +1442,11 @@ gzDGmdfm6gHWctgrcgfKf	Copper							Generic, Token, Item		Action	Go again				**Ac
 9b7hjHNnGDBkfL8jL89bf	Coronet Peak				2			Ice, Equipment, Head	Blade Break	Action					"**Action** - {r}{r}{r}: Target hero discards a card unless they pay {r}.
 
 **Blade Break**"	Ice Equipment - Head				No	
+L7GjnTRkPzCWDfwjfBj7n	Cosmic Awakening	3	9	*	3			Mystic, Action, Attack							"If 1 Chi was pitched to play this, Cosmic Awakening's {p} is 10.
+
+If 2 Chi were pitched to play this, Cosmic Awakening's {p} is 15.
+
+If 3 or more Chi were pitched to play this, Cosmic Awakening's {p} is 20."	Mystic Action - Attack				No	
 zMC89pqnzTP7bkmfjmTzQ	Cosmo, Scroll of Ancestral Tapestry							Illusionist, Weapon, Scroll, 2H				Go again		Ward	"During your turn, auras you control with **ward** are weapons with base {p} equal to their **ward** and **Once per Turn Action - {r}: Attack**
 
 Your aura attacks with one or more +1{p} counters get **go again**."	Illusionist Weapon - Scroll (2H)					
@@ -2224,13 +2232,13 @@ DbFJncpjwQmp8mg99RPqL	Engulfing Light	3	0	1	3			Light, Warrior, Action, Attack	C
 If you've **charged** this turn, Engulfing Light gains ""If this hits, put it into your hero's soul."""	Light Warrior Action - Attack					
 JKPFKKFqnLtmctLkwNCmc	Enigma					20	4	Mystic, Illusionist, Hero, Young		Once per Turn Instant					"Your first Spectral Shield attack each turn costs {r} less to activate.
 
-**Once per Turn Instant** - {b}{b}{b}: Create a Spectral Shield token with a +1{p} counter."	Mystic Illusionist Hero - Young			No		
+**Once per Turn Instant** - {c}{c}{c}: Create a Spectral Shield token with a +1{p} counter."	Mystic Illusionist Hero - Young			No		
 KPm87t9nFjpM9jzrM7hzp	Enigma Chimera	1	2	8	3			Illusionist, Action, Attack	Phantasm						**Phantasm**	Illusionist Action - Attack					
 QFJ7cfqhj6TqrwLQQJNFL	Enigma Chimera	2	2	7	3			Illusionist, Action, Attack	Phantasm						**Phantasm**	Illusionist Action - Attack					
 CQRFRLf9kHFWnrmqfFRTn	Enigma Chimera	3	2	6	3			Illusionist, Action, Attack	Phantasm						**Phantasm**	Illusionist Action - Attack					
 tJhRRN9kkMCnGQdQJ8TWg	Enigma, Ledger of Ancestry					40	4	Mystic, Illusionist, Hero		Once per Turn Instant					"Your first Spectral Shield attack each turn costs {r} less to activate.
 
-**Once per Turn Instant** - {b}{b}{b}: Create a Spectral Shield token with a +1{p} counter."	Mystic Illusionist Hero		No		No	
+**Once per Turn Instant** - {c}{c}{c}: Create a Spectral Shield token with a +1{p} counter."	Mystic Illusionist Hero		No		No	
 QDrWjRHBmBWBnJHmmbzRM	Enlightened Strike	1	0	5	3			Generic, Action, Attack	Go again						"As an additional cost to play Enlightened Strike, put a card from your hand on the bottom of your deck.
 
 Choose 1;
@@ -3121,6 +3129,15 @@ Whenever you attack with Hatchet of Body, if Hatchet of Mind was the last attack
 TCDKdFdzFT6nJnBBRbCLL	Hatchet of Mind			2				Warrior, Weapon, Axe, 1H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 Whenever you attack with Hatchet of Mind, if Hatchet of Body was the last attack this turn, Hatchet of Mind gains +1{p} until end of turn."	Warrior Weapon - Axe (1H)					
+6t8mpJGpHNQ9MKNrm99pr	Haunting Specter	1	2		2			Illusionist, Action, Aura	Ward 4						"When this leaves the arena, create a Spectral Shield token, then if you control no other Illusionist auras, put a +1{p} counter on it.
+
+**Ward 4**"	Illusionist Action - Aura				No	
+GTj8JGDq7LfKj8HjpNhmn	Haunting Specter	2	2		2			Illusionist, Action, Aura	Ward 3						"When this leaves the arena, create a Spectral Shield token, then if you control no other Illusionist auras, put a +1{p} counter on it.
+
+**Ward 3**"	Illusionist Action - Aura				No	
+CpfKgC8NJWLbMkhzFqQ8g	Haunting Specter	3	2		2			Illusionist, Action, Aura	Ward 2						"When this leaves the arena, create a Spectral Shield token, then if you control no other Illusionist auras, put a +1{p} counter on it.
+
+**Ward 2**"	Illusionist Action - Aura				No	
 RFRrT7hMB7bMJ9jcjzJgj	Haze Bending	3	0		2			Illusionist, Action, Aura	Spectra	Once per Turn Effect					"**Once per Turn Effect** - Whenever Haze Bending or another Illusionist non-token aura you control is destroyed, create a Spectral Shield token.
 
 **Spectra**"	Illusionist Action - Aura				No	
@@ -4094,6 +4111,9 @@ PRzqJ97HHdM6f8bLKhGzQ	Mandible Claw			3				Brute, Weapon, Claw, 1H		Once per Tur
 
 If you've discarded a card with 6 or more {p} this turn, Mandible Claw's attacks get **go again**."	Brute Weapon - Claw (1H)					
 q7GfHcHBpWqCbtghcpnTj	Mangle	1	4	8	3			Guardian, Action, Attack	Crush						**Crush** - If Mangle deals 4 or more damage to a hero, destroy target equipment they control with a -1{d} counter on it.	Guardian Action - Attack				No	
+f8QrwNNrtgKcB8MwLRQh8	Manifestation of Miragai	3	3					Mystic, Illusionist, Instant, Aura	Ward X						"This enters the arena with two +1{p} counters. If a Chi was pitched to play this, instead this enters the arena with four +1{p} counters.
+
+**Ward X**, where X is the number of +1{p} counters on this."	Mystic Illusionist Instant - Aura				No	
 FRDf9rPtwMg7MjfK6wWNP	Mark of Lightning				0			Lightning, Equipment, Arms							Whenever a Lightning or Elemental attack you control is defended by a card from hand, you may destroy Mark of Lightning. If you do, the attack deals 1 damage to the defending hero.	Lightning Equipment - Arms					
 bQMPhRRzw8c6RgGK6crJn	Mark of the Beast	2	2	6	3			Shadow, Brute, Action, Attack	Blood Debt						"If Mark of the Beast would be put into your graveyard from anywhere, instead banish it.
 
@@ -4112,7 +4132,7 @@ RnjfWPNBLBd9nGR8RdhnT	Mask of Perdition				1			Assassin, Equipment, Head	Battlew
 **Attack Reaction** - Destroy Mask of Perdition: Target Assassin attack action card gains ""When this hits a hero, banish the top card of their deck.""
 
 **Battleworn**"	Assassin Equipment - Head				No	
-qdzjnDqPpGjnHHqPgzmQC	Mask of Recurring Nightmares				2			Mystic, Assassin, Equipment, Head	Blade Break	Once per Turn Attack Reaction					"**Once per Turn Attack Reaction** - {b}{b}{b}: Target defending hero banishes a card from their hand.
+qdzjnDqPpGjnHHqPgzmQC	Mask of Recurring Nightmares				2			Mystic, Assassin, Equipment, Head	Blade Break	Once per Turn Attack Reaction					"**Once per Turn Attack Reaction** - {c}{c}{c}: Target defending hero banishes a card from their hand.
 
 **Blade Break**"	Mystic Assassin Equipment - Head				No	
 bbr8GPmnDkdphMkdpWkcM	Mask of Shifting Perspectives				1			Assassin, Ninja, Equipment, Head	Blade Break	Attack Reaction					**Attack Reaction** - Destroy Mask of Shifting Perspectives: Whenever a dagger hits this turn, you may put a card from your hand on the bottom of your deck. If you do, draw a card.	Assassin / Ninja Equipment - Head					
@@ -4182,6 +4202,9 @@ q7wHrf9PJpkmfdBQWQBzz	Merciful Retribution	2	4					Light, Illusionist, Instant, 
 nGkpNDKckjzwbzBqM7N8f	Merciless Battleaxe			3				Warrior, Weapon, Axe, 2H	Overpower	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}{r}: **Atttack**
 
 Whenever Merciless Battleaxe attacks, if its {p} is greater than twice its base {p}, the attack gains **overpower**."	Warrior Weapon - Axe (2H)				No	
+GgRFLW8zdKbNJtgfFTFkp	Meridian Pathway							Mystic, Illusionist, Equipment, Legs	Ward 3	Instant					"**Instant** - {c}{c}{c}: You may play auras this turn as though they were instants.
+
+Whenever you pitch a Chi, you may have this get **ward 3** until end of turn."	Mystic Illusionist Equipment - Legs				No	
 FPCtrDJKLwTRHh7C6ckd6	MetEx	1	1	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
 When this hits, you may put an item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Attack					
@@ -4427,10 +4450,10 @@ TKd8jdfqgWnjdNRBmkKfB	Nullrune Robe				0			Generic, Equipment, Chest	Arcane Barr
 tDjBgLK9QzgrFzLHzwBnC	Numbskull	1	2	6	3			Brute, Action, Attack							While this is in any zone, its {r} cost to play, {p}, and {d} can't be modified.	Brute Action - Attack				No	
 prMJkPd8w9KQHQ9BjgMmG	Nuu					20	4	Mystic, Assassin, Hero, Young		Instant				Stealth	"Your attacks with **stealth** get ""When this chain link resolves, banish all action cards defending this.""
 
-**Instant** - {b}{b}{b}: Look at the top card of an opposing hero's deck. If it's blue, you may banish it. Until end of turn, you may play blue cards from that hero's banished zone without paying their {r} cost."	Mystic Assassin Hero - Young			No		
+**Instant** - {c}{c}{c}: Look at the top card of an opposing hero's deck. If it's blue, you may banish it. Until end of turn, you may play blue cards from that hero's banished zone without paying their {r} cost."	Mystic Assassin Hero - Young			No		
 MghLPDjq8CfBJ8RzNc7Ft	Nuu, Alluring Desire					40	4	Mystic, Assassin, Hero		Instant				Stealth	"Your attacks with **stealth** get ""When this chain link resolves, banish all action cards defending this.""
 
-**Instant** - {b}{b}{b}: Look at the top card of an opposing hero's deck. If it's blue, you may banish it. Until end of turn, you may play blue cards from that hero's banished zone without paying their {r} cost."	Mystic Assassin Hero		No		No	
+**Instant** - {c}{c}{c}: Look at the top card of an opposing hero's deck. If it's blue, you may banish it. Until end of turn, you may play blue cards from that hero's banished zone without paying their {r} cost."	Mystic Assassin Hero		No		No	
 JfJ7hNnCDL9GDCwfrWBBc	Oaken Old	1	3	7	3			Elemental, Guardian, Action, Attack	Earth and Ice Fusion, Dominate						"**Earth and Ice Fusion**
 
 If Oaken Old was **fused**, it gains +2{p}, **dominate**, and ""If this hits a hero, they put 2 random cards from their hand on the bottom of their deck in any order."""	Elemental Guardian Action - Attack				No	
@@ -4975,6 +4998,9 @@ WtGmJPqkJc7nWGRBCFwww	Prismatic Lens	2	1					Mechanologist, Action, Item	Crank	O
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 **Once per Turn Instant** - 0: Reveal the top card of your deck. Put a Mechanologist item of the same color from your banished zone on top of your deck."	Mechanologist Action - Item				No	
+9f8NPBQcRJWdqLqBhQfpB	Prismatic Leyline	2	0		3			Generic, Action	Go again						"Your next red attack this turn gets +1{p}, your next yellow gets +2{p}, and your next blue gets +3{p}.
+
+**Go again**"	Generic Action				No	
 KHwWtFzhjTgbrJJrkGjFc	Prismatic Shield	1	3					Illusionist, Instant							Create 3 Spectral Shield tokens.	Illusionist Instant				No	
 GwNppkqrrrfrMgRWhT9rr	Prismatic Shield	2	3					Illusionist, Instant							Create 2 Spectral Shield tokens.	Illusionist Instant				No	
 bFjnrzdmFLkwdBbWHnGfR	Prismatic Shield	3	3					Illusionist, Instant							Create a Spectral Shield token.	Illusionist Instant				No	
@@ -5940,6 +5966,7 @@ PqwWTC8WTQccwfcNwtjNT	Second Swing	2	1		3			Warrior, Action	Go again						"If yo
 Chqpmcpccgmfb7wh7jrdh	Second Swing	3	1		3			Warrior, Action	Go again						"If you have attacked with a weapon this turn, your next attack this turn gains +2{p}.
 
 **Go again**"	Warrior Action					
+HFtcFTzQwfjNwk89mLRjD	Second Tenet of Chi: Moon	3	3	5	3			Mystic, Action, Attack						Transcend	"If you've **transcended** this turn, this gets ""When this chain link resolves, draw a card."""	Mystic Action - Attack				No	
 fLCJkLgGtkfJd6pBq8fJK	Second Tenet of Chi: Tide	3	3	5	3			Mystic, Action, Attack						Transcend	If you've **transcended** this turn, this gets +2{p}.	Mystic Action - Attack				No	
 T6hdfgDWQgPTm8RJ8HpfQ	Second Tenet of Chi: Wind	3	3	5	3			Mystic, Action, Attack	Go again					Transcend	If you've **transcended** this turn, this gets **go again**.	Mystic Action - Attack				No	
 fBt7wHjJKcKKhftG6cGmW	Security Script	3	1					Mechanologist, Action, Item	Crank						"**Crank**
@@ -7147,6 +7174,7 @@ Until the start of your next turn, attacks that target you have -1{p}.
 
 **Go again**"	Generic Action				No	
 ggGjPCWdGwktGGF8gjbDc	Threadbare Tunic							Generic, Equipment, Chest		Instant					**Instant** - Destroy Threadbare Tunic: Gain {r}. Activate this ability only if you have no cards in hand.	Generic Equipment - Chest					
+dJbhLJjdgzzQg7rtmnP9k	Three Visits	1	3					Mystic, Illusionist, Instant, Aura	Ward X						**Ward X**, where X is three times the number of blue cards you've pitched this turn.	Mystic Illusionist Instant - Aura				No	
 KCNwjRzWNtWghDNckgKpP	Three of a Kind	1	1		2			Ranger, Action	Go again						"Draw 3 cards. Until end of turn, you may only play cards from arsenal.
 
 **Go again**"	Ranger Action				No	
@@ -7379,7 +7407,7 @@ jR6rqDqWjjg79LTCFHMNQ	Turn Timber	3	2		4			Elemental, Guardian, Defense Reaction
 If Turn Timber was **fused**, it gains +2{d}."	Elemental Guardian Defense Reaction				No	
 kQcrWWddhc7qJJrtdpggp	Twelve Petal Kāṣāya				2			Mystic, Ninja, Equipment, Chest	Blade Break	Instant				Transcend	"Whenever you **transcend**, you may gain {r}.
 
-**Instant** - {b}{b}{b}, destroy this: Create a Zen State token.
+**Instant** - {c}{c}{c}, destroy this: Create a Zen State token.
 
 **Blade Break**"	Mystic Ninja Equipment - Chest				No	
 BB6TLbtFwBCqtH7H7wBjj	Twin Drive	1	2	5	3			Mechanologist, Action, Attack	Boost						"**Boost**
@@ -7438,6 +7466,7 @@ wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	3	6	2			Light, Action, Attack	Unity					
 Kkz6gDKJRbrTNTpRKggRq	Unmovable	1	3		7			Generic, Defense Reaction							If Unmovable is played from arsenal, it gains +1{d}.	Generic Defense Reaction					
 WFmqwG7cjpf6QFgpP9gmD	Unmovable	2	3		6			Generic, Defense Reaction							If Unmovable is played from arsenal, it gains +1{d}.	Generic Defense Reaction					
 QRFzLnNBm8tCqBmKFdQbf	Unmovable	3	3		5			Generic, Defense Reaction							If Unmovable is played from arsenal, it gains +1{d}.	Generic Defense Reaction					
+mK6zddQhzHTpR9Jnw8chw	Unravel Aggression	3	3		5			Mystic, Defense Reaction							If a Chi was pitched to play this, draw a card.	Mystic Defense Reaction				No	
 qTJLpcMt6WFTDHRgD87tw	Untamed	1	1	4	2			Ninja, Action, Attack	Go again						"When this attacks, the next Crouching Tiger you play this combat chain gets +1{p}.
 
 **Go again**"	Ninja Action - Attack					
@@ -7989,11 +8018,11 @@ nGFNqP9BddjFmfBNcQGpq	Zap	3	0		3			Wizard, Action							Deal 1 arcane damage to 
 mQTLKRNWqhbJRtNNdWHHj	Zealous Belting	1	2	5	2			Generic, Action, Attack	Go again						While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.	Generic Action - Attack					
 FWPL69jpWNMf6qgfGWJQp	Zealous Belting	2	2	4	2			Generic, Action, Attack	Go again						While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.	Generic Action - Attack					
 6djPj8nJPB6mFWrjrj7ft	Zealous Belting	3	2	3	2			Generic, Action, Attack	Go again						While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.	Generic Action - Attack					
-7FHM67fkfjCjzwWzKfFKH	Zen					20	4	Mystic, Ninja, Hero, Young		Once per Turn Instant				Combo	**Once per Turn Instant** - {b}{b}{b}: Create a Crouching Tiger in your hand. Search your deck for a card with **combo**, banish it, then shuffle. You may play it this turn.	Mystic Ninja Hero - Young			No		
+7FHM67fkfjCjzwWzKfFKH	Zen					20	4	Mystic, Ninja, Hero, Young		Once per Turn Instant				Combo	**Once per Turn Instant** - {c}{c}{c}: Create a Crouching Tiger in your hand. Search your deck for a card with **combo**, banish it, then shuffle. You may play it this turn.	Mystic Ninja Hero - Young			No		
 HhTPF8HGRqhFbTT8HnBBh	Zen State							Ninja, Token, Aura							"Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.
 
 Whenever your hero would be dealt damage, prevent 1 damage that source would deal."	Ninja Token - Aura					
-GDbCgdDrFKCWWthrgD6h6	Zen, Tamer of Purpose					40	4	Mystic, Ninja, Hero		Once per Turn Instant				Combo	**Once per Turn Instant** - {b}{b}{b}: Create a Crouching Tiger in your hand. Search your deck for a card with **combo**, banish it, then shuffle. You may play it this turn.	Mystic Ninja Hero		No		No	
+GDbCgdDrFKCWWthrgD6h6	Zen, Tamer of Purpose					40	4	Mystic, Ninja, Hero		Once per Turn Instant				Combo	**Once per Turn Instant** - {c}{c}{c}: Create a Crouching Tiger in your hand. Search your deck for a card with **combo**, banish it, then shuffle. You may play it this turn.	Mystic Ninja Hero		No		No	
 DC8RfMDzMnthBkWJgmWpQ	Zephyr Needle			2				Ninja, Weapon, Dagger, 1H		Once per Turn Action	Attack, Go again				"**Once per Turn Action** - {r}: **Attack**. **Go again**
 
 When Zephyr Needle is defended by a card with {d} greater than Zephyr Needle's {p}, destroy it when the combat chain closes."	Ninja Weapon - Dagger (1H)					
