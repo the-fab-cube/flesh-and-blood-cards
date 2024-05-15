@@ -644,6 +644,9 @@ Your next weapon attack this turn gains +2{p}."	Warrior Attack Reaction
 RHgCJmWQWbPNf6pTDknLc	Blade Runner	3	1		3			Warrior, Attack Reaction				Go again			"Target 1H weapon attack gains **go again**.
 
 Your next weapon attack this turn gains +1{p}."	Warrior Attack Reaction					
+hnhmF8pkDjHM8HBKjKH8G	Blanch	1	3	7	2			Generic, Action, Attack							When this hits a hero, cards they own lose all colors until the end of their next turn.	Generic Action - Attack				No	
+rNKN6PqmhhkTDLLhJmkGw	Blanch	2	3	6	2			Generic, Action, Attack							When this hits a hero, cards they own lose all colors until the end of their next turn.	Generic Action - Attack				No	
+NqMBhfgdBcBmpcnmF7BpP	Blanch	3	3	5	2			Generic, Action, Attack							When this hits a hero, cards they own lose all colors until the end of their next turn.	Generic Action - Attack				No	
 dbrfzmNJ9ccB9CW68pmQp	Blasmophet, Levia Consumed					13	4	Shadow, Demi-Hero, Demon	Legendary, Levia Specialization, Transform					Blood Debt	"**Legendary Levia Specialization**
 
 While this is in your inventory, when **blood debt** reduces your {h} to 13, you may **transform** into Blasmophet, Levia Consumed.
@@ -653,6 +656,9 @@ qJ8HCWnpHbPRGRGpt86Cb	Blasmophet, the Soul Harvester			6		6		Shadow, Token, Demo
 
 Whenever Blasmophet attacks, you may banish a Shadow card from your hand. If you do, you may banish a card from the defending hero's soul."	Shadow Token - Demon Ally					
 fNWdCp9dwBcCwGtH9F7wT	Blaze Headlong	1	0	4	2			Draconic, Action, Attack	Go again						If you've played another red card this turn, Blaze Headlong has **go again**.	Draconic Action - Attack					
+hJdWJJWrBzNBBFz9BCJDw	Blaze, Firemind					17	4	Wizard, Hero, Young		Once per Turn Instant				Opt	"Whenever you **opt**, put energy counters on Blaze equal to the number of cards looked at this way.
+
+**Once per Turn Instant** - Remove X energy counters from Blaze: Banish a Wizard non-attack action card from your hand with an effect that deals arcane damage equal to X. You may play it this turn as though it were an instant."	Wizard Hero - Young			No	No	
 Fm6dT9jM6BhLtRphtfrFR	Blazen Yoroi				1			Ninja, Equipment, Chest	Blade Break						"While Blazen Yoroi is defending on chain link 4 or higher, it has +4{d}.
 
 **Blade Break**"	Ninja Equipment - Chest				No	
@@ -1700,6 +1706,9 @@ MrNgmfGDfJmF6rcLbFcrm	Demolition Crew	3	2	4	2			Generic, Action, Attack	Dominate
 
 **Dominate**"	Generic Action - Attack					
 MWfDtTFgd8f8zNzQgDJjt	Demolition Protocol	1	3	7	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - When this attacks a hero, remove all steam counters from up to X equipment, items, and/or weapons they control, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
+hNdDhKhhpGwKTCT7wMRCp	Dense Blue Mist	3	1					Mystic, Instant							"Attacks that target you this turn get -1{p}.
+
+If a Chi was pitched to play this, effects don't trigger if an attack hits you this turn."	Mystic Instant				No	
 ppcfhRgNk9GH8QWRpMbdt	Descendent Gustwave	1	1	3	2			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, this costs {r} less to play and has +2{p}.
 
 **Go again**"	Ninja Action - Attack					
@@ -2008,6 +2017,7 @@ At the beginning of your end phase, if you haven't played an attack action card 
 w9NMmfttRBHm6fwjHhQbk	Dust Runner Outlaw	1	1	4	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
 m6TdpWNzf8mTDPrMNbN9q	Dust Runner Outlaw	2	1	3	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
 JjcbfdJBzNznwtrHkDN98	Dust Runner Outlaw	3	1	2	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
+NJkbhctpNJqK9FRDBmzKr	Dust from Stillwater Shrine	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Miragai, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
 KLL7GmCb6Pb9bQqmbm7Nw	Dust from the Chrome Caverns	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Cromai, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
 KfcLhpjL6Jc6Mr8WTQMdn	Dust from the Golden Plains	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Themai, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
 Gq8F9nHbQ6N8rrPzdhJzn	Dust from the Red Desert	1	0		3			Draconic, Illusionist, Action, Ash	Material			Phantasm			**Material** - While this is under a permanent other than Vynserakai, that permanent has **phantasm**.	Draconic Illusionist Action - Ash				No	
@@ -2148,6 +2158,7 @@ DtjWNmQLmDmKg6dwzNh7h	Emeritus Scolding	1	2		3			Wizard, Action							Deal 4 arc
 zrQ8nHpjJBbtRTpRDjfMf	Emeritus Scolding	2	2		3			Wizard, Action							Deal 3 arcane damage to target hero. If Emeritus Scolding is played during an opponents turn, instead deal 5 arcane damage to them.	Wizard Action				No	
 TLfzTNH6GD9CG9fnwzwhb	Emeritus Scolding	3	2		3			Wizard, Action							Deal 2 arcane damage to target hero. If Emeritus Scolding is played during an opponents turn, instead deal 4 arcane damage to them.	Wizard Action				No	
 DgQfj8jGQBWmBQKW9kngT	Emissary of Moon	1	0	4	2			Generic, Action, Attack							When this attacks, you may put a card from your hand on the bottom of your deck. If you do, draw a card.	Generic Action - Attack				No	
+zFJbjDkLPqmCzQFwjtdFc	Emissary of Tides	1	0	4	2			Generic, Action, Attack							When this attacks, you may put a card from your hand on the bottom of your deck. If you do, this gets +2{p}.	Generic Action - Attack				No	
 MhJphRFQWwMc7JpbJQfGt	Emissary of Wind	1	0	4	2			Generic, Action, Attack	Go again						When this attacks, you may put a card from your hand on the bottom of your deck. If you do, this gets **go again**.	Generic Action - Attack				No	
 QgqNQGbtcF6NNBMDbDMhh	Emperor, Dracai of Aesir					15	4	Royal, Draconic, Warrior, Wizard, Hero, Young		Action	Attack				"You may only have red cards in your deck.
 
@@ -2239,6 +2250,9 @@ CQRFRLf9kHFWnrmqfFRTn	Enigma Chimera	3	2	6	3			Illusionist, Action, Attack	Phant
 tJhRRN9kkMCnGQdQJ8TWg	Enigma, Ledger of Ancestry					40	4	Mystic, Illusionist, Hero		Once per Turn Instant					"Your first Spectral Shield attack each turn costs {r} less to activate.
 
 **Once per Turn Instant** - {c}{c}{c}: Create a Spectral Shield token with a +1{p} counter."	Mystic Illusionist Hero		No		No	
+9HfDfRR8m8cLKDdg88gjm	Enigma, New Moon					20	4	Mystic, Illusionist, Hero, Young		Instant		Cloaked		Ward	"Equipment you own gets **cloaked**
+
+**Instant** - {c}{c}{c}, Turn target face-down equipment you have equipped face-up. If it has **ward**, create 3 Spectral Shield tokens."	Mystic Illusionist Hero - Young			No	No	
 QDrWjRHBmBWBnJHmmbzRM	Enlightened Strike	1	0	5	3			Generic, Action, Attack	Go again						"As an additional cost to play Enlightened Strike, put a card from your hand on the bottom of your deck.
 
 Choose 1;
@@ -2309,6 +2323,9 @@ HMMRL8LDTCdzFRpzgTCkz	Essence of Ancestry: Mind	3	0		3			Illusionist, Action, Au
 Nw6hkj6NCpWtBN9BcTFcq	Essence of Ancestry: Soul	2	0		3			Illusionist, Action, Aura	Ward 2						"When this leaves the arena, if you control no Illusionist auras, the next time you would be dealt damage by a yellow source this turn, prevent it.
 
 **Ward 2**"	Illusionist Action - Aura				No	
+QtTgrgcKwKqCJ8dc9Mbbb	Evasive Leap	1	0		3			Generic, Defense Reaction								Generic Defense Reaction					
+whmMnfgwjqMJCHKGBHfq7	Evasive Leap	2	0		2			Generic, Defense Reaction								Generic Defense Reaction					
+N8LCzb9K8GdzMRmNbB6GM	Evasive Leap	3	0		1			Generic, Defense Reaction								Generic Defense Reaction					
 WQQFCnb8FKJn9HrzCNDmG	Even Bigger Than That!	1	0					Generic, Instant	Opt 3						"Play Even Bigger Than That! only if you've dealt {p} this turn.
 
 **Opt 3**, then reveal the top card of your deck. If it has {p} greater than the amount of damage you've dealt this turn, create a Quicken token and draw a card."	Generic Instant				No	
@@ -2515,6 +2532,9 @@ cjJpkCtJwndP7FwzwDDQc	Fabricate	1	0					Mechanologist, Instant							"Choose 2;
 WfL7bkMHHG7DNGr6fDRWD	Face Adversity				2			Generic, Equipment, Head	Blade Break						"This may only defend an attack if the attack's controller has drawn a card this turn.
 
 **Blade Break**"	Generic Equipment - Head					
+bcKbBC6rpD6rTJ8dFLLpN	Fact-Finding Mission	1	2	6	2			Generic, Action, Attack							When this hits a hero, you may look at a face-down card in their arsenal or equipment zones.	Generic Action - Attack					
+MdHHgpMCDBkpJFFNh9wqd	Fact-Finding Mission	2	2	5	2			Generic, Action, Attack							When this hits a hero, you may look at a face-down card in their arsenal or equipment zones.	Generic Action - Attack					
+tgTDwMGbBwknnTNjTTKJJ	Fact-Finding Mission	3	2	4	2			Generic, Action, Attack							When this hits a hero, you may look at a face-down card in their arsenal or equipment zones.	Generic Action - Attack					
 QHNfbDkffrKWgwDw7MjwQ	Fai					20	4	Draconic, Ninja, Hero, Young		Once per Turn Instant					"You may start the game with a Phoenix Flame in your graveyard.
 
 **Once per Turn Instant** - {r}{r}{r}: Return a Phoenix Flame from your graveyard to your hand. This ability costs {r} less for each Draconic chain link you control."	Draconic Ninja Hero - Young			No		
@@ -4294,6 +4314,11 @@ When Miraging Metamorph is destroyed, create a token that's a copy of an aura yo
 dhmDDqtfNCPcBnzfTKzrp	Mischievous Meeps	1	1	2	2			Generic, Action, Attack	Go again						"When this hits a hero, gain control of an item with cost 2 or less they control. Otherwise, draw a card.
 
 **Go again**"	Generic Action - Attack				No	
+gJH8NpPRNdFtTbDQTDzHL	Mistcloak Gully		1					Mystic, Instant, Landmark	Legendary, Transcend						"**Legendary**
+
+The first attack that targets you each turn gets -1{p}.
+
+At the beginning of each end phase, destroy this unless you've pitched, played, or defended with a blue card this turn. If you've pitched, played, and defended with a blue card this turn, **transcend**."	Mystic Instant - Landmark				No	
 7mgnPjCmmLc9K9WwLdhJ6	Money Where Ya Mouth Is	1	1		2			Generic, Action	Go again			Wager			"Your next attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 B7Db99Nw9PFrJLmRzPT7t	Money Where Ya Mouth Is	2	1		2			Generic, Action	Go again			Wager			"Your next attack this turn gets +2{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 9BM9L9zrh8BgBWkPDdJgf	Money Where Ya Mouth Is	3	1		2			Generic, Action	Go again			Wager			"Your next attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
@@ -6232,6 +6257,15 @@ At the beginning of your action phase, destroy Sigil of Protection."	Generic Act
 kzW8BKdWcm9LwtTCTdqRK	Sigil of Solace	1	0					Generic, Instant							Gain 3{h}	Generic Instant				No	
 FDdnD9zhdgCkJFTQdLbbp	Sigil of Solace	2	0					Generic, Instant							Gain 2{h}	Generic Instant				No	
 QgFnmwphgLtnNmrHF8B6w	Sigil of Solace	3	0					Generic, Instant							Gain 1{h}	Generic Instant				No	
+JH89Ctbgtj6bFhjNKr9BL	Sigil of Solitude	1	0		2			Illusionist, Action, Aura	Ward 4						"At the start of your turn, if you control another Illusionist aura, destroy this.
+
+**Ward 4**"	Illusionist Action - Aura					
+nDRLcpRzFHdnFKTfqz6z7	Sigil of Solitude	2	0		2			Illusionist, Action, Aura	Ward 3						"At the start of your turn, if you control another Illusionist aura, destroy this.
+
+**Ward 3**"	Illusionist Action - Aura					
+7kLtC7NJPccD6nD9MRBkw	Sigil of Solitude	3	0		2			Illusionist, Action, Aura	Ward 2						"At the start of your turn, if you control another Illusionist aura, destroy this.
+
+**Ward 2**"	Illusionist Action - Aura					
 7MQcG9F7KTH7wBznwbDGc	Sigil of Suffering	1	0		3			Runeblade, Defense Reaction							"Deal 1 arcane damage to the attacking hero.
 
 If you have dealt arcane damage this turn, Sigil of Suffering gains +1{d}."	Runeblade Defense Reaction				No	
@@ -7344,6 +7378,9 @@ rQ9dRWnKb788gfjnPf8Bw	Transmogrify	2	1		2			Illusionist, Action	Go again						"T
 LDHGBdbFRmBcN9DzjqzpD	Transmogrify	3	1		2			Illusionist, Action	Go again						"The next attack action card you play this turn is Illusionist, has 6 base {p}, and gains **phantasm**.
 
 **Go again**"	Illusionist Action				No	
+dgBPpWggJ6wkFQG8t9Jqc	Traverse the Universe				2			Mystic, Equipment, Head	Blade Break						"When this defends, search your deck for an Inner Chi, reveal it, put it into your hand, then shuffle.
+
+**Blade Break**"	Mystic Equipment - Head				No	
 hwndKRTjTJtn9FwFhMNWK	Tremor of íArathael	1	1	4	2			Generic, Action, Attack							If a card has been put into your banished zone this turn, Tremor of íArathael gains +2{p}.	Generic Action - Attack				No	
 6mmfrKtTWkcBJDcphpLdc	Tremor of íArathael	2	1	3	2			Generic, Action, Attack							If a card has been put into your banished zone this turn, Tremor of íArathael gains +2{p}.	Generic Action - Attack				No	
 gpbqrrjM8cpnFbm8dLcKz	Tremor of íArathael	3	1	2	2			Generic, Action, Attack							If a card has been put into your banished zone this turn, Tremor of íArathael gains +2{p}.	Generic Action - Attack				No	
@@ -7792,6 +7829,7 @@ pGjHRdgF8BLTDGtjLJGgh	Wartune Herald	2	1	6	3			Light, Illusionist, Action, Attac
 qN9rt6FWmjTRwNC9cTrPW	Wartune Herald	3	1	5	3			Light, Illusionist, Action, Attack	Phantasm						"When this hits, put it into your hero's soul.
 
 **Phantasm**"	Light Illusionist Action - Attack					
+wdLw8WtkJzf79bfKPbzj9	Wash Away	3	2		3			Mystic, Defense Reaction							If you've played another blue card this turn, this gets +2{d}.	Mystic Defense Reaction					
 tB76Jz9T9FcQTtbFDpbmN	Water Glow Lanterns	1	0		2			Illusionist, Action	Go again						"Reveal the top card of your deck. If it's red, create a Spectral Shield token.
 
 **Go again**"	Illusionist Action					
