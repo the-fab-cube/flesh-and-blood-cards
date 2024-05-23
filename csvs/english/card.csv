@@ -776,10 +776,10 @@ nqFNHFqP79nMk7TKM9r8T	Blood of the Dracai	1						Draconic, Resource, Gem	Legenda
 When you pitch Blood of the Dracai, the next 3 Draconic cards you play this turn cost {r} less."	Draconic Resource - Gem				No	
 RHrBnDBNJwLh8PDLGBmch	Blood on Her Hands	2	0		3			Warrior, Action	Kassai Specialization			Go again			"**Kassai Specialization**
 
-As an additional cost to play Blood on Her Hands, destroy any number of Copper you control. For each Copper destroyed this way choose a mode. You may choose each mode twice;
+As an additional cost to play Blood on Her Hands, destroy any number of Copper you control. Choose that many modes. You may choose each mode twice;
 
-- Target 1H weapon has +1{p}  while attacking this turn.
-- Target 1H weapon has **go again** while attacking this turn.
+- Target 1H weapon's attacks get +1{p} this turn.
+- Target 1H weapon's attacks get **go again** this turn.
 - Target 1H weapon may attack twice this turn.
 
 **Go again**"	Warrior Action				No	
@@ -844,32 +844,32 @@ dTftJfGFgDFTcPdkFKQGC	Bonds of Attraction	1	0	3	3			Assassin, Action, Attack	Ste
 
 When this hits a hero, banish the top card of their deck, then banish a card from their graveyard.
 
-Whenever this banishes a card, if this has banished another card with the same color, gain 1{h}."	Assassin Action - Attack				No	
+Whenever this banishes a card and this has banished another card with the same color, gain 1{h}."	Assassin Action - Attack				No	
 ffNt7P8KbGTzB8NBf9jD8	Bonds of Attraction	2	0	2	3			Assassin, Action, Attack	Stealth						"**Stealth**
 
 When this hits a hero, banish the top card of their deck, then banish a card from their graveyard.
 
-Whenever this banishes a card, if this has banished another card with the same color, gain 1{h}."	Assassin Action - Attack				No	
+Whenever this banishes a card and this has banished another card with the same color, gain 1{h}."	Assassin Action - Attack				No	
 dBcbb7TPrWTwm9q8Mff9L	Bonds of Attraction	3	0	1	3			Assassin, Action, Attack	Stealth						"**Stealth**
 
 When this hits a hero, banish the top card of their deck, then banish a card from their graveyard.
 
-Whenever this banishes a card, if this has banished another card with the same color, gain 1{h}."	Assassin Action - Attack				No	
+Whenever this banishes a card and this has banished another card with the same color, gain 1{h}."	Assassin Action - Attack				No	
 bndJRd9j7KdFrzkwKngmJ	Bonds of Memory	1	0	3	3			Assassin, Action, Attack	Stealth						"**Stealth**
 
 When this hits a hero, banish the top card of their deck, then banish a card from their graveyard.
 
-Whenever this banishes a card, if this has banished another card with the same name, gain 1{h}."	Assassin Action - Attack					
+Whenever this banishes a card and this has banished another card with the same name, gain 1{h}."	Assassin Action - Attack					
 PpqRhHJBbdPQQCCDg6kQQ	Bonds of Memory	2	0	2	3			Assassin, Action, Attack	Stealth						"**Stealth**
 
 When this hits a hero, banish the top card of their deck, then banish a card from their graveyard.
 
-Whenever this banishes a card, if this has banished another card with the same name, gain 1{h}."	Assassin Action - Attack					
+Whenever this banishes a card and this has banished another card with the same name, gain 1{h}."	Assassin Action - Attack					
 RGd9j6fF9Nn8NFB9B6pfN	Bonds of Memory	3	0	1	3			Assassin, Action, Attack	Stealth						"**Stealth**
 
 When this hits a hero, banish the top card of their deck, then banish a card from their graveyard.
 
-Whenever this banishes a card, if this has banished another card with the same name, gain 1{h}."	Assassin Action - Attack					
+Whenever this banishes a card and this has banished another card with the same name, gain 1{h}."	Assassin Action - Attack					
 LCbjKjHJJd8JJDNWrd6CC	Bone Basher			4				Brute, Weapon, Club, 2H		Attack					**Once per Turn Action** - {r}{r}: **Attack**	Brute Weapon - Club (2H)					
 FtpGCGDBMdRPgcbb7MTdM	Bone Head Barrier	2	1					Brute, Instant							Roll a 6 sided die. Prevent the next X damage that would be dealt to your hero this turn, where X is the number rolled.	Brute Instant				No	
 96FgPdNpKj7CpbmtgGCjR	Bone Vizier				1			Brute, Equipment, Head	Blade Break						"When Bone Vizier is destroyed, reveal the top card of your deck. If it has 6 or more {p}, put it on top of your deck. Otherwise, put it on the bottom.
@@ -2190,7 +2190,7 @@ At the beginning of your end phase, destroy Enchanting Melody unless you have pl
 dzwfFWGJkBjbWtjK6qbtM	Encore	2	1		2			Bard, Action	Go again						"Return a Bard attack action card from your graveyard to your hand.
 
 **Go again**"	Bard Action				No	
-qQ9TfqhWK967WMGdfQRLK	Endless Arrow	1	0	4	3			Ranger, Action, Arrow, Attack							If Endless Arrow hits, put it into your hand.	Ranger Action - Arrow Attack				No	
+qQ9TfqhWK967WMGdfQRLK	Endless Arrow	1	0	4	3			Ranger, Action, Arrow, Attack							When this hits, put it into its owner's hand.	Ranger Action - Arrow Attack				No	
 MtPhfMbKcN8bN7DpPjNHT	Endless Maw	1	3	6	3			Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play Endless Maw, banish 3 random cards from your graveyard.
 
 If a card with 6 or more {p} is banished this way, Endless maw gains +3{p}.
@@ -2927,7 +2927,7 @@ tpgGtDJmWntFC6QcdhhgW	Gavel of Natural Order			2				Adjudicator, Weapon, Hammer,
 Whenever an opponent plays or activates their first card or ability each turn, if it's not their turn, put a +1{p} counter on this. At the beginning of your end phase, remove all +1{p} counters from this."	Adjudicator Weapon - Hammer (1H)		No	No	No	
 RzdGctLgfrTtr7MWkBwWr	Gaze the Ages	3	0		3			Wizard, Action	Opt 2						"**Opt 2**
 
-If you have played another Wizard 'non-attack' action card this turn, put Gaze the Ages into your hand as it resolves."	Wizard Action				No	
+If you've played another Wizard non-attack action card this turn, put this into its owner's hand."	Wizard Action				No	
 8TtCrkgJBC6h8TWjMgk8m	Genesis	2	4					Light, Illusionist, Instant, Aura	Spectra						"At the start of your turn, you may put a card from your hand into your hero's soul. If it's an Illusionist card, create a Spectral Shield token. If it's a Light card, draw a card.
 
 **Spectra**"	Light Illusionist Instant - Aura				No	
@@ -3133,7 +3133,7 @@ TbNWLjgL9QKkCMf7FJR6p	Hanabi Blaster			5				Mechanologist, Weapon, Gun, 2H	Overp
 The third time you play a card with **boost** each turn, put a steam counter on Hanabi Blaster."	Mechanologist Weapon - Gun (2H)				No	
 gTNzqJLcQhkLkhBwKrpBQ	Harmonized Kodachi			1				Ninja, Weapon, Dagger, 1H	Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
-If you have a card in your pitch zone with cost 0, Harmonized Kodachi has **go again**."	Ninja Weapon - Dagger (1H)					
+If you have a card in your pitch zone with cost 0, this card's attacks get **go again**."	Ninja Weapon - Dagger (1H)					
 8DknMpTdzFbMdjpRhkWLm	Harmony of the Hunt	1	1	3	2			Mystic, Ninja, Action, Attack	Go again						"When this attacks, if you've pitched a blue card this turn, create a Crouching Tiger in your hand.
 
 **Go again**"	Mystic Ninja Action - Attack					
@@ -3733,7 +3733,7 @@ wJHGzDnNr7fkPFnkLzMWq	Ironrot Gauntlet				1			Generic, Equipment, Arms	Blade Bre
 pCDQncQ7WrwtmPrmgjQjQ	Ironrot Helm				1			Generic, Equipment, Head	Blade Break						**Blade Break**	Generic Equipment - Head					
 rBMjbzt9h6cKWqz6JmCTc	Ironrot Legs				1			Generic, Equipment, Legs	Blade Break						**Blade Break**	Generic Equipment - Legs					
 k8mnLNbhrPPrtF9W9jbnH	Ironrot Plate				1			Generic, Equipment, Chest	Blade Break						**Blade Break**	Generic Equipment - Chest					
-PqNCC7zzLf8kFWDCpj7g6	Ironsong Determination	2	0		3			Warrior, Action	Go again			Dominate			"Target weapon gains +1{p} and **dominate** until end of turn.
+PqNCC7zzLf8kFWDCpj7g6	Ironsong Determination	2	0		3			Warrior, Action	Go again			Dominate			"Target weapon's attacks get +1{p} and **dominate** until end of turn.
 
 **Go again**"	Warrior Action				No	
 DWRBqLngTDmHThkjT6LFn	Ironsong Pride	1	1					Warrior, Instant, Aura							"When this enters the arena, put a +1{p} counter on target sword you control.
@@ -4129,7 +4129,7 @@ MLtndtdrWkKgdDFD98HCp	Malign	3	0	1	3			Assassin, Action, Attack	Stealth						"**
 Damage that would be dealt by Malign can't be prevented."	Assassin Action - Attack					
 PRzqJ97HHdM6f8bLKhGzQ	Mandible Claw			3				Brute, Weapon, Claw, 1H		Once per Turn Action	Attack, Go again				"**Once per Turn Action** - {r}{r}: **Attack**
 
-If you've discarded a card with 6 or more {p} this turn, Mandible Claw's attacks get **go again**."	Brute Weapon - Claw (1H)					
+If you have discarded a card with 6 or more {p} this turn, this card's attacks **go again**."	Brute Weapon - Claw (1H)					
 q7GfHcHBpWqCbtghcpnTj	Mangle	1	4	8	3			Guardian, Action, Attack	Crush						**Crush** - If Mangle deals 4 or more damage to a hero, destroy target equipment they control with a -1{d} counter on it.	Guardian Action - Attack				No	
 f8QrwNNrtgKcB8MwLRQh8	Manifestation of Miragai	3	3					Mystic, Illusionist, Instant, Aura	Ward X						"This enters the arena with two +1{p} counters. If a Chi was pitched to play this, instead this enters the arena with four +1{p} counters.
 
@@ -5198,7 +5198,7 @@ The next attack you **boost** this turn gets +2{p}.
 **Go again**"	Mechanologist Action					
 MLc97c6bqmKcPCtNg9M9q	Quicksilver Dagger			1				Warrior, Weapon, Dagger, 1H	Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
-If another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**."	Warrior Weapon - Dagger (1H)					
+If another weapon you control has gained **go again** this turn, this card's attacks get **go again**."	Warrior Weapon - Dagger (1H)					
 DmpnhzMR7WhCgkFWncRkk	Quickstep							Bard, Equipment, Legs		Action	Go again				**Action** - Destroy this: Each hero creates a Quicken token.  **Go again**	Bard Equipment - Legs				No	
 FcJ9DMBN6LLbBJGhJ9Kkt	Quiver of Abyssal Depths							Ranger, Equipment, Quiver		Instant					**Instant** - {r}{r}{r}, destroy Quiver of Abyssal Depths: Shuffle up to 3 arrows with different names from your graveyard into your deck.	Ranger Equipment - Quiver				No	
 Pc9dDNQmwKnmDbgf6jrLH	Quiver of Rustling Leaves							Ranger, Equipment, Quiver		Instant					**Instant** - {r}{r}{r}: Reveal the top card of your deck. If it's an arrow, put it face up into your arsenal and destroy Quiver of Rustling Leaves.	Ranger Equipment - Quiver				No	
@@ -5973,7 +5973,7 @@ CQpHCDTdJdmJgn8hGJrgq	Scrap Trader	1	0		2			Mechanologist, Action	Scrap						"**
 Gain {r}{r} for each card this **scrapped**."	Mechanologist Action				No	
 jqRDtJRT9rF7rwC6pdfJD	Searing Emberblade			3				Draconic, Ninja, Weapon, Sword, 2H		Once per Turn Action	Go again				"**Once per Turn Action** - {r}{r}: **Attack**
 
-If you control 2 or more Draconic chain links, Searing Emberblade has **go again**."	Draconic Ninja Weapon - Sword (2H)					
+If you control 2 or more Draconic chain links, this card's attacks get **go again**."	Draconic Ninja Weapon - Sword (2H)					
 MQ6FHQhJGFpMdrFHgfPQD	Searing Ray	1	1	4	2			Light, Action, Attack							If you have a yellow card in your pitch zone, this gets +2{p}.	Light Action - Attack					
 WWnjTMBz9qJNpHmNgdRN9	Searing Ray	2	1	3	2			Light, Action, Attack							If you have a yellow card in your pitch zone, this gets +2{p}.	Light Action - Attack					
 cmgTkM7PKHKtkLHkJPDPk	Searing Ray	3	1	2	2			Light, Action, Attack							If you have a yellow card in your pitch zone, this gets +2{p}.	Light Action - Attack					
