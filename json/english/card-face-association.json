@@ -825,8 +825,28 @@
         "is_DFC": false
     },
     {
+        "front_unique_id": "fQDDMcTjbqKwwbnmHqQF8",
+        "back_unique_id": "c6rHBjwMnrLDWFnDtGjPc",
+        "is_DFC": false
+    },
+    {
         "front_unique_id": "bzQMtMWghHNtBkgFBF9FH",
         "back_unique_id": "Cdz8WHTFppFDDcDdDBMjG",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "t7TBzDwP7TMNpt6ktPQm7",
+        "back_unique_id": "qdcCr8db7NbhMNtF8qdCK",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "t7TBzDwP7TMNpt6ktPQm7",
+        "back_unique_id": "nzRR8zwR6HRTFn7KDT8h6",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "t7TBzDwP7TMNpt6ktPQm7",
+        "back_unique_id": "JjJHRnCfmMmRtz8jCnQWz",
         "is_DFC": false
     },
     {
@@ -838,6 +858,16 @@
         "front_unique_id": "hLLpGTBhhRDhFFBGnHFMj",
         "back_unique_id": "N7CCptkRTNcpq7cWbF7pm",
         "is_DFC": true
+    },
+    {
+        "front_unique_id": "CLBLMqHLRwCMw9r6DwpCQ",
+        "back_unique_id": "gpgtNrLRPfb7ktDLRJbgw",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "WHtwqhmrck8WcLFD8j6Wh",
+        "back_unique_id": "qdcCr8db7NbhMNtF8qdCK",
+        "is_DFC": false
     },
     {
         "front_unique_id": "HPKKdcJLbBRrpcKQt69gD",
@@ -862,6 +892,11 @@
     {
         "front_unique_id": "hdkCcB8pR7mCDNTfmknGJ",
         "back_unique_id": "tQPKCjzwfPr7HMNtRWgCH",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "gpgtNrLRPfb7ktDLRJbgw",
+        "back_unique_id": "c6rHBjwMnrLDWFnDtGjPc",
         "is_DFC": false
     },
     {
@@ -958,6 +993,16 @@
         "front_unique_id": "8bRD7RLGTqbnFRG6N9PHg",
         "back_unique_id": "PkjnLCNP8N76NhDpkqrmM",
         "is_DFC": true
+    },
+    {
+        "front_unique_id": "c6rHBjwMnrLDWFnDtGjPc",
+        "back_unique_id": "JjJHRnCfmMmRtz8jCnQWz",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "fDKkLG68P7zG6LJgF6Mnc",
+        "back_unique_id": "FB6zrnFzKBLGfhDdmWbbR",
+        "is_DFC": false
     },
     {
         "front_unique_id": "LbwhWmHwwcJLrDTwFKqRz",
