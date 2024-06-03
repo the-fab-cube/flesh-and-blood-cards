@@ -102,5 +102,21 @@
         "date_announced": "2023-11-27T00:00:00.000Z",
         "date_in_effect": "2023-12-01T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/articles/living-legends-iyslander-stormbind-kano-and-kassai-cintari-sellsword/"
+    },
+    {
+        "unique_id": "DL86WczHKr6CPTHnrMPpd",
+        "card_unique_id": "PrJkWBKNgtNdzhqhWLGFw",
+        "status_active": true,
+        "date_announced": "2024-04-16T00:00:00.000Z",
+        "date_in_effect": "2024-04-19T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legend-dromai-ash-artist/"
+    },
+    {
+        "unique_id": "HnL6PPNN7gc7kMrq6MnH9",
+        "card_unique_id": "PQm7zFjBPCzc68JDd8D6z",
+        "status_active": true,
+        "date_announced": "2024-04-16T00:00:00.000Z",
+        "date_in_effect": "2024-04-19T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legend-dromai-ash-artist/"
     }
 ]

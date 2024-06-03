@@ -564,7 +564,7 @@ When this is banished from **boosting**, put a steam counter on a Hyper Driver y
 BbhMcGn9tRzPq6qdt8f8W	Big Bertha	3	3	4	3			Mechanologist, Action, Attack	Boost					Boost	"**Boost**
 
 When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
-9GHTwjj8W9dWDtc9zbfmc	Big Blue Sky	3	0		2			Mystic, Defense Reaction							This gets +1{d} for each blue card you've pitched this turn.	Mystic Defense Reaction					
+9GHTwjj8W9dWDtc9zbfmc	Big Blue Sky	3	0		2			Mystic, Defense Reaction							This gets +1{d} for each blue card you've pitched this turn.	Mystic Defense Reaction				No	
 L6rgnMGtzqKkLfHdkTPph	Big Bop	1	3		2			Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +5{p} and ""When this attacks a hero, you may **wager** a Vigor token with them."""	Guardian Action - Aura					
 c7LrgMPzh9mcqbCqM9mmw	Big Bop	2	3		2			Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +4{p} and ""When this attacks a hero, you may **wager** a Vigor token with them."""	Guardian Action - Aura					
 LFnMwmW9pgdNwzHCtfNnL	Big Bop	3	3		2			Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Vigor token with them."""	Guardian Action - Aura					
@@ -3807,7 +3807,7 @@ wDGJfznzQCFGmwgFfnhfw	Junkyard Dogg	3	3	4	3			Mechanologist, Action, Attack	Scra
 When this attacks, if it **scrapped** a card, this gets +1{p}."	Mechanologist Action - Attack					
 JpTPzw6fB8bK6JjRpTmPC	Just a Nick	1	0		3			Assassin, Attack Reaction						Stealth	"Choose 1 or both;
 - Target attack action card with 1 or less base {p} gets +5{p}.
-- Target attack with **stealth** gets ""When this hits a hero, banish the top card of their deck."""	Assassin Action - Attack				No	
+- Target attack with **stealth** gets ""When this hits a hero, banish the top card of their deck."""	Assassin Attack Reaction				No	
 Q9B8TDhTdfDLN8ccnBThK	Kano					15	4	Wizard, Hero, Young		Instant					**Instant** - {r}{r}{r}: Look at the top card of your deck. If it's a 'non-attack' action card, you may banish it. If you do, you may play it this turn as though it were an instant.	Wizard Hero - Young			No		
 kRPqHdCckKBKfRwjbfzNT	Kano, Dracai of Aether					30	4	Wizard, Hero		Instant					**Instant** - {r}{r}{r}: Look at the top card of your deck. If it's a 'non-attack' action card, you may banish it. If you do, you may play it this turn as though it were an instant.	Wizard Hero		No		No	
 GwMRRqcL8rDHFRDTfqWzt	Kassai					20	4	Warrior, Hero, Young		Once per Turn Action	Go again				"If you've drawn a card this turn, your sword attacks cost {r} less to activate.
@@ -4327,7 +4327,7 @@ t68gtGcPf8H9wTGBCfj8L	Monstrous Veil				1			Brute, Equipment, Head	Rhinar Specia
 **Action** - Destroy this: Draw a card then discard a random card. **Go again**
 
 **Battleworn**"	Brute Equipment - Head					
-pDpQ79NgQN6MQtz9zQrCW	Moon Chakra	1	0					Mystic, Illusionist, Instant						Transcend	The next time you would be dealt damage this turn, prevent 3 of that damage. If you've **transcended** this turn, instead prevent 5.	Mystic Illusionist Instant					
+pDpQ79NgQN6MQtz9zQrCW	Moon Chakra	1	0					Mystic, Illusionist, Instant						Transcend	The next time you would be dealt damage this turn, prevent 3 of that damage. If you've **transcended** this turn, instead prevent 5.	Mystic Illusionist Instant				No	
 hpqCzzRJJHRhkWLcL8QDh	Moon Chakra	2	0					Mystic, Illusionist, Instant						Transcend	The next time you would be dealt damage this turn, prevent 2 of that damage. If you've **transcended** this turn, instead prevent 4.	Mystic Illusionist Instant				No	
 CNcQBLQccWPfJdd8Dm86g	Moon Chakra	3	0					Mystic, Illusionist, Instant						Transcend	The next time you would be dealt damage this turn, prevent 1 of that damage. If you've **transcended** this turn, instead prevent 3.	Mystic Illusionist Instant				No	
 mhLrKM6RbWGGHNrTGjtMw	Moon Wish	1	2	5	2			Generic, Action, Attack							"You may put a card from your hand on top of your deck rather than pay Moon Wish's {r} cost.
@@ -4391,7 +4391,7 @@ Mutated Mass's {p} and {d} is equal to twice the number of cards in your pitch z
 **Blood Debt**"	Shadow Action - Attack				No	
 GpmN8jcWjbH7fMHd7hWjJ	Nasreth, the Soul Harrower			6		6		Shadow, Token, Demon, Ally		Once per Turn Action	Attack				"**Once per Turn Action - 0: Attack**
 
-When Nasreth hits a hero, banish a card from their soul. If a Light card is banished this way, gain 1{l}."	Shadow Token - Demon Ally					
+When Nasreth hits a hero, banish a card from their soul. If a Light card is banished this way, gain 1{h}."	Shadow Token - Demon Ally					
 fgPwzMt7tqqtN77zFbjzP	Nasty Surprise	3	0	2	3			Generic, Action, Attack							When an opponent's effect puts this into your graveyard from anywhere, create an Agility, Might, and Vigor token.	Generic Action - Attack				No	
 DHDCCL77FKTkQPTqKnG9B	Nature's Path Pilgrimage	1	1		3			Warrior, Action	Go again						"Your next weapon attack this turn gains +3{p} and ""If this hits and you have no cards in your arsenal, reveal the top card of your deck. If it's an action card, put it face down into your arsenal.""
 
@@ -5567,7 +5567,7 @@ DhffBQC7PHwzdJpjTjNBm	Riptide					19	4	Ranger, Hero, Young							"Whenever you p
 Whenever a trap you control triggers, deal 1 damage to the attacking hero."	Ranger Hero - Young			No		
 RNfgGmc8wHgBrmC6gkqBd	Riptide, Lurker of the Deep					38	4	Ranger, Hero							"Whenever you play a card from hand, you may put a card from hand face down into your arsenal.
 
-Whenever a trap you control triggers, deal 1 damage to the attacking hero."	Ranger Hero					
+Whenever a trap you control triggers, deal 1 damage to the attacking hero."	Ranger Hero			No	No	
 qPpWLgMftfnqDktRHcCWB	Rise Above	1	2		4			Generic, Defense Reaction							You may put a card from your hand on top of your deck rather than pay Rise Above's {r} cost.	Generic Defense Reaction				No	
 M7DR7HgnDFJ8p96tCqDTn	Rise Above	2	2		3			Generic, Defense Reaction							You may put a card from your hand on top of your deck rather than pay Rise Above's {r} cost.	Generic Defense Reaction				No	
 CnFqQqpDD6QB89wpppRfw	Rise Above	3	2		2			Generic, Defense Reaction							You may put a card from your hand on top of your deck rather than pay Rise Above's {r} cost.	Generic Defense Reaction				No	
@@ -6245,13 +6245,13 @@ If Sigil of Permafrost was **fused**, the next time you deal arcane damage to a 
 7ffzcpNTNGrMwzNHkqWKH	Sigil of Permafrost	3	1		2			Elemental, Wizard, Defense Reaction	Ice Fusion						"**Ice Fusion**
 
 If Sigil of Permafrost was **fused**, the next time you deal arcane damage to a hero this turn, create that many Frostbite tokens under their control."	Elemental Wizard Defense Reaction				No	
-QC96CLBjnjN8qPJz7PGBT	Sigil of Protection	1	1		2			Generic, Action, Aura							"**Ward 4**
+QC96CLBjnjN8qPJz7PGBT	Sigil of Protection	1	1		2			Generic, Action, Aura	Ward 4						"**Ward 4**
 
 At the beginning of your action phase, destroy Sigil of Protection."	Generic Action - Aura					
-G9cDhnLB8kWQRgkFcpM8T	Sigil of Protection	2	1		2			Generic, Action, Aura							"**Ward 3**
+G9cDhnLB8kWQRgkFcpM8T	Sigil of Protection	2	1		2			Generic, Action, Aura	Ward 3						"**Ward 3**
 
 At the beginning of your action phase, destroy Sigil of Protection."	Generic Action - Aura					
-nncFJBw6FFnMfkfrFnWwR	Sigil of Protection	3	1		2			Generic, Action, Aura							"**Ward 2**
+nncFJBw6FFnMfkfrFnWwR	Sigil of Protection	3	1		2			Generic, Action, Aura	Ward 2						"**Ward 2**
 
 At the beginning of your action phase, destroy Sigil of Protection."	Generic Action - Aura					
 kzW8BKdWcm9LwtTCTdqRK	Sigil of Solace	1	0					Generic, Instant							Gain 3{h}	Generic Instant				No	
@@ -7234,7 +7234,7 @@ d8qcmDrkwJ7D6FnMjQDW9	Ticket Puncher				*			Generic, Equipment, Arms	Blade Break
 
 **Blade Break**"	Generic Equipment - Arms					
 qLbkgfKHC7bFpQhKbNdCw	Tidal Surge	3	3	5	2			Mystic, Action, Attack							If you've played another blue card this turn, this gets +2{p}.	Mystic Action - Attack					
-ftdRwjTPb9PNhfpfMMkzC	Tide Chakra	1	1		3			Mystic, Asssasin, Attack Reaction						Transcend	Target Assassin or Mystic attack action card gets +3[p}. If you've **transcended** this turn, instead it gets +5{p}.	Mystic Assassin Attack Reaction					
+ftdRwjTPb9PNhfpfMMkzC	Tide Chakra	1	1		3			Mystic, Assassin, Attack Reaction						Transcend	Target Assassin or Mystic attack action card gets +3[p}. If you've **transcended** this turn, instead it gets +5{p}.	Mystic Assassin Attack Reaction				No	
 M78m9cmqphb7hgLRWJmT9	Tide Chakra	2	1		3			Mystic, Assassin, Attack Reaction						Transcend	Target Assassin or Mystic attack action card gets +2{p}. If you've **transcended** this turn, instead it gets +4{p}.	Mystic Assassin Attack Reaction				No	
 rtWWzqfqCGrRG9LHzKmgD	Tide Chakra	3	1		3			Mystic, Assassin, Attack Reaction						Transcend	Target Assassin or Mystic attack action card gets +1{p}. If you've **transcended** this turn, instead it gets +3{p}.	Mystic Assassin Attack Reaction				No	
 TDJfbQjqKCwLRT7RczDrM	Tide Flippers				0			Ninja, Equipment, Legs	Arcane Barrier 1	Attack Reaction		Go again			"**Attack Reaction** - Destroy Tide Flippers: Target attack action card with 2 or less base {p} gains **go again**.
@@ -7928,7 +7928,7 @@ HpcmJjndDjCmChMWWDnnc	Whisper of the Oracle	2	0		3			Generic, Action	Opt 3, Go a
 CdP6DCmhLMzBWKB7tWcNJ	Whisper of the Oracle	3	0		3			Generic, Action	Opt 2, Go again						"**Opt 2**
 
 **Go again**"	Generic Action					
-GHJwMBntf9h6wFk7Dfk7j	Wide Blue Yonder	3	0		2			Mystic, Attack Reaction							Target attack gets +1{p} for each blue card you've pitched this turn.	Mystic Attack Reaction					
+GHJwMBntf9h6wFk7Dfk7j	Wide Blue Yonder	3	0		2			Mystic, Attack Reaction							Target attack gets +1{p} for each blue card you've pitched this turn.	Mystic Attack Reaction				No	
 QMWDbQKHnWCcj8zrpmTMk	Widespread Annihilation	3	4	6	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
 
 When the combat chain closes, each hero who has lost {h} this turn banishes a card from their hand.
@@ -7958,13 +7958,13 @@ bPtqgMTnhqqJcHF7BJJWw	Wild Ride	2	2	5				Brute, Action, Attack	Go again						Whe
 fwHfwDjtckfDmGQQQrKLw	Wild Ride	3	2	4				Brute, Action, Attack	Go again						When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **go again**.	Brute Action - Attack					
 KRLHmjMcJTWNdrHrHqbkt	Wind Chakra	1	0		3			Mystic, Ninja, Action	Go again					Transcend	"The next Crouching Tiger you play this turn gets +3{p}. If you've **transcended** this turn, instead it gets +5{p}.
 
-**Go again**"	Mystic Ninja Action					
+**Go again**"	Mystic Ninja Action				No	
 MpfqmCMGhHCTwgQKRdDGW	Wind Chakra	2	0		3			Mystic, Ninja, Action	Go again					Transcend	"The next Crouching Tiger you play this turn gets +2{p}. If you've **transcended** this turn, instead it gets +4{p}.
 
-**Go again**"	Mystic Ninja Action					
+**Go again**"	Mystic Ninja Action				No	
 6mR8hhpB9hT6wf9QbWnrd	Wind Chakra	3	0		3			Mystic, Ninja, Action	Go again					Transcend	"The next Crouching Tiger you play this turn gets +2{p}. If you've **transcended** this turn, instead it gets +4{p}.
 
-**Go again**"	Mystic Ninja Action					
+**Go again**"	Mystic Ninja Action				No	
 zcrgwbPhb8wr7MFmMDTzw	Winds of Eternity	3	0	2	3			Ninja, Action, Attack	Combo						"**Combo** - If Winds of Eternity was the last attack this combat chain, Winds of Eternity gains +2{p} and ""If this hits, shuffle all cards named Hundred Winds you control on this combat chain into your deck."""	Ninja Action - Attack				No	
 Hb6ThkhpGRD9K9J6hBLDM	Winter's Bite	1	0		2			Ice, Action	Go again						"Target hero discards a card unless they pay {r}{r}{r}.
 
