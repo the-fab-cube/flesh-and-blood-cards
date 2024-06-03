@@ -2714,13 +2714,13 @@ jPD7Qr9HHgnr6BrLCpFBK	Flex	2	0	3	2			Generic, Action, Attack							When you atta
 mLGDzNdDjfN9CFc6zNntW	Flex	3	0	2	2			Generic, Action, Attack							When you attack or defend with Flex, you may pay {r}{r}. If you do, it gains +2{p}.	Generic Action - Attack				No	
 HNQqczGWgqmCzqGqnWkwk	Flex Claws	1	1	4	2			Ninja, Action, Attack	Go again						"When this hits, create a Crouching Tiger in your banished zone. You may play it this turn.
 
-**Go again**"	Ninja Action - Attack				No	
+**Go again**"	Ninja Action - Attack					
 MGFhzzHdwLqwChD6TLkjk	Flex Claws	2	1	3	2			Ninja, Action, Attack	Go again						"When this hits, create a Crouching Tiger in your banished zone. You may play it this turn.
 
-**Go again**"	Ninja Action - Attack				No	
+**Go again**"	Ninja Action - Attack					
 phtD8RM6rJ6FWPFwFwkzg	Flex Claws	3	1	2	2			Ninja, Action, Attack	Go again						"When this hits, create a Crouching Tiger in your banished zone. You may play it this turn.
 
-**Go again**"	Ninja Action - Attack				No	
+**Go again**"	Ninja Action - Attack					
 WtGtPtHBQMNnjzBdcdLNd	Flic Flak	1	0		4			Ninja, Defense Reaction						Combo	If the next card you defend with this turn is a card with **combo**, it gains +2{d}.	Ninja Defense Reaction				No	
 NWTPMPpLT7TL7qzkBLTHF	Flic Flak	2	0		3			Ninja, Defense Reaction						Combo	If the next card you defend with this turn is a card with **combo**, it gains +2{d}.	Ninja Defense Reaction				No	
 tNwNjDkrznjwrPP6bHBtD	Flic Flak	3	0		2			Ninja, Defense Reaction						Combo	If the next card you defend with this turn is a card with **combo**, it gains +2{d}.	Ninja Defense Reaction				No	
@@ -5567,7 +5567,7 @@ DhffBQC7PHwzdJpjTjNBm	Riptide					19	4	Ranger, Hero, Young							"Whenever you p
 Whenever a trap you control triggers, deal 1 damage to the attacking hero."	Ranger Hero - Young			No		
 RNfgGmc8wHgBrmC6gkqBd	Riptide, Lurker of the Deep					38	4	Ranger, Hero							"Whenever you play a card from hand, you may put a card from hand face down into your arsenal.
 
-Whenever a trap you control triggers, deal 1 damage to the attacking hero."	Ranger Hero			No	No	
+Whenever a trap you control triggers, deal 1 damage to the attacking hero."	Ranger Hero		No		No	
 qPpWLgMftfnqDktRHcCWB	Rise Above	1	2		4			Generic, Defense Reaction							You may put a card from your hand on top of your deck rather than pay Rise Above's {r} cost.	Generic Defense Reaction				No	
 M7DR7HgnDFJ8p96tCqDTn	Rise Above	2	2		3			Generic, Defense Reaction							You may put a card from your hand on top of your deck rather than pay Rise Above's {r} cost.	Generic Defense Reaction				No	
 CnFqQqpDD6QB89wpppRfw	Rise Above	3	2		2			Generic, Defense Reaction							You may put a card from your hand on top of your deck rather than pay Rise Above's {r} cost.	Generic Defense Reaction				No	

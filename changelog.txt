@@ -654,8 +654,9 @@ TODO:
 - Added card images for HER111-HER112
 - Added Amp, Cloaked, Transcend keywords
 - Added Chi type
-- Added Blitz Living Legend status for `Ira, Crimson Haze` and Edge of Autumn - notice credit: manwaring
-- Added CC Living Legend status for `Dromai, Ash Artist` and Storm of Sandikai - notice credit: manwaring
+- Added Blitz Living Legend status for `Ira, Crimson Haze` and Edge of Autumn - data entry assistance credit: manwaring
+- Added CC Living Legend status for `Dromai, Ash Artist` and Storm of Sandikai - data entry assistance credit: manwaring
+- Updated Commoner legality of Flex Claws due to its reprinting - data entry assistance credit: manwaring
 - Updated functional text for Blood on Her Hands, Endless Arrow, Gaze the Ages, Harmonized Kodachi, Ironsong Determination, Mandible Claw, Qi Unleashed, Quicksilver Dagger, and Searing Emberblade
 - Fixed Sigil of Protection missing Ward keyword - bug notice credit: manwaring
 - Fixed Blitz and Commoner legality for Riptide, Lurker of the Deep - bug notice credit: manwaring
