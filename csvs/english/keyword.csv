@@ -1,5 +1,6 @@
 Unique ID	Name	Description
 Fh696f9wpcPgwgpgg8d9j	Ambush	
+tTfc8P6NGMgLKWG9LFkDJ	Amp X	The next time you would deal arcane damage this turn, instead deal that much plus X. This happens before prevention effects.
 77JKJwz6k8BRrGbmRDPTT	Arcane Barrier X	If you would be dealt arcane damage you may pay X{r} instead to prevent X arcane damage that source will deal.
 tHNMT9DMtgRNTBrnCjdWq	Attack	
 DJ9GNbwRNBFhcqhFgtFkR	Awaken	
@@ -11,6 +12,7 @@ wPWTbtBBwWkLhTz7hMrn7	Boost	**Boost* is a Mechanologist mechanic that allows a M
 GtFWQhMLPKPBttDFDMnGN	Channel	**Channel** is a keyword that uses Element cards to maintain a powerful aura that requires a larger commitment each turn to maintain the channel.
 WBBLK99pg7LTHM8JRNgzg	Charge	**Charge** is a keyword that exist on Light Warrior attacks. This showcases Boltyn's eagerness to engage in battle and **charge** his soul in the process. As an additional cost to playing a card with **charge** you may put a card from your hand into your hero's soul. This would turn on powerful effects that care about if you have **charged** this turn. *You may elect to not pay the additional cost o **charge** - however this would mean you did not **charge**.)*
 PwFQq6hKkTq7dNjKJ6KcB	Clash	
+MrLqQCHjdB86fJCQJjJKw	Cloaked	Equip this face-down.
 H6nNm6Nndrp8qTGFJL7GB	Combo	A Ninja mechanic that showcases the power of playing multiple attacks in a perfect sequence. **Combo** cares about the last (most recent previous) attack that was played in the combat chain.
 FK8QRGT6GjqFGHLFJTbPT	Contract	When a player is contracted, they are given a set of instructions to complete. If they perform those instructions, they are considered to have completed the contract.
 C66q6GppkfMfbdB8KkhJN	Crank	
@@ -51,6 +53,7 @@ gkcpTQwRjMPTtRkrHpDhT	Stealth
 CKRGw9dCnNdKpNTdTBqgz	Surge	**Surge** is an effect that applies if a card deals more arcane damage than it's printed amount.
 RnrzPrG6KfnCPhDCF8bpB	Temper	**Temper** is a keyword that exists on equipment. Usually high in defense, **Temper** equipment presents a choice when it is down to 1{d}, of whether to defend with it one last time and see it destroyed, or save it to use for its ability.
 LwJpTqDGKM96gQzcKwW76	Tower	
+9PpnGJtT6F6PgKJTkjMmT	Transcend	
 hGzPP7bNMQJWNJ8QzQhDQ	Transform	An Illusionist mechanic that puts specified objects under another card or creates a token and puts specified objects under it.
 hDqkbTcqj9Fmr7m8TKKCz	Unfreeze	Removes **Freeze** from an object.
 H6QfMpMdgD8Fhcfqgq6rm	Unity	

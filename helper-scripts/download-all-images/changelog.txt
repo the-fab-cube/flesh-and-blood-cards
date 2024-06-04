@@ -26,3 +26,6 @@
 
 02-11-23:
 - Updated README
+
+05-10-24:
+- Added handling for new image domain

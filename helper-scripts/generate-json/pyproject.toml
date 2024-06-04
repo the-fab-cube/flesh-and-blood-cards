@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "generate-sql-db"
+name = "generate-json"
 version = "0.1.0"
 description = ""
 authors = []

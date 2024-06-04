@@ -625,7 +625,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Update CC Banned status for Berserk and Crown of Seeds
 - Update Blitz Banned status for Berserk
 
-03-31-24:
+03-31-24
 - Added printing data for LGS253-LGS257 - notice credit: torgeirl
 - Updated functional text for Wrecker Romp and Seismic Surge - notice credit: manwaring
 - Fixed missing Go again keyword for Wild Ride - bug notice credit: Stingray
@@ -647,3 +647,20 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data for AKO001-AKO028
 - Added Printing data for ASB006 and ASB025
 - Updated functional text for Beaten Trackers, Bare Fangs, Humble, Pulping, Reincarnate, Savage Beatdown, and Wild Ride
+
+06-03-24:
+- Added card data for MST - data entry assistance credit: manwaring, hoodwill
+- Added printing data for ENG001-ENG029, FAB232-FAB249, HER113-HER116, LGS263-LGS281, MST000-MST238, NUU001-NUU029, WIN033-WIN035, and ZEN001-ZEN029 - data entry assistance credit: manwaring, hoodwill
+- Added card images for ENG001-ENG029, FAB232-FAB249, HER111-HER116, LGS263-LGS281, MST000-MST238, NUU001-NUU029, WIN033-WIN035, and ZEN001-ZEN029 - data entry assistance credit: manwaring, hoodwill
+- Added Amp, Cloaked, Transcend keywords
+- Added Chi type
+- Added Blitz Living Legend status for `Ira, Crimson Haze` and Edge of Autumn - data entry assistance credit: manwaring
+- Added CC Living Legend status for `Dromai, Ash Artist` and Storm of Sandikai - data entry assistance credit: manwaring
+- Updated Commoner legality of Flex Claws due to its reprinting - data entry assistance credit: manwaring
+- Updated functional text for Blood on Her Hands, Endless Arrow, Gaze the Ages, Harmonized Kodachi, Ironsong Determination, Mandible Claw, Qi Unleashed, Quicksilver Dagger, and Searing Emberblade
+- Fixed Sigil of Protection missing Ward keyword - bug notice credit: manwaring
+- Fixed Blitz and Commoner legality for Riptide, Lurker of the Deep - bug notice credit: manwaring
+- Fixed Reality Refractor's artist spelling - bug notice credit: manwaring
+- Fixed functional text for `Nasreth, the Soul Harrower`'s having {l} listed instead of {h} - bug notice credit: manwaring
+- Fixed issues with some Arcane Lantern and Dash I/O printings having extra spaces in the artist field - bug notice credit: manwaring
+- Fixed a foiling for `Blasmophet, Levia Consumed` being listed as Rainbow Foil instead of Non-foil - bug notice credit: manwaring
