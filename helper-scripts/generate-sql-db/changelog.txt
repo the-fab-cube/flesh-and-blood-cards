@@ -49,3 +49,6 @@
 - Updated script to not delete/create tables by default, with new -r / --regenerate-tables option to enable that functionality again
 - Updated script to upsert rows
 - Updated artists table to have a UNIQUE constraint
+
+05-10-24:
+- Added handling for new image domain

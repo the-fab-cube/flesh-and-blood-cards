@@ -18,6 +18,24 @@
         ]
     },
     {
+        "unique_id": "HJ8Dqhq7tCwKWFCwkjw86",
+        "id": "AKO",
+        "name": "Armory Deck Kayo",
+        "printings": [
+            {
+                "unique_id": "q77LRn8kGwH9TM76kFWNp",
+                "edition": "N",
+                "start_card_id": "AKO001",
+                "end_card_id": "AKO028",
+                "initial_release_date": "2024-05-03T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/armory-deck-kayo/",
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
         "unique_id": "7LbfKJbkWGGwFJDWJn8GB",
         "id": "ARA",
         "name": "Arakni Blitz Deck",
@@ -61,6 +79,24 @@
                 "product_page": "https://fabtcg.com/products/booster-set/arcane-rising-unlimited/",
                 "collectors_center": "https://fabtcg.com/collectors-centre/arcane-rising/",
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/arcane-rising-unlimited-booster/"
+            }
+        ]
+    },
+    {
+        "unique_id": "gmPW6zdL8Fkcd7T6Fghdb",
+        "id": "ASB",
+        "name": "Armory Deck Boltyn",
+        "printings": [
+            {
+                "unique_id": "hcwhwT87GNGLw8dzpzKWn",
+                "edition": "N",
+                "start_card_id": "ASB006",
+                "end_card_id": "ASB025",
+                "initial_release_date": "2024-07-12T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/armory-deck-boltyn/",
+                "collectors_center": null,
+                "card_gallery": null
             }
         ]
     },
@@ -321,6 +357,24 @@
         ]
     },
     {
+        "unique_id": "BjgNW9MLKq9TfgrDzqrCT",
+        "id": "ENG",
+        "name": "Enigma Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "jrFJT6DNmgwrBCNgDBqhJ",
+                "edition": "N",
+                "start_card_id": "ENG001",
+                "end_card_id": "ENG029",
+                "initial_release_date": "2024-05-31T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/part-the-mistveil-blitz-deck-collection-en/",
+                "collectors_center": null,
+                "card_gallery": "https://fabtcg.com/resources/card-galleries/part-the-mistveil-collection-box/"
+            }
+        ]
+    },
+    {
         "unique_id": "L8K8FRNNHFL9HJdLbJPdr",
         "id": "EVO",
         "name": "Bright Lights",
@@ -365,7 +419,7 @@
                 "unique_id": "j76qTFctqc8krqh9GKGmT",
                 "edition": "N",
                 "start_card_id": "FAB001",
-                "end_card_id": "FAB223",
+                "end_card_id": "FAB249",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
@@ -401,7 +455,7 @@
                 "unique_id": "NrpJFBQQGpNM8D9w8BBfG",
                 "edition": "N",
                 "start_card_id": "HER000",
-                "end_card_id": "HER110",
+                "end_card_id": "HER117",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
@@ -563,7 +617,7 @@
                 "unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
                 "edition": "N",
                 "start_card_id": "LGS001",
-                "end_card_id": "LGS252",
+                "end_card_id": "LGS281",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
@@ -581,7 +635,7 @@
                 "unique_id": "B8Nwc79RrDqgRrqPCczFb",
                 "edition": "N",
                 "start_card_id": "LSS001",
-                "end_card_id": "LSS016",
+                "end_card_id": "LSS018",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
@@ -634,6 +688,42 @@
                 "product_page": "https://fabtcg.com/products/booster-set/monarch-unlimited/",
                 "collectors_center": "https://fabtcg.com/collectors-centre/monarch/",
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/monarch-booster-unlimited/"
+            }
+        ]
+    },
+    {
+        "unique_id": "CcM86B8czTkgchQFnGmkQ",
+        "id": "MST",
+        "name": "Part the Mistveil",
+        "printings": [
+            {
+                "unique_id": "pzpfGzzTRdLfqkQk9zRNw",
+                "edition": "N",
+                "start_card_id": "MST000",
+                "end_card_id": "MST238",
+                "initial_release_date": "2024-05-31T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "W8669Tr9cwthfDthNjKP9",
+        "id": "NUU",
+        "name": "Nuu Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "DQzBtkPmtffbqTFtgDGKj",
+                "edition": "N",
+                "start_card_id": "NUU001",
+                "end_card_id": "NUU029",
+                "initial_release_date": "2024-05-31T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/part-the-mistveil-blitz-deck-collection-en/",
+                "collectors_center": null,
+                "card_gallery": "https://fabtcg.com/resources/card-galleries/part-the-mistveil-collection-box/"
             }
         ]
     },
@@ -898,7 +988,7 @@
                 "unique_id": "LWc9gCNhcGWHCP6KcGzbj",
                 "edition": "N",
                 "start_card_id": "WIN001",
-                "end_card_id": "WIN027",
+                "end_card_id": "WIN035",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
@@ -951,6 +1041,24 @@
                 "product_page": null,
                 "collectors_center": "https://fabtcg.com/collectors-centre/promos-and-extras/",
                 "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "qbQ7PPMpCBwbmdw7qPLLG",
+        "id": "ZEN",
+        "name": "Zen Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "9zcKjnfLGBJRGCCgGtJ8d",
+                "edition": "N",
+                "start_card_id": "ZEN001",
+                "end_card_id": "ZEN029",
+                "initial_release_date": "2024-05-31T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/part-the-mistveil-blitz-deck-collection-en/",
+                "collectors_center": null,
+                "card_gallery": "https://fabtcg.com/resources/card-galleries/part-the-mistveil-collection-box/"
             }
         ]
     }

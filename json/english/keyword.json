@@ -6,6 +6,12 @@
         "description_plain": ""
     },
     {
+        "unique_id": "tTfc8P6NGMgLKWG9LFkDJ",
+        "name": "Amp X",
+        "description": "The next time you would deal arcane damage this turn, instead deal that much plus X. This happens before prevention effects.",
+        "description_plain": "The next time you would deal arcane damage this turn, instead deal that much plus X. This happens before prevention effects."
+    },
+    {
         "unique_id": "77JKJwz6k8BRrGbmRDPTT",
         "name": "Arcane Barrier X",
         "description": "If you would be dealt arcane damage you may pay X{r} instead to prevent X arcane damage that source will deal.",
@@ -70,6 +76,12 @@
         "name": "Clash",
         "description": "",
         "description_plain": ""
+    },
+    {
+        "unique_id": "MrLqQCHjdB86fJCQJjJKw",
+        "name": "Cloaked",
+        "description": "Equip this face-down.",
+        "description_plain": "Equip this face-down."
     },
     {
         "unique_id": "H6nNm6Nndrp8qTGFJL7GB",
@@ -308,6 +320,12 @@
     {
         "unique_id": "LwJpTqDGKM96gQzcKwW76",
         "name": "Tower",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "9PpnGJtT6F6PgKJTkjMmT",
+        "name": "Transcend",
         "description": "",
         "description_plain": ""
     },

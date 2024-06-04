@@ -128,6 +128,7 @@ def generate_table_data(cur, url_for_images = None):
                     image_url = image_url.replace("https://storage.googleapis.com/fabmaster/media/images/", url_for_images)
                     image_url = image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/", url_for_images)
                     image_url = image_url.replace("https://dhhim4ltzu1pj.cloudfront.net/media/images/", url_for_images)
+                    image_url = image_url.replace("https://d2wlb52bya4y8z.cloudfront.net/media/cards/", url_for_images)
                 printing['image_url'] = image_url
 
                 card_printing_array.append(printing)

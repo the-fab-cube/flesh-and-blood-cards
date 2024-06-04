@@ -450,6 +450,26 @@
         "is_DFC": false
     },
     {
+        "front_unique_id": "6ggcTRTFf9pbMbB8TnmwJ",
+        "back_unique_id": "CMwzC68Mptz7JGJpq9rmW",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "fnHfbt6jrGMpWhNJDjmrC",
+        "back_unique_id": "JfHFztjzmgpJJWQrgJDnf",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "NTJGCWrGGKGm9pGczBKcd",
+        "back_unique_id": "9rJtjfKPfpnkRQjNPwDCh",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "HqHQm9CcdqDdgqRWRmNtN",
+        "back_unique_id": "Bb6GwwpJjRkDdGT7dDnQw",
+        "is_DFC": true
+    },
+    {
         "front_unique_id": "bmTWm9BR8hWcNwRF8FQb8",
         "back_unique_id": "hRT6tTKnbqmhPPNLd7hdG",
         "is_DFC": false
@@ -483,6 +503,21 @@
         "front_unique_id": "DFjQGNbTkNqjWhJPFL78C",
         "back_unique_id": "nRMnPD6nnmCpFf7WkwTN7",
         "is_DFC": false
+    },
+    {
+        "front_unique_id": "WDWKgDW9wpGnBkWQnQQg9",
+        "back_unique_id": "mdGz6CWBbmPFgMRCjzwrt",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "8rbwqCChb87CCPKrBqDPr",
+        "back_unique_id": "JQdhBpzkQQCbttK8jK8FB",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "mNKpGb7z7NDdw99zg9tzb",
+        "back_unique_id": "g6Kn6kC7MwcJgzLDKqtdC",
+        "is_DFC": true
     },
     {
         "front_unique_id": "zkwtMrCw8C6kjNTMWdGzr",
@@ -607,6 +642,16 @@
     {
         "front_unique_id": "cCDK8KWzHWNMBfTQJ8R88",
         "back_unique_id": "BPdfCzDNJchD7ntDnWtKt",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "pJTr9NdJrQftrMhzmtmPF",
+        "back_unique_id": "fKzpjnqMzg8bKJ9DrWjmG",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "Q99HrDKt8kkp97hqFNMnj",
+        "back_unique_id": "KHRfzdLTN7fBPQhqfCpq7",
         "is_DFC": true
     },
     {
@@ -783,6 +828,211 @@
         "front_unique_id": "9cztD9Bfmp96dNKdnKmL8",
         "back_unique_id": "6wPnTkq9ccp8hGMJg8bmG",
         "is_DFC": false
+    },
+    {
+        "front_unique_id": "mgHFHrqLDCDtrWqMJgB6T",
+        "back_unique_id": "pK6QqzgqWKHqMrTPrRQwG",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "zDGJtw7tTJDnpjGNtTQmD",
+        "back_unique_id": "cwJrzH7Hz8nzrCmCkQWnH",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "QtMtcMzmcmbDpMJqcQLtW",
+        "back_unique_id": "BHB6kDbKwfzfftfqdKzzp",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "fQDDMcTjbqKwwbnmHqQF8",
+        "back_unique_id": "c6rHBjwMnrLDWFnDtGjPc",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "bzQMtMWghHNtBkgFBF9FH",
+        "back_unique_id": "Cdz8WHTFppFDDcDdDBMjG",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "t7TBzDwP7TMNpt6ktPQm7",
+        "back_unique_id": "qdcCr8db7NbhMNtF8qdCK",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "t7TBzDwP7TMNpt6ktPQm7",
+        "back_unique_id": "nzRR8zwR6HRTFn7KDT8h6",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "t7TBzDwP7TMNpt6ktPQm7",
+        "back_unique_id": "JjJHRnCfmMmRtz8jCnQWz",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "BPpLnPrmGjfcf8k9pMJpW",
+        "back_unique_id": "FgdHdCPrb8KTdPPJwMR9B",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "hLLpGTBhhRDhFFBGnHFMj",
+        "back_unique_id": "N7CCptkRTNcpq7cWbF7pm",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "CLBLMqHLRwCMw9r6DwpCQ",
+        "back_unique_id": "gpgtNrLRPfb7ktDLRJbgw",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "WHtwqhmrck8WcLFD8j6Wh",
+        "back_unique_id": "qdcCr8db7NbhMNtF8qdCK",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "HPKKdcJLbBRrpcKQt69gD",
+        "back_unique_id": "7FdrTtrWTWMFmdN9ctRJW",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "mJmr7NJztJF8DTkBcwk6G",
+        "back_unique_id": "GKJwtCqFRphhntQH6QJpD",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "pJcjMrkJzDPdn9qg8MRwz",
+        "back_unique_id": "7z8ddMHFpWrDrRPfQDbtj",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "qhBj6crT6gWLQfJPrr877",
+        "back_unique_id": "RPHwGnbjw8HzQmJpnQmHM",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "hdkCcB8pR7mCDNTfmknGJ",
+        "back_unique_id": "tQPKCjzwfPr7HMNtRWgCH",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "gpgtNrLRPfb7ktDLRJbgw",
+        "back_unique_id": "c6rHBjwMnrLDWFnDtGjPc",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "WFTBhBkPphNj8bHcrf9dJ",
+        "back_unique_id": "FnKTPhfPRMzttpRqzKLmH",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "GmNwzhWzg68dRjhqwKwCh",
+        "back_unique_id": "m7rhWCgWdB6MRz7jdjntR",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "MdzRKDj9nML69H7LzF8MQ",
+        "back_unique_id": "k8KKKzmhMLdrWwdJfRgjT",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "LdPNhcjLDj6qFqzcwHFNt",
+        "back_unique_id": "qkd8FDT9cWDdmJgHF8gK8",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "gggdmMtD6hfm6WrjzQtDK",
+        "back_unique_id": "gg7zmptW8jdNrnWbJzt7F",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "tBchTdc8dpwbfmHPcLrbM",
+        "back_unique_id": "wRBTwcfPjrKRQqgnNwWKm",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "tztrbt6frhjTdWfKFNkhD",
+        "back_unique_id": "9rKWLhMFCChGGwTwRQdjm",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "hWmmTpgKwzdbWnPntfHjt",
+        "back_unique_id": "TFppqL6CjGMmgrgTBCPPd",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "MgFttGFCzfJbhr8PHGpRP",
+        "back_unique_id": "6Ghc6KrDfDR6tTfcdDtgD",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "rzJgGHKTLPtHL8BTMTFJc",
+        "back_unique_id": "KkRjtNCRzqb9gkhHnCqPf",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "Mcd9MQjrWzKFCpdJtMgtr",
+        "back_unique_id": "wnkqHNqzCQcbQwrNHRcC7",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "CntrPwtQJn9Kwqzt9qbhp",
+        "back_unique_id": "k8kwLQPbt9G9mCrbTLjdp",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "gLTJrdmGWRFWqdhJTgmkQ",
+        "back_unique_id": "98NpGLRrgLNJgkChwprCm",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "pnGzgtWNBnHBjz9pcgHqC",
+        "back_unique_id": "bBbN8NfKDnzcMwmK9DzRp",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "qqWFqdFB8cQLRDBDGfLQH",
+        "back_unique_id": "BMpzrM7rcgjH7PBCMp8tD",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "JJjQW8MNtTDTjgznzCQzr",
+        "back_unique_id": "nTKtpQMqpQqzMwFhjT9TC",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "7QtPtjP6pbQNqM77TJd6k",
+        "back_unique_id": "cWCrtj9qPJT8BzTdGMLqP",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "tWRJnWk6fwNz8GrwGrnzM",
+        "back_unique_id": "dCrJP7DCmmb6LBrffwjrH",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "8bRD7RLGTqbnFRG6N9PHg",
+        "back_unique_id": "PkjnLCNP8N76NhDpkqrmM",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "c6rHBjwMnrLDWFnDtGjPc",
+        "back_unique_id": "JjJHRnCfmMmRtz8jCnQWz",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "fDKkLG68P7zG6LJgF6Mnc",
+        "back_unique_id": "FB6zrnFzKBLGfhDdmWbbR",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "WqqDRHkrjMHrgz6NJwdFr",
+        "back_unique_id": "Pz8MmhwTgfdgzJFpchHgf",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "D78MGHKH7RQCzR9Pqh78F",
+        "back_unique_id": "LBjFkkKJr9FGG6CbLczMH",
+        "is_DFC": true
     },
     {
         "front_unique_id": "LbwhWmHwwcJLrDTwFKqRz",
@@ -1303,5 +1553,25 @@
         "front_unique_id": "FbdrqRkHpWtHtcDr7cFfb",
         "back_unique_id": "PjFp96NmJ7BR6TwPQHnKg",
         "is_DFC": false
+    },
+    {
+        "front_unique_id": "hMb6wNRwGtBTJmWTfq8gR",
+        "back_unique_id": "7pH7PFtwNd7JhjqF79F7c",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "c6PfqkTQbnKrhH6nF6wPJ",
+        "back_unique_id": "g8TdN8CHmmjGfLpfmqgWH",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "DLDtqFr8t8nJbJG9nLCMN",
+        "back_unique_id": "tDGTqhKJ98rzrKHKjPQmg",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "DTWDzqFTnWkHRQ9G7RL69",
+        "back_unique_id": "ncWJHhpBQ8FB7tWzDr9cK",
+        "is_DFC": true
     }
 ]

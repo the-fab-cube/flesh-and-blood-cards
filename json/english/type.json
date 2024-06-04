@@ -88,6 +88,10 @@
         "name": "Chest"
     },
     {
+        "unique_id": "9GTzcbqwBqpTpgKgWqPMm",
+        "name": "Chi"
+    },
+    {
         "unique_id": "jTMPmqBz8fWwJdP6W7qff",
         "name": "Claw"
     },
@@ -134,6 +138,10 @@
     {
         "unique_id": "NGBgjq76Q7GHNH9P9nHgM",
         "name": "Equipment"
+    },
+    {
+        "unique_id": "hJ7L9WbpPFdjw9hKWN8cP",
+        "name": "Evo"
     },
     {
         "unique_id": "JJWPzmkGQhHNMqMn77rkm",
@@ -226,6 +234,10 @@
     {
         "unique_id": "bwTjFPPD6BPQRmzGTMQC8",
         "name": "Mentor"
+    },
+    {
+        "unique_id": "cGdNmJhKfktDTfp8qpbHG",
+        "name": "Mercenary"
     },
     {
         "unique_id": "J8QjfW6zKK89wPpprJncb",
@@ -326,6 +338,10 @@
     {
         "unique_id": "q9GWTdPwD8QQFtwtRTPTj",
         "name": "Wizard"
+    },
+    {
+        "unique_id": "JcMmPWgPHqTKWJH8LDDHT",
+        "name": "Wrench"
     },
     {
         "unique_id": "QPtmrBGhLFbnpFMQznnwH",
