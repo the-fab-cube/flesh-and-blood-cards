@@ -664,3 +664,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed functional text for `Nasreth, the Soul Harrower`'s having {l} listed instead of {h} - bug notice credit: manwaring
 - Fixed issues with some Arcane Lantern and Dash I/O printings having extra spaces in the artist field - bug notice credit: manwaring
 - Fixed a foiling for `Blasmophet, Levia Consumed` being listed as Rainbow Foil instead of Non-foil - bug notice credit: manwaring
+
+06-12-24:
+- Fixed incorrect spelling of type text for Take the Tempo
