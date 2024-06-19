@@ -1,31 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-Ht8qhJWDMHjjMjzqgf6KG	Florian					20	4	Elemental, Runeblade, Hero, Young	Essence of Earth						"If there are 4 or more Earth cards in your banished zone, Florian gets ""If you would create 1 or more aura tokens, instead create that many plus 1 of each of those tokens.""
-
-**Essence of Earth**"	Elemental Runeblade Hero - Young			No		
-drgrrjBH9rz9k67qc6WnF	Germinate	3	XX		3			Earth, Runeblade, Action	Florian Specialization						"**Florian Specialization**
-
-Create a Runechant or Embodiment of Earth token. Repeat this process X more times.
-
-Gain X+1 {h}"	Earth Runeblade Action				No	
-TDrmKkRWGKWnqfQkT9QML	Aurora					20	4	Elemental, Runeblade, Hero, Young	Essence of Lightning						"**Once per Turn Instant** - {r}{r}: Create an Embodiment of Lightning token. Activate this only if you've played a Lightning card this turn.
-
-**Essence of Lightning**"	Elemental Runeblade Hero - Young			No		
-rQ7rcfpMdHMcLkTqtnfHz	Heartbeat of Candlehold	3	1		3			Earth, Wizard, Action	Verdance Specialization, Go again						"**Verdance Specialization**
-
-Gain 1{h}. Gain 1{h}. Gain 1{h}.
-
-**Go again**"	Earth Wizard Action				No	
-PkQPFgMNLn69hmMnq7jCC	Felling of the Crown	1	3	4	3			Earth, Action, Attack	Decompose						"If there are 4 or more Earth cards in your banished zone, this gets +4{p}.
-
-**Decompose** - When this attacks, you may banish 2 Earth cards and an action card from your graveyard. If you do, each hero puts a card from their hand on the bottom of their deck."	Earth Action - Attack				No	
-wkHBqcWJQwCLr9fLKLpdw	Channel the Millennium Tree	1	3		3			Earth, Action, Aura	Go again, Channel Earth, Amp 3						"**Go again**
-
-When this enters the arena and at the beginning of your action phase, **amp 3**.
-
-**Channel Earth** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put an Earth card from your pitch zone on the bottom of your deck for each flow counter on it."	Earth Action - Aura				No	
-PWbNdrFrhPDk99CRG7QfM	Channel Lightning Valley	2	0					Lightning, Instant, Aura	Channel Lightning						"The first time you deal damage to an opposing hero each turn, draw a card.
-
-**Channel Lightning** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put a Lightning card from your pitch zone on the bottom of your deck for each flow counter on it."	Lightning Instant - Aura				No	
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3			Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
@@ -328,6 +301,9 @@ DpWbbCGtWQJwRhrKr9Cwm	Astral Etchings	3	1		3			Illusionist, Action						Ward	"Pu
 
 If you control a Spectral Shield, you may play this as though it were an instant."	Illusionist Action				No	
 QTk8NJWmtGQnw9WFTkkP7	Attune with Cosmic Vibrations	3	0	2	2			Mystic, Action, Attack							When this attacks a hero or defends a hero's attack, reveal the top card of their deck. If the revealed card is blue, this gets +3{p} and +3{d}.	Mystic Action - Attack				No	
+TDrmKkRWGKWnqfQkT9QML	Aurora					20	4	Elemental, Runeblade, Hero, Young	Essence of Lightning						"**Once per Turn Instant** - {r}{r}: Create an Embodiment of Lightning token. Activate this only if you've played a Lightning card this turn.
+
+**Essence of Lightning**"	Elemental Runeblade Hero - Young			No		
 qMpdhqQqktTKQHcQJ8f6B	Aurum Aegis				2			Guardian, Equipment, Off-Hand	Victor Specialization, Temper						"**Victor Specialization**
 
 This counts as a Gold.
@@ -1192,6 +1168,9 @@ frQkkTNgtwqhkN6Hgq6cj	Channel Lake Frigid	3	2		3			Ice, Action, Aura	Go again, C
 Cards and activated abilities cost opposing heroes an additional {r}.
 
 **Channel Ice** - At the beginning of your end phase, put a flow counter on Channel Lake Frigid then destroy it unless you put an Ice card from your pitch zone on the bottom of your deck for each flow counter on it."	Ice Action - Aura				No	
+PWbNdrFrhPDk99CRG7QfM	Channel Lightning Valley	2	0					Lightning, Instant, Aura	Channel Lightning						"The first time you deal damage to an opposing hero each turn, draw a card.
+
+**Channel Lightning** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put a Lightning card from your pitch zone on the bottom of your deck for each flow counter on it."	Lightning Instant - Aura				No	
 KCBB8CThnKNQBNGwmrtpn	Channel Mount Heroic	1	3		3			Earth, Action, Aura	Go again, Channel Earth						"**Go again**
 
 Attack action cards you control have +3{p}.
@@ -1207,6 +1186,11 @@ GNKLdtBGNh9BrPr9dTm69	Channel the Bleak Expanse	3	1		2			Ice, Action, Aura	Go ag
 Heroes can't reveal cards, search decks, or draw cards from effects.
 
 **Channel Ice** - At the beginning of your end phase, put a flow counter on Channel the Bleak Expanse then destroy it unless you put an Ice card from your pitch zone on the bottom of your deck for each flow counter on it."	Ice Action - Aura				No	
+wkHBqcWJQwCLr9fLKLpdw	Channel the Millennium Tree	1	3		3			Earth, Action, Aura	Go again, Channel Earth, Amp 3						"**Go again**
+
+When this enters the arena and at the beginning of your action phase, **amp 3**.
+
+**Channel Earth** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put an Earth card from your pitch zone on the bottom of your deck for each flow counter on it."	Earth Action - Aura				No	
 rWccJ7CMn69khJP7QJ7G9	Charge of the Light Brigade	1	0		3			Light, Warrior, Action	Go again					Charge	"The next attack you **charge** to play this turn gets +3{p}.
 
 **Go again**"	Light Warrior Action					
@@ -2548,6 +2532,10 @@ N77hdGp96fNQnzc79hqN9	Eye of Ophidia	3						Generic, Resource, Gem	Legendary, Op
 
 When you pitch Eye of Ophidia, **opt 2**."	Generic Resource - Gem				No	
 LTzk7nGqnkqRdddd9LRjQ	Fabric of Blossoms	3	0		2			Generic, Action, Construct	Negate						Equip Blossom of Spring. If you don't, **negate this**.	Generic Action - Construct		No	No	No	
+7hQbqFfrRpbMKBWT8DG97	Fabric of Hope	1	0		2			Generic, Action, Construct	Negate						Equip Hope Merchant's Hood. If you don't, **negate** this.	Generic Action - Construct		No	No	No	
+jRmPPnCdbT97fBdhK9jhq	Fabric of Providence	1	0		2			Generic, Action, Construct	Legendary, Negate						"**Legendary**
+
+Equip Crown of Providence. If you don't, **negate** this."	Generic Action - Construct		No	No	No	
 6LLwpNzLJBgr8c8nTqdmr	Fabric of Scales	3	0		2			Generic, Action, Construct	Negate						Equip Snapdragon Scalers. If you don't, **negate** this.	Generic Action - Construct		No	No	No	
 NTnphGB9GCpfrLRQRcNbj	Fabric of Spring	2	0		2			Generic, Action, Construct	Legendary, Negate						Equip Fyendal's Spring Tunic. If you don't, **negate this**.	Generic Action - Construct		No	No	No	
 cjJpkCtJwndP7FwzwDDQc	Fabricate	1	0					Mechanologist, Instant							"Choose 2;
@@ -2610,6 +2598,9 @@ RNTCqkRgmcHbcjjNph96G	Felling Swing	2	3		3			Warrior, Action	Go again						"Your
 P8TDDpgPhhWHncTNcpC7n	Felling Swing	3	3		3			Warrior, Action	Go again						"Your next axe attack this turn gains +4{p}.
 
 **Go again**"	Warrior Action					
+PkQPFgMNLn69hmMnq7jCC	Felling of the Crown	1	3	4	3			Earth, Action, Attack	Decompose						"If there are 4 or more Earth cards in your banished zone, this gets +4{p}.
+
+**Decompose** - When this attacks, you may banish 2 Earth cards and an action card from your graveyard. If you do, each hero puts a card from their hand on the bottom of their deck."	Earth Action - Attack				No	
 FjH7WBT6NtmQjrBHBkbTk	Fender Bender	1	1	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
 This gets +X{p}, where X is the number of equipment defending it."	Mechanologist Action - Attack					
@@ -2772,6 +2763,9 @@ When you attack with Flock of the Feather Walkers, create a Quicken token."	Gene
 
 When you attack with Flock of the Feather Walkers, create a Quicken token."	Generic Action - Attack					
 9QkzLM66JjHbrMD9M6KDf	Flood of Force	2	0	1	3			Ninja, Action, Attack	Combo, Go again					Combo	**Combo** - If Rushing River or Flood of Force was the last attack this combat chain, when you attack with Flood of Force, reveal the top card of your deck. If it's a card with **combo,** put it into your hand then Flood of Force gains +3{p} and **go again**.	Ninja Action - Attack				No	
+Ht8qhJWDMHjjMjzqgf6KG	Florian					20	4	Elemental, Runeblade, Hero, Young	Essence of Earth						"If there are 4 or more Earth cards in your banished zone, Florian gets ""If you would create 1 or more aura tokens, instead create that many plus 1 of each of those tokens.""
+
+**Essence of Earth**"	Elemental Runeblade Hero - Young			No		
 Wk9cnfJGMJRgWNMm7czwH	Fluster Fist	1	0	4	3			Ninja, Action, Attack	Combo						**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack				No	
 HGNCdBCQmdRqQGggmrLjg	Fluster Fist	2	0	3	3			Ninja, Action, Attack	Combo						**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack				No	
 9n8wHtnLRcNrMhctcDQCb	Fluster Fist	3	0	2	3			Ninja, Action, Attack	Combo						**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack				No	
@@ -2959,6 +2953,11 @@ If you've played another Wizard non-attack action card this turn, put this into 
 
 **Spectra**"	Light Illusionist Instant - Aura				No	
 Mqj9K8NgJ7LFBwMKWk6L7	Genis Wotchuneed					20	4	Merchant, Hero, Young		Once per Turn Action	Go again				**Once per Turn Action** - {r}{r}: Each other hero may put a card from their hand on the bottom of their deck. If they do, they draw a card and you create a Silver token. If you gain no Silver this way, draw a card. **Go again**	Merchant Hero - Young			No	No	
+drgrrjBH9rz9k67qc6WnF	Germinate	3	XX		3			Earth, Runeblade, Action	Florian Specialization						"**Florian Specialization**
+
+Create a Runechant or Embodiment of Earth token. Repeat this process X more times.
+
+Gain X+1 {h}"	Earth Runeblade Action				No	
 rmdqRKFwTMWr97GPqNd6Q	Ghostly Touch				0			Illusionist, Equipment, Arms		Once per Turn Action	Go again				"Whenever an Illusionist attack you control is destroyed by **phantasm**, put a haunt counter on Ghostly Touch.
 
 **Once per Turn Action** - Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with **phantasm**, base {p} and {h} equal to the number of haunt counters on it, and ""**Once per Turn Action** - {r}{r}{r}: **Attack**"". **Go again**"	Illusionist Equipment - Arms				No	
@@ -3216,6 +3215,11 @@ PpQBJwQCfFrHzKM9TkcbD	Heart of Ice				1			Ice, Equipment, Chest	Arcane Barrier 1
 
 **Blade Break**"	Ice Equipment - Chest				No	
 h7NLHrBf7dNmKLN8zqRLn	Heart-throb							Bard, Equipment, Chest		Action	Go again				**Action** - Destroy this: Each hero creates a Vigor token.  **Go again**	Bard Equipment - Chest				No	
+rQ7rcfpMdHMcLkTqtnfHz	Heartbeat of Candlehold	3	1		3			Earth, Wizard, Action	Verdance Specialization, Go again						"**Verdance Specialization**
+
+Gain 1{h}. Gain 1{h}. Gain 1{h}.
+
+**Go again**"	Earth Wizard Action				No	
 666mgFjKrrLQhdkpGzNzf	Heartened Cross Strap				0			Generic, Equipment, Chest		Action	Go again				**Action** - Destroy Heartened Cross Strap: The next attack action card you play this turn costs {r}{r} less to play. **Go again**	Generic Equipment - Chest					
 8KcHGzJF7JBb67qmjgNMb	Hearty Block	1			3			Guardian, Warrior, Block							When this defends, if you control a Vigor token, gain 1{h}.	Guardian / Warrior Block				No	
 H6KCbhR6jqrLJnhjM8GPN	Heat Seeker	1	1	5	3			Ranger, Action, Arrow, Attack							When this hits, at the beginning of your end phase, put the top card of your deck face up into your arsenal.	Ranger Action - Arrow Attack				No	

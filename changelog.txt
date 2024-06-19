@@ -668,6 +668,11 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 06-12-24:
 - Fixed incorrect spelling of type text for Take the Tempo
 
+06-18-24:
+- Added card data for Fabric of Hope and Fabric of Providence
+- Added printing data and images for LSS012 and LSS013
+- Fixed incorrect foiling for Snapdragon Scalers and Scabskin Leathers that are the backsides of the Fabric promos
+
 TODO:
 - Added card data for ROS
 - Added printing dat afor ROS???-ROS???, FAB265-FAB266,
