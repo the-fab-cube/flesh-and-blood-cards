@@ -667,3 +667,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 06-12-24:
 - Fixed incorrect spelling of type text for Take the Tempo
+
+TODO:
+- Added card data for ROS
+- Added printing dat afor ROS???-ROS???, FAB265-FAB266,
+- Added Decompose keyword

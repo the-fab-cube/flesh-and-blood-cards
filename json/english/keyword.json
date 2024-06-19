@@ -108,6 +108,12 @@
         "description_plain": "A Guardian mechanic that showcases the strength of the guardian. When an attack with crush deals 4 or more damage to a hero, an effect is applied."
     },
     {
+        "unique_id": "BwRFJmmNC6LNLwrtjWb7T",
+        "name": "Decompose",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "LdpzkhTrrcHJJtLFnctGW",
         "name": "Dominate",
         "description": "An attack that is difficult to defend. Cards with **dominate** cannot be defended with more than 1 card from the defending hero's hand.",

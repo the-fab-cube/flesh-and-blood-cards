@@ -1,4 +1,31 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+Ht8qhJWDMHjjMjzqgf6KG	Florian					20	4	Elemental, Runeblade, Hero, Young	Essence of Earth						"If there are 4 or more Earth cards in your banished zone, Florian gets ""If you would create 1 or more aura tokens, instead create that many plus 1 of each of those tokens.""
+
+**Essence of Earth**"	Elemental Runeblade Hero - Young			No		
+drgrrjBH9rz9k67qc6WnF	Germinate	3	XX		3			Earth, Runeblade, Action	Florian Specialization						"**Florian Specialization**
+
+Create a Runechant or Embodiment of Earth token. Repeat this process X more times.
+
+Gain X+1 {h}"	Earth Runeblade Action				No	
+TDrmKkRWGKWnqfQkT9QML	Aurora					20	4	Elemental, Runeblade, Hero, Young	Essence of Lightning						"**Once per Turn Instant** - {r}{r}: Create an Embodiment of Lightning token. Activate this only if you've played a Lightning card this turn.
+
+**Essence of Lightning**"	Elemental Runeblade Hero - Young			No		
+rQ7rcfpMdHMcLkTqtnfHz	Heartbeat of Candlehold	3	1		3			Earth, Wizard, Action	Verdance Specialization, Go again						"**Verdance Specialization**
+
+Gain 1{h}. Gain 1{h}. Gain 1{h}.
+
+**Go again**"	Earth Wizard Action				No	
+PkQPFgMNLn69hmMnq7jCC	Felling of the Crown	1	3	4	3			Earth, Action, Attack	Decompose						"If there are 4 or more Earth cards in your banished zone, this gets +4{p}.
+
+**Decompose** - When this attacks, you may banish 2 Earth cards and an action card from your graveyard. If you do, each hero puts a card from their hand on the bottom of their deck."	Earth Action - Attack				No	
+wkHBqcWJQwCLr9fLKLpdw	Channel the Millennium Tree	1	3		3			Earth, Action, Aura	Go again, Channel Earth, Amp 3						"**Go again**
+
+When this enters the arena and at the beginning of your action phase, **amp 3**.
+
+**Channel Earth** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put an Earth card from your pitch zone on the bottom of your deck for each flow counter on it."	Earth Action - Aura				No	
+PWbNdrFrhPDk99CRG7QfM	Channel Lightning Valley	2	0					Lightning, Instant, Aura	Channel Lightning						"The first time you deal damage to an opposing hero each turn, draw a card.
+
+**Channel Lightning** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put a Lightning card from your pitch zone on the bottom of your deck for each flow counter on it."	Lightning Instant - Aura				No	
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3			Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
