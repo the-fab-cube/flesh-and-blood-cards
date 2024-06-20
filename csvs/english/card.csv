@@ -301,6 +301,9 @@ DpWbbCGtWQJwRhrKr9Cwm	Astral Etchings	3	1		3			Illusionist, Action						Ward	"Pu
 
 If you control a Spectral Shield, you may play this as though it were an instant."	Illusionist Action				No	
 QTk8NJWmtGQnw9WFTkkP7	Attune with Cosmic Vibrations	3	0	2	2			Mystic, Action, Attack							When this attacks a hero or defends a hero's attack, reveal the top card of their deck. If the revealed card is blue, this gets +3{p} and +3{d}.	Mystic Action - Attack				No	
+TDrmKkRWGKWnqfQkT9QML	Aurora					20	4	Elemental, Runeblade, Hero, Young	Essence of Lightning	Once per Turn Instant					"**Once per Turn Instant** - {r}{r}: Create an Embodiment of Lightning token. Activate this only if you've played a Lightning card this turn.
+
+**Essence of Lightning**"	Elemental Runeblade Hero - Young			No		
 qMpdhqQqktTKQHcQJ8f6B	Aurum Aegis				2			Guardian, Equipment, Off-Hand	Victor Specialization, Temper						"**Victor Specialization**
 
 This counts as a Gold.
@@ -2099,7 +2102,7 @@ When Embermaw Cenipai is destroyed, create an Ash token."	Draconic Illusionist A
 jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							Elemental, Token, Aura							"'Non-attack' action cards you control have +1{d} while defending.
 
 At the beginning of your action phase, destroy Embodiment of Earth."	Elemental Token - Aura					
-QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning							Elemental, Token, Aura				Go again			When you play an attack action card, destroy Embodiment of Lightning and the attack gains **go again**.	Elemental Token - Aura					
+QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning							Elemental, Token, Aura				Go again			When you play an attack action card, destroy this, then the attack gets **go again**.	Elemental Token - Aura					
 nFFr6KgcT7gWPgbfRQQhW	Embolden	1	4		3			Guardian, Action, Aura	Go again						"**Go again**
 
 When Embolden enters the arena, if you control another non-token aura, draw a card.
