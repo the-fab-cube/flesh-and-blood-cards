@@ -673,6 +673,13 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data and images for LSS012 and LSS013
 - Fixed incorrect foiling for Snapdragon Scalers and Scabskin Leathers that are the backsides of the Fabric promos
 
+06-20-24:
+- Added card data for Aurora, Terra, Line It Up, and Target Totalizer
+- Added printing data for AAZ004, AAZ024, AUR001, AUR027, TER001, and TER028
+- Added images for AUR001, AUR027, TER001, and TER028
+- Added set data for AAZ, AUR, and TER
+- Updated functional text for Embodiment of Lightning
+
 TODO:
 - Added card data for ROS
 - Added printing dat afor ROS???-ROS???, FAB265-FAB266,

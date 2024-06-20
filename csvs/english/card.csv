@@ -301,7 +301,7 @@ DpWbbCGtWQJwRhrKr9Cwm	Astral Etchings	3	1		3			Illusionist, Action						Ward	"Pu
 
 If you control a Spectral Shield, you may play this as though it were an instant."	Illusionist Action				No	
 QTk8NJWmtGQnw9WFTkkP7	Attune with Cosmic Vibrations	3	0	2	2			Mystic, Action, Attack							When this attacks a hero or defends a hero's attack, reveal the top card of their deck. If the revealed card is blue, this gets +3{p} and +3{d}.	Mystic Action - Attack				No	
-TDrmKkRWGKWnqfQkT9QML	Aurora					20	4	Elemental, Runeblade, Hero, Young	Essence of Lightning						"**Once per Turn Instant** - {r}{r}: Create an Embodiment of Lightning token. Activate this only if you've played a Lightning card this turn.
+TDrmKkRWGKWnqfQkT9QML	Aurora					20	4	Elemental, Runeblade, Hero, Young	Essence of Lightning	Once per Turn Instant					"**Once per Turn Instant** - {r}{r}: Create an Embodiment of Lightning token. Activate this only if you've played a Lightning card this turn.
 
 **Essence of Lightning**"	Elemental Runeblade Hero - Young			No		
 qMpdhqQqktTKQHcQJ8f6B	Aurum Aegis				2			Guardian, Equipment, Off-Hand	Victor Specialization, Temper						"**Victor Specialization**
@@ -2110,7 +2110,7 @@ When Embermaw Cenipai is destroyed, create an Ash token."	Draconic Illusionist A
 jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							Elemental, Token, Aura							"'Non-attack' action cards you control have +1{d} while defending.
 
 At the beginning of your action phase, destroy Embodiment of Earth."	Elemental Token - Aura					
-QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning							Elemental, Token, Aura				Go again			When you play an attack action card, destroy Embodiment of Lightning and the attack gains **go again**.	Elemental Token - Aura					
+QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning							Elemental, Token, Aura				Go again			When you play an attack action card, destroy this, then the attack gets **go again**.	Elemental Token - Aura					
 nFFr6KgcT7gWPgbfRQQhW	Embolden	1	4		3			Guardian, Action, Aura	Go again						"**Go again**
 
 When Embolden enters the arena, if you control another non-token aura, draw a card.
@@ -4061,6 +4061,11 @@ bjwkrWNdkhrMrPjMtdRmm	Lightning Press	3	0					Lightning, Instant							Target at
 8BFGd6LjfLGgTBrJdmdqf	Lightning Surge	1	0	4	2			Lightning, Action, Attack	Go again						If Lightning Surge is played from arsenal, it gains **go again**.	Lightning Action - Attack					
 b7tLTkWGQtKDhqKG9fjQq	Lightning Surge	2	0	3	2			Lightning, Action, Attack	Go again						If Lightning Surge is played from arsenal, it gains **go again**.	Lightning Action - Attack					
 6CrqfmG7dCTFgNzLbKtcc	Lightning Surge	3	0	2	2			Lightning, Action, Attack	Go again						If Lightning Surge is played from arsenal, it gains **go again**.	Lightning Action - Attack					
+htRtFwB8MhppFMqwLnNzK	Line It Up	2	1		3			Ranger, Action	Go again						"Your next arrow attack this turn gets +3{p}.
+
+You may turn a face-down arrow in your arsenal face-up. If you do, put an aim counter on it.
+
+**Go again**"	Ranger Action				No	
 qKWKLWtD8fBWHrRbKrwkT	Liquefy	1	1		2			Draconic, Attack Reaction	Rupture						"**Rupture** - If Liquefy is played at chain link 4 or higher, target attack action card gains ""When this hits a hero, put a -1{d} counter on an equipment they control. Then if it has 0{d}, destroy it."""	Draconic Attack Reaction				No	
 p7QGFtHCDtj6b8r6wLFwB	Liquid-Cooled Mayhem	1	4	6	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This costs {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
 BzhRqCc9TLjNgJ9dKDPfc	Liquid-Cooled Mayhem	2	4	5	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This costs {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
@@ -7107,6 +7112,7 @@ JTNgbmMDfnz69RKFpjrrR	Talismanic Lens				0			Generic, Equipment, Head		Instant	O
 Cqr7rhqq8hQPPhpHQBCHr	Talk a Big Game	3	0		3			Brute, Guardian, Action	Go again						"Choose a number. The next time you deal that much or more {p} damage to a hero this turn, create that many Might tokens.
 
 **Go again**"	Brute / Guardian Action				No	
+QBPpDnWkrTkRMnJBkjHLq	Target Totalizer							Ranger, Equipment, Head		Action	Go again				**Action** - Destroy this: Whenever an arrow with an aim counter hits this turn, draw a card. **Go again**	Ranger Equipment - Head				No	
 BPHDqTPTT6nKHGjRqjFzR	Tarpit Trap	2	0		3			Ranger, Defense Reaction, Trap						Go again	When this defends an attack with **go again**, the next time an attack action card hits this turn, effects don't trigger.	Ranger Defense Reaction - Trap				No	
 PkD89rQPqTmdPjzH6GMhf	Taylor					18	4	Shapeshifter, Hero, Young							"You may have equipment of any class or talent in your inventory. Each equipment in your starting inventory must have a different name.
 
@@ -7201,6 +7207,9 @@ zknqNdwtDMrHbRpgKkBJw	Terminator Tank	1	6	6	3			Mechanologist, Action, Attack	Ov
 - 2 or more, this costs {r}{r}{r} less to play,
 - 3 or more, this gets **overpower**,
 - 4 or more, this gets +3{p}."	Mechanologist Action - Attack				No	
+JbQPwq8DkLpDdjHCP9www	Terra					20	4	Elemental, Guardian, Hero, Young	Essence of Earth						"At the beginning of each end phase, if there is an Earth card in your pitch zone, you may pay {r}. If you do, create a Might token.
+
+**Essence of Earth**"	Elemental Guardian Hero - Young			No		
 DJQQGbkdhhkMkqpDzWwrw	Territorial Domain	3	0		2			Ninja, Defense Reaction							While this is defending, if you've created a Crouching Tiger this turn, this gets +3{d}.	Ninja Defense Reaction				No	
 6ChQcHfgrFqCLTrFppwQG	Test of Agility	1			4			Brute, Warrior, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Block				No	
 QBwMd7jJGmz7cFKLRDjHd	Test of Might	1			4			Brute, Guardian, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Block				No	

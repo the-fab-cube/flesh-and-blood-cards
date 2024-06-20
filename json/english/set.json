@@ -18,6 +18,24 @@
         ]
     },
     {
+        "unique_id": "zNF9Rtkg998WkCBCgfJQR",
+        "id": "AAZ",
+        "name": "Armory Deck Azalea",
+        "printings": [
+            {
+                "unique_id": "NPjbffBKdhHdPcppbqbbL",
+                "edition": "N",
+                "start_card_id": "AAZ004",
+                "end_card_id": "AAZ024",
+                "initial_release_date": "2024-08-02T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/armory-deck-azalea/",
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
         "unique_id": "HJ8Dqhq7tCwKWFCwkjw86",
         "id": "AKO",
         "name": "Armory Deck Kayo",
@@ -95,6 +113,24 @@
                 "initial_release_date": "2024-07-12T00:00:00.000Z",
                 "out_of_print_date": null,
                 "product_page": "https://fabtcg.com/products/booster-set/armory-deck-boltyn/",
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "8Ft6TJJCLmmfnFDnwddMR",
+        "id": "AUR",
+        "name": "First Strike - Aurora",
+        "printings": [
+            {
+                "unique_id": "mbwq7RbKjKhzPfr7PTCMg",
+                "edition": "N",
+                "start_card_id": "AUR001",
+                "end_card_id": "AUR027",
+                "initial_release_date": "2024-08-23T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/1st-strike/",
                 "collectors_center": null,
                 "card_gallery": null
             }
@@ -940,6 +976,24 @@
                 "product_page": "https://fabtcg.com/products/booster-set/welcome-rathe/wtr-hero-decks/",
                 "collectors_center": "https://fabtcg.com/collectors-centre/welcome-rathe/",
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/dorinthea-hero-deck/"
+            }
+        ]
+    },
+    {
+        "unique_id": "bPGJ6JwTbtmJHQQDbMhjg",
+        "id": "TER",
+        "name": "First Strike - Terra",
+        "printings": [
+            {
+                "unique_id": "RJJGtpc9hTmppLj8BCCwP",
+                "edition": "N",
+                "start_card_id": "TER001",
+                "end_card_id": "TER028",
+                "initial_release_date": "2024-08-23T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/1st-strike/",
+                "collectors_center": null,
+                "card_gallery": null
             }
         ]
     },
