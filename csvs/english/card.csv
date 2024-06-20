@@ -1,8 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-7hQbqFfrRpbMKBWT8DG97	Fabric of Hope	1	0		2			Generic, Action, Construct	Negate						Equip Hope Merchant's Hood. If you don't, **negate** this.	Generic Action - Construct		No	No	No	
-jRmPPnCdbT97fBdhK9jhq	Fabric of Providence	1	0		2			Generic, Action, Construct	Legendary, Negate						"**Legendary**
-
-Equip Crown of Providence. If you don't, **negate** this."	Generic Action - Construct		No	No	No	
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3			Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
@@ -2525,6 +2521,10 @@ N77hdGp96fNQnzc79hqN9	Eye of Ophidia	3						Generic, Resource, Gem	Legendary, Op
 
 When you pitch Eye of Ophidia, **opt 2**."	Generic Resource - Gem				No	
 LTzk7nGqnkqRdddd9LRjQ	Fabric of Blossoms	3	0		2			Generic, Action, Construct	Negate						Equip Blossom of Spring. If you don't, **negate this**.	Generic Action - Construct		No	No	No	
+7hQbqFfrRpbMKBWT8DG97	Fabric of Hope	1	0		2			Generic, Action, Construct	Negate						Equip Hope Merchant's Hood. If you don't, **negate** this.	Generic Action - Construct		No	No	No	
+jRmPPnCdbT97fBdhK9jhq	Fabric of Providence	1	0		2			Generic, Action, Construct	Legendary, Negate						"**Legendary**
+
+Equip Crown of Providence. If you don't, **negate** this."	Generic Action - Construct		No	No	No	
 6LLwpNzLJBgr8c8nTqdmr	Fabric of Scales	3	0		2			Generic, Action, Construct	Negate						Equip Snapdragon Scalers. If you don't, **negate** this.	Generic Action - Construct		No	No	No	
 NTnphGB9GCpfrLRQRcNbj	Fabric of Spring	2	0		2			Generic, Action, Construct	Legendary, Negate						Equip Fyendal's Spring Tunic. If you don't, **negate this**.	Generic Action - Construct		No	No	No	
 cjJpkCtJwndP7FwzwDDQc	Fabricate	1	0					Mechanologist, Instant							"Choose 2;
@@ -4034,6 +4034,11 @@ bjwkrWNdkhrMrPjMtdRmm	Lightning Press	3	0					Lightning, Instant							Target at
 8BFGd6LjfLGgTBrJdmdqf	Lightning Surge	1	0	4	2			Lightning, Action, Attack	Go again						If Lightning Surge is played from arsenal, it gains **go again**.	Lightning Action - Attack					
 b7tLTkWGQtKDhqKG9fjQq	Lightning Surge	2	0	3	2			Lightning, Action, Attack	Go again						If Lightning Surge is played from arsenal, it gains **go again**.	Lightning Action - Attack					
 6CrqfmG7dCTFgNzLbKtcc	Lightning Surge	3	0	2	2			Lightning, Action, Attack	Go again						If Lightning Surge is played from arsenal, it gains **go again**.	Lightning Action - Attack					
+htRtFwB8MhppFMqwLnNzK	Line It Up	2	1		3			Ranger, Action	Go again						"Your next arrow attack this turn gets +3{p}.
+
+You may turn a face-down arrow in your arsenal face-up. If you do, put an aim counter on it.
+
+**Go again**"	Ranger Action				No	
 qKWKLWtD8fBWHrRbKrwkT	Liquefy	1	1		2			Draconic, Attack Reaction	Rupture						"**Rupture** - If Liquefy is played at chain link 4 or higher, target attack action card gains ""When this hits a hero, put a -1{d} counter on an equipment they control. Then if it has 0{d}, destroy it."""	Draconic Attack Reaction				No	
 p7QGFtHCDtj6b8r6wLFwB	Liquid-Cooled Mayhem	1	4	6	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This costs {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
 BzhRqCc9TLjNgJ9dKDPfc	Liquid-Cooled Mayhem	2	4	5	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This costs {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
@@ -7080,6 +7085,7 @@ JTNgbmMDfnz69RKFpjrrR	Talismanic Lens				0			Generic, Equipment, Head		Instant	O
 Cqr7rhqq8hQPPhpHQBCHr	Talk a Big Game	3	0		3			Brute, Guardian, Action	Go again						"Choose a number. The next time you deal that much or more {p} damage to a hero this turn, create that many Might tokens.
 
 **Go again**"	Brute / Guardian Action				No	
+QBPpDnWkrTkRMnJBkjHLq	Target Totalizer							Ranger, Equipment, Head		Action	Go again				**Action** - Destroy this: Whenever an arrow with an aim counter hits this turn, draw a card. **Go again**	Ranger Equipment - Head				No	
 BPHDqTPTT6nKHGjRqjFzR	Tarpit Trap	2	0		3			Ranger, Defense Reaction, Trap						Go again	When this defends an attack with **go again**, the next time an attack action card hits this turn, effects don't trigger.	Ranger Defense Reaction - Trap				No	
 PkD89rQPqTmdPjzH6GMhf	Taylor					18	4	Shapeshifter, Hero, Young							"You may have equipment of any class or talent in your inventory. Each equipment in your starting inventory must have a different name.
 
@@ -7174,6 +7180,9 @@ zknqNdwtDMrHbRpgKkBJw	Terminator Tank	1	6	6	3			Mechanologist, Action, Attack	Ov
 - 2 or more, this costs {r}{r}{r} less to play,
 - 3 or more, this gets **overpower**,
 - 4 or more, this gets +3{p}."	Mechanologist Action - Attack				No	
+JbQPwq8DkLpDdjHCP9www	Terra					20	4	Elemental, Guardian, Hero, Young	Essence of Earth						"At the beginning of each end phase, if there is an Earth card in your pitch zone, you may pay {r}. If you do, create a Might token.
+
+**Essence of Earth**"	Elemental Guardian Hero - Young			No		
 DJQQGbkdhhkMkqpDzWwrw	Territorial Domain	3	0		2			Ninja, Defense Reaction							While this is defending, if you've created a Crouching Tiger this turn, this gets +3{d}.	Ninja Defense Reaction				No	
 6ChQcHfgrFqCLTrFppwQG	Test of Agility	1			4			Brute, Warrior, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Block				No	
 QBwMd7jJGmz7cFKLRDjHd	Test of Might	1			4			Brute, Guardian, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Block				No	
