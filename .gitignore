@@ -12,3 +12,4 @@ node_modules
 *.pyc
 __pycache__
 node_modules
+.git-branches.toml
