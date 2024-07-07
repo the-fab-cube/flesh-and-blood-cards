@@ -679,3 +679,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added images for AUR001, AUR027, TER001, and TER028
 - Added set data for AAZ, AUR, and TER
 - Updated functional text for Embodiment of Lightning
+
+07-07-24:
+- Added card data for Bracers of Bellona's Grace and Solar Plexus
+- Added Mystic type - bug notice credit: gre99ory
+- Fixed "Once per Turn Instant" being listed as a keyword instead of an ability/effect for Barbed Castaway - bug notice credit: gre99ory
