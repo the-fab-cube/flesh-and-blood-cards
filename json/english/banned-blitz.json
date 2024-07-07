@@ -286,5 +286,45 @@
         "date_announced": "2024-03-25T00:00:00.000Z",
         "date_in_effect": "2024-03-25T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-25-3-24/"
+    },
+    {
+        "unique_id": "DwzMFMqph7pkKF8Cb9h9L",
+        "card_unique_id": "Lbp8pFhph9wMqMHDw8JWq",
+        "status_active": true,
+        "date_announced": "2024-07-08T00:00:00.000Z",
+        "date_in_effect": "2024-07-08T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-8-7-24/"
+    },
+    {
+        "unique_id": "WjbcWG9WQLrpG7TmRCJnJ",
+        "card_unique_id": "CrWjLrqtQtppQhQCMt9LH",
+        "status_active": true,
+        "date_announced": "2024-07-08T00:00:00.000Z",
+        "date_in_effect": "2024-07-08T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-8-7-24/"
+    },
+    {
+        "unique_id": "jWpWrPtnKL9dRbB9Kh79Q",
+        "card_unique_id": "jJchLwfJKhdhk8Hw7R6KP",
+        "status_active": true,
+        "date_announced": "2024-07-08T00:00:00.000Z",
+        "date_in_effect": "2024-07-08T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-8-7-24/"
+    },
+    {
+        "unique_id": "zwBBGnnbf9TpMLRJKHBJJ",
+        "card_unique_id": "zgkKwhBtRQf9zWz6kpPJR",
+        "status_active": true,
+        "date_announced": "2024-07-08T00:00:00.000Z",
+        "date_in_effect": "2024-07-08T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-8-7-24/"
+    },
+    {
+        "unique_id": "Rnrm7W8678NhcT7LFkmg7",
+        "card_unique_id": "bbGgprKNzmQPQP9P6CQkL",
+        "status_active": true,
+        "date_announced": "2024-07-08T00:00:00.000Z",
+        "date_in_effect": "2024-07-08T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-8-7-24/"
     }
 ]
