@@ -930,6 +930,9 @@ FJLJfPT9G9rjCCqjGNnrm	Bounding Demigon	3	0	1	3			Shadow, Runeblade, Action, Atta
 
 **Blood Debt**"	Shadow Runeblade Action - Attack					
 c9BtftttMG7WNrKgnfJFt	Bracers of Belief				0			Generic, Equipment, Arms		Action	Go again				**Action** - Destroy Bracers of Belief: Reveal the top card of your deck. If you do, the next attack action card you play this turn, gains +X{p}, where X is 3 minus the pitch value of the card revealed this way. **Go again**	Generic Equipment - Arms					
+Kkh8t7dFfWtf7WBRJWNNJ	Bracers of Bellona's Grace				2			Light, Warrior, Equipment, Arms	Charge, Blade Break						"When this defends, you may **charge** your hero's soul. If a yellow card is **charged** this way, create a Courage token.
+
+**Blade Break**"	Light Warrior Equipment - Arms				No	
 rJjFGmMcKmWCPdkdtmQLN	Brain Freeze	1	0		3			Elemental, Wizard, Action	Ice Fusion						"**Ice Fusion**
 
 Target opponent reveals their hand. If Brain Freeze was **fused**, put an action card with cost 2 or less from their hand on top of their deck."	Elemental Wizard Action					
@@ -6507,6 +6510,7 @@ HmBDfkp8QpWhqNjHfwpPT	Soaring Strike	2	1	3	2			Draconic, Ninja, Action, Attack	G
 LmmNMBnCBtgG6RfWz9rQQ	Soaring Strike	3	1	2	2			Draconic, Ninja, Action, Attack	Go again			Go again			"When Soaring Strike hits, you may banish an attack action card from your hand with cost less than the number of Draconic chain links you control. If you do, it gains **go again** and you may play it this turn.
 
 **Go again**"	Draconic Ninja Action - Attack					
+GJbRTN6kqNnDtGWzTkdPT	Solar Plexus							Light, Equipment, Chest	Instant						**Instant** - Destroy this, banish a card from your soul: Yellow cards cost you {r} less to play this turn.	Light Equipment - Chest				No	
 NwK66fmnJNBBbTBprQkFG	Solitary Companion	1	0		2			Illusionist, Action, Aura	Ward 3						"When this enters the arena, if you control no other Illusionist auras, create a Spectral Shield token.
 
 **Ward 1**"	Illusionist Action - Aura					
