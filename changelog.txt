@@ -685,7 +685,11 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added Mystic type - bug notice credit: gre99ory
 - Fixed "Once per Turn Instant" being listed as a keyword instead of an ability/effect for Barbed Castaway - bug notice credit: gre99ory
 
+- Updated CC Banned status for Bonds of Ancestry (Yellow and Blue)
+- Updated Blitz Banned status for Crown of Seeds, Aether Wildfire, and Aether Flare
+- Update LL Restricted status for Channel Lake Frigid
+
 TODO:
 - Added card data for ROS
-- Added printing dat afor ROS???-ROS???, FAB265-FAB266,
+- Added printing data for ROS???-ROS???, FAB265-FAB266,
 - Added Decompose keyword
