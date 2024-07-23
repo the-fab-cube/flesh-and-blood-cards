@@ -687,3 +687,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated CC Banned status for Bonds of Ancestry (Yellow and Blue)
 - Updated Blitz Banned status for Crown of Seeds, Aether Wildfire, and Aether Flare
 - Update LL Restricted status for Channel Lake Frigid
+
+07-22-24:
+- Added card data for Earth Form and Lightning Form - data entry assistance: manwaring
+- Added printing data for LGS282-LGS308
+- Fixed incorrect Falcon Wing type text - bug notice credit: Stingray

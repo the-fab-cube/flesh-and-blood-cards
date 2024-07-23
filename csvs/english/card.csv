@@ -2034,6 +2034,7 @@ t9JLzLpkTqwMQmzjkcDG8	Dustup	3	0	2	3			Draconic, Illusionist, Action, Attack	Tra
 C7NCzqwTbKtcQKjwHRzBK	Dyadic Carapace				2			Runeblade, Equipment, Chest	Arcane Barrier 2, Temper						"**Arcane Barrier 2**
 
 **Temper**"	Runeblade Equipment - Chest				No	
+hCkjMgHBTtbPccM6FfKmL	Earth Form	1	3	7	2			Earth, Action, Attack							When this hits, create an Embodiment of Earth token.	Earth Action - Attack					
 qCwM6LGq87rrqGQFk8rKG	Earthlore Bounty				2			Guardian, Equipment, Chest	Temper						"Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.
 
 **Temper**"	Guardian Equipment - Chest				No	
@@ -2553,13 +2554,13 @@ RjNJbgTJn7bJrjJHBdfC8	Fai, Rising Rebellion					40	4	Draconic, Ninja, Hero		Once
 **Once per Turn Instant** - {r}{r}{r}: Return a Phoenix Flame from your graveyard to your hand. This ability costs {r} less for each Draconic chain link you control."	Draconic Ninja Hero		No		No	
 6KgPjKJBhMkRQgKDdhnbL	Falcon Wing	1	0	3	3			Ranger, Action, Arrow, Attack	Go again						"If Falcon Wing has an aim counter, it has +1{p}.
 
-**Go again**"	Ranger Action					
+**Go again**"	Ranger Action - Arrow Attack					
 tpbMRQDzgf7p8WGmMm9wt	Falcon Wing	2	0	2	3			Ranger, Action, Arrow, Attack	Go again						"If Falcon Wing has an aim counter, it has +1{p}.
 
-**Go again**"	Ranger Action					
+**Go again**"	Ranger Action - Arrow Attack					
 MgM8rpdGfh97ChtG7RQ9L	Falcon Wing	3	0	1	3			Ranger, Action, Arrow, Attack	Go again						"If Falcon Wing has an aim counter, it has +1{p}.
 
-**Go again**"	Ranger Action					
+**Go again**"	Ranger Action - Arrow Attack					
 QqDQKkgCz9TM6HDgFkqcL	Fang Strike		0					Mystic, Assassin, Attack Reaction	Ephemeral						"**Ephemeral**
 
 Target attack action card gets +1{p}."	Mystic Assassin Attack Reaction					
@@ -4034,6 +4035,7 @@ When this hits, if a yellow card was **charged** this way, this gets **go again*
 TGKkqC6BBFJnggLzKtDLt	Light the Way	3	0	1	3			Light, Warrior, Action, Attack	Charge, Go again						"As an additional cost to play this, you may **charge** your hero's soul.
 
 When this hits, if a yellow card was **charged** this way, this gets **go again**."	Light Warrior Action - Attack					
+DdtptrGpgDbnbDJgktBtk	Lightning Form	1	1	5	2			Lightning, Action, Attack							When this hits, create an Embodiment of Lightning token.	Lightning Action - Attack					
 QWgWwdcd8GPj8dCjCmRCR	Lightning Press	1	0					Lightning, Instant							Target attack action card with cost 1 or less gains +3{p}.	Lightning Instant				No	
 CNgPdMm79nkPHpnqGQCFd	Lightning Press	2	0					Lightning, Instant							Target attack action card with cost 1 or less gains +2{p}.	Lightning Instant				No	
 bjwkrWNdkhrMrPjMtdRmm	Lightning Press	3	0					Lightning, Instant							Target attack action card with cost 1 or less gains +1{p}.	Lightning Instant				No	
