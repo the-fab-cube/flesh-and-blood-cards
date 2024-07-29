@@ -1,6 +1,4 @@
 Card Unique ID	Card Name	Card Pitch	Referenced Card Unique ID	Referenced Card Name	Referenced Card Pitch	
-hCkjMgHBTtbPccM6FfKmL	Earth Form	1	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth		
-DdtptrGpgDbnbDJgktBtk	Lightning Form	1	QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning		
 KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield		
 BzkLdhrmkWpnbDBWNMJhp	Aether Arc	3	HpWqFJW8ftTDdzCLK9RkD	Ponder		
 tFKpRnDbfcwtC8dwqm9qm	Agile Engagement	1	WqTTMjDgKKCp7Lnb7LH6d	Agility		
@@ -169,6 +167,7 @@ TgfHM6NJztn6HpbgjDNMg	Assault and Battery	3	WqTTMjDgKKCp7Lnb7LH6d	Agility
 cmknRBBPtjNQzhkQPWpcJ	Astral Etchings	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield		
 DpWbbCGtWQJwRhrKr9Cwm	Astral Etchings	3	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield		
 TDrmKkRWGKWnqfQkT9QML	Aurora		QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning		
+mHBtPppktRTkWpnf69dHj	Aurora, Shooting Star		QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning		
 qMpdhqQqktTKQHcQJ8f6B	Aurum Aegis		fc8jMwTprwnhRbPKDmF9J	Victor Goldmane, High and Mighty		
 qMpdhqQqktTKQHcQJ8f6B	Aurum Aegis		kHmRR6Q7mJPjQgdQJcjpQ	Victor Goldmane		
 qMpdhqQqktTKQHcQJ8f6B	Aurum Aegis		8qdmprPg7kckn8ktMTKQh	Gold		
@@ -632,6 +631,9 @@ HkTf6CPMRKgDkntFLngDg	Dustup	2	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing
 HkTf6CPMRKgDkntFLngDg	Dustup	2	G6CnbFqjfGgKqqqmnCbMh	Ash		
 t9JLzLpkTqwMQmzjkcDG8	Dustup	3	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing		
 t9JLzLpkTqwMQmzjkcDG8	Dustup	3	G6CnbFqjfGgKqqqmnCbMh	Ash		
+hCkjMgHBTtbPccM6FfKmL	Earth Form	1	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth		
+rbDcWtf9Dm6L9wrBj7Cnz	Earth Form	2	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth		
+wrkDkLdGhJjTfPGzr68wM	Earth Form	3	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth		
 qCwM6LGq87rrqGQFk8rKG	Earthlore Bounty		Rf8CHpzmhJNppCtDDKWDm	Seismic Surge		
 PDHFDfPrn8TwBGw6h7cFr	Eclipse	3	mCCnJrJQkqJ7KfqKNHGnc	Chane		
 PDHFDfPrn8TwBGw6h7cFr	Eclipse	3	MhBTRHCCft7RbrMmkwwGw	Chane, Bound by Shadow		
@@ -983,6 +985,9 @@ LJ9FRbpjJLcpHMM6wk6HW	Life of the Party	1	zHBTDcDtMLgTrqfnmTB9q	Crazy Brew	3
 bbgPwChkMppQBfwfrfTtL	Life of the Party	3	zHBTDcDtMLgTrqfnmTB9q	Crazy Brew	3	
 7hLgJ6QwzWmFrG8phh9qb	Light it Up	2	GFc7t8wNTwC8rCFwrqTfh	Lexi		
 7hLgJ6QwzWmFrG8phh9qb	Light it Up	2	PFmgFK9dFr8q6PrpJFpPG	Lexi, Livewire		
+DdtptrGpgDbnbDJgktBtk	Lightning Form	1	QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning		
+qkQLJNc7RM6LcztMdbrfz	Lightning Form	2	QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning		
+pLbjgzrzbGMwcd8mbRcRG	Lightning Form	3	QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning		
 NdGdjWwfTnfdWGFL6tRwz	Looming Doom	3	zfrHQjbPkpBmdQGrWcTMB	Runechant		
 hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	QnGJNBGBFw98q9n9NCdRW	Katsu		
 hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	nM8BHGHd9qLGTPgwtWzkJ	Katsu, the Wanderer		
@@ -1580,6 +1585,7 @@ dJCRQcRmp7mhMTNDRgFN8	Thaw	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite
 wPnWnDTdFfnjghqkQB88C	The Golden Son	2	fc8jMwTprwnhRbPKDmF9J	Victor Goldmane, High and Mighty		
 wPnWnDTdFfnjghqkQB88C	The Golden Son	2	kHmRR6Q7mJPjQgdQJcjpQ	Victor Goldmane		
 wPnWnDTdFfnjghqkQB88C	The Golden Son	2	8qdmprPg7kckn8ktMTKQh	Gold		
+MLzWh7MWcDdN8wnwQWwMN	Thistle Bloom // Life	2	zfrHQjbPkpBmdQGrWcTMB	Runechant		
 PDPbhCGj7twzTP8HGfhBb	Thunk	1	6gqTwGnmHjkCLDqKPWt8c	Might		
 KqtjpgTftPFhRbhwQkcBQ	Thunk	2	6gqTwGnmHjkCLDqKPWt8c	Might		
 7HFBMWtFrdmQpQkLLwHGJ	Thunk	3	6gqTwGnmHjkCLDqKPWt8c	Might		
