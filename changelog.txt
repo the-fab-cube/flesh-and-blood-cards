@@ -692,3 +692,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for Earth Form and Lightning Form - data entry assistance: manwaring
 - Added printing data for LGS282-LGS308
 - Fixed incorrect Falcon Wing type text - bug notice credit: Stingray
+
+07-31-24:
+- Added card data for all AUR cards - data entry assistance: manwaring
+- Added printing data for AUR001-AUR029 - data entry assistance: manwaring
+- Updated functional text for Lightning Surge

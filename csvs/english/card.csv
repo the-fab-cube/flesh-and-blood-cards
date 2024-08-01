@@ -1,4 +1,27 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+m7NGBRdNftTh9ntBzppbB	Star Fall			1				Lightning, Runeblade, Weapon, Sword, 2H	Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
+
+If you've played a Lightning card this turn, this card's attacks get +1{p} and **go again**."	Lightning Runeblade Weapon - Sword (2H)					
+BhFQMNHMHH9ddMH86tqQ9	Aether Crackers				0			Runeblade, Equipment, Arms							When an attack you control hits a hero, you may destroy this. If you do, deal 1 arcane damage to them.	Runeblade Equipment - Arms					
+tmNrkK9dghWBkfmgLH7MG	Crackling	1	0	3	3			Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, this gets +1{p}.	Elemental Runeblade Action - Attack					
+JfqmwhFzQNjrQB8qTGHpN	Fry	1	0	3	0			Lightning, Action, Attack	Go again						**Go again**	Lightning Action - Attack					
+tLLcFGDJBDDbRJpcrj6Hp	Photon Rush	1	0	3	3			Elemental, Runeblade, Action, Attack	Lightning Flow, Go again						**Lightning Flow** - If you've played a Lightning card this turn, this gets **go again**	Elemental Runeblade Action - Attack					
+M9NHHJLbL9CDLgRjFFzTn	Static Shock	1	0	4	3			Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - When this hits a hero, if you've played a Lightning card this turn, deal 1 arcane damage to them.	Elemental Runeblade Action - Attack				No	
+mnBtJdtHfCCzLtdkbJqKz	Harness Lightning	1	0		2			Elemental, Runeblade, Action	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, deal 3 arcane damage to target hero.	Elemental Runeblade Action				No	
+jkbMCtNCWghQGKqkDtGQr	Sizzle	1	0		2			Lightning, Action	Go again						"Your next Lightning or Elemental attack this turn gets +3{p}.
+
+**Go again**"	Lightning Action					
+DKNCGmjBWngRMjmTCbKLr	Crackling	2	0	2	3			Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, this gets +1{p}.	Elemental Runeblade Action - Attack					
+8mL68DRLDWNmj7dTnwczP	Fry	2	0	2	0			Lightning, Action, Attack	Go again						**Go again**	Lightning Action - Attack					
+mwKQwF9C99qwcj9M7bpwd	Static Shock	2	0	3	3			Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - When this hits a hero, if you've played a Lightning card this turn, deal 1 arcane damage to them.	Elemental Runeblade Action - Attack				No	
+FrLnt7LBFzJbWTFFWhWQj	Harness Lightning	2	0		2			Elemental, Runeblade, Action	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, deal 2 arcane damage to target hero.	Elemental Runeblade Action				No	
+m9KtRPwMhWCwt8Gfp86cn	Sizzle	2	0		2			Lightning, Action	Go again						"Your next Lightning or Elemental attack this turn gets +2{p}.
+
+**Go again**"	Lightning Action					
+kcHGCkMphHJwgcNd7jJcz	Spark Spray	2	0	3	2			Lightning, Action, Attack							When this is defended by 1 or more cards, you may pay {r}. If you do, this gets +1{p}.	Lightning Action - Attack					
+8jzNDBDqQhcHgJtG9JRF8	Cloud Cover	2	0					Lightning, Instant							The next time you would be dealt damage this turn, prevent 2 of that damage.	Lightning Instant				No	
+hmwDMcWw9jwmjmpk8rBjR	Photon Rush	3	0	1	3			Elemental, Runeblade, Action, Attack	Lightning Flow, Go again						**Lightning Flow** - If you've played a Lightning card this turn, this gets **go again**	Elemental Runeblade Action - Attack					
+kk9mFcfzzzPL6RH9tcBw8	Spark Spray	3	0	2	2			Lightning, Action, Attack							When this is defended by 1 or more cards, you may pay {r}. If you do, this gets +1{p}.	Lightning Action - Attack					
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3			Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
@@ -4039,9 +4062,9 @@ DdtptrGpgDbnbDJgktBtk	Lightning Form	1	1	5	2			Lightning, Action, Attack							W
 QWgWwdcd8GPj8dCjCmRCR	Lightning Press	1	0					Lightning, Instant							Target attack action card with cost 1 or less gains +3{p}.	Lightning Instant				No	
 CNgPdMm79nkPHpnqGQCFd	Lightning Press	2	0					Lightning, Instant							Target attack action card with cost 1 or less gains +2{p}.	Lightning Instant				No	
 bjwkrWNdkhrMrPjMtdRmm	Lightning Press	3	0					Lightning, Instant							Target attack action card with cost 1 or less gains +1{p}.	Lightning Instant				No	
-8BFGd6LjfLGgTBrJdmdqf	Lightning Surge	1	0	4	2			Lightning, Action, Attack	Go again						If Lightning Surge is played from arsenal, it gains **go again**.	Lightning Action - Attack					
-b7tLTkWGQtKDhqKG9fjQq	Lightning Surge	2	0	3	2			Lightning, Action, Attack	Go again						If Lightning Surge is played from arsenal, it gains **go again**.	Lightning Action - Attack					
-6CrqfmG7dCTFgNzLbKtcc	Lightning Surge	3	0	2	2			Lightning, Action, Attack	Go again						If Lightning Surge is played from arsenal, it gains **go again**.	Lightning Action - Attack					
+8BFGd6LjfLGgTBrJdmdqf	Lightning Surge	1	0	4	2			Lightning, Action, Attack	Go again						If this was played from arsenal, it gains **go again**.	Lightning Action - Attack					
+b7tLTkWGQtKDhqKG9fjQq	Lightning Surge	2	0	3	2			Lightning, Action, Attack	Go again						If this was played from arsenal, it gains **go again**.	Lightning Action - Attack					
+6CrqfmG7dCTFgNzLbKtcc	Lightning Surge	3	0	2	2			Lightning, Action, Attack	Go again						If this was played from arsenal, it gains **go again**.	Lightning Action - Attack					
 htRtFwB8MhppFMqwLnNzK	Line It Up	2	1		3			Ranger, Action	Go again						"Your next arrow attack this turn gets +3{p}.
 
 You may turn a face-down arrow in your arsenal face-up. If you do, put an aim counter on it.
