@@ -1,27 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-m7NGBRdNftTh9ntBzppbB	Star Fall			1				Lightning, Runeblade, Weapon, Sword, 2H	Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
-
-If you've played a Lightning card this turn, this card's attacks get +1{p} and **go again**."	Lightning Runeblade Weapon - Sword (2H)					
-BhFQMNHMHH9ddMH86tqQ9	Aether Crackers				0			Runeblade, Equipment, Arms							When an attack you control hits a hero, you may destroy this. If you do, deal 1 arcane damage to them.	Runeblade Equipment - Arms					
-tmNrkK9dghWBkfmgLH7MG	Crackling	1	0	3	3			Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, this gets +1{p}.	Elemental Runeblade Action - Attack					
-JfqmwhFzQNjrQB8qTGHpN	Fry	1	0	3	0			Lightning, Action, Attack	Go again						**Go again**	Lightning Action - Attack					
-tLLcFGDJBDDbRJpcrj6Hp	Photon Rush	1	0	3	3			Elemental, Runeblade, Action, Attack	Lightning Flow, Go again						**Lightning Flow** - If you've played a Lightning card this turn, this gets **go again**	Elemental Runeblade Action - Attack					
-M9NHHJLbL9CDLgRjFFzTn	Static Shock	1	0	4	3			Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - When this hits a hero, if you've played a Lightning card this turn, deal 1 arcane damage to them.	Elemental Runeblade Action - Attack				No	
-mnBtJdtHfCCzLtdkbJqKz	Harness Lightning	1	0		2			Elemental, Runeblade, Action	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, deal 3 arcane damage to target hero.	Elemental Runeblade Action				No	
-jkbMCtNCWghQGKqkDtGQr	Sizzle	1	0		2			Lightning, Action	Go again						"Your next Lightning or Elemental attack this turn gets +3{p}.
-
-**Go again**"	Lightning Action					
-DKNCGmjBWngRMjmTCbKLr	Crackling	2	0	2	3			Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, this gets +1{p}.	Elemental Runeblade Action - Attack					
-8mL68DRLDWNmj7dTnwczP	Fry	2	0	2	0			Lightning, Action, Attack	Go again						**Go again**	Lightning Action - Attack					
-mwKQwF9C99qwcj9M7bpwd	Static Shock	2	0	3	3			Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - When this hits a hero, if you've played a Lightning card this turn, deal 1 arcane damage to them.	Elemental Runeblade Action - Attack				No	
-FrLnt7LBFzJbWTFFWhWQj	Harness Lightning	2	0		2			Elemental, Runeblade, Action	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, deal 2 arcane damage to target hero.	Elemental Runeblade Action				No	
-m9KtRPwMhWCwt8Gfp86cn	Sizzle	2	0		2			Lightning, Action	Go again						"Your next Lightning or Elemental attack this turn gets +2{p}.
-
-**Go again**"	Lightning Action					
-kcHGCkMphHJwgcNd7jJcz	Spark Spray	2	0	3	2			Lightning, Action, Attack							When this is defended by 1 or more cards, you may pay {r}. If you do, this gets +1{p}.	Lightning Action - Attack					
-8jzNDBDqQhcHgJtG9JRF8	Cloud Cover	2	0					Lightning, Instant							The next time you would be dealt damage this turn, prevent 2 of that damage.	Lightning Instant				No	
-hmwDMcWw9jwmjmpk8rBjR	Photon Rush	3	0	1	3			Elemental, Runeblade, Action, Attack	Lightning Flow, Go again						**Lightning Flow** - If you've played a Lightning card this turn, this gets **go again**	Elemental Runeblade Action - Attack					
-kk9mFcfzzzPL6RH9tcBw8	Spark Spray	3	0	2	2			Lightning, Action, Attack							When this is defended by 1 or more cards, you may pay {r}. If you do, this gets +1{p}.	Lightning Action - Attack					
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3			Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
@@ -61,6 +38,7 @@ BzkLdhrmkWpnbDBWNMJhp	Aether Arc	3	0		3			Wizard, Action							"Deal 1 arcane da
 Create a Ponder token for each hero dealt damage this way."	Wizard Action				No	
 pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing			1		1		Draconic, Illusionist, Token, Dragon, Ally	Arcane Barrier 1						**Arcane Barrier 1**	Draconic Illusionist Token - Dragon Ally					
 HFnfqgNGj6JdDwMjDC7KQ	Aether Conduit							Wizard, Weapon, Staff, 2H		Once per Turn Action					**Once per Turn Action** - {r}{r}: Deal 2 arcane damage to target hero.	Wizard Weapon - Staff (2H)					
+BhFQMNHMHH9ddMH86tqQ9	Aether Crackers				0			Runeblade, Equipment, Arms							When an attack you control hits a hero, you may destroy this. If you do, deal 1 arcane damage to them.	Runeblade Equipment - Arms					
 w6BQnKDGdGkHCTzjF6htg	Aether Dart	1	0		3			Wizard, Action							Deal 3 arcane damage to any target.	Wizard Action					
 cdTzctFmkNMpNK6HzT8nd	Aether Dart	2	0		3			Wizard, Action							Deal 2 arcane damage to any target.	Wizard Action					
 PMwLzbCCndFwFww6nrzDf	Aether Dart	3	0		3			Wizard, Action							Deal 1 arcane damage to any target.	Wizard Action					
@@ -956,6 +934,8 @@ c9BtftttMG7WNrKgnfJFt	Bracers of Belief				0			Generic, Equipment, Arms		Action	
 Kkh8t7dFfWtf7WBRJWNNJ	Bracers of Bellona's Grace				2			Light, Warrior, Equipment, Arms	Charge, Blade Break						"When this defends, you may **charge** your hero's soul. If a yellow card is **charged** this way, create a Courage token.
 
 **Blade Break**"	Light Warrior Equipment - Arms				No	
+ddWqPQBnFfqdkkMh87RKw	Bracken Rap	1	3	6	3			Elemental, Guardian, Action, Attack	Earth Bond						**Earth Bond** - When this attacks, if an Earth card was pitched to play this, create a Might token.	Elemental Guardian Action - Attack					
+K9ftdbtRngmNQMLwpWh9d	Bracken Rap	2	3	5	3			Elemental, Guardian, Action, Attack	Earth Bond						**Earth Bond** - When this attacks, if an Earth card was pitched to play this, create a Might token.	Elemental Guardian Action - Attack					
 rJjFGmMcKmWCPdkdtmQLN	Brain Freeze	1	0		3			Elemental, Wizard, Action	Ice Fusion						"**Ice Fusion**
 
 Target opponent reveals their hand. If Brain Freeze was **fused**, put an action card with cost 2 or less from their hand on top of their deck."	Elemental Wizard Action					
@@ -1087,9 +1067,9 @@ bCr7BCMzbRDWdBCJfTdTM	Burdens of the Past	3	0		3			Generic, Action	Go again					
 If there are 10 or more defense reaction cards in their graveyard, draw a card.
 
 **Go again**"	Generic Action				No	
-HFHTwwNzfP98TwzjLdFjK	Burgeoning	1	2	6	2			Earth, Action, Attack							If Burgeoning is played from arsenal, it gains +1{p}.	Earth Action - Attack					
-THkdFmjJffhRHdNTPcKmF	Burgeoning	2	2	5	2			Earth, Action, Attack							If Burgeoning is played from arsenal, it gains +1{p}.	Earth Action - Attack					
-CrcJtRzFPTCwQ8wQtzpmN	Burgeoning	3	2	4	2			Earth, Action, Attack							If Burgeoning is played from arsenal, it gains +1{p}.	Earth Action - Attack					
+HFHTwwNzfP98TwzjLdFjK	Burgeoning	1	2	6	2			Earth, Action, Attack							If this was played from arsenal, it gains +1{p}.	Earth Action - Attack					
+THkdFmjJffhRHdNTPcKmF	Burgeoning	2	2	5	2			Earth, Action, Attack							If this was played from arsenal, it gains +1{p}.	Earth Action - Attack					
+CrcJtRzFPTCwQ8wQtzpmN	Burgeoning	3	2	4	2			Earth, Action, Attack							If this was played from arsenal, it gains +1{p}.	Earth Action - Attack					
 kDgcBghDT7wRQwQWmpWRb	Burn Away	1	0	2	3			Draconic, Action, Attack	Go again						As an additional cost to play Burn Away, you may banish a Phoenix Flame from your graveyard. When you do, Burn Away gains +2{p} and **go again**.	Draconic Action - Attack					
 jbpNpCbdRQh9bFqg9Mjh6	Burn Rubber	1	3	5	3			Mechanologist, Action, Attack						Boost	If you've **boosted** 2 or more times this turn, this gets +2{p} and can't be defended by equipment.	Mechanologist Action - Attack				No	
 TKBfNBhjRmp7qF9rMQ9bK	Burn Them All	1	0		3			Draconic, Illusionist, Action, Aura	Go again						"**Go again**
@@ -1117,6 +1097,7 @@ wzF9jpgGN8tPLtfrtrHfm	Cadaverous Contraband	3	2	4	2			Generic, Action, Attack			
 Your attacks this turn get ""Whenever the defending hero adds 1 or more defending cards from hand to this chain link, this deals 1 damage to them."" **Go again**
 
 **Unity** - When this defends together with a card from hand, create an Embodiment of Lightning token under any number of heroes' control."	Lightning Action				No	
+N6FgtcT8gMP7PMj7hCkgP	Canopy Shelter	3			2			Earth, Block							When this defends, create a Might token.	Earth Block				No	
 b7NNmKqCcHRLdbGHBdNj8	Captain's Call	1	0		2			Generic, Action	Go again			Go again			"Choose 1;
 
 The next attack action card with cost 2 or less you play this turn gains +2{p}.
@@ -1313,6 +1294,7 @@ bPJzLWhH7G7BnHL9fNJw6	Cleave	1	1		3			Warrior, Action	Go again						"Your next a
 TtgGwwdkkjjMHBbMztjrG	Cloak of Darkness							Shadow, Equipment, Chest	Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
 
 **Blood Debt**"	Shadow Equipment - Chest					
+8jzNDBDqQhcHgJtG9JRF8	Cloud Cover	2	0					Lightning, Instant							The next time you would be dealt damage this turn, prevent 2 of that damage.	Lightning Instant				No	
 JBkC6qp77CfhzhkphHMPC	Coalescence Mirage	1	2	7	3			Illusionist, Action, Attack	Phantasm						"**Phantasm**
 
 When Coalescence Mirage is destroyed, you may put an Illusionist aura card with cost 0 from your hand into the arena."	Illusionist Action - Attack					
@@ -1494,6 +1476,8 @@ WKHF6LbqnjdPn6FrHDKcg	Courageous Steelhand	2	0		2			Light, Warrior, Attack React
 fdTHJDGRFHhBhjmFKfkHp	Courageous Steelhand	3	0		2			Light, Warrior, Attack Reaction						Charge	If you've **charged** this turn, target attack gains +1{p}.	Light Warrior Attack Reaction					
 Dbhn6rRcrbdRnKbqdPdwh	Cracked Bauble	2						Generic, Resource							*(Cracked Bauble exists to support Booster Draft and sealed Deck formats. A player may add any number of Cracked Baubles to their deck. Typically, a player would only do this if they did not have enough legally playable cards to make a 30 card minimum deck.)*	Generic Resource					
 tbc6PrGdmPnPJkbN9DW9q	Cracker Jax				0			Generic, Equipment, Arms		Action	Go again				**Action** - Destroy Cracker Jax: The next attack action card you play this turn gains +1{p}. **Go again**	Generic Equipment - Arms					
+tmNrkK9dghWBkfmgLH7MG	Crackling	1	0	3	3			Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, this gets +1{p}.	Elemental Runeblade Action - Attack					
+DKNCGmjBWngRMjmTCbKLr	Crackling	2	0	2	3			Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, this gets +1{p}.	Elemental Runeblade Action - Attack					
 b9Hw6NhDgfdQWLDQffTPC	Crane Dance	1	0	3	3			Ninja, Action, Attack	Combo						**Combo** - If Soulbead Strike was the last attack this combat chain, Crane Dance gains +1{p}, **go again**, and it can't be defended by attack action cards with base {p} greater than the number of chain links you control.	Ninja Action - Attack				No	
 hdwcfGdrfcJ9bK78tPgRW	Crane Dance	2	0	2	3			Ninja, Action, Attack	Combo						**Combo** - If Soulbead Strike was the last attack this combat chain, Crane Dance gains +1{p}, **go again**, and it can't be defended by attack action cards with base {p} greater than the number of chain links you control.	Ninja Action - Attack				No	
 KWNMNMjTzTQMRK7FF9J6T	Crane Dance	3	0	1	3			Ninja, Action, Attack	Combo						**Combo** - If Soulbead Strike was the last attack this combat chain, Crane Dance gains +1{p}, **go again**, and it can't be defended by attack action cards with base {p} greater than the number of chain links you control.	Ninja Action - Attack				No	
@@ -2779,6 +2763,12 @@ When you attack with Flock of the Feather Walkers, create a Quicken token."	Gene
 
 When you attack with Flock of the Feather Walkers, create a Quicken token."	Generic Action - Attack					
 9QkzLM66JjHbrMD9M6KDf	Flood of Force	2	0	1	3			Ninja, Action, Attack	Combo, Go again					Combo	**Combo** - If Rushing River or Flood of Force was the last attack this combat chain, when you attack with Flood of Force, reveal the top card of your deck. If it's a card with **combo,** put it into your hand then Flood of Force gains +3{p} and **go again**.	Ninja Action - Attack				No	
+RrrMdb8KPhtNTzKFrRRWQ	Flourish	2	0		2			Earth, Action	Go again						"The next time an attack would gain {p} this turn, instead it gains that much plus 3.
+
+**Go again**"	Earth Action				No	
+PK8zK8ngMjKPzjTLR9zfB	Flourish	3	0		2			Earth, Action	Go again						"The next time an attack would gain {p} this turn, instead it gains that much plus 2.
+
+**Go again**"	Earth Action				No	
 Wk9cnfJGMJRgWNMm7czwH	Fluster Fist	1	0	4	3			Ninja, Action, Attack	Combo						**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack				No	
 HGNCdBCQmdRqQGggmrLjg	Fluster Fist	2	0	3	3			Ninja, Action, Attack	Combo						**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack				No	
 9n8wHtnLRcNrMhctcDQCb	Fluster Fist	3	0	2	3			Ninja, Action, Attack	Combo						**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack				No	
@@ -2892,6 +2882,8 @@ At the beginning of your end phase or when you play a card or activate an abilit
 pqPKGCqKntcTpQRjGwLpF	Frosting	1	0		3			Ice, Wizard, Action							Deal 3 arcane damage to any target.	Ice Wizard Action					
 wQwFMHb6LtTgHF6FJKnqQ	Frosting	2	0		3			Ice, Wizard, Action							Deal 2 arcane damage to any target.	Ice Wizard Action					
 mfbBCQnMpDR7PMbkgF9RP	Frosting	3	0		3			Ice, Wizard, Action							Deal 1 arcane damage to any target.	Ice Wizard Action					
+JfqmwhFzQNjrQB8qTGHpN	Fry	1	0	3	0			Lightning, Action, Attack	Go again						**Go again**	Lightning Action - Attack					
+8mL68DRLDWNmj7dTnwczP	Fry	2	0	2	0			Lightning, Action, Attack	Go again						**Go again**	Lightning Action - Attack					
 DnfHnbnMCChJD9zfLbgmJ	Fuel Injector	3	0					Mechanologist, Action, Item		Instant					**Instant** - Put this on the bottom of its owner's deck: Gain {r}	Mechanologist Action - Item				No	
 fwGHMG68wcDm6TmkfqC7w	Full Tilt	1	2	5	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
 Nfg6BhjddbLDCRHQgLzkf	Full Tilt	2	2	4	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
@@ -3165,6 +3157,7 @@ TbNWLjgL9QKkCMf7FJR6p	Hanabi Blaster			5				Mechanologist, Weapon, Gun, 2H	Overp
 **Overpower**
 
 The third time you play a card with **boost** each turn, put a steam counter on Hanabi Blaster."	Mechanologist Weapon - Gun (2H)				No	
+6j78cmbzJ6RkG9FKBgfp9	Hard Knuckle				0			Generic, Equipment, Arms							When you play an attack action card, you may destroy this. If you do, the attack gets +1{p}.	Generic Equipment - Arms					
 gTNzqJLcQhkLkhBwKrpBQ	Harmonized Kodachi			1				Ninja, Weapon, Dagger, 1H	Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 If you have a card in your pitch zone with cost 0, this card's attacks get **go again**."	Ninja Weapon - Dagger (1H)					
@@ -3177,6 +3170,8 @@ If you have a card in your pitch zone with cost 0, this card's attacks get **go 
 96qhpHbkmGTNFKQNjFrwq	Harmony of the Hunt	3	1	1	2			Mystic, Ninja, Action, Attack	Go again						"When this attacks, if you've pitched a blue card this turn, create a Crouching Tiger in your hand.
 
 **Go again**"	Mystic Ninja Action - Attack					
+mnBtJdtHfCCzLtdkbJqKz	Harness Lightning	1	0		2			Elemental, Runeblade, Action	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, deal 3 arcane damage to target hero.	Elemental Runeblade Action				No	
+FrLnt7LBFzJbWTFFWhWQj	Harness Lightning	2	0		2			Elemental, Runeblade, Action	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, deal 2 arcane damage to target hero.	Elemental Runeblade Action				No	
 99B9LdcMnLqBhwjQmrHRG	Hatchet of Body			2				Warrior, Weapon, Axe, 1H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 Whenever you attack with Hatchet of Body, if Hatchet of Mind was the last attack this turn, Hatchet of Body gains +1{p} until end of turn."	Warrior Weapon - Axe (1H)					
@@ -4089,6 +4084,8 @@ nTqfpprmJbKkPMdNbdhRg	Locked and Loaded	3	0		3			Mechanologist, Action	Opt 1, Go
 If you have **boosted** this turn, **opt 1**.
 
 **Go again**"	Mechanologist Action					
+tBBCd9hNgWjQkTGDj7dPq	Log Fall	1	3	5	3			Elemental, Guardian, Action, Attack	Earth Bond, Overpower						**Earth Bond** - If an Earth card was pitched to play this, this gets **overpower**.	Elemental Guardian Action - Attack					
+kPNdhpwdWLw77zLDKfgdr	Log Fall	2	3	4	3			Elemental, Guardian, Action, Attack	Earth Bond, Overpower						**Earth Bond** - If an Earth card was pitched to play this, this gets **overpower**.	Elemental Guardian Action - Attack					
 Jcr8qghhWR9GPwR9GzDJq	Long Shot	1	0	3	3			Ranger, Action, Arrow, Attack							If Long Shot has an aim counter, it has +2{p}.	Ranger Action - Arrow Attack					
 Pbw7BCzT7RnLTqz7R8TgN	Long Shot	2	0	2	3			Ranger, Action, Arrow, Attack							If Long Shot has an aim counter, it has +2{p}.	Ranger Action - Arrow Attack					
 wcQzjTdhBwLkDWQbjLG8c	Long Shot	3	0	1	3			Ranger, Action, Arrow, Attack							If Long Shot has an aim counter, it has +2{p}.	Ranger Action - Arrow Attack					
@@ -4802,6 +4799,8 @@ If you control 2 or more Draconic chain links, Phoenix Flame has +1{p}.
 
 **Go again**"	Draconic Action - Attack					
 8RGTWgzLGh69FcNbLCfJc	Phoenix Form	1	0	3	3			Draconic, Ninja, Action, Attack	Go again						"If you control 1 or more Phoenix Flames, Phoenix Form has **go again**. If you control 2 or more, it has +2{p}. If you control 3 or more, it has ""When this hits a hero, draw 3 cards."""	Draconic Ninja Action - Attack				No	
+tLLcFGDJBDDbRJpcrj6Hp	Photon Rush	1	0	3	3			Elemental, Runeblade, Action, Attack	Lightning Flow, Go again						**Lightning Flow** - If you've played a Lightning card this turn, this gets **go again**	Elemental Runeblade Action - Attack					
+hmwDMcWw9jwmjmpk8rBjR	Photon Rush	3	0	1	3			Elemental, Runeblade, Action, Attack	Lightning Flow, Go again						**Lightning Flow** - If you've played a Lightning card this turn, this gets **go again**	Elemental Runeblade Action - Attack					
 bLmknjcbt6Bjn6RTmTBMF	Pick a Card, Any Card	1	0		2			Generic, Action	Go again						"Look at target opponent's hand then name a card.
 
 Choose a random card from their hand and reveal it. If it's the named card, create a Silver token. Repeat this process thrice.
@@ -5435,6 +5434,9 @@ Create a Runechant token."	Runeblade Defense Reaction				No
 DNRzWPmnLQdMTb7MGftNw	Reduce to Runechant	3	1		2			Runeblade, Defense Reaction							"Reduce to Runechant costs {r} less to play for each Runechant you control.
 
 Create a Runechant token."	Runeblade Defense Reaction				No	
+8BgkFbrc7PmgQhT8bK6BC	Redwood Hammer			3				Earth, Guardian, Weapon, Hammer, 1H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}{r}: **Attack**
+
+If an Earth card was pitched to attack with this, the attack gets +1{p}."	Earth Guardian Weapon - Hammer (1H)					
 kcGqqmnbcLKkFDNCnqbNh	Reek of Corruption	1	2	4	3			Runeblade, Action, Attack							"If you have played or created an aura this turn, Reek of Corruption gains ""When this hits a hero, they discard a card."""	Runeblade Action - Attack					
 MGLnDGFfchbLBBBzHRGFD	Reek of Corruption	2	2	3	3			Runeblade, Action, Attack							"If you have played or created an aura this turn, Reek of Corruption gains ""When this hits a hero, they discard a card."""	Runeblade Action - Attack					
 QrC9WRqBkFRtzwGCLp9BG	Reek of Corruption	3	2	2	3			Runeblade, Action, Attack							"If you have played or created an aura this turn, Reek of Corruption gains ""When this hits a hero, they discard a card."""	Runeblade Action - Attack					
@@ -6081,6 +6083,12 @@ The next attack action card with cost 0 or less you play this turn gains ""When 
 **Go again**
 
 **Blood Debt**"	Shadow Runeblade Action					
+W9Bqf6HmcQBn9gPcgBF7Q	Seeds of Strength	2	2		3			Elemental, Guardian, Action	Earth Bond						"Create 2 Might tokens.
+
+**Earth Bond** - If an Earth card was pitched to play this, instead create 3 Might tokens."	Elemental Guardian Action					
+BWnMgK7JcL6p9NDrQJMW7	Seeds of Strength	3	2		3			Elemental, Guardian, Action	Earth Bond						"Create a Might token.
+
+**Earth Bond** - If an Earth card was pitched to play this, instead create 2 Might tokens."	Elemental Guardian Action					
 rJd6rP8HgrgcfzDBT8bWB	Seek Enlightenment	1	1		2			Light, Action	Go again						"The next attack action card you play this turn gains +3{p} and ""If this hits, put it into your hero's soul.""
 
 **Go again**"	Light Action					
@@ -6294,6 +6302,8 @@ At the beginning of your action phase, destroy Sigil of Protection."	Generic Act
 nncFJBw6FFnMfkfrFnWwR	Sigil of Protection	3	1		2			Generic, Action, Aura	Ward 2						"**Ward 2**
 
 At the beginning of your action phase, destroy Sigil of Protection."	Generic Action - Aura					
+NrTrgtDHQTLpnHWD9CLp6	Sigil of Shelter	2	0					Guardian, Instant							The next time you would be dealt damage this turn, prevent 2 of that damage.	Guardian Instant					
+JphcWMNPh7tjPkTgKDwfR	Sigil of Shelter	3	0					Guardian, Instant							The next time you would be dealt damage this turn, prevent 1 of that damage.	Guardian Instant					
 kzW8BKdWcm9LwtTCTdqRK	Sigil of Solace	1	0					Generic, Instant							Gain 3{h}	Generic Instant				No	
 FDdnD9zhdgCkJFTQdLbbp	Sigil of Solace	2	0					Generic, Instant							Gain 2{h}	Generic Instant				No	
 QgFnmwphgLtnNmrHF8B6w	Sigil of Solace	3	0					Generic, Instant							Gain 1{h}	Generic Instant				No	
@@ -6369,6 +6379,12 @@ LfddJTKKb9HwPzHMBH9w9	Sink Below	1	0		4			Generic, Defense Reaction							You ma
 7RzTp9JnTprz6fjnhRJLM	Sink Below	2	0		3			Generic, Defense Reaction							You may put a card from your hand on the bottom of your deck. If you do, draw a card.	Generic Defense Reaction					
 bHRdHqLRCthfzcrffPNQH	Sink Below	3	0		2			Generic, Defense Reaction							You may put a card from your hand on the bottom of your deck. If you do, draw a card.	Generic Defense Reaction					
 bczQzLRqRKQpkCBHmTCHf	Siren's Call	1	1		3			Mystic, Assassin, Attack Reaction							Look at the defending hero's hand and choose a blue card. Add it to this chain link as a defending card. If you do, draw a card.	Mystic Assassin Attack Reaction				No	
+jkbMCtNCWghQGKqkDtGQr	Sizzle	1	0		2			Lightning, Action	Go again						"Your next Lightning or Elemental attack this turn gets +3{p}.
+
+**Go again**"	Lightning Action					
+m9KtRPwMhWCwt8Gfp86cn	Sizzle	2	0		2			Lightning, Action	Go again						"Your next Lightning or Elemental attack this turn gets +2{p}.
+
+**Go again**"	Lightning Action					
 cjk6KqfdDWCF6pLdpQFdj	Skittering Sands	1	0		2			Draconic, Illusionist, Action	Transform, Go again						"**Transform** target ash you control into an Aether Ashwing. It gains +3{p} until end of turn.
 
 **Go again**"	Draconic Illusionist Action					
@@ -6634,6 +6650,8 @@ wMq8RdBcGbtLzBktwpwfF	Sow Tomorrow	3	1		2			Earth, Action	Go again						"Put tar
 If Sow Tomorrow is played from arsenal, draw a card.
 
 **Go again**"	Earth Action					
+kcHGCkMphHJwgcNd7jJcz	Spark Spray	2	0	3	2			Lightning, Action, Attack							When this is defended by 1 or more cards, you may pay {r}. If you do, this gets +1{p}.	Lightning Action - Attack					
+kk9mFcfzzzPL6RH9tcBw8	Spark Spray	3	0	2	2			Lightning, Action, Attack							When this is defended by 1 or more cards, you may pay {r}. If you do, this gets +1{p}.	Lightning Action - Attack					
 tqpr9PgWLMcrmggBmfL9B	Spark of Genius	2	XX		3			Mechanologist, Action	Dash Specialization					Boost	"**Dash Specialization**
 
 Search your deck for a Mechanologist item card with cost X, put it into the arena, then shuffle your deck.
@@ -6816,6 +6834,9 @@ If you control a Vigor token, this gets +1{d}.
 
 **Temper**"	Guardian Equipment - Legs					
 GCWFNNQtKW9JFqJjqtCjP	Standing Order	1	0	4	3			Generic, Action, Attack							When this attacks or defends, you may put a card from your arsenal on the bottom of your deck. If you do, this gets +2{p} and +2{d}.	Generic Action - Attack				No	
+m7NGBRdNftTh9ntBzppbB	Star Fall			1				Lightning, Runeblade, Weapon, Sword, 2H	Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
+
+If you've played a Lightning card this turn, this card's attacks get +1{p} and **go again**."	Lightning Runeblade Weapon - Sword (2H)					
 zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	7	10	3			Guardian, Action, Attack	Bravo Specialization, Crush, Unity						"**Bravo Specialization**
 
 **Crush** - When this deals 4 or more damage to a hero, the only attacks they may play or activate during their next turn are attacks with base {p} greater than the damage dealt this way.
@@ -6825,6 +6846,8 @@ kD798qm7kWr9fhCLM9dDm	Starting Stake	2	0		3			Generic, Action							If you contr
 fdQ8rf8W6d7KgDhprdm9k	Stasis Cell	3	0					Mechanologist, Action, Item		Action	Go again				"When this enters or leaves the arena, activated abilities of target equipment can't be activated until the end of its controller's next turn.
 
 **Action** - Put this on the bottom of its owner's deck: Choose an equipment. It can't defend this turn. **Go again**"	Mechanologist Action - Item				No	
+M9NHHJLbL9CDLgRjFFzTn	Static Shock	1	0	4	3			Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - When this hits a hero, if you've played a Lightning card this turn, deal 1 arcane damage to them.	Elemental Runeblade Action - Attack				No	
+mwKQwF9C99qwcj9M7bpwd	Static Shock	2	0	3	3			Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - When this hits a hero, if you've played a Lightning card this turn, deal 1 arcane damage to them.	Elemental Runeblade Action - Attack				No	
 QWftpgJpG9fHpC9MdjzKP	Staunch Response	1	2		7			Guardian, Defense Reaction							As an additional cost to play Staunch Response you may pay {r}{r}{r}{r}. If you do, Staunch Response gains +3{d}.	Guardian Defense Reaction				No	
 BmFFCfgQNp9CBNJWDNzj6	Staunch Response	2	2		6			Guardian, Defense Reaction							As an additional cost to play Staunch Response you may pay {r}{r}{r}{r}. If you do, Staunch Response gains +3{d}.	Guardian Defense Reaction				No	
 CJmNCDkwJKGMbhbnjh6Q9	Staunch Response	3	2		5			Guardian, Defense Reaction							As an additional cost to play Staunch Response you may pay {r}{r}{r}{r}. If you do, Staunch Response gains +3{d}.	Guardian Defense Reaction				No	
@@ -6947,6 +6970,8 @@ cmqfjzTmDDt9DLCRkLGMC	Stroke of Foresight	2	1		3			Warrior, Attack Reaction	Repr
 8TnQLCqNKhPqNhD9CmGPz	Stroke of Foresight	3	1		3			Warrior, Attack Reaction	Reprise						"Target weapon attack gains +1{p}.
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, draw a card, then put a card from your hand on the top or bottom of your deck."	Warrior Attack Reaction					
+7KdwKrNcWjFQMnpq8DfmQ	Strong Wood	1	3	6	3			Elemental, Guardian, Action, Attack	Earth Bond						**Earth Bond** - If an Earth card was pitched to play this, this gets +1{p}.	Elemental Guardian Action - Attack					
+qLNqpbKwBJPMLz9TTDHdW	Strong Wood	2	3	5	3			Elemental, Guardian, Action, Attack	Earth Bond						**Earth Bond** - If an Earth card was pitched to play this, this gets +1{p}.	Elemental Guardian Action - Attack					
 wj7qpMrzMjDbn8tmtfPL7	Stubby Hammerers				0			Generic, Equipment, Arms		Action	Go again				**Action** - Destroy Stubby Hammerers: Attack action cards with 3 or less base power gain +1{p} while attacking this turn. **Go again**	Generic Equipment - Arms					
 kkw8H7tTjGHf7kqbDt8jL	Succumb to Winter	1	3		3			Elemental, Wizard, Action	Ice Fusion						"**Ice Fusion**
 
@@ -7257,6 +7282,9 @@ dJbhLJjdgzzQg7rtmnP9k	Three Visits	1	3					Mystic, Illusionist, Instant, Aura	Wa
 KCNwjRzWNtWghDNckgKpP	Three of a Kind	1	1		2			Ranger, Action	Go again						"Draw 3 cards. Until end of turn, you may only play cards from arsenal.
 
 **Go again**"	Ranger Action				No	
+JnRGGfDChkHqpkHQpr6c8	Thrive	2	0		2			Earth, Action	Go again						"If an attack would gain {p} this turn, instead it gains that much plus 1.
+
+**Go again**"	Earth Action				No	
 BHKdPc9mGc9CtNCzQJHnF	Throttle	1	2	6	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
 6bkFRTMhgjKWfftkpqtD6	Throttle	2	2	5	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
 PMqDKT6PGBHdmFKzcnCFB	Throttle	3	2	4	3			Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
