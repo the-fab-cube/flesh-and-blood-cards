@@ -695,5 +695,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 07-31-24:
 - Added card data for all AUR and TER cards - data entry assistance: manwaring
-- Added printing data for AUR001-AUR029 and TER001-TER030 - data entry assistance: manwaring
+- Added card data for Hidden Agenda, Sharp Shooters, Flight Path, and Stone Rain - data entry assistance: manwaring
+- Added printing data for AUR001-AUR029, TER001-TER030, AAZ005-AAZ007, and AAZ024  - data entry assistance: manwaring
 - Updated functional text for Burgeoning and Lightning Surge

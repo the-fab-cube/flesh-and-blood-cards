@@ -1,4 +1,14 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+dwfCfQLjJJNLpwrnmhcPt	Hidden Agenda							Ranger, Equipment, Chest	Arcane Barrier 1	Instant					"**Instant** - Turn a face-down arrow in your arsenal face-up: Gain {r}. At the beginning of the end phase, destroy this.
+
+**Arcane Barrier 1**"	Ranger Equipment - Chest				No	
+dbWtMTc6H6qKnbwKnLfRc	Sharp Shooters				1			Ranger, Equipment, Arms	Battleworn	Action	Go again				"**Action** - Destroy this: Put an arrow from your hand face-up into your arsenal with an aim counter. **Go again**
+
+**Battleworn**"	Ranger Equipment - Arms				No	
+mRMLQ9PM6rhFMcMKWdcbm	Flight Path				1			Ranger, Equipment, Legs	Battleworn	Attack Reaction		Go again			"**Attack Reaction** - Destroy this: Target arrow attack with an aim counter gets **go again**.
+
+**Battleworn**"	Ranger Equipment - Legs				No	
+LknHqj6JMJ6CRNpDNBtHG	Stone Rain	1	0	4	3			Ranger, Action, Arrow, Attack	Dominate						"If this has an aim counter, it gets **dominate** and ""When this hits a hero, they banish face-down a card from their hand. At the beginning of their next end phase, they return it to their hand."""	Ranger Action - Arrow Attack				No	
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3			Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
