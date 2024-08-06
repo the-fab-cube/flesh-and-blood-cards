@@ -701,3 +701,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 08-01-24:
 - Fixed Stone Rain's AAZ card ID - bug notice credit: PvtVoid
+
+08-06-24:
+- Fixed cold foil Construct Nitro Mechanoid // Nitro Mechanoid and cold foil Invoke Suraya // Suraya, Archangel of Knowledge not having their card face associations - but notice credit: Edhebi
