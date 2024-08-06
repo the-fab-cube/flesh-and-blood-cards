@@ -18,6 +18,11 @@ When Absorption Dome has no steam counters on it, destroy it."	Mechanologist Act
 C7jcJhrdpQTMfd7F79jK9	Achilles Accelerator				0			Mechanologist, Equipment, Legs	Arcane Barrier 1	Instant				Boost	"**Instant** - Destroy Achilles Accelerator: Gain 1 action point. Activate this ability only if you have **boosted** this turn.
 
 **Arcane Barrier 1**"	Mechanologist Equipment - Legs					
+8TPwpCdF6GRn7cQRRGjQJ	Adaptive Dissolver							Mechanologist, Equipment, Base	Modular, Arcane Barrier 1	Action					"**Modular**
+
+**Action** - 0: Equip this to another equipment zone.
+
+**Arcane Barrier 1**"	Mechanologist Equipment - Base				No	
 mkTDPKqkm7cprrDzWbF9z	Adaptive Plating				1			Mechanologist, Equipment	Modular, Galvanize, Blade Break	Action					"**Modular**
 
 **Action** - 0: Equip this to another equipment zone.
@@ -4925,6 +4930,9 @@ When this defends, deal 2 damage to the attacking hero unless they pay {r}."	Ran
 GKWhbqnhnR6ztt9gCzmLw	Plague Hive	2						Assassin, Ranger, Resource, Gem	Legendary						"**Legendary**
 
 When you pitch Plague Hive, for each opposing hero, choose Inertia, Frailty, or Bloodrot Pox at random and create that token under their control."	Assassin / Ranger Resource - Gem				No	
+bPKFtQtwzWcRjWkFwztdf	Plan for the Worst	3	0		3			Ranger, Action							"Look at target hero's hand and arsenal. At the beginning of their next end phase, they discard all cards in their hand and destroy all cards in their arsenal.
+
+Search your deck for up to 3 traps, reveal them, put them into your hand, then shuffle 2 cards from your hand into your deck."	Ranger Action				No	
 KPMtkfh8Dd6Dt9LJjGQLw	Plasma Barrel Shot			X				Mechanologist, Weapon, Gun, 2H		Once per Turn Action, Action	Attack, Go again			Boost	"**Once per Turn Action** - Remove a steam counter from Plasma Barrel Shot: **Attack**
 
 **Action** - {r}{r}: If there are no steam counters on Plasma Barrel Shot, put a steam counter on it. **Go again**
