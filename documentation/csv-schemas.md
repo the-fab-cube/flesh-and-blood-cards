@@ -56,7 +56,7 @@ Note: Cards in are organized by what main set they were initially released in in
 | Rarity | string | The rarity for this card printing. | C |
 | Foiling | string | The foiling for this card printing. | R |
 | Art Variation | string | The art variation (if any) of this card printing. The [Collector's Center](https://fabtcg.com/collectors-centre/) has good resources for finding details on this. | AA |
-| Artist | string | The artist of this card printing. | Agri Karuniawan |
+| Artists | string[] | A list of artists for this card printing. | Agri Karuniawan |
 | Flavor Text | string | The flavor text (if any) that appears on this card printing. Do not use italics on this, text is assumed to be in italics. (Example pulled from Talisman of Warfare.) | It's said that wherever the Dracai of War planted this talisman, the lava was soon to flow. |
 | Image URL | string | Link to the image of the card printing from fabtcg.com's [image galleries](https://fabtcg.com/resources/card-galleries/). | https://storage.googleapis.com/fabmaster/media/images/ELE146.width-450.png |
 | TCGPlayer ID | string | The product ID of the card printing on TCGPlayer | 225537 |

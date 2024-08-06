@@ -707,3 +707,4 @@ TODO:
 - Added card data for ROS
 - Added printing data for ROS???-ROS???, FAB265-FAB266,
 - Added Decompose keyword
+- Breaking: Changed Artist field in card-printing.csv to Artists to support multiple artists per card
