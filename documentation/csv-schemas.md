@@ -54,7 +54,7 @@ Note: Cards in are organized by what main set they were initially released in in
 | Set ID | string | The set identifier for this card printing. | WTR |
 | Edition | string | The edition for this card printing. | U |
 | Rarity | string | The rarity for this card printing. | C |
-| Expansion Slot | string | Wether the card is an expansion slot card or not. | Yes |
+| Expansion Slot | string | Whether the card is an expansion slot card or not. | Yes |
 | Foiling | string | The foiling for this card printing. | R |
 | Art Variation | string | The art variation (if any) of this card printing. The [Collector's Center](https://fabtcg.com/collectors-centre/) has good resources for finding details on this. | AA |
 | Artist | string | The artist of this card printing. | Agri Karuniawan |
