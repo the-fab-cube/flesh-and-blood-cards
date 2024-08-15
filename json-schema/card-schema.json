@@ -254,7 +254,7 @@
                             "type": "string"
                         },
                         "expansion_slot": {
-                            "description": "Whether the card is an expansion slot card or not.",
+                            "description": "Whether the card printing comes in the expansion slot or not",
                             "type": "boolean"
                         },
                         "foiling": {
