@@ -704,3 +704,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 08-06-24:
 - Fixed cold foil Construct Nitro Mechanoid // Nitro Mechanoid and cold foil Invoke Suraya // Suraya, Archangel of Knowledge not having their card face associations - but notice credit: Edhebi
+
+08-14-24:
+- Added set and set printing info for 1HB, 1HD, 1HT, 1HK, 1HR, and 1HV - data entry credit: Eik-S
