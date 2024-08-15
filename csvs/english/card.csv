@@ -1,4 +1,40 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+pW9RcR7zcbrJDfgGFdrgR	Sigil of Sanctuary	3	0					Earth, Instant, Aura	Arcane Shelter 1						"**Arcane Shelter 1**
+
+When this leaves the arena, create an Embodiment of Earth token."	Earth Instant - Aura				No	
+cJDgKwKhP89PKhhhcqrgg	Sigil of Conductivity	3	0					Lightning, Instant, Aura	Arcane Shelter 1						"**Arcane Shelter 1**
+
+When this leaves the arena, create an Embodiment of Lightning token."	Lightning Instant - Aura				No	
+wWD8D9JqHhnzctrrTrBDW	Sigil of the Arknight	3	0		2			Runeblade, Action, Aura	Go again						"**Go again**
+
+At the beginning of your action phase, destroy this.
+
+When this leaves the arena, reveal the top card of your deck. If it's an attack action card, put it into your hand."	Runeblade Action - Aura				No	
+fkJz8TmrMw8zMngz6qQDm	Sigil of Deadwood	3	0		2			Runeblade, Action, Aura	Go again						"**Go again**
+
+At the beginning of your action phase, destroy this.
+
+When this leaves the arena, create a Runechant token."	Runeblade Action - Aura					
+HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3	0					Wizard, Instant, Aura							"At the beginning of your action phase, destroy this.
+
+When this leaves the arena, banish the top card of your deck. If it's a non-attack action card, you may play it this turn as though it were an instant."	Wizard Instant - Aura				No	
+rcHhthcM7zrmd8nFWQtLz	Sigil of Forethought	3	0					Wizard, Instant, Aura							"At the beginning of your action phase, destroy this.
+
+When this leaves the arena, create a Ponder token."	Wizard Instant - Aura					
+rcFTPCqNgzqcTfnknBmRq	Sigil of Cycles	3	0		2			Generic, Action, Aura	Go again						"**Go again**
+
+At the beginning of your action phase, destroy this.
+
+When this leaves the arena, discard a card then draw a card."	Generic Action - Aura				No	
+bgHQJbkCNNBDT9kKdCW8w	Sigil of Fyendal	3	0		2			Generic, Action, Aura	Go again						"**Go again**
+
+At the beginning of your action phase, destroy this.
+
+When this leaves the arena, gain 1{h}."	Generic Action - Aura					
+LwHFKjjChb9JFQjLmrGMq	Splatter Skull	1	2	6	3			Brute, Action, Attack							When this hits a hero, choose a face-down card in their banished zone that was banished by **intimidate** this turn. Put it into their graveyard.	Brute Action - Attack				No	
+PGmLNJTqFnRhJwBgdc698	Fluttersteps							Illusionist, Equipment, Legs	Ward 1						"When this is destroyed, you may play your next aura this turn as though it were an instant.
+
+**Ward 1**"	Illusionist Equipment - Legs				No	
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3			Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
