@@ -1,40 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-pW9RcR7zcbrJDfgGFdrgR	Sigil of Sanctuary	3	0					Earth, Instant, Aura	Arcane Shelter 1						"**Arcane Shelter 1**
-
-When this leaves the arena, create an Embodiment of Earth token."	Earth Instant - Aura				No	
-cJDgKwKhP89PKhhhcqrgg	Sigil of Conductivity	3	0					Lightning, Instant, Aura	Arcane Shelter 1						"**Arcane Shelter 1**
-
-When this leaves the arena, create an Embodiment of Lightning token."	Lightning Instant - Aura				No	
-wWD8D9JqHhnzctrrTrBDW	Sigil of the Arknight	3	0		2			Runeblade, Action, Aura	Go again						"**Go again**
-
-At the beginning of your action phase, destroy this.
-
-When this leaves the arena, reveal the top card of your deck. If it's an attack action card, put it into your hand."	Runeblade Action - Aura				No	
-fkJz8TmrMw8zMngz6qQDm	Sigil of Deadwood	3	0		2			Runeblade, Action, Aura	Go again						"**Go again**
-
-At the beginning of your action phase, destroy this.
-
-When this leaves the arena, create a Runechant token."	Runeblade Action - Aura					
-HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3	0					Wizard, Instant, Aura							"At the beginning of your action phase, destroy this.
-
-When this leaves the arena, banish the top card of your deck. If it's a non-attack action card, you may play it this turn as though it were an instant."	Wizard Instant - Aura				No	
-rcHhthcM7zrmd8nFWQtLz	Sigil of Forethought	3	0					Wizard, Instant, Aura							"At the beginning of your action phase, destroy this.
-
-When this leaves the arena, create a Ponder token."	Wizard Instant - Aura					
-rcFTPCqNgzqcTfnknBmRq	Sigil of Cycles	3	0		2			Generic, Action, Aura	Go again						"**Go again**
-
-At the beginning of your action phase, destroy this.
-
-When this leaves the arena, discard a card then draw a card."	Generic Action - Aura				No	
-bgHQJbkCNNBDT9kKdCW8w	Sigil of Fyendal	3	0		2			Generic, Action, Aura	Go again						"**Go again**
-
-At the beginning of your action phase, destroy this.
-
-When this leaves the arena, gain 1{h}."	Generic Action - Aura					
-LwHFKjjChb9JFQjLmrGMq	Splatter Skull	1	2	6	3			Brute, Action, Attack							When this hits a hero, choose a face-down card in their banished zone that was banished by **intimidate** this turn. Put it into their graveyard.	Brute Action - Attack				No	
-PGmLNJTqFnRhJwBgdc698	Fluttersteps							Illusionist, Equipment, Legs	Ward 1						"When this is destroyed, you may play your next aura this turn as though it were an instant.
-
-**Ward 1**"	Illusionist Equipment - Legs				No	
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3			Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
@@ -2165,6 +2129,9 @@ If Electrify is played from arsenal, draw a card.
 If Electrify is played from arsenal, draw a card.
 
 **Go again**"	Lightning Action					
+NFLNtzkpfQDgdPkHfjknf	Electrostatic Discharge	1	0					Lightning, Instant							The next attack action card you play this turn with cost 1 or less gets +3{p}.	Lightning Instant					
+gMQ9qN89b76Fz9CwfBf6q	Electrostatic Discharge	2	0					Lightning, Instant							The next attack action card you play this turn with cost 1 or less gets +2{p}.	Lightning Instant					
+D6DtJ7kmNcPBMHWrghGTj	Electrostatic Discharge	3	0					Lightning, Instant							The next attack action card you play this turn with cost 1 or less gets +1{p}.	Lightning Instant					
 jKhMgndCGwjzKLHQMM7Cj	Eloquence							Generic, Token, Aura				Go again			When you play a non-attack action card, destroy this and the card gets **go again**.	Generic Token - Aura					
 zjjTKPFFzRh9fMGmR6jPR	Eloquent Eulogy	1	1	4	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
 
@@ -2854,6 +2821,9 @@ PK8zK8ngMjKPzjTLR9zfB	Flourish	3	0		2			Earth, Action	Go again						"The next ti
 Wk9cnfJGMJRgWNMm7czwH	Fluster Fist	1	0	4	3			Ninja, Action, Attack	Combo						**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack				No	
 HGNCdBCQmdRqQGggmrLjg	Fluster Fist	2	0	3	3			Ninja, Action, Attack	Combo						**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack				No	
 9n8wHtnLRcNrMhctcDQCb	Fluster Fist	3	0	2	3			Ninja, Action, Attack	Combo						**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack				No	
+PGmLNJTqFnRhJwBgdc698	Fluttersteps							Illusionist, Equipment, Legs	Ward 1						"When this is destroyed, you may play your next aura this turn as though it were an instant.
+
+**Ward 1**"	Illusionist Equipment - Legs				No	
 fRMpqdL8MjMKkPq9rG8J8	Flying Kick	1	2	5	3			Ninja, Action, Attack							When this is played as chain link 3 or higher, it gains +2{p}.	Ninja Action - Attack					
 R7RwbN6Gw8g79hw7wwPMf	Flying Kick	2	2	4	3			Ninja, Action, Attack							When this is played as chain link 3 or higher, it gains +2{p}.	Ninja Action - Attack					
 MCtGBgjzJWb8rPmNPTDWp	Flying Kick	3	2	3	3			Ninja, Action, Attack							When this is played as chain link 3 or higher, it gains +2{p}.	Ninja Action - Attack					
@@ -3208,6 +3178,7 @@ p7gwqttrJdHDgWjpCHhtk	Growl	2	0	2	2			Ninja, Action, Attack	Go again						"When 
 wLbNLfGtn86JfCTKBdMRg	Guardian of the Shadowrealm	1	2		6			Shadow, Defense Reaction	Blood Debt	Action					"**Action** - {r}{r}: Return Guardian of the Shadowrealm from your banished zone into your hand. Activate this ability only while Guardian of the Shadowrealm is in your banished zone.
 
 **Blood Debt**"	Shadow Defense Reaction				No	
+NCG7Gj8FnzJfDbmHQF6gF	Gustwave of the Second Wind	1	0	4	3			Ninja, Action, Attack	Combo, Go again						**Combo** - If Surging Strike was the last attack this combat chain, this gets **go again**.	Ninja Action - Attack				No	
 LPNDBTkkJ9gfhfnqrctfJ	Hack to Reality	2	1		2			Generic, Action	Go again						"Your next attack this turn gets +2{p}.
 
 The next time you hit a hero this turn, destroy a non-token aura they own with cost less than or equal to the damage dealt this way.
@@ -6409,6 +6380,27 @@ BgJNbkhqDGJpGGBDCGCdF	Sift	2	0		3			Generic, Action	Go again						"Put up to 3 c
 zw7fzkRzkWmgjm9dJjdHd	Sift	3	0		3			Generic, Action	Go again						"Put up to 2 cards from your hand on the bottom of your deck, then draw that many cards.
 
 **Go again**"	Generic Action				No	
+cJDgKwKhP89PKhhhcqrgg	Sigil of Conductivity	3	0					Lightning, Instant, Aura	Arcane Shelter 1						"**Arcane Shelter 1**
+
+When this leaves the arena, create an Embodiment of Lightning token."	Lightning Instant - Aura				No	
+rcFTPCqNgzqcTfnknBmRq	Sigil of Cycles	3	0		2			Generic, Action, Aura	Go again						"**Go again**
+
+At the beginning of your action phase, destroy this.
+
+When this leaves the arena, discard a card then draw a card."	Generic Action - Aura				No	
+fkJz8TmrMw8zMngz6qQDm	Sigil of Deadwood	3	0		2			Runeblade, Action, Aura	Go again						"**Go again**
+
+At the beginning of your action phase, destroy this.
+
+When this leaves the arena, create a Runechant token."	Runeblade Action - Aura					
+rcHhthcM7zrmd8nFWQtLz	Sigil of Forethought	3	0					Wizard, Instant, Aura							"At the beginning of your action phase, destroy this.
+
+When this leaves the arena, create a Ponder token."	Wizard Instant - Aura					
+bgHQJbkCNNBDT9kKdCW8w	Sigil of Fyendal	3	0		2			Generic, Action, Aura	Go again						"**Go again**
+
+At the beginning of your action phase, destroy this.
+
+When this leaves the arena, gain 1{h}."	Generic Action - Aura					
 9gWCknpqtcLqfrkm6BBrK	Sigil of Parapets	3	1		2			Wizard, Defense Reaction							While Sigil of Parapets is defending, whenever you play a Wizard card, Sigil of Parapet's gains +2{d}.	Wizard Defense Reaction				No	
 NHCQbrdqqK7FbcWgKnwWn	Sigil of Permafrost	1	1		4			Elemental, Wizard, Defense Reaction	Ice Fusion						"**Ice Fusion**
 
@@ -6428,6 +6420,9 @@ At the beginning of your action phase, destroy Sigil of Protection."	Generic Act
 nncFJBw6FFnMfkfrFnWwR	Sigil of Protection	3	1		2			Generic, Action, Aura	Ward 2						"**Ward 2**
 
 At the beginning of your action phase, destroy Sigil of Protection."	Generic Action - Aura					
+pW9RcR7zcbrJDfgGFdrgR	Sigil of Sanctuary	3	0					Earth, Instant, Aura	Arcane Shelter 1						"**Arcane Shelter 1**
+
+When this leaves the arena, create an Embodiment of Earth token."	Earth Instant - Aura				No	
 NrTrgtDHQTLpnHWD9CLp6	Sigil of Shelter	2	0					Guardian, Instant							The next time you would be dealt damage this turn, prevent 2 of that damage.	Guardian Instant					
 JphcWMNPh7tjPkTgKDwfR	Sigil of Shelter	3	0					Guardian, Instant							The next time you would be dealt damage this turn, prevent 1 of that damage.	Guardian Instant					
 kzW8BKdWcm9LwtTCTdqRK	Sigil of Solace	1	0					Generic, Instant							Gain 3{h}	Generic Instant				No	
@@ -6451,6 +6446,14 @@ If you have dealt arcane damage this turn, Sigil of Suffering gains +1{d}."	Rune
 kbKrbhCMmgKghWMMpWMh7	Sigil of Suffering	3	0		1			Runeblade, Defense Reaction							"Deal 1 arcane damage to the attacking hero.
 
 If you have dealt arcane damage this turn, Sigil of Suffering gains +1{d}."	Runeblade Defense Reaction				No	
+HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3	0					Wizard, Instant, Aura							"At the beginning of your action phase, destroy this.
+
+When this leaves the arena, banish the top card of your deck. If it's a non-attack action card, you may play it this turn as though it were an instant."	Wizard Instant - Aura				No	
+wWD8D9JqHhnzctrrTrBDW	Sigil of the Arknight	3	0		2			Runeblade, Action, Aura	Go again						"**Go again**
+
+At the beginning of your action phase, destroy this.
+
+When this leaves the arena, reveal the top card of your deck. If it's an attack action card, put it into your hand."	Runeblade Action - Aura				No	
 bqTcgLnMrzmpGJHFznhG6	Signal Jammer	3	0					Mechanologist, Action, Item							"Signal Jammer enters the arena with a steam counter on it.
 
 At the beginning of your action phase, destroy Signal Jammer unless you remove a steam counter from it.
@@ -6888,6 +6891,7 @@ You may play Lumina Ascension as though it were an instant."	Light Warrior Actio
 Nh7kN9dhkWQhjfr7CfKW7	Spirit of War	1	0	3	3			Light, Warrior, Action, Attack	Charge						"As an additional cost to play this, you may **charge** your hero's soul.
 
 If a yellow card is **charged** this way, whenever an attack action card hits this combat chain, create a Courage token."	Light Warrior Action - Attack				No	
+LwHFKjjChb9JFQjLmrGMq	Splatter Skull	1	2	6	3			Brute, Action, Attack							When this hits a hero, choose a face-down card in their banished zone that was banished by **intimidate** this turn. Put it into their graveyard.	Brute Action - Attack				No	
 jtjBwktMzPCDdwFgKtWT6	Spoiled Skull							Shadow, Brute, Equipment, Head	Arcane Barrier 1, Blood Debt, Go again	Instant					"**Action** - {r}, banish this: Target 3 action cards with different names in your banished zone and chose one at random. You may play it this turn. **Go again**
 
 **Arcane Barrier 1**
@@ -7713,6 +7717,9 @@ Kkz6gDKJRbrTNTpRKggRq	Unmovable	1	3		7			Generic, Defense Reaction							If Unmo
 WFmqwG7cjpf6QFgpP9gmD	Unmovable	2	3		6			Generic, Defense Reaction							If Unmovable is played from arsenal, it gains +1{d}.	Generic Defense Reaction					
 QRFzLnNBm8tCqBmKFdQbf	Unmovable	3	3		5			Generic, Defense Reaction							If Unmovable is played from arsenal, it gains +1{d}.	Generic Defense Reaction					
 mK6zddQhzHTpR9Jnw8chw	Unravel Aggression	3	3		5			Mystic, Defense Reaction							If a Chi was pitched to play this, draw a card.	Mystic Defense Reaction				No	
+bjpwqRpN6hpdB9gMLWbmW	Unsheathed	1	0		3			Warrior, Action	Go again			Go again			"Your next sword attack this turn gets +3{p} and ""When this attacks, if its {p} is greater than twice its base, it gets **go again**.""
+
+**Go again**"	Warrior Action					
 qTJLpcMt6WFTDHRgD87tw	Untamed	1	1	4	2			Ninja, Action, Attack	Go again						"When this attacks, the next Crouching Tiger you play this combat chain gets +1{p}.
 
 **Go again**"	Ninja Action - Attack					
@@ -7798,6 +7805,13 @@ QbQhqwJRFfmcWfjTDqL8t	Vantom Wraith	2	2	5	3			Shadow, Runeblade, Action, Attack	
 PtCqzqtLLBDWqwFPPKKPj	Vantom Wraith	3	2	4	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
 
 **Blood Debt**"	Shadow Runeblade Action - Attack					
+NMfPbTgbMbP9pnnCKMQD9	Vaporize // Shock	2	0					Runeblade, Instant, Lightning, Instant	Meld						"**Meld**
+
+Destroy an aura permanent with cost X or less and/or up to X aura tokens, where X is the total arcane damage you've dealt to opposing heroes this turn.
+
+//
+
+Deal 1 arcane damage to any target."	Runeblade Instant // Lightning Instant	Yes			No	
 HzC8krcLnWNQLrDdHGgCr	Veiled Intentions	1	1		2			Illusionist, Action	Go again						"**Go again**
 
 The next attack action card you play this turn is Illusionist in addition to its other card, and gains +4{p}, **phantasm**, and ""When this is destroyed, draw a card."""	Illusionist Action					
