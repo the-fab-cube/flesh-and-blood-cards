@@ -1,4 +1,12 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+HDgpj7cmFJwFWqdrHgngk	Heavy Industry Surveillance				1			Mechanologist, Equipment, Head	Temper						"When this defends, you may banish the top card of your deck. If it's a Mechanologist card, this gets +1{d} until end of turn.
+
+**Temper**"	Mechanologist Equipment - Head				No	
+TCKTLR7jQp6BDTkbdpfJn	Fast and Furious	1	0	3	3			Mechanologist, Action, Attack	Boost					Crank, Boost	"**Boost**
+
+If you've **cranked** this turn, this gets +1{p}.
+
+When this is banished from **boosting**, put a steam counter on an item you control with **crank**."	Mechanologist Action - Attack				No	
 dwfCfQLjJJNLpwrnmhcPt	Hidden Agenda							Ranger, Equipment, Chest	Arcane Barrier 1	Instant					"**Instant** - Turn a face-down arrow in your arsenal face-up: Gain {r}. At the beginning of the end phase, destroy this.
 
 **Arcane Barrier 1**"	Ranger Equipment - Chest				No	
