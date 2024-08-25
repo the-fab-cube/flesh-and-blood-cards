@@ -253,6 +253,10 @@
                             "description": "The edition of the set the card is printed in.",
                             "type": "string"
                         },
+                        "expansion_slot": {
+                            "description": "Whether the card printing comes in the expansion slot or not",
+                            "type": "boolean"
+                        },
                         "foiling": {
                             "description": "The foiling the card printing comes in.",
                             "type": "string"
@@ -322,6 +326,7 @@
                         "id",
                         "set_id",
                         "edition",
+                        "expansion_slot",
                         "foiling",
                         "rarity",
                         "artist",
