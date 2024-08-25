@@ -36,6 +36,24 @@
         ]
     },
     {
+        "unique_id": "QPwGGk7Tnrtpj7RfD6BJP",
+        "id": "AIO",
+        "name": "Armory Deck Dash I/O",
+        "printings": [
+            {
+                "unique_id": "FwqNRtTwNgC6Qz6krCwf7",
+                "edition": "N",
+                "start_card_id": "AIO003",
+                "end_card_id": "AIO009",
+                "initial_release_date": "2024-10-18T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/armory-deck-dash/",
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
         "unique_id": "HJ8Dqhq7tCwKWFCwkjw86",
         "id": "AKO",
         "name": "Armory Deck Kayo",

@@ -711,6 +711,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 08-24-24:
 - Added new Expansion Slot field in Card Printing files - feature/data entry credit: AlphSpirit
+- Added AIO set and set printing and added card data (minus images) for Heavy Industry Surveillance and Fast and Furious - data entry assistance: manwaring
 
 TODO:
 - Added card data for ROS
