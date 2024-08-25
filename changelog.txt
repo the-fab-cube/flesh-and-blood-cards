@@ -709,8 +709,10 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 08-14-24:
 - Added set and set printing info for 1HB, 1HD, 1HT, 1HK, 1HR, and 1HV - data entry credit: Eik-S
 
+08-24-24:
+- Added new Expansion Slot field in Card Printing files - feature/data entry credit: AlphSpirit
+
 TODO:
 - Added card data for ROS
 - Added printing data for ROS???-ROS???, FAB265-FAB266,
 - Added Arcane Shelter X and Decompose keywords
-
