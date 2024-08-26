@@ -667,6 +667,9 @@ Once each turn, you may play a card with **blood debt** from your banished zone.
 qJ8HCWnpHbPRGRGpt86Cb	Blasmophet, the Soul Harvester			6		6		Shadow, Token, Demon, Ally		Once per Turn Action	Attack				"**Once per Turn Action** - 0: **Attack**
 
 Whenever Blasmophet attacks, you may banish a Shadow card from your hand. If you do, you may banish a card from the defending hero's soul."	Shadow Token - Demon Ally					
+P8KJ8nmGmLRgmccLWcz8p	Blast to Oblivion	1	0	4	2			Lightning, Action, Attack							When this attacks, the next time you play an instant card this chain link, you may return target aura permanent with cost 1 or less or target aura token to it's owner's hand.	Lightning Action - Attack				No	
+TKDWphdbTMPCrQtMDTmTB	Blast to Oblivion	2	0	3	2			Lightning, Action, Attack							When this attacks, the next time you play an instant card this chain link, you may return target aura permanent with cost 1 or less or target aura token to it's owner's hand.	Lightning Action - Attack				No	
+cCBDbFWGMWN7QgWFBznbw	Blast to Oblivion	3	0	2	2			Lightning, Action, Attack							When this attacks, the next time you play an instant card this chain link, you may return target aura permanent with cost 1 or less or target aura token to it's owner's hand.	Lightning Action - Attack				No	
 fNWdCp9dwBcCwGtH9F7wT	Blaze Headlong	1	0	4	2			Draconic, Action, Attack	Go again						If you've played another red card this turn, Blaze Headlong has **go again**.	Draconic Action - Attack					
 hJdWJJWrBzNBBFz9BCJDw	Blaze, Firemind					17	4	Wizard, Hero, Young		Once per Turn Instant				Opt	"Whenever you **opt**, put energy counters on Blaze equal to the number of cards looked at this way.
 
@@ -823,6 +826,7 @@ qbzLPGM6RCTWWhGKdnCNf	Bloodspill Invocation	3	1		2			Runeblade, Action, Aura	Go 
 When an attack action card you control hits, destroy Bloodspill Invocation then create a Runechant token.
 
 When your hero is dealt damage, destroy Bloodspill Invocation."	Runeblade Action - Aura					
+KPrJfDdHDTrz6BHRdBFMq	Bloodtorn Bodice				0			Runeblade, Equipment, Chest		Action	Go again				**Action** - Destroy this and an aura you control: Gain {r}. **Go again**	Runeblade Equipment - Chest					
 gwz9PFtw8TdHG9DDTDctw	Blossom of Spring				0			Generic, Equipment, Chest		Action	Go again				**Action** - Destroy this: Gain {r}. **Go again**	Generic Equipment - Chest					
 nDWpQJCqCqHJM6WbhD7GN	Blossoming Spellblade	1	2	6	3			Elemental, Runeblade, Action, Attack	Earth and Lightning Fusion						"**Earth and Lightning Fusion**
 
@@ -3489,6 +3493,9 @@ gqHqnRkFrm7dmJRDf9kzJ	Hit and Run	3	0		3			Warrior, Action	Go again			Go again		
 If you have attacked with a weapon this turn, your next attack this turn gains +1{p}.
 
 **Go again**"	Warrior Action					
+mNTC7Tzb7hhKr6FMtbK6B	Hocus Pocus	1	0	3	3			Runeblade, Action, Attack							When this attacks, create a Runechant token.	Runeblade Action - Attack					
+kNCRpnpttdTCbrWkzkmfQ	Hocus Pocus	2	0	2	3			Runeblade, Action, Attack							When this attacks, create a Runechant token.	Runeblade Action - Attack					
+g6KGRbQjr8rg7JbnhFRT6	Hocus Pocus	3	0	1	3			Runeblade, Action, Attack							When this attacks, create a Runechant token.	Runeblade Action - Attack					
 nPfKdqt8wHnfLqdFNHKFH	Hold 'em	1	1		3			Warrior, Action	Go again			Wager			"Your next Warrior attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Vigor token with them.""
 
 **Go again**"	Warrior Action					
@@ -4236,6 +4243,21 @@ JDBd7rjPKpDDWWHQFRLND	Madcap Muscle	3	3	4	3			Brute, Action, Attack							"As an
 
 If the discarded card has 6 or more {p}, Madcap Muscle has +3{p}."	Brute Action - Attack					
 T6b7mmKBRHjBq9TQwfRB7	Mage Master Boots				0			Generic, Equipment, Legs		Action	Go again	Go again			**Action** - {r}, destroy Mage Master Boots: The next 'non-attack' action card you play this turn gains **go again**. **Go again**	Generic Equipment - Legs					
+CwJMHg9zGWTRtRFhbWNbf	Malefic Incantation	1	0		2			Runeblade, Action, Aura	Go again						"**Go again**
+
+This enters the arena with 3 verse counters. When it has none, destroy it.
+
+Once per turn, when you play an attack action card, remove a verse counter from this. If you do, create a Runechant token."	Runeblade Action - Aura				No	
+kbTJ7t7MLfLRNprLbJQRQ	Malefic Incantation	2	0		2			Runeblade, Action, Aura	Go again						"**Go again**
+
+This enters the arena with 2 verse counters. When it has none, destroy it.
+
+Once per turn, when you play an attack action card, remove a verse counter from this. If you do, create a Runechant token."	Runeblade Action - Aura				No	
+9GqP669FDfnpMzmL7t7JW	Malefic Incantation	3	0		2			Runeblade, Action, Aura	Go again						"**Go again**
+
+This enters the arena with 1 verse counters. When it has none, destroy it.
+
+Once per turn, when you play an attack action card, remove a verse counter from this. If you do, create a Runechant token."	Runeblade Action - Aura				No	
 dhMB8PhdHndJLzwgtF9t7	Malign	1	0	3	3			Assassin, Action, Attack	Stealth						"**Stealth**
 
 Damage that would be dealt by Malign can't be prevented."	Assassin Action - Attack					
@@ -5557,6 +5579,13 @@ When this hits a Royal hero, they lose the game.
 When the combat chain closes, you lose the game.
 
 Regicide can't be defended by cards with the same name as cards in the defending hero's banished zone."	Assassin Action - Attack				No	
+k8CgTdPKWcmLb78HKgHjk	Regrowth // Shock	3	0		3			Earth, Runeblade, Action, Lightning, Instant	Meld, Go again						"**Meld**
+
+Return an attack action card with cost less than X from your graveyard to your hand, where X is the total arcane damage you've dealt to opposing heroes this turn. **Go again**
+
+//
+
+Deal 1 arcane damage to any target."	Earth Runeblade Action // Lightning Instant				No	
 J9LLjWpb6hwCtGPgdrg9h	Regurgitating Slog	1	2	6	2			Generic, Action, Attack	Dominate						As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.	Generic Action - Attack					
 W7kjMQq9pJGQrBDPhhbgT	Regurgitating Slog	2	2	5	2			Generic, Action, Attack	Dominate						As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.	Generic Action - Attack					
 br9CQqckKLHbJmqnrLnfR	Regurgitating Slog	3	2	4	2			Generic, Action, Attack	Dominate						As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.	Generic Action - Attack					
@@ -6129,6 +6158,9 @@ bPpNFbJnhrLkgqjMRRFJp	Searing Shot	2	0	3	3			Ranger, Action, Arrow, Attack						
 JmQpWjPbn6JmmppNRDprh	Searing Shot	3	0	2	3			Ranger, Action, Arrow, Attack							If Searing Shot hits a hero, they lose 1{h}.	Ranger Action - Arrow Attack					
 67PfThWHNmFmMj68D7WLf	Searing Touch	1	1	3	3			Draconic, Action, Attack	Rupture						"**Rupture** - If Searing Touch is played as chain link 4 or higher, it has ""When you attack with this, deal 2 damage to any target."""	Draconic Action - Attack					
 MmJd7JwGC8rjPmLNLPCCW	Seasoned Saviour				3			Guardian, Equipment, Off-Hand	Battleworn						When you equip Seasoned Saviour, put two -1{d} counters on it. **Battleworn**	Guardian Equipment - Off-Hand				No	
+PjwhnN8B6FghrjRmGwhnJ	Second Strike	1	0	3	2			Lightning, Action, Attack	Go again						When this attacks, if you've dealt damage this turn, this gets +1{p} and **go again**.	Lightning Action - Attack					
+drmRFDLhKw6b7JBJdfWkM	Second Strike	2	0	2	2			Lightning, Action, Attack	Go again						When this attacks, if you've dealt damage this turn, this gets +1{p} and **go again**.	Lightning Action - Attack					
+wdT9WhkFKfwrHdJMWWcDQ	Second Strike	3	0	1	2			Lightning, Action, Attack	Go again						When this attacks, if you've dealt damage this turn, this gets +1{p} and **go again**.	Lightning Action - Attack					
 TkkhfhFwwKKBFRb8TF6cW	Second Swing	1	1		3			Warrior, Action	Go again						"If you have attacked with a weapon this turn, your next attack this turn gains +4{p}.
 
 **Go again**"	Warrior Action					
@@ -6412,6 +6444,9 @@ bgHQJbkCNNBDT9kKdCW8w	Sigil of Fyendal	3	0		2			Generic, Action, Aura	Go again		
 At the beginning of your action phase, destroy this.
 
 When this leaves the arena, gain 1{h}."	Generic Action - Aura					
+gzzft6DHbbNJGGCfCJrz7	Sigil of Lightning	3	0					Lightning, Instant							"At the beginning of your action phase, destroy this.
+
+When this leaves the arena, create an Embodiment of Lightning token."	Lightning Instant - Aura					
 9gWCknpqtcLqfrkm6BBrK	Sigil of Parapets	3	1		2			Wizard, Defense Reaction							While Sigil of Parapets is defending, whenever you play a Wizard card, Sigil of Parapet's gains +2{d}.	Wizard Defense Reaction				No	
 NHCQbrdqqK7FbcWgKnwWn	Sigil of Permafrost	1	1		4			Elemental, Wizard, Defense Reaction	Ice Fusion						"**Ice Fusion**
 
@@ -7646,6 +7681,9 @@ KqJPNjpMbNhDNDkL8T8gM	Tribute to the Legions of Doom	3	3	5	3			Shadow, Brute, Ac
 If a card with 6 or more {p} is banished this way, this gets +2{p}.
 
 **Blood Debt**"	Shadow Brute Action - Attack					
+7GkCr8MrPLnHfLc6JfQMH	Trip the Light Fantastic	1	1	5	2			Lightning, Action, Attack		Instant					**Instant** - Discard this: Prevent the next 2 damage that would be dealt to you this turn.	Lightning Action - Attack					
+CNJjHNFRzNwCmBRJw6mt6	Trip the Light Fantastic	2	1	4	2			Lightning, Action, Attack		Instant					**Instant** - Discard this: Prevent the next 2 damage that would be dealt to you this turn.	Lightning Action - Attack					
+WbmtPhzqpRtfC7rRHgB7k	Trip the Light Fantastic	3	1	3	2			Lightning, Action, Attack		Instant					**Instant** - Discard this: Prevent the next 2 damage that would be dealt to you this turn.	Lightning Action - Attack					
 WBpk6grrPj6wP8qgc9q9h	Tripwire Trap	1	0		4			Ranger, Defense Reaction, Trap							"Tripwire Trap can only be played from arsenal.
 
 When this defends, effects don't trigger when an attack hits this chain link unless the attacking hero pays {r}."	Ranger Defense Reaction - Trap				No	
