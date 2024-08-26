@@ -228,6 +228,21 @@ hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	2	6					Light, Illusionist, Instant, Au
 Opponents may only select Arc Light Sentinel as the target of an attack.
 
 **Spectra**"	Light Illusionist Instant - Aura				No	
+Rft8fQBq9gz7bRh6BfjRC	Arcane Cussing	1	1		2			Runeblade, Action, Aura	Go again						"**Go again**
+
+When you deal or are dealt damage, destroy this.
+
+When this leaves the arena during your turn, create 3 Runechant tokens."	Runeblade Action - Aura					
+pNJQBp68dnBdTNhpKkhch	Arcane Cussing	2	1		2			Runeblade, Action, Aura	Go again						"**Go again**
+
+When you deal or are dealt damage, destroy this.
+
+When this leaves the arena during your turn, create 2 Runechant tokens."	Runeblade Action - Aura					
+PqtddPd9R76TbBtrChz6d	Arcane Cussing	3	1		2			Runeblade, Action, Aura	Go again						"**Go again**
+
+When you deal or are dealt damage, destroy this.
+
+When this leaves the arena during your turn, create a Runechant token."	Runeblade Action - Aura					
 qkLmDfFnGLhCCFtHPtLj7	Arcane Lantern							Generic, Equipment, Off-Hand	Arcane Barrier 1						**Arcane Barrier 1**	Generic Equipment - Off-Hand					
 H87pKGPFG9qBRFBnR8MTL	Arcanic Crackle	1	0	3	3			Runeblade, Action, Attack							Deal 1 arcane damage to target hero.	Runeblade Action - Attack					
 8FNgPpkdWdNw6n9HjbWzM	Arcanic Crackle	2	0	2	3			Runeblade, Action, Attack							Deal 1 arcane damage to target hero.	Runeblade Action - Attack					
@@ -1455,6 +1470,21 @@ GQzfCQbchkDFn7crcnkrg	Concealed Blade	3	0		3			Assassin, Ninja, Attack Reaction	
 LFHpbg9HjJqrGt8jHNGHN	Concuss	1	3	6	3			Guardian, Action, Attack							When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack					
 8GRgqRnNmTCMH8NnfzKPg	Concuss	2	3	5	3			Guardian, Action, Attack							When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack					
 fLpMkKFnPn9qGw7LgJhmQ	Concuss	3	3	4	3			Guardian, Action, Attack							When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack					
+mhDbfFjrccQgTtFbcBMkz	Condemn to Slaughter	1	1		3			Runeblade, Action	Go again						"Your next Runeblade attack this turn gets +3{p}.
+
+You may destroy an aura you control. If you do, each opponent destroys an aura permanent they control.
+
+**Go again**"	Runeblade Action				No	
+q7RgDrnHQD8zhhqFhMCFn	Condemn to Slaughter	2	1		3			Runeblade, Action	Go again						"Your next Runeblade attack this turn gets +2{p}.
+
+You may destroy an aura you control. If you do, each opponent destroys an aura permanent they control.
+
+**Go again**"	Runeblade Action				No	
+BzRQ6f66gRqDbfhkC8TRM	Condemn to Slaughter	3	1		3			Runeblade, Action	Go again						"Your next Runeblade attack this turn gets +1{p}.
+
+You may destroy an aura you control. If you do, each opponent destroys an aura permanent they control.
+
+**Go again**"	Runeblade Action				No	
 dzP7wmmnGhcPk78jJpwQ6	Conduit of Frostburn				0			Ice, Wizard, Equipment, Arms	Quell 1	Instant					"**Instant** - Destroy Conduit of Frostburn: The next card you play this turn with an effect that deals arcane damage gains ""When this deals arcane damage to a hero, destroy a **frozen** card in their arsenal.""
 
 **Quell 1**"	Ice Wizard Equipment - Arms					
@@ -1672,6 +1702,15 @@ q6DTC9d8krW76gpTCpfmg	Deadly Duo	2	1	2	2			Ninja, Action, Attack	Go again						"
 cqtpwmnhMR8bGtcc8qHwB	Deadly Duo	3	1	1	2			Ninja, Action, Attack	Go again						"When this hits, the next attack action card with 2 or less base {p} you play this combat chain gains +2 {p}.
 
 **Go again**"	Ninja Action - Attack					
+r7fBPzjnf99MPwFc6F8b6	Deadwood Dirge	1	0		2			Runeblade, Action	Go again						"Destroy an aura you control. If you do, create 3 Runechant tokens.
+
+**Go again**"	Runeblade Action					
+N9QrfGfPbL9NHPcRT6Nd7	Deadwood Dirge	2	0		2			Runeblade, Action	Go again						"Destroy an aura you control. If you do, create 2 Runechant tokens.
+
+**Go again**"	Runeblade Action					
+jMq8ttGz9DCqPMjQRRmdF	Deadwood Dirge	3	0		2			Runeblade, Action	Go again						"Destroy an aura you control. If you do, create a Runechant token.
+
+**Go again**"	Runeblade Action					
 RLgW7JWBFfhtLQddmChnh	Deadwood Rumbler	1	3	8				Shadow, Brute, Action, Attack	Blood Debt						"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, banish a card from a graveyard.
 
 **Blood Debt**"	Shadow Brute Action - Attack					
@@ -3493,6 +3532,9 @@ gqHqnRkFrm7dmJRDf9kzJ	Hit and Run	3	0		3			Warrior, Action	Go again			Go again		
 If you have attacked with a weapon this turn, your next attack this turn gains +1{p}.
 
 **Go again**"	Warrior Action					
+KGdgF77WDGGTdJPnfCbtm	Hit the High Notes	1	1	4	3			Runeblade, Action, Attack							If you've played or created an aura this turn, this gets +2{p}.	Runeblade Action - Attack					
+pj9cPfwPz7mHkdwHhbdpf	Hit the High Notes	2	1	3	3			Runeblade, Action, Attack							If you've played or created an aura this turn, this gets +2{p}.	Runeblade Action - Attack					
+7mWHRdqJGNzTkHwBqD78D	Hit the High Notes	3	1	2	3			Runeblade, Action, Attack							If you've played or created an aura this turn, this gets +2{p}.	Runeblade Action - Attack					
 mNTC7Tzb7hhKr6FMtbK6B	Hocus Pocus	1	0	3	3			Runeblade, Action, Attack							When this attacks, create a Runechant token.	Runeblade Action - Attack					
 kNCRpnpttdTCbrWkzkmfQ	Hocus Pocus	2	0	2	3			Runeblade, Action, Attack							When this attacks, create a Runechant token.	Runeblade Action - Attack					
 g6KGRbQjr8rg7JbnhFRT6	Hocus Pocus	3	0	1	3			Runeblade, Action, Attack							When this attacks, create a Runechant token.	Runeblade Action - Attack					
@@ -5877,6 +5919,9 @@ If you have **boosted** this turn, put Rotary Ram on the bottom of your deck.
 
 **Go again**"	Mechanologist Action					
 6nGBJrh8MDLD7JJBD6NPK	Rotten Old Buckler				1			Guardian, Equipment, Off-Hand	Blade Break						**Blade Break**	Guardian Equipment - Off-Hand					
+HmQ8dbfPL8BLMkJDGGGm8	Rotwood Reaper			2				Earth, Runeblade, Weapon, Sword, 2H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
+
+If you've played or created an aura this turn, this gets +2{p}."	Earth Runeblade Weapon - Sword (2H)					
 wL86pzwQw6qq8P6RpGTd6	Rouse the Ancients	3	3	0	2			Generic, Action, Attack	Go again						As an additional cost to play Rouse the Ancients, you may reveal any number of attack action cards from your hand with 13 or more total {p}. If you do, Rouse the Ancients gains +7{p} and **go again**.	Generic Action - Attack				No	
 LqHg97rKtkDd9BznfDHHB	Rousing Aether	1	2		3			Wizard, Action							"Deal 4 arcane damage to target hero.
 
@@ -5947,6 +5992,9 @@ Runeblood Incantation enters the arena with a verse counter on it.
 
 At the beginning of your action phase, remove a verse counter from Runeblood Incantation. If you do create a Runechant token. Otherwise, destroy Runeblood Incantation."	Runeblade Action - Aura				No	
 zfrHQjbPkpBmdQGrWcTMB	Runechant							Runeblade, Token, Aura							When you play an attack action card or activate a weapon attack, destroy Runechant and deal 1 arcane damage to target opposing hero.	Runeblade Token - Aura					
+66LHrpFckMQ8WNWhPjbD6	Runerager Swarm	1	0	3	3			Runeblade, Action, Attack	Go again						If you've played or created an aura this turn, this gets **go again**.	Runeblade Action - Attack					
+8zcbgBnjjdmM6G9hCqC9f	Runerager Swarm	2	0	2	3			Runeblade, Action, Attack	Go again						If you've played or created an aura this turn, this gets **go again**.	Runeblade Action - Attack					
+NHbgwmKj6z9GrPHGPdCDh	Runerager Swarm	3	0	1	3			Runeblade, Action, Attack	Go again						If you've played or created an aura this turn, this gets **go again**.	Runeblade Action - Attack					
 QLtPbbtqrQ9hNtWH6jG6t	Runic Reaping	1	1		2			Runeblade, Action	Go again						"The next Runeblade attack action card you play this turn gains ""When this hits, create 3 Runechant tokens"".
 
 If an attack card was pitched to play Runic Reaping, the next Runeblade attack action card you play this turn gains +1{p}.
@@ -6226,6 +6274,9 @@ W9Bqf6HmcQBn9gPcgBF7Q	Seeds of Strength	2	2		3			Elemental, Guardian, Action	Ear
 BWnMgK7JcL6p9NDrQJMW7	Seeds of Strength	3	2		3			Elemental, Guardian, Action	Earth Bond						"Create a Might token.
 
 **Earth Bond** - If an Earth card was pitched to play this, instead create 2 Might tokens."	Elemental Guardian Action					
+Mcffqz8hhNjNgTGMHJwhR	Seeds of Tomorrow	3	0					Earth, Instant							"As an additional cost to play this, put a card from your arsenal on the bottom of your deck.
+
+Prevent the next 5 damage that would be dealt to you this turn."	Earth Instant				No	
 rJd6rP8HgrgcfzDBT8bWB	Seek Enlightenment	1	1		2			Light, Action	Go again						"The next attack action card you play this turn gains +3{p} and ""If this hits, put it into your hero's soul.""
 
 **Go again**"	Light Action					
@@ -6938,6 +6989,9 @@ Nh7kN9dhkWQhjfr7CfKW7	Spirit of War	1	0	3	3			Light, Warrior, Action, Attack	Cha
 
 If a yellow card is **charged** this way, whenever an attack action card hits this combat chain, create a Courage token."	Light Warrior Action - Attack				No	
 LwHFKjjChb9JFQjLmrGMq	Splatter Skull	1	2	6	3			Brute, Action, Attack							When this hits a hero, choose a face-down card in their banished zone that was banished by **intimidate** this turn. Put it into their graveyard.	Brute Action - Attack				No	
+ccMrKMKrqCHDBFcnQFCFB	Splintering Deadwood	1	3	7	3			Runeblade, Action, Attack							When this attacks or hits, you may destroy an aura you control. If you do, create a Runechant token.	Runeblade Action - Attack				No	
+DrMHRGghQK9rb9NdTTKmj	Splintering Deadwood	2	3	6	3			Runeblade, Action, Attack							When this attacks or hits, you may destroy an aura you control. If you do, create a Runechant token.	Runeblade Action - Attack				No	
+R99PcjQg9DCkMMcdTW7Hh	Splintering Deadwood	3	3	5	3			Runeblade, Action, Attack							When this attacks or hits, you may destroy an aura you control. If you do, create a Runechant token.	Runeblade Action - Attack				No	
 jtjBwktMzPCDdwFgKtWT6	Spoiled Skull							Shadow, Brute, Equipment, Head	Arcane Barrier 1, Blood Debt, Go again	Instant					"**Action** - {r}, banish this: Target 3 action cards with different names in your banished zone and chose one at random. You may play it this turn. **Go again**
 
 **Arcane Barrier 1**
