@@ -719,5 +719,5 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 TODO:
 - Added card data for ROS
-- Added printing data for ROS???-ROS???, FAB265-FAB266,
+- Added printing data for AUA001-AUA029, ROS???-ROS???, FAB265-FAB266,
 - Added Arcane Shelter X and Decompose keywords
