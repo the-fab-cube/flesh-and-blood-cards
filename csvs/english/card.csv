@@ -1128,6 +1128,9 @@ When this defends an attack with {p} greater than its base, the attack can't gai
 9N8KCpFCwjdCgn8CBMQfg	Cadaverous Contraband	1	2	6	2			Generic, Action, Attack							If Cadaverous Contraband hits, you may put a 'non-attack' action card from your graveyard on top of your deck.	Generic Action - Attack					
 RKW7z89gLBwpKqrWPfgHH	Cadaverous Contraband	2	2	5	2			Generic, Action, Attack							If Cadaverous Contraband hits, you may put a 'non-attack' action card from your graveyard on top of your deck.	Generic Action - Attack					
 wzF9jpgGN8tPLtfrtrHfm	Cadaverous Contraband	3	2	4	2			Generic, Action, Attack							If Cadaverous Contraband hits, you may put a 'non-attack' action card from your graveyard on top of your deck.	Generic Action - Attack					
+WMFB7HjQfN9L7hp7dLqhN	Cadaverous Tilling	1	3	6	2			Earth, Action, Attack	Decompose						**Decompose** - When this attacks, you may banish 2 Earth cards and an action card from your graveyard. If you do, this gets +2{p}.	Earth Action - Attack					
+pWrWWhfjfTWPKMbdTWQHT	Cadaverous Tilling	2	3	5	2			Earth, Action, Attack	Decompose						**Decompose** - When this attacks, you may banish 2 Earth cards and an action card from your graveyard. If you do, this gets +2{p}.	Earth Action - Attack					
+zqbcPKK9npDdLNNLNhdnN	Cadaverous Tilling	3	3	4	2			Earth, Action, Attack	Decompose						**Decompose** - When this attacks, you may banish 2 Earth cards and an action card from your graveyard. If you do, this gets +2{p}.	Earth Action - Attack					
 8jWbpb8RHQWpKwDdnt9rw	Call Down the Lightning	2	0		2			Lightning, Action	Lexi Specialization, Go again, Unity						"**Lexi Specialization**
 
 Your attacks this turn get ""Whenever the defending hero adds 1 or more defending cards from hand to this chain link, this deals 1 damage to them."" **Go again**
@@ -2780,6 +2783,9 @@ cQbwHf7HLrPGwPhCw88mq	Flash	1	0		2			Lightning, Action	Go again			Go again			"Th
 BGDgkjjjkjJPtfRndfmFN	Flash	3	0		2			Lightning, Action	Go again			Go again			"The next action card you play this turn with cost 2 or greater gains **go again**.
 
 **Go again**"	Lightning Action				No	
+hBDtCDkPFDtWFTm9hGJDq	Flash of Brilliance				1			Lightning, Equipment, Head	Blade Break						"When this defends, you may discard a Lightning card. If you do, return an aura you control to its owner's hand.
+
+**Blade Break**"	Lightning Equipment - Head					
 KGMH76KLtDChtw8JBqMbJ	Flashfreeze	1	1		2			Elemental, Action	Ice and/or Lightning Fusion, Go again			Dominate			"**Ice and/or Lightning Fusion**
 
 If Flashfreeze was **fused** with an Ice card, attacks you control this turn gain ""When you attack with this, it gains **dominate**, unless the defending hero pays {r}{r}.""
@@ -2844,6 +2850,9 @@ Deal 1 arcane damage to target hero.
 mRMLQ9PM6rhFMcMKWdcbm	Flight Path				1			Ranger, Equipment, Legs	Battleworn	Attack Reaction		Go again			"**Attack Reaction** - Destroy this: Target arrow attack with an aim counter gets **go again**.
 
 **Battleworn**"	Ranger Equipment - Legs				No	
+rPFqdQD8MGWwJh9th7NGz	Flittering Charge	1	0	4	2			Lightning, Action, Attack	Go again						If you've played an instant card this chain link, this gets **go again**.	Lightning Action - Attack					
+PQbd6FrtTPTWfWQLT6Gr7	Flittering Charge	2	0	3	2			Lightning, Action, Attack	Go again						If you've played an instant card this chain link, this gets **go again**.	Lightning Action - Attack					
+MPwMhPCJgTFpFWTTHfGW9	Flittering Charge	3	0	2	2			Lightning, Action, Attack	Go again						If you've played an instant card this chain link, this gets **go again**.	Lightning Action - Attack					
 C6NjgQKQBjDBcCJFg6cGd	Flock of the Feather Walkers	1	1	5	2			Generic, Action, Attack							"As an additional cost to play Flock of the Feather Walkers, reveal a card in your hand with cost 1 or less.
 
 When you attack with Flock of the Feather Walkers, create a Quicken token."	Generic Action - Attack					
@@ -5627,7 +5636,7 @@ Return an attack action card with cost less than X from your graveyard to your h
 
 //
 
-Deal 1 arcane damage to any target."	Earth Runeblade Action // Lightning Instant				No	
+Deal 1 arcane damage to any target."	Earth Runeblade Action // Lightning Instant	Yes			No	
 J9LLjWpb6hwCtGPgdrg9h	Regurgitating Slog	1	2	6	2			Generic, Action, Attack	Dominate						As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.	Generic Action - Attack					
 W7kjMQq9pJGQrBDPhhbgT	Regurgitating Slog	2	2	5	2			Generic, Action, Attack	Dominate						As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.	Generic Action - Attack					
 br9CQqckKLHbJmqnrLnfR	Regurgitating Slog	3	2	4	2			Generic, Action, Attack	Dominate						As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.	Generic Action - Attack					
@@ -5900,6 +5909,9 @@ QT8JfjzmzqRR9MWgtgPLR	Romping Club			4				Brute, Weapon, Club, 2H		Once per Turn
 JWGCCknwHPjTKzpwpnBcJ	Ronin Renegade	1	0	3	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
 9qQwd6zHHQtKkbHbhPqgk	Ronin Renegade	2	0	2	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
 qMMm8Ldtfhn8Lt8LdHwNB	Ronin Renegade	3	0	1	2			Draconic, Ninja, Action, Attack	Go again						**Go again**	Draconic Ninja Action - Attack					
+DPFPrrNbJmtDHjBLtk6zz	Rootbound Carapace	1	0		3			Earth, Defense Reaction	Decompose						**Decompose** - You may banish 2 Earth cards and an action card from your graveyard. If you do, this gets +1{d}.	Earth Defense Reaction				No	
+rHt7wrBkFcGCKBNq8BckW	Rootbound Carapace	2	0		2			Earth, Defense Reaction	Decompose						**Decompose** - You may banish 2 Earth cards and an action card from your graveyard. If you do, this gets +1{d}.	Earth Defense Reaction				No	
+kj7bRzhn8wTj7CMJTtdDn	Rootbound Carapace	3	0		1			Earth, Defense Reaction	Decompose						**Decompose** - You may banish 2 Earth cards and an action card from your graveyard. If you do, this gets +1{d}.	Earth Defense Reaction				No	
 cbHrfwmLrMjWdhdBtzbff	Rosetta Thorn			2				Runeblade, Weapon, Sword, 2H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 Whenever you attack with Rosetta Thorn, if you've played an attack action card and a 'non-attack' action card this turn, deal 2 arcane damage to target hero."	Runeblade Weapon - Sword (2H)					
@@ -6055,7 +6067,7 @@ zKtm8BQzLMCwJRgqcGLNm	Salt the Wound	2	0	2	3			Ninja, Action, Attack							This 
 9pnrkbM9DbqCqqkbDCC8N	Salvage Shot	1	1	5	3			Ranger, Action, Arrow, Attack							When this hits, put it on the bottom of its owner's deck.	Ranger Action - Arrow Attack					
 d8mzLHtQRkT8GWFcgR78H	Salvage Shot	2	1	4	3			Ranger, Action, Arrow, Attack							When this hits, put it on the bottom of its owner's deck.	Ranger Action - Arrow Attack					
 bjffjnzNfQhdcGKKCWKCd	Salvage Shot	3	1	3	3			Ranger, Action, Arrow, Attack							When this hits, put it on the bottom of its owner's deck.	Ranger Action - Arrow Attack					
-bMJBmMJt99tBDWrznqMBR	Sanctuary of Aria							Rosetta, Macro	Instant						**Instant** - {r}{r}: Prevent the next 1 damage that would be dealt to you this turn by a source of your choice. Destroy this at the beginning of the end phase.	Rosetta Macro					
+bMJBmMJt99tBDWrznqMBR	Sanctuary of Aria							Rosetta, Macro		Instant					**Instant** - {r}{r}: Prevent the next 1 damage that would be dealt to you this turn by a source of your choice. Destroy this at the beginning of the end phase.	Rosetta Macro					
 DHhDFNgTHdTJ7NpWWm8jm	Sand Cover	1	0					Draconic, Illusionist, Instant				Ward 4			Target ash you control gains **ward 4** until end of turn.	Draconic Illusionist Instant					
 bjKB8W9jG6nDH9Gt6rJMb	Sand Cover	2	0					Draconic, Illusionist, Instant				Ward 3			Target ash you control gains **ward 3** until end of turn.	Draconic Illusionist Instant					
 GQJqWJwPz8BBnQRjb8ntF	Sand Cover	3	0					Draconic, Illusionist, Instant				Ward 2			Target ash you control gains **ward 2** until end of turn.	Draconic Illusionist Instant					
@@ -8246,6 +8258,7 @@ mpCqjNRwttQWMNRFFFhtD	Weave Lightning	2	0		2			Lightning, Action	Go again			Go a
 Bc9QPMHJ7dP6c8mtrhjrQ	Weave Lightning	3	0		2			Lightning, Action	Go again			Go again		Fusion	"The next Lightning or Elemental attack action card you play this turn gains +1{p}. If it's **fused**, it gains **go again**.
 
 **Go again**"	Lightning Action				No	
+zngmGjhrGpJfmnbMP87JP	Well Grounded				0			Earth, Equipment, Legs		Instant					**Instant** - Destroy this: Prevent the next 2 damage that would be dealt to you this turn. Activate this only if there are 4 or more Earth cards in your banished zone.	Earth Equipment - Legs					
 zgP9HWNCqbrQPLMNP8Bwf	Whelming Gustwave	1	0	3	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and ""If this hits, draw a card."""	Ninja Action - Attack					
 jCrd8h9kPW8rJ9KwgRr8L	Whelming Gustwave	2	0	2	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and ""If this hits, draw a card."""	Ninja Action - Attack					
 M7gFnB7zpwHWCbzWCWKpd	Whelming Gustwave	3	0	1	3			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and ""If this hits, draw a card."""	Ninja Action - Attack					
