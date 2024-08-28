@@ -73,13 +73,13 @@ wd9TtjtPGfbWKQPprJfj9	Aether Ironweave				1			Runeblade, Equipment, Chest	Battle
 **Battleworn**"	Runeblade Equipment - Chest					
 BrJTbrWqKzQRmRLrfbmcb	Aether Quickening	1	1		3			Wizard, Action	Surge, Go again						"Deal 4 arcane damage to target hero.
 
-**Surge** - If this deals more than 4 damage, it gains **go again**."	Wizard Action				No	
+**Surge** - If this deals more than 4 damage, it gets **go again**."	Wizard Action					
 KKRrkTpNjNQB9wmwGCCGF	Aether Quickening	2	1		3			Wizard, Action	Surge, Go again						"Deal 3 arcane damage to target hero.
 
-**Surge** - If this deals more than 3 damage, it gains **go again**."	Wizard Action				No	
+**Surge** - If this deals more than 3 damage, it gets **go again**."	Wizard Action					
 ntkQpCD8QdNG6KMNchJNw	Aether Quickening	3	1		3			Wizard, Action	Surge, Go again						"Deal 2 arcane damage to target hero.
 
-**Surge** - If this deals more than 2 damage, it gains **go again**."	Wizard Action				No	
+**Surge** - If this deals more than 2 damage, it gets **go again**."	Wizard Action					
 b7h97MzpKF8mNqMr8B9Fq	Aether Sink	2	1					Mechanologist, Action, Item		Action, Instant	Go again, Arcane Barrier 2				"Aether Sink enters the arena with a steam counter on it.
 
 **Action** - {r}: If there are no steam counters on Aether Sink, put a steam counter on it. **Go again**
@@ -244,6 +244,15 @@ When you deal or are dealt damage, destroy this.
 
 When this leaves the arena during your turn, create a Runechant token."	Runeblade Action - Aura					
 qkLmDfFnGLhCCFtHPtLj7	Arcane Lantern							Generic, Equipment, Off-Hand	Arcane Barrier 1						**Arcane Barrier 1**	Generic Equipment - Off-Hand					
+qHchQQKQNHj6mWgrcR96W	Arcane Twining	1	0		3			Wizard, Action		Instant	Amp 1				"Deal 3 arcane damage to any target.
+
+**Instant** - Discard this: **Amp 1**"	Wizard Action					
+qKj6WNWcF9RtfbwRRNnbT	Arcane Twining	2	0		3			Wizard, Action		Instant	Amp 1				"Deal 2 arcane damage to any target.
+
+**Instant** - Discard this: **Amp 1**"	Wizard Action					
+GpH8Grr9GpG8qD7PPm9Lt	Arcane Twining	3	0		3			Wizard, Action		Instant	Amp 1				"Deal 1 arcane damage to any target.
+
+**Instant** - Discard this: **Amp 1**"	Wizard Action					
 H87pKGPFG9qBRFBnR8MTL	Arcanic Crackle	1	0	3	3			Runeblade, Action, Attack							Deal 1 arcane damage to target hero.	Runeblade Action - Attack					
 8FNgPpkdWdNw6n9HjbWzM	Arcanic Crackle	2	0	2	3			Runeblade, Action, Attack							Deal 1 arcane damage to target hero.	Runeblade Action - Attack					
 KB87gnCLWPPqbTzFwrCwM	Arcanic Crackle	3	0	1	3			Runeblade, Action, Attack							Deal 1 arcane damage to target hero.	Runeblade Action - Attack					
@@ -843,6 +852,9 @@ When an attack action card you control hits, destroy Bloodspill Invocation then 
 When your hero is dealt damage, destroy Bloodspill Invocation."	Runeblade Action - Aura					
 KPrJfDdHDTrz6BHRdBFMq	Bloodtorn Bodice				0			Runeblade, Equipment, Chest		Action	Go again				**Action** - Destroy this and an aura you control: Gain {r}. **Go again**	Runeblade Equipment - Chest					
 gwz9PFtw8TdHG9DDTDctw	Blossom of Spring				0			Generic, Equipment, Chest		Action	Go again				**Action** - Destroy this: Gain {r}. **Go again**	Generic Equipment - Chest					
+WbbB7d7qFbb8mW66GNCjn	Blossoming Decay	1	2	5	2			Earth, Action, Attack	Decompose						**Decompose** - When this attacks, you may banish 2 Earth cards and an action card from your graveyard. If you do, gain 1{h}.	Earth Action - Attack					
+fzLHhjCCMWFGn9nnhNHwG	Blossoming Decay	2	2	4	2			Earth, Action, Attack	Decompose						**Decompose** - When this attacks, you may banish 2 Earth cards and an action card from your graveyard. If you do, gain 1{h}.	Earth Action - Attack					
+hrH8MTCmLwnnJHhdNggMP	Blossoming Decay	3	2	3	2			Earth, Action, Attack	Decompose						**Decompose** - When this attacks, you may banish 2 Earth cards and an action card from your graveyard. If you do, gain 1{h}.	Earth Action - Attack					
 nDWpQJCqCqHJM6WbhD7GN	Blossoming Spellblade	1	2	6	3			Elemental, Runeblade, Action, Attack	Earth and Lightning Fusion						"**Earth and Lightning Fusion**
 
 If Blossoming Spellblade was fused, it gains ""Whenever this deals damage to an opposing hero, you may banish a 'non-attack' action card from your graveyard. If you do, you may play it this turn as though it were an instant and if it would be put into your graveyard this turn, instead banish it.""
@@ -1062,6 +1074,7 @@ Whenever you play your second 'non-attack' action card each turn, create an Embo
 nhf89Hr9rJkp9qDjDCCpt	Brothers in Arms	1	2	6	2			Generic, Action, Attack							When you defend with Brothers in Arms, you may pay {r}. If you do, it gains +2{d}.	Generic Action - Attack					
 B7BNkF6nJChrRQ6kpWKPw	Brothers in Arms	2	2	5	2			Generic, Action, Attack							When you defend with Brothers in Arms, you may pay {r}. If you do, it gains +2{d}.	Generic Action - Attack					
 TtJpTpjBbDpPhFb7bzLwD	Brothers in Arms	3	2	4	2			Generic, Action, Attack							When you defend with Brothers in Arms, you may pay {r}. If you do, it gains +2{d}.	Generic Action - Attack					
+wkBCfWK6wNKKNjWQwkGzj	Bruised Leather				0			Generic, Equipment, Chest		Instant					**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this only if you've been dealt damage this turn.	Generic Equipment - Chest					
 6fHc7b8L8fhK8GCqJTzrc	Brush Off	1	0					Generic, Instant							The next time you would be dealt 3 or less damage this turn, prevent it.	Generic Instant					
 H6HqHg669zTz9nb6qGdcg	Brush Off	2	0					Generic, Instant							The next time you would be dealt 2 or less damage this turn, prevent it.	Generic Instant					
 6QFJz9JnJhnLBFrtJWh7t	Brush Off	3	0					Generic, Instant							The next time you would be dealt 1 damage this turn, prevent it.	Generic Instant					
@@ -2420,6 +2433,15 @@ HMMRL8LDTCdzFRpzgTCkz	Essence of Ancestry: Mind	3	0		3			Illusionist, Action, Au
 Nw6hkj6NCpWtBN9BcTFcq	Essence of Ancestry: Soul	2	0		3			Illusionist, Action, Aura	Ward 2						"When this leaves the arena, if you control no Illusionist auras, the next time you would be dealt damage by a yellow source this turn, prevent it.
 
 **Ward 2**"	Illusionist Action - Aura				No	
+9QB9tNFgJJrW87DhjjdrM	Etchings of Arcana	1	0		3			Wizard, Action	Surge						"Deal 3 arcane damage to target hero.
+
+**Surge** - If this deals more than 3 damage, you may return an aura with Sigil in its name from your graveyard to your hand."	Wizard Action					
+L8QMPzFdqBBGzD7CNRHQj	Etchings of Arcana	2	0		3			Wizard, Action	Surge						"Deal 2 arcane damage to target hero.
+
+**Surge** - If this deals more than 2 damage, you may return an aura with Sigil in its name from your graveyard to your hand."	Wizard Action					
+Hnw87jtbJwdMWMNf8NgPk	Etchings of Arcana	3	0		3			Wizard, Action	Surge						"Deal 1 arcane damage to target hero.
+
+**Surge** - If this deals more than 1 damage, you may return an aura with Sigil in its name from your graveyard to your hand."	Wizard Action					
 QtTgrgcKwKqCJ8dc9Mbbb	Evasive Leap	1	0		3			Generic, Defense Reaction								Generic Defense Reaction					
 whmMnfgwjqMJCHKGBHfq7	Evasive Leap	2	0		2			Generic, Defense Reaction								Generic Defense Reaction					
 N8LCzb9K8GdzMRmNbB6GM	Evasive Leap	3	0		1			Generic, Defense Reaction								Generic Defense Reaction					
@@ -3015,9 +3037,9 @@ If a hero has lost {h} this turn, you may play this as though it were an instant
 Create a Runechant token.
 
 **Blood Debt**"	Shadow Runeblade Action				No	
-FMkTCF7CdfJK9Ljfzb7bk	Fyendal's Fighting Spirit	1	3	7	2			Generic, Action, Attack							When you attack or defend with Fyendal's Fighting Spirit, if you have less {h} than an opposing hero, gain 1{h}.	Generic Action - Attack				No	
-7NWDCLJnCJHrTpzbzw7Hw	Fyendal's Fighting Spirit	2	3	6	2			Generic, Action, Attack							When you attack or defend with Fyendal's Fighting Spirit, if you have less {h} than an opposing hero, gain 1{h}.	Generic Action - Attack				No	
-PchH8H7tWqQMjdRdwTLPR	Fyendal's Fighting Spirit	3	3	5	2			Generic, Action, Attack							When you attack or defend with Fyendal's Fighting Spirit, if you have less {h} than an opposing hero, gain 1{h}.	Generic Action - Attack				No	
+FMkTCF7CdfJK9Ljfzb7bk	Fyendal's Fighting Spirit	1	3	7	2			Generic, Action, Attack							When this attacks or defends, if you have less {h} than an opposing hero, gain 1{h}.	Generic Action - Attack					
+7NWDCLJnCJHrTpzbzw7Hw	Fyendal's Fighting Spirit	2	3	6	2			Generic, Action, Attack							When this attacks or defends, if you have less {h} than an opposing hero, gain 1{h}.	Generic Action - Attack					
+PchH8H7tWqQMjdRdwTLPR	Fyendal's Fighting Spirit	3	3	5	2			Generic, Action, Attack							When this attacks or defends, if you have less {h} than an opposing hero, gain 1{h}.	Generic Action - Attack					
 RP6pJj9WtwbTT79qdHPkz	Fyendal's Spring Tunic				1			Generic, Equipment, Chest	Blade Break	Instant					"At the start of your turn, if this has fewer than 3 energy counters, you may put an energy counter on it.
 
 **Instant** - Remove 3 energy counters from this: Gain {r}
@@ -3292,6 +3314,15 @@ If you have a card in your pitch zone with cost 0, this card's attacks get **go 
 **Go again**"	Mystic Ninja Action - Attack					
 mnBtJdtHfCCzLtdkbJqKz	Harness Lightning	1	0		2			Elemental, Runeblade, Action	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, deal 3 arcane damage to target hero.	Elemental Runeblade Action				No	
 FrLnt7LBFzJbWTFFWhWQj	Harness Lightning	2	0		2			Elemental, Runeblade, Action	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, deal 2 arcane damage to target hero.	Elemental Runeblade Action				No	
+h9NHN8tRGcW6BtF98DJqM	Harvest Season	1	1		2			Earth, Action, Aura	Go again						"**Go again**
+
+At the beginning of your action phase, destroy this, then gain 3{h}."	Earth Action - Aura					
+7Dzp8kPW6kJPj7tQKL79w	Harvest Season	2	1		2			Earth, Action, Aura	Go again						"**Go again**
+
+At the beginning of your action phase, destroy this, then gain 2{h}."	Earth Action - Aura					
+Lq8ktfMh6MPDknk8jGRzr	Harvest Season	3	1		2			Earth, Action, Aura	Go again						"**Go again**
+
+At the beginning of your action phase, destroy this, then gain 1{h}."	Earth Action - Aura					
 99B9LdcMnLqBhwjQmrHRG	Hatchet of Body			2				Warrior, Weapon, Axe, 1H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 Whenever you attack with Hatchet of Body, if Hatchet of Mind was the last attack this turn, Hatchet of Body gains +1{p} until end of turn."	Warrior Weapon - Axe (1H)					
@@ -3390,6 +3421,9 @@ TKbBnD6hMmqHfhDPtmHjL	Helm of Halo's Grace				2			Light, Warrior, Equipment, Hea
 rjhDRz7JGN7kpDdjHQfrg	Helm of Isen's Peak				1			Guardian, Equipment, Head	Battleworn	Action					"**Action** - {r}, destroy Helm of Isen Peak: Your hero gains +1{i} until end of turn.
 
 **Battleworn**"	Guardian Equipment - Head					
+7gkkzWWDprGtBpfq8QPWC	Helm of Lignum Vitae				1			Earth, Equipment, Head	Blade Break						"If there are 4 or more Earth cards in your banished zone, this gets +1{d}.
+
+**Blade Break**"	Earth Equipment - Head					
 MfBtnKK96JRR8Nb7RWMBn	Helm of Sharp Eye				1			Warrior, Equipment, Head	Battleworn	Attack Reaction					"**Attack Reaction** - {r}, destroy Helm of Sharp Eye: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon with {p} greater than twice it's base {p}.
 
 **Battleworn**"	Warrior Equipment - Head				No	
@@ -3556,6 +3590,7 @@ HhJtCMW6nLMfzGJLn7g8m	Hold 'em	2	1		3			Warrior, Action	Go again, Wager			Wager	
 WHLRchgdMH8Bjb8TDngkp	Hold 'em	3	1		3			Warrior, Action	Go again, Wager			Wager			"Your next Warrior attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** a Vigor token with them.""
 
 **Go again**"	Warrior Action					
+mTWd9JgNqM9bGj9H87Jpq	Hold Focus				0			Wizard, Equipment, Arms		Action	Amp 1, Go again				**Action** - Destroy this: **Amp 1**. **Go again**	Wizard Equipment - Arms					
 77rDjRrtRKDHTpNwbHWDW	Hold the Line	3	0		2			Generic, Defense Reaction							If the attacking hero has drawn 2 or more cards this turn, prevent the next 3 damage that would be dealt to your hero this turn.	Generic Defense Reaction				No	
 mzKLGwTBmFHFd8KNdPQ7n	Homage to Ancestors	3	0					Mystic, Instant	Legendary, Transcend						"**Legendary**
 
@@ -4306,7 +4341,7 @@ This enters the arena with 2 verse counters. When it has none, destroy it.
 Once per turn, when you play an attack action card, remove a verse counter from this. If you do, create a Runechant token."	Runeblade Action - Aura				No	
 9GqP669FDfnpMzmL7t7JW	Malefic Incantation	3	0		2			Runeblade, Action, Aura	Go again						"**Go again**
 
-This enters the arena with 1 verse counters. When it has none, destroy it.
+This enters the arena with a verse counter. When it has none, destroy it.
 
 Once per turn, when you play an attack action card, remove a verse counter from this. If you do, create a Runechant token."	Runeblade Action - Aura				No	
 dhMB8PhdHndJLzwgtF9t7	Malign	1	0	3	3			Assassin, Action, Attack	Stealth						"**Stealth**
@@ -4380,15 +4415,15 @@ Hyper Drivers you control get **crank**."	Mechanologist Hero		No		No
 z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro					20	4	Mechanologist, Hero, Young		Once Per Turn Action		Crank		Boost	"**Once per Turn Action** - {r}{r}: Create a Hyper Driver token with 2 steam counters.  Activate this ability only if you've **boosted** this turn.
 
 Hyper Drivers you control get **crank**."	Mechanologist Hero - Young			No		
-rpF86BNmBttKMGpckqJnq	Meat and Greet	1	1	4	3			Runeblade, Action, Attack	Go again						"If Meat and Greet hits, create a Runechant token.
+rpF86BNmBttKMGpckqJnq	Meat and Greet	1	1	4	3			Runeblade, Action, Attack	Go again						"When this hits, create a Runechant token.
 
-If you have dealt arcane damage to an opposing hero this turn, Meat and Greet gains **go again**."	Runeblade Action - Attack					
-7cFGrC8JzLcFjRzJ8fnWH	Meat and Greet	2	1	3	3			Runeblade, Action, Attack	Go again						"If Meat and Greet hits, create a Runechant token.
+If you've dealt arcane damage to an opposing hero this turn, this gets **go again**."	Runeblade Action - Attack					
+7cFGrC8JzLcFjRzJ8fnWH	Meat and Greet	2	1	3	3			Runeblade, Action, Attack	Go again						"When this hits, create a Runechant token.
 
-If you have dealt arcane damage to an opposing hero this turn, Meat and Greet gains **go again**."	Runeblade Action - Attack					
-kMHrRGnggnJtkzk7PhbH8	Meat and Greet	3	1	2	3			Runeblade, Action, Attack	Go again						"If Meat and Greet hits, create a Runechant token.
+If you've dealt arcane damage to an opposing hero this turn, this gets **go again**."	Runeblade Action - Attack					
+kMHrRGnggnJtkzk7PhbH8	Meat and Greet	3	1	2	3			Runeblade, Action, Attack	Go again						"When this hits, create a Runechant token.
 
-If you have dealt arcane damage to an opposing hero this turn, Meat and Greet gains **go again**."	Runeblade Action - Attack					
+If you've dealt arcane damage to an opposing hero this turn, this gets **go again**."	Runeblade Action - Attack					
 KFh8LdDmdJdmn9RJc8hhJ	Mechanical Strength	1	3	5	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This gets +X{p}, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
 pHCcrc7zRQnTFLfqcpgjd	Mechanical Strength	2	3	4	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This gets +X{p}, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
 7FfRqNrB8z7L6HjzTpbJd	Mechanical Strength	3	3	3	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - This gets +X{p}, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
@@ -4692,17 +4727,17 @@ rnFwQdqLFTRCDWbtT6Jqm	Oath of the Arknight	1	2		3			Runeblade, Action	Go again		
 
 Create a Runechant token.
 
-**Go again**"	Runeblade Action				No	
+**Go again**"	Runeblade Action					
 nfmPR87fzQhMLrPCdFTzD	Oath of the Arknight	2	2		3			Runeblade, Action	Go again						"Your next Runeblade attack this turn gains +2{p}.
 
 Create a Runechant token.
 
-**Go again**"	Runeblade Action				No	
+**Go again**"	Runeblade Action					
 GWfQC8Lqd9Jz8dnkNdrwt	Oath of the Arknight	3	2		3			Runeblade, Action	Go again						"Your next Runeblade attack this turn gains +1{p}.
 
 Create a Runechant token.
 
-**Go again**"	Runeblade Action				No	
+**Go again**"	Runeblade Action					
 F6nMWMTR7mjDm9LMjhgpd	Oblivion	3	0					Shadow, Runeblade, Instant	Legendary, Vynnset Specialization						"**Legendary Vynnset Specialization**
 
 Play this only if you control exactly 6 Runechants.
@@ -4818,6 +4853,15 @@ JHRhwNCKG97trbQLfhg9j	Overblast	3	2	3	3			Mechanologist, Action, Attack						Boo
 BrCKk9JLw8r69fGgNt8BH	Overcome Adversity				2			Generic, Equipment, Legs	Blade Break						"This may only defend an attack if the attack's controller has destroyed an Agility token this turn.
 
 **Blade Break**"	Generic Equipment - Legs					
+CMbWnJbGKW8JdmD7TB8JF	Overflow the Aetherwell	1	0		3			Wizard, Action	Surge						"Deal 3 arcane damage to target hero.
+
+**Surge** - If this deals more than 3 damage, gain {r}{r}."	Wizard Action					
+d9FtdtrTdngR8nLPQqwmN	Overflow the Aetherwell	2	0		3			Wizard, Action	Surge						"Deal 2 arcane damage to target hero.
+
+**Surge** - If this deals more than 2 damage, gain {r}{r}."	Wizard Action					
+ghzGbkHbQ8cgDFHj9gGKP	Overflow the Aetherwell	3	0		3			Wizard, Action	Surge						"Deal 1 arcane damage to target hero.
+
+**Surge** - If this deals more than 1 damage, gain {r}{r}."	Wizard Action					
 jjzTRHWhnQT7M7FwKjjpq	Overload	1	0	3	2			Generic, Action, Attack	Dominate, Go again						"**Dominate**
 
 If Overload hits, it gains **go again**."	Generic Action - Attack					
@@ -4914,6 +4958,15 @@ Your Mechanologist attack action cards get +1{p}."	Mechanologist Action - Item		
 8CLhBWj6dbMgg9gfPCQjH	Perch Grapplers				2			Ranger, Equipment, Legs	Blade Break	Action	Go again	Go again			"**Action** - {r}{r}, destroy Perch Grapplers: Until end of turn, face up arrow cards played from arsenal gain **go again**. **Go again**
 
 **Blade Break**"	Ranger Equipment - Legs				No	
+Mn7GCfnN9PJTP9dTGtkdn	Perennial Aetherbloom	1	0		3			Wizard, Action	Surge						"Deal 3 arcane damage to target hero.
+
+**Surge** - If this deals more than 3 damage, put it on the bottom of its owner's deck."	Wizard Action					
+NCTn7FNh8QCgcJnFzHcGK	Perennial Aetherbloom	2	0		3			Wizard, Action	Surge						"Deal 2 arcane damage to target hero.
+
+**Surge** - If this deals more than 2 damage, put it on the bottom of its owner's deck."	Wizard Action					
+cTC7fqqfnrTWzdKpzcKnG	Perennial Aetherbloom	3	0		3			Wizard, Action	Surge						"Deal 1 arcane damage to target hero.
+
+**Surge** - If this deals more than 1 damage, put it on the bottom of its owner's deck."	Wizard Action					
 NJcrQWnf8KF9jd7FGDg8p	Performance Bonus	1	0	3	2			Generic, Action, Attack	Go again						"When this hits, create a Gold token.
 If this was played from arsenal, it gets **Go again**."	Generic Action - Attack					
 ChbzMDmWzwMD9FRF87cq8	Performance Bonus	2	0	2	2			Generic, Action, Attack	Go again						"When this hits, create a Gold token.
@@ -5124,6 +5177,15 @@ This enters the arena with a steam counter. At the start of your turn, destroy t
 
 Action cards get -1{d} while defending your Mechanologist attack action cards."	Mechanologist Action - Item				No	
 HpWqFJW8ftTDdzCLK9RkD	Ponder							Generic, Token, Aura							At the beginning of your end phase, destroy Ponder and draw a card.	Generic Token - Aura					
+QMpq7DpJhfwJKkBfr6JKF	Pop the Bubble	1	0		3			Wizard, Action	Surge						"Deal 3 arcane damage to any target.
+
+**Surge** - If this deals more than 3 damage to a hero, destroy an aura permanent they control."	Wizard Action				No	
+dTfFbRdN9zLPKfgWd8mmp	Pop the Bubble	2	0		3			Wizard, Action	Surge						"Deal 2 arcane damage to any target.
+
+**Surge** - If this deals more than 3 damage to a hero, destroy an aura permanent they control."	Wizard Action				No	
+Fwd6jCqPfPh696Kz7gLfW	Pop the Bubble	3	0		3			Wizard, Action	Surge						"Deal 1 arcane damage to any target.
+
+**Surge** - If this deals more than 3 damage to a hero, destroy an aura permanent they control."	Wizard Action				No	
 KLrGzkPn8QfB6cqNqcN8m	Popped Collar Polo				0			Generic, Equipment, Chest		Action	Go again				**Action** - Destroy this: Gain {r}. **Go again**	Generic Equipment - Chest		No	No	No	
 qLwNCBR9FCfnnPtPjkWNp	Potion of Deja Vu	3	0					Generic, Action, Item		Instant					**Instant** - Destroy Potion of Déjà Vu: Put all cards from your pitch zone on top of your deck in any order.	Generic Action - Item				No	
 LRdKLkdKnTJ8CCczKmwzw	Potion of Ironhide	3	0					Generic, Action, Item		Instant					**Instant** - Destroy Potion of Ironhide: Attack action cards you own gain +1{d} this turn.	Generic Action - Item				No	
@@ -6004,6 +6066,7 @@ Runeblood Incantation enters the arena with a verse counter on it.
 
 At the beginning of your action phase, remove a verse counter from Runeblood Incantation. If you do create a Runechant token. Otherwise, destroy Runeblood Incantation."	Runeblade Action - Aura				No	
 zfrHQjbPkpBmdQGrWcTMB	Runechant							Runeblade, Token, Aura							When you play an attack action card or activate a weapon attack, destroy Runechant and deal 1 arcane damage to target opposing hero.	Runeblade Token - Aura					
+zzWc8BBmC9T6bfQwDMBPH	Runehold Release				0			Runeblade, Equipment, Arms		Action	Go again				**Action** - Destroy this: Create a Runechant token. **Go again**	Runeblade Equipment - Arms					
 66LHrpFckMQ8WNWhPjbD6	Runerager Swarm	1	0	3	3			Runeblade, Action, Attack	Go again						If you've played or created an aura this turn, this gets **go again**.	Runeblade Action - Attack					
 8zcbgBnjjdmM6G9hCqC9f	Runerager Swarm	2	0	2	3			Runeblade, Action, Attack	Go again						If you've played or created an aura this turn, this gets **go again**.	Runeblade Action - Attack					
 NHbgwmKj6z9GrPHGPdCDh	Runerager Swarm	3	0	1	3			Runeblade, Action, Attack	Go again						If you've played or created an aura this turn, this gets **go again**.	Runeblade Action - Attack					
@@ -7065,6 +7128,9 @@ At the start of your turn, destroy this, draw a card, then put a card from your 
 L6FBCMGPMwNfTBBKrhqDT	Stadium Centerpiece				*			Generic, Equipment, Chest	Blade Break						"Stadium Centerpiece's {d} is equal to the number of opposing heroes with greater {h} than you.
 
 **Blade Break**"	Generic Equipment - Chest					
+PQgjdCTFwm89BmcWP9n7d	Staff of Verdant Shoots							Earth, Wizard, Weapon, Staff, 2H		Once per Turn Action	Amp 1, Go again				"**Once per Turn Action** - {r}{r}{r}: **Amp 1**. **Go again**
+
+When one or more Earth cards are pitched this way, the next time you deal arcane damage this turn, create an Embodiment of Earth token."	Earth Wizard Weapon - Staff (2H)					
 BCpDT6GfzNwKW8qz7WbrN	Stalagmite, Bastion of Isenloft				2			Ice, Guardian, Equipment, Off-Hand	Temper						Whenever you defend with Stalagmite, create a Frostbite token under the attacking hero's control. **Temper**	Ice Guardian Equipment - Off-Hand				No	
 6nBW69HNQRGM7mpMzNCGB	Stamp Authority	3	3		3			Guardian, Action, Aura							"When Stamp Authority enters the arena, if you have 2 or more cards in your pitch zone with cost 3 or greater, your hero gains +1{i} until end of turn.
 
@@ -7216,6 +7282,15 @@ cmqfjzTmDDt9DLCRkLGMC	Stroke of Foresight	2	1		3			Warrior, Attack Reaction	Repr
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, draw a card, then put a card from your hand on the top or bottom of your deck."	Warrior Attack Reaction					
 7KdwKrNcWjFQMnpq8DfmQ	Strong Wood	1	3	6	3			Elemental, Guardian, Action, Attack	Earth Bond						**Earth Bond** - If an Earth card was pitched to play this, this gets +1{p}.	Elemental Guardian Action - Attack					
 qLNqpbKwBJPMLz9TTDHdW	Strong Wood	2	3	5	3			Elemental, Guardian, Action, Attack	Earth Bond						**Earth Bond** - If an Earth card was pitched to play this, this gets +1{p}.	Elemental Guardian Action - Attack					
+DrQ9nkJKpqLJCr9TgDMNn	Strong Yield	1	1		2			Earth, Action, Aura	Go again						"**Go again**
+
+At the beginning of your action phase, destroy this, then your next attack this turn gets +3{p}."	Earth Action - Aura					
+BrkH6WNFFTkJf8rkR9jNj	Strong Yield	2	1		2			Earth, Action, Aura	Go again						"**Go again**
+
+At the beginning of your action phase, destroy this, then your next attack this turn gets +2{p}."	Earth Action - Aura					
+zQrFKLnDP7tt6NcttPn6K	Strong Yield	3	1		2			Earth, Action, Aura	Go again						"**Go again**
+
+At the beginning of your action phase, destroy this, then your next attack this turn gets +1{p}."	Earth Action - Aura					
 wj7qpMrzMjDbn8tmtfPL7	Stubby Hammerers				0			Generic, Equipment, Arms		Action	Go again				**Action** - Destroy Stubby Hammerers: Attack action cards with 3 or less base power gain +1{p} while attacking this turn. **Go again**	Generic Equipment - Arms					
 kkw8H7tTjGHf7kqbDt8jL	Succumb to Winter	1	3		3			Elemental, Wizard, Action	Ice Fusion						"**Ice Fusion**
 
@@ -7226,6 +7301,9 @@ Deal 4 arcane damage to any target. If Succumb to Winter was **fused** and targe
 R9Q7mwDPBhRhhgRbtC6dD	Succumb to Winter	3	3		3			Elemental, Wizard, Action	Ice Fusion						"**Ice Fusion**
 
 Deal 3 arcane damage to any target. If Succumb to Winter was **fused** and targets a hero, destroy a **frozen** card in their arsenal. If it was **fused** and targets a **frozen** ally, destroy that ally."	Elemental Wizard Action				No	
+GhBpCcmh8kBf9gKNDPz68	Summer's Fall	1	2	6	2			Earth, Action, Attack	Decompose						**Decompose** - When this attacks, you may banish 2 Earth cards and an action card from your graveyard. If you do, put up to 1 target aura on the bottom of its owner's deck.	Earth Action - Attack				No	
+kKMdmTCkGRNTMHHRDznLQ	Summer's Fall	2	2	5	2			Earth, Action, Attack	Decompose						**Decompose** - When this attacks, you may banish 2 Earth cards and an action card from your graveyard. If you do, put up to 1 target aura on the bottom of its owner's deck.	Earth Action - Attack				No	
+6CbcjKgjJbTDrfbtDhMkW	Summer's Fall	3	2	4	2			Earth, Action, Attack	Decompose						**Decompose** - When this attacks, you may banish 2 Earth cards and an action card from your graveyard. If you do, put up to 1 target aura on the bottom of its owner's deck.	Earth Action - Attack				No	
 w6HDQDjbzfdMfwGRBK9Jd	Summerwood Shelter	1	0					Earth, Instant							Target defending Earth or Elemental action card gains +4{d}.	Earth Instant				No	
 Q8gBqCWH8grgtgN8gdbp7	Summerwood Shelter	2	0					Earth, Instant							Target defending Earth or Elemental action card gains +3{d}.	Earth Instant				No	
 R8JRnKHBzwRGBw8hnrJrg	Summerwood Shelter	3	0					Earth, Instant							Target defending Earth or Elemental action card gains +2{d}.	Earth Instant				No	
@@ -7902,6 +7980,9 @@ DqhggQR7Tcr9jQJ8QRrHd	Valiant Thrust	3	1	2	3			Light, Warrior, Action, Attack			
 KTjmk7Th7CGNPfmL6CDnD	Vambrace of Determination				0			Generic, Equipment, Arms	Blade Break	Once per Turn Attack Reaction					"**Once per Turn Attack Reaction** - {r}: The next prevention effect that prevents {p} damage this turn, prevents 1 less of that damage.
 
 When this defends, you may pay {r}. If you do, it gains +1{d} and **blade break**."	Generic Equipment - Arms				No	
+HbzHpFQDj9pBBtDbNKqwC	Vantage Point	1	3	7	3			Runeblade, Action, Attack	Overpower						If you've played or created an aura this turn, this gets **overpower**.	Runeblade Action - Attack				No	
+rcKfddzQpzGHbqtrNbhGC	Vantage Point	2	3	6	3			Runeblade, Action, Attack	Overpower						If you've played or created an aura this turn, this gets **overpower**.	Runeblade Action - Attack				No	
+QtH7PBLtrgwf8tLG8HpWD	Vantage Point	3	3	5	3			Runeblade, Action, Attack	Overpower						If you've played or created an aura this turn, this gets **overpower**.	Runeblade Action - Attack				No	
 9PJCCqpT8JhfHkfftKjwH	Vantom Banshee	1	3	7	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
 
 **Blood Debt**"	Shadow Runeblade Action - Attack					
