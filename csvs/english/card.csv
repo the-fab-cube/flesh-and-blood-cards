@@ -1290,6 +1290,15 @@ hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	2	1		3			Warrior, Attack Reaction	Unity
 Until end of turn, target Dawnblade gets +1{p} and ""Damage this would deal can't be prevented.""
 
 **Unity** - When this defends together with a card from hand, create a Courage token under any number of heroes' control."	Warrior Attack Reaction				No	
+zqcnM9Hw8KdpPm8MTpGGQ	Chorus of the Amphitheater	1	2		2			Wizard, Action		Instant					"Deal 4 arcane damage to any target.
+
+**Instant** - Discard this: If an action or instant card you control would deal arcane damage this turn, instead it deals that much plus 1."	Wizard Action				No	
+CzFbG6pFWFPw6fcHHLDp8	Chorus of the Amphitheater	2	2		2			Wizard, Action		Instant					"Deal 3 arcane damage to any target.
+
+**Instant** - Discard this: If an action or instant card you control would deal arcane damage this turn, instead it deals that much plus 1."	Wizard Action				No	
+zQ89qbgtqWjgGtfBLWTkQ	Chorus of the Amphitheater	3	2		2			Wizard, Action		Instant					"Deal 2 arcane damage to any target.
+
+**Instant** - Discard this: If an action or instant card you control would deal arcane damage this turn, instead it deals that much plus 1."	Wizard Action				No	
 dzJfMfd9gL8JjpJ6hNKMk	Cindering Foresight	1	0		2			Wizard, Action	Opt 3						"If it's not your turn, you may play Cindering Foresight as though it were an instant.
 
 The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.
@@ -2610,6 +2619,15 @@ When this hits, you may put an item with cost 0 or 1 from your hand into the are
 dWbFtRKNWnmPBPpBLrFqF	Expendable Limbs	3	0		4			Shadow, Brute, Defense Reaction							"As an additional cost to play this, banish a random card from your hand.
 
 If a card with 6 or more {p} is banished this way, you may play it from your banished zone during your next action phase."	Shadow Brute Defense Reaction				No	
+wPLfnbgJtbFDq7kgKjW6r	Exploding Aether	1	2		2			Wizard, Action	Amp 3, Go again						"**Amp 3**
+
+**Go again**"	Wizard Action					
+wngpKCpwWbfBCr7kPKmmJ	Exploding Aether	2	2		2			Wizard, Action	Amp 2, Go again						"**Amp 2**
+
+**Go again**"	Wizard Action					
+bC8kjBnNK7hHFCRKhnhhH	Exploding Aether	3	2		2			Wizard, Action	Amp 1, Go again						"**Amp 1**
+
+**Go again**"	Wizard Action					
 GNLcn7HJG7MfhgGMQDPJ7	Explosive Growth	1	1	3	3			Elemental, Runeblade, Action, Attack	Earth Fusion						"**Earth Fusion**
 
 If Explosive Growth was **fused**, whenever it deals damage, attacks gain +1{p} this combat chain.
@@ -5021,6 +5039,15 @@ If you control 2 or more Draconic chain links, Phoenix Flame has +1{p}.
 8RGTWgzLGh69FcNbLCfJc	Phoenix Form	1	0	3	3			Draconic, Ninja, Action, Attack	Go again						"If you control 1 or more Phoenix Flames, Phoenix Form has **go again**. If you control 2 or more, it has +2{p}. If you control 3 or more, it has ""When this hits a hero, draw 3 cards."""	Draconic Ninja Action - Attack				No	
 tLLcFGDJBDDbRJpcrj6Hp	Photon Rush	1	0	3	3			Elemental, Runeblade, Action, Attack	Lightning Flow, Go again						**Lightning Flow** - If you've played a Lightning card this turn, this gets **go again**	Elemental Runeblade Action - Attack					
 hmwDMcWw9jwmjmpk8rBjR	Photon Rush	3	0	1	3			Elemental, Runeblade, Action, Attack	Lightning Flow, Go again						**Lightning Flow** - If you've played a Lightning card this turn, this gets **go again**	Elemental Runeblade Action - Attack					
+89wCCJfjJTCb8gqHftG8g	Photon Splicing	1	1		3			Wizard, Action		Instant	Amp 1				"Deal 4 arcane damage to any target.
+
+**Instant** - Discard this: **Amp 1**"	Wizard Action					
+jkHLWfcKGCHnmgFtjrJkr	Photon Splicing	2	1		3			Wizard, Action		Instant	Amp 1				"Deal 3 arcane damage to any target.
+
+**Instant** - Discard this: **Amp 1**"	Wizard Action					
+MBRmLcRzPPtFTJndD8FnQ	Photon Splicing	3	1		3			Wizard, Action		Instant	Amp 1				"Deal 2 arcane damage to any target.
+
+**Instant** - Discard this: **Amp 1**"	Wizard Action					
 bLmknjcbt6Bjn6RTmTBMF	Pick a Card, Any Card	1	0		2			Generic, Action	Go again						"Look at target opponent's hand then name a card.
 
 Choose a random card from their hand and reveal it. If it's the named card, create a Silver token. Repeat this process thrice.
@@ -7874,6 +7901,7 @@ RrMqgK8fbbhbJMTqcKbdM	Twin Twisters	3	1	1	2			Ninja, Action, Attack	Go again				
 - Twin Twisters gains +1{p}.
 
 **Go again**"	Ninja Action - Attack					
+NGbpwjFhL9rLHN7zKChnW	Twinkle Toes				0			Lightning, Equipment, Legs		Instant					**Instant** - Destroy this: Prevent the next 2 damage that would be dealt to you this turn. Activate this only if you've played an instant card this turn.	Lightning Equipment - Legs					
 hcrwmGkbzW8zBft77cKpj	Twinning Blade	2	0		3			Warrior, Attack Reaction							You may attack an additional time with target sword this turn.	Warrior Attack Reaction				No	
 gmR7DG76HhtdgwwTqQngT	Under Loop	1	1	4	3			Mechanologist, Action, Attack	Boost						"**Boost**
 
