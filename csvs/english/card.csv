@@ -3179,6 +3179,15 @@ Whenever Dawnblade hits a hero this turn, put a +1{p} counter on it.
 
 **Go again**"	Warrior Action				No	
 FcfhgdgwB6BBHjbNHkFtL	Glory Seeker							Generic, Equipment, Head		Instant					**Instant** - {r}{r}{r}, destroy this: Draw a card.	Generic Equipment - Head					
+7ztwtMfmmbnrhqM9F797p	Glyph Overlay	1	1		3			Wizard, Action	Surge						"Deal X+3 arcane damage to target hero, where X is the number of aura permanents you control with Sigil in their name.
+
+**Surge** - If this deals more than 3 damage, gain 1{h}, then shuffle all aura permanents you control with Sigil in their name into their owner's deck."	Wizard Action				No	
+R9WwPqkfTJnGhpN8fmnCt	Glyph Overlay	2	1		3			Wizard, Action	Surge						"Deal X+2 arcane damage to target hero, where X is the number of aura permanents you control with Sigil in their name.
+
+**Surge** - If this deals more than 3 damage, gain 1{h}, then shuffle all aura permanents you control with Sigil in their name into their owner's deck."	Wizard Action				No	
+fDz7TpcM8GPdLWPCjcnKh	Glyph Overlay	3	1		3			Wizard, Action	Surge						"Deal X+1 arcane damage to target hero, where X is the number of aura permanents you control with Sigil in their name.
+
+**Surge** - If this deals more than 3 damage, gain 1{h}, then shuffle all aura permanents you control with Sigil in their name into their owner's deck."	Wizard Action				No	
 Ngk6PkmH6JQnfdC9zg8fQ	Go Bananas	2	0					Generic, Instant							Name an action card. Open and reveal a booster pack of Flesh and Blood and put all cards with the chosen name into your hand. If the booster pack does not contain a card with the chosen name, you may repeat this process.	Generic Instant		No	No	No	
 gnCjFF9rFPTrhTrBcjJGc	Goblet of Bloodrun Wine	3	0		2			Warrior, Action	Go again						"Create an Agility and a Vigor token.
 
@@ -7790,6 +7799,15 @@ If Trade In is played from arsenal, it gains **go again**."	Generic Action - Att
 TDCnCP7tnLRMNgHNJPTRF	Trade In	3	0	1	2			Generic, Action, Attack	Go again						"When you attack with Trade In, you may discard a card. If you do, draw a card.
 
 If Trade In is played from arsenal, it gains **go again**."	Generic Action - Attack					
+CRNw7cJfmDMzMPDKnQgRG	Trailblazing Aether	1	0		3			Wizard, Action	Surge	Go again					"Deal 3 arcane damage to target hero.
+
+**Surge** - If this deals more than 3 damage, it gets **go again**."	Wizard Action					
+DhMTNwfDKnwhRqgkPB6gq	Trailblazing Aether	2	0		3			Wizard, Action	Surge	Go again					"Deal 2 arcane damage to target hero.
+
+**Surge** - If this deals more than 2 damage, it gets **go again**."	Wizard Action					
+DRqfHtKT6mfqNFRDMdDBp	Trailblazing Aether	3	0		3			Wizard, Action	Surge	Go again					"Deal 1 arcane damage to target hero.
+
+**Surge** - If this deals more than 1 damage, it gets **go again**."	Wizard Action					
 JqKMJnbpL76gbCMHj7JPt	Tranquil Passing	1	1		2			Illusionist, Action, Aura	Ward 1						"When Tranquil Passing enters the arena, you may banish target aura token or aura permanent with cost 3 or less controlled by an opponent until Tranquil Passing leaves the arena.
 
 **Ward 1**"	Illusionist Action - Aura				No	
