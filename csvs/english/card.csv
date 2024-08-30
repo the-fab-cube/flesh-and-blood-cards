@@ -1,4 +1,5 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+TPQdbDWdpDjBznGcwfF7g	Ink-lined Cloak				0			Wizard, Equipment, Chest		Instant					**Instant** - Destroy this: Gain {r}. Activate this only if you control an aura permanent with Sigil in its name.	Wizard Equipment - Chest					
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3			Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
@@ -2814,15 +2815,15 @@ HjFbJmPHHbLwqfnbPfFML	Flamecall Awakening	1	1	3	2			Draconic, Action, Attack	Go 
 Fg6Mc9mLLBCDFdrTpTpTB	Flamescale Furnace				2			Draconic, Equipment, Chest	Temper	Once per Turn Instant					"**Once per Turn Instant** - {r}: Gain {r} for each red card in your pitch zone. Activate this ability only if you've played a red card this turn.
 
 **Temper**"	Draconic Equipment - Chest				No	
-cQbwHf7HLrPGwPhCw88mq	Flash	1	0		2			Lightning, Action	Go again			Go again			"The next action card you play this turn with cost 0 or greater gains **go again**.
+cQbwHf7HLrPGwPhCw88mq	Flash	1	0		2			Lightning, Action	Go again			Go again			"The next action card you play this turn with cost 0 or greater gets **go again**.
 
-**Go again**"	Lightning Action				No	
-67fGrFQnnpt8PLBckjKdG	Flash	2	0		2			Lightning, Action	Go again			Go again			"The next action card you play this turn with cost 1 or greater gains **go again**.
+**Go again**"	Lightning Action					
+67fGrFQnnpt8PLBckjKdG	Flash	2	0		2			Lightning, Action	Go again			Go again			"The next action card you play this turn with cost 1 or greater gets **go again**.
 
-**Go again**"	Lightning Action				No	
-BGDgkjjjkjJPtfRndfmFN	Flash	3	0		2			Lightning, Action	Go again			Go again			"The next action card you play this turn with cost 2 or greater gains **go again**.
+**Go again**"	Lightning Action					
+BGDgkjjjkjJPtfRndfmFN	Flash	3	0		2			Lightning, Action	Go again			Go again			"The next action card you play this turn with cost 2 or greater gets **go again**.
 
-**Go again**"	Lightning Action				No	
+**Go again**"	Lightning Action					
 hBDtCDkPFDtWFTm9hGJDq	Flash of Brilliance				1			Lightning, Equipment, Head	Blade Break						"When this defends, you may discard a Lightning card. If you do, return an aura you control to its owner's hand.
 
 **Blade Break**"	Lightning Equipment - Head					
@@ -4258,9 +4259,9 @@ pLbjgzrzbGMwcd8mbRcRG	Lightning Form	3	1	3	2			Lightning, Action, Attack							W
 QWgWwdcd8GPj8dCjCmRCR	Lightning Press	1	0					Lightning, Instant							Target attack action card with cost 1 or less gains +3{p}.	Lightning Instant				No	
 CNgPdMm79nkPHpnqGQCFd	Lightning Press	2	0					Lightning, Instant							Target attack action card with cost 1 or less gains +2{p}.	Lightning Instant				No	
 bjwkrWNdkhrMrPjMtdRmm	Lightning Press	3	0					Lightning, Instant							Target attack action card with cost 1 or less gains +1{p}.	Lightning Instant				No	
-8BFGd6LjfLGgTBrJdmdqf	Lightning Surge	1	0	4	2			Lightning, Action, Attack	Go again						If this was played from arsenal, it gains **go again**.	Lightning Action - Attack					
-b7tLTkWGQtKDhqKG9fjQq	Lightning Surge	2	0	3	2			Lightning, Action, Attack	Go again						If this was played from arsenal, it gains **go again**.	Lightning Action - Attack					
-6CrqfmG7dCTFgNzLbKtcc	Lightning Surge	3	0	2	2			Lightning, Action, Attack	Go again						If this was played from arsenal, it gains **go again**.	Lightning Action - Attack					
+8BFGd6LjfLGgTBrJdmdqf	Lightning Surge	1	0	4	2			Lightning, Action, Attack	Go again						If this was played from arsenal, it gets **go again**.	Lightning Action - Attack					
+b7tLTkWGQtKDhqKG9fjQq	Lightning Surge	2	0	3	2			Lightning, Action, Attack	Go again						If this was played from arsenal, it gets **go again**.	Lightning Action - Attack					
+6CrqfmG7dCTFgNzLbKtcc	Lightning Surge	3	0	2	2			Lightning, Action, Attack	Go again						If this was played from arsenal, it gets **go again**.	Lightning Action - Attack					
 htRtFwB8MhppFMqwLnNzK	Line It Up	2	1		3			Ranger, Action	Go again						"Your next arrow attack this turn gets +3{p}.
 
 You may turn a face-down arrow in your arsenal face-up. If you do, put an aim counter on it.
