@@ -1206,6 +1206,11 @@ JMgPdnR9tCMwwHnMbFDkk	Celestial Resolve	1	0					Light, Illusionist, Instant					
 nC6bfnQB8FMqmR7njpDkh	Celestial Resolve	2	0					Light, Illusionist, Instant							Target attack action card with Herald in its name gets +4{d}.	Light Illusionist Instant					
 mPqMgTrrpbgkWPFBDwwzQ	Celestial Resolve	3	0					Light, Illusionist, Instant							Target attack action card with Herald in its name gets +3{d}.	Light Illusionist Instant					
 gNqK8KBP7kPKcnpWrmq8p	Censor	1	1	5	3			Generic, Action, Attack							When this hits a hero, name a card. They can't play the named card until the end of their next turn.	Generic Action - Attack				No	
+tmCzWCtfttrQdLCbWGC6B	Cerebellum Processor	3	0					Mechanologist, Action, Item	Crank	Once per Turn Action					"**Crank**
+
+This enters the arena with 2 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+**Once per Turn Action** - 0: Draw a card."	Mechanologist Action - Item				No	
 bBtWcpCjGqkMMkwqwgtRT	Chain Lightning	2	1		3			Wizard, Action							"You may play your next Wizard 'non-attack' action card this turn as though it were an instant.
 
 If you have played another Wizard 'non-attack' action card this turn, deal 3 arcane damage to each opposing hero."	Wizard Action				No	
@@ -3414,6 +3419,9 @@ HCGkgWcrLLkmHFBRbhpdM	Heaven's Claws	3	1	3	3			Lightning, Action, Attack								
 CnGbng8qnbmcNP96gkWzT	Heavy Artillery	1	3	6	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - The defending hero can't defend this with attack action cards with cost less than X, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
 zMKfFNMHWRtL67cqWCnL8	Heavy Artillery	2	3	5	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - The defending hero can't defend this with attack action cards with cost less than X, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
 9h6KqtDtctfGjqNTBBjJF	Heavy Artillery	3	3	4	3			Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - The defending hero can't defend this with attack action cards with cost less than X, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
+PtcNWqrmfGgdQmLzBQWtp	Heavy Industry Gear Shift				1			Mechanologist, Equipment, Legs	Battleworn	Action					"**Action** - Destroy this: Banish the top 2 cards of your deck. Gain 1 action point for each Mechanologist card banished this way.
+
+**Battleworn**"	Mechanologist Equipment - Legs				No	
 HDgpj7cmFJwFWqdrHgngk	Heavy Industry Surveillance				1			Mechanologist, Equipment, Head	Temper						"When this defends, you may banish the top card of your deck. If it's a Mechanologist card, this gets +1{d} until end of turn.
 
 **Temper**"	Mechanologist Equipment - Head				No	
