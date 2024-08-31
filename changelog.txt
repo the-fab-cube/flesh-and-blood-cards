@@ -717,7 +717,5 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data for FAB278
 - Updated DYN000 Art Variation to be AA
 
-TODO:
-- Added card data for ROS
-- Added printing data for ROS???-ROS???, FAB265-FAB266,
-- Added Arcane Shelter X and Decompose keywords
+08-31-24:
+- Added card data (minus images) for Heavy Industry Gear Shift and Cerebellum Processor - data entry assistance: manwaring
