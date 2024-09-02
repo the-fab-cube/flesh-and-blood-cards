@@ -1,4 +1,32 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+f8bDMcqJ78QTCBznWpwwN	Arcane Seeds // Life	1	0		3			Runeblade, Action, Earth, Instant	Meld, Go again						"**Meld**
+
+Create a Runechant token. Create a Runechant token.
+
+**Go again**
+
+//
+
+Gain 1{h}"	Runeblade Action // Earth Instant	Yes			No	
+BM9WbbJkzGzdmtqMcMLJ6	Fertile Ground	1	2					Earth, Instant							"Gain 2{h}
+
+If there are 4 or more Earth cards in your banished zone, instead gain 5{h}."	Earth Instant					
+WJ6Ph7N8hNj8tbDnPTHMw	Fertile Ground	2	2					Earth, Instant							"Gain 2{h}
+
+If there are 4 or more Earth cards in your banished zone, instead gain 4{h}."	Earth Instant					
+FzJFdPw6hFwTLCkTrPf8p	Fertile Ground	3	2					Earth, Instant							"Gain 2{h}
+
+If there are 4 or more Earth cards in your banished zone, instead gain 3{h}."	Earth Instant					
+HnMKfF8fQMj9KJfhGBkdG	Sigil of Brilliance	2	0					Lightning, Wizard, Instant, Aura	Oscilio Specialization						"**Oscilio Specialization**
+
+At the beginning of your action phase, destroy this.
+
+When this leaves the arena, draw a card."	Lightning Wizard Instant - Aura				No	
+tHjRjBqDhJFRwbPwgwdzj	Sigil of Earth	3	0		2			Earth, Action, Aura	Go again						"**Go again**
+
+At the beginning of your action phase, destroy this.
+
+When this leaves the arena, create an Embodiment of Earth token."	Earth Action - Aura					
 TPQdbDWdpDjBznGcwfF7g	Ink-lined Cloak				0			Wizard, Equipment, Chest		Instant					**Instant** - Destroy this: Gain {r}. Activate this only if you control an aura permanent with Sigil in its name.	Wizard Equipment - Chest					
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3			Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
