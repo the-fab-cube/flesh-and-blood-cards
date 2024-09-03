@@ -671,7 +671,7 @@
                 "unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
                 "edition": "N",
                 "start_card_id": "LGS001",
-                "end_card_id": "LGS349",
+                "end_card_id": "LGS308",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
@@ -922,24 +922,6 @@
                 "product_page": "https://fabtcg.com/products/booster-set/welcome-rathe/wtr-hero-decks/",
                 "collectors_center": "https://fabtcg.com/collectors-centre/welcome-rathe/",
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/rhinar-hero-deck/"
-            }
-        ]
-    },
-    {
-        "unique_id": "NbL9J9Mqb9QHc9FRJGTwd",
-        "id": "ROS",
-        "name": "Rosetta",
-        "printings": [
-            {
-                "unique_id": "fH8hKWnpHw9MWq7jFhkKT",
-                "edition": "N",
-                "start_card_id": "ROS001",
-                "end_card_id": "ROS251",
-                "initial_release_date": "2024-09-20T00:00:00.000Z",
-                "out_of_print_date": null,
-                "product_page": "https://fabtcg.com/products/booster-set/rosetta/",
-                "collectors_center": null,
-                "card_gallery": null
             }
         ]
     },
