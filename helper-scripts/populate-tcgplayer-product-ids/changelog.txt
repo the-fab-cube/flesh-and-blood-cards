@@ -1,2 +1,5 @@
 10-14-23:
 - Created script
+
+09-04-24:
+- Updated script to account for new Expansion Slot field
