@@ -116,6 +116,7 @@ Note: Cards in are organized by what main set they were initially released in in
 | Card Name | string | The name of the card having its legality changed. This field is purely for readability when maintaining the CSV and to help scripts verify data integrity, and is not used when generated JSON data. | Belittle |
 | Card Pitch | int \| null | The pitch value of the card having its legality changed. Either a numerical value or empty for cards with no pitch value. This field is purely for readability when maintaining the CSV and to help scripts verify data integrity, and is not used when generated JSON data. | 1 |
 | Status Active | string | Represents whether the current status the CSV represents is active or not. For example, when a card becomes banned or suspended, the value should be "Yes". If a card is unbanned or unsuspended, the value should be "No". | Yes |
+| Affects Full Cycle | string | Represents if the full pitch cycle is restricted (only 1 card with the same name from *all* pitches can be played). If this is true, the value should be "Yes", otherwise it should be blank. | Yes |
 | Date Announced | datetime | The date the new legality was announced on. | 2023-01-24T00:00:00.000Z |
 | Date In Effect | datetime | The date the new legality will go into effect on. | 2023-01-30T00:00:00.000Z |
 | Planned End | string | NOTE: This field is only available on suspension legality CSVs. Info on when the card is planned to be unsuspended in the given format. | Until Iyslander becomes Living Legend |

@@ -55,3 +55,6 @@
 
 08-24-24:
 - Added expansion_slot field to card_printing table
+
+09-03-24:
+- Added ll_restricted_affects_full_cycle to card table

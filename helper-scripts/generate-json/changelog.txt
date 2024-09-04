@@ -51,3 +51,6 @@
 
 06-19-23:
 - Updated script to handle new CSVs
+
+09-03-24:
+- Updated to add new Affects Full Cycle column to some legality files
