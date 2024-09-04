@@ -177,6 +177,7 @@ def generate_json_file():
             ll_restricted_info = ll_restricted_info_array[-1] if len(ll_restricted_info_array) > 0 else None
             card_object['ll_restricted'] = ll_restricted_info['status_active'] if ll_restricted_info != None else False
             if card_object['ll_restricted']:
+                card_object['ll_restricted_affects_full_cycle'] = ll_restricted_info['affects_full_cycle']
                 card_object['ll_restricted_start'] = ll_restricted_info['date_in_effect']
 
             # Clean up fields

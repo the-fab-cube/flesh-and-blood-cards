@@ -213,6 +213,10 @@
                 "description": "A boolean representing if the card is currently restricted in Living Legend.",
                 "type": ["boolean"]
             },
+            "ll_restricted_affects_full_cycle": {
+                "description": "A boolean representing if the full pitch cycle is restricted - ex: only 1 card with the same name from *all* pitches can be played (will not be present if the card is not restricted).",
+                "type": ["boolean"]
+            },
             "ll_restricted_start": {
                 "description": "The date the card became banned in Living Legend (will not be present otherwise).",
                 "type": ["string"]
