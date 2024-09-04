@@ -2158,7 +2158,7 @@ t9JLzLpkTqwMQmzjkcDG8	Dustup	3	0	2	3			Draconic, Illusionist, Action, Attack	Tra
 C7NCzqwTbKtcQKjwHRzBK	Dyadic Carapace				2			Runeblade, Equipment, Chest	Arcane Barrier 2, Temper						"**Arcane Barrier 2**
 
 **Temper**"	Runeblade Equipment - Chest				No	
-hCkjMgHBTtbPccM6FfKmL	Earth Form	1	3	7	2			Earth, Action, Attack							When this hits, create an Embodiment of Earth token.	Earth Action - Attack					
+hCkjMgHBTtbPccM6FfKmL	Earth Form	1	3	7	2			Earth, Action, Attack							When this hits, create an Embodiment of Earth token.	Earth Action - Attack				No	
 rbDcWtf9Dm6L9wrBj7Cnz	Earth Form	2	3	6	2			Earth, Action, Attack							When this hits, create an Embodiment of Earth token.	Earth Action - Attack				No	
 wrkDkLdGhJjTfPGzr68wM	Earth Form	3	3	5	2			Earth, Action, Attack							When this hits, create an Embodiment of Earth token.	Earth Action - Attack				No	
 qCwM6LGq87rrqGQFk8rKG	Earthlore Bounty				2			Guardian, Equipment, Chest	Temper						"Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.
@@ -4282,7 +4282,7 @@ When this hits, if a yellow card was **charged** this way, this gets **go again*
 TGKkqC6BBFJnggLzKtDLt	Light the Way	3	0	1	3			Light, Warrior, Action, Attack	Charge, Go again						"As an additional cost to play this, you may **charge** your hero's soul.
 
 When this hits, if a yellow card was **charged** this way, this gets **go again**."	Light Warrior Action - Attack					
-DdtptrGpgDbnbDJgktBtk	Lightning Form	1	1	5	2			Lightning, Action, Attack							When this hits, create an Embodiment of Lightning token.	Lightning Action - Attack					
+DdtptrGpgDbnbDJgktBtk	Lightning Form	1	1	5	2			Lightning, Action, Attack							When this hits, create an Embodiment of Lightning token.	Lightning Action - Attack				No	
 qkQLJNc7RM6LcztMdbrfz	Lightning Form	2	1	4	2			Lightning, Action, Attack							When this hits, create an Embodiment of Lightning token.	Lightning Action - Attack				No	
 pLbjgzrzbGMwcd8mbRcRG	Lightning Form	3	1	3	2			Lightning, Action, Attack							When this hits, create an Embodiment of Lightning token.	Lightning Action - Attack				No	
 QWgWwdcd8GPj8dCjCmRCR	Lightning Press	1	0					Lightning, Instant							Target attack action card with cost 1 or less gains +3{p}.	Lightning Instant				No	
@@ -6646,7 +6646,7 @@ bgHQJbkCNNBDT9kKdCW8w	Sigil of Fyendal	3	0		2			Generic, Action, Aura	Go again		
 At the beginning of your action phase, destroy this.
 
 When this leaves the arena, gain 1{h}."	Generic Action - Aura					
-gzzft6DHbbNJGGCfCJrz7	Sigil of Lightning	3	0					Lightning, Instant							"At the beginning of your action phase, destroy this.
+gzzft6DHbbNJGGCfCJrz7	Sigil of Lightning	3	0					Lightning, Instant, Aura							"At the beginning of your action phase, destroy this.
 
 When this leaves the arena, create an Embodiment of Lightning token."	Lightning Instant - Aura					
 9gWCknpqtcLqfrkm6BBrK	Sigil of Parapets	3	1		2			Wizard, Defense Reaction							While Sigil of Parapets is defending, whenever you play a Wizard card, Sigil of Parapet's gains +2{d}.	Wizard Defense Reaction				No	
@@ -7998,7 +7998,7 @@ QRFzLnNBm8tCqBmKFdQbf	Unmovable	3	3		5			Generic, Defense Reaction							If Unmo
 mK6zddQhzHTpR9Jnw8chw	Unravel Aggression	3	3		5			Mystic, Defense Reaction							If a Chi was pitched to play this, draw a card.	Mystic Defense Reaction				No	
 bjpwqRpN6hpdB9gMLWbmW	Unsheathed	1	0		3			Warrior, Action	Go again			Go again			"Your next sword attack this turn gets +3{p} and ""When this attacks, if its {p} is greater than twice its base, it gets **go again**.""
 
-**Go again**"	Warrior Action					
+**Go again**"	Warrior Action				No	
 qTJLpcMt6WFTDHRgD87tw	Untamed	1	1	4	2			Ninja, Action, Attack	Go again						"When this attacks, the next Crouching Tiger you play this combat chain gets +1{p}.
 
 **Go again**"	Ninja Action - Attack					
