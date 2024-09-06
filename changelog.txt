@@ -731,3 +731,4 @@ TODO:
 - Updated all instances of Maxim Kostin with preferred name of Max Kostin
 - Update Commoner legality for Aether Quickening, Flash, Fyendal's Fighting Spirit, and Oath of the Arknight
 - Update functional text for Aether Quickening, Flash, Fyendal's Fighting Spirit, Lightning Surge, and Meat and Greet
+- Update 寿多浩 / Hiro Suda to be 寿多浩 (Hiro Suda)
