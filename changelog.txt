@@ -724,6 +724,9 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated Blitz Banned status for Art of War, Bonds of Ancestry, Cash In, Orihon of Mystic Tenets, Tome of Aetherwind, Tome of Divinity, Tome of Firebrand, and Tome of Fyendal
 - Updated LL Restricted status for Bonds of Ancestry
 
+09-06-24:
+- Updated Blitz Living Legend status for Zen, Tiger Taming Khakkara, Briar, Rosetta Thorn, Dash, and Teklo Plasma Pistol
+
 TODO:
 - Added card data for ROS
 - Added printing data for AUA001-AUA029, ROS???-ROS???, FAB265-FAB266,
