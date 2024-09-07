@@ -15,8 +15,8 @@ def create_table(cur):
             edition VARCHAR(15) NOT NULL,
             foiling VARCHAR(15) NOT NULL,
             rarity VARCHAR(15) NOT NULL,
-            artist VARCHAR(1000) NOT NULL,
-            art_variation VARCHAR(15) NOT NULL,
+            artists VARCHAR(1000) NOT NULL,
+            art_variations VARCHAR(15) NOT NULL,
             expansion_slot BOOLEAN NOT NULL DEFAULT FALSE,
             flavor_text VARCHAR(10000) NOT NULL,
             flavor_text_plain VARCHAR(10000) NOT NULL,
@@ -26,7 +26,7 @@ def create_table(cur):
             FOREIGN KEY (card_unique_id) REFERENCES cards (unique_id),
             FOREIGN KEY (set_printing_unique_id) REFERENCES set_printings (unique_id),
             PRIMARY KEY (unique_id),
-            UNIQUE (unique_id, card_id, edition, art_variation)
+            UNIQUE (unique_id, card_id, edition, art_variations)
         )
         """
 
@@ -62,8 +62,8 @@ def prep_function(card_printing, language):
     edition = card_printing['edition']
     foiling = card_printing['foiling']
     rarity = card_printing['rarity']
-    artist = card_printing['artist']
-    art_variation = card_printing['art_variation']
+    artists = card_printing['artists']
+    art_variations = card_printing['art_variations']
     expansion_slot = card_printing['expansion_slot']
     flavor_text = card_printing['flavor_text']
     flavor_text_plain = card_printing['flavor_text_plain']
@@ -76,21 +76,19 @@ def prep_function(card_printing, language):
     if 'tcgplayer_url' in card_printing:
         tcgplayer_url = card_printing['tcgplayer_url']
 
-    if art_variation is None:
-        art_variation = ""
     if image_url is None:
         image_url = ""
 
     print("Prepping {0} - {1} - {2} printing for card {3} ({4})...".format(
         edition,
         rarity,
-        art_variation if art_variation != '' else 'null',
+        art_variations,
         card_id,
         card_unique_id
     ))
 
-    return (unique_id, card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artist,
-                art_variation, expansion_slot, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url)
+    return (unique_id, card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artists,
+                art_variations, expansion_slot, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url)
 
 def upsert_function(cur, card_printings):
     print("Upserting {} card_printings".format(len(card_printings)))
@@ -100,14 +98,14 @@ def upsert_function(cur, card_printings):
         "card_printings",
         card_printings,
         16,
-        """(unique_id, card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artist,
-            art_variation, expansion_slot, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url)""",
+        """(unique_id, card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artists,
+            art_variations, expansion_slot, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url)""",
         "(unique_id)",
         """UPDATE SET
-            (card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artist,
-                art_variation, expansion_slot, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url) =
-            (EXCLUDED.card_unique_id, EXCLUDED.set_printing_unique_id, EXCLUDED.card_id, EXCLUDED.set_id, EXCLUDED.edition, EXCLUDED.foiling, EXCLUDED.rarity, EXCLUDED.artist,
-                EXCLUDED.art_variation, EXCLUDED.expansion_slot, EXCLUDED.flavor_text, EXCLUDED.flavor_text_plain, EXCLUDED.image_url, EXCLUDED.tcgplayer_product_id, EXCLUDED.tcgplayer_url)"""
+            (card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artists,
+                art_variations, expansion_slot, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url) =
+            (EXCLUDED.card_unique_id, EXCLUDED.set_printing_unique_id, EXCLUDED.card_id, EXCLUDED.set_id, EXCLUDED.edition, EXCLUDED.foiling, EXCLUDED.rarity, EXCLUDED.artists,
+                EXCLUDED.art_variations, EXCLUDED.expansion_slot, EXCLUDED.flavor_text, EXCLUDED.flavor_text_plain, EXCLUDED.image_url, EXCLUDED.tcgplayer_product_id, EXCLUDED.tcgplayer_url)"""
     )
 
 # TODO: Add non-english cards

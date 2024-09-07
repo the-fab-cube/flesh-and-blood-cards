@@ -46,8 +46,10 @@
         "foiling": "R",
         "rarity": "F",
         "expansion_slot": false,
-        "artist": "Adolfo Navarro",
-        "art_variation": null,
+        "artists": [
+            "Adolfo Navarro"
+        ],
+        "art_variations": [],
         "flavor_text": "",
         "flavor_text_plain": "",
         "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/DE/DE_1HP000_1.png"
@@ -100,8 +102,10 @@
         "foiling": "R",
         "rarity": "F",
         "expansion_slot": false,
-        "artist": "Alexandra Malygina",
-        "art_variation": null,
+        "artists": [
+            "Alexandra Malygina"
+        ],
+        "art_variations": [],
         "flavor_text": "",
         "flavor_text_plain": "",
         "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/DE/DE_1HP000_2.png"
@@ -154,8 +158,10 @@
         "foiling": "R",
         "rarity": "F",
         "expansion_slot": false,
-        "artist": "Maxim Kostin",
-        "art_variation": null,
+        "artists": [
+            "Maxim Kostin"
+        ],
+        "art_variations": [],
         "flavor_text": "",
         "flavor_text_plain": "",
         "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/DE/DE_1HP000_3.png"

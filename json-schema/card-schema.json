@@ -269,13 +269,19 @@
                             "description": "A shortcode representing the rarity the card printing was printed at.",
                             "type": "string"
                         },
-                        "artist": {
-                            "description": "The artist of the card printing.",
-                            "type": "string"
+                        "artists": {
+                            "description": "The artists of the card printing.",
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            }
                         },
-                        "art_variation": {
-                            "description": "A shortcode representing the special art treatment or variation the card was printed with, if any.",
-                            "type": ["string", "null"]
+                        "art_variations": {
+                            "description": "An array of shortcodes representing the special art treatments or variations the card was printed with, if any.",
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            }
                         },
                         "flavor_text": {
                             "description": "The flavor text of the card, formatted in Markdown.",
@@ -333,8 +339,8 @@
                         "expansion_slot",
                         "foiling",
                         "rarity",
-                        "artist",
-                        "art_variation",
+                        "artists",
+                        "art_variations",
                         "flavor_text",
                         "flavor_text_plain",
                         "image_url"

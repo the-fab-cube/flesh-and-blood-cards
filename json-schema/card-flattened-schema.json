@@ -267,13 +267,19 @@
                 "description": "Whether the card printing comes in the expansion slot or not",
                 "type": "boolean"
             },
-            "artist": {
-                "description": "The artist of the card printing.",
-                "type": "string"
+            "artists": {
+                "description": "The artists of the card printing.",
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
             },
-            "art_variation": {
-                "description": "A shortcode representing the special art treatment or variation the card was printed with, if any.",
-                "type": ["string", "null"]
+            "art_variations": {
+                "description": "An array of shortcodes representing the special art treatments or variations the card was printed with, if any.",
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
             },
             "image_url": {
                 "description": "An official LSS image URL of the card printing, if it exists.",
@@ -357,8 +363,8 @@
             "foiling",
             "rarity",
             "expansion_slot",
-            "artist",
-            "art_variation",
+            "artists",
+            "art_variations",
             "image_url"
         ]
     }
