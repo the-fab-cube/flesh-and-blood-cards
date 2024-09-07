@@ -18,6 +18,12 @@
         "description_plain": "If you would be dealt arcane damage you may pay X{r} instead to prevent X arcane damage that source will deal."
     },
     {
+        "unique_id": "HKJdKtQrMRtRQNKL99MjB",
+        "name": "Arcane Shelter X",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "tHNMT9DMtgRNTBrnCjdWq",
         "name": "Attack",
         "description": "",

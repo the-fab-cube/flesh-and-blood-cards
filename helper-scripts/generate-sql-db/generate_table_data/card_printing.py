@@ -17,6 +17,7 @@ def create_table(cur):
             rarity VARCHAR(15) NOT NULL,
             artist VARCHAR(1000) NOT NULL,
             art_variation VARCHAR(15) NOT NULL,
+            expansion_slot BOOLEAN NOT NULL DEFAULT FALSE,
             flavor_text VARCHAR(10000) NOT NULL,
             flavor_text_plain VARCHAR(10000) NOT NULL,
             image_url VARCHAR(1000) NOT NULL,
@@ -63,6 +64,7 @@ def prep_function(card_printing, language):
     rarity = card_printing['rarity']
     artist = card_printing['artist']
     art_variation = card_printing['art_variation']
+    expansion_slot = card_printing['expansion_slot']
     flavor_text = card_printing['flavor_text']
     flavor_text_plain = card_printing['flavor_text_plain']
     image_url = card_printing['image_url']
@@ -88,7 +90,7 @@ def prep_function(card_printing, language):
     ))
 
     return (unique_id, card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artist,
-                art_variation, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url)
+                art_variation, expansion_slot, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url)
 
 def upsert_function(cur, card_printings):
     print("Upserting {} card_printings".format(len(card_printings)))
@@ -97,15 +99,15 @@ def upsert_function(cur, card_printings):
         cur,
         "card_printings",
         card_printings,
-        15,
+        16,
         """(unique_id, card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artist,
-            art_variation, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url)""",
+            art_variation, expansion_slot, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url)""",
         "(unique_id)",
         """UPDATE SET
             (card_unique_id, set_printing_unique_id, card_id, set_id, edition, foiling, rarity, artist,
-                art_variation, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url) =
+                art_variation, expansion_slot, flavor_text, flavor_text_plain, image_url, tcgplayer_product_id, tcgplayer_url) =
             (EXCLUDED.card_unique_id, EXCLUDED.set_printing_unique_id, EXCLUDED.card_id, EXCLUDED.set_id, EXCLUDED.edition, EXCLUDED.foiling, EXCLUDED.rarity, EXCLUDED.artist,
-                EXCLUDED.art_variation, EXCLUDED.flavor_text, EXCLUDED.flavor_text_plain, EXCLUDED.image_url, EXCLUDED.tcgplayer_product_id, EXCLUDED.tcgplayer_url)"""
+                EXCLUDED.art_variation, EXCLUDED.expansion_slot, EXCLUDED.flavor_text, EXCLUDED.flavor_text_plain, EXCLUDED.image_url, EXCLUDED.tcgplayer_product_id, EXCLUDED.tcgplayer_url)"""
     )
 
 # TODO: Add non-english cards

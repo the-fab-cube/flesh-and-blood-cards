@@ -684,7 +684,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for Bracers of Bellona's Grace and Solar Plexus
 - Added Mystic type - bug notice credit: gre99ory
 - Fixed "Once per Turn Instant" being listed as a keyword instead of an ability/effect for Barbed Castaway - bug notice credit: gre99ory
-
 - Updated CC Banned status for Bonds of Ancestry (Yellow and Blue)
 - Updated Blitz Banned status for Crown of Seeds, Aether Wildfire, and Aether Flare
 - Update LL Restricted status for Channel Lake Frigid
@@ -703,8 +702,37 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 08-01-24:
 - Fixed Stone Rain's AAZ card ID - bug notice credit: PvtVoid
 
+08-06-24:
+- Fixed cold foil Construct Nitro Mechanoid // Nitro Mechanoid and cold foil Invoke Suraya // Suraya, Archangel of Knowledge not having their card face associations - but notice credit: Edhebi
+
+08-14-24:
+- Added set and set printing info for 1HB, 1HD, 1HT, 1HK, 1HR, and 1HV - data entry credit: Eik-S
+
+08-24-24:
+- Added new Expansion Slot field in Card Printing files - feature/data entry credit: AlphSpirit
+- Added AIO set and set printing and added card data (minus images) for Heavy Industry Surveillance and Fast and Furious - data entry assistance: manwaring
+
+08-26-24:
+- Added printing data for FAB278
+- Updated DYN000 Art Variation to be AA
+
+08-31-24:
+- Added card data (minus images) for Heavy Industry Gear Shift and Cerebellum Processor - data entry assistance: manwaring
+
+09-03-24:
+- Updated CC Banned status for Art of War, Bonds of Ancestry (Red), Cash In, Orihon of Mystic Tenets, Tome of Aetherwind, Tome of Divinity, Tome of Firebrand, and Tome of Fyendal
+- Updated Blitz Banned status for Art of War, Bonds of Ancestry, Cash In, Orihon of Mystic Tenets, Tome of Aetherwind, Tome of Divinity, Tome of Firebrand, and Tome of Fyendal
+- Updated LL Restricted status for Bonds of Ancestry
+
+09-06-24:
+- Updated Blitz Living Legend status for Zen, Tiger Taming Khakkara, Briar, Rosetta Thorn, Dash, and Teklo Plasma Pistol
+
 TODO:
 - Added card data for ROS
-- Added printing data for ROS???-ROS???, FAB265-FAB266,
-- Added Decompose keyword
+- Added printing data for AUA001-AUA029, ROS???-ROS???, FAB265-FAB266,
+- Added Arcane Shelter X and Decompose keywords
+- Updated all instances of Maxim Kostin with preferred name of Max Kostin
+- Update Commoner legality for Aether Quickening, Flash, Fyendal's Fighting Spirit, and Oath of the Arknight
+- Update functional text for Aether Quickening, Flash, Fyendal's Fighting Spirit, Lightning Surge, and Meat and Greet
+- Update 寿多浩 / Hiro Suda to be 寿多浩 (Hiro Suda)
 - Breaking: Changed Artist field in card-printing.csv to Artists to support multiple artists per card

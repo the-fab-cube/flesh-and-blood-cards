@@ -26,6 +26,7 @@ def generate_json_file(language):
                 card_printing['edition'] = printing['edition']
                 card_printing['foiling'] = printing['foiling']
                 card_printing['rarity'] = printing['rarity']
+                card_printing['expansion_slot'] = printing['expansion_slot']
                 card_printing['artist'] = printing['artist']
                 card_printing['art_variation'] = printing['art_variation']
                 card_printing['flavor_text'] = printing['flavor_text']

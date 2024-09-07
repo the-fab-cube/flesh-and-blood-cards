@@ -36,6 +36,24 @@
         ]
     },
     {
+        "unique_id": "QPwGGk7Tnrtpj7RfD6BJP",
+        "id": "AIO",
+        "name": "Armory Deck Dash I/O",
+        "printings": [
+            {
+                "unique_id": "FwqNRtTwNgC6Qz6krCwf7",
+                "edition": "N",
+                "start_card_id": "AIO003",
+                "end_card_id": "AIO026",
+                "initial_release_date": "2024-10-18T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/products/booster-set/armory-deck-dash/",
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
         "unique_id": "HJ8Dqhq7tCwKWFCwkjw86",
         "id": "AKO",
         "name": "Armory Deck Kayo",
@@ -113,6 +131,24 @@
                 "initial_release_date": "2024-07-12T00:00:00.000Z",
                 "out_of_print_date": null,
                 "product_page": "https://fabtcg.com/products/booster-set/armory-deck-boltyn/",
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "kL8Njk8QtNN7dGchTQqQf",
+        "id": "AUA",
+        "name": "Aurora Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "KfNpJDJFqpJnzhPRBWqJr",
+                "edition": "N",
+                "start_card_id": "AUA001",
+                "end_card_id": "AUA029",
+                "initial_release_date": "2024-09-20T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": null,
                 "collectors_center": null,
                 "card_gallery": null
             }
@@ -455,7 +491,7 @@
                 "unique_id": "j76qTFctqc8krqh9GKGmT",
                 "edition": "N",
                 "start_card_id": "FAB001",
-                "end_card_id": "FAB273",
+                "end_card_id": "FAB278",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
@@ -653,7 +689,7 @@
                 "unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
                 "edition": "N",
                 "start_card_id": "LGS001",
-                "end_card_id": "LGS308",
+                "end_card_id": "LGS349",
                 "initial_release_date": null,
                 "out_of_print_date": null,
                 "product_page": null,
@@ -915,8 +951,8 @@
             {
                 "unique_id": "fH8hKWnpHw9MWq7jFhkKT",
                 "edition": "N",
-                "start_card_id": "ROS001",
-                "end_card_id": "ROS222",
+                "start_card_id": "ROS000",
+                "end_card_id": "ROS256",
                 "initial_release_date": "2024-09-20T00:00:00.000Z",
                 "out_of_print_date": null,
                 "product_page": "https://fabtcg.com/products/booster-set/rosetta/",
@@ -1131,6 +1167,114 @@
                 "product_page": "https://fabtcg.com/products/booster-set/part-the-mistveil-blitz-deck-collection-en/",
                 "collectors_center": null,
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/part-the-mistveil-collection-box/"
+            }
+        ]
+    },
+    {
+        "unique_id": "fRLqTzrtTt6mhdpGdcCWT",
+        "id": "1HB",
+        "name": "History Pack 1 - Bravo Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "BhkfQrRQJ7GnQfzztRnwP",
+                "edition": "N",
+                "start_card_id": "1HB001",
+                "end_card_id": "ZEN027",
+                "initial_release_date": "2023-02-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/articles/history-pack-1-blitz-decks/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/history-pack-1/",
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "wD6NncrcKDRKnRNqJjPgq",
+        "id": "1HD",
+        "name": "History Pack 1 - Dash Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "q6kjR6mpPBzHjBzrtgNGM",
+                "edition": "N",
+                "start_card_id": "1HD001",
+                "end_card_id": "ZEN028",
+                "initial_release_date": "2023-02-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/articles/history-pack-1-blitz-decks/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/history-pack-1/",
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "JDFpMrdk8nnBqcRMcWd6q",
+        "id": "1HT",
+        "name": "History Pack 1 - Dorinthea Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "QhNfhKNmgM9FkGbkn6ngc",
+                "edition": "N",
+                "start_card_id": "1HT001",
+                "end_card_id": "ZEN027",
+                "initial_release_date": "2023-02-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/articles/history-pack-1-blitz-decks/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/history-pack-1/",
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "zHtRgTHMPH7mM8q6p7CTb",
+        "id": "1HK",
+        "name": "History Pack 1 - Kano Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "MmdgD8MJHLztJ9LDGbkHC",
+                "edition": "N",
+                "start_card_id": "1HK001",
+                "end_card_id": "ZEN027",
+                "initial_release_date": "2023-02-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/articles/history-pack-1-blitz-decks/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/history-pack-1/",
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "rPLfPFcgRwjLRtWcw79bd",
+        "id": "1HR",
+        "name": "History Pack 1 - Rhinar Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "nBNJFJgBczMhcDCKhLcfp",
+                "edition": "N",
+                "start_card_id": "1HR001",
+                "end_card_id": "ZEN026",
+                "initial_release_date": "2023-02-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/articles/history-pack-1-blitz-decks/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/history-pack-1/",
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "HGDbNN6KpqzWbzWDMHt9G",
+        "id": "1HV",
+        "name": "History Pack 1 - Viserai Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "L8dWrCWgChDrbcwLNKKpr",
+                "edition": "N",
+                "start_card_id": "1HV001",
+                "end_card_id": "ZEN027",
+                "initial_release_date": "2023-02-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": "https://fabtcg.com/articles/history-pack-1-blitz-decks/",
+                "collectors_center": "https://fabtcg.com/collectors-centre/history-pack-1/",
+                "card_gallery": null
             }
         ]
     }

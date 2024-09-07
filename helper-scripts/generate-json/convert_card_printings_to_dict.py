@@ -56,7 +56,8 @@ def convert_card_printings_to_dict(language, card_printing_csv_path, card_face_a
             card_printing['edition'] = row['Edition']
             card_printing['foiling'] = row['Foiling']
             card_printing['rarity'] = row['Rarity']
-            card_printing['artists'] = row['Artists']
+            card_printing['expansion_slot'] = row['Expansion Slot'] == "Yes"
+            card_printing['artist'] = row['Artists'] # TODO: Update
             card_printing['art_variation'] = helper_functions.treat_blank_string_as_none(row['Art Variation'])
             card_printing['flavor_text'] = row['Flavor Text']
             card_printing['flavor_text_plain'] = unmark(card_printing['flavor_text'])
