@@ -729,9 +729,10 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 TODO:
 - Added card data for ROS
-- Added printing data for AUA001-AUA029, ROS???-ROS???, FAB265-FAB266,
+- Added card data for `Ira, Scarlet Revenger`
+- Added printing data for AUA001-AUA029, ROS???-ROS???, FAB265-FAB266, and HER123
 - Added Arcane Shelter X and Decompose keywords
 - Updated all instances of Maxim Kostin with preferred name of Max Kostin
 - Update Commoner legality for Aether Quickening, Flash, Fyendal's Fighting Spirit, and Oath of the Arknight
-- Update functional text for Aether Quickening, Flash, Fyendal's Fighting Spirit, Lightning Surge, and Meat and Greet
+- Update functional text for Aether Quickening, Flash, Fyendal's Fighting Spirit, `Ira, Crimson Haze`, Lightning Surge, and Meat and Greet
 - Update 寿多浩 / Hiro Suda to be 寿多浩 (Hiro Suda)

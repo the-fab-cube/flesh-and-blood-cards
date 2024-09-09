@@ -4049,7 +4049,8 @@ C7PG6mkm7JPNTBWKJwHpt	Invoke Tomeltai	1	5		3			Draconic, Illusionist, Action, In
 **Transform** target ash you control into Tomeltai. **Go again**"	Draconic Illusionist Action - Invocation				No	
 KWR8NHg7qbrP9rnbfWPr7	Invoke Vynserakai	1	3		3			Draconic, Illusionist, Action, Invocation	Transform, Go again						**Transform** target ash you control into Vynserakai. **Go again**	Draconic Illusionist Action - Invocation				No	
 9J9c98JJDc8mtKnRR9hhq	Invoke Yendurai	1	1		3			Draconic, Illusionist, Action, Invocation	Transform, Go again						**Transform** target ash you control into Yendurai. **Go again**	Draconic Illusionist Action - Invocation				No	
-GCRQMpBtqBHWrk68GqnGP	Ira, Crimson Haze					20	4	Ninja, Hero, Young							Your second attack each turn gains +1{p}.	Ninja Hero - Young			No		
+GCRQMpBtqBHWrk68GqnGP	Ira, Crimson Haze					20	4	Ninja, Hero, Young							Your second attack each turn gets +1{p}.	Ninja Hero - Young			No		
+DBKWbWMbrt7WK7KwmNQRL	Ira, Scarlet Revenger					40	4	Ninja, Hero							Your second attack each turn gets +1{p}.	Ninja Hero		No		No	
 W8h8fMQhbjGr6hzDbFmq7	Iris of Reality							Illusionist, Weapon, Orb, 2H				Attack, Go again			During your action phase, Illusionist auras you control are weapons with 4{p} and **Once per Turn Action** - {r}{r}{r}: **Attack. Go again**	Illusionist Weapon - Orb (2H)					
 FWzdtMmz6kCcWBpWDMLmM	Ironhide Gauntlet				0			Generic, Equipment, Arms							"When you defend with Ironhide Gauntlet, you may pay {r}. If you do, it gains +2{d} and ""When the combat chain closes, destroy Ironhide Gauntlet."""	Generic Equipment - Arms					
 kJJJmpKfCzqkzCM9DW9Nw	Ironhide Helm				0			Generic, Equipment, Head							"When you defend with Ironhide Helm, you may pay {r}. If you do, it gains +2{d} and ""When the combat chain closes, destroy Ironhide Helm."""	Generic Equipment - Head					
