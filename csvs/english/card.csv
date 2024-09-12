@@ -8038,7 +8038,7 @@ When this defends, effects don't trigger when an attack hits this chain link unl
 p9Mw8DBq9hPqKnPRrwCHz	Trounce	1			3			Guardian, Block	Clash						"When this defends, **clash** with the attacking hero. Put the revealed cards on the bottom of their owner's deck, then **clash** again.
 
 If a hero wins both **clashes**, they create a Gold, Might, and Vigor token."	Guardian Block				No	
-gGtb9f6ghPNqrTL7PhcHk	Truce	3	0		3			Generic, Action, Aura							"When this enters the arena, choose an opponent.
+gGtb9f6ghPNqrTL7PhcHk	Truce	3	2		3			Generic, Action, Aura							"When this enters the arena, choose an opponent.
 
 At the beginning of their end phase, destroy this and you each gain 3{h}.
 
