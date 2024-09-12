@@ -519,6 +519,24 @@
         ]
     },
     {
+        "unique_id": "GLKrFtFbrPjmdFQBQdhCg",
+        "id": "FLR",
+        "name": "Florian Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "rnL6JdWNFJgfCwh9JF7Kq",
+                "edition": "N",
+                "start_card_id": "FLR001",
+                "end_card_id": "FLR029",
+                "initial_release_date": "2024-09-20T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
         "unique_id": "zQFpFP9kJrcgWJmR8w6Nr",
         "id": "HER",
         "name": "Hero Card Promos",
@@ -836,6 +854,24 @@
         ]
     },
     {
+        "unique_id": "cFBW9t8bwBJGHtjBFfHLK",
+        "id": "OSC",
+        "name": "Oscilio Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "9PtBdQJFckLF9fgWQNdMM",
+                "edition": "N",
+                "start_card_id": "OSC001",
+                "end_card_id": "OSC029",
+                "initial_release_date": "2024-09-20T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
         "unique_id": "rqprmGL98FMqcPzPBpKmQ",
         "id": "OUT",
         "name": "Outsiders",
@@ -1062,6 +1098,24 @@
                 "start_card_id": "UZU001",
                 "end_card_id": "UZU031",
                 "initial_release_date": "2023-03-24T00:00:00.000Z",
+                "out_of_print_date": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null
+            }
+        ]
+    },
+    {
+        "unique_id": "hgDchLgGMBd8gnntLfmnn",
+        "id": "VER",
+        "name": "Verdance Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "H6wgFMHLKRwmPDKTwNnPF",
+                "edition": "N",
+                "start_card_id": "VER001",
+                "end_card_id": "VER028",
+                "initial_release_date": "2024-09-20T00:00:00.000Z",
                 "out_of_print_date": null,
                 "product_page": null,
                 "collectors_center": null,
