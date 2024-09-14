@@ -14,7 +14,7 @@ def create_artists_csv_from_card_csv(language):
         reader = csv.DictReader(csvfile, delimiter='\t', quotechar='"')
 
         for row in reader:
-            artist_column=row['Artist']
+            artist_column=row['Artists']
             individual_artists=artist_column.split(',')
             for artist in individual_artists:
                 artists.add(re.split(r'\s+[-–—]\s+', artist)[0].strip())
