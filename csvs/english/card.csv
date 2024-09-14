@@ -3508,6 +3508,9 @@ zMKfFNMHWRtL67cqWCnL8	Heavy Artillery	2	3	5	3			Mechanologist, Action, Attack	Ev
 PtcNWqrmfGgdQmLzBQWtp	Heavy Industry Gear Shift				1			Mechanologist, Equipment, Legs	Battleworn	Action					"**Action** - Destroy this: Banish the top 2 cards of your deck. Gain 1 action point for each Mechanologist card banished this way.
 
 **Battleworn**"	Mechanologist Equipment - Legs				No	
+6MktH8f6TgMJPmPLN8M8R	Heavy Industry Power Plant				2			Mechanologist, Equipment, Chest	Temper	Action	Go again			Boost	"**Action** - {r}, destroy this: Whenever you **boost** this turn, gain {r}. **Go again**
+
+**Temper**"	Mechanologist Equipment - Chest				No	
 HDgpj7cmFJwFWqdrHgngk	Heavy Industry Surveillance				1			Mechanologist, Equipment, Head	Temper						"When this defends, you may banish the top card of your deck. If it's a Mechanologist card, this gets +1{d} until end of turn.
 
 **Temper**"	Mechanologist Equipment - Head				No	
@@ -8037,7 +8040,7 @@ When this defends, effects don't trigger when an attack hits this chain link unl
 p9Mw8DBq9hPqKnPRrwCHz	Trounce	1			3			Guardian, Block	Clash						"When this defends, **clash** with the attacking hero. Put the revealed cards on the bottom of their owner's deck, then **clash** again.
 
 If a hero wins both **clashes**, they create a Gold, Might, and Vigor token."	Guardian Block				No	
-gGtb9f6ghPNqrTL7PhcHk	Truce	3	0		3			Generic, Action, Aura							"When this enters the arena, choose an opponent.
+gGtb9f6ghPNqrTL7PhcHk	Truce	3	2		3			Generic, Action, Aura							"When this enters the arena, choose an opponent.
 
 At the beginning of their end phase, destroy this and you each gain 3{h}.
 

@@ -727,6 +727,10 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 09-06-24:
 - Updated Blitz Living Legend status for Zen, Tiger Taming Khakkara, Briar, Rosetta Thorn, Dash, and Teklo Plasma Pistol
 
+09-12-24:
+- Added card data for Heavy Industry Power Plant
+- Added printing data for JDG032
+
 TODO:
 - Added card data for ROS
 - Added printing data for AUA001-AUA029, ROS???-ROS???, FAB265-FAB266,
