@@ -733,6 +733,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 TODO:
 - Added card data for ROS
+- Added card data for `Ira, Scarlet Revenger`
 - Added printing data for AUA001-AUA029, ROS???-ROS???, FAB265-FAB266,
 - Added Arcane Shelter X and Decompose keywords
 - Updated all instances of Maxim Kostin with preferred name of Max Kostin
