@@ -746,6 +746,6 @@ TODO:
 - Update Commoner legality for Aether Quickening, Flash, Fyendal's Fighting Spirit, and Oath of the Arknight
 - Update functional text for Aether Quickening, Flash, Fyendal's Fighting Spirit, `Ira, Crimson Haze`, Lightning Surge, and Meat and Greet
 - Update 寿多浩 / Hiro Suda to be 寿多浩 (Hiro Suda)
-- Update TCGPlayer prices for ROS, FLR, AUA, OSC, VER, FAB, LGS, HER, LSS, AAZ, AIO, AKO, and ASB sets
+- Update TCGPlayer prices for AAZ, AIO, AKO, ASB, AUA, AUR, FAB, FLR, HER, LGS, LSS, OSC, ROS, TER, and VER sets
 - Breaking: Changed Artist field in card-printing.csv to Artists to support multiple artists per card
 - Breaking: Changed Variation field in card-printing.csv to Variations to support multiple variations per card
