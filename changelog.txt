@@ -744,7 +744,7 @@ TODO:
 - Added Arcane Shelter X and Decompose keywords
 - Updated all instances of Maxim Kostin with preferred name of Max Kostin
 - Update Commoner legality for Aether Quickening, Flash, Fyendal's Fighting Spirit, and Oath of the Arknight
-- Update functional text for Aether Quickening, Flash, Fyendal's Fighting Spirit, `Ira, Crimson Haze`, Lightning Surge, and Meat and Greet
+- Update functional text for Aether Quickening, Consuming Volition, Flash, Fyendal's Fighting Spirit, `Ira, Crimson Haze`, Lightning Surge, and Meat and Greet
 - Update 寿多浩 / Hiro Suda to be 寿多浩 (Hiro Suda)
 - Update TCGPlayer prices for AAZ, AIO, AKO, ASB, AUA, AUR, FAB, FLR, HER, LGS, LSS, OSC, ROS, TER, and VER sets
 - Breaking: Changed Artist field in card-printing.csv to Artists to support multiple artists per card
