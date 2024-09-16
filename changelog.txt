@@ -731,6 +731,12 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for Heavy Industry Power Plant
 - Added printing data for JDG032
 
+09-14-24:
+- Fixed Potion of Déjà Vu's name - bugfix credit: lekevicius
+
+09-15-24:
+- Updated Blitz Living Legend Status for Rhinar and Romping Club
+
 TODO:
 - Added card data for ROS
 - Added card data for `Ira, Scarlet Revenger`
@@ -740,6 +746,7 @@ TODO:
 - Update Commoner legality for Aether Quickening, Flash, Fyendal's Fighting Spirit, and Oath of the Arknight
 - Update functional text for Aether Quickening, Flash, Fyendal's Fighting Spirit, `Ira, Crimson Haze`, Lightning Surge, and Meat and Greet
 - Update 寿多浩 / Hiro Suda to be 寿多浩 (Hiro Suda)
+- Update TCGPlayer prices for AAZ, AIO, AKO, ASB, AUA, AUR, FAB, FLR, HER, LGS, LSS, OSC, ROS, TER, and VER sets
 - Breaking: Changed Artist field in card-printing.csv to Artists to support multiple artists per card
 - Breaking: Changed Variation field in card-printing.csv to Variations to support multiple variations per card
 - Breaking: Changed Out of Print Date field in set-printing.csv to Out of Print
