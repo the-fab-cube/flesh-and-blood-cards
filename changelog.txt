@@ -730,3 +730,9 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 09-12-24:
 - Added card data for Heavy Industry Power Plant
 - Added printing data for JDG032
+
+09-14-24:
+- Fixed Potion of Déjà Vu's name - bugfix credit: lekevicius
+
+09-15-24:
+- Updated Blitz Living Legend Status for Rhinar and Romping Club
