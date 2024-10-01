@@ -743,10 +743,11 @@ TODO:
 - Added printing data for AUA001-AUA029, ROS???-ROS???, FAB250-FAB275, FAB277-FAB278, FAB284, HER119-HER123, JDG030-JDG036, LGS309-LGS336, LGS340-LGS341, LGS345-LGS354, LGS362-LGS363, and WIN036-WIN040
 - Added Arcane Shelter X Bond, Decompose, and Flow keywords
 - Updated all instances of Maxim Kostin with preferred name of Max Kostin
-- Update Commoner legality for Aether Quickening, Flash, Fyendal's Fighting Spirit, and Oath of the Arknight
-- Update functional text for Aether Quickening, Consuming Volition, Flash, Fyendal's Fighting Spirit, `Ira, Crimson Haze`, Lightning Surge, and Meat and Greet
-- Update 寿多浩 / Hiro Suda to be 寿多浩 (Hiro Suda)
-- Update TCGPlayer prices for AAZ, AIO, AKO, ASB, AUA, AUR, FAB, FLR, HER, LGS, LSS, OSC, ROS, TER, and VER sets
+- Updated Commoner legality for Aether Quickening, Flash, Fyendal's Fighting Spirit, and Oath of the Arknight
+- Updated functional text for Aether Quickening, Consuming Volition, Flash, Fyendal's Fighting Spirit, `Ira, Crimson Haze`, Lightning Surge, and Meat and Greet
+- Updated 寿多浩 / Hiro Suda to be 寿多浩 (Hiro Suda)
+- Updated TCGPlayer prices for AAZ, AIO, AKO, ASB, AUA, AUR, FAB, FLR, HER, LGS, LSS, OSC, ROS, TER, and VER sets
 - Fixed WIN cards to have C foiling instead of G foiling
+- Fixed FAB207 image URL
 - Breaking: Changed Artist field in card-printing.csv to Artists to support multiple artists per card
 - Breaking: Changed Variation field in card-printing.csv to Variations to support multiple variations per card
