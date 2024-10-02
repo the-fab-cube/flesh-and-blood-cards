@@ -747,6 +747,7 @@ TODO:
 - Updated functional text for Aether Quickening, Consuming Volition, Flash, Fyendal's Fighting Spirit, `Ira, Crimson Haze`, Lightning Surge, and Meat and Greet
 - Updated 寿多浩 / Hiro Suda to be 寿多浩 (Hiro Suda)
 - Updated TCGPlayer prices for AAZ, AIO, AKO, ASB, AUA, AUR, FAB, FLR, HER, LGS, LSS, OSC, ROS, TER, and VER sets
+- Updated all set printings with new info
 - Fixed WIN cards to have C foiling instead of G foiling
 - Fixed FAB207 image URL
 - Breaking: Changed Artist field in card-printing.csv to Artists to support multiple artists per card
