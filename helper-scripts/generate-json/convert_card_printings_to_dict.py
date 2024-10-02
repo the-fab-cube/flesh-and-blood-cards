@@ -62,6 +62,7 @@ def convert_card_printings_to_dict(language, card_printing_csv_path, card_face_a
             card_printing['flavor_text'] = row['Flavor Text']
             card_printing['flavor_text_plain'] = unmark(card_printing['flavor_text'])
             card_printing['image_url'] = helper_functions.treat_blank_string_as_none(row['Image URL'])
+            card_printing['image_rotation_degrees'] = helper_functions.treat_blank_string_as_number(row['Image Rotation Degrees'])
 
             if tcgplayer_product_id is not None:
                 card_printing['tcgplayer_product_id'] = tcgplayer_product_id

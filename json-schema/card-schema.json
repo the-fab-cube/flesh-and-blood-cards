@@ -37,6 +37,10 @@
                 "description": "The intelligence of the card. Can be a number or blank.",
                 "type": "string"
             },
+            "arcane": {
+                "description": "The arcane damage of the card. Can be a number, X, or blank. Represents the summed up amount of the lowest arcane damage of the card, unless that damage is based on an external variable, then it is X.",
+                "type": "string"
+            },
             "types": {
                 "description": "The types of the card (includes all types, subtypes, etc).",
                 "type": "array",
@@ -294,6 +298,10 @@
                         "image_url": {
                             "description": "An official LSS image URL of the card printing, if it exists.",
                             "type": ["string", "null"]
+                        },
+                        "image_rotation_degrees": {
+                            "description": "The amount of degrees the card image needs to be rotated to be oriented correctly.",
+                            "type": "number"
                         },
                         "tcgplayer_product_id": {
                             "description": "The TCGPlayer product ID of the card printing, if it exists.",

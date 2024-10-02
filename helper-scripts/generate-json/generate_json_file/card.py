@@ -71,6 +71,7 @@ def generate_json_file():
             card_object['defense'] = row['Defense']
             card_object['health'] = row['Health']
             card_object['intelligence'] = row['Intelligence']
+            card_object['arcane'] = row['Arcane']
 
             card_object['types'] = helper_functions.convert_to_array(row['Types'])
             card_object['card_keywords'] = helper_functions.convert_to_array(row['Card Keywords'])

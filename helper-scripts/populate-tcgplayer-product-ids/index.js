@@ -39,4 +39,4 @@ const setId = extractSetIdFromArgs()
 const bearerToken = extractBearerTokenFromArgs()
 
 const productDetails = await fetchGroupProductDetails(groupId, bearerToken)
-await populateProductIds(productDetails, 'english', setId, 4, 8, 10, 15)
+await populateProductIds(productDetails, 'english', setId, 4, 8, 10, 16)
