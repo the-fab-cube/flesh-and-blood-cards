@@ -2,7 +2,7 @@ import json
 import psycopg2
 from pathlib import Path
 
-from helpers import upsert_array, prep_and_upsert_all
+from helpers import replace_image_url_domain, upsert_array, prep_and_upsert_all
 
 def create_table(cur):
     command = """
@@ -122,14 +122,7 @@ def generate_table_data(cur, url_for_images = None):
 
             for printing in card['printings']:
                 printing['card_unique_id'] = card_unique_id
-
-                image_url = printing['image_url']
-                if url_for_images is not None and image_url is not None:
-                    image_url = image_url.replace("https://storage.googleapis.com/fabmaster/media/images/", url_for_images)
-                    image_url = image_url.replace("https://storage.googleapis.com/fabmaster/cardfaces/", url_for_images)
-                    image_url = image_url.replace("https://dhhim4ltzu1pj.cloudfront.net/media/images/", url_for_images)
-                    image_url = image_url.replace("https://d2wlb52bya4y8z.cloudfront.net/media/cards/", url_for_images)
-                printing['image_url'] = image_url
+                printing['image_url'] = replace_image_url_domain(printing['image_url'], url_for_images)
 
                 card_printing_array.append(printing)
 

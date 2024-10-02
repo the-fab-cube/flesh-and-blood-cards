@@ -147,10 +147,13 @@ Note: This is an English only CSV but contains all sets, even ones that appear o
 | Start Card Id | string | The id of the first card in the set printing. | WTR000 |
 | End Card Id | string | The id of the first card in the set printing. | WTR225 |
 | Initial Release Date | datetime | The initial release date for the set in ISO 8601 format and UTC timezone. | 2019-10-11T00:00:00.000Z |
-| Out of Print Date | datetime | The Out of Print (OOP) announcement date for the set in ISO 8601 format and UTC timezone. If the set is still in print, use `null` instead of a date. | 2019-10-11T00:00:00.000Z |
+| Out of Print | boolean | If the set is still in print or not. If the set is still in print, leave it blank, otherwise use "Yes". | Yes |
+| Card Database | string | The URL for the cards.fabtcg.com page of the set printing. | https://cards.fabtcg.com/products/welcome-to-rathe/ |
 | Product Page | string | The URL for the fabtcg.com product page of the set printing. | https://fabtcg.com/products/booster-set/welcome-rathe/ |
 | Collector's Center | string | The URL for the fabtcg.com collector's center page. | https://fabtcg.com/collectors-centre/welcome-rathe/ |
 | Card Gallery | string | The URL for the fabtcg.com card gallery page. | https://fabtcg.com/resources/card-galleries/welcome-rathe-booster/ |
+| Release Notes | string | The URL for the fabtcg.com release notes page. | https://fabtcg.com/en/resources/rules-and-policy-center/release-notes/welcome-rathe/ |
+| Card Gallery | string | The URL the set's logo image. | https://dhhim4ltzu1pj.cloudfront.net/media/images/wtr_logo.original.png |
 
 ## Type
 | Field Name | Intended Data Type | Explanation | Example |
