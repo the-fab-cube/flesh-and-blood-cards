@@ -1,5 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
-DFPwWqL9PCzLTKJjDzJzJ	Brush of Heavenly Rites							Adjudicator, Weapon, Brush, 1H		Once per Turn Action	Go again				**Once per Turn Action** - {r}{r}: Equip an off-hand with Proclamation in its name from your inventory. **Go again**	Adjudicator Weapon - Brush (1H)		No	No	No	
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3			Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
@@ -1118,6 +1117,7 @@ wkBCfWK6wNKKNjWQwkGzj	Bruised Leather				0			Generic, Equipment, Chest		Instant	
 6fHc7b8L8fhK8GCqJTzrc	Brush Off	1	0					Generic, Instant							The next time you would be dealt 3 or less damage this turn, prevent it.	Generic Instant					
 H6HqHg669zTz9nb6qGdcg	Brush Off	2	0					Generic, Instant							The next time you would be dealt 2 or less damage this turn, prevent it.	Generic Instant					
 6QFJz9JnJhnLBFrtJWh7t	Brush Off	3	0					Generic, Instant							The next time you would be dealt 1 damage this turn, prevent it.	Generic Instant					
+DFPwWqL9PCzLTKJjDzJzJ	Brush of Heavenly Rites							Adjudicator, Weapon, Brush, 1H		Once per Turn Action	Go again				**Once per Turn Action** - {r}{r}: Equip an off-hand with Proclamation in its name from your inventory. **Go again**	Adjudicator Weapon - Brush (1H)		No	No	No	
 JCprRtPfKncrRpBJDBJDF	Brutal Assault	1	2	6	3			Generic, Action, Attack								Generic Action - Attack					
 JdRbp7cnCzB8PLFTQ8rLM	Brutal Assault	2	2	5	3			Generic, Action, Attack								Generic Action - Attack					
 qhPfDmWPHpHT8gpFmNkkr	Brutal Assault	3	2	4	3			Generic, Action, Attack								Generic Action - Attack					
@@ -3512,6 +3512,9 @@ PtcNWqrmfGgdQmLzBQWtp	Heavy Industry Gear Shift				1			Mechanologist, Equipment,
 6MktH8f6TgMJPmPLN8M8R	Heavy Industry Power Plant				2			Mechanologist, Equipment, Chest	Temper	Action	Go again			Boost	"**Action** - {r}, destroy this: Whenever you **boost** this turn, gain {r}. **Go again**
 
 **Temper**"	Mechanologist Equipment - Chest				No	
+WgHWK8qbFHRzWFpH9NCWQ	Heavy Industry Ram Stop				1			Mechanologist, Equipment, Arms	Temper						"When this defends, you may pay {r}. If you do, it gets +1{d} until end of turn.
+
+**Temper**"	Mechanologist Equipment - Arms				No	
 HDgpj7cmFJwFWqdrHgngk	Heavy Industry Surveillance				1			Mechanologist, Equipment, Head	Temper						"When this defends, you may banish the top card of your deck. If it's a Mechanologist card, this gets +1{d} until end of turn.
 
 **Temper**"	Mechanologist Equipment - Head				No	
