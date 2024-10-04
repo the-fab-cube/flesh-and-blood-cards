@@ -3512,6 +3512,9 @@ PtcNWqrmfGgdQmLzBQWtp	Heavy Industry Gear Shift				1				Mechanologist, Equipment
 6MktH8f6TgMJPmPLN8M8R	Heavy Industry Power Plant				2				Mechanologist, Equipment, Chest	Temper	Action	Go again			Boost	"**Action** - {r}, destroy this: Whenever you **boost** this turn, gain {r}. **Go again**
 
 **Temper**"	Mechanologist Equipment - Chest				No	
+WgHWK8qbFHRzWFpH9NCWQ	Heavy Industry Ram Stop				1				Mechanologist, Equipment, Arms	Temper						"When this defends, you may pay {r}. If you do, it gets +1{d} until end of turn.
+
+**Temper**"	Mechanologist Equipment - Arms				No	
 HDgpj7cmFJwFWqdrHgngk	Heavy Industry Surveillance				1				Mechanologist, Equipment, Head	Temper						"When this defends, you may banish the top card of your deck. If it's a Mechanologist card, this gets +1{d} until end of turn.
 
 **Temper**"	Mechanologist Equipment - Head				No	

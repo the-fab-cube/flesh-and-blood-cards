@@ -739,8 +739,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 TODO:
 - Added card data for ROS
-- Added card data for `Ira, Scarlet Revenger`
-- Added printing data for AUA001-AUA029, ROS???-ROS???, FAB250-FAB275, FAB277-FAB278, FAB284, HER119-HER123, JDG030-JDG036, LGS309-LGS336, LGS340-LGS341, LGS345-LGS354, LGS362-LGS363, and WIN036-WIN040
+- Added card data for Brush of Heavenly Rites, Heavy Industry Ram Stop, and `Ira, Scarlet Revenger`
+- Added printing data for AIO003-AIO006 AUA001-AUA029, ROS???-ROS???, FAB250-FAB275, FAB277-FAB278, FAB284, HER119-HER123, JDG030-JDG036, LGS309-LGS336, LGS340-LGS341, LGS345-LGS354, LGS362-LGS363, and WIN036-WIN040
 - Added Arcane Shelter X Bond, Decompose, and Flow keywords
 - Updated all instances of Maxim Kostin with preferred name of Max Kostin
 - Updated Commoner legality for Aether Quickening, Flash, Fyendal's Fighting Spirit, and Oath of the Arknight
