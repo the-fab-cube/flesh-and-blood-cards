@@ -41,6 +41,7 @@ await Promise.allSettled([
     generators.generateLegalityUniqueIds("banned-blitz", 0, 2),
     generators.generateLegalityUniqueIds("banned-cc", 0, 2),
     generators.generateLegalityUniqueIds("banned-commoner", 0, 2),
+    generators.generateLegalityUniqueIds("banned-ll", 0, 2),
     generators.generateLegalityUniqueIds("banned-upf", 0, 2),
     generators.generateLegalityUniqueIds("living-legend-blitz", 0, 2),
     generators.generateLegalityUniqueIds("living-legend-cc", 0, 2),

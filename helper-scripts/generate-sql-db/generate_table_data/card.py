@@ -30,6 +30,7 @@ def create_table(cur):
             blitz_legal BOOLEAN NOT NULL DEFAULT TRUE,
             cc_legal BOOLEAN NOT NULL DEFAULT TRUE,
             commoner_legal BOOLEAN NOT NULL DEFAULT TRUE,
+            ll_legal BOOLEAN NOT NULL DEFAULT TRUE,
             blitz_living_legend BOOLEAN NOT NULL DEFAULT FALSE,
             blitz_living_legend_start TIMESTAMP,
             cc_living_legend BOOLEAN NOT NULL DEFAULT FALSE,
@@ -38,6 +39,8 @@ def create_table(cur):
             blitz_banned_start TIMESTAMP,
             cc_banned BOOLEAN NOT NULL DEFAULT FALSE,
             cc_banned_start TIMESTAMP,
+            ll_banned BOOLEAN NOT NULL DEFAULT FALSE,
+            ll_banned_start TIMESTAMP,
             upf_banned BOOLEAN NOT NULL DEFAULT FALSE,
             upf_banned_start TIMESTAMP,
             commoner_banned BOOLEAN NOT NULL DEFAULT FALSE,
@@ -106,6 +109,7 @@ def prep_function(card, language):
         blitz_legal = card['blitz_legal']
         cc_legal = card['cc_legal']
         commoner_legal = card['commoner_legal']
+        ll_legal = card['ll_legal']
         blitz_living_legend = card['blitz_living_legend']
         blitz_living_legend_start = card.get('blitz_living_legend_start')
         cc_living_legend = card['cc_living_legend']
@@ -114,6 +118,8 @@ def prep_function(card, language):
         blitz_banned_start = card.get('blitz_banned_start')
         cc_banned = card['cc_banned']
         cc_banned_start = card.get('cc_banned_start')
+        ll_banned = card['ll_banned']
+        ll_banned_start = card.get('ll_banned_start')
         commoner_banned = card['commoner_banned']
         commoner_banned_start = card.get('commoner_banned_start')
         upf_banned = card['upf_banned']
@@ -136,8 +142,8 @@ def prep_function(card, language):
         return (unique_id, name, pitch, cost, power, defense, health, intelligence, arcane, types, card_keywords,
                    abilities_and_effects, ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords,
                    functional_text, functional_text_plain, type_text, played_horizontally,
-                   blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend,
-                   cc_living_legend_start, blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned,
+                   blitz_legal, cc_legal, commoner_legal, ll_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend,
+                   cc_living_legend_start, blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, ll_banned, ll_banned_start, commoner_banned,
                    commoner_banned_start, upf_banned, upf_banned_start, blitz_suspended, blitz_suspended_start, blitz_suspended_end,
                    cc_suspended, cc_suspended_start, cc_suspended_end, commoner_suspended, commoner_suspended_start,
                    commoner_suspended_end, ll_restricted, ll_restricted_affects_full_cycle, ll_restricted_start)
@@ -149,25 +155,25 @@ def upsert_function(cur, cards):
             cur,
             "cards",
             cards,
-            47,
+            48,
             """(unique_id, name, pitch, cost, power, defense, health, intelligence, arcane, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text,
-            played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
-            blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
+            played_horizontally, blitz_legal, cc_legal, commoner_legal, ll_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
+            blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, ll_banned, ll_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
             blitz_suspended, blitz_suspended_start, blitz_suspended_end, cc_suspended, cc_suspended_start, cc_suspended_end,
             commoner_suspended, commoner_suspended_start, commoner_suspended_end, ll_restricted, ll_restricted_affects_full_cycle, ll_restricted_start)""",
             "(unique_id)",
             """UPDATE SET
                 (name, pitch, cost, power, defense, health, intelligence, arcane, types, card_keywords, abilities_and_effects,
                     ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text,
-                    played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
-                    blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
+                    played_horizontally, blitz_legal, cc_legal, commoner_legal, ll_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
+                    blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, ll_banned, ll_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
                     blitz_suspended, blitz_suspended_start, blitz_suspended_end, cc_suspended, cc_suspended_start, cc_suspended_end,
                     commoner_suspended, commoner_suspended_start, commoner_suspended_end, ll_restricted, ll_restricted_affects_full_cycle, ll_restricted_start) =
                 (EXCLUDED.name, EXCLUDED.pitch, EXCLUDED.cost, EXCLUDED.power, EXCLUDED.defense, EXCLUDED.health, EXCLUDED.intelligence, EXCLUDED.arcane, EXCLUDED.types, EXCLUDED.card_keywords, EXCLUDED.abilities_and_effects,
                     EXCLUDED.ability_and_effect_keywords, EXCLUDED.granted_keywords, EXCLUDED.removed_keywords, EXCLUDED.interacts_with_keywords, EXCLUDED.functional_text, EXCLUDED.functional_text_plain, EXCLUDED.type_text,
-                    EXCLUDED.played_horizontally, EXCLUDED.blitz_legal, EXCLUDED.cc_legal, EXCLUDED.commoner_legal, EXCLUDED.blitz_living_legend, EXCLUDED.blitz_living_legend_start, EXCLUDED.cc_living_legend, EXCLUDED.cc_living_legend_start,
-                    EXCLUDED.blitz_banned, EXCLUDED.blitz_banned_start, EXCLUDED.cc_banned, EXCLUDED.cc_banned_start, EXCLUDED.commoner_banned, EXCLUDED.commoner_banned_start, EXCLUDED.upf_banned, EXCLUDED.upf_banned_start,
+                    EXCLUDED.played_horizontally, EXCLUDED.blitz_legal, EXCLUDED.cc_legal, EXCLUDED.commoner_legal, EXCLUDED.ll_legal, EXCLUDED.blitz_living_legend, EXCLUDED.blitz_living_legend_start, EXCLUDED.cc_living_legend, EXCLUDED.cc_living_legend_start,
+                    EXCLUDED.blitz_banned, EXCLUDED.blitz_banned_start, EXCLUDED.cc_banned, EXCLUDED.cc_banned_start, EXCLUDED.ll_banned, EXCLUDED.ll_banned_start, EXCLUDED.commoner_banned, EXCLUDED.commoner_banned_start, EXCLUDED.upf_banned, EXCLUDED.upf_banned_start,
                     EXCLUDED.blitz_suspended, EXCLUDED.blitz_suspended_start, EXCLUDED.blitz_suspended_end, EXCLUDED.cc_suspended, EXCLUDED.cc_suspended_start, EXCLUDED.cc_suspended_end,
                     EXCLUDED.commoner_suspended, EXCLUDED.commoner_suspended_start, EXCLUDED.commoner_suspended_end, EXCLUDED.ll_restricted, EXCLUDED.ll_restricted_affects_full_cycle, EXCLUDED.ll_restricted_start)
             """

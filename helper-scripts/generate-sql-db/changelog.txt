@@ -60,7 +60,7 @@
 - Added ll_restricted_affects_full_cycle to card table
 
 10-05-24:
-- Updated card table to have new arcane field
+- Updated card table to have new arcane, ll_legal, ll_banned, and ll_banned_start fields
 - Updated card_printing table to have new image_rotation_degrees field
 - Updated card_printing table's artist field to be artists field, which is an array of artists for the printing
 - Updated card_printing table's art_variation field to be art_variations field, which is an array of art variations for the printing

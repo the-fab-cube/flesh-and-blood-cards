@@ -756,7 +756,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed WIN cards to have C foiling instead of G foiling - bug notice: lekevicius
 - Fixed FAB207 image URL
 - Fixed foiling for ASB003 and ASB006
-- Breaking: Added Arcane field in card.csv
+- Breaking: Added new banned-ll.csv and associated JSON and documentation
+- Breaking: Added Arcane and LL Legal fields in card.csv
 - Breaking: Added Image Rotation Degrees field in card-printing.csv
 - Breaking: Changed Artist field in card-printing.csv to Artists to support multiple artists per card
 - Breaking: Changed Variation field in card-printing.csv to Variations to support multiple variations per card

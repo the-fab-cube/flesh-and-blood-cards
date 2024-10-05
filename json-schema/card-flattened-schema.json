@@ -129,6 +129,10 @@
                 "description": "A boolean representing if the card is legal in Commoner (not including bans or suspensions).",
                 "type": "boolean"
             },
+            "ll_legal": {
+                "description": "A boolean representing if the card is legal in Living Legend (not including bans or suspensions).",
+                "type": "boolean"
+            },
             "blitz_living_legend": {
                 "description": "A boolean representing if the card is Living Legend in Blitz.",
                 "type": ["boolean"]
@@ -167,6 +171,14 @@
             },
             "commoner_banned_start": {
                 "description": "The date the card became banned in Commoner (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "ll_banned": {
+                "description": "A boolean representing if the card is currently banned in Living Legend.",
+                "type": ["boolean"]
+            },
+            "ll_banned_start": {
+                "description": "The date the card became banned in Living Legend (will not be present otherwise).",
                 "type": ["string"]
             },
             "upf_banned": {
@@ -353,11 +365,13 @@
             "blitz_legal",
             "cc_legal",
             "commoner_legal",
+            "ll_legal",
             "blitz_living_legend",
             "cc_living_legend",
             "blitz_banned",
             "cc_banned",
             "commoner_banned",
+            "ll_banned",
             "upf_banned",
             "blitz_suspended",
             "cc_suspended",
