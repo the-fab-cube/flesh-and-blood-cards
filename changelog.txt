@@ -750,6 +750,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated 寿多浩 / Hiro Suda aritst name to be 寿多浩 (Hiro Suda)
 - Updated TCGPlayer prices for AAZ, AKO, ASB, AUA, AUR, FAB, FLR, HER, LGS, LSS, OSC, ROS, TER, and VER sets
 - Updated all set printings with new info
+- Updated images for AKO card printings
 - Fixed WIN cards to have C foiling instead of G foiling - bug notice: lekevicius
 - Fixed FAB207 image URL
 - Breaking: Added Arcane field in card.csv
