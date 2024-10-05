@@ -15,6 +15,7 @@ def create_table(cur):
             defense VARCHAR(10) COLLATE numeric NOT NULL,
             health VARCHAR(10) COLLATE numeric NOT NULL,
             intelligence VARCHAR(10) COLLATE numeric NOT NULL,
+            arcane VARCHAR(10) COLLATE numeric NOT NULL,
             types VARCHAR(255)[] NOT NULL,
             card_keywords VARCHAR(255)[] NOT NULL,
             abilities_and_effects VARCHAR(255)[] NOT NULL,
@@ -90,6 +91,7 @@ def prep_function(card, language):
         defense = card['defense']
         health = card['health']
         intelligence = card['intelligence']
+        arcane = card['arcane']
         types = card['types']
         card_keywords = card['card_keywords']
         abilities_and_effects = card['abilities_and_effects']
@@ -131,7 +133,7 @@ def prep_function(card, language):
 
         print("Prepping {0} - {1} card with unique id {2}...".format(name, pitch, unique_id))
 
-        return (unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords,
+        return (unique_id, name, pitch, cost, power, defense, health, intelligence, arcane, types, card_keywords,
                    abilities_and_effects, ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords,
                    functional_text, functional_text_plain, type_text, played_horizontally,
                    blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend,
@@ -147,8 +149,8 @@ def upsert_function(cur, cards):
             cur,
             "cards",
             cards,
-            46,
-            """(unique_id, name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
+            47,
+            """(unique_id, name, pitch, cost, power, defense, health, intelligence, arcane, types, card_keywords, abilities_and_effects,
             ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text,
             played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
             blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
@@ -156,13 +158,13 @@ def upsert_function(cur, cards):
             commoner_suspended, commoner_suspended_start, commoner_suspended_end, ll_restricted, ll_restricted_affects_full_cycle, ll_restricted_start)""",
             "(unique_id)",
             """UPDATE SET
-                (name, pitch, cost, power, defense, health, intelligence, types, card_keywords, abilities_and_effects,
+                (name, pitch, cost, power, defense, health, intelligence, arcane, types, card_keywords, abilities_and_effects,
                     ability_and_effect_keywords, granted_keywords, removed_keywords, interacts_with_keywords, functional_text, functional_text_plain, type_text,
                     played_horizontally, blitz_legal, cc_legal, commoner_legal, blitz_living_legend, blitz_living_legend_start, cc_living_legend, cc_living_legend_start,
                     blitz_banned, blitz_banned_start, cc_banned, cc_banned_start, commoner_banned, commoner_banned_start, upf_banned, upf_banned_start,
                     blitz_suspended, blitz_suspended_start, blitz_suspended_end, cc_suspended, cc_suspended_start, cc_suspended_end,
                     commoner_suspended, commoner_suspended_start, commoner_suspended_end, ll_restricted, ll_restricted_affects_full_cycle, ll_restricted_start) =
-                (EXCLUDED.name, EXCLUDED.pitch, EXCLUDED.cost, EXCLUDED.power, EXCLUDED.defense, EXCLUDED.health, EXCLUDED.intelligence, EXCLUDED.types, EXCLUDED.card_keywords, EXCLUDED.abilities_and_effects,
+                (EXCLUDED.name, EXCLUDED.pitch, EXCLUDED.cost, EXCLUDED.power, EXCLUDED.defense, EXCLUDED.health, EXCLUDED.intelligence, EXCLUDED.arcane, EXCLUDED.types, EXCLUDED.card_keywords, EXCLUDED.abilities_and_effects,
                     EXCLUDED.ability_and_effect_keywords, EXCLUDED.granted_keywords, EXCLUDED.removed_keywords, EXCLUDED.interacts_with_keywords, EXCLUDED.functional_text, EXCLUDED.functional_text_plain, EXCLUDED.type_text,
                     EXCLUDED.played_horizontally, EXCLUDED.blitz_legal, EXCLUDED.cc_legal, EXCLUDED.commoner_legal, EXCLUDED.blitz_living_legend, EXCLUDED.blitz_living_legend_start, EXCLUDED.cc_living_legend, EXCLUDED.cc_living_legend_start,
                     EXCLUDED.blitz_banned, EXCLUDED.blitz_banned_start, EXCLUDED.cc_banned, EXCLUDED.cc_banned_start, EXCLUDED.commoner_banned, EXCLUDED.commoner_banned_start, EXCLUDED.upf_banned, EXCLUDED.upf_banned_start,

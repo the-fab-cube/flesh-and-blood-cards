@@ -54,7 +54,8 @@
                 "art_variations": [],
                 "flavor_text": "",
                 "flavor_text_plain": "",
-                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/FR/FR_1HP000_1.png"
+                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/FR/FR_1HP000_1.png",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -114,7 +115,8 @@
                 "art_variations": [],
                 "flavor_text": "",
                 "flavor_text_plain": "",
-                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/FR/FR_1HP000_2.png"
+                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/FR/FR_1HP000_2.png",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -174,7 +176,8 @@
                 "art_variations": [],
                 "flavor_text": "",
                 "flavor_text_plain": "",
-                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/FR/FR_1HP000_3.png"
+                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/FR/FR_1HP000_3.png",
+                "image_rotation_degrees": 0
             }
         ]
     }

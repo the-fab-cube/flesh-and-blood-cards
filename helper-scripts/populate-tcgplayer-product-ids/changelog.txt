@@ -2,4 +2,4 @@
 - Created script
 
 09-04-24:
-- Updated script to account for new Expansion Slot field
+- Updated script to account for new Expansion Slot and Image Rotation Degrees field
