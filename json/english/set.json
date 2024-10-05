@@ -1107,14 +1107,14 @@
     },
     {
         "unique_id": "BqWfHnHgd8BtnF9FHBNHG",
-        "id": "RNR",
+        "id": "RHI",
         "name": "Rhinar Blitz Deck",
         "printings": [
             {
                 "unique_id": "DnzncFjbdKCmJjgMJrrR6",
                 "edition": "N",
-                "start_card_id": "RNR001",
-                "end_card_id": "RNR029",
+                "start_card_id": "RHI001",
+                "end_card_id": "RHI029",
                 "initial_release_date": "2024-02-02T00:00:00.000Z",
                 "out_of_print": false,
                 "card_database": "https://cards.fabtcg.com/products/rhinar-heavy-hitters-blitz-deck/",

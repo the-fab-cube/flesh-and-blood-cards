@@ -753,6 +753,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated all set printings with new info
 - Updated images for AKO card printings
 - Updated Commoner legality for Battlefield Blitz (Yellow), Beaming Bravado (Red), Beaming Bravado (Yellow), and Valiant Thrust (Yellow)
+- Updated Heavy Hitters Rhinar Blitz Deck to use RHI set code (confirmed with LSS that this is the official set code, the printed set code of RNR was an error)
 - Fixed WIN cards to have C foiling instead of G foiling - bug notice: lekevicius
 - Fixed FAB207 image URL
 - Fixed foiling for ASB003 and ASB006
