@@ -1,5 +1,5 @@
 10-14-23:
 - Created script
 
-09-04-24:
+10-04-24:
 - Updated script to account for new Expansion Slot and Image Rotation Degrees field
