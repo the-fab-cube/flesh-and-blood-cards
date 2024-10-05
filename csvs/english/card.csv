@@ -528,7 +528,7 @@ QKgbfzgpnzfq7HKgWTzRg	Bastion of Unity				1				Warrior, Equipment, Off-Hand	Unit
 RKqGdm6WndJLgwRtTQkpc	Battered Not Broken	1	0						Brute, Guardian, Instant							The next time you would be dealt damage this turn, prevent 2 of that damage. If you do, create a Might token.	Brute / Guardian Instant				No	
 jnptttBbHJCwHBC99PMkF	Battering Bolt	1	2	6	3				Ranger, Action, Arrow, Attack							If Battering Bolt hits a hero, they reveal their hand and discard all cards other than action cards. Then they lose 1{h} for each card discarded this way.	Ranger Action - Arrow Attack				No	
 f8wtgfmb6wRGbJH9bqtRw	Battlefield Blitz	1	1	5	3				Light, Warrior, Action, Attack	Go again					Charge	If you've **charged** this turn, Battlefield Blitz gains **go again**.	Light Warrior Action - Attack				No	
-Wg7zz9866gDH6BmjMNGd8	Battlefield Blitz	2	1	4	3				Light, Warrior, Action, Attack	Go again					Charge	If you've **charged** this turn, Battlefield Blitz gains **go again**.	Light Warrior Action - Attack				No	
+Wg7zz9866gDH6BmjMNGd8	Battlefield Blitz	2	1	4	3				Light, Warrior, Action, Attack	Go again					Charge	If you've **charged** this turn, Battlefield Blitz gains **go again**.	Light Warrior Action - Attack					
 MCnQLD9M7WTthcfmtJhD8	Battlefield Blitz	3	1	3	3				Light, Warrior, Action, Attack	Go again					Charge	If you've **charged** this turn, Battlefield Blitz gains **go again**.	Light Warrior Action - Attack				No	
 N6bcFGQTBQ7pcWRkWTz8m	Battlefield Breaker	1	3	7	3				Shadow, Brute, Action, Attack	Blood Debt						"If you've banished a card with 6 or more {p} this turn, this gets +1{p}.
 
@@ -561,10 +561,10 @@ kG8dtfK6bQqncJjNm6wNL	Beaming Blade			0					Light, Warrior, Weapon, Sword, 2H		O
 If a yellow card has been put into your hero's soul this turn, this gets +5{p}."	Light Warrior Weapon - Sword (2H)					
 8RTWmNwPzJnQp8GKbmK86	Beaming Bravado	1	0	3	3				Light, Warrior, Action, Attack	Charge						"As an additional cost to play this, you may **charge** your hero's soul.
 
-If a yellow card is **charged** this way, this gets +1{p}"	Light Warrior Action - Attack				No	
+If a yellow card is **charged** this way, this gets +1{p}"	Light Warrior Action - Attack					
 pWf6dmb99RqhghkdKGgT8	Beaming Bravado	2	0	2	3				Light, Warrior, Action, Attack	Charge						"As an additional cost to play this, you may **charge** your hero's soul.
 
-If a yellow card is **charged** this way, this gets +1{p}"	Light Warrior Action - Attack				No	
+If a yellow card is **charged** this way, this gets +1{p}"	Light Warrior Action - Attack					
 mGnLtgpdjnhKbGFhzBnrj	Beaming Bravado	3	0	1	3				Light, Warrior, Action, Attack	Charge						"As an additional cost to play this, you may **charge** your hero's soul.
 
 If a yellow card is **charged** this way, this gets +1{p}"	Light Warrior Action - Attack				No	
@@ -8192,7 +8192,7 @@ wB9f6wWqbBzPf8KBqWqTf	Valiant Dynamo				1				Warrior, Equipment, Legs	Battleworn
 
 **Battleworn**"	Warrior Equipment - Legs				No	
 JpfWdtWNwHgHJgTNpwptT	Valiant Thrust	1	1	4	3				Light, Warrior, Action, Attack						Charge	If you've **charged** this turn, Valiant Thrust gains +3{p}.	Light Warrior Action - Attack				No	
-HLtnkmwmnMJtcPPggGHbF	Valiant Thrust	2	1	3	3				Light, Warrior, Action, Attack						Charge	If you've **charged** this turn, Valiant Thrust gains +3{p}.	Light Warrior Action - Attack				No	
+HLtnkmwmnMJtcPPggGHbF	Valiant Thrust	2	1	3	3				Light, Warrior, Action, Attack						Charge	If you've **charged** this turn, Valiant Thrust gains +3{p}.	Light Warrior Action - Attack					
 DqhggQR7Tcr9jQJ8QRrHd	Valiant Thrust	3	1	2	3				Light, Warrior, Action, Attack						Charge	If you've **charged** this turn, Valiant Thrust gains +3{p}.	Light Warrior Action - Attack				No	
 KTjmk7Th7CGNPfmL6CDnD	Vambrace of Determination				0				Generic, Equipment, Arms	Blade Break	Once per Turn Attack Reaction					"**Once per Turn Attack Reaction** - {r}: The next prevention effect that prevents {p} damage this turn, prevents 1 less of that damage.
 
