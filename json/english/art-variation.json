@@ -18,5 +18,9 @@
     {
         "id": "FA",
         "name": "Full Art"
+    },
+    {
+        "id": "HS",
+        "name": "Half Size"
     }
 ]
