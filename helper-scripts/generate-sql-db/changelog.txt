@@ -58,3 +58,11 @@
 
 09-03-24:
 - Added ll_restricted_affects_full_cycle to card table
+
+10-05-24:
+- Updated card table to have new arcane field
+- Updated card_printing table to have new image_rotation_degrees field
+- Updated card_printing table's artist field to be artists field, which is an array of artists for the printing
+- Updated card_printing table's art_variation field to be art_variations field, which is an array of art variations for the printing
+- Updated set_printing table's out_of_print_date field to be out_of_print, which is now a boolean
+- Updated set_printing table with new card_database, release_notes, and set_logo fields

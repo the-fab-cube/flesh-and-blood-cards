@@ -27,11 +27,12 @@ def generate_json_file(language):
                 card_printing['foiling'] = printing['foiling']
                 card_printing['rarity'] = printing['rarity']
                 card_printing['expansion_slot'] = printing['expansion_slot']
-                card_printing['artist'] = printing['artist']
-                card_printing['art_variation'] = printing['art_variation']
+                card_printing['artists'] = printing['artists']
+                card_printing['art_variations'] = printing['art_variations']
                 card_printing['flavor_text'] = printing['flavor_text']
                 card_printing['flavor_text_plain'] = printing['flavor_text_plain']
                 card_printing['image_url'] = printing['image_url']
+                card_printing['image_rotation_degrees'] = printing['image_rotation_degrees']
                 if 'tcgplayer_product_id' in printing:
                     card_printing['tcgplayer_product_id'] = printing['tcgplayer_product_id']
                 if 'tcgplayer_url' in printing:

@@ -54,3 +54,11 @@
 
 09-03-24:
 - Updated to add new Affects Full Cycle column to some legality files
+
+10-05-24:
+- Updated card to have new arcane field
+- Updated card printing to have new image_rotation_degrees field
+- Updated card printing's artist field to be artists field, which is an array of artists for the printing
+- Updated card printing's art_variation field to be art_variations field, which is an array of art variations for the printing
+- Updated set_printing's out_of_print_date field to be out_of_print, which is now a boolean
+- Updated set_printing with new card_database, release_notes, and set_logo fields

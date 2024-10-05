@@ -60,6 +60,12 @@
         "description_plain": "Blood Debt is a keyword existing on Shadow cards. Shadow cards can inflict a loss of life to access a greater power. At the end of your turn, you lose 1{h} for each blood debt card in your banished zone."
     },
     {
+        "unique_id": "PR6tMq6r8WmWtMNF6HdKc",
+        "name": "Bond",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "wPWTbtBBwWkLhTz7hMrn7",
         "name": "Boost",
         "description": "**Boost* is a Mechanologist mechanic that allows a Mechanologist attack action card to gain go again.",
@@ -140,6 +146,12 @@
     {
         "unique_id": "wcg8K8J7frtBp89w7P6gm",
         "name": "Evo Upgrade",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "tcrWdCdqTmdnW9jFjt8dG",
+        "name": "Flow",
         "description": "",
         "description_plain": ""
     },
