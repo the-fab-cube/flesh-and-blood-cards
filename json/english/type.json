@@ -80,6 +80,10 @@
         "name": "Bow"
     },
     {
+        "unique_id": "qwwWGFMQQn7wPPD7Nbj6G",
+        "name": "Brush"
+    },
+    {
         "unique_id": "7HG9GDqGdrtdnTPDgLjRL",
         "name": "Brute"
     },
@@ -242,6 +246,10 @@
     {
         "unique_id": "J8QjfW6zKK89wPpprJncb",
         "name": "Merchant"
+    },
+    {
+        "unique_id": "wMgkPpdHnHdH6ptR67mmD",
+        "name": "Mystic"
     },
     {
         "unique_id": "GC7qTwCNRhnM89fNqHGRf",

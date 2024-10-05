@@ -12,3 +12,6 @@
 
 06-19-23:
 - Updated script to handle new CSVs
+
+10-05-24:
+- Updated script to handle new banned-ll.csv

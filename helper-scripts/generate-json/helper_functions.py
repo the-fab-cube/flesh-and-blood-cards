@@ -80,6 +80,12 @@ def treat_blank_string_as_none(field):
 
     return field
 
+def treat_blank_string_as_number(field, default_value=0):
+    if field == '':
+        return default_value
+
+    return int(field)
+
 def treat_string_as_boolean(field, default_value=True):
     if field == 'No':
         return False

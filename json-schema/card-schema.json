@@ -37,6 +37,10 @@
                 "description": "The intelligence of the card. Can be a number or blank.",
                 "type": "string"
             },
+            "arcane": {
+                "description": "The arcane damage of the card. Can be a number, X, or blank. Represents the summed up amount of the lowest arcane damage of the card, unless that damage is based on an external variable, then it is X.",
+                "type": "string"
+            },
             "types": {
                 "description": "The types of the card (includes all types, subtypes, etc).",
                 "type": "array",
@@ -121,6 +125,10 @@
                 "description": "A boolean representing if the card is legal in Commoner (not including bans or suspensions).",
                 "type": "boolean"
             },
+            "ll_legal": {
+                "description": "A boolean representing if the card is legal in Living Legend (not including bans or suspensions).",
+                "type": "boolean"
+            },
             "blitz_living_legend": {
                 "description": "A boolean representing if the card is Living Legend in Blitz.",
                 "type": ["boolean"]
@@ -159,6 +167,14 @@
             },
             "commoner_banned_start": {
                 "description": "The date the card became banned in Commoner (will not be present otherwise).",
+                "type": ["string"]
+            },
+            "ll_banned": {
+                "description": "A boolean representing if the card is currently banned in Living Legend.",
+                "type": ["boolean"]
+            },
+            "ll_banned_start": {
+                "description": "The date the card became banned in Living Legend (will not be present otherwise).",
                 "type": ["string"]
             },
             "upf_banned": {
@@ -209,6 +225,10 @@
                 "description": "A boolean representing if the card is currently restricted in Living Legend.",
                 "type": ["boolean"]
             },
+            "ll_restricted_affects_full_cycle": {
+                "description": "A boolean representing if the full pitch cycle is restricted - ex: only 1 card with the same name from *all* pitches can be played (will not be present if the card is not restricted).",
+                "type": ["boolean"]
+            },
             "ll_restricted_start": {
                 "description": "The date the card became banned in Living Legend (will not be present otherwise).",
                 "type": ["string"]
@@ -253,6 +273,10 @@
                             "description": "The edition of the set the card is printed in.",
                             "type": "string"
                         },
+                        "expansion_slot": {
+                            "description": "Whether the card printing comes in the expansion slot or not",
+                            "type": "boolean"
+                        },
                         "foiling": {
                             "description": "The foiling the card printing comes in.",
                             "type": "string"
@@ -261,13 +285,19 @@
                             "description": "A shortcode representing the rarity the card printing was printed at.",
                             "type": "string"
                         },
-                        "artist": {
-                            "description": "The artist of the card printing.",
-                            "type": "string"
+                        "artists": {
+                            "description": "The artists of the card printing.",
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            }
                         },
-                        "art_variation": {
-                            "description": "A shortcode representing the special art treatment or variation the card was printed with, if any.",
-                            "type": ["string", "null"]
+                        "art_variations": {
+                            "description": "An array of shortcodes representing the special art treatments or variations the card was printed with, if any.",
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            }
                         },
                         "flavor_text": {
                             "description": "The flavor text of the card, formatted in Markdown.",
@@ -280,6 +310,10 @@
                         "image_url": {
                             "description": "An official LSS image URL of the card printing, if it exists.",
                             "type": ["string", "null"]
+                        },
+                        "image_rotation_degrees": {
+                            "description": "The amount of degrees the card image needs to be rotated to be oriented correctly.",
+                            "type": "number"
                         },
                         "tcgplayer_product_id": {
                             "description": "The TCGPlayer product ID of the card printing, if it exists.",
@@ -322,10 +356,11 @@
                         "id",
                         "set_id",
                         "edition",
+                        "expansion_slot",
                         "foiling",
                         "rarity",
-                        "artist",
-                        "art_variation",
+                        "artists",
+                        "art_variations",
                         "flavor_text",
                         "flavor_text_plain",
                         "image_url"
@@ -355,12 +390,14 @@
             "played_horizontally",
             "blitz_legal",
             "cc_legal",
+            "ll_legal",
             "commoner_legal",
             "blitz_living_legend",
             "cc_living_legend",
             "blitz_banned",
             "cc_banned",
             "commoner_banned",
+            "ll_banned",
             "upf_banned",
             "blitz_suspended",
             "cc_suspended",

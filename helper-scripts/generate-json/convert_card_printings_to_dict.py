@@ -56,11 +56,13 @@ def convert_card_printings_to_dict(language, card_printing_csv_path, card_face_a
             card_printing['edition'] = row['Edition']
             card_printing['foiling'] = row['Foiling']
             card_printing['rarity'] = row['Rarity']
-            card_printing['artist'] = row['Artist']
-            card_printing['art_variation'] = helper_functions.treat_blank_string_as_none(row['Art Variation'])
+            card_printing['expansion_slot'] = row['Expansion Slot'] == "Yes"
+            card_printing['artists'] = helper_functions.convert_to_array(row['Artists'])
+            card_printing['art_variations'] = helper_functions.convert_to_array(row['Art Variations'])
             card_printing['flavor_text'] = row['Flavor Text']
             card_printing['flavor_text_plain'] = unmark(card_printing['flavor_text'])
             card_printing['image_url'] = helper_functions.treat_blank_string_as_none(row['Image URL'])
+            card_printing['image_rotation_degrees'] = helper_functions.treat_blank_string_as_number(row['Image Rotation Degrees'])
 
             if tcgplayer_product_id is not None:
                 card_printing['tcgplayer_product_id'] = tcgplayer_product_id

@@ -98,6 +98,7 @@ def generate_json_file(language):
             card_object['blitz_legal'] = english_card['blitz_legal']
             card_object['cc_legal'] = english_card['cc_legal']
             card_object['commoner_legal'] = english_card['commoner_legal']
+            card_object['ll_legal'] = english_card['ll_legal']
 
             card_object['blitz_living_legend'] = english_card['blitz_living_legend']
             if 'blitz_living_legend_start' in english_card:
@@ -114,6 +115,10 @@ def generate_json_file(language):
             card_object['cc_banned'] = english_card['cc_banned']
             if 'cc_banned_start' in english_card:
                 card_object['cc_banned_start'] = english_card['cc_banned_start']
+                
+            card_object['ll_banned'] = english_card['ll_banned']
+            if 'll_banned_start' in english_card:
+                card_object['ll_banned_start'] = english_card['ll_banned_start']
 
             card_object['commoner_banned'] = english_card['commoner_banned']
             if 'commoner_banned_start' in english_card:

@@ -18,6 +18,12 @@
         "description_plain": "If you would be dealt arcane damage you may pay X{r} instead to prevent X arcane damage that source will deal."
     },
     {
+        "unique_id": "HKJdKtQrMRtRQNKL99MjB",
+        "name": "Arcane Shelter X",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "tHNMT9DMtgRNTBrnCjdWq",
         "name": "Attack",
         "description": "",
@@ -52,6 +58,12 @@
         "name": "Blood Debt",
         "description": "**Blood Debt** is a keyword existing on Shadow cards. Shadow cards can inflict a loss of life to access a greater power. At the end of your turn, you lose 1{h} for each **blood debt** card in your banished zone.",
         "description_plain": "Blood Debt is a keyword existing on Shadow cards. Shadow cards can inflict a loss of life to access a greater power. At the end of your turn, you lose 1{h} for each blood debt card in your banished zone."
+    },
+    {
+        "unique_id": "PR6tMq6r8WmWtMNF6HdKc",
+        "name": "Bond",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "wPWTbtBBwWkLhTz7hMrn7",
@@ -108,6 +120,12 @@
         "description_plain": "A Guardian mechanic that showcases the strength of the guardian. When an attack with crush deals 4 or more damage to a hero, an effect is applied."
     },
     {
+        "unique_id": "BwRFJmmNC6LNLwrtjWb7T",
+        "name": "Decompose",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "LdpzkhTrrcHJJtLFnctGW",
         "name": "Dominate",
         "description": "An attack that is difficult to defend. Cards with **dominate** cannot be defended with more than 1 card from the defending hero's hand.",
@@ -128,6 +146,12 @@
     {
         "unique_id": "wcg8K8J7frtBp89w7P6gm",
         "name": "Evo Upgrade",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "tcrWdCdqTmdnW9jFjt8dG",
+        "name": "Flow",
         "description": "",
         "description_plain": ""
     },

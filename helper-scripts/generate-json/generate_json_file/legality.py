@@ -10,41 +10,30 @@ def generate_json_file(filename):
     csvPath = Path(__file__).parent / f"../../../csvs/english/{filename}.csv"
     jsonPath = Path(__file__).parent / f"../../../json/english/{filename}.json"
 
-    suspended = "suspended" in filename
-
     with csvPath.open(newline='') as csvfile:
-        reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
-        next(reader)
+        reader = csv.DictReader(csvfile, delimiter='\t', quotechar='"')
 
         for row in reader:
             legality_object = {}
 
-            rowId = 0
+            legality_object['unique_id'] = row['Unique ID']
 
-            legality_object['unique_id'] = row[rowId]
-            rowId += 1
+            legality_object['card_unique_id'] = row['Card Unique ID']
 
-            legality_object['card_unique_id'] = row[rowId]
-            rowId += 1
-            rowId += 1
-            rowId += 1
-
-            status_active = True if row[rowId] == "Yes" else False if row[rowId] == "No" else None
+            status_active = True if row['Status Active'] == "Yes" else False if row['Status Active'] == "No" else None
             legality_object['status_active'] = status_active
-            rowId += 1
 
-            legality_object['date_announced'] = row[rowId]
-            rowId += 1
+            if 'Affects Full Cycle' in row:
+                legality_object['affects_full_cycle'] = row['Affects Full Cycle'] == "Yes"
 
-            legality_object['date_in_effect'] = row[rowId]
-            rowId += 1
+            legality_object['date_announced'] = row['Date Announced']
 
-            if suspended:
-                legality_object['planned_end'] = row[rowId]
-                rowId += 1
+            legality_object['date_in_effect'] = row['Date In Effect']
 
-            legality_object['legality_article'] = row[rowId]
-            rowId += 1
+            if 'Planned End' in row:
+                legality_object['planned_end'] = row['Planned End']
+
+            legality_object['legality_article'] = row['Legality Article']
 
             legality_array.append(legality_object)
 

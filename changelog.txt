@@ -664,3 +664,103 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed functional text for `Nasreth, the Soul Harrower`'s having {l} listed instead of {h} - bug notice credit: manwaring
 - Fixed issues with some Arcane Lantern and Dash I/O printings having extra spaces in the artist field - bug notice credit: manwaring
 - Fixed a foiling for `Blasmophet, Levia Consumed` being listed as Rainbow Foil instead of Non-foil - bug notice credit: manwaring
+
+06-12-24:
+- Fixed incorrect spelling of type text for Take the Tempo
+
+06-18-24:
+- Added card data for Fabric of Hope and Fabric of Providence
+- Added printing data and images for LSS012 and LSS013
+- Fixed incorrect foiling for Snapdragon Scalers and Scabskin Leathers that are the backsides of the Fabric promos
+
+06-20-24:
+- Added card data for Aurora, Terra, Line It Up, and Target Totalizer
+- Added printing data for AAZ004, AAZ024, AUR001, AUR027, TER001, and TER028
+- Added images for AUR001, AUR027, TER001, and TER028
+- Added set data for AAZ, AUR, and TER
+- Updated functional text for Embodiment of Lightning
+
+07-07-24:
+- Added card data for Bracers of Bellona's Grace and Solar Plexus
+- Added Mystic type - bug notice credit: gre99ory
+- Fixed "Once per Turn Instant" being listed as a keyword instead of an ability/effect for Barbed Castaway - bug notice credit: gre99ory
+- Updated CC Banned status for Bonds of Ancestry (Yellow and Blue)
+- Updated Blitz Banned status for Crown of Seeds, Aether Wildfire, and Aether Flare
+- Update LL Restricted status for Channel Lake Frigid
+
+07-22-24:
+- Added card data for Earth Form and Lightning Form - data entry assistance: manwaring
+- Added printing data for LGS282-LGS308
+- Fixed incorrect Falcon Wing type text - bug notice credit: Stingray
+
+07-31-24:
+- Added card data for all AUR and TER cards - data entry assistance: manwaring
+- Added card data for Hidden Agenda, Sharp Shooters, Flight Path, and Stone Rain - data entry assistance: manwaring
+- Added printing data for AUR001-AUR029, TER001-TER030, AAZ005-AAZ007, and AAZ024  - data entry assistance: manwaring
+- Updated functional text for Burgeoning and Lightning Surge
+
+08-01-24:
+- Fixed Stone Rain's AAZ card ID - bug notice credit: PvtVoid
+
+08-06-24:
+- Fixed cold foil Construct Nitro Mechanoid // Nitro Mechanoid and cold foil Invoke Suraya // Suraya, Archangel of Knowledge not having their card face associations - but notice credit: Edhebi
+
+08-14-24:
+- Added set and set printing info for 1HB, 1HD, 1HT, 1HK, 1HR, and 1HV - data entry credit: Eik-S
+
+08-24-24:
+- Added new Expansion Slot field in Card Printing files - feature/data entry credit: AlphSpirit
+- Added AIO set and set printing and added card data (minus images) for Heavy Industry Surveillance and Fast and Furious - data entry assistance: manwaring
+
+08-26-24:
+- Added printing data for FAB278
+- Updated DYN000 Art Variation to be AA
+
+08-31-24:
+- Added card data (minus images) for Heavy Industry Gear Shift and Cerebellum Processor - data entry assistance: manwaring
+
+09-03-24:
+- Updated CC Banned status for Art of War, Bonds of Ancestry (Red), Cash In, Orihon of Mystic Tenets, Tome of Aetherwind, Tome of Divinity, Tome of Firebrand, and Tome of Fyendal
+- Updated Blitz Banned status for Art of War, Bonds of Ancestry, Cash In, Orihon of Mystic Tenets, Tome of Aetherwind, Tome of Divinity, Tome of Firebrand, and Tome of Fyendal
+- Updated LL Restricted status for Bonds of Ancestry
+
+09-06-24:
+- Updated Blitz Living Legend status for Zen, Tiger Taming Khakkara, Briar, Rosetta Thorn, Dash, and Teklo Plasma Pistol
+
+09-12-24:
+- Added card data for Heavy Industry Power Plant
+- Added printing data for JDG032
+
+09-14-24:
+- Fixed Potion of Déjà Vu's name - bugfix credit: lekevicius
+
+09-15-24:
+- Updated Blitz Living Legend Status for Rhinar and Romping Club
+
+10-05-24:
+- Added card data for ROS
+- Added card data for Brush of Heavenly Rites, Heavy Industry Ram Stop, and `Ira, Scarlet Revenger`
+- Added printing data for AIO001-AIO027, AAZ001-AAZ004, AAZ008-AAZ015, AAZ017-AAZ023, AAZ025-AAZ032, ASB001-ASB002, ASB007-ASB024, ASB026-ASB028, AUA001-AUA029, ROS000-ROS257, FAB250-FAB275, FAB277-FAB278, FAB284, HER119-HER123, JDG030-JDG036, LGS309-LGS336, LGS340-LGS341, LGS345-LGS354, LGS362-LGS363, and WIN036-WIN040
+- Added printing data for alt art AAZ005
+- Added printing data for rainbow foil ASB025
+- Added Arcane Shelter X, Bond, Decompose, and Flow keywords
+- Added new HS art variation (Half Size) for the split perforated tokens
+- Updated all instances of Maxim Kostin with preferred name of Max Kostin
+- Updated Commoner legality for Aether Quickening, Flash, Fyendal's Fighting Spirit, and Oath of the Arknight
+- Updated functional text for Aether Quickening, Consuming Volition, Flash, Fyendal's Fighting Spirit, `Ira, Crimson Haze`, Lightning Surge, and Meat and Greet
+- Updated 寿多浩 / Hiro Suda aritst name to be 寿多浩 (Hiro Suda)
+- Updated TCGPlayer prices for AAZ, AKO, ASB, AUA, AUR, FAB, FLR, HER, LGS, LSS, OSC, ROS, TER, and VER sets
+- Updated all set printings with new info
+- Updated images for AKO card printings
+- Updated Commoner legality for Battlefield Blitz (Yellow), Beaming Bravado (Red), Beaming Bravado (Yellow), and Valiant Thrust (Yellow)
+- Updated Heavy Hitters Rhinar Blitz Deck to use RHI set code (confirmed with LSS that this is the official set code, the printed set code of RNR was an error)
+- Fixed WIN cards to have C foiling instead of G foiling - bug notice: lekevicius
+- Fixed FAB207 image URL
+- Fixed foiling for ASB003 and ASB006
+- Breaking: Added new banned-ll.csv and associated JSON and documentation
+- Breaking: Added Arcane and LL Legal fields in card.csv
+- Breaking: Added Image Rotation Degrees field in card-printing.csv
+- Breaking: Changed Artist field in card-printing.csv to Artists to support multiple artists per card
+- Breaking: Changed Variation field in card-printing.csv to Variations to support multiple variations per card
+- Breaking: Changed Out of Print Date field in set-printing.csv to Out of Print
+- Breaking: Added Card Database, Release Notes, and Set Logo fields to set-printing.csv

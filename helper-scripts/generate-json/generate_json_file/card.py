@@ -17,6 +17,7 @@ def generate_json_file():
     banned_blitz_json_path = Path(__file__).parent / "../../../json/english/banned-blitz.json"
     banned_cc_json_path = Path(__file__).parent / "../../../json/english/banned-cc.json"
     banned_commoner_json_path = Path(__file__).parent / "../../../json/english/banned-commoner.json"
+    banned_ll_json_path = Path(__file__).parent / "../../../json/english/banned-ll.json"
     banned_upf_json_path = Path(__file__).parent / "../../../json/english/banned-upf.json"
     living_legend_blitz_json_path = Path(__file__).parent / "../../../json/english/living-legend-blitz.json"
     living_legend_cc_json_path = Path(__file__).parent / "../../../json/english/living-legend-cc.json"
@@ -36,6 +37,7 @@ def generate_json_file():
         banned_blitz_json_path.open(newline='') as banned_blitz_json_file,
         banned_cc_json_path.open(newline='') as banned_cc_json_file,
         banned_commoner_json_path.open(newline='') as banned_commoner_json_file,
+        banned_ll_json_path.open(newline='') as banned_ll_json_file,
         banned_upf_json_path.open(newline='') as banned_upf_json_file,
         living_legend_blitz_json_path.open(newline='') as living_legend_blitz_json_file,
         living_legend_cc_json_path.open(newline='') as living_legend_cc_json_file,
@@ -50,6 +52,7 @@ def generate_json_file():
         banned_blitz_array = json.load(banned_blitz_json_file)
         banned_cc_array = json.load(banned_cc_json_file)
         banned_commoner_array = json.load(banned_commoner_json_file)
+        banned_ll_array = json.load(banned_ll_json_file)
         banned_upf_array = json.load(banned_upf_json_file)
         living_legend_blitz_array = json.load(living_legend_blitz_json_file)
         living_legend_cc_array = json.load(living_legend_cc_json_file)
@@ -71,6 +74,7 @@ def generate_json_file():
             card_object['defense'] = row['Defense']
             card_object['health'] = row['Health']
             card_object['intelligence'] = row['Intelligence']
+            card_object['arcane'] = row['Arcane']
 
             card_object['types'] = helper_functions.convert_to_array(row['Types'])
             card_object['card_keywords'] = helper_functions.convert_to_array(row['Card Keywords'])
@@ -88,6 +92,7 @@ def generate_json_file():
             card_object['blitz_legal'] = helper_functions.treat_string_as_boolean(row['Blitz Legal'])
             card_object['cc_legal'] = helper_functions.treat_string_as_boolean(row['CC Legal'])
             card_object['commoner_legal'] = helper_functions.treat_string_as_boolean(row['Commoner Legal'])
+            card_object['ll_legal'] = helper_functions.treat_string_as_boolean(row['LL Legal'])
 
             living_legend_blitz_info_array = [x for x in living_legend_blitz_array if x['card_unique_id'] == card_unique_id]
             living_legend_blitz_info = living_legend_blitz_info_array[-1] if len(living_legend_blitz_info_array) > 0 else None
@@ -118,6 +123,12 @@ def generate_json_file():
             card_object['commoner_banned'] = banned_commoner_info['status_active'] if banned_commoner_info != None else False
             if card_object['commoner_banned']:
                 card_object['commoner_banned_start'] = banned_commoner_info['date_in_effect']
+
+            banned_ll_info_array = [x for x in banned_ll_array if x['card_unique_id'] == card_unique_id]
+            banned_ll_info = banned_ll_info_array[-1] if len(banned_ll_info_array) > 0 else None
+            card_object['ll_banned'] = banned_ll_info['status_active'] if banned_ll_info != None else False
+            if card_object['ll_banned']:
+                card_object['ll_banned_start'] = banned_ll_info['date_in_effect']
 
             banned_upf_info_array = [x for x in banned_upf_array if x['card_unique_id'] == card_unique_id]
             banned_upf_info = banned_upf_info_array[-1] if len(banned_upf_info_array) > 0 else None
@@ -177,6 +188,7 @@ def generate_json_file():
             ll_restricted_info = ll_restricted_info_array[-1] if len(ll_restricted_info_array) > 0 else None
             card_object['ll_restricted'] = ll_restricted_info['status_active'] if ll_restricted_info != None else False
             if card_object['ll_restricted']:
+                card_object['ll_restricted_affects_full_cycle'] = ll_restricted_info['affects_full_cycle']
                 card_object['ll_restricted_start'] = ll_restricted_info['date_in_effect']
 
             # Clean up fields
@@ -189,6 +201,8 @@ def generate_json_file():
                 card_object['cc_legal'] = True
             if card_object['commoner_legal'] == '':
                 card_object['commoner_legal'] = True
+            if card_object['ll_legal'] == '':
+                card_object['ll_legal'] = True
 
             # card_object['functional_text'] = card_object['functional_text']
             # card_object['functional_text_plain'] = card_object['functional_text_plain']

@@ -22,6 +22,7 @@ validate_json ../../json-schema/keyword-schema.json ../../json/english/keyword.j
 validate_json ../../json-schema/legality-schema.json ../../json/english/banned-blitz.json
 validate_json ../../json-schema/legality-schema.json ../../json/english/banned-cc.json
 validate_json ../../json-schema/legality-schema.json ../../json/english/banned-commoner.json
+validate_json ../../json-schema/legality-schema.json ../../json/english/banned-ll.json
 validate_json ../../json-schema/legality-schema.json ../../json/english/banned-upf.json
 validate_json ../../json-schema/legality-schema.json ../../json/english/living-legend-blitz.json
 validate_json ../../json-schema/legality-schema.json ../../json/english/living-legend-cc.json

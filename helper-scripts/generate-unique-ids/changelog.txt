@@ -9,3 +9,6 @@
 - Cleaned up script's handling of async generators
 - Updated script to handle new CSVs
 - Ensured script throws error when run through bash
+
+10-05-24:
+- Updated script to handle new banned-ll.csv

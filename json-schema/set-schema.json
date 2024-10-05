@@ -33,7 +33,10 @@
                         "initial_release_date": {
                             "type": ["string", "null"]
                         },
-                        "out_of_print_date": {
+                        "out_of_print": {
+                            "type": "boolean"
+                        },
+                        "card_database": {
                             "type": ["string", "null"]
                         },
                         "product_page": {
@@ -44,6 +47,12 @@
                         },
                         "card_gallery": {
                             "type": ["string", "null"]
+                        },
+                        "release_notes": {
+                            "type": ["string", "null"]
+                        },
+                        "set_logo": {
+                            "type": ["string", "null"]
                         }
                     },
                     "required": [
@@ -52,10 +61,13 @@
                         "start_card_id",
                         "end_card_id",
                         "initial_release_date",
-                        "out_of_print_date",
+                        "out_of_print",
+                        "card_database",
                         "product_page",
                         "collectors_center",
-                        "card_gallery"
+                        "card_gallery",
+                        "release_notes",
+                        "set_logo"
                     ]
                 }
             }

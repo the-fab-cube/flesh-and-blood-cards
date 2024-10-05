@@ -118,5 +118,69 @@
         "date_announced": "2023-12-18T00:00:00.000Z",
         "date_in_effect": "2024-02-02T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-eoy/"
+    },
+    {
+        "unique_id": "hjRp6bbgdpNTwJwKH7jNz",
+        "card_unique_id": "7FHM67fkfjCjzwWzKfFKH",
+        "status_active": true,
+        "date_announced": "2024-09-03T00:00:00.000Z",
+        "date_in_effect": "2024-09-06T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-zen-briar-and-dash/"
+    },
+    {
+        "unique_id": "CJJ6GJWhtpQW67KK8rbKK",
+        "card_unique_id": "M7nPGBJMNj6tbtDgzMNqc",
+        "status_active": true,
+        "date_announced": "2024-09-03T00:00:00.000Z",
+        "date_in_effect": "2024-09-06T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-zen-briar-and-dash/"
+    },
+    {
+        "unique_id": "6Hc7fHmCTTTRBnBbqFczr",
+        "card_unique_id": "7TjkgnbJ8tghfrkMRnTfW",
+        "status_active": true,
+        "date_announced": "2024-09-03T00:00:00.000Z",
+        "date_in_effect": "2024-09-06T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-zen-briar-and-dash/"
+    },
+    {
+        "unique_id": "d8Lr6JDTkbQ6fNBGjGqhn",
+        "card_unique_id": "cbHrfwmLrMjWdhdBtzbff",
+        "status_active": true,
+        "date_announced": "2024-09-03T00:00:00.000Z",
+        "date_in_effect": "2024-09-06T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-zen-briar-and-dash/"
+    },
+    {
+        "unique_id": "Hb9PtHj8zdHnpNBLphhCD",
+        "card_unique_id": "kftPnNkrBLJ7rPmFGgQCm",
+        "status_active": true,
+        "date_announced": "2024-09-03T00:00:00.000Z",
+        "date_in_effect": "2024-09-06T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-zen-briar-and-dash/"
+    },
+    {
+        "unique_id": "8Nh88rjCTqjqPLKKqjN6t",
+        "card_unique_id": "fNFqtdWLq6tCPnnwjLLWL",
+        "status_active": true,
+        "date_announced": "2024-09-03T00:00:00.000Z",
+        "date_in_effect": "2024-09-06T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-zen-briar-and-dash/"
+    },
+    {
+        "unique_id": "87qgc7npDkhmFBpRLtRcj",
+        "card_unique_id": "wNRqrHCn6rrKLhrDkqPwp",
+        "status_active": true,
+        "date_announced": "2024-09-09T00:00:00.000Z",
+        "date_in_effect": "2024-09-13T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-rhinar/"
+    },
+    {
+        "unique_id": "dQqMFNjbb7986GwG7QNTh",
+        "card_unique_id": "QT8JfjzmzqRR9MWgtgPLR",
+        "status_active": true,
+        "date_announced": "2024-09-09T00:00:00.000Z",
+        "date_in_effect": "2024-09-13T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-rhinar/"
     }
 ]

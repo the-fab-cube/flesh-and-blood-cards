@@ -28,10 +28,12 @@
         "blitz_legal": true,
         "cc_legal": true,
         "commoner_legal": false,
+        "ll_legal": true,
         "blitz_living_legend": false,
         "cc_living_legend": false,
         "blitz_banned": false,
         "cc_banned": false,
+        "ll_banned": false,
         "commoner_banned": false,
         "upf_banned": false,
         "blitz_suspended": false,
@@ -47,11 +49,15 @@
                 "edition": "N",
                 "foiling": "R",
                 "rarity": "F",
-                "artist": "Adolfo Navarro",
-                "art_variation": null,
+                "expansion_slot": false,
+                "artists": [
+                    "Adolfo Navarro"
+                ],
+                "art_variations": [],
                 "flavor_text": "",
                 "flavor_text_plain": "",
-                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/FR/FR_1HP000_1.png"
+                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/FR/FR_1HP000_1.png",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -85,10 +91,12 @@
         "blitz_legal": true,
         "cc_legal": true,
         "commoner_legal": false,
+        "ll_legal": true,
         "blitz_living_legend": false,
         "cc_living_legend": false,
         "blitz_banned": false,
         "cc_banned": false,
+        "ll_banned": false,
         "commoner_banned": false,
         "upf_banned": false,
         "blitz_suspended": false,
@@ -104,11 +112,15 @@
                 "edition": "N",
                 "foiling": "R",
                 "rarity": "F",
-                "artist": "Alexandra Malygina",
-                "art_variation": null,
+                "expansion_slot": false,
+                "artists": [
+                    "Alexandra Malygina"
+                ],
+                "art_variations": [],
                 "flavor_text": "",
                 "flavor_text_plain": "",
-                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/FR/FR_1HP000_2.png"
+                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/FR/FR_1HP000_2.png",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -142,10 +154,12 @@
         "blitz_legal": true,
         "cc_legal": true,
         "commoner_legal": false,
+        "ll_legal": true,
         "blitz_living_legend": false,
         "cc_living_legend": false,
         "blitz_banned": false,
         "cc_banned": false,
+        "ll_banned": false,
         "commoner_banned": false,
         "upf_banned": false,
         "blitz_suspended": false,
@@ -161,11 +175,15 @@
                 "edition": "N",
                 "foiling": "R",
                 "rarity": "F",
-                "artist": "Maxim Kostin",
-                "art_variation": null,
+                "expansion_slot": false,
+                "artists": [
+                    "Maxim Kostin"
+                ],
+                "art_variations": [],
                 "flavor_text": "",
                 "flavor_text_plain": "",
-                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/FR/FR_1HP000_3.png"
+                "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2022-1HP/FR/FR_1HP000_3.png",
+                "image_rotation_degrees": 0
             }
         ]
     }
