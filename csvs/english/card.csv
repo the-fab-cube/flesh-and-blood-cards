@@ -1289,6 +1289,11 @@ KCBB8CThnKNQBNGwmrtpn	Channel Mount Heroic	1	3		3				Earth, Action, Aura	Go agai
 Attack action cards you control have +3{p}.
 
 **Channel Earth** - At the beginning of your end phase, put an flow counter on Channel Mount Heroic then destroy it unless you put an Earth card from your pitch zone on the bottom of your deck for each flow counter on it."	Earth Action - Aura				No	
+rFbFBgmNfJzFbdwhrJrgB	Channel Mount Isen	3	0		3				Ice, Action, Aura	Go again, Channel Ice						"**Go again**
+
+At the start of each hero's turn, they lose {h} equal to the number of Frostbites in their equipment zones.
+
+**Channel Ice** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put an Ice card from your pitch zone on the bottom of your deck for each flow counter on it."	Ice Action - Aura				No	
 wDhLmGq88hHqJkBg89QDP	Channel Thunder Steppe	2	1		3				Lightning, Action, Aura	Go again, Channel Lightning			Go again			"**Go again**
 
 Whenever you play an action card, you may pay {r}. If you do, it gains **go again**.
@@ -1682,6 +1687,11 @@ MkjQ7zw7Bpc8BMJDnJ9fC	Crown of Reflection				0				Illusionist, Equipment, Head	A
 **Arcane Barrier 1**"	Illusionist Equipment - Head				No	
 Lbp8pFhph9wMqMHDw8JWq	Crown of Seeds				0				Earth, Equipment, Head		Once per Turn Instant					**Once per Turn Instant** - {r}, put a face down card from your arsenal on the bottom of your deck: Draw a card and prevent the next 1 damage that would be dealt to your hero this turn.	Earth Equipment - Head				No	
 nzDWrNMqGWgmJfgJhChNb	Crucible of Aetherweave								Wizard, Weapon, Staff, 2H		Once per Turn Instant					**Once per Turn Instant** - {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.	Wizard Weapon - Staff (2H)					
+mnKzqjmdQbtKgBLT6bFBj	Crumble to Eternity	3	0		3				Ice, Earth, Action, Aura	Jarl Specialization						"**Jarl Specialization**
+
+When this enters the arena, you may put a -1{d} counter on an equipment.
+
+At the beginning of your action phase, destroy this, then your next attack this turn gets **dominate**."	Ice Earth Action - Aura				No	
 gNMFmq7hhbDCRHHzhRKRK	Crush Confidence	1	3	7	3				Guardian, Action, Attack	Crush						**Crush** - If Crush Confidence deals 4 or more damage to a hero, they lose all hero card effects and activated abilities until the end of their next turn.	Guardian Action - Attack					
 cdtTLJQBTcPbpc8GWmFKN	Crush Confidence	2	3	6	3				Guardian, Action, Attack	Crush						**Crush** - If Crush Confidence deals 4 or more damage to a hero, they lose all hero card effects and activated abilities until the end of their next turn.	Guardian Action - Attack					
 Nj6B7WzpjfdJCbjq6Mwrp	Crush Confidence	3	3	5	3				Guardian, Action, Attack	Crush						**Crush** - If Crush Confidence deals 4 or more damage to a hero, they lose all hero card effects and activated abilities until the end of their next turn.	Guardian Action - Attack					
@@ -4112,6 +4122,9 @@ Whenever you play an Ice card during an opponents turn, create a Frostbite token
 MqhJWhp7gnBLjtMwzwmm8	Jack-o'-lantern	1	0		2				Shadow, Runeblade, Action	Go again						Banish the top card of your deck. If it's red, create a Runechant token.	Shadow Runeblade Action				No	
 KmMWLT6fF88QdfKTJ9GFf	Jack-o'-lantern	2	0		2				Shadow, Runeblade, Action	Go again						Banish the top card of your deck. If it's yellow, create a Runechant token.	Shadow Runeblade Action				No	
 b9tmpTgLPfDhD6qDJ7FwD	Jack-o'-lantern	3	0		2				Shadow, Runeblade, Action	Go again						Banish the top card of your deck. If it's blue, create a Runechant token.	Shadow Runeblade Action				No	
+9QL68DDb9hCqhWWhgnQgR	Jarl Vetreiđi					40	4									"Whenever you play an Ice card, create a Frostbite token in an opponent's exposed head, chest, arms, or legs zone.
+
+**Essence of Earth and Ice**"	Elemental Guardian Hero				No	
 GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit			2					Bard, Weapon, Fiddle, 2H		Once per Turn Action, Action	Go again, Attack				"**Once per Turn Action** - {r}{r}{r}: Target opposing hero chooses and creates a Might, Quicken, or Vigor token. You create a Copper token. **Go again**
 
 **Action** - 0: **Attack**. When this hits, destroy it."	Bard Weapon - Fiddle (2H)					
@@ -4497,7 +4510,7 @@ Damage that would be dealt by Malign can't be prevented."	Assassin Action - Atta
 PRzqJ97HHdM6f8bLKhGzQ	Mandible Claw			3					Brute, Weapon, Claw, 1H		Once per Turn Action	Attack, Go again				"**Once per Turn Action** - {r}{r}: **Attack**
 
 If you have discarded a card with 6 or more {p} this turn, this card's attacks **go again**."	Brute Weapon - Claw (1H)					
-q7GfHcHBpWqCbtghcpnTj	Mangle	1	4	8	3				Guardian, Action, Attack	Crush						**Crush** - If Mangle deals 4 or more damage to a hero, destroy target equipment they control with a -1{d} counter on it.	Guardian Action - Attack				No	
+q7GfHcHBpWqCbtghcpnTj	Mangle	1	4	8	3				Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, destroy target equipment they control with a -1{d} counter.	Guardian Action - Attack				No	
 f8QrwNNrtgKcB8MwLRQh8	Manifestation of Miragai	3	3						Mystic, Illusionist, Instant, Aura	Ward X						"This enters the arena with two +1{p} counters. If a Chi was pitched to play this, instead this enters the arena with four +1{p} counters.
 
 **Ward X**, where X is the number of +1{p} counters on this."	Mystic Illusionist Instant - Aura				No	
@@ -8104,6 +8117,9 @@ When this hits, put it on the bottom of its owner's deck."	Mechanologist Action 
 7FKzc7kNTqjg78RNqwM77	Undertow Stilettos				1				Mystic, Assassin, Equipment, Legs	Battleworn	Attack Reaction					"**Attack Reaction** - {r}, destroy this: Create a Slither in your hand.
 
 **Battleworn**"	Mystic Assassin Equipment - Legs					
+DKFj9DK7f9nHrQffkdfDm	Unforgetting Unforgiving	1			4				Guardian, Block	Jarl Specialization						"**Jarl Specialization**
+
+When this defends, if the attacking hero controls an equipment with a -1{d} counter, you may search your deck for a Mangle, banish it, then shuffle. You may play it during your next action phase."	Guardian Block				No	
 MwMJK9DPnDgKBfjFTFmCW	Unhallowed Rites	1	1	4	3				Shadow, Runeblade, Action, Attack	Blood Debt					Blood Debt	"If you have played a 'non-attack' action card this turn, you may play Unhallowed Rites from your banished zone.
 
 You may put a 'non-attack' action card with blood debt from your graveyard on the bottom of your deck.

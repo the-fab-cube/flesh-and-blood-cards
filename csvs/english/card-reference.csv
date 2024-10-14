@@ -1,14 +1,6 @@
 Card Unique ID	Card Name	Card Pitch	Referenced Card Unique ID	Referenced Card Name	Referenced Card Pitch						
-JC99fDzqfnbBCGkMCRhtw	Dust from the Fertile Fields	1	dR8hjTth9bHpdLfTBPLNM	Ouvia							
-nDkh8FDGwNNpLghj6grmK	Calming Gesture		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
-G9mhTdpGKD9kzDnBtgdkP	Drink 'Em Under the Table	1	zdWrPkDgdbWdGBWjCLnhj	Betsy							
-G9mhTdpGKD9kzDnBtgdkP	Drink 'Em Under the Table	1	m7WjNjrtmfKdLfqPLWDHw	Betsy, Skin in the Game							
-876Q8WnHQCPctd89zd8tn	Arcanite Fortress		876Q8WnHQCPctd89zd8tn	Arcanite Fortress							
-876Q8WnHQCPctd89zd8tn	Arcanite Fortress		NQDNdGfjP6bd8WHP8QNnt	Arcanite Skullcap							
-H6nGNM7gbPMNpKgnCcgkJ	Save the Thought	1	HpWqFJW8ftTDdzCLK9RkD	Ponder							
-7P7nqWCFNDmbR7QJqhfJf	Save the Thought	2	HpWqFJW8ftTDdzCLK9RkD	Ponder							
-knDjRzfw6mfHn6fG9WnhJ	Save the Thought	3	HpWqFJW8ftTDdzCLK9RkD	Ponder							
-TkhKrkDWhcwTJbHng7TrP	Mental Block	3	HpWqFJW8ftTDdzCLK9RkD	Ponder							
+KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
+BzkLdhrmkWpnbDBWNMJhp	Aether Arc	3	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 8rwTJkbzktjbhbQbPCKrc	Aether Bindings of the Third Age		zRCmqmDrDLdDwnc9Td6j7	Sigil of Aether	3						
 8rwTJkbzktjbhbQbPCKrc	Aether Bindings of the Third Age		HnMKfF8fQMj9KJfhGBkdG	Sigil of Brilliance	2						
 8rwTJkbzktjbhbQbPCKrc	Aether Bindings of the Third Age		cJDgKwKhP89PKhhhcqrgg	Sigil of Conductivity	3						
@@ -21,16 +13,6 @@ TkhKrkDWhcwTJbHng7TrP	Mental Block	3	HpWqFJW8ftTDdzCLK9RkD	Ponder
 8rwTJkbzktjbhbQbPCKrc	Aether Bindings of the Third Age		nncFJBw6FFnMfkfrFnWwR	Sigil of Protection	3						
 8rwTJkbzktjbhbQbPCKrc	Aether Bindings of the Third Age		pW9RcR7zcbrJDfgGFdrgR	Sigil of Sanctuary	3						
 8rwTJkbzktjbhbQbPCKrc	Aether Bindings of the Third Age		HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3						
-qp7f9b6WNBmRWJfPbKtDm	Haunting Rendition	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
-pW9RcR7zcbrJDfgGFdrgR	Sigil of Sanctuary	3	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							
-dd7RLKpk8jcWcN8JdQQDW	Earth's Embrace	3	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							
-qdDLqzd6FfmjfPGHLD6NW	Barkskin of the Millennium Tree		jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							
-rQ7rcfpMdHMcLkTqtnfHz	Heartbeat of Candlehold	3	d77Rnf7QF6pfMd6MNgGtm	Verdance							
-rQ7rcfpMdHMcLkTqtnfHz	Heartbeat of Candlehold	3	wJMCMFqcQfRJmK96kc8qM	Verdance, Thorn of the Rose							
-7J87gL6NR9MjHMLM6cWGB	Arc Lightning	2	TDrmKkRWGKWnqfQkT9QML	Aurora							
-7J87gL6NR9MjHMLM6cWGB	Arc Lightning	2	mHBtPppktRTkWpnf69dHj	Aurora, Shooting Star							
-KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
-BzkLdhrmkWpnbDBWNMJhp	Aether Arc	3	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 tFKpRnDbfcwtC8dwqm9qm	Agile Engagement	1	WqTTMjDgKKCp7Lnb7LH6d	Agility							
 9czLrcQJTpWrCcJRm8dnz	Agile Engagement	2	WqTTMjDgKKCp7Lnb7LH6d	Agility							
 Mj9fkHtdrzzmDw8RNCKmT	Agile Engagement	3	WqTTMjDgKKCp7Lnb7LH6d	Agility							
@@ -177,10 +159,14 @@ wJQMt6Lpf6D9JFQ8BW898	Anthem of Spring	3	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Ear
 QTpCnrrjTbQhdRdLBzLzB	Apex Bonebreaker		6gqTwGnmHjkCLDqKPWt8c	Might							
 hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	2	NGkHQHjzkFqfmGLKmRCpj	Prism							
 hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	2	F7rQpTDjHFWPgQhcGg7RT	Prism, Sculptor of Arc Light							
+7J87gL6NR9MjHMLM6cWGB	Arc Lightning	2	TDrmKkRWGKWnqfQkT9QML	Aurora							
+7J87gL6NR9MjHMLM6cWGB	Arc Lightning	2	mHBtPppktRTkWpnf69dHj	Aurora, Shooting Star							
 Rft8fQBq9gz7bRh6BfjRC	Arcane Cussing	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 pNJQBp68dnBdTNhpKkhch	Arcane Cussing	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 PqtddPd9R76TbBtrChz6d	Arcane Cussing	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 f8bDMcqJ78QTCBznWpwwN	Arcane Seeds // Life	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+876Q8WnHQCPctd89zd8tn	Arcanite Fortress		876Q8WnHQCPctd89zd8tn	Arcanite Fortress							
+876Q8WnHQCPctd89zd8tn	Arcanite Fortress		NQDNdGfjP6bd8WHP8QNnt	Arcanite Skullcap							
 rWtcmPrWgJwnmKNhj8nMk	Arctic Incarceration	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 nPmkJGtLgnfFnWgcKqgq6	Arctic Incarceration	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 Fq8bJCMprNbTn6rKbchgB	Arctic Incarceration	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
@@ -220,6 +206,7 @@ LJrMwbT9tW99BNDwBKNfr	Banksy		z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro
 PtBr9hn97WqBzgMqNHzFp	Banneret of Courage	2	fQTg89mpRjTDTRmPGkQb6	Courage							
 MT7rdNFQjRncfm9DzmLdH	Banneret of Gallantry	2	cDpMQnr8LwPFGMdgffNb8	Quicken							
 Hkdtj7NWwgjL9znCjwM9M	Banneret of Protection	2	pdMgMzHwDgBpCNjD7WGLD	Spellbane Aegis							
+qdDLqzd6FfmjfPGHLD6NW	Barkskin of the Millennium Tree		jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							
 RKqGdm6WndJLgwRtTQkpc	Battered Not Broken	1	6gqTwGnmHjkCLDqKPWt8c	Might							
 RKqGdm6WndJLgwRtTQkpc	Battered Not Broken	1	6gqTwGnmHjkCLDqKPWt8c	Might							
 F6FCWBgBckkm8pn89TCfn	Be Like Water	1	JtCMThrjDDLjGmBbCcpWc	Head Jab	1						
@@ -393,6 +380,7 @@ chkQDQ6HN77r7hg8pmkKt	Buzzsaw Trap	3	RNfgGmc8wHgBrmC6gkqBd	Riptide, Lurker of th
 8jWbpb8RHQWpKwDdnt9rw	Call Down the Lightning	2	QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning							
 8jWbpb8RHQWpKwDdnt9rw	Call Down the Lightning	2	GFc7t8wNTwC8rCFwrqTfh	Lexi							
 8jWbpb8RHQWpKwDdnt9rw	Call Down the Lightning	2	PFmgFK9dFr8q6PrpJFpPG	Lexi, Livewire							
+nDkh8FDGwNNpLghj6grmK	Calming Gesture		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
 N6FgtcT8gMP7PMj7hCkgP	Canopy Shelter	3	6gqTwGnmHjkCLDqKPWt8c	Might							
 Ld6twwNTNGTcWFw9rRWfh	Cash In	2	gzDGmdfm6gHWctgrcgfKf	Copper							
 Ld6twwNTNGTcWFw9rRWfh	Cash In	2	8qdmprPg7kckn8ktMTKQh	Gold							
@@ -522,6 +510,7 @@ mPqMgTrrpbgkWPFBDwwzQ	Celestial Resolve	3	pGjHRdgF8BLTDGtjLJGgh	Wartune Herald	2
 mPqMgTrrpbgkWPFBDwwzQ	Celestial Resolve	3	qN9rt6FWmjTRwNC9cTrPW	Wartune Herald	3						
 mCCnJrJQkqJ7KfqKNHGnc	Chane		9F6H6kTdQdcHrDrRCDmLP	Soul Shackle							
 MhBTRHCCft7RbrMmkwwGw	Chane, Bound by Shadow		9F6H6kTdQdcHrDrRCDmLP	Soul Shackle							
+rFbFBgmNfJzFbdwhrJrgB	Channel Mount Isen	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 WRGBnNRjPprcPjd67kBqM	Chase the Tail	1	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
 LrjhhdFHqndpWG8d66GJz	Chief Ruk'utan		GgDFFHhLh8Kc7tJK8nBLj	Alpha Rampage	1						
 hn6Jp8hBLgpwRPd8gNnN7	Chill to the Bone	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
@@ -668,12 +657,15 @@ PMm7cqpbBL7wGwbqcqMcz	Drawn to the Dark Dimension	3	zfrHQjbPkpBmdQGrWcTMB	Runech
 HtQhWhjqqqtPNWbzNPjPf	Dread Triptych	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 6GbtFTnH86TCFdKLMdrPk	Driftwood Quiver		DhffBQC7PHwzdJpjTjNBm	Riptide							
 6GbtFTnH86TCFdKLMdrPk	Driftwood Quiver		RNfgGmc8wHgBrmC6gkqBd	Riptide, Lurker of the Deep							
+G9mhTdpGKD9kzDnBtgdkP	Drink 'Em Under the Table	1	zdWrPkDgdbWdGBWjCLnhj	Betsy							
+G9mhTdpGKD9kzDnBtgdkP	Drink 'Em Under the Table	1	m7WjNjrtmfKdLfqPLWDHw	Betsy, Skin in the Game							
 Dz6FcRBNMFdBt9fJPMB7d	Dromai		G6CnbFqjfGgKqqqmnCbMh	Ash							
 PrJkWBKNgtNdzhqhWLGFw	Dromai, Ash Artist		G6CnbFqjfGgKqqqmnCbMh	Ash							
 RFF6Bj8MJNDJLQG9kkpq8	Dunebreaker Cenipai	1	G6CnbFqjfGgKqqqmnCbMh	Ash							
 C89BtPGzhFfFBmBtLPJw7	Dunebreaker Cenipai	2	G6CnbFqjfGgKqqqmnCbMh	Ash							
 MhjRwG9PN8QWqkr7bnTHH	Dunebreaker Cenipai	3	G6CnbFqjfGgKqqqmnCbMh	Ash							
 NJkbhctpNJqK9FRDBmzKr	Dust from Stillwater Shrine	1	Nhdt8dQ86kQhLgFd8cd8z	Miragai							
+JC99fDzqfnbBCGkMCRhtw	Dust from the Fertile Fields	1	dR8hjTth9bHpdLfTBPLNM	Ouvia							
 KfcLhpjL6Jc6Mr8WTQMdn	Dust from the Golden Plains	1	HBMfgJPgbmbWzJrRtJCjk	Themai							
 Gq8F9nHbQ6N8rrPzdhJzn	Dust from the Red Plains	1	MFrJG8G8RgrhkpfkD8KWj	Vynserakai							
 zKQg9cTc7WMNdRbq6pwRk	Dust from the Shadow Crypts	1	b886KqRJLbpj78kHWMQJ9	Nekria							
@@ -686,6 +678,7 @@ t9JLzLpkTqwMQmzjkcDG8	Dustup	3	G6CnbFqjfGgKqqqmnCbMh	Ash
 hCkjMgHBTtbPccM6FfKmL	Earth Form	1	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							
 rbDcWtf9Dm6L9wrBj7Cnz	Earth Form	2	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							
 wrkDkLdGhJjTfPGzr68wM	Earth Form	3	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							
+dd7RLKpk8jcWcN8JdQQDW	Earth's Embrace	3	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							
 qCwM6LGq87rrqGQFk8rKG	Earthlore Bounty		Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
 PDHFDfPrn8TwBGw6h7cFr	Eclipse	3	mCCnJrJQkqJ7KfqKNHGnc	Chane							
 PDHFDfPrn8TwBGw6h7cFr	Eclipse	3	MhBTRHCCft7RbrMmkwwGw	Chane, Bound by Shadow							
@@ -930,11 +923,14 @@ DLCqPPF6cRwMCgdhRBj6F	Hammer of Havenhold		WtQz7cpTHPLGqtFLFJwjj	Chivalry
 96qhpHbkmGTNFKQNjFrwq	Harmony of the Hunt	3	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
 99B9LdcMnLqBhwjQmrHRG	Hatchet of Body		TCDKdFdzFT6nJnBBRbCLL	Hatchet of Mind							
 TCDKdFdzFT6nJnBBRbCLL	Hatchet of Mind		99B9LdcMnLqBhwjQmrHRG	Hatchet of Body							
+qp7f9b6WNBmRWJfPbKtDm	Haunting Rendition	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 6t8mpJGpHNQ9MKNrm99pr	Haunting Specter	1	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
 GTj8JGDq7LfKj8HjpNhmn	Haunting Specter	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
 CpfKgC8NJWLbMkhzFqQ8g	Haunting Specter	3	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
 RFRrT7hMB7bMJ9jcjzJgj	Haze Bending	3	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
 h7NLHrBf7dNmKLN8zqRLn	Heart-throb		DBhPCQqjnj6qqd9DtBB7W	Vigor							
+rQ7rcfpMdHMcLkTqtnfHz	Heartbeat of Candlehold	3	d77Rnf7QF6pfMd6MNgGtm	Verdance							
+rQ7rcfpMdHMcLkTqtnfHz	Heartbeat of Candlehold	3	wJMCMFqcQfRJmK96kc8qM	Verdance, Thorn of the Rose							
 8KcHGzJF7JBb67qmjgNMb	Hearty Block	1	DBhPCQqjnj6qqd9DtBB7W	Vigor							
 Prkf9mwfBCbLDHncK6CPP	Heat Wave		kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1						
 z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	2	NGkHQHjzkFqfmGLKmRCpj	Prism							
@@ -1051,6 +1047,7 @@ TmKrpP8tDg8bmpnqMPtgj	Iyslander		GHG6KkBzPkHDnMf7hL7K7	Frostbite
 MqhJWhp7gnBLjtMwzwmm8	Jack-o'-lantern	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 KmMWLT6fF88QdfKTJ9GFf	Jack-o'-lantern	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 b9tmpTgLPfDhD6qDJ7FwD	Jack-o'-lantern	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+9QL68DDb9hCqhWWhgnQgR	Jarl Vetreiđi		GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit		gzDGmdfm6gHWctgrcgfKf	Copper							
 GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit		6gqTwGnmHjkCLDqKPWt8c	Might							
 GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit		cDpMQnr8LwPFGMdgffNb8	Quicken							
@@ -1209,6 +1206,7 @@ rpF86BNmBttKMGpckqJnq	Meat and Greet	1	zfrHQjbPkpBmdQGrWcTMB	Runechant
 7cFGrC8JzLcFjRzJ8fnWH	Meat and Greet	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 kMHrRGnggnJtkzk7PhbH8	Meat and Greet	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 npDPz98H6BnJGDzHBmdGk	Melody, Sing-along		gzDGmdfm6gHWctgrcgfKf	Copper							
+TkhKrkDWhcwTJbHng7TrP	Mental Block	3	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 GgRFLW8zdKbNJtgfFTFkp	Meridian Pathway		FRTnBzBCRC7TbNhdKLWqW	Inner Chi	3						
 r8fjLMCFnQhFrRjwpMTgK	Micro-processor	3	kbdzm8R7MHCpWC79RdTGH	Data Doll MKII							
 RGHRQgGJdBhBPgM9Pfgw7	Mighty Windup	1	6gqTwGnmHjkCLDqKPWt8c	Might							
@@ -1541,6 +1539,9 @@ cdb8cTqP9MRgwqr7Q6rHQ	Sacred Art: Immortal Lunar Shrine	3	NwwnMqBg9tdRBp9NWHpgf	
 GJzhGm6bb6gW8nMBgQRbz	Sacred Art: Jade Tiger Domain	3	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
 BpjDRjGcMhFQkKQLnLLkQ	Sand Sketched Plan	3	wNRqrHCn6rrKLhrDkqPwp	Rhinar							
 BpjDRjGcMhFQkKQLnLLkQ	Sand Sketched Plan	3	wr9wBtTWwRrPrdhCRHCdN	Rhinar, Reckless Rampage							
+H6nGNM7gbPMNpKgnCcgkJ	Save the Thought	1	HpWqFJW8ftTDdzCLK9RkD	Ponder							
+7P7nqWCFNDmbR7QJqhfJf	Save the Thought	2	HpWqFJW8ftTDdzCLK9RkD	Ponder							
+knDjRzfw6mfHn6fG9WnhJ	Save the Thought	3	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 jktJDQ97DD6rnkQjhNdD8	Scepter of Pain		zfrHQjbPkpBmdQGrWcTMB	Runechant							
 tJDKNg7fm6FHNcCtjznN8	Scrap Hopper	1	cDpMQnr8LwPFGMdgffNb8	Quicken							
 njDMNcdpbzTGfhDQmFPdq	Scrap Hopper	2	cDpMQnr8LwPFGMdgffNb8	Quicken							
@@ -1578,6 +1579,7 @@ gzzft6DHbbNJGGCfCJrz7	Sigil of Lightning	3	QBwTWNc9FMGQfwHRTTdHj	Embodiment of L
 NHCQbrdqqK7FbcWgKnwWn	Sigil of Permafrost	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 ng9bzdmgC7KjJKR87Qn8B	Sigil of Permafrost	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 7ffzcpNTNGrMwzNHkqWKH	Sigil of Permafrost	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
+pW9RcR7zcbrJDfgGFdrgR	Sigil of Sanctuary	3	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							
 DgTbtnmDPchPRckcHTjpz	Silken Form		pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing							
 gCgcRpmr76G6zmFgpprRw	Silver Palms		TNJz9fCgqmhhLz9rP9tkt	Silver							
 Crtn9djMPnRdwjKnhWRpk	Singing Steelblade	2	KGqRPDfRrnPqdj7Cm76fr	Dorinthea							
@@ -1764,6 +1766,7 @@ p9Mw8DBq9hPqKnPRrwCHz	Trounce	1	6gqTwGnmHjkCLDqKPWt8c	Might
 p9Mw8DBq9hPqKnPRrwCHz	Trounce	1	DBhPCQqjnj6qqd9DtBB7W	Vigor							
 kQcrWWddhc7qJJrtdpggp	Twelve Petal Kāṣāya		HhTPF8HGRqhFbTT8HnBBh	Zen State							
 7FKzc7kNTqjg78RNqwM77	Undertow Stilettos		zBDwTqgQTKrNRwjQmMr9g	Slither							
+DKFj9DK7f9nHrQffkdfDm	Unforgetting Unforgiving	1	q7GfHcHBpWqCbtghcpnTj	Mangle	1						
 wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	Fmf8trg9w8B8BBbWrf8w9	Boltyn							
 wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	tzTbzLkLhDzmW9QMJr9KF	Bravo							
 wB6PP9TgHBpBbDDFrhgF7	United We Stand	2	NtLDgPBR7HqDqhDzJMHmk	Bravo, Showstopper							

@@ -23,7 +23,7 @@
     {
         "unique_id": "zNF9Rtkg998WkCBCgfJQR",
         "id": "AAZ",
-        "name": "Armory Deck Azalea",
+        "name": "Armory Deck - Azalea",
         "printings": [
             {
                 "unique_id": "NPjbffBKdhHdPcppbqbbL",
@@ -44,7 +44,7 @@
     {
         "unique_id": "QPwGGk7Tnrtpj7RfD6BJP",
         "id": "AIO",
-        "name": "Armory Deck Dash I/O",
+        "name": "Armory Deck - Dash I/O",
         "printings": [
             {
                 "unique_id": "FwqNRtTwNgC6Qz6krCwf7",
@@ -59,6 +59,27 @@
                 "card_gallery": null,
                 "release_notes": null,
                 "set_logo": "https://dhhim4ltzu1pj.cloudfront.net/media/images/armory_deck_dash_logo.original.png"
+            }
+        ]
+    },
+    {
+        "unique_id": "NhqdzMMTrtNQdB6DphMGh",
+        "id": "AJV",
+        "name": "Armory Deck Origins - Jarl Vetreiđi",
+        "printings": [
+            {
+                "unique_id": "cD8qW6NqpwjRqpNRrht6D",
+                "edition": "N",
+                "start_card_id": "AJV001",
+                "end_card_id": "AJV018",
+                "initial_release_date": "2024-11-29T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": "https://fabtcg.com/en/products/booster-set/armory-deck-origins-jarl-vetreidi/",
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": "https://dhhim4ltzu1pj.cloudfront.net/media/images/jarl_logo.original.png"
             }
         ]
     },
