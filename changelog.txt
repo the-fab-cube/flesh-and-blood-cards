@@ -774,3 +774,5 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 10-17-24:
 - Fixed issue with Mistcloak Gully not being marked as Played Horizontally
 - Fixed issue with Crumble to Eternity and Unforgetting Unforgiving not referencing Jarl Vetreiði
+- Fixed missing granted keyword Dominate on Crumble to Eternity
+- Added images for AJV001, AJV013, AJV017, and AJV018
