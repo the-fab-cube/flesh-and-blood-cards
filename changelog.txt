@@ -770,3 +770,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data for AJV001, AJV011, AJV013, AJV017, AJV018
 - Added card reference data for Channel Mount Isen, Jarl Vetreiði, and Unforgetting Unforgiving
 - Added set info for AJV
+
+10-17-24:
+- Fixed issue with Mistcloak Gully not being marked as Played Horizontally
