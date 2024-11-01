@@ -1,4 +1,45 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	LL Legal
+nkBnGcCDpf9KHChtrrN6b	Arakni, 5L!p3d 7hRu 7h3 cR4X					38	4		Chaos, Assassin, Hero				Go again		Stealth	The first attack with **stealth** each turn gets **go again**.	Chaos Assassin Hero					
+NFwCqzTPKgDMPwMdFhbP7	Art of the Dragon: Claw	1	1	5					Ninja, Action, Attack							"When this attacks, if it is Draconic, it gets ""When this hits a hero, destroy all cards in their arsenal."""	Ninja Action - Attack					
+KrwdmQ7RpjpPhf8Hmg6ct	Art of the Dragon: Fire	1	1	5					Ninja, Action, Attack							When this attacks, if it is Draconic, deal 2 damage to any target.	Ninja Action - Attack					
+cNjtmFrD8bMPtTfgzmcJf	Art of the Dragon: Scale	1	1	5					Ninja, Action, Attack							"When this attacks, if it is Draconic, it gets ""When this hits a hero, put a -1{d} counter on an equipment they control. Then if it has 0{d}, destroy it."""	Ninja Action - Attack					
+RbpzqdWTwMQDRTpNhwdtp	Jagged Edge	1	1		3				Warrior, Attack Reaction							"Target weapon attack gets +3{p} and ""Damage this would deal can't be prevented."""	Warrior Attack Reaction					
+G8kKjJCFCz6GMTWhQkdzT	Flurry Stance	1	0		3				Warrior, Action, Aura	Go again						"**Go again**
+
+At the start of your turn, destroy this, then you may attack with each dagger you control an additional time this turn."	Warrior Action - Aura					
+DfHHPcLzbncDMhkJgQKKm	Agility Stance	2	0		3				Warrior, Action, Aura	Go again			Go again			"**Go again**
+
+At the start of your turn, destroy this, then your dagger attacks get **go again** this turn."	Warrior Action - Aura					
+qFzrQChhnbgNcnQ7d9tKW	Power Stance	3	0		3				Warrior, Action, Aura	Go again						"**Go again**
+
+At the start of your turn, destroy this, then your dagger attacks get +1{p} this turn."	Warrior Action - Aura					
+BfCHDqCQHfNgqQGckhq7d	Tarantula Toxin	1	0		3				Assassin, Attack Reaction							"Choose 1 or both;
+
+* Target dagger attack gets +3{p}.
+* Target card defending an attack with stealth gets -3{d} this turn."	Assassin Attack Reaction					
+PtT7qcpC9QCBBMq6mHP88	Blood Runs Deep	1	2	2	3				Draconic, Ninja, Action, Attack							"This costs {r} less to play for each Draconic chain link you control.
+
+When this attacks a hero, each dagger you control deals 1 damage to them. If damage is dealt this way, the dagger has hit. Destroy the daggers.
+
+**Go again**"	Draconic Ninja Action - Attack					
+969HqThPzMmQtFhM9mNq8	Long Whisker Loyalty	1	0		3				Draconic, Warrior, Attack Reaction							"For each Draconic chain link you control, choose 1;
+
+* Target dagger attack gains +2{p}.
+* You may attack with target dagger an additional time this turn.
+* The next time target dagger hits a hero this turn, **mark** them."	Draconic Warrior Attack Reaction					
+JBQPqNK9TGWNHD9NKmKTh	For the Dracai	1	0	4	3				Draconic, Action, Attack						Mark	When this attacks a **marked** hero, create a Fealty token.	Draconic Action - Attack					
+kfQHGNNdKjPpG8nWkfB9P	For the Emperor	1	1	5	3				Draconic, Action, Attack						Mark	When this attacks a **marked** hero, create a Fealty token.	Draconic Action - Attack					
+bFDwJwbqJQPJpcnHRjLCj	For the Realm	1	2	6	3				Draconic, Action, Attack						Mark	When this attacks a **marked** hero, create a Fealty token.	Draconic Action - Attack					
+WtHNCTfp87TNpG7jLRKFR	Defang the Dragon	1	0	3	3				Assassin, Action, Attack	Stealth, Contract					Mark	"**Stealth**
+
+**Contract** - You are contracted to hit a **marked** hero named Fang. Whenever you complete this contract, draw a card."	Assassin Action - Attack					
+CzcCpTjr7dMR96NzwhLdk	Extinguish the Flames	1	0	3	3				Assassin, Action, Attack	Stealth, Contract					Mark	"**Stealth**
+
+**Contract** - You are contracted to hit a **marked** hero named Cindra. Whenever you complete this contract, draw a card."	Assassin Action - Attack					
+G7WBwbd7TnnMMp8R9tkMw	Proclaim Vengeance	1	0						Draconic, Instant	Mark						**Mark** target opposing hero. If that hero is Arakni, gain {r}.	Draconic Instant					
+n9FtLHDg97rfrTNJDMBG6	Fealty								Draconic, Token, Aura							**Instant** - Destroy this: The next card you play this turn is Draconic. At the beginning of your end phase, if you haven't created a Fealty token or played a Dragonic card this turn, destroy this.	Draconic Token - Aura					
+GpCFNqmnBGdcrgqPHQMGC	Art of the Dragon: Blood	1	0	4	3				Ninja, Action, Attack							When this attacks, if it is Draconic, it gets **go again** and the next 3 Draconic cards you play this turn cost {r} less to play.	Ninja Action - Attack					
+d7MHfCqtjhKzp6cLRJQCQ	Marked									Mark						You are **marked** until an opponent hits you			No	No	No	No
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3				Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
