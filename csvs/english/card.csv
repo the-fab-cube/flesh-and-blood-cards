@@ -4917,7 +4917,7 @@ hw6qHfWdqQGfRPfKJMgR7	Oldhim					20	4		Elemental, Guardian, Hero, Young	Essence 
 bh96L8jp69mNpjcGRCDbj	Oldhim, Grandfather of Eternity					40	4		Elemental, Guardian, Hero	Essence of Earth and Ice	Once per Turn Defense Reaction					"**Essence of Earth and Ice**
 
 **Once per Turn Defense Reaction** - {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck."	Elemental Guardian Hero		No		No	
-W89dCjCrz8cQKd78zHFBR	Ollin Ice Cap				1				Ice Guardian Equipment - Head	Blade Break						"When this defends together with an Ice card, create a Frostbite token under the attacking hero's control.
+W89dCjCrz8cQKd78zHFBR	Ollin Ice Cap				1				Ice, Guardian, Equipment, Head	Blade Break						"When this defends together with an Ice card, create a Frostbite token under the attacking hero's control.
 
 **Blade Break**"	Ice Guardian Equipment - Head				No	
 t7H7JCQcTb9TTjjCbNwDH	Olympia					20	4		Warrior, Hero, Young						Wager	The first time each of your attacks wins a **wager**, create a Gold token.	Warrior Hero - Young			No		No
@@ -7720,7 +7720,7 @@ HzqwtHgqqtMcCLcCGnQP9	Tear Through the Portal	3	0		2				Shadow, Action	Go again	
 hwnbrjRKLGTmzF8wf6QDH	Tearing Shuko				1				Ninja, Equipment, Arms	Battleworn	Instant					"**Instant** - Destroy this: The next Crouching Tiger you play this turn gains +2{p}.
 
 **Battleworn**"	Ninja Equipment - Arms					
-gjCz8rLDrG7h7MQpBwGHz	Tectonic Crust				2				Earth Guardian Equipment - Chest	Temper						"When this defends together with an Earth card, create a Seismic Surge token.
+gjCz8rLDrG7h7MQpBwGHz	Tectonic Crust				2				Earth, Guardian, Equipment, Chest	Temper						"When this defends together with an Earth card, create a Seismic Surge token.
 
 **Temper**"	Earth Guardian Equipment - Chest				No	
 TN6DmN7GK9DtMKd9pnmwF	Tectonic Plating				2				Guardian, Equipment, Chest	Battleworn						"**Once per turn Action** - {r}: Create a Seismic Surge aura token. **Go again**
