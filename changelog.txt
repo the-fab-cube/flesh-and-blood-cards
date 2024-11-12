@@ -777,9 +777,15 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed missing granted keyword Dominate on Crumble to Eternity
 - Added images for AJV001, AJV013, AJV017, and AJV018
 
-12-07-24:
+11-07-24:
 - Added card data for `Summit, the Unforgiving`, Ollin Ice Cap, Tectonic Crust, Gauntlets of the Boreal Domain, Root-Bound Trunks, and Frozen to Death
 - Added printing data for AJV002-AJV007 and AJV002
 - Added card reference data for `Summit, the Unforgiving`, Ollin Ice Cap, Tectonic Crust, Gauntlets of the Boreal Domain, Root-Bound Trunks, and Frozen to Death
 - Added Polearm type
 - Added Heavy keyword
+
+11-11-24:
+- Updated Blitz Legality for Belittle, Hadron Collider, and Zen
+- Updated CC Legality for High Octane and Count Your Blessings (Blue)
+- Updated Commoner Legality for Aether Ironweave
+- Update LL Legality for Open the Flood Gates and Star Struck
