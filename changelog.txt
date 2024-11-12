@@ -789,3 +789,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated CC Legality for High Octane and Count Your Blessings (Blue)
 - Updated Commoner Legality for Aether Ironweave
 - Update LL Legality for Open the Flood Gates and Star Struck
+- Fixed issue with Star Fall (ROS009 Cold Foil), Staff of Verdant Shoots (ROS015 Cold Foil), and `Volzar, the Lightning Rod` (ROS021 Cold Foil) having the incorrect TCGPlayer ID - bug notice credit: manwaring
+- Fixed issue with Civic Guide, Civic Steps, Deathly Delight, and Deathly Wail having the incorrect artists - bug notice credit: manwaring
+- Updated images for DTD143-DTD148
+- Fixed issue with ASB016 having the wrong rarity - bug notice credit: manwaring
+- Update functional text for Boltyn and `Ser Boltyn, Breaker of Dawn` - notice credit: manwaring
