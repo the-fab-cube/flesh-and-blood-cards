@@ -62,5 +62,13 @@
         "date_announced": "2023-12-18T00:00:00.000Z",
         "date_in_effect": "2023-12-22T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-eoy/"
+    },
+    {
+        "unique_id": "RNHfpPfw8MC8RptftQb7k",
+        "card_unique_id": "wd9TtjtPGfbWKQPprJfj9",
+        "status_active": true,
+        "date_announced": "2024-11-11T00:00:00.000Z",
+        "date_in_effect": "2024-11-11T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-11-11-24/"
     }
 ]

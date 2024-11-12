@@ -310,5 +310,21 @@
         "date_announced": "2024-09-03T00:00:00.000Z",
         "date_in_effect": "2024-09-09T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/en/articles/banned-and-restricted-announcement-sep02/"
+    },
+    {
+        "unique_id": "jpCQ8p9gfCwdrT6dQJb9H",
+        "card_unique_id": "BF7rFRwnNckBK8cMGpKHH",
+        "status_active": true,
+        "date_announced": "2024-11-11T00:00:00.000Z",
+        "date_in_effect": "2024-11-11T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-11-11-24/"
+    },
+    {
+        "unique_id": "NCW8MRqLHwNGzh9qT8wBb",
+        "card_unique_id": "7c9ChFNmpbPDdgD7DNKth",
+        "status_active": true,
+        "date_announced": "2024-11-11T00:00:00.000Z",
+        "date_in_effect": "2024-11-11T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-11-11-24/"
     }
 ]

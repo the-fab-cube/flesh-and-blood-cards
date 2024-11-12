@@ -926,7 +926,7 @@ qrRLQz7cjpKL6dGrjnbDp	Bolt'n' Shot	1	0	4	3				Ranger, Action, Arrow, Attack	Go a
 rD7Jt7QKft9cPBKgjmTNq	Bolt'n' Shot	2	0	3	3				Ranger, Action, Arrow, Attack	Go again, Reload						"If Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and ""If this hits, **reload.**"""	Ranger Action - Arrow Attack				No	
 fCNzFrbKLkdgtrnMdp7D8	Bolt'n' Shot	3	0	2	3				Ranger, Action, Arrow, Attack	Go again, Reload						"If Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and ""If this hits, **reload.**"""	Ranger Action - Arrow Attack				No	
 76KHBFmKK6NdFdc7zcmHk	Bolting Blade	2	4	7	3				Light, Warrior, Action, Attack						Charge	Bolting Blade costs {r}{r} less to play for each time you've **charged** this turn.	Light Warrior Action - Attack				No	
-Fmf8trg9w8B8BBbWrf8w9	Boltyn					20	4		Light, Warrior, Hero, Young		Attack Reaction		Go again		Charge	"If you've **charged** this turn, attacks you control have +1{p} while defended by an attack action card.
+Fmf8trg9w8B8BBbWrf8w9	Boltyn					20	4		Light, Warrior, Hero, Young		Attack Reaction		Go again		Charge	"If you've **charged** this turn, your attacks get +1{p} while defended by an attack action card.
 
 **Attack Reaction** - Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains **go again**."	Light Warrior Hero - Young			No		No
 wJtCpBD9Hd8TzNRghPzFM	Bonds of Agony	3	0	1	3				Assassin, Action, Attack	Stealth						"**Stealth**
@@ -6653,7 +6653,7 @@ When Sekem attacks, you may banish a card from your hero's soul. If you do, deal
 **Ward 4**"	Light - Angel Ally				No	
 MDhfpQwtDBtKLhT6Cn7f7	Semblance	3	3						Illusionist, Instant					Phantasm	Phantasm	Negate all **phantasm** triggered effects of target Illusionist attack you control. The attack loses and can't gain **phantasm**.	Illusionist Instant				No	
 WQtbdGwPbtmLmmkRjQzqj	Send Packing	2	3	6	3				Brute, Action, Attack							When this attacks a hero, banish a card from their arsenal. When the chain link resolves, if this didn't hit, return the banished card to its owner's hand.	Brute Action - Attack				No	
-QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breaker of Dawn					40	4		Light, Warrior, Hero		Attack Reaction		Go again		Charge	"If you've **charged** this turn, attacks you control have +1{p} while defended by an attack action card.
+QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breaker of Dawn					40	4		Light, Warrior, Hero		Attack Reaction		Go again		Charge	"If you've **charged** this turn, your attacks get +1{p} while defended by an attack action card.
 
 **Attack Reaction** - Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains **go again**."	Light Warrior Hero		No		No	
 JzbrzpFDKnwQJfD7h8CkQ	Shaden Death Hydra	2	6	13	3				Shadow, Brute, Action, Attack	Blood Debt					Blood Debt	"When this attacks, it deals X damage to you, where X is 13 minus the number of cards with **blood debt** in your banished zone.
