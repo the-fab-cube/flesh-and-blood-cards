@@ -795,5 +795,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed issue with ASB016 having the wrong rarity - bug notice credit: manwaring
 - Update functional text for Boltyn and `Ser Boltyn, Breaker of Dawn` - notice credit: manwaring
 
+11-12-24:
+- Fixed issue with types for Ollin Ice Cap and Tectonic Crust - bug notice credit: Aegisworn
+
 TODO:
 - Added card data for HNT
