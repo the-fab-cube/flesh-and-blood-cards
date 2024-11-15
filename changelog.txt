@@ -797,3 +797,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 11-12-24:
 - Fixed issue with types for Ollin Ice Cap and Tectonic Crust - bug notice credit: Aegisworn
+
+11-15-14:
+- Added printing data for LGS205-LGS211
