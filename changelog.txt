@@ -802,3 +802,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data and images for LGS205-LGS211
 - Added printing data for AJV002, AJV008-AJV010, AJV012, AJV014-AJV016, AJV019, and AJV021-AJV030
 - Added images for AJV002, AJV008-AJV010, AJV012, AJV014-AJV016, AJV019, and AJV020-AJV030
+
+11-23-14:
+- Added card data for Cracker Bauble and Spirit of Christmas
+- Added printing data for LGS337-LGS339, LGS355-LGS360, and LGS364-LGS368
