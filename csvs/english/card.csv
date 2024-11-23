@@ -1641,6 +1641,7 @@ BtzBqJcHbCptkMJMBchgQ	Courageous Steelhand	1	0		2				Light, Warrior, Attack Reac
 WKHF6LbqnjdPn6FrHDKcg	Courageous Steelhand	2	0		2				Light, Warrior, Attack Reaction						Charge	If you've **charged** this turn, target attack gains +2{p}.	Light Warrior Attack Reaction					
 fdTHJDGRFHhBhjmFKfkHp	Courageous Steelhand	3	0		2				Light, Warrior, Attack Reaction						Charge	If you've **charged** this turn, target attack gains +1{p}.	Light Warrior Attack Reaction					
 Dbhn6rRcrbdRnKbqdPdwh	Cracked Bauble	2							Generic, Resource							*(Cracked Bauble exists to support Booster Draft and sealed Deck formats. A player may add any number of Cracked Baubles to their deck. Typically, a player would only do this if they did not have enough legally playable cards to make a 30 card minimum deck.)*	Generic Resource					
+FzFpckchjNncjDCnzQ7Tp	Cracker Bauble	2	0						Generic, Resource							When this is pitched, you and target opponent randomly choose opposite ends of this and pull them until this breaks in half. Then each hero creates the token on the back of their half, and this ceases to exist.	Generic Resource		No	No	No	No
 tbc6PrGdmPnPJkbN9DW9q	Cracker Jax				0				Generic, Equipment, Arms		Action	Go again				**Action** - Destroy Cracker Jax: The next attack action card you play this turn gains +1{p}. **Go again**	Generic Equipment - Arms					
 tmNrkK9dghWBkfmgLH7MG	Crackling	1	0	3	3				Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, this gets +1{p}.	Elemental Runeblade Action - Attack					
 DKNCGmjBWngRMjmTCbKLr	Crackling	2	0	2	3				Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, this gets +1{p}.	Elemental Runeblade Action - Attack					
@@ -7312,6 +7313,9 @@ wdbnJz7TQDCJ6gWW7WNch	Spinning Wheel Kick	3	1	2	2				Ninja, Action, Attack	Combo
 Ngbkbt7KfrCHnQkTPJRb8	Spire Sniping	1	1	5	3				Ranger, Action, Arrow, Attack							When Spire Sniping is put or turned face up in arsenal, look at the top 2 cards of your deck, then put them back in any order.	Ranger Action - Arrow Attack					
 bN6pjwhzgGhMm8brnpPg9	Spire Sniping	2	1	4	3				Ranger, Action, Arrow, Attack							When Spire Sniping is put or turned face up in arsenal, look at the top 2 cards of your deck, then put them back in any order.	Ranger Action - Arrow Attack					
 mPJPLJJrjTgtK9PkhWCqb	Spire Sniping	3	1	3	3				Ranger, Action, Arrow, Attack							When Spire Sniping is put or turned face up in arsenal, look at the top 2 cards of your deck, then put them back in any order.	Ranger Action - Arrow Attack					
+bQ8GJhJQwBd9JRFkcJQqG	Spirit of Christmas	3	0		3				Generic, Action	Go again						"Each hero chooses another hero. The chosen hero creates an Agility, Might, Vigor, and Gold token.
+
+**Go again**"	Generic Action		No	No	No	No
 hcRgHbGGNmwCTQMBF6CQh	Spirit of Eirina	2	0						Light, Warrior, Action, Item	Legendary						"**Legendary**
 
 If Spirit of Eirina would be put into your soul, instead put it into the arena.
