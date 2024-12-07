@@ -2396,6 +2396,7 @@ dJhftDhtgzGRMPCt7btf9	En Garde	1	1		3				Warrior, Action	Go again						"Your nex
 dzMtpNHjPcPNCFFkrR9QJ	Encase	1	0		3			3	Elemental, Wizard, Action	Ice Fusion			Freeze			"**Ice Fusion**
 
 Deal 3 arcane damage to any target. If Encase was **fused** and deals damage to a hero, **freeze** that hero and all equipment they control until the start of your next turn."	Elemental Wizard Action				No	
+CWPHzh8wWpWNgwmQWgt7C	Enchanted Quiver								Ranger, Equipment, Quiver							**Instant** - Destroy this: Prevent the next 1 arcane damage that would be dealt to you this turn. If there is a face-up arrow in your arsenal, instead prevent the next 2.	Ranger Equipment - Quiver				No	
 cjpL88F8RRRbwDm8bwqqJ	Enchanting Melody	1	2		2				Generic, Action, Aura	Go again						"**Go again**
 
 If your hero would be dealt damage, instead destroy Enchanting Melody and prevent 4 damage that source would deal.
@@ -5994,6 +5995,9 @@ cFpmN9tpMR8cLKDzkNtzz	Restless Coalescence	2	0						Illusionist, Instant, Aura	W
 **Once per Turn Instant** - Remove a +1{p} counter from this: Create a Spectral Shield token.
 
 **Ward 2**"	Illusionist Instant - Aura				No	
+RTbHRmf96T8Pz7MD7KLc7	Retrace the Past	3	0	2	3				Ninja, Action, Attack	Katsu Specialization, Combo						"**Katsu Specialization**
+
+**Combo** - When this attacks, if a card with Gustwave in its name was the last attack this combat chain, name a card, then this gets that name, +2{p}, and **go again**."	Ninja Action - Attack				No	
 HckWC8fcRWrtzDGbzkNBJ	Rev Up	1	3	6	3				Mechanologist, Action, Attack	Boost						"If you control a Hyper Driver, this costs {r} less to play.
 
 **Boost**"	Mechanologist Action - Attack					
