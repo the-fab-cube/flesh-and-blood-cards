@@ -1389,12 +1389,12 @@ The next card you play this turn with an effect that deals arcane damage, instea
 tPLBbjkQQmCJRD9f8f7qm	Cinderskin Devotion	1	1	4	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Cinderskin Devotion has **go again**.	Draconic Ninja Action - Attack					
 nJfhFcQjghnHnfbGkd6jW	Cinderskin Devotion	2	1	3	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Cinderskin Devotion has **go again**.	Draconic Ninja Action - Attack					
 tWNrwHgH8LJbC8ndwkwPz	Cinderskin Devotion	3	1	2	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Cinderskin Devotion has **go again**.	Draconic Ninja Action - Attack					
-HRtHpngjPbHNKCFMbJw7m	Cindra, Dracai of Retribution					40	4		Royal, Draconic, Ninja, Hero		Once per Turn Instant				Mark	"Whenever you hit a **marked** hero, create a Fealty token.
-
-**Once per Turn Instant** - {r}{r}{r}: Equip up to 2 Draconic daggers from your graveyard. This costs {r} less to activate for each Draconic chain link you control."	Royal Draconic Ninja Hero		No		No	
 m7hWTmtRzJnrtqtfLLR6M	Cindra					20	4		Royal, Draconic, Ninja, Hero, Young		Once per Turn Instant				Mark	"Whenever you hit a **marked** hero, create a Fealty token.
 
 **Once per Turn Instant** - {r}{r}{r}: Equip up to 2 Draconic daggers from your graveyard. This costs {r} less to activate for each Draconic chain link you control."	Royal Draconic Ninja Hero - Young			No		
+HRtHpngjPbHNKCFMbJw7m	Cindra, Dracai of Retribution					40	4		Royal, Draconic, Ninja, Hero		Once per Turn Instant				Mark	"Whenever you hit a **marked** hero, create a Fealty token.
+
+**Once per Turn Instant** - {r}{r}{r}: Equip up to 2 Draconic daggers from your graveyard. This costs {r} less to activate for each Draconic chain link you control."	Royal Draconic Ninja Hero		No		No	
 PpwQBBjqmBbgBrKMPbbBr	Cintari Saber			2					Warrior, Weapon, Sword, 1H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 Whenever Cintari Saber is defended by 1 or more attack action cards, it gains +1{p} until end of turn."	Warrior Weapon - Sword (1H)					
@@ -1719,6 +1719,13 @@ qh8pckPwPHDHtPFj7tztn	Crush the Weak	1	3	7	3				Guardian, Action, Attack	Crush		
 M8JWqJCWzWJWnbKQ7BjG6	Crush the Weak	2	3	6	3				Guardian, Action, Attack	Crush						**Crush** - If Crush the Weak deals 4 or more damage to a hero, they can't play attack action cards with 3 or less base {p} during their next action phase.	Guardian Action - Attack					
 m76gcHbBbBpjQnJgHpbQq	Crush the Weak	3	3	5	3				Guardian, Action, Attack	Crush						**Crush** - If Crush the Weak deals 4 or more damage to a hero, they can't play attack action cards with 3 or less base {p} during their next action phase.	Guardian Action - Attack					
 JfndQHGQ9CTQ8FPcFC6RH	Cryptic Crossing	2	3	6	3				Runeblade, Action, Attack							"If an attack action card and a 'non-attack' action card were pitched to play Cryptic Crossing, it has ""The first time this deals damage to the defending hero, they discard a card and you draw a card."""	Runeblade Action - Attack				No	
+7RhQ7rthWCfHkgfdHFFJm	Cull	1	0		3				Shadow, Runeblade, Action	Blood Debt						"You may play this from your banished zone.
+
+If a hero has lost {h} this turn, you may play this as thought it were an instant.
+
+Each hero banishes a card from their hand.
+
+**Blood Debt**"	Shadow, Runeblade, Action				No	
 bN7nrfGCGqKNJMWzDNBb9	Current Funnel	3	0	2	3				Lightning, Action, Attack	Go again			Go again			If the last action card you played this turn was Lightning, this and the next action card you play this turn get **go again**.	Lightning Action - Attack				No	
 wb9JwfqjqdfgtdKBDmtbw	Cut Down to Size	1	2	6	2				Generic, Action, Attack							When this hits a hero, if they have 4 or more cards in hand, they discard a card.	Generic Action - Attack					
 gGnD9FWMjp89q8PGwThGr	Cut Down to Size	2	2	5	2				Generic, Action, Attack							When this hits a hero, if they have 4 or more cards in hand, they discard a card.	Generic Action - Attack					
@@ -6082,6 +6089,9 @@ WjTbCjjCgPncF9w7WH9Q8	Righteous Cleansing	2	7	10	3				Guardian, Action, Attack	C
 FDktk7t9NkNdLDQQhCPBR	Riled Up	1	3	7	3				Brute, Action, Attack							If you've discarded a card with 6 or more {p} this turn, this gets +1{p}.	Brute Action - Attack					
 B9HmMb6jB9M8kWFLH86fT	Riled Up	2	3	6	3				Brute, Action, Attack							If you've discarded a card with 6 or more {p} this turn, this gets +1{p}.	Brute Action - Attack					
 gnjKkBhQtpnDgQ6Q6KD9G	Riled Up	3	3	5	3				Brute, Action, Attack							If you've discarded a card with 6 or more {p} this turn, this gets +1{p}.	Brute Action - Attack					
+qCzFmGMk9nBPJPWMwdL97	Ring of Roses	2	0		3				Earth, Wizard, Action, Aura	Legendary, Verdance Specialization						"**Legendary Verdance Specialization**
+
+The first time you deal arcane damage each turn, gain 1{h}."	Earth Wizard Action - Aura				No	
 9dRcPdjTTpWLNzbfhJwqB	Rip Through Reality	1	2	4	3				Shadow, Runeblade, Action, Attack	Go again, Blood Debt						"You may play Rip Through Reality from your banished zone.
 
 If you have dealt arcane damage to an opposing hero this turn, Rip Through Reality gains **go again**.
