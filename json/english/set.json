@@ -161,6 +161,27 @@
         ]
     },
     {
+        "unique_id": "QhLgwK96z8KFMrnWHWD8G",
+        "id": "ARK",
+        "name": "Arakni Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "rjjNJ8JcpGzwbrzmWNTb9",
+                "edition": "N",
+                "start_card_id": "ARK007",
+                "end_card_id": "ARK007",
+                "initial_release_date": "2025-01-31T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "gmPW6zdL8Fkcd7T6Fghdb",
         "id": "ASB",
         "name": "Armory Deck Boltyn",
