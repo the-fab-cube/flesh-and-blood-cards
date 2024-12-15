@@ -229,7 +229,13 @@ At the start of your turn, destroy this."	Mystic Equipment - Head
 9F7RHWjLgCDRqwMww99GN	Arakni					20	4		Assassin, Hero, Young							Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.	Assassin Hero - Young			No		No
 nkBnGcCDpf9KHChtrrN6b	Arakni, 5L!p3d 7hRu 7h3 cR4X					38	4		Chaos, Assassin, Hero				Go again		Stealth	The first attack with **stealth** each turn gets **go again**.	Chaos Assassin Hero					
 CKtFCgnGdwMDBh7dzDqqz	Arakni, Huntsman					40	4		Assassin, Hero							Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.	Assassin Hero				No	
+rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionette					40	4		Chaos, Assassin, Hero				Go again		Stealth, Mark	"Your attacks with **stealth** that are attacking a **marked** hero get +1{p} and ""When this hits, this gets **go again**.""
+
+At the beginning of your end phase, if an opponent is **marked**, you become a random Agent of Chaos."	Chaos Assassin Hero		No		No	
 jkwfjdcDbhRnDrPWDnwT9	Arakni, Solitary Confinement					19	4		Assassin, Hero, Young				Go again		Stealth	Your first attack with **stealth** each turn has **go again**.	Assassin Hero - Young			No		No
+qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit					20	4		Chaos, Assassin, Hero, Young				Go again		Stealth, Mark	"Your attacks with **stealth** that are attacking a **marked** hero get +1{p} and ""When this hits, this gets **go again**.""
+
+At the beginning of your end phase, if an opponent is **marked**, you become a random Agent of Chaos."	Chaos Assassin Hero - Young			No		No
 hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	2	6						Light, Illusionist, Instant, Aura	Prism Specialization, Spectra						"**Prism Specialization**
 
 Opponents may only select Arc Light Sentinel as the target of an attack.
@@ -1275,6 +1281,7 @@ This enters the arena with 2 steam counters. At the start of your turn, destroy 
 bBtWcpCjGqkMMkwqwgtRT	Chain Lightning	2	1		3			3	Wizard, Action							"You may play your next Wizard 'non-attack' action card this turn as though it were an instant.
 
 If you have played another Wizard 'non-attack' action card this turn, deal 3 arcane damage to each opposing hero."	Wizard Action				No	
+9j8NKt8hTkdwGPgrdcQrp	Chain Reaction	2	0		3				Ranger, Defense Reaction, Trap						Go again	When this defends an attack with **go again**, you may turn a non-attack action card in your arsenal face-up. If you do, you may play it this turn as though it were an instant.	Ranger Defense Reaction - Trap				No	
 kmWrWK6PhLjLdr86QDDWP	Chains of Eminence	1	0		2				Generic, Action, Aura	Go again						"**Go again**
 
 When Chains of Eminence enters the arena, name a card. The named card can't be pitched, played or used to defend while Chains of Eminence is in the arena.
@@ -1391,7 +1398,7 @@ nJfhFcQjghnHnfbGkd6jW	Cinderskin Devotion	2	1	3	3				Draconic, Ninja, Action, At
 tWNrwHgH8LJbC8ndwkwPz	Cinderskin Devotion	3	1	2	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Cinderskin Devotion has **go again**.	Draconic Ninja Action - Attack					
 m7hWTmtRzJnrtqtfLLR6M	Cindra					20	4		Royal, Draconic, Ninja, Hero, Young		Once per Turn Instant				Mark	"Whenever you hit a **marked** hero, create a Fealty token.
 
-**Once per Turn Instant** - {r}{r}{r}: Equip up to 2 Draconic daggers from your graveyard. This costs {r} less to activate for each Draconic chain link you control."	Royal Draconic Ninja Hero - Young			No		
+**Once per Turn Instant** - {r}{r}{r}: Equip up to 2 Draconic daggers from your graveyard. This costs {r} less to activate for each Draconic chain link you control."	Royal Draconic Ninja Hero - Young			No		No
 HRtHpngjPbHNKCFMbJw7m	Cindra, Dracai of Retribution					40	4		Royal, Draconic, Ninja, Hero		Once per Turn Instant				Mark	"Whenever you hit a **marked** hero, create a Fealty token.
 
 **Once per Turn Instant** - {r}{r}{r}: Equip up to 2 Draconic daggers from your graveyard. This costs {r} less to activate for each Draconic chain link you control."	Royal Draconic Ninja Hero		No		No	
@@ -2818,7 +2825,7 @@ MgM8rpdGfh97ChtG7RQ9L	Falcon Wing	3	0	1	3				Ranger, Action, Arrow, Attack	Go ag
 **Go again**"	Ranger Action - Arrow Attack					
 RBcRMcBrm89m6pcTDQnP9	Fang					20	4		Royal, Draconic, Warrior, Hero, Young						Mark	"Whenever you hit a **marked** hero, create a Fealty token.
 
-If you control 3 or more Fealty tokens, dagger attacks cost you {r} less to activate."	Royal Draconic Warrior Hero - Young			No		
+If you control 3 or more Fealty tokens, dagger attacks cost you {r} less to activate."	Royal Draconic Warrior Hero - Young			No		No
 QqDQKkgCz9TM6HDgFkqcL	Fang Strike		0						Mystic, Assassin, Attack Reaction	Ephemeral						"**Ephemeral**
 
 Target attack action card gets +1{p}."	Mystic Assassin Attack Reaction					
@@ -6215,6 +6222,9 @@ CKdtt7jhNp8DK9QzCqGkz	Robe of Rapture				0				Wizard, Equipment, Chest	Arcane Ba
 tJgBqNwrFDtHPqpzftbMj	Rockslide Trap	3	0		2				Ranger, Defense Reaction, Trap							"Rockslide Trap can only be played from arsenal.
 
 When this defends, target attack gets -2{p}, unless the attacking hero pays {r}."	Ranger Defense Reaction - Trap				No	
+g7hQcmhpwWdKzkj7NtgLp	Roiling Fissure	3	X1		3				Guardian, Action	Go again						"Destroy an aura with cost X or less, then you may destroy a Seismic Surge you control. If you do, repeat this process.
+
+**Go again**"	Guardian Action				No	
 KrjrwRtnjcK7hNhcBdH9h	Rok			7					Brute, Weapon, Rock, 2H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}{r}: **Attack**
 
 Activate Rok only if you have no cards in hand.
@@ -7902,6 +7912,7 @@ When Themis attacks, you may banish a card from your hero's soul. If you do, tur
 
 **Ward 4**"	Light - Angel Ally				No	
 DbqmMdc6Mw9jGpPQBcwRd	Theryon, Magister of Justice					20	4		Light, Adjudicator, Hero							The first time each turn another hero destroys a card they don't control, you may pay {r}{r}. If you do, they destroy a non-hero permanent they control.	Light Adjudicator Hero		No	No	No	No
+QDH7qtJbC6HLbqnGzDBkR	Thick Hide Hunter	2	2	6	6				Brute, Action, Attack							When this attacks or defends, discard a random card.	Brute Action - Attack				No	
 RHLWQrrJnTDMjfMjpf9m8	This Round's on Me	3	1		3				Generic, Action	Go again						"Each hero draws a card.
 
 Until the start of your next turn, attacks that target you have -1{p}.
@@ -8104,6 +8115,9 @@ dgBPpWggJ6wkFQG8t9Jqc	Traverse the Universe				2				Mystic, Equipment, Head	Blad
 hwndKRTjTJtn9FwFhMNWK	Tremor of íArathael	1	1	4	2				Generic, Action, Attack							If a card has been put into your banished zone this turn, Tremor of íArathael gains +2{p}.	Generic Action - Attack				No	
 6mmfrKtTWkcBJDcphpLdc	Tremor of íArathael	2	1	3	2				Generic, Action, Attack							If a card has been put into your banished zone this turn, Tremor of íArathael gains +2{p}.	Generic Action - Attack				No	
 gpbqrrjM8cpnFbm8dLcKz	Tremor of íArathael	3	1	2	2				Generic, Action, Attack							If a card has been put into your banished zone this turn, Tremor of íArathael gains +2{p}.	Generic Action - Attack				No	
+mwWqPrQzL7fmQkzCFfttc	Tremorshield Sabatons				1				Guardian, Equipment, Legs	Blade Break	Instant					"**Instant** - Destroy this: Prevent the next 1 arcane damage that would be dealt to you this turn. If you've controlled a Seismic Surge token this turn, instead prevent the next 2.
+
+**Blade Break**"	Guardian Equipment - Legs				No	
 rmTKDcDNJrDFRMdKrRmdH	Trench of Sunken Treasure				1				Ranger, Equipment, Chest	Arcane Barrier 1, Blade Break	Instant					"**Once per Turn Instant** - Put a face down card from your arsenal on the bottom of your deck: Gain {r}
 
 **Arcane Barrier 1**
@@ -8540,6 +8554,9 @@ FJjmNKzKjz7PLCpF8Bg8Q	Waning Vengeance	2	1						Mystic, Illusionist, Instant, Au
 Rhc9fGptBBhtNFDWbKGW8	Waning Vengeance	3	1						Mystic, Illusionist, Instant, Aura	Ward 1						"When this leaves the arena, if you've pitched a blue card this turn, create a Spectral Shield token.
 
 **Ward 1**"	Mystic Illusionist Instant - Aura					
+FCbzNdDDP9jrLfWCBPPdr	War Cry of Bellona	2	0		3				Light, Warrior, Attack Reaction		Instant					"Target Raydn gets +2{p} this turn.
+
+**Instant** - Discard this, banish X cards from your soul: The next time target weapon deals X or less damage to you this turn, deal that much damage to its controller and that damage can't be prevented."	Light Warrior Attack Reaction				No	
 h6MnCpMCpWw8jn6GL6TtD	War Machine	1	6	6	3				Mechanologist, Action, Attack	Overpower						"If you have 1 or more Evos equipped, this gets ""When this hits a hero, destroy all cards in their arsenal,""""
 
 - 2 or more, this costs {r}{r}{r} less to play,
