@@ -1,12 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	LL Legal
-LLJdk7zHFrCth9m68rmf6	The Hand that Pulls the Strings				4				Arakni, Mentor		Once per Turn Attack Reaction		Go again		Contract	"**Once per Turn Attack Reaction** - 0: Turn this face-up. Activate this only while this is face-down in your arsenal.
-
-While this is face-up in arsenal, your first attack with **contract** each turn gets **go again**. If it's attacking a Royal hero, it gets +1{p}.
-
-At the beginning of your end phase, destroy a Silver you control. If you don't, put this on the bottom of your deck and draw a card."	Arakni Mentor			No		No
-MfDRbDBGdmNDzQdNhHDqq	Spur Locked	3	0		3				Chaos, Action	Go again						"Each hero secretly chooses a number between 1 and 6, then those numbers are revealed. The hero that chose the highest number loses that much {h}, searches their deck for a card with cost less than or equal to the chosen number, reveales it, puts it in their hand, then shuffles.
-
-**Go again**"	Chaos Action				No	
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3				Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
@@ -5594,6 +5586,7 @@ kWMK7khntdgCmPBhqmkJ9	Proto Base Arms								Mechanologist, Equipment, Base, Arm
 cNNm9qpcDKNGdmMgr9htd	Proto Base Chest								Mechanologist, Equipment, Base, Chest								Mechanologist Equipment - Base Chest					
 MfJzLNc8CpcPLnpqfQGtN	Proto Base Head								Mechanologist, Equipment, Base, Head								Mechanologist Equipment - Base Head					
 nggPgQmcj9hBWttfDrKtn	Proto Base Legs								Mechanologist, Equipment, Base, Legs								Mechanologist Equipment - Base Legs					
+8W97NwL96dwBpfqDCWKrz	Provoke	3	1		3				Warrior, Attack Reaction							If you're attacking with a weapon this chain link, the defending hero reveals a card from their hand. If it's an action card, add it to this chain link as a defending card, otherwise they discard it.	Warrior Attack Reaction				No	
 zcrKbBF8hrk9bfG7cWWfF	Prowl	1	0	3	3				Assassin, Action, Attack	Stealth					Stealth	"**Stealth**
 
 The next attack with **stealth** you play this combat chain gains +1{p}."	Assassin Action - Attack					
@@ -7413,6 +7406,9 @@ If an item or equipment was banished from **boosting** this, this gets +1{p}."	M
 WbWjnqbPBLjTN8rnbHhDD	Sprocket Rocket	3	0	1	3				Mechanologist, Action, Attack	Boost						"**Boost**
  
 If an item or equipment was banished from **boosting** this, this gets +1{p}."	Mechanologist Action - Attack					
+MfDRbDBGdmNDzQdNhHDqq	Spur Locked	3	0		3				Chaos, Action	Go again						"Each hero secretly chooses a number between 1 and 6, then those numbers are revealed. The hero that chose the highest number loses that much {h}, searches their deck for a card with cost less than or equal to the chosen number, reveales it, puts it in their hand, then shuffles.
+
+**Go again**"	Chaos Action				No	
 czfMfgfthg6qKLtKBMQjD	Squizzy & Floof					20	4		Merchant, Hero, Young							At the start of each opposing hero's turn, they may create a Cracked Bauble in their hand. If they do, you create a Gold token.	Merchant Hero - Young		No	No	No	No
 kGnRg6Kgz9P68LnjncPGj	Stab Wound	3	0	2	3				Assassin, Ninja, Action, Attack							When this hits a hero, they lose X{h}, where X is the number of times a dagger has hit this combat chain.	Assassin / Ninja Action - Attack				No	
 jW9jRfpRdt7tWjpdNCTCz	Stacked in Your Favor	1	2		2				Guardian, Action, Aura	Go again						"**Go again**
@@ -7909,6 +7905,11 @@ DgHLhRDccpLbjGT9nN8Jm	The Grain that Tips the Scale	3	0						Mystic, Instant	Leg
 Target attack gets +1{p}.
 
 If you've played another blue card this turn, **transcend**."	Mystic Instant					
+LLJdk7zHFrCth9m68rmf6	The Hand that Pulls the Strings				4				Arakni, Mentor		Once per Turn Attack Reaction		Go again		Contract	"**Once per Turn Attack Reaction** - 0: Turn this face-up. Activate this only while this is face-down in your arsenal.
+
+While this is face-up in arsenal, your first attack with **contract** each turn gets **go again**. If it's attacking a Royal hero, it gets +1{p}.
+
+At the beginning of your end phase, destroy a Silver you control. If you don't, put this on the bottom of your deck and draw a card."	Arakni Mentor			No		No
 QcgncKTnLcdGKQnwDjqdz	The Librarian				3				Illusionist, Mentor						Specialization	"While The Librarian is face down in arsenal, at the start of your turn, you may turn him face up.
 
 While The Librarian is face up in arsenal, once per turn when you create a Spectral Shield token, draw a card and put a lesson counter on The Librarian. Then if there are 3 or more lesson counters on him, banish him, search your deck for a **specialization** card, put it face up into arsenal, and shuffle."	Illusionist Mentor			No	No	No
