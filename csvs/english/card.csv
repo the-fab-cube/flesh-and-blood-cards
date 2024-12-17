@@ -228,6 +228,9 @@ NbbDrzwLMP7CH69PHcWfK	Aqua Seeing Shell				1				Mystic, Equipment, Head	Cloaked	
 At the start of your turn, destroy this."	Mystic Equipment - Head					
 9F7RHWjLgCDRqwMww99GN	Arakni					20	4		Assassin, Hero, Young							Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.	Assassin Hero - Young			No		No
 nkBnGcCDpf9KHChtrrN6b	Arakni, 5L!p3d 7hRu 7h3 cR4X					38	4		Chaos, Assassin, Hero				Go again		Stealth	The first attack with **stealth** each turn gets **go again**.	Chaos Assassin Hero					
+RPWBDmM6hG6dk9zMWwr6b	Arakni, Black Widow					*	4		Chaos, Assassin, Demi-Hero						Stealth	"**Once per Turn Attack Reaction** - Discard an Assassin card: Target Assassin attack gets +3{p}. If it has **stealth**, it gets ""When this hits a hero, they banish a card from their hand.""
+
+At the beginning of your end phase, **return to the brood**."	Chaos Assassin Demi-Hero					
 CKtFCgnGdwMDBh7dzDqqz	Arakni, Huntsman					40	4		Assassin, Hero							Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.	Assassin Hero				No	
 rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionette					40	4		Chaos, Assassin, Hero				Go again		Stealth, Mark	"Your attacks with **stealth** that are attacking a **marked** hero get +1{p} and ""When this hits, this gets **go again**.""
 
@@ -4291,6 +4294,9 @@ BFpBkbT788fWNrCgGcWHt	Lava Vein Loyalty	1	0	3	3				Draconic, Ninja, Action, Atta
 pdfbRhNQ7rBq8r8HfcBbt	Lava Vein Loyalty	2	0	2	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Lava Vein Loyalty has **go again**.	Draconic Ninja Action - Attack					
 KTF8r6hgr8f89Gn9PpGn6	Lava Vein Loyalty	3	0	1	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Lava Vein Loyalty has **go again**.	Draconic Ninja Action - Attack					
 trdLjTnNnn6NjM7DzrcQh	Lay Down the Law	1	3	7	3				Guardian, Action, Attack	Tower						**Tower** - If this has 13 or more {p}, non-equipment cards get -1{d} while defending this.	Guardian Action - Attack				No	
+fnrjjBNqBwWQb7PhMtmzC	Lay Low	2	0		3				Generic, Defense Reaction						Mark	"If you are **marked**, you can't play this.
+
+If the defending hero is **marked**, their next attack this turn gets -1{p}."	Generic Defense Reaction					
 JcNpbqjGjLkFtBNjmtDfD	Lay Waste	1	2	5	3				Mechanologist, Action, Attack	Boost						"**Boost**
 
 This can't be defended by equipment."	Mechanologist Action - Attack					
