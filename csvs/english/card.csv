@@ -4294,6 +4294,7 @@ Whenever a hero reveals 1 or more cards, they choose 1; Gain {r}, or gain 1{h}, 
 
 At the beginning of the end phase, if no hero has gained {r} or {h} from a card effect and no card or token controlled by a hero has had {p} or {d} increased this turn, destroy Korshem, Crossroads of the Elements."	Elemental Action - Landmark	Yes			No	
 Cd6PTGH6CqTHmt7LQmBMp	Kraken's Aethervein							1	Wizard, Weapon, Staff, 2H		Once per Turn Instant					**Once per Turn Instant** - {r}{r}{r}: Deal 1 arcane damage to target opposing hero. Draw a card for each arcane damage dealt this way.	Wizard Weapon - Staff (2H)				No	
+kcf6QQMkQC8Mw9DBk78KN	Kunai of Retribution			1					Draconic, Ninja, Weapon, Dagger, 1H		Once per Turn Action	Attack, Go again				**Once per Turn Action** - {r}, destroy this when the combat chain closes: **Attack**. **Go again**	Draconic Ninja Weapon - Dagger (1H)					
 PHgMJBpk9fJcWNrrnqztz	Kyloria			4		2			Draconic, Illusionist, Dragon, Ally							Whenever Kyloria hits a hero, gain control of an item they control. If you don't gain control of an item this way, draw a card.	Draconic Illusionist - Dragon Ally				No	
 gdFrmMtzgg8DcqjN6tfBM	Lace with Bloodrot	1	0		2				Ranger, Action	Go again						"Your next arrow attack this turn gains +3{p} and ""When this hits a hero, create a Bloodrot Pox token under their control.""
 
@@ -4611,6 +4612,11 @@ FRDf9rPtwMg7MjfK6wWNP	Mark of Lightning				0				Lightning, Equipment, Arms						
 bQMPhRRzw8c6RgGK6crJn	Mark of the Beast	2	2	6	3				Shadow, Brute, Action, Attack	Blood Debt						"If Mark of the Beast would be put into your graveyard from anywhere, instead banish it.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	
+M9DL6cPLrKkmDhGpQL7Mg	Mark of the Huntsman			1					Assassin, Weapon, Dagger, 1H		Once per Turn Action	Attack, Go again	Mark		Mark	"**Once per Turn Action** - {r}{r}: **Attack**. **Go again**
+
+When this hits a hero, you may choose to destroy this and **mark** them.
+
+If this is attacking a **marked** hero, this gets +1{p}."	Assassin Weapon - Dagger (1H)					
 d7MHfCqtjhKzp6cLRJQCQ	Marked									Mark						You are **marked** until an opponent hits you			No	No	No	No
 WLbcgwmGhWDWgdcbdjgWt	Mask of Malicious Manifestations				1				Assassin, Ranger, Equipment, Head	Blade break	Action	Go again				"**Action** - {r}, put a card from your hand or arsenal on the bottom of your deck, destroy Mask of Malicious Manifestations: Reveal cards from the top of your deck until you reveal an attack action card. Put it into your hand, then shuffle. **Go again**
 
@@ -4992,6 +4998,7 @@ F6nMWMTR7mjDm9LMjhgpd	Oblivion	3	0						Shadow, Runeblade, Instant	Legendary, Vy
 Play this only if you control exactly 6 Runechants.
 
 Create a Nasreth, the Soul Harrower token."	Shadow Runeblade Instant				No	
+qMBpL7WdHmD7rgtMwQpfR	Obsidian Fire Vein			1					Draconic, Warrior, Weapon, Dagger, 1H		Once per Turn Action	Attack, Go again				**Once per Turn Action** - {r}: **Attack**. If you've played a Draconic card this chain link, this attack gets +1{p} and **go again**.	Draconic Warrior Weapon - Dagger (1H)					
 DWcKpdjNKBcK67WpPb9Qf	Ode to Wrath	2	4						Light, Illusionist, Instant, Aura	Spectra			Go again			"Whenever a source you control deals damage to an opposing hero, they lose 1{h}.
 
 Illusionist attack action cards you control have **go again**.
