@@ -377,9 +377,9 @@ G7bRDqbhCJD76fH77Mfm7	Art of War	2	1						Generic, Instant							"Choose 2;
 - Until end of turn, you may defend with attack action cards from arsenal.
 - You may banish an attack action card from your hand. If you do, draw 2 cards."	Generic Instant				No	
 GpCFNqmnBGdcrgqPHQMGC	Art of the Dragon: Blood	1	0	4	3				Ninja, Action, Attack							When this attacks, if it is Draconic, it gets **go again** and the next 3 Draconic cards you play this turn cost {r} less to play.	Ninja Action - Attack					
-NFwCqzTPKgDMPwMdFhbP7	Art of the Dragon: Claw	1	1	5					Ninja, Action, Attack							"When this attacks, if it is Draconic, it gets ""When this hits a hero, destroy all cards in their arsenal."""	Ninja Action - Attack					
-KrwdmQ7RpjpPhf8Hmg6ct	Art of the Dragon: Fire	1	1	5					Ninja, Action, Attack							When this attacks, if it is Draconic, deal 2 damage to any target.	Ninja Action - Attack					
-cNjtmFrD8bMPtTfgzmcJf	Art of the Dragon: Scale	1	1	5					Ninja, Action, Attack							"When this attacks, if it is Draconic, it gets ""When this hits a hero, put a -1{d} counter on an equipment they control. Then if it has 0{d}, destroy it."""	Ninja Action - Attack					
+NFwCqzTPKgDMPwMdFhbP7	Art of the Dragon: Claw	1	1	5	3				Ninja, Action, Attack							"When this attacks, if it is Draconic, it gets ""When this hits a hero, destroy all cards in their arsenal."""	Ninja Action - Attack					
+KrwdmQ7RpjpPhf8Hmg6ct	Art of the Dragon: Fire	1	1	5	3				Ninja, Action, Attack							When this attacks, if it is Draconic, deal 2 damage to any target.	Ninja Action - Attack					
+cNjtmFrD8bMPtTfgzmcJf	Art of the Dragon: Scale	1	1	5	3				Ninja, Action, Attack							"When this attacks, if it is Draconic, it gets ""When this hits a hero, put a -1{d} counter on an equipment they control. Then if it has 0{d}, destroy it."""	Ninja Action - Attack					
 G6CnbFqjfGgKqqqmnCbMh	Ash								Draconic, Illusionist, Token, Ash	Material			Phantasm			**Material** - While Ash is under an object, that object has **phantasm**.	Draconic Illusionist Token - Ash					
 cFgpPh7JLB8jCtrTd6nKG	Aspect of Tiger: Body	1	0	3	3				Ninja, Action, Attack	Combo, Go again						**Combo** - When this attacks, if a red attack action card was the last attack this combat chain, this gets **go again** and create a Crouching Tiger in your banished zone. You may play it this turn.	Ninja Action - Attack				No	
 p6nMGj9fLB8p9HFDhrJRP	Aspect of Tiger: Mind	3	0	1	3				Ninja, Action, Attack	Combo, Go again						**Combo** - When this attacks, if a blue attack action card was the last attack this combat chain, this gets **go again** and create a Crouching Tiger in your banished zone. You may play it this turn.	Ninja Action - Attack				No	
@@ -3411,6 +3411,11 @@ When you pitch Grandeur of Valahai, create a Seismic Surge token."	Guardian Reso
 zBCwfCKHpdpkngRHWMFhN	Grandstand Legplates				*				Generic, Equipment, Legs	Blade Break						"Grandstand Legplates' {d} is equal to the number of opposing heroes with greater {h} than you.
 
 **Blade Break**"	Generic Equipment - Legs					
+CKFCLPKmb6nMQW9Jqjdz8	Graphene Chelicera			1					Assassin, Token, Weapon, Dagger, 1H	Stealth, Go again	Once per Turn Action	Attack			Mark	"**Stealth**
+
+**Once per Turn Action** - {r}: **Attack**
+
+When this attacks a **marked** hero, the attack gets **go again**."	Assassin Token Weapon - Dagger (1H)					
 76MpwMj77CmK8wDp6HMDn	Grasp of Darkness								Shadow, Equipment, Arms	Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
 
 **Blood Debt**"	Shadow Equipment - Arms					
