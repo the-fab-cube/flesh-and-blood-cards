@@ -1207,6 +1207,7 @@ The next time an attack you control hits a hero this turn, deal 4 arcane damage 
 //
 
 Deal 1 arcane damage to any target."	Runeblade Action // Lightning Instant	Yes			No	
+GgH7CLN7mwL6HtRcjBjqR	Burning Blade Dance	1	0	3	3				Draconic, Ninja, Action, Attack	Go again						"If you control 2 or more Draconic chain links, this gets **go again** and ""When this hits a hero, you may have target dagger you control deal 1 damage to them. If damage is dealt this way, the dagger has hit. Destroy the dagger."""	Draconic Ninja Action - Attack					
 kMKLhqckbrTHBk7HbNLpJ	Buzz Bolt	1	1	5	3				Elemental, Ranger, Action, Arrow, Attack	Lightning Fusion						"**Lightning Fusion**
 
 If Buzz Bolt was **fused**, whenever an attack hits a hero this turn, it deals 1 damage to them."	Elemental Ranger Action - Arrow Attack					
@@ -2454,6 +2455,7 @@ At the beginning of your end phase, destroy Enchanting Melody unless you have pl
 dzwfFWGJkBjbWtjK6qbtM	Encore	2	1		2				Bard, Action	Go again						"Return a Bard attack action card from your graveyard to your hand.
 
 **Go again**"	Bard Action				No	
+9zPDb7dgNqTgDTpGNDQHg	Endear Devotion	1	1		2				Draconic, Warrior, Attack Reaction							Target dagger attack gets +3{p}. If you control 2 or more Draconic chain links, create a Fealty token.	Draconic Warrior Attack Reaction				No	
 qQ9TfqhWK967WMGdfQRLK	Endless Arrow	1	0	4	3				Ranger, Action, Arrow, Attack							When this hits, put it into its owner's hand.	Ranger Action - Arrow Attack				No	
 MtPhfMbKcN8bN7DpPjNHT	Endless Maw	1	3	6	3				Shadow, Brute, Action, Attack	Blood Debt						"As an additional cost to play Endless Maw, banish 3 random cards from your graveyard.
 
@@ -4617,6 +4619,15 @@ FRDf9rPtwMg7MjfK6wWNP	Mark of Lightning				0				Lightning, Equipment, Arms						
 bQMPhRRzw8c6RgGK6crJn	Mark of the Beast	2	2	6	3				Shadow, Brute, Action, Attack	Blood Debt						"If Mark of the Beast would be put into your graveyard from anywhere, instead banish it.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	
+hCc9J9k6MLJPh7rgzRhwg	Mark of the Black Widow	1	0	3	3				Assassin, Action, Attack	Stealth					Mark	"**Stealth**
+
+When this hits a **marked** hero, they banish a card from their hand."	Assassin Action - Attack					
+8PNj9qcfb8mnpfGwQBncz	Mark of the Black Widow	2	0	2	3				Assassin, Action, Attack	Stealth					Mark	"**Stealth**
+
+When this hits a **marked** hero, they banish a card from their hand."	Assassin Action - Attack					
+LwCDpdzLhqfQCJNBFCMcj	Mark of the Black Widow	3	0	1	3				Assassin, Action, Attack	Stealth					Mark	"**Stealth**
+
+When this hits a **marked** hero, they banish a card from their hand."	Assassin Action - Attack					
 M9DL6cPLrKkmDhGpQL7Mg	Mark of the Huntsman			1					Assassin, Weapon, Dagger, 1H		Once per Turn Action	Attack, Go again	Mark		Mark	"**Once per Turn Action** - {r}{r}: **Attack**. **Go again**
 
 When this hits a hero, you may choose to destroy this and **mark** them.
@@ -5041,6 +5052,21 @@ jBbnKk8wHjT9GG7fMzkdJ	Open the Flood Gates	3	2		3				Wizard, Action	Surge						"
 6Wcpcb7DQ8GMGMTwjdQTR	Optekal Monocle	3	0						Mechanologist, Action, Item		Action	Opt 1, Go again				"Optekal Monocle enters the arena with 5 steam counters on it. When Optekal Monocle has no steam counters on it, destroy it.
 
 **Action** - Remove a steam counter from Optekal Monocle: **Opt 1**. **Go again**"	Mechanologist Action - Item					
+rLgr6PwGt9TtRFMwTFQf7	Orb-Weaver Spinneret	1	0		3				Assassin, Action	Go again					Stealth	"Equip a Graphene Chelicera token.
+
+Your next attack with **stealth** this turn gets +3{p}.
+
+**Go again**"	Assassin Action				No	
+T8Djg7CtcKNrhdbfBCb8t	Orb-Weaver Spinneret	2	0		3				Assassin, Action	Go again					Stealth	"Equip a Graphene Chelicera token.
+
+Your next attack with **stealth** this turn gets +2{p}.
+
+**Go again**"	Assassin Action				No	
+HDJFD6zmgqHN9jfNNMDCD	Orb-Weaver Spinneret	3	0		3				Assassin, Action	Go again					Stealth	"Equip a Graphene Chelicera token.
+
+Your next attack with **stealth** this turn gets +1{p}.
+
+**Go again**"	Assassin Action				No	
 wrBpz9J66tTJtRK67FWdp	Orbitoclast			1					Assassin, Weapon, Dagger, 1H	Piercing 1	Once per Turn Action	Attack, Go again				"**Once per Turn Action** - {r}{r}: **Attack**. **Go again**
 
 **Piercing 1**
@@ -5932,6 +5958,15 @@ If you would roll 1 or more dice this turn, instead roll that many dice plus 1 a
 
 **Go again**"	Brute Action				No	
 T8JJgk7GLGpcDQWWN9RH7	Reality Refractor								Illusionist, Weapon, Orb, 2H				Attack			"Illusionist auras you control are weapons with 5 base {p} and ""**Once per Turn Action** - {r]{r}: **Attack**"""	Illusionist Weapon - Orb (2H)					
+bMLgLcCJHFbLj6bwqqNRN	Reaper's Call	1	0	3	3				Assassin, Action, Attack	Stealth	Instant	Mark				"**Stealth**
+
+**Instant** - Discard this: **Mark** target opposing hero."	Assassin Action - Attack					
+9nTj8GF9trQwMPgCzGq8w	Reaper's Call	2	0	2	3				Assassin, Action, Attack	Stealth	Instant	Mark				"**Stealth**
+
+**Instant** - Discard this: **Mark** target opposing hero."	Assassin Action - Attack					
+fdPTtmjCBrQLfrMFNQb6P	Reaper's Call	3	0	1	3				Assassin, Action, Attack	Stealth	Instant	Mark				"**Stealth**
+
+**Instant** - Discard this: **Mark** target opposing hero."	Assassin Action - Attack					
 HrWqnWfcFNdKB7TLnBLtC	Reaping Blade			3					Runeblade, Weapon, Sword, 2H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 If a hero has more {h} than any other hero, they can't gain {h}."	Runeblade Weapon - Sword (2H)					
@@ -7727,6 +7762,15 @@ NKnCpDpncwNQcfJrqTLPz	Swing Fist, Think Later	2	1	3	3				Brute, Action, Attack	G
 FtFNN8f6NTbJtkPNGMmfJ	Swing Fist, Think Later	3	1	2	3				Brute, Action, Attack	Go again						"As an additional cost to play Swing Fist, Think Later, discard a random card.
 
 **Go again**"	Brute Action - Attack					
+Dm9LL8NBBLmr7qchQ7cpn	Sworn Vengeance	1	0		3				Warrior, Action	Go again			Mark			"Your next dagger attack this turn gets +3{p} and ""When this hits a hero, **mark** them.""
+
+**Go again**"	Warrior Action					
+TH9GfGKwbnJRcWcgT8Gwc	Sworn Vengeance	2	0		3				Warrior, Action	Go again			Mark			"Your next dagger attack this turn gets +2{p} and ""When this hits a hero, **mark** them.""
+
+**Go again**"	Warrior Action					
+LF9TBNgmPnzzWbD6FzGRf	Sworn Vengeance	3	0		3				Warrior, Action	Go again			Mark			"Your next dagger attack this turn gets +1{p} and ""When this hits a hero, **mark** them.""
+
+**Go again**"	Warrior Action					
 tPW6ffbwKnNCWf9hKLKTN	Symbiosis Shot			2					Mechanologist, Weapon, Gun, 2H	Dash Specialization	Action	Attack				"**Dash Specialization**
 
 **Action** - Remove a steam counter from this: **Attack**
@@ -7743,6 +7787,15 @@ QkHWwDgWHtWPqbHHrcBLM	T-Bone	2	0	2	3				Mechanologist, Action, Attack	Boost					
 zqDHmd6wGQKW8HFHd7BNP	T-Bone	3	0	1	3				Mechanologist, Action, Attack	Boost					Boost	"If you control a card on the combat chain that was boosted, the defending hero must defend T-Bone with an equipment they control if able.
 
 **Boost**"	Mechanologist Action - Attack				No	
+nzwjQnhrKth6NkJHKHKnD	Tag the Target	1	0	3	2				Ninja, Action, Attack	Go again, Mark						"When this hits a hero, **mark** them.
+
+**Go again**"	Ninja Action - Attack					
+mzgkQrfmk8LtFjnQzQqgM	Tag the Target	2	0	2	2				Ninja, Action, Attack	Go again, Mark						"When this hits a hero, **mark** them.
+
+**Go again**"	Ninja Action - Attack					
+qnKjmr6mDJDGbhn6mQdkp	Tag the Target	3	0	1	2				Ninja, Action, Attack	Go again, Mark						"When this hits a hero, **mark** them.
+
+**Go again**"	Ninja Action - Attack					
 FtGCjcNCNGg9MkDMwtKCN	Taipanis, Dracai of Judgement								Draconic, Adjudicator, Hero							The first time each turn another hero becomes the target of a source that would deal lethal damage, you may discard a red card. If you do, choose new targets for that source.	Draconic Adjudicator Hero		No	No	No	No
 hFhjbTW96DmWQPBP8C8HF	Take Aim	1	0		2				Ranger, Action	Reload, Go again						"The next Ranger attack action card you play this turn, gains +3{p}.
 
