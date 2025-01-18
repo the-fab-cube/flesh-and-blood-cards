@@ -9,6 +9,8 @@ import sys
 
 images_dir_path = "images/"
 set_id_to_download = None
+min_id = None
+max_id = None
 
 def download_images_from_language_data(language):
     # Download the images
@@ -19,9 +21,12 @@ def download_images_from_language_data(language):
         for card in card_array:
             for printing in card['printings']:
                 image_url = printing['image_url']
+                card_id = printing['id']
+                card_id_number_only = int(card_id[3:])
                 set_id = printing['set_id']
 
-                if image_url is not None and (set_id_to_download == None or set_id == set_id_to_download):
+                if image_url is not None:
+                    if set_id_to_download is None or (set_id_to_download == set_id and (min_id is None or (min_id is not None and min_id <= card_id_number_only)) and (max_id is None or (max_id is not None and max_id >= card_id_number_only))):
                         download_image_from_url(image_url)
 
 
@@ -47,18 +52,38 @@ def download_image_from_url(image_url: str):
         handler.write(img_data)
 
 # Parse command line flags
+help_string = 'main.py -s <set-id> -l <min-id> -m <max-id>'
 try:
-    opts, args = getopt.getopt(sys.argv[1:], "hs:")
+    opts, args = getopt.getopt(sys.argv[1:], "hs:l:m:")
 except getopt.GetoptError:
-    print('main.py -s <set-id>')
+    print("ERROR: ", help_string)
     sys.exit(2)
 for opt, arg in opts:
     if opt == '-h':
-        print ('main.py -s <set-id>')
+        print (help_string)
         sys.exit()
     elif opt in ("-s", "--set-id"):
         set_id_to_download = arg
-        print("Downloading only", set_id_to_download, "images")
+    # l for Low
+    elif opt in ("-l", "--min-id"):
+        min_id = int(arg)
+    # m for Max
+    elif opt in ("-m", "--max-id"):
+        max_id = int(arg)
+
+if set_id_to_download is not None:
+    message = "Downloading only " + set_id_to_download + " images"
+
+    if min_id is not None or max_id is not None:
+        message += (" -")
+
+    if min_id is not None:
+        message += " Min: " + str(min_id)
+
+    if max_id is not None:
+        message += " Max: " + str(max_id)
+
+    print(message)
 
 if not exists(images_dir_path):
     print(images_dir_path + " does not exist, creating it")

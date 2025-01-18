@@ -811,5 +811,10 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed issue with Steelbraid Buckler AJV003 printing being incorrectly listed as AJV002 - bug notice credit: Aegisworn
 
 TODO:
+- Added set data for GEM and HNT
 - Added card data for HNT
-- Updated functional text for Back Stab, Blaze Headlong, Cinderskin Devotion, Cracked Bauble, Lava Vein Loyalty, Razor's Edge, and Razor Reflex
+- Added card data for Magrar and Scarf for a Scarf
+- Added printing data for FAB229, FAB244, FAB255-FAB259 FAB279-FAB288, FAB290-FAB293, FAB305, FAB324, FAB333, GEM002-GEM009, GEM012-GEM013, GEM018, GEM021-GEM022, HER124-HER134, JDG038-JDG044, LGS369-LGS381, LSS019, and WIN041-WIN045
+- Added missing images for FAB307-FAB320 FAB323, LGS360, LGS364-LGS368
+- Updated functional text for Back Stab, Blaze Headlong, Cinderskin Devotion, Cracked Bauble, Erase Face, Lava Vein Loyalty, Razor's Edge, and Razor Reflex
+- Updated TCC107 Vigor printing's Art Variation to be AA

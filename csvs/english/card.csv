@@ -2686,7 +2686,7 @@ The next attack action card you **rune gate** this turn gets +1{p}.
 CnzHmjrhb7TTzGJppkpfc	Eradicate	2	1	4	3				Assassin, Action, Attack	Contract						"**Contract** - You are contracted to banish opponents' yellow cards. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top X cards of their deck, where X is the damage dealt by Eradicate."	Assassin Action - Attack				No	
-qJTKdmdtgwgfgPFLtWpNj	Erase Face	1	2	6	2				Generic, Action, Attack							When Erase Face hits a hero, cards and tokens they own lose all class and talent types until the end of their next turn.	Generic Action - Attack				No	
+qJTKdmdtgwgfgPFLtWpNj	Erase Face	1	2	6	2				Generic, Action, Attack							When this hits a hero, cards they own lose all class and talent types until the end of their next turn.	Generic Action - Attack				No	
 qMzCjGnnHpbqRJPtJfp6T	Essence of Ancestry: Body	1	0		3				Illusionist, Action, Aura	Ward 2						"When this leaves the arena, if you control no Illusionist auras, the next time you would be dealt damage by a red source this turn, prevent it.
 
 **Ward 2**"	Illusionist Action - Aura				No	
@@ -4800,6 +4800,9 @@ JDBd7rjPKpDDWWHQFRLND	Madcap Muscle	3	3	4	3				Brute, Action, Attack							"As a
 
 If the discarded card has 6 or more {p}, Madcap Muscle has +3{p}."	Brute Action - Attack					
 T6b7mmKBRHjBq9TQwfRB7	Mage Master Boots				0				Generic, Equipment, Legs		Action	Go again	Go again			**Action** - {r}, destroy Mage Master Boots: The next 'non-attack' action card you play this turn gains **go again**. **Go again**	Generic Equipment - Legs					
+W8qgQqqTzWMFFcCCzTLGg	Magrar								Merchant, Equipment, Off-Hand	Genis Specialization	Action					"**Genis Specialization**
+
+**Action** - Destroy this: Create a Zen State and an Inertia token."	Merchant Equipment - Off-Hand		No	No	No	No
 CwJMHg9zGWTRtRFhbWNbf	Malefic Incantation	1	0		2				Runeblade, Action, Aura	Go again						"**Go again**
 
 This enters the arena with 3 verse counters. When it has none, destroy it.
@@ -6906,6 +6909,7 @@ KjLnGJk9WwJKDbRtpBRKG	Scar Tissue	3	0		2				Assassin, Warrior, Attack Reaction		
 DbpqBt8Gp8HWg6QMFBBgh	Scar for a Scar	1	0	4	2				Generic, Action, Attack	Go again						When you play Scar for a Scar, if you have less {h} than an opposing hero, it gains **go again**.	Generic Action - Attack					
 LwdKpBTcMk6rLjDwG8r6G	Scar for a Scar	2	0	3	2				Generic, Action, Attack	Go again						When you play Scar for a Scar, if you have less {h} than an opposing hero, it gains **go again**.	Generic Action - Attack					
 fBjC6dqfrGN9TG7Whh9TR	Scar for a Scar	3	0	2	2				Generic, Action, Attack	Go again						When you play Scar for a Scar, if you have less {h} than an opposing hero, it gains **go again**.	Generic Action - Attack					
+HQpCLnmftkcKMJrjjczGK	Scarf for a Scarf	1	0	4	2				Generic, Action, Attack	Go again						When this attacks a hero, exchange a head equipment permanent with them. If you do, this gets **go again**.	Generic Action - Attack		No	No	No	No
 jktJDQ97DD6rnkQjhNdD8	Scepter of Pain							1	Runeblade, Weapon, Scepter, 1H		Once per Turn Action					"**Once per Turn Action** - {r}{r}: Deal 1 arcane damage to any opposing target.
 
 Create a Runechant token for each damage dealt this way."	Runeblade Weapon - Scepter (1H)					
@@ -8756,7 +8760,7 @@ RdhQwD68PqftRqmJpjLjp	Twist and Turn	2	0		3				Warrior, Action	Go again						"Yo
 RnW9QJmpHNcgmnzB9bmLm	Twist and Turn	3	0		3				Warrior, Action	Go again						"Your next dagger attack this turn gets +2{p} and ""When this hits, you may attack with it an additional time this turn.""
 
 **Go again**"	Warrior Action				No	
-wNtNbFgrfzcjJTMwRbkcg	Two Sides to the Blade	1	0		3				Assassin, Attack Reaction				Mark		Stealth	"Choose 1;
+wNtNbFgrfzcjJTMwRbkcg	Two Sides to the Blade	1	1		3				Assassin, Attack Reaction				Mark		Stealth	"Choose 1;
 - Target dagger attack gets +3{p}.
 - Target attack action card with **stealth** gets +3{p} and ""When this hits a hero, **mark** them."""	Assassin Attack Reaction					
 gmR7DG76HhtdgwwTqQngT	Under Loop	1	1	4	3				Mechanologist, Action, Attack	Boost						"**Boost**
