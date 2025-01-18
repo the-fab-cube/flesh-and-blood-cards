@@ -793,7 +793,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed issue with Civic Guide, Civic Steps, Deathly Delight, and Deathly Wail having the incorrect artists - bug notice credit: manwaring
 - Updated images for DTD143-DTD148
 - Fixed issue with ASB016 having the wrong rarity - bug notice credit: manwaring
-- Update functional text for Boltyn and `Ser Boltyn, Breaker of Dawn` - notice credit: manwaring
+- Updated functional text for Boltyn and `Ser Boltyn, Breaker of Dawn` - notice credit: manwaring
 
 11-12-24:
 - Fixed issue with types for Ollin Ice Cap and Tectonic Crust - bug notice credit: Aegisworn
@@ -812,3 +812,4 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 TODO:
 - Added card data for HNT
+- Updated functional text for Back Stab and Razor's Edge
