@@ -780,7 +780,7 @@ Whenever Blasmophet attacks, you may banish a Shadow card from your hand. If you
 P8KJ8nmGmLRgmccLWcz8p	Blast to Oblivion	1	0	4	2				Lightning, Action, Attack							When this attacks, the next time you play an instant card this chain link, you may return target aura permanent with cost 1 or less or target aura token to it's owner's hand.	Lightning Action - Attack				No	
 TKDWphdbTMPCrQtMDTmTB	Blast to Oblivion	2	0	3	2				Lightning, Action, Attack							When this attacks, the next time you play an instant card this chain link, you may return target aura permanent with cost 1 or less or target aura token to it's owner's hand.	Lightning Action - Attack				No	
 cCBDbFWGMWN7QgWFBznbw	Blast to Oblivion	3	0	2	2				Lightning, Action, Attack							When this attacks, the next time you play an instant card this chain link, you may return target aura permanent with cost 1 or less or target aura token to it's owner's hand.	Lightning Action - Attack				No	
-fNWdCp9dwBcCwGtH9F7wT	Blaze Headlong	1	0	4	2				Draconic, Action, Attack	Go again						If you've played another red card this turn, Blaze Headlong has **go again**.	Draconic Action - Attack					
+fNWdCp9dwBcCwGtH9F7wT	Blaze Headlong	1	0	4	2				Draconic, Action, Attack	Go again						If you've played another red card this turn, this gets **go again**.	Draconic Action - Attack					
 hJdWJJWrBzNBBFz9BCJDw	Blaze, Firemind					17	4		Wizard, Hero, Young		Once per Turn Instant				Opt	"Whenever you **opt**, put energy counters on Blaze equal to the number of cards looked at this way.
 
 **Once per Turn Instant** - Remove X energy counters from Blaze: Banish a Wizard non-attack action card from your hand with an effect that deals arcane damage equal to X. You may play it this turn as though it were an instant."	Wizard Hero - Young			No	No	No
@@ -859,6 +859,7 @@ rgrMj9dqrqq6mftqJ8Jq9	Blessing of Spirits	3	1		2				Illusionist, Action, Aura	Wa
 Kk9DrHmqTBkTjdLNQ7MN6	Blessing of Steel	1	1		3				Warrior, Action, Aura							At the start of your turn, destroy Blessing of Steel then your next weapon attack this turn gains +3{p}.	Warrior Action - Aura				No	
 mTPMbhpLLtDP7TmtwpthR	Blessing of Steel	2	1		3				Warrior, Action, Aura							At the start of your turn, destroy Blessing of Steel then your next weapon attack this turn gains +2{p}.	Warrior Action - Aura				No	
 WBrK9WFhTKbzNPjH88KgQ	Blessing of Steel	3	1		3				Warrior, Action, Aura							At the start of your turn, destroy Blessing of Steel then your next weapon attack this turn gains +1{p}.	Warrior Action - Aura				No	
+GCLfdWzwcpjWpnQcQJQFq	Blessing of Vynserakai	1	0		2				Draconic, Action, Aura							At the start of your turn, destroy this, then your next attack this turn is Draconic and gets +3{p}.	Draconic Action - Aura					
 zFRkKj7Jp9GcLpPRRhMht	Blinding Beam	1	1						Light, Instant							"Blinding Beam cost {r} less to play if it targets a Shadow Card.
 
 Target attacking or defending attack action card gets -3{p}."	Light Instant					
@@ -1186,6 +1187,9 @@ qhPfDmWPHpHT8gpFmNkkr	Brutal Assault	3	2	4	3				Generic, Action, Attack								G
 Dh8tPtFJwkqg8jbGTjNWQ	Brutus, Summa Rudis					20	4		Adjudicator, Hero						Clash	"You may have cards with **clash** of any class or talent in your deck.
 
 If all heroes in a **clash** would fail to win, instead choose which hero wins the clash."	Adjudicator Hero		No	No	No	No
+CGLDFnpbfg9LbF7z7GndP	Bubble to the Surface	1	2						Draconic, Instant							"This costs {r} less to play for each Draconic chain link you control.
+
+Reveal cards from the top of your deck until you've revealed a red card. Banish it. You may play it this turn. Shuffle."	Draconic Instant				No	
 TctkW8gCmpjnHwQ6dfdMg	Buckle	3	3		3				Guardian, Action	Go again			Dominate			"Your next Guardian attack this turn gains +1{p}, **dominate**, and ""When this hits a hero, destroy an equipment they control with a -1{d} counter on it.""
 
 **Go again**"	Guardian Action				No	
@@ -1621,6 +1625,7 @@ Until end of turn, your Warrior attacks get ""When this is defended by 1 or more
 KhmFwJF7JFP9W9c6C8brQ	Companion of the Claw	3	2	2	2				Mystic, Ninja, Action, Attack	Go again						"When this attacks, if you've pitched a blue card this turn, create a Crouching Tiger in your hand.
 
 **Go again**"	Mystic Ninja Action - Attack					
+G6kR7rLFDQDjLrLNLL6tp	Compounding Anger	1	3	5	3				Draconic, Action, Attack							This costs {r} less to play for each Draconic chain link you control.	Draconic Action - Attack				No	
 GQzfCQbchkDFn7crcnkrg	Concealed Blade	3	0		3				Assassin, Ninja, Attack Reaction							"Target Assassin or Ninja attack action card gains +1{p} and ""When this hits, equip a dagger from your inventory."""	Assassin / Ninja Attack Reaction				No	
 LFHpbg9HjJqrGt8jHNGHN	Concuss	1	3	6	3				Guardian, Action, Attack							When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack					
 8GRgqRnNmTCMH8NnfzKPg	Concuss	2	3	5	3				Guardian, Action, Attack							When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack					
@@ -2176,6 +2181,9 @@ Vynserakai - 1 pitch, 3 cost, 3 block
 Yendurai - 1 pitch, 1 cost, 3 block
 
 You may put this in your deck in place of an invocation you own. Mark the box next to the dragon's name this invokes. When this card is played or put into your graveyard, swap it for the invocation card."	Invocation Placeholder Card					
+Tn6HrNTBn7GQJt8pGTLwQ	Dragonscaler Flight Path				1				Draconic, Equipment, Legs	Battleworn	Instant		Go again			"**Instant** - {r}{r}{r}, destroy this: Target Draconic attack gets **go again**. If it's a weapon or ally attack, you may attack with it an additional time this turn. This ability costs {r} less to activate for each Draconic chain link you control.
+
+**Battleworn**"	Draconic Equipment - Legs				No	
 bnCP8zG8wBkghLtnppFqw	Draw Swords	1	3		3				Warrior, Action	Go again						"Your next Warrior attack this turn gets +3{p}.
 
 Draw a card.
@@ -3606,6 +3614,9 @@ TbNWLjgL9QKkCMf7FJR6p	Hanabi Blaster			5					Mechanologist, Weapon, Gun, 2H	Over
 
 The third time you play a card with **boost** each turn, put a steam counter on Hanabi Blaster."	Mechanologist Weapon - Gun (2H)				No	
 pBBtgw6Ft8RrfLHrjnnp6	Hand Behind the Pen	1	2	6	2				Generic, Action, Attack							When this hits a hero, turn a card in their arsenal face-up, then banish a non-attack action card from their arsenal.	Generic Action - Attack				No	
+8qzF9KbHtkNHpGzpdGWhk	Hand of Vengeance				1				Draconic, Equipment, Arms	Blade Break	Attack Reaction					"**Attack Reaction** - Destroy this: Target attack that is attacking Arakni gets +1{p}.
+
+**Blade Break**"	Draconic Equipment - Arms					
 6j78cmbzJ6RkG9FKBgfp9	Hard Knuckle				0				Generic, Equipment, Arms							When you play an attack action card, you may destroy this. If you do, the attack gets +1{p}.	Generic Equipment - Arms					
 gTNzqJLcQhkLkhBwKrpBQ	Harmonized Kodachi			1					Ninja, Weapon, Dagger, 1H	Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
@@ -3676,6 +3687,9 @@ PpQBJwQCfFrHzKM9TkcbD	Heart of Ice				1				Ice, Equipment, Chest	Arcane Barrier 
 **Arcane Barrier 1**
 
 **Blade Break**"	Ice Equipment - Chest				No	
+CkRKLHpzHJLkmDdBFJCwM	Heart of Vengeance				1				Draconic, Equipment, Chest	Blade Break	Instant					"**Instant** - Destroy this: Your next attack this turn that targets Arakni costs {r} less to play or activate.
+
+**Blade Break**"	Draconic Equipment - Chest					
 h7NLHrBf7dNmKLN8zqRLn	Heart-throb								Bard, Equipment, Chest		Action	Go again				**Action** - Destroy this: Each hero creates a Vigor token.  **Go again**	Bard Equipment - Chest				No	
 rQ7rcfpMdHMcLkTqtnfHz	Heartbeat of Candlehold	3	1		3				Earth, Wizard, Action	Verdance Specialization, Go again						"**Verdance Specialization**
 
@@ -4003,6 +4017,12 @@ MqqQjwqcHRj7WnG96DPMH	Hunt a Killer	1	1		3				Warrior, Action	Go again			Mark			
 GjDhhCcNjbQcc7Tt9rJkC	Hunt a Killer	3	1		3				Warrior, Action	Go again			Mark			"Your next dagger attack this turn gets +2{p} and ""When this hits a hero, **mark** them.""
 
 **Go again**"	Warrior Action					
+kD7jpPzWkNtFz6LTkk8HQ	Hunt the Hunter	1	1	5	3				Draconic, Action, Attack	Mark						When this attacks a hero, if you've played another red card this turn, **mark** them.	Draconic Action - Attack					
+zTPFF6jKhBgqGLpjtFrGG	Hunt to the Ends of Rathe	1	0	2	2				Draconic, Action, Attack	Mark, Go again					Mark	"When this attacks Arakni, **mark** them.
+
+If this is attacking a **marked** hero, this gets +2{p}.
+
+**Go again**"	Draconic Action - Attack				No	
 dnK9JddMWTf6RgcBWGjn6	Hunt's End	1	0		3				Draconic, Warrior, Attack Reaction							"Play this only if you control 3 or more Fealty tokens.
 
 Target dagger attack gets +4{p}."	Draconic Warrior Attack Reaction				No	
@@ -4749,6 +4769,7 @@ q7GfHcHBpWqCbtghcpnTj	Mangle	1	4	8	3				Guardian, Action, Attack	Crush						**Cr
 f8QrwNNrtgKcB8MwLRQh8	Manifestation of Miragai	3	3						Mystic, Illusionist, Instant, Aura	Ward X						"This enters the arena with two +1{p} counters. If a Chi was pitched to play this, instead this enters the arena with four +1{p} counters.
 
 **Ward X**, where X is the number of +1{p} counters on this."	Mystic Illusionist Instant - Aura				No	
+RbgFbTMtHzGhq8dmDLwpG	March of Loyalty	1	0	4	3				Draconic, Action, Attack	Go again						If you've created a Fealty token this turn, this gets **go again**	Draconic Action - Attack				No	
 FRDf9rPtwMg7MjfK6wWNP	Mark of Lightning				0				Lightning, Equipment, Arms							Whenever a Lightning or Elemental attack you control is defended by a card from hand, you may destroy Mark of Lightning. If you do, the attack deals 1 damage to the defending hero.	Lightning Equipment - Arms					
 bQMPhRRzw8c6RgGK6crJn	Mark of the Beast	2	2	6	3				Shadow, Brute, Action, Attack	Blood Debt						"If Mark of the Beast would be put into your graveyard from anywhere, instead banish it.
 
@@ -5383,6 +5404,9 @@ NBnFFCH9njbMMhBLc6jzw	Passing Mirage	3	0		2				Illusionist, Action, Aura	Spectra
 Target attack gets **go again**.
 
 If you've played another blue card this turn, **transcend**."	Mystic Instant					
+MLFcr8MRb7J7mDBzh6Lhk	Path of Vengeance				1				Draconic, Equipment, Legs	Blade Break	Attack Reaction		Go again			"**Attack Reaction** - Destroy this: Target attack that is attacking Arakni gets **go again**.
+
+**Blade Break**"	Draconic Equipment - Legs					
 WMDBhmGwnGHT7MKf7dLdk	Pathing Helix	1	0	4	3				Ranger, Action, Arrow, Attack							If Pathing Helix hits and you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.	Ranger Action - Arrow Attack					
 KBND9JzTdFwBdtMgMq7Tj	Pathing Helix	2	0	3	3				Ranger, Action, Arrow, Attack							If Pathing Helix hits and you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.	Ranger Action - Arrow Attack					
 b7DpNcDrnBrhFD78gQPdD	Pathing Helix	3	0	2	3				Ranger, Action, Arrow, Attack							If Pathing Helix hits and you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.	Ranger Action - Arrow Attack					
@@ -5560,6 +5584,7 @@ When a Mechanologist item with cost 2 or less enters the arena under your contro
 rmdHP7ttKz7NqLwwwGGKg	Plasma Purifier	1	2						Mechanologist, Action, Item		Action, Once per Turn Action	Go again				"**Action** - {r}: If there are no steam counters on Plasma Purifier, put a steam counter on it. **Go again**
 
 **Once per Turn Action** - Remove a steam counter from Plasma Purifier: Target Mechanologist pistol you control gains +1{p} until end of turn. **Go again**"	Mechanologist Action - Item				No	
+LQDwqpNddrmqQQb8J9dht	Pledge Fealty	1	0						Draconic, Instant							Create a Fealty token.	Draconic Instant					
 T8TC8nQ6HCgPGGLKRhpwh	Plow Through	1	1		3				Warrior, Action	Go again						"Your next weapon attack this turn gains +3{p} and ""If this weapon is defended by an attack action card, it gains +1{p} until end of turn.""
 
 **Go again**"	Warrior Action				No	
@@ -6008,6 +6033,7 @@ As an additional cost to play this, destroy X Gold you control.
 Create X Cintari Sellsword tokens.
 
 **Go again**"	Warrior Action				No	
+Rp7FC6BPnwwPtMWdhWnJD	Rake Over the Coals	1	0						Draconic, Instant							Draconic attacks get +1{p} this turn.	Draconic Instant				No	
 W6R6JDdMT8g77qmHJCDhG	Rake the Embers	1	1		2				Draconic, Illusionist, Action	Transform, Go again						"Create an Ash token, then **transform** up to 3 ash you control into Aether Ashwings.
 
 **Go again**"	Draconic Illusionist Action					
@@ -7391,6 +7417,7 @@ If Smashing Good Time is played from arsenal, the next attack action card you pl
 
 **Go again**"	Generic Action				No	
 cHd8RnCfp9h8MNkQnL9Md	Smashing Performance	2	3	6					Brute, Action, Attack							When this attacks draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, destroy a random item in the arena.	Brute Action - Attack				No	
+kt98RmWMpHzwR8R6Hrccq	Smoke Out	1	0		3				Draconic, Defense Reaction	Mark						When this defends a red card, **mark** the attacking hero.	Draconic Defense Reaction					
 rGc7TPKW7CDRmPRCLg6Jd	Snag	3	0						Generic, Instant							Attack action cards can't gain {p} from their own effects, or the effects of attack reaction cards this turn.	Generic Instant				No	
 rqcn9Q6JDG6FRCrpt9tb7	Snap Shot	1	0	4	3				Elemental, Ranger, Action, Arrow, Attack	Lightning Fusion						"**Lightning Fusion**
 
@@ -8371,6 +8398,7 @@ cWMCP7TF8MkHKQDgjj6jk	Tome of the Arknight	3	1		2				Runeblade, Action	Go again	
 JQqp6Ctw7QMLRDMgTnW6g	Tomeltai			5		5			Draconic, Illusionist, Dragon, Ally							Whenever Tomeltai attacks a hero, reveal the top 2 cards of your deck. If 1 or more red cards are revealed this way, put that many -1{d} counters on an equipment they control, then if it has 0{d}, destroy it.	Draconic Illusionist - Dragon Ally				No	
 gwLCKHWBWwMwH7McRRDzF	Tongue Tied	1	3	7	2				Generic, Action, Attack							When this hits a hero, turn a card in their arsenal face-up, then banish an instant card from their arsenal.	Generic Action - Attack				No	
 cLkt677NMWGgPTNCBcJjn	Tooth and Claw	1	0	4	3				Mystic, Ninja, Action, Attack	Go again						When this attacks, you may reveal any number of Crouching Tigers from your hand. If you reveal 1 or more, this gets **go again**. 2 or more, this gets +1{p}. 3 or more, draw a card.	Mystic Ninja Action - Attack				No	
+bCLK9nFBJjmHFjLQmL8Kt	Tooth of the Dragon	1	0						Draconic, Instant							Your next Draconic attack this turn gets +3{p}.	Draconic Instant					
 fCB6H9HqcnhNkhKjtcG69	Torque Tuned	1	2	6	2				Mechanologist, Action, Attack	Overpower, Galvanize						"If an item you control has been destroyed this turn, this gets **overpower**.
 
 **Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
@@ -8851,6 +8879,9 @@ JHNhMDgMfMRWKQzwnQN88	Voltic Bolt	3	2		3			3	Wizard, Action							Deal 3 arcane 
 CzwrwtC7LkmK6mchdpzB7	Volzar, the Lightning Rod								Lightning, Wizard, Weapon, Staff, 2H		Once per Turn Instant	Amp X				"If you control an aura permanent with Sigil in its name, this costs {r} less to activate.
 
 **Once per Turn Instant** - {r}: **Amp X**, where X is the number of Lightning cards you've played this turn."	Lightning Wizard Weapon - Staff (2H)					
+mtdP6wgpMpd6LJbpJ79TM	Vow of Vengeance				1				Draconic, Equipment, Head	Blade Break	Attack Reaction	Mark				"**Attack Reaction** - Destroy this: **Mark** target Arakni.
+
+**Blade Break**"	Draconic Equipment - Head					
 WhKb7MKbcDLhGThWGP8hT	Vynnset					20	4		Shadow, Runeblade, Hero, Young							"At the start of your turn, banish a card from your hand. If you do, create a Runechant token.
 
 Whenever you play a Shadow non-attack action card, you may pay {h}. If you do, the next Runechant effect that would deal damage this turn can't be prevented."	Shadow Runeblade Hero - Young			No		No
