@@ -906,6 +906,9 @@ When this attacks a hero, each dagger you control deals 1 damage to them. If dam
 WQzcLfDqKwCFFJMBcddJ6	Blood Scent				1				Ninja, Equipment, Chest	Battleworn	Instant					"**Instant** - Destroy this: Gain {r}. Activate this only if you've attacked with a Crouching Tiger this turn.
 
 **Battleworn**"	Ninja Equipment - Chest					
+P8RBh6qWkwRjcJQMWKNQG	Blood Splattered Vest				1				Assassin, Ninja, Equipment, Chest	Blade Break						"Whenever a dagger you control hits, you may gain {r} and put a stain counter on this. Then if there are 3 or more stain counters on this, destroy it.
+
+**Blade Break**"	Assassin / Ninja Equipment - Chest				No	
 Lmfc89kGcH66W6BRqCfb7	Blood Tribute	1	0						Shadow, Instant	Opt 3						**Opt 3**, then banish the top card of your deck.	Shadow Instant					
 kmWDHgcj8hrqMgrtJ6dwW	Blood Tribute	2	0						Shadow, Instant	Opt 2						**Opt 2**, then banish the top card of your deck.	Shadow Instant					
 tdqH9kBqn9TbjRBHHDrfP	Blood Tribute	3	0						Shadow, Instant	Opt 1						**Opt 1**, then banish the top card of your deck.	Shadow Instant					
@@ -1796,6 +1799,9 @@ Kn7f7Dn6KnfF7JW8TMnLz	Cut Deep	3	0		3				Warrior, Action	Go again						"Your nex
 wb9JwfqjqdfgtdKBDmtbw	Cut Down to Size	1	2	6	2				Generic, Action, Attack							When this hits a hero, if they have 4 or more cards in hand, they discard a card.	Generic Action - Attack					
 gGnD9FWMjp89q8PGwThGr	Cut Down to Size	2	2	5	2				Generic, Action, Attack							When this hits a hero, if they have 4 or more cards in hand, they discard a card.	Generic Action - Attack					
 wDqGGmznKnwnMBQT6thmt	Cut Down to Size	3	2	4	2				Generic, Action, Attack							When this hits a hero, if they have 4 or more cards in hand, they discard a card.	Generic Action - Attack					
+qwHFTzdTJW6mjr8hmtnWp	Cut Through	1	0	3	2				Assassin, Ninja, Action, Attack	Go again						If you've hit with a dagger this combat chain, this gets +1{p} and **go again**.	Assassin / Ninja Action - Attack				No	
+cDBkbnjNDfkWKjqtWL7qq	Cut Through	2	0	2	2				Assassin, Ninja, Action, Attack	Go again						If you've hit with a dagger this combat chain, this gets +1{p} and **go again**.	Assassin / Ninja Action - Attack				No	
+wd7RGtzFkH9Ftj6qTbBpN	Cut Through	3	0	1	2				Assassin, Ninja, Action, Attack	Go again						If you've hit with a dagger this combat chain, this gets +1{p} and **go again**.	Assassin / Ninja Action - Attack				No	
 fPzhqRh86kP9zhkBKdCjq	Cut Through the Facade	1	3	7	2				Generic, Action, Attack							"This can't be defended by auras.
 
 When this hits a hero, you may destroy an aura they control."	Generic Action - Attack				No	
@@ -1827,6 +1833,7 @@ Prevent the next X arcane damage that would be dealt to your hero this turn, whe
 HjgMJg6DrhJqR6fMnp6fc	Dance of Darkness								Shadow, Equipment, Legs	Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
 
 **Blood Debt**"	Shadow Equipment - Legs					
+kDCzjqmjjMT9hdnJTfRJb	Danger Digits				0				Assassin, Ninja, Equipment, Arms		Attack Reaction					**Attack Reaction** - Destroy this: Target dagger you control that isn't on the active chain link deals 1 damage to the defending hero. If damage is dealt this way, the dagger has hit. Destroy the dagger.	Assassin / Ninja Equipment - Arms					
 kftPnNkrBLJ7rPmFGgQCm	Dash					20	4		Mechanologist, Hero, Young							You may start the game with a Mechanologist item with cost 2 or less in the arena.	Mechanologist Hero - Young			No		No
 LkqQpr7QL8KpnqMh7dHpR	Dash I/O					36	4		Mechanologist, Hero							"You may look at the top card of your deck at any time.
 
@@ -4468,6 +4475,7 @@ n877nqgWkLDfjQBwM7DM7	Lace with Inertia	1	0		2				Ranger, Action	Go again						"
 rpqF9GbWN7Kkb6hPKPnJk	Lady Barthimont				3				Brute, Mentor				Dominate		Specialization	"While Barthimont is face down in arsenal, at the start of your turn, you may turn her face up.
 
 While Barthimont is face up in arsenal, whenever you play an attack action card, banish the top card of your deck. If the banished card has 6 or more {p}, the attack gains **dominate** and put a lesson counter on Barthimont. Then if there are 2 or more lesson counters on her, banish her, search your deck for a **specialization** card, put it face up into arsenal, and shuffle."	Brute Mentor			No	No	No
+mMzzGF76cFfFHJQJTFcnB	Lair of the Spider	1	0		3				Assassin, Ninja, Defense Reaction, Trap	Mark					Go again	When this defends an attack with **go again**, **mark** the attacking hero.	Assassin / Ninja Action Defense Reaction - Trap					
 qmzNwRPnh8gkrdKdLwCbt	Last Ditch Effort	3	3	4	3				Generic, Action, Attack	Go again						When you play Last Ditch Effort, if you have no cards in your deck, it gains +4{p} and **go again**.	Generic Action - Attack				No	
 GzTpzLGB99zRcW9w7tKd8	Lava Burst	1	0	2	3				Draconic, Action, Attack	Rupture						**Rupture** - If Lava Burst is played as chain link 4 or higher, it has +3{p}.	Draconic Action - Attack					
 BFpBkbT788fWNrCgGcWHt	Lava Vein Loyalty	1	0	3	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, this gets **go again**.	Draconic Ninja Action - Attack					
@@ -4549,6 +4557,18 @@ Create an Agility token.
 Create an Agility token.
 
 **Go again**"	Brute / Warrior Action					
+RBnkrB6LWQHFDcD8RjcWT	Leap Frog Gloves				1				Assassin, Ninja, Equipment, Arms	Blade Break						"When an opponent plays or activates an attack reaction, you may add this to the active chain link as a defending card.
+
+**Blade Break**"	Assassin / Ninja Equipment - Arms					
+8mrLmWTr8TBJgjCpzBzmB	Leap Frog Leggings				1				Assassin, Ninja, Equipment, Legs	Blade Break						"When an opponent plays or activates an attack reaction, you may add this to the active chain link as a defending card.
+
+**Blade Break**"	Assassin / Ninja Equipment - Legs					
+TQL89gnkPdTLrbr8HNtgf	Leap Frog Slime Skin				1				Assassin, Ninja, Equipment, Chest	Blade Break						"When an opponent plays or activates an attack reaction, you may add this to the active chain link as a defending card.
+
+**Blade Break**"	Assassin / Ninja Equipment - Chest					
+6Gqn7z8PhLkHtBnF7MmwJ	Leap Frog Vocal Sac				1				Assassin, Ninja, Equipment, Head	Blade Break						"When an opponent plays or activates an attack reaction, you may add this to the active chain link as a defending card.
+
+**Blade Break**"	Assassin / Ninja Equipment - Head					
 zWjNwt6zMt9hMq9TDKJWp	Leave No Witnesses	1	0	4	3				Assassin, Action, Attack	Contract						"**Contract** - You are contracted to banish opponents' red cards. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck and up to 1 card in their arsenal."	Assassin Action - Attack				No	
@@ -5374,6 +5394,9 @@ WBf76MHCnCnh87Wt86w9T	Pack Call	3	3	5	3				Brute, Action, Attack							When this
 ckjckdp6twK8nfwqGch7J	Pack Hunt	1	2	6	3				Brute, Action, Attack	Intimidate						When this attacks, **intimidate**.	Brute Action - Attack					
 rRHncwrCNq9TmTcndW8bq	Pack Hunt	2	2	5	3				Brute, Action, Attack	Intimidate						When this attacks, **intimidate**.	Brute Action - Attack					
 BntHbFDb7HmGmNq8wmLCq	Pack Hunt	3	2	4	3				Brute, Action, Attack	Intimidate						When this attacks, **intimidate**.	Brute Action - Attack					
+N6LPcMrTJHqQGMctQKWTQ	Pain in the Backside	1	0	3	2				Assassin, Ninja, Action, Attack	Go again						"When this hits a hero, target dagger you control deals 1 damage to them. If damage is dealt this way, the dagger has hit.
+
+**Go again**"	Assassin / Ninja Action - Attack				No	
 QqMdqbNP8f7jj7DkmNMj9	Panel Beater	1	2	5	3				Mechanologist, Action, Attack	Boost						"**Boost**
 
 This gets +X{p}, where X is the number of equipment defending it."	Mechanologist Action - Attack					
@@ -5516,6 +5539,15 @@ jkHLWfcKGCHnmgFtjrJkr	Photon Splicing	2	1		3			3	Wizard, Action		Instant	Amp 1		
 MBRmLcRzPPtFTJndD8FnQ	Photon Splicing	3	1		3			2	Wizard, Action		Instant	Amp 1				"Deal 2 arcane damage to any target.
 
 **Instant** - Discard this: **Amp 1**"	Wizard Action					
+p9zgQpWmbgkWdmMFFTJHh	Pick Up the Point	1	0	3	2				Assassin, Ninja, Action, Attack	Go again, Retrieve						"When this attacks, you may **retrieve** a dagger from your graveyard.
+
+**Go again**"	Assassin / Ninja Action - Attack					
+z9CGRWDmLHHRjKfjfmbWL	Pick Up the Point	2	0	2	2				Assassin, Ninja, Action, Attack	Go again, Retrieve						"When this attacks, you may **retrieve** a dagger from your graveyard.
+
+**Go again**"	Assassin / Ninja Action - Attack					
+tT8mDTnn7nddCF7WNRLHt	Pick Up the Point	3	0	1	2				Assassin, Ninja, Action, Attack	Go again, Retrieve						"When this attacks, you may **retrieve** a dagger from your graveyard.
+
+**Go again**"	Assassin / Ninja Action - Attack					
 bLmknjcbt6Bjn6RTmTBMF	Pick a Card, Any Card	1	0		2				Generic, Action	Go again						"Look at target opponent's hand then name a card.
 
 Choose a random card from their hand and reveal it. If it's the named card, create a Silver token. Repeat this process thrice.
@@ -5670,6 +5702,15 @@ LpcMH9ftTRHRc9gw9j6hw	Poison the Tips	2	0		2				Ranger, Action	Reload, Go again	
 
 **Go again**"	Ranger Action				No	
 BqMDcNR8b6m7L7QPtHgTB	Poison the Well	3	0						Generic, Instant							The next time a hero would gain {h} this turn, instead they lose that much {h}.	Generic Instant				No	
+GQCmNFkh9NCHrf7FNDrg9	Poisoned Blade	1	1	3	2				Assassin, Ninja, Action, Attack	Go again						"Whenever a dagger you own hits a hero this combat chain, they lose 1{h}.
+
+**Go again**"	Assassin / Ninja Action - Attack					
+HK8KdHmNDkgcFgTPcdKbD	Poisoned Blade	2	1	2	2				Assassin, Ninja, Action, Attack	Go again						"Whenever a dagger you own hits a hero this combat chain, they lose 1{h}.
+
+**Go again**"	Assassin / Ninja Action - Attack					
+8cbhPbn7mwTQnwcpD78RH	Poisoned Blade	3	1	1	2				Assassin, Ninja, Action, Attack	Go again						"Whenever a dagger you own hits a hero this combat chain, they lose 1{h}.
+
+**Go again**"	Assassin / Ninja Action - Attack					
 ptW6MqBGczWDtTKnmrLFH	Polar Blast	1	1		2				Ice, Action	Go again			Dominate			"Target opposing hero may pay {r}{r}{r}. If they don't your next attack this turn gains **dominate**.
 
 If Polar Blast is played from arsenal, draw a card.
@@ -8289,6 +8330,16 @@ JnRGGfDChkHqpkHQpr6c8	Thrive	2	0		2				Earth, Action	Go again						"If an attack
 BHKdPc9mGc9CtNCzQJHnF	Throttle	1	2	6	3				Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
 6bkFRTMhgjKWfftkpqtD6	Throttle	2	2	5	3				Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
 PMqDKT6PGBHdmFKzcnCFB	Throttle	3	2	4	3				Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
+cr8bTCLKLcfKLDTk7zcWn	Throw Dagger	3	0		3				Assassin, Ninja, Attack Reaction							Target dagger you control that isn't on the active chain link deals 1 damage to the defending hero. If damage is dealt this way, the dagger has hit and you draw a card. Destroy the dagger.	Assassin / Ninja Attack Reaction				No	
+rPFmfpqGpLn8DF66nRgFg	Throw Yourself at Them	1	1	3	2				Assassin, Ninja, Action, Attack	Go again						"When this attacks a hero, you may have target dagger you control deal 1 damage to them. If damage is dealt this way, the dagger has hit. Destroy the dagger.
+
+**Go again**"	Assassin / Ninja Action - Attack					
+CrRjPfRPBNWJgknJRhHMJ	Throw Yourself at Them	2	1	2	2				Assassin, Ninja, Action, Attack	Go again						"When this attacks a hero, you may have target dagger you control deal 1 damage to them. If damage is dealt this way, the dagger has hit. Destroy the dagger.
+
+**Go again**"	Assassin / Ninja Action - Attack					
+NKpphfCpKhWhntbBzBghc	Throw Yourself at Them	3	1	1	2				Assassin, Ninja, Action, Attack	Go again						"When this attacks a hero, you may have target dagger you control deal 1 damage to them. If damage is dealt this way, the dagger has hit. Destroy the dagger.
+
+**Go again**"	Assassin / Ninja Action - Attack					
 M6pzcFzDLQDQLFLqPz9nd	Thrust	1	1		2				Generic, Attack Reaction							Target sword attack gains +3{p}.	Generic Attack Reaction					
 pLDmjKLjJzFBWNqTFnRwb	Thump	1	4	6	3				Guardian, Action, Attack	Dominate						"While Thump's {p} is greater than its base {p}, it gains **dominate** and ""If this hits a hero, they discard a card."""	Guardian Action - Attack					
 KqkGkTqrW7f8w8TfBhWQm	Thump	2	4	5	3				Guardian, Action, Attack	Dominate						"While Thump's {p} is greater than its base {p}, it gains **dominate** and ""If this hits a hero, they discard a card."""	Guardian Action - Attack					
@@ -8655,6 +8706,21 @@ j9DCRLfzFKbQzprNRw8Ld	Unworldly Bellow	3	1		3				Shadow, Brute, Action	Go again	
 The next Brute or Shadow attack action card you play this turn gains +2{p}.
 
 **Go again**"	Shadow Brute Action					
+QG8JhRkFBWF7GzrqMnkKq	Up Sticks and Run	1	0		2				Assassin, Ninja, Action	Go again, Retrieve						"You may **retrieve** a dagger from your graveyard.
+
+Your next dagger attack this turn gets +4{p}.
+
+**Go again**"	Assassin / Ninja Action				No	
+wPMcMNpWM8w8FThmLkgBH	Up Sticks and Run	2	0		2				Assassin, Ninja, Action	Go again, Retrieve						"You may **retrieve** a dagger from your graveyard.
+
+Your next dagger attack this turn gets +3{p}.
+
+**Go again**"	Assassin / Ninja Action				No	
+TKNGKNCqH8chr9RwpjkfH	Up Sticks and Run	3	0		2				Assassin, Ninja, Action	Go again, Retrieve						"You may **retrieve** a dagger from your graveyard.
+
+Your next dagger attack this turn gets +2{p}.
+
+**Go again**"	Assassin / Ninja Action				No	
 W7QPrj9bzNgddWCCFFCRw	Up the Ante	3	X		3				Warrior, Attack Reaction	Olympia Specialization, Wager			Wager		Wager	"**Olympia Specialization**
 
 Choose X+1;

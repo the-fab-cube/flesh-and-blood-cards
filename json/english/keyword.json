@@ -294,6 +294,12 @@
         "description_plain": "A Warrior mechanic that showcases the prowess a warrior has when they are engaged in close combat. Reprise effects \"turn on\" if the defending hero has defended with a card from their hand."
     },
     {
+        "unique_id": "C96dP7FqChgNnLJhWbjhz",
+        "name": "Retrieve",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "qhmLJGzNtDRbd9HLFbLFp",
         "name": "Rune Gate",
         "description": "",
