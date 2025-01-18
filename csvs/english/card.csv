@@ -1805,6 +1805,21 @@ wd7RGtzFkH9Ftj6qTbBpN	Cut Through	3	0	1	2				Assassin, Ninja, Action, Attack	Go 
 fPzhqRh86kP9zhkBKdCjq	Cut Through the Facade	1	3	7	2				Generic, Action, Attack							"This can't be defended by auras.
 
 When this hits a hero, you may destroy an aura they control."	Generic Action - Attack				No	
+D6JbcW8RH7kTQqrp9CLwb	Cut from the Same Cloth	1	0		2				Assassin, Warrior, Action	Mark, Go again						"Target opposing hero reveals their hand. If an attack reaction card is revealed this way, **mark** them.
+
+Your next dagger attack this turn gets +4{p}.
+
+**Go again**"	Assassin / Warrior Action				No	
+FpRhRwNmrPWrT7chpRJDj	Cut from the Same Cloth	2	0		2				Assassin, Warrior, Action	Mark, Go again						"Target opposing hero reveals their hand. If an attack reaction card is revealed this way, **mark** them.
+
+Your next dagger attack this turn gets +3{p}.
+
+**Go again**"	Assassin / Warrior Action				No	
+8tnJpPbzJqbBBdPBpc8Wt	Cut from the Same Cloth	3	0		2				Assassin, Warrior, Action	Mark, Go again						"Target opposing hero reveals their hand. If an attack reaction card is revealed this way, **mark** them.
+
+Your next dagger attack this turn gets +2{p}.
+
+**Go again**"	Assassin / Warrior Action				No	
 6jHQz9TfCjcddBGqKkWgJ	Cut the Deck	1	1		3				Warrior, Attack Reaction							Target Warrior attack gets +3{p}. If it's defended by an attack action card, draw a card, then put a card from your hand or arsenal on the bottom of your deck.	Warrior Attack Reaction				No	
 NWz7896QdrKM7p9nzfCcP	Cut the Deck	2	1		3				Warrior, Attack Reaction							Target Warrior attack gets +2{p}. If it's defended by an attack action card, draw a card, then put a card from your hand or arsenal on the bottom of your deck.	Warrior Attack Reaction				No	
 knbbJdFrQgDbdzh8r8hTd	Cut the Deck	3	1		3				Warrior, Attack Reaction							Target Warrior attack gets +1{p}. If it's defended by an attack action card, draw a card, then put a card from your hand or arsenal on the bottom of your deck.	Warrior Attack Reaction				No	
@@ -1994,6 +2009,7 @@ MrNgmfGDfJmF6rcLbFcrm	Demolition Crew	3	2	4	2				Generic, Action, Attack	Dominat
 **Dominate**"	Generic Action - Attack					
 MWfDtTFgd8f8zNzQgDJjt	Demolition Protocol	1	3	7	3				Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - When this attacks a hero, remove all steam counters from up to X equipment, items, and/or weapons they control, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
 wmdN6gnj6gdcdfWDMnqK6	Demonstrate Devotion	1	1	4	2				Draconic, Ninja, Action, Attack	Go again						"If you control 2 or more Draconic chain links, this gets **go again** and ""When this attacks a hero, create a Fealty token."""	Draconic Ninja Action - Attack				No	
+jmNMNj8FrgJCR8dCcbmTr	Den of the Spider	1	0		3				Assassin, Warrior, Defense Reaction, Trap				Mark			When this defends an attack with {p} greater than its base, **mark** the attacking hero.	Assassin / Warrior Action Defense Reaction - Trap					
 hNdDhKhhpGwKTCT7wMRCp	Dense Blue Mist	3	1						Mystic, Instant							"Attacks that target you this turn get -1{p}.
 
 If a Chi was pitched to play this, effects don't trigger if an attack hits you this turn."	Mystic Instant				No	
@@ -4172,6 +4188,9 @@ Target weapon attack gains +2{p}."	Warrior Attack Reaction
 jjbWn8gPgq9nzqTHpNr8h	In the Swing	3	0		3				Warrior, Attack Reaction							"Play In the Swing only if you have attacked 2 or more times with weapons this turn.
 
 Target weapon attack gains +1{p}."	Warrior Attack Reaction					
+qh69zwgzjzDtjgTLN8c7P	Incision	1	0		3				Assassin, Warrior, Attack Reaction							Target dagger attack gets +3{p}.	Assassin / Warrior Attack Reaction					
+pLrkq7WBQfk9LjdzLHNBw	Incision	2	0		3				Assassin, Warrior, Attack Reaction							Target dagger attack gets +2{p}.	Assassin / Warrior Attack Reaction					
+RNrdzq87MmgFMG6WPHhhz	Incision	3	0		3				Assassin, Warrior, Attack Reaction							Target dagger attack gets +1{p}.	Assassin / Warrior Attack Reaction					
 fgdcRDCnkGRWgNzJCwchR	Increase the Tension	1	1		2				Ranger, Action	Go again						"Your next arrow attack this turn gains +3{p} and ""Defense reactions can't be played from hand this chain link.""
 
 **Go again**"	Ranger Action					
@@ -5476,6 +5495,9 @@ NCTn7FNh8QCgcJnFzHcGK	Perennial Aetherbloom	2	0		3			2	Wizard, Action	Surge					
 cTC7fqqfnrTWzdKpzcKnG	Perennial Aetherbloom	3	0		3			1	Wizard, Action	Surge						"Deal 1 arcane damage to target hero.
 
 **Surge** - If this deals more than 1 damage, put it on the bottom of its owner's deck."	Wizard Action					
+kcWTWNfgMCjmWT9BNKwmJ	Perforate	2	1		3				Assassin, Warrior, Attack Reaction							"You may attack with target dagger an additional time and its attacks cost you {r} less to activate this turn.
+
+Draw a card."	Assassin / Warrior Attack Reaction				No	
 NJcrQWnf8KF9jd7FGDg8p	Performance Bonus	1	0	3	2				Generic, Action, Attack	Go again						"When this hits, create a Gold token.
 If this was played from arsenal, it gets **Go again**."	Generic Action - Attack					
 ChbzMDmWzwMD9FRF87cq8	Performance Bonus	2	0	2	2				Generic, Action, Attack	Go again						"When this hits, create a Gold token.
@@ -6241,6 +6263,18 @@ If the discarded card has 6 or more {p}, deal 2 damage to the attacking hero."	B
 bPqdbNw8HjNhTcGFGnQrB	Recoil	1	0	3	3				Ninja, Action, Attack	Combo						"**Combo** - If Head Jab was the last attack this combat chain, this has ""When this hits a hero, they put a card from their hand on top of their deck."""	Ninja Action - Attack				No	
 g8kNtFJgzPzDjzrhChg7D	Recoil	2	0	2	3				Ninja, Action, Attack	Combo						"**Combo** - If Head Jab was the last attack this combat chain, this has ""When this hits a hero, they put a card from their hand on top of their deck."""	Ninja Action - Attack				No	
 qrNWkLCjtjGd6pztdtcQb	Recoil	3	0	1	3				Ninja, Action, Attack	Combo						"**Combo** - If Head Jab was the last attack this combat chain, this has ""When this hits a hero, they put a card from their hand on top of their deck."""	Ninja Action - Attack				No	
+kcj8HPFjdMwbgFTNw7GmJ	Red Alert Boots				1				Assassin, Warrior, Equipment, Legs	Blade Break						"If an attack reaction has been played or activated this chain link, this gets +1{d}.
+
+**Blade Break**"	Assassin / Warrior Equipment - Legs					
+j9NnkHbJbdLdDLg9QtPht	Red Alert Gloves				1				Assassin, Warrior, Equipment, Arms	Blade Break						"If an attack reaction has been played or activated this chain link, this gets +1{d}.
+
+**Blade Break**"	Assassin / Warrior Equipment - Arms					
+cTk6wFnMDN7z6WHfDPmrQ	Red Alert Vest				1				Assassin, Warrior, Equipment, Chest	Blade Break						"If an attack reaction has been played or activated this chain link, this gets +1{d}.
+
+**Blade Break**"	Assassin / Warrior Equipment - Chest					
+Lf6kGcR7qqdFHCHLnGkng	Red Alert Visor				1				Assassin, Warrior, Equipment, Head	Blade Break						"If an attack reaction has been played or activated this chain link, this gets +1{d}.
+
+**Blade Break**"	Assassin / Warrior Equipment - Head					
 GRJN6ctjz9wPmFn9K7WHn	Red Hot	1	2	4	3				Draconic, Action, Attack	Dromai or Fai Specialization, Rupture						"**Dromai or Fai Specialization**
 
 **Rupture** - If Red Hot is played as chain link 4 or higher, it has ""When you attack with this, reveal the top X cards of your deck, where X is the number of Draconic chain links you control. Deal damage equal to the number of red cards revealed this way to any target, then shuffle."""	Draconic Action - Attack				No	
@@ -6785,6 +6819,11 @@ Create a Ponder token."	Wizard Instant				No
 WKb8wmGL6MRRzwLnzqLBj	Saving Grace	2	0		3				Light, Warrior, Defense Reaction	Charge					Charge	"As an additional cost to play this, you may **charge** your hero's soul.
 
 If you've **charged** this turn, target attack gets -2{p}."	Light Warrior Defense Reaction				No	
+nmc8wLKtTmPhJFb7FH8BG	Savor Bloodshed	1	0		3				Assassin, Warrior, Action	Go again					Mark	"You next dagger attack this turn gets +4{p}.
+
+The next time you hit a **marked** hero with a dagger this turn, draw a card.
+
+**Go again**"	Assassin / Warrior Action				No	
 nkCCKCB8ftPdMCHHWHWtk	Scabskin Leathers				2				Brute, Equipment, Legs	Battleworn	Once per turn Action					"**Once per turn Action** - 0: Roll a 6 sided die. Gain action points equal to half the number rolled, rounded down.
 
 **Battleworn**"	Brute Equipment - Legs				No	
@@ -6797,6 +6836,9 @@ rFTttdrTGWGwd8dbpfN6M	Scale Peeler			1					Assassin, Weapon, Dagger, 1H	Piercing
 **Piercing 1**
 
 When this hits a hero, the next time they defend with 1 or more equipment this turn, those equipment have -1{d} while defending."	Assassin Weapon - Dagger (1H)				No	
+t6JCJM8LbB8DcqTwHj7Mk	Scar Tissue	1	0		2				Assassin, Warrior, Attack Reaction				Mark			"Target dagger attack gets +3{p} and ""When this hits a hero, **mark** them."""	Assassin / Warrior Attack Reaction					
+GHfNcPpwFnQttfmWMDq86	Scar Tissue	2	0		2				Assassin, Warrior, Attack Reaction				Mark			"Target dagger attack gets +2{p} and ""When this hits a hero, **mark** them."""	Assassin / Warrior Attack Reaction					
+KjLnGJk9WwJKDbRtpBRKG	Scar Tissue	3	0		2				Assassin, Warrior, Attack Reaction				Mark			"Target dagger attack gets +1{p} and ""When this hits a hero, **mark** them."""	Assassin / Warrior Attack Reaction					
 DbpqBt8Gp8HWg6QMFBBgh	Scar for a Scar	1	0	4	2				Generic, Action, Attack	Go again						When you play Scar for a Scar, if you have less {h} than an opposing hero, it gains **go again**.	Generic Action - Attack					
 LwdKpBTcMk6rLjDwG8r6G	Scar for a Scar	2	0	3	2				Generic, Action, Attack	Go again						When you play Scar for a Scar, if you have less {h} than an opposing hero, it gains **go again**.	Generic Action - Attack					
 fBjC6dqfrGN9TG7Whh9TR	Scar for a Scar	3	0	2	2				Generic, Action, Attack	Go again						When you play Scar for a Scar, if you have less {h} than an opposing hero, it gains **go again**.	Generic Action - Attack					
@@ -7818,6 +7860,7 @@ zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	7	10	3				Guardian, Action, Attack	Bravo Spe
 **Crush** - When this deals 4 or more damage to a hero, the only attacks they may play or activate during their next turn are attacks with base {p} greater than the damage dealt this way.
 
 **Unity** - When this defends together with a card from hand, create a Seismic Surge token under any number of heroes' control."	Guardian Action - Attack				No	
+h8WG7GncNP7qN7hnzTdN9	Starting Point				0				Assassin, Warrior, Equipment, Legs		Attack Reaction		Go again			**Attack Reaction** - Destroy this: Target attack gets **go again**. Activate this only if you've played a card or activated an ability this reaction step.	Assassin / Warrior Equipment - Legs					
 kD798qm7kWr9fhCLM9dDm	Starting Stake	2	0		3				Generic, Action							If you control no Gold tokens, create a Gold token.	Generic Action					
 fdQ8rf8W6d7KgDhprdm9k	Stasis Cell	3	0						Mechanologist, Action, Item		Action	Go again				"When this enters or leaves the arena, activated abilities of target equipment can't be activated until the end of its controller's next turn.
 
@@ -8119,6 +8162,9 @@ hhQwdkFWGnMzRtpDBTzQ9	Take Flight	3	1	2	3				Light, Warrior, Action, Attack	Char
 
 If you've **charged** this turn, Take Flight gains **go again**."	Light Warrior Action - Attack					
 C7rGNWzwQJpMRcmLBbbQP	Take Up the Mantle	2	0		3				Assassin, Attack Reaction						Stealth, Mark	Target attack action card with **stealth** gets +2{p}. If it's attacking a **marked** hero, instead it gets +3{p} and you may banish an attack action card with **stealth** from your graveyard. If you do, the target becomes a copy of the banished card.	Assassin Attack Reaction				No	
+DkcD8cfprKB8RPWLKdMhf	Take a Stab	1	0		2				Assassin, Warrior, Attack Reaction						Mark	"Target dagger attack gets +3{p} and ""When this hits a **marked** hero, you may attack with it an additional time this turn."""	Assassin / Warrior Attack Reaction					
+b7j6PpNMGdBQndqjMtcHt	Take a Stab	2	0		2				Assassin, Warrior, Attack Reaction						Mark	"Target dagger attack gets +2{p} and ""When this hits a **marked** hero, you may attack with it an additional time this turn."""	Assassin / Warrior Attack Reaction					
+mrHRpJzKbQPN9TnLb6mjd	Take a Stab	3	0		2				Assassin, Warrior, Attack Reaction						Mark	"Target dagger attack gets +1{p} and ""When this hits a **marked** hero, you may attack with it an additional time this turn."""	Assassin / Warrior Attack Reaction					
 TChD6cjwh6bQmkf7kQFqP	Take it on the Chin	1	0						Brute, Warrior, Instant							The next time you would be dealt damage this turn, prevent 2 of that damage. If you do, create an Agility token.	Brute / Warrior Instant				No	
 TtF8Q9WNQqPmJdrd6qp7k	Take the Tempo	1	1	5	3				Ninja, Action, Attack							When Take the Tempo hits, if you've hit 3 or more times this combat chain, banish the top card of your deck. If it's an attack action card, you may play it until the end of your next turn.	Ninja Action - Attack				No	
 p6Q8Fw6T7dfBwGGpwQDrq	Take the Upper Hand	1	0		3				Warrior, Attack Reaction						Wager	"Play this only if you've **wagered** this chain link.
@@ -8411,6 +8457,9 @@ cTRhTc7kkHWQrwpRgtrM9	Titan's Fist			3					Guardian, Weapon, Hammer, 1H		Once pe
 
 If there is a card with cost 3 or greater in your pitch zone, Titan's Fist has +1{p}."	Guardian Weapon - Hammer (1H)					
 mc7J7CkCptbQQttbfJGMt	Titanium Bauble	3			3				Generic, Resource								Generic Resource					
+hznLkw6NwCdwhnH9KbKdF	To the Point	1	0		2				Assassin, Warrior, Attack Reaction						Mark	Target dagger attack gets +3{p}. If the defending hero is **marked**, instead it gets +4{p}.	Assassin / Warrior Attack Reaction				No	
+zGMwPW7DFJjTJBBdnmfwD	To the Point	2	0		2				Assassin, Warrior, Attack Reaction						Mark	Target dagger attack gets +2{p}. If the defending hero is **marked**, instead it gets +3{p}.	Assassin / Warrior Attack Reaction				No	
+7tkH9LH8hHKQLmBGNJrM6	To the Point	3	0		2				Assassin, Warrior, Attack Reaction						Mark	Target dagger attack gets +1{p}. If the defending hero is **marked**, instead it gets +2{p}.	Assassin / Warrior Attack Reaction				No	
 Jdmqz8NgGbBJp88BN8TwK	Tome of Aeo	3	1		2				Illusionist, Action, Aura	Ward 1						"At the beginning of your action phase, destroy Tome of Aeo then draw a card.
 
 **Ward 1**"	Illusionist Action - Aura				No	
