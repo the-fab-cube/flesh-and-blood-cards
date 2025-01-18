@@ -1,25 +1,4 @@
 Card Unique ID	Card Name	Card Pitch	Referenced Card Unique ID	Referenced Card Name	Referenced Card Pitch						
-RchmHdpjFdfQrcKkCn8MP	Whittle from Bone	1	CKFCLPKmb6nMQW9Jqjdz8	Graphene Chelicera							
-qQKjHgDgPhRzrhQTkTf7N	Whittle from Bone	2	CKFCLPKmb6nMQW9Jqjdz8	Graphene Chelicera							
-kBGMnLgMjhm9DPqzNCWwb	Whittle from Bone	3	CKFCLPKmb6nMQW9Jqjdz8	Graphene Chelicera							
-rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionette		RPWBDmM6hG6dk9zMWwr6b	Arakni, Black Widow							
-rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionette		QrrLFqPwPhPkqTwqnzCMq	Arakni, Funnel Web							
-rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionette		hJDM6fWpRRf6jLqrW8KRr	Arakni, Orb-Weaver							
-rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionette		dhHz8JT9mMD79KJqNWNnB	Arakni, Redback							
-rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionette		twn6MLFjQJrQ9GnwW9BNd	Arakni, Tarantula							
-rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionette		dkzRfmwLkcGrgmnzTQzcJ	Arakni, Trap-Door							
-qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit		RPWBDmM6hG6dk9zMWwr6b	Arakni, Black Widow							
-qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit		QrrLFqPwPhPkqTwqnzCMq	Arakni, Funnel Web							
-qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit		hJDM6fWpRRf6jLqrW8KRr	Arakni, Orb-Weaver							
-qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit		dhHz8JT9mMD79KJqNWNnB	Arakni, Redback							
-qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit		twn6MLFjQJrQ9GnwW9BNd	Arakni, Tarantula							
-qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit		dkzRfmwLkcGrgmnzTQzcJ	Arakni, Trap-Door							
-mTf6RCrQ8NpGBBdbC6dQj	Mask of Deceit		RPWBDmM6hG6dk9zMWwr6b	Arakni, Black Widow							
-mTf6RCrQ8NpGBBdbC6dQj	Mask of Deceit		QrrLFqPwPhPkqTwqnzCMq	Arakni, Funnel Web							
-mTf6RCrQ8NpGBBdbC6dQj	Mask of Deceit		hJDM6fWpRRf6jLqrW8KRr	Arakni, Orb-Weaver							
-mTf6RCrQ8NpGBBdbC6dQj	Mask of Deceit		dhHz8JT9mMD79KJqNWNnB	Arakni, Redback							
-mTf6RCrQ8NpGBBdbC6dQj	Mask of Deceit		twn6MLFjQJrQ9GnwW9BNd	Arakni, Tarantula							
-mTf6RCrQ8NpGBBdbC6dQj	Mask of Deceit		dkzRfmwLkcGrgmnzTQzcJ	Arakni, Trap-Door							
 KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
 BzkLdhrmkWpnbDBWNMJhp	Aether Arc	3	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 8rwTJkbzktjbhbQbPCKrc	Aether Bindings of the Third Age		zRCmqmDrDLdDwnc9Td6j7	Sigil of Aether	3						
@@ -178,7 +157,19 @@ wJQMt6Lpf6D9JFQ8BW898	Anthem of Spring	3	7TjkgnbJ8tghfrkMRnTfW	Briar
 wJQMt6Lpf6D9JFQ8BW898	Anthem of Spring	3	cjDzkKdjNrGqL9tnDc7zd	Briar, Warden of Thorns							
 wJQMt6Lpf6D9JFQ8BW898	Anthem of Spring	3	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							
 QTpCnrrjTbQhdRdLBzLzB	Apex Bonebreaker		6gqTwGnmHjkCLDqKPWt8c	Might							
+rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionette		RPWBDmM6hG6dk9zMWwr6b	Arakni, Black Widow							
+rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionette		QrrLFqPwPhPkqTwqnzCMq	Arakni, Funnel Web							
+rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionette		hJDM6fWpRRf6jLqrW8KRr	Arakni, Orb-Weaver							
+rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionette		dhHz8JT9mMD79KJqNWNnB	Arakni, Redback							
+rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionette		twn6MLFjQJrQ9GnwW9BNd	Arakni, Tarantula							
+rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionette		dkzRfmwLkcGrgmnzTQzcJ	Arakni, Trap-Door							
 hJDM6fWpRRf6jLqrW8KRr	Arakni, Orb-Weaver		CKFCLPKmb6nMQW9Jqjdz8	Graphene Chelicera							
+qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit		RPWBDmM6hG6dk9zMWwr6b	Arakni, Black Widow							
+qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit		QrrLFqPwPhPkqTwqnzCMq	Arakni, Funnel Web							
+qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit		hJDM6fWpRRf6jLqrW8KRr	Arakni, Orb-Weaver							
+qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit		dhHz8JT9mMD79KJqNWNnB	Arakni, Redback							
+qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit		twn6MLFjQJrQ9GnwW9BNd	Arakni, Tarantula							
+qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit		dkzRfmwLkcGrgmnzTQzcJ	Arakni, Trap-Door							
 hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	2	NGkHQHjzkFqfmGLKmRCpj	Prism							
 hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	2	F7rQpTDjHFWPgQhcGg7RT	Prism, Sculptor of Arc Light							
 7J87gL6NR9MjHMLM6cWGB	Arc Lightning	2	TDrmKkRWGKWnqfQkT9QML	Aurora							
@@ -641,6 +632,7 @@ Fn8bTWKkJC77cqjfPmkjC	Deathly Wail	3	zfrHQjbPkpBmdQGrWcTMB	Runechant
 F78CPMJgBqhTfNMLM7TH6	Deathmatch Arena		8qdmprPg7kckn8ktMTKQh	Gold							
 WtHNCTfp87TNpG7jLRKFR	Defang the Dragon	1	RBcRMcBrm89m6pcTDQnP9	Fang							
 WtHNCTfp87TNpG7jLRKFR	Defang the Dragon	1	P9DWCqqTwtKLnhNzLHnnp	Fang, Dracai of Blades							
+wmdN6gnj6gdcdfWDMnqK6	Demonstrate Devotion		n9FtLHDg97rfrTNJDMBG6	Fealty							
 hNdDhKhhpGwKTCT7wMRCp	Dense Blue Mist	3	FRTnBzBCRC7TbNhdKLWqW	Inner Chi	3						
 ppcfhRgNk9GH8QWRpMbdt	Descendant Gustwave	1	GqNTpPW79fHNzj7kB8Kkb	Surging Strike	1						
 ppcfhRgNk9GH8QWRpMbdt	Descendant Gustwave	1	Hpq8jQm9H97HbfhBKgctd	Surging Strike	2						
@@ -666,6 +658,7 @@ WRhC8n6HHNkRn6MjzDHDL	Dishonor	3	d7D9nzdhjfKmppBnFdFLm	Descendant Gustwave	3
 WRhC8n6HHNkRn6MjzDHDL	Dishonor	3	GqNTpPW79fHNzj7kB8Kkb	Surging Strike	1						
 WRhC8n6HHNkRn6MjzDHDL	Dishonor	3	Hpq8jQm9H97HbfhBKgctd	Surging Strike	2						
 WRhC8n6HHNkRn6MjzDHDL	Dishonor	3	KtHkGCQfc6Td7Dg8htCcJ	Surging Strike	3						
+cKp6hPc7WTW8Q98cHPM9P	Display Loyalty		n9FtLHDg97rfrTNJDMBG6	Fealty							
 gnCCKC87FkrLRgfz9dhFf	Dissolve Reality		HpWqFJW8ftTDdzCLK9RkD	Ponder							
 w7HdMtLpHDBRNJcKHWHpc	Doomsday	3	qJ8HCWnpHbPRGRGpt86Cb	Blasmophet, the Soul Harvester							
 w7HdMtLpHDBRNJcKHWHpc	Doomsday	3	WwzJLfPwhRTkFLDNjJPrk	Levia							
@@ -1222,6 +1215,12 @@ CwJMHg9zGWTRtRFhbWNbf	Malefic Incantation	1	zfrHQjbPkpBmdQGrWcTMB	Runechant
 kbTJ7t7MLfLRNprLbJQRQ	Malefic Incantation	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 9GqP669FDfnpMzmL7t7JW	Malefic Incantation	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 f8QrwNNrtgKcB8MwLRQh8	Manifestation of Miragai		FRTnBzBCRC7TbNhdKLWqW	Inner Chi	3						
+mTf6RCrQ8NpGBBdbC6dQj	Mask of Deceit		RPWBDmM6hG6dk9zMWwr6b	Arakni, Black Widow							
+mTf6RCrQ8NpGBBdbC6dQj	Mask of Deceit		QrrLFqPwPhPkqTwqnzCMq	Arakni, Funnel Web							
+mTf6RCrQ8NpGBBdbC6dQj	Mask of Deceit		hJDM6fWpRRf6jLqrW8KRr	Arakni, Orb-Weaver							
+mTf6RCrQ8NpGBBdbC6dQj	Mask of Deceit		dhHz8JT9mMD79KJqNWNnB	Arakni, Redback							
+mTf6RCrQ8NpGBBdbC6dQj	Mask of Deceit		twn6MLFjQJrQ9GnwW9BNd	Arakni, Tarantula							
+mTf6RCrQ8NpGBBdbC6dQj	Mask of Deceit		dkzRfmwLkcGrgmnzTQzcJ	Arakni, Trap-Door							
 RnjfWPNBLBd9nGR8RdhnT	Mask of Perdition		TNJz9fCgqmhhLz9rP9tkt	Silver							
 F7Btpwc6Cgn79D67Hkbpd	Maul	2	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
 Dg8tJh9RNQKhFWfqd8qDT	Mauling Qi		fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
@@ -1964,6 +1963,9 @@ M7gFnB7zpwHWCbzWCWKpd	Whelming Gustwave	3	GqNTpPW79fHNzj7kB8Kkb	Surging Strike	1
 M7gFnB7zpwHWCbzWCWKpd	Whelming Gustwave	3	Hpq8jQm9H97HbfhBKgctd	Surging Strike	2						
 M7gFnB7zpwHWCbzWCWKpd	Whelming Gustwave	3	KtHkGCQfc6Td7Dg8htCcJ	Surging Strike	3						
 w98kfFNz9prGgmD88ptJR	Whirling Mist Blossom	2	GCRQMpBtqBHWrk68GqnGP	Ira, Crimson Haze							
+RchmHdpjFdfQrcKkCn8MP	Whittle from Bone	1	CKFCLPKmb6nMQW9Jqjdz8	Graphene Chelicera							
+qQKjHgDgPhRzrhQTkTf7N	Whittle from Bone	2	CKFCLPKmb6nMQW9Jqjdz8	Graphene Chelicera							
+kBGMnLgMjhm9DPqzNCWwb	Whittle from Bone	3	CKFCLPKmb6nMQW9Jqjdz8	Graphene Chelicera							
 KRLHmjMcJTWNdrHrHqbkt	Wind Chakra	1	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
 MpfqmCMGhHCTwgQKRdDGW	Wind Chakra	2	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
 6mR8hhpB9hT6wf9QbWnrd	Wind Chakra	3	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							

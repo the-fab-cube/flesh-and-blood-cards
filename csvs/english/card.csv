@@ -378,7 +378,7 @@ G7bRDqbhCJD76fH77Mfm7	Art of War	2	1						Generic, Instant							"Choose 2;
 - The next attack action card you play this turn gains **go again**.
 - Until end of turn, you may defend with attack action cards from arsenal.
 - You may banish an attack action card from your hand. If you do, draw 2 cards."	Generic Instant				No	
-GpCFNqmnBGdcrgqPHQMGC	Art of the Dragon: Blood	1	0	4	3				Ninja, Action, Attack							When this attacks, if it is Draconic, it gets **go again** and the next 3 Draconic cards you play this turn cost {r} less to play.	Ninja Action - Attack					
+GpCFNqmnBGdcrgqPHQMGC	Art of the Dragon: Blood	1	0	4	3				Ninja, Action, Attack	Go again						When this attacks, if it is Draconic, it gets **go again** and the next 3 Draconic cards you play this turn cost {r} less to play.	Ninja Action - Attack					
 NFwCqzTPKgDMPwMdFhbP7	Art of the Dragon: Claw	1	1	5	3				Ninja, Action, Attack							"When this attacks, if it is Draconic, it gets ""When this hits a hero, destroy all cards in their arsenal."""	Ninja Action - Attack					
 KrwdmQ7RpjpPhf8Hmg6ct	Art of the Dragon: Fire	1	1	5	3				Ninja, Action, Attack							When this attacks, if it is Draconic, deal 2 damage to any target.	Ninja Action - Attack					
 cNjtmFrD8bMPtTfgzmcJf	Art of the Dragon: Scale	1	1	5	3				Ninja, Action, Attack							"When this attacks, if it is Draconic, it gets ""When this hits a hero, put a -1{d} counter on an equipment they control. Then if it has 0{d}, destroy it."""	Ninja Action - Attack					
@@ -889,7 +889,13 @@ Draw a card for each card with **blood debt** banished this way.
 Your Brute and Shadow attacks get +X{p} this turn where X is the number of cards with 6 or more {p} banished this way.
 
 **Go again**"	Shadow Brute Action				No	
+zRDdtf8Tm6tfzKtjcThCC	Blood Drop	1	1	2	3				Draconic, Ninja, Action, Attack	Go again						"This costs {r} less to play for each Draconic chain link you control.
+
+**Go again**"	Draconic Ninja Action - Attack					
 JfBCWJdFBcrnhdkjRj6tz	Blood Drop Brocade				0				Generic, Equipment, Chest		Instant					**Instant** - Destroy Blood Drop Brocade: Gain {r}. Activate this ability only if you have dealt or been dealt {p} damage this turn.	Generic Equipment - Chest					
+cjKPgLQmgG9QwFQKWPrrM	Blood Line	1	2	3	3				Draconic, Ninja, Action, Attack	Go again						"This costs {r} less to play for each Draconic chain link you control.
+
+**Go again**"	Draconic Ninja Action - Attack					
 PtT7qcpC9QCBBMq6mHP88	Blood Runs Deep	1	2	2	3				Draconic, Ninja, Action, Attack							"This costs {r} less to play for each Draconic chain link you control.
 
 When this attacks a hero, each dagger you control deals 1 damage to them. If damage is dealt this way, the dagger has hit. Destroy the daggers.
@@ -1427,9 +1433,9 @@ j6W8wLDwB8B8QQkGKQNdz	Cindering Foresight	3	0		2				Wizard, Action	Opt 1						"I
 The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.
 
 **Opt 1**"	Wizard Action				No	
-tPLBbjkQQmCJRD9f8f7qm	Cinderskin Devotion	1	1	4	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Cinderskin Devotion has **go again**.	Draconic Ninja Action - Attack					
-nJfhFcQjghnHnfbGkd6jW	Cinderskin Devotion	2	1	3	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Cinderskin Devotion has **go again**.	Draconic Ninja Action - Attack					
-tWNrwHgH8LJbC8ndwkwPz	Cinderskin Devotion	3	1	2	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Cinderskin Devotion has **go again**.	Draconic Ninja Action - Attack					
+tPLBbjkQQmCJRD9f8f7qm	Cinderskin Devotion	1	1	4	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, this gets **go again**.	Draconic Ninja Action - Attack					
+nJfhFcQjghnHnfbGkd6jW	Cinderskin Devotion	2	1	3	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, this gets **go again**.	Draconic Ninja Action - Attack					
+tWNrwHgH8LJbC8ndwkwPz	Cinderskin Devotion	3	1	2	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, this gets **go again**.	Draconic Ninja Action - Attack					
 m7hWTmtRzJnrtqtfLLR6M	Cindra					20	4		Royal, Draconic, Ninja, Hero, Young		Once per Turn Instant				Mark	"Whenever you hit a **marked** hero, create a Fealty token.
 
 **Once per Turn Instant** - {r}{r}{r}: Equip up to 2 Draconic daggers from your graveyard. This costs {r} less to activate for each Draconic chain link you control."	Royal Draconic Ninja Hero - Young			No		No
@@ -1962,6 +1968,7 @@ MrNgmfGDfJmF6rcLbFcrm	Demolition Crew	3	2	4	2				Generic, Action, Attack	Dominat
 
 **Dominate**"	Generic Action - Attack					
 MWfDtTFgd8f8zNzQgDJjt	Demolition Protocol	1	3	7	3				Mechanologist, Action, Attack	Evo Upgrade						**Evo Upgrade** - When this attacks a hero, remove all steam counters from up to X equipment, items, and/or weapons they control, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
+wmdN6gnj6gdcdfWDMnqK6	Demonstrate Devotion	1	1	4	2				Draconic, Ninja, Action, Attack	Go again						"If you control 2 or more Draconic chain links, this gets **go again** and ""When this attacks a hero, create a Fealty token."""	Draconic Ninja Action - Attack				No	
 hNdDhKhhpGwKTCT7wMRCp	Dense Blue Mist	3	1						Mystic, Instant							"Attacks that target you this turn get -1{p}.
 
 If a Chi was pitched to play this, effects don't trigger if an attack hits you this turn."	Mystic Instant				No	
@@ -2047,6 +2054,7 @@ fgrK7Mbp8qQcbMtQDwk9F	Disable	2	5	8	3				Guardian, Action, Attack	Crush						**C
 WRhC8n6HHNkRn6MjzDHDL	Dishonor	3	0	2	3				Ninja, Action, Attack	Combo						"**Combo** - If Bonds of Ancestry was the last attack this combat chain, this has +2{p}.
 
 When this hits a hero, if you control Surging Strike, Descendent Gustwave, and Bonds of Ancestry, that hero loses all abilities for the rest of the game."	Ninja Action - Attack				No	
+cKp6hPc7WTW8Q98cHPM9P	Display Loyalty	1	0	3	2				Draconic, Ninja, Action, Attack	Go again						"If you control 2 or more Draconic chain links, this gets **go again** and ""When this attacks a hero, create a Fealty token."""	Draconic Ninja Action - Attack				No	
 HGhtMHhF6dqdNccmNK7w8	Dissipation Shield	2	2						Mechanologist, Action, Item		Instant					"Dissipation Shield enters the arena with 4 steam counters on it.
 
 At the beginning of your action phase, destroy Dissipation Shield unless you remove a steam counter from it.
@@ -2977,6 +2985,15 @@ qrhLKPQDzcR99cHLz7jgq	Figment of War	2	4						Light, Illusionist, Instant, Figme
 When this enters the arena, create a Courage token."	Light Illusionist Instant - Figment				No	
 wrn8fmpTQHjKLzzHtqwNG	Final Act	1	1	1	3				Bard, Action, Attack							When this attacks, it gets +X{p}, where X is twice the number of cards in all pitch zones.	Bard Action - Attack				No	
 PHz8kWCt6rw6Q6jMgbdQC	Find Center	3	0	2	3				Ninja, Action, Attack	Combo						"**Combo** - If Crane Dance was the last attack this combat chain, Find Center can't be defended by cards with {r} cost less than the number of chain links you control, and it gains ""If this hits, create a Zen State token."""	Ninja Action - Attack				No	
+fJ6NzRBP9hRRcQLPLTDrf	Fire Tenet: Strike First	1	0	3	2				Ninja, Action, Attack	Go again						"When this attacks, your next Draconic attack this combat chain gets +1{p}.
+
+**Go again**"	Ninja Action - Attack					
+wLWmztzbRkrFkgzPCP6hT	Fire Tenet: Strike First	2	0	2	2				Ninja, Action, Attack	Go again						"When this attacks, your next Draconic attack this combat chain gets +1{p}.
+
+**Go again**"	Ninja Action - Attack					
+M9QNfBrcmp9zBJhztzDM7	Fire Tenet: Strike First	3	0	1	2				Ninja, Action, Attack	Go again						"When this attacks, your next Draconic attack this combat chain gets +1{p}.
+
+**Go again**"	Ninja Action - Attack					
 FKCrQMngDF9nMT99qzNjn	Firebreathing	1	2	3	3				Generic, Action, Attack		Instant					**Instant** - {r}: Firebreathing gains +1{p}. Activate this ability only while Firebreathing is attacking.	Generic Action - Attack				No	
 kHP6QW9GNhJzkDjq7nGpk	Firewall	1			4				Mechanologist, Block							When this defends, reveal the top card of your deck. If it's an Evo, put it on top of your deck. Otherwise, put it on the bottom.	Mechanologist Block				No	
 zRdT7QbmBfgd7DKBwjfGd	Firewall	2			3				Mechanologist, Block							When this defends, reveal the top card of your deck. If it's an Evo, put it on top of your deck. Otherwise, put it on the bottom.	Mechanologist Block				No	
@@ -3499,6 +3516,18 @@ TNGCHzzLBft9q77QhkW9d	Grinding Gears	3	0						Mechanologist, Action, Item	Crank	
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 **Action** - 0: Target hero destroys the top card of their deck."	Mechanologist Action - Item				No	
+LT6DJwbzTFg8pwp6dGG6M	Grow Claws	1	1	4	2				Ninja, Action, Attack	Go again						"If a Draconic attack was the last attack this combat chain, this gets +1{p}.
+
+**Go again**"	Ninja Action - Attack					
+K7MCKJGwJDzMzgHPbrRDw	Grow Claws	2	1	3	2				Ninja, Action, Attack	Go again						"If a Draconic attack was the last attack this combat chain, this gets +1{p}.
+
+**Go again**"	Ninja Action - Attack					
+pkLRWtNDtBTQH8fkFJ8hb	Grow Claws	3	1	2	2				Ninja, Action, Attack	Go again						"If a Draconic attack was the last attack this combat chain, this gets +1{p}.
+
+**Go again**"	Ninja Action - Attack					
+tLQ97QFt6qWCTPqbng7W7	Grow Wings	1	0	3	3				Ninja, Action, Attack	Go again						If a Draconic attack was the last attack this combat chain, this gets **go again**.	Ninja Action - Attack					
+BdMBk67WBktQwcBmff9rm	Grow Wings	2	0	2	3				Ninja, Action, Attack	Go again						If a Draconic attack was the last attack this combat chain, this gets **go again**.	Ninja Action - Attack					
+tNqhWw8WPHzbjBjRcNzMp	Grow Wings	3	0	1	3				Ninja, Action, Attack	Go again						If a Draconic attack was the last attack this combat chain, this gets **go again**.	Ninja Action - Attack					
 gqJnkdRN8WkHKtFNtPTgN	Growl	1	0	3	2				Ninja, Action, Attack	Go again						"When this attacks, the next Crouching Tiger you play this combat chain gets +1{p}.
 
 **Go again**"	Ninja Action - Attack				No	
@@ -3873,6 +3902,7 @@ kHTFbHM7GGctRFhMm8hBg	Hornet's Sting				1				Ranger, Equipment, Arms	Blade Break
 WKGJ7ktHDWrtCBnC9J7gW	Hot Streak			2					Warrior, Weapon, Sword, 1H	Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 When this is defended by 1 or more attack action cards, Hot Streak's attacks get **go again** this turn."	Warrior Weapon - Sword (1H)					
+dDw6tLrTHJMDftM86zRjK	Hot on Their Heels	1	0	3	3				Draconic, Ninja, Action, Attack	Go again, Mark						"If you control 2 or more Draconic chain links, this gets **go again** and ""When this hits a hero, **mark** them."""	Draconic Ninja Action - Attack					
 hGgJfbfTpknpFCTCgQCzw	Howl from Beyond	1	2		2				Shadow, Action	Go again, Blood Debt						"You may play Howl from Beyond from your banished zone.
 
 The next attack action card you play this turn gains +3{p}.
@@ -4363,9 +4393,9 @@ rpqF9GbWN7Kkb6hPKPnJk	Lady Barthimont				3				Brute, Mentor				Dominate		Special
 While Barthimont is face up in arsenal, whenever you play an attack action card, banish the top card of your deck. If the banished card has 6 or more {p}, the attack gains **dominate** and put a lesson counter on Barthimont. Then if there are 2 or more lesson counters on her, banish her, search your deck for a **specialization** card, put it face up into arsenal, and shuffle."	Brute Mentor			No	No	No
 qmzNwRPnh8gkrdKdLwCbt	Last Ditch Effort	3	3	4	3				Generic, Action, Attack	Go again						When you play Last Ditch Effort, if you have no cards in your deck, it gains +4{p} and **go again**.	Generic Action - Attack				No	
 GzTpzLGB99zRcW9w7tKd8	Lava Burst	1	0	2	3				Draconic, Action, Attack	Rupture						**Rupture** - If Lava Burst is played as chain link 4 or higher, it has +3{p}.	Draconic Action - Attack					
-BFpBkbT788fWNrCgGcWHt	Lava Vein Loyalty	1	0	3	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Lava Vein Loyalty has **go again**.	Draconic Ninja Action - Attack					
-pdfbRhNQ7rBq8r8HfcBbt	Lava Vein Loyalty	2	0	2	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Lava Vein Loyalty has **go again**.	Draconic Ninja Action - Attack					
-KTF8r6hgr8f89Gn9PpGn6	Lava Vein Loyalty	3	0	1	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, Lava Vein Loyalty has **go again**.	Draconic Ninja Action - Attack					
+BFpBkbT788fWNrCgGcWHt	Lava Vein Loyalty	1	0	3	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, this gets **go again**.	Draconic Ninja Action - Attack					
+pdfbRhNQ7rBq8r8HfcBbt	Lava Vein Loyalty	2	0	2	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, this gets **go again**.	Draconic Ninja Action - Attack					
+KTF8r6hgr8f89Gn9PpGn6	Lava Vein Loyalty	3	0	1	3				Draconic, Ninja, Action, Attack	Go again						If you control 2 or more Draconic chain links, this gets **go again**.	Draconic Ninja Action - Attack					
 trdLjTnNnn6NjM7DzrcQh	Lay Down the Law	1	3	7	3				Guardian, Action, Attack	Tower						**Tower** - If this has 13 or more {p}, non-equipment cards get -1{d} while defending this.	Guardian Action - Attack				No	
 fnrjjBNqBwWQb7PhMtmzC	Lay Low	2	0		3				Generic, Defense Reaction						Mark	"If you are **marked**, you can't play this.
 
@@ -4698,6 +4728,7 @@ When this hits a hero, **mark** them."	Assassin Action - Attack
 7qKwRbLbdMzcBLLJK9d6R	Mark the Prey	3	0	1	3				Assassin, Action, Attack	Stealth, Mark						"**Stealth**
 
 When this hits a hero, **mark** them."	Assassin Action - Attack					
+DcFccRh7KttKMbFkHnPqh	Mark with Magma	1	1	4	3				Draconic, Ninja, Action, Attack	Go again, Mark						"If you control 2 or more Draconic chain links, this gets **go again** and ""When this hits a hero, **mark** them."""	Draconic Ninja Action - Attack					
 d7MHfCqtjhKzp6cLRJQCQ	Marked									Mark						You are **marked** until an opponent hits you			No	No	No	No
 mTf6RCrQ8NpGBBdbC6dQj	Mask of Deceit				2				Assassin, Equipment, Head	Arakni Specialization, Blade Break					Mark	"**Arakni Specialization**
 
@@ -7112,6 +7143,9 @@ TNJz9fCgqmhhLz9rP9tkt	Silver								Generic, Token, Item		Action	Go again				**A
 gCgcRpmr76G6zmFgpprRw	Silver Palms				2				Merchant, Equipment, Arms	Blade Break						"At the start of each other hero's turn, if they have less {h} than you, they may draw a card. If they do, you create a Silver token.
 
 **Blade Break**"	Merchant Equipment - Arms				No	
+QBdRfJk6kfmbcf6RLDrPJ	Silver Talons	1	0	4	3				Ninja, Action, Attack							When this attacks a hero, if it is Draconic, you may have target dagger you control deal 1 damage to them. If damage is dealt this way, the dagger has hit. Destroy the dagger.	Ninja Action - Attack				No	
+jJQ8KwFgn6cPHpLjfgRjr	Silver Talons	2	0	3	3				Ninja, Action, Attack							When this attacks a hero, if it is Draconic, you may have target dagger you control deal 1 damage to them. If damage is dealt this way, the dagger has hit. Destroy the dagger.	Ninja Action - Attack				No	
+zhP7z88wWHj68BTGFKpFw	Silver Talons	3	0	2	3				Ninja, Action, Attack							When this attacks a hero, if it is Draconic, you may have target dagger you control deal 1 damage to them. If damage is dealt this way, the dagger has hit. Destroy the dagger.	Ninja Action - Attack				No	
 jc7QRqTTh6cccdTjFmBf9	Silver the Tip	1	1		2				Ranger, Action	Go again						"If you have no cards in your arsenal, look at the top 4 cards of your deck. You may put an arrow card from among them face up into your arsenal, then put the rest on the bottom of your deck in any order.
 
 **Go again**"	Ranger Action				No	
@@ -8322,6 +8356,15 @@ rQ9dRWnKb788gfjnPf8Bw	Transmogrify	2	1		2				Illusionist, Action	Go again						"
 LDHGBdbFRmBcN9DzjqzpD	Transmogrify	3	1		2				Illusionist, Action	Go again						"The next attack action card you play this turn is Illusionist, has 6 base {p}, and gains **phantasm**.
 
 **Go again**"	Illusionist Action				No	
+mGmcTdzdtkJWq8D8Tnrgj	Trap and Release	1	1	4	2				Ninja, Action, Attack	Go again, Mark						"When this hits a hero, **mark** them.
+
+**Go again**"	Ninja Action - Attack					
+tJkqhqDjdMM76hrkMmJJD	Trap and Release	2	1	3	2				Ninja, Action, Attack	Go again, Mark						"When this hits a hero, **mark** them.
+
+**Go again**"	Ninja Action - Attack					
+p6DK6rNGjz8HrpwNmCgQL	Trap and Release	3	1	2	2				Ninja, Action, Attack	Go again, Mark						"When this hits a hero, **mark** them.
+
+**Go again**"	Ninja Action - Attack					
 dgBPpWggJ6wkFQG8t9Jqc	Traverse the Universe				2				Mystic, Equipment, Head	Blade Break						"When this defends, search your deck for an Inner Chi, reveal it, put it into your hand, then shuffle.
 
 **Blade Break**"	Mystic Equipment - Head				No	

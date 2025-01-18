@@ -812,4 +812,4 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 TODO:
 - Added card data for HNT
-- Updated functional text for Back Stab and Razor's Edge
+- Updated functional text for Back Stab, Cinderskin Devotion, Lava Vein Loyalty, and Razor's Edge
