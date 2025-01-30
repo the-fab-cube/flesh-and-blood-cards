@@ -27,7 +27,7 @@ const extractSetIdFromArgs = () => {
     const setId = process.argv[4]
 
     if (!setId) {
-        console.error('ERROR: Expected a TCGPlayer setId as 3rd argument!');
+        console.error('ERROR: Expected a FaB setId as 3rd argument!');
         process.exit(1);
     }
 
