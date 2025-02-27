@@ -506,6 +506,9 @@ w77m97tB9GPDzK6ccgkjr	Ball Lightning	2	0	2	0				Lightning, Action, Attack	Go aga
 QnKbrhtk7HFcckCBbFmkt	Ball Lightning	3	0	1	0				Lightning, Action, Attack	Go again						"Whenever a Lightning or Elemental action card would deal damage this combat chain, instead it deals that much damage plus 1.
 
 **Go again**"	Lightning Action - Attack					
+hHTFWRhbq9F7CwwbQqNQ8	Bank Breaker			3					Mechanologist, Weapon, Wrench, 2H	Overpower, Go again	Twice per Turn Action					"**Twice per Turn Action** - {r}: **Attack**. Activate this only if you've cranked this turn.
+
+When this attacks, you may banish a card from under it. If you do, the attack gets **overpower** and **go again**."	Mechanologist Weapon - Wrench (2H)				No	
 LJrMwbT9tW99BNDwBKNfr	Banksy			3					Mechanologist, Weapon, Wrench, 2H	Maxx Specialization	Once per Turn Action	Attack			Crank	"**Maxx Specialization**
 
 **Once per Turn Action** - {r}: **Attack**. Activate this ability only if you've **cranked** this turn.
@@ -1283,6 +1286,7 @@ nDkh8FDGwNNpLghj6grmK	Calming Gesture								Illusionist, Equipment, Arms	Arcane
 
 **Arcane Barrier 1**"	Illusionist Equipment - Arms				No	
 N6FgtcT8gMP7PMj7hCkgP	Canopy Shelter	3			2				Earth, Block							When this defends, create a Might token.	Earth Block				No	
+GkcwtGfWGcDBmQ7BbFNRt	Cap of Quick Thinking								Lightning, Equipment, Head		Instant					**Instant** - Destroy this: If you would be dealt damage by a source an opponent controls this turn, you may discard an instant card to prevent 1 of that damage and draw a card.	Lightning Equipment - Head				No	
 b7NNmKqCcHRLdbGHBdNj8	Captain's Call	1	0		2				Generic, Action	Go again			Go again			"Choose 1;
 
 The next attack action card with cost 2 or less you play this turn gains +2{p}.
@@ -1485,6 +1489,11 @@ CjRzTWJcLTzzfkhwCRK7K	Civic Peak				2				Guardian, Equipment, Head	Temper						"
 qQ9JC8BtngfRq7n9pqpKM	Civic Steps				2				Guardian, Equipment, Legs	Temper						"Whenever this defends, create a Quicken token under another hero's control.
 
 **Temper**"	Guardian Equipment - Legs					
+9G9hzcppH7WtgccPwfdGC	Clamp Press	3	2						Mechanologist, Action, Item	Crank						"**Crank**
+
+This enters the arena with 2 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+Wrenches you control get +2{p}."	Mechanologist Action - Item				No	
 M8HJKTz7QwHTjGtjdHqDM	Clarity Potion	3	0						Generic, Action, Item		Instant	Opt 2				**Instant** - Destroy Clarity Potion: **Opt 2**	Generic Action - Item				No	
 gRpHwzjCr7Q6RQwnGTT7t	Clash of Agility	1	2	6	3				Brute, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Action - Attack				No	
 8dw7PGfBNcKMcRkgMdPJz	Clash of Agility	2	2	5	3				Brute, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Action - Attack				No	
@@ -7241,6 +7250,9 @@ At the beginning of your action phase, Shiyana becomes a copy of target hero unt
 JkPgFzHTpzdNfzJCwQCmt	Shock Charmers				0				Lightning, Equipment, Arms	Spellvoid 2	Instant					"**Instant** - {r}{r}: The next time an attack action card you control hits a hero this turn, it deals 1 damage to them.
 
 **Spellvoid 2**"	Lightning Equipment - Arms				No	
+wwCjCpWgjmHMPNGhtQBwT	Shock Frock								Lightning, Equipment, Chest	Battleworn	Action	Go again				"**Action** - Destroy this: Gain {r}. Activate this only if you've played a Lightning card this turn. **Go again**
+
+**Battleworn**"	Lightning Equipment - Chest				No	
 zrmt6g9QChNNTDw7Gm68D	Shock Striker	1	1	5	2				Lightning, Action, Attack		Once per Turn Instant					"**Once per Turn Instant** - {r}{r}: Shock Striker gains ""If Shock Striker hits a hero, deal 1 damage to them."""	Lightning Action - Attack					
 THjm6N9TQgQdbdkpqJnmR	Shock Striker	2	1	4	2				Lightning, Action, Attack		Once per Turn Instant					"**Once per Turn Instant** - {r}{r}: Shock Striker gains ""If Shock Striker hits a hero, deal 1 damage to them."""	Lightning Action - Attack					
 qhkDp7nLqrh6PDNW7QtMq	Shock Striker	3	1	3	2				Lightning, Action, Attack		Once per Turn Instant					"**Once per Turn Instant** - {r}{r}: Shock Striker gains ""If Shock Striker hits a hero, deal 1 damage to them."""	Lightning Action - Attack					
@@ -7493,6 +7505,13 @@ LhPHmJ9Wmq6R6RDjDGtwC	Skyhold Keikoi								Mystic, Equipment, Arms	Cloaked	Inst
 Rn7bzNz8BdmwrcTBkMHM6	Skywalker Keikoi								Mystic, Equipment, Legs	Cloaked	Instant					"**Cloaked**
 
 **Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this ability only while this is face-down."	Mystic Equipment - Legs					
+g8tjHjKCPpR6tDpqnhrN9	Skyward Serenade	2	0		2				Lightning, Runeblade, Action	Go again						"Choose 2;
+- Create an Embodiment of Lightning token.
+- Search your deck for a Skyzyk, banish it, then shuffle. You may play it this turn.
+- Your next attack this turn gets +1{p}.
+
+**Go again**"	Lightning Runeblade Action				No	
+HHt6w8PmCTDJkCtGdKjbm	Skyzyk	1	0	3	3				Lightning, Action, Attack							If this has go again, it gets +1{p}.	Lightning Action - Attack				No	
 6JWDWhqwDrdDPnGfqMQQR	Slap-Happy	1	0						Guardian, Warrior, Instant							The next time you would be dealt damage this turn, prevent 2 of that damage. If you do, create a Vigor token.	Guardian / Warrior Instant				No	
 cdMqrK6rMMDTjHCwBMcqn	Slay	1	0						Shadow, Instant							Destroy target angel ally.	Shadow Instant				No	
 cM7zthPFbLMJ6KQQmB6P9	Slay the Scholars	1	0	4	3				Assassin, Action, Attack	Contract						"**Contract** - You are contracted to banish opponents' 'non-attack' action cards. Whenever you complete this contract, create a Silver token.
@@ -7715,6 +7734,7 @@ wMq8RdBcGbtLzBktwpwfF	Sow Tomorrow	3	1		2				Earth, Action	Go again						"Put ta
 If Sow Tomorrow is played from arsenal, draw a card.
 
 **Go again**"	Earth Action					
+8zbP8CGh6GGtQQHFmQFBP	Spark Spray	1	0	4	2				Lightning, Action, Attack							When this is defended by 1 or more cards, you may pay {r}. If you do, this gets +1{p}.	Lightning Action - Attack					
 kcHGCkMphHJwgcNd7jJcz	Spark Spray	2	0	3	2				Lightning, Action, Attack							When this is defended by 1 or more cards, you may pay {r}. If you do, this gets +1{p}.	Lightning Action - Attack					
 kk9mFcfzzzPL6RH9tcBw8	Spark Spray	3	0	2	2				Lightning, Action, Attack							When this is defended by 1 or more cards, you may pay {r}. If you do, this gets +1{p}.	Lightning Action - Attack					
 tqpr9PgWLMcrmggBmfL9B	Spark of Genius	2	XX		3				Mechanologist, Action	Dash Specialization					Boost	"**Dash Specialization**
@@ -7930,6 +7950,9 @@ zzHRCMBmNTF9KpJMqKWq8	Star Struck	2	7	10	3				Guardian, Action, Attack	Bravo Spe
 **Crush** - When this deals 4 or more damage to a hero, the only attacks they may play or activate during their next turn are attacks with base {p} greater than the damage dealt this way.
 
 **Unity** - When this defends together with a card from hand, create a Seismic Surge token under any number of heroes' control."	Guardian Action - Attack				No	
+dCkbCnQ7pcjfbQ7k8GhFk	Starlight Striders								Lightning, Runeblade, Equipment, Legs	Blade Break						"When this defends, you may reveal an instant card from your hand. If you do, create an Embodiment of Lightning token.
+
+**Blade Break**"	Lightning Runeblade Equipment - Legs				No	
 h8WG7GncNP7qN7hnzTdN9	Starting Point				0				Assassin, Warrior, Equipment, Legs		Attack Reaction		Go again			**Attack Reaction** - Destroy this: Target attack gets **go again**. Activate this only if you've played a card or activated an ability this reaction step.	Assassin / Warrior Equipment - Legs					
 kD798qm7kWr9fhCLM9dDm	Starting Stake	2	0		3				Generic, Action							If you control no Gold tokens, create a Gold token.	Generic Action					
 fdQ8rf8W6d7KgDhprdm9k	Stasis Cell	3	0						Mechanologist, Action, Item		Action	Go again				"When this enters or leaves the arena, activated abilities of target equipment can't be activated until the end of its controller's next turn.
@@ -9416,6 +9439,9 @@ RGPtLmm7fqBkmPTgNTM7h	Writhing Beast Hulk	3	2	4	3				Shadow, Brute, Action, Atta
 If a card with 6 or more {p} is banished this way, Writhing Beast Hulk gains **dominate**.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	
+q69qJCPFdP8PzL8rpNK9b	Written in the Stars	3	0		3				Lightning, Runeblade, Action							"Create an Embodiment of Lightning token.
+
+If you've dealt arcane damage this turn, draw a card."	Lightning Runeblade Action				No	
 gqTpfTkztdLpN8W6TpRtR	Yendurai			3		3			Draconic, Illusionist, Dragon, Ally							"Yendurai enters the arena with an endurance counter on him.
 
 If Yendurai would be dealt damage, remove an endurance counter from him to prevent 3 of that damage."	Draconic Illusionist - Dragon Ally				No	
@@ -9433,6 +9459,9 @@ nrMg9kDMg9KwBPPtJLJph	Yorick, Weaver of Tales					20	4		Bard, Hero, Young							
 NLkgcrjgGCQdWqGdg8gpj	Zap	1	0		3			3	Wizard, Action							Deal 3 arcane damage to target hero.	Wizard Action					
 cNDwrcdgP7RdhDqDjdknB	Zap	2	0		3			2	Wizard, Action							Deal 2 arcane damage to target hero.	Wizard Action					
 nGFNqP9BddjFmfBNcQGpq	Zap	3	0		3			1	Wizard, Action							Deal 1 arcane damage to target hero.	Wizard Action					
+TgrQPtPTGpMznMJPJKPGC	Zap Clappers								Lightning, Runeblade, Equipment, Arms	Blade Break						"When this defends, you may reveal an instant card from your hand. If you do, deal 1 arcane damage to the attacking hero.
+
+**Blade Break**"	Lightning Runeblade Equipment - Arms				No	
 mQTLKRNWqhbJRtNNdWHHj	Zealous Belting	1	2	5	2				Generic, Action, Attack	Go again						While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.	Generic Action - Attack					
 FWPL69jpWNMf6qgfGWJQp	Zealous Belting	2	2	4	2				Generic, Action, Attack	Go again						While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.	Generic Action - Attack					
 6djPj8nJPB6mFWrjrj7ft	Zealous Belting	3	2	3	2				Generic, Action, Attack	Go again						While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.	Generic Action - Attack					
