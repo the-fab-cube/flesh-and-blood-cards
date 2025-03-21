@@ -18,5 +18,9 @@
     {
         "icon": "{I}",
         "description": "Intellect (of a hero card)"
+    },
+    {
+        "icon": "{t}",
+        "description": "Tap?"
     }
 ]

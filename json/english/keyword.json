@@ -180,6 +180,12 @@
         "description_plain": "Go again allows multiple actions to be played in a turn, when usually playing an action would use up your action point, and therefore end your turn. A card with go again gives the controller of that card or activated ability 1 action point when it resolves."
     },
     {
+        "unique_id": "cHmQnQCNKmq8BRJ6kT9ch",
+        "name": "Go Fish",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "JpQHgf9ttGqRjHjW6rgR8",
         "name": "Guardwell",
         "description": "",
@@ -406,5 +412,11 @@
         "name": "Ward X",
         "description": "If your hero would be dealt damage, prevent X of that damage and destroy this.",
         "description_plain": "If your hero would be dealt damage, prevent X of that damage and destroy this."
+    },
+    {
+        "unique_id": "bw6qfzzWmNRWgJkNk6kHd",
+        "name": "Watery Grave",
+        "description": "",
+        "description_plain": ""
     }
 ]

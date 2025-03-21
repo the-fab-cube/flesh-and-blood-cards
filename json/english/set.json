@@ -1316,6 +1316,27 @@
         ]
     },
     {
+        "unique_id": "wgpfKBFMGm8WqjnkbBkcw",
+        "id": "SEA",
+        "name": "High Seas",
+        "printings": [
+            {
+                "unique_id": "7BqWG8Lr8FRNHwWtP8GN6",
+                "edition": "N",
+                "start_card_id": "SEA001",
+                "end_card_id": "SEA247",
+                "initial_release_date": "2026-06-06T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "NnTrbw6jDGjwPJBMNqdd8",
         "id": "TCC",
         "name": "Round the Table: TCC X LSS",

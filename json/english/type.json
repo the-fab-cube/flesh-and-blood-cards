@@ -192,6 +192,10 @@
         "name": "Hero"
     },
     {
+        "unique_id": "cfbtgDrfcHMgzzhpMbmKf",
+        "name": "High Seas"
+    },
+    {
         "unique_id": "8Jt7j6JwCjjLMtr8jDQtD",
         "name": "Ice"
     },
@@ -256,6 +260,10 @@
         "name": "Mystic"
     },
     {
+        "unique_id": "mLWWR8DrqjTNNCmnr7BQr",
+        "name": "Necromancer"
+    },
+    {
         "unique_id": "GC7qTwCNRhnM89fNqHGRf",
         "name": "Ninja"
     },
@@ -266,6 +274,10 @@
     {
         "unique_id": "dqzwT8hJbqChq7btnP7R8",
         "name": "Orb"
+    },
+    {
+        "unique_id": "kHhH8HLcdhkFQtKw6WkFG",
+        "name": "Pirate"
     },
     {
         "unique_id": "CK6bh8fzPQnFnn7qMNnhq",
@@ -294,6 +306,10 @@
     {
         "unique_id": "LgFRWWjCpQ8Bk9BznncWt",
         "name": "Rock"
+    },
+    {
+        "unique_id": "dwThjWrLJChPnFznrTz77",
+        "name": "Rosetta"
     },
     {
         "unique_id": "RCTkdzmcK8rfB7wRqtCgT",
