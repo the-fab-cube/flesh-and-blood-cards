@@ -105,6 +105,27 @@
         ]
     },
     {
+        "unique_id": "BrRjNCgcqCj7TrJPbrmKk",
+        "id": "AMX",
+        "name": "Amory Deck Maxx",
+        "printings": [
+            {
+                "unique_id": "Jnr9G9CbTNdtFCc9JdJKG",
+                "edition": "N",
+                "start_card_id": "AMX001",
+                "end_card_id": "AMX028",
+                "initial_release_date": "2025-04-17T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cards.fabtcg.com/products/armory-deck-maxx-the-hype-nitro/",
+                "product_page": "https://fabtcg.com/en/products/booster-set/armory-deck-maxx-nitro/",
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": "https://dhhim4ltzu1pj.cloudfront.net/media/images/ad_maxx_logo.original.png"
+            }
+        ]
+    },
+    {
         "unique_id": "7LbfKJbkWGGwFJDWJn8GB",
         "id": "ARA",
         "name": "Arakni Blitz Deck",
