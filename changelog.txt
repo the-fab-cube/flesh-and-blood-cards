@@ -812,9 +812,25 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 04-16-25:
 - Added set data for AMX
-- Added card data for Bank Breaker, Breaker Helm Protos, Clamp Press, Construct Bank Breaker, Drive Brake, Fist Pump, Puffer Jacket, and Twintek Charging Station
-- Added printing data and images for AMX001-AMX028
+- Added card data for Bank Breaker, Breaker Helm Protos, Clamp Press, Construct Bank Breaker, Drive Brake, Fist Pump, Puffer Jacket, and Twintek Charging Station - data entry assistance: manwaring
+- Added printing data and images for AMX001-AMX028 - data entry assistance: manwaring
 - Updated functional text for Banksy, Big Bertha, Crankshaft, Hyper Driver, Maxx 'The Hype' Nitro, Maxx Nitro, Sprocket Rocket, and T-Bone
+
+04-21-25:
+- Added set data for ASR - data entry assistance: manwaring
+- Added card data for Enact Vengeance - data entry assistance: manwaring
+- Added printing data for ASR008 - data entry assistance: manwaring
+- Updated CC Living Legend status for `Enigma, Ledger of Ancestry`, `Cosmo, Scroll of Ancestral Tapestry`, `Zen, Tamer of Purpose`, and `Tiger Taming Khakkara`
+- Updated Blitz Living Legend status for Victor Goldmane and Miller's Grindstone
+- Updated set names for AKO, AMX, and ASB to maintain consistency amongst Armory Decks
+- Fixed issue `Arakni, Huntsman`, Jarl Vetreiði, and `Uzuri, Switchblade` incorrectly being marked as legal in Blitz - bug notice credit: jkloo
+- Fixed typo in functional text of Ruu'di, Gem Keeper - bug notice credit: jkloo
+- Fixed issue with `Taipanis, Dracai of Judgement` not having a health or intelligence value - bug notice credit: jkloo
+- Fixed issue with Heart-throb, Fiddle-dee, Nom de Plume, and Quickstep not having a defense value - bug notice credit: Pgibby8
+- Fixed issue with Open the Center incorrectly having an arcane damage property - bug notice credit: manwaring
+- Fixed issue with Open the Flood Gates missing am arcane damage property
+- Fixed issue with Jarl Vetreiði's name being mispelled - bug notice credit: deguchi
+- Fixed issue with Armory Deck Origins - Jarl Vetreiði name being mispelled
 
 TODO:
 - Added set data for AST, GEM and HNT
@@ -826,4 +842,3 @@ TODO:
 - Updated TCC107 Vigor printing's Art Variation to be AA
 - Updated CC Banned status for Zephyr Needle
 - Updated Blitz Living Legend status for Victor Goldmane and Miller's Grindstone
-
