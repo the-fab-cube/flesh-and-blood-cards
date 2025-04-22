@@ -224,7 +224,7 @@ NbbDrzwLMP7CH69PHcWfK	Aqua Seeing Shell				1				Mystic, Equipment, Head	Cloaked	
 
 At the start of your turn, destroy this."	Mystic Equipment - Head					
 9F7RHWjLgCDRqwMww99GN	Arakni					20	4		Assassin, Hero, Young							Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.	Assassin Hero - Young			No		No
-CKtFCgnGdwMDBh7dzDqqz	Arakni, Huntsman					40	4		Assassin, Hero							Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.	Assassin Hero				No	
+CKtFCgnGdwMDBh7dzDqqz	Arakni, Huntsman					40	4		Assassin, Hero							Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.	Assassin Hero		No		No	
 jkwfjdcDbhRnDrPWDnwT9	Arakni, Solitary Confinement					19	4		Assassin, Hero, Young				Go again		Stealth	Your first attack with **stealth** each turn has **go again**.	Assassin Hero - Young			No		No
 hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	2	6						Light, Illusionist, Instant, Aura	Prism Specialization, Spectra						"**Prism Specialization**
 
@@ -2391,6 +2391,7 @@ Mr6TbnRrKTrJWndKh8QwF	Empyrean Rapture								Light, Illusionist, Equipment, Che
 dJhftDhtgzGRMPCt7btf9	En Garde	1	1		3				Warrior, Action	Go again						"Your next weapon attack this turn gains +3{p}.
 
 **Go again**"	Warrior Action					
+jR8M7zkdc97kKqDjw7RWD	Enact Vengeance	1	2	6	3				Ninja, Action, Attack	Combo						"**Combo** - If Edge of Autumn or a card with Vengeance in its name was the last attack this combat chain, this gets ""When this hits a hero, destroy all cards in their arsenal."""	Ninja Action - Attack				No	
 dzMtpNHjPcPNCFFkrR9QJ	Encase	1	0		3			3	Elemental, Wizard, Action	Ice Fusion			Freeze			"**Ice Fusion**
 
 Deal 3 arcane damage to any target. If Encase was **fused** and deals damage to a hero, **freeze** that hero and all equipment they control until the start of your next turn."	Elemental Wizard Action				No	
@@ -2868,7 +2869,7 @@ If Fervent Forerunner is played from arsenal, it gains **go again**."	Generic Ac
 zQMMbcBbbRKKJcTwcCPPQ	Fervent Forerunner	3	0	1	2				Generic, Action, Attack	Opt 2, Go again						"If Fervent Forerunner hits, **opt 2**.
 
 If Fervent Forerunner is played from arsenal, it gains **go again**."	Generic Action - Attack					
-p7CLrzj7kGMtt8cLfMdqT	Fiddle-dee								Bard, Equipment, Arms		Action	Go again				**Action** - Destroy this: Each hero creates a Might token.  **Go again**	Bard Equipment - Arms				No	
+p7CLrzj7kGMtt8cLfMdqT	Fiddle-dee				0				Bard, Equipment, Arms		Action	Go again				**Action** - Destroy this: Each hero creates a Might token.  **Go again**	Bard Equipment - Arms				No	
 cWRWbKczR8N8F6nGBMNG7	Figment of Erudition	2	4						Light, Illusionist, Instant, Figment	Legendary						"**Legendary**
 
 When this enters the arena, create a Ponder token."	Light Illusionist Instant - Figment				No	
@@ -2899,9 +2900,6 @@ FKCrQMngDF9nMT99qzNjn	Firebreathing	1	2	3	3				Generic, Action, Attack		Instant	
 kHP6QW9GNhJzkDjq7nGpk	Firewall	1			4				Mechanologist, Block							When this defends, reveal the top card of your deck. If it's an Evo, put it on top of your deck. Otherwise, put it on the bottom.	Mechanologist Block				No	
 zRdT7QbmBfgd7DKBwjfGd	Firewall	2			3				Mechanologist, Block							When this defends, reveal the top card of your deck. If it's an Evo, put it on top of your deck. Otherwise, put it on the bottom.	Mechanologist Block				No	
 qQQr98pt8gmgGdttPNTH7	Firewall	3			2				Mechanologist, Block							When this defends, reveal the top card of your deck. If it's an Evo, put it on top of your deck. Otherwise, put it on the bottom.	Mechanologist Block				No	
-PGCBWLPcTWcHRh7CwW8K7	Fist Pump				1				Mechanologist, Equipment, Arms	Battleworn					Boost	"Whenever you banish a Hyper Driver from boosting, target wrench you control gets +1{p} this turn.
-
-**Battleworn**"	Mechanologist Equipment - Arms				No	
 BwjpdtTFfBRTJHgKMM6rn	First Tenet of Chi: Moon	3	0		3				Mystic, Action	Go again						"Your next blue attack this turn gets ""When this attacks, draw a card.""
 
 **Go again**"	Mystic Action					
@@ -2911,6 +2909,9 @@ rtLfTrnFcDBQhtbFprGRD	First Tenet of Chi: Tide	3	0		3				Mystic, Action	Go again
 tCjqz6rHFKTmDpDkfHmzm	First Tenet of Chi: Wind	3	0		3				Mystic, Action	Go again			Go again			"The next blue action card you play this turn gets **go again**.
 
 Go again"	Mystic Action					
+PGCBWLPcTWcHRh7CwW8K7	Fist Pump				1				Mechanologist, Equipment, Arms	Battleworn					Boost	"Whenever you banish a Hyper Driver from boosting, target wrench you control gets +1{p} this turn.
+
+**Battleworn**"	Mechanologist Equipment - Arms				No	
 FwDRt9TR7CCJd9NnNBmfP	Fisticuffs								Generic, Equipment, Arms		Attack Reaction					**Attack Reaction** - {r}{r}, destroy Fisticuffs: Target attack action card gains +1{p}.	Generic Equipment - Arms					
 KthQj9HCRMDRfngK88kCw	Flail of Agony			1					Shadow, Runeblade, Weapon, Flail, 1H	Vynnset Specialization	Once per Turn Action	Attack				"**Vynnset Specialization**
 
@@ -3527,7 +3528,7 @@ PpQBJwQCfFrHzKM9TkcbD	Heart of Ice				1				Ice, Equipment, Chest	Arcane Barrier 
 **Arcane Barrier 1**
 
 **Blade Break**"	Ice Equipment - Chest				No	
-h7NLHrBf7dNmKLN8zqRLn	Heart-throb								Bard, Equipment, Chest		Action	Go again				**Action** - Destroy this: Each hero creates a Vigor token.  **Go again**	Bard Equipment - Chest				No	
+h7NLHrBf7dNmKLN8zqRLn	Heart-throb				0				Bard, Equipment, Chest		Action	Go again				**Action** - Destroy this: Each hero creates a Vigor token.  **Go again**	Bard Equipment - Chest				No	
 rQ7rcfpMdHMcLkTqtnfHz	Heartbeat of Candlehold	3	1		3				Earth, Wizard, Action	Verdance Specialization, Go again						"**Verdance Specialization**
 
 Gain 1{h}. Gain 1{h}. Gain 1{h}.
@@ -4151,9 +4152,9 @@ Whenever you play an Ice card during an opponents turn, create a Frostbite token
 MqhJWhp7gnBLjtMwzwmm8	Jack-o'-lantern	1	0		2				Shadow, Runeblade, Action	Go again						Banish the top card of your deck. If it's red, create a Runechant token.	Shadow Runeblade Action				No	
 KmMWLT6fF88QdfKTJ9GFf	Jack-o'-lantern	2	0		2				Shadow, Runeblade, Action	Go again						Banish the top card of your deck. If it's yellow, create a Runechant token.	Shadow Runeblade Action				No	
 b9tmpTgLPfDhD6qDJ7FwD	Jack-o'-lantern	3	0		2				Shadow, Runeblade, Action	Go again						Banish the top card of your deck. If it's blue, create a Runechant token.	Shadow Runeblade Action				No	
-9QL68DDb9hCqhWWhgnQgR	Jarl Vetreiđi					40	4		Elemental, Guardian, Hero							"Whenever you play an Ice card, create a Frostbite token in an opponent's exposed head, chest, arms, or legs zone.
+9QL68DDb9hCqhWWhgnQgR	Jarl Vetreiði					40	4		Elemental, Guardian, Hero							"Whenever you play an Ice card, create a Frostbite token in an opponent's exposed head, chest, arms, or legs zone.
 
-**Essence of Earth and Ice**"	Elemental Guardian Hero				No	
+**Essence of Earth and Ice**"	Elemental Guardian Hero		No		No	
 GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit			2					Bard, Weapon, Fiddle, 2H		Once per Turn Action, Action	Go again, Attack				"**Once per Turn Action** - {r}{r}{r}: Target opposing hero chooses and creates a Might, Quicken, or Vigor token. You create a Copper token. **Go again**
 
 **Action** - 0: **Attack**. When this hits, destroy it."	Bard Weapon - Fiddle (2H)					
@@ -4871,7 +4872,7 @@ Search your deck for an arrow card, reveal it, then shuffle your deck and put it
 **Reload**
 
 **Go again**"	Ranger Action				No	
-GkMGqFmbbrpwRCGHJknjt	Nom de Plume								Bard, Equipment, Head		Action	Go again				**Action** - Destroy this: Each hero draws a card.  **Go again**	Bard Equipment - Head				No	
+GkMGqFmbbrpwRCGHJknjt	Nom de Plume				0				Bard, Equipment, Head		Action	Go again				**Action** - Destroy this: Each hero draws a card.  **Go again**	Bard Equipment - Head				No	
 CGhtqrGGT7TL9C89GjF8R	Northern Winds	3	0		2				Ice, Action	Oldhim Specialization, Unity, Freeze						"**Oldhim Specialization**
 
 **Freeze** up to 1 equipment, item, and/or ally each hero controls.
@@ -4949,16 +4950,16 @@ rC98Cch9DNGTfpggrNBh6	On a Knife Edge	2	0		2				Generic, Action	Go again			Go ag
 pFLwpNDCLLMNtd7rRqNMf	One-Two Punch	1	0	3	3				Ninja, Action, Attack	Combo						"**Combo** - If Head Jab was the last attack this combat chain, this has ""When this hits a hero, deal 2 damage to them."""	Ninja Action - Attack					
 nCKMcTCR7mjKgkhQk7TWc	One-Two Punch	2	0	2	3				Ninja, Action, Attack	Combo						"**Combo** - If Head Jab was the last attack this combat chain, this has ""When this hits a hero, deal 2 damage to them."""	Ninja Action - Attack					
 TrQFGjDB6ktDwC6JMcqFT	One-Two Punch	3	0	1	3				Ninja, Action, Attack	Combo						"**Combo** - If Head Jab was the last attack this combat chain, this has ""When this hits a hero, deal 2 damage to them."""	Ninja Action - Attack					
-TkCWdhw8pfcpfckC9MLNm	Open the Center	1	2	5	3			3	Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack					
-BfQnT8rqMhTBmDWCFgdhW	Open the Center	2	2	4	3			2	Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack					
-CChttCnwGwHMcBKm6LhNR	Open the Center	3	2	3	3			1	Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack					
-FwtKQ8HK8JLbHFWbFQDPg	Open the Flood Gates	1	2		3				Wizard, Action	Surge						"Deal 3 arcane damage to target hero.
+TkCWdhw8pfcpfckC9MLNm	Open the Center	1	2	5	3				Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack					
+BfQnT8rqMhTBmDWCFgdhW	Open the Center	2	2	4	3				Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack					
+CChttCnwGwHMcBKm6LhNR	Open the Center	3	2	3	3				Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack					
+FwtKQ8HK8JLbHFWbFQDPg	Open the Flood Gates	1	2		3			3	Wizard, Action	Surge						"Deal 3 arcane damage to target hero.
 
 **Surge** - If this deals more than 3 damage, draw 2 cards."	Wizard Action					
-NHdBTDcjh8hGJBKPpcgQ9	Open the Flood Gates	2	2		3				Wizard, Action	Surge						"Deal 2 arcane damage to target hero.
+NHdBTDcjh8hGJBKPpcgQ9	Open the Flood Gates	2	2		3			2	Wizard, Action	Surge						"Deal 2 arcane damage to target hero.
 
 **Surge** - If this deals more than 2 damage, draw 2 cards."	Wizard Action					
-jBbnKk8wHjT9GG7fMzkdJ	Open the Flood Gates	3	2		3				Wizard, Action	Surge						"Deal 1 arcane damage to target hero.
+jBbnKk8wHjT9GG7fMzkdJ	Open the Flood Gates	3	2		3			1	Wizard, Action	Surge						"Deal 1 arcane damage to target hero.
 
 **Surge** - If this deals more than 1 damage, draw 2 cards."	Wizard Action					
 6Wcpcb7DQ8GMGMTwjdQTR	Optekal Monocle	3	0						Mechanologist, Action, Item		Action	Opt 1, Go again				"Optekal Monocle enters the arena with 5 steam counters on it. When Optekal Monocle has no steam counters on it, destroy it.
@@ -5688,7 +5689,7 @@ The next attack you **boost** this turn gets +2{p}.
 MLc97c6bqmKcPCtNg9M9q	Quicksilver Dagger			1					Warrior, Weapon, Dagger, 1H	Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 If another weapon you control has gained **go again** this turn, this card's attacks get **go again**."	Warrior Weapon - Dagger (1H)					
-DmpnhzMR7WhCgkFWncRkk	Quickstep								Bard, Equipment, Legs		Action	Go again				**Action** - Destroy this: Each hero creates a Quicken token.  **Go again**	Bard Equipment - Legs				No	
+DmpnhzMR7WhCgkFWncRkk	Quickstep				0				Bard, Equipment, Legs		Action	Go again				**Action** - Destroy this: Each hero creates a Quicken token.  **Go again**	Bard Equipment - Legs				No	
 FcJ9DMBN6LLbBJGhJ9Kkt	Quiver of Abyssal Depths								Ranger, Equipment, Quiver		Instant					**Instant** - {r}{r}{r}, destroy Quiver of Abyssal Depths: Shuffle up to 3 arrows with different names from your graveyard into your deck.	Ranger Equipment - Quiver				No	
 Pc9dDNQmwKnmDbgf6jrLH	Quiver of Rustling Leaves								Ranger, Equipment, Quiver		Instant					**Instant** - {r}{r}{r}: Reveal the top card of your deck. If it's an arrow, put it face up into your arsenal and destroy Quiver of Rustling Leaves.	Ranger Equipment - Quiver				No	
 GcD9dDfgTK8tmn7H8ccTk	Radiant Flow								Light, Equipment, Legs		Instant					**Instant** - Banish this and a card from your hero's soul: Prevent the next 2 damage that would be dealt to your hero this turn.	Light Equipment - Legs					
@@ -6319,7 +6320,7 @@ tMDDnhBrcpCL8c9MW7BgC	Rushing River	3	0	1	3				Ninja, Action, Attack	Combo, Go a
 CCwMfr7DptzKNpLPDwtDc	Rusted Relic	3	0						Generic, Action, Item	Arcane Barrier 1						**Arcane Barrier 1**	Generic Action - Item				No	
 hRMhmf8qkn6pR7TWQLqgb	Ruu'di, Gem Keeper					40	4		Hero, Merchant		Once per Turn Action	Go again				"You may only have PSA graded cards in your deck.
 
-**Once per Turn Action** - {r}: Reveal the top card of your deck. If it's graded Gem Min 10, put it into your hand, otherwise each opponent may draw a card. **Go again**"	Hero - Merchant		No	No	No	No
+**Once per Turn Action** - {r}: Reveal the top card of your deck. If it's graded Gem Mint 10, put it into your hand, otherwise each opponent may draw a card. **Go again**"	Hero - Merchant		No	No	No	No
 bdCCWJQKkgjTNrH8PbnwQ	Sack the Shifty	1	0	4	3				Assassin, Action, Attack	Contract					Go again	"**Contract** - You are contracted to banish opponents' cards with base **go again**. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."	Assassin Action - Attack					
@@ -7652,7 +7653,7 @@ QkHWwDgWHtWPqbHHrcBLM	T-Bone	2	0	2	3				Mechanologist, Action, Attack	Boost					
 zqDHmd6wGQKW8HFHd7BNP	T-Bone	3	0	1	3				Mechanologist, Action, Attack	Boost					Boost	"If you control a card on the combat chain that was boosted, the defending hero must defend this with an equipment they control if able.
 
 **Boost**"	Mechanologist Action - Attack				No	
-FtGCjcNCNGg9MkDMwtKCN	Taipanis, Dracai of Judgement								Draconic, Adjudicator, Hero							The first time each turn another hero becomes the target of a source that would deal lethal damage, you may discard a red card. If you do, choose new targets for that source.	Draconic Adjudicator Hero		No	No	No	No
+FtGCjcNCNGg9MkDMwtKCN	Taipanis, Dracai of Judgement					20	4		Draconic, Adjudicator, Hero							The first time each turn another hero becomes the target of a source that would deal lethal damage, you may discard a red card. If you do, choose new targets for that source.	Draconic Adjudicator Hero		No	No	No	No
 hFhjbTW96DmWQPBP8C8HF	Take Aim	1	0		2				Ranger, Action	Reload, Go again						"The next Ranger attack action card you play this turn, gains +3{p}.
 
 **Reload**
@@ -8246,7 +8247,7 @@ pN9zPNQfc6GGrwdgMBLkj	Ursur, the Soul Reaper			6		6			Shadow, Token, Demon, Ally
 
 While Ursur is attacking a hero with 1 or more cards in their soul, the attack has **go again**."	Shadow Token - Demon Ally					
 QmqN6fJJMnLDjLHKF7g97	Uzuri					20	4		Assassin, Hero, Young		Once per Turn Attack Reaction				Stealth	**Once per Turn Attack Reaction** - Banish a card from your hand face down: Turn the card banished this way face up. If it's an attack action card with cost 2 or less, put target attacking card with **stealth** from the active chain link on the bottom of its owner's deck, then put the banished card onto the active chain link as the attacking card.	Assassin Hero - Young			No		No
-rNhtnPWtDDBzBp7mNdQtT	Uzuri, Switchblade					40	4		Assassin, Hero		Once per Turn Attack Reaction				Stealth	**Once per Turn Attack Reaction** - Banish a card from your hand face down: Turn the card banished this way face up. If it's an attack action card with cost 2 or less, put target attacking card with **stealth** from the active chain link on the bottom of its owner's deck, then put the banished card onto the active chain link as the attacking card.	Assassin Hero				No	
+rNhtnPWtDDBzBp7mNdQtT	Uzuri, Switchblade					40	4		Assassin, Hero		Once per Turn Attack Reaction				Stealth	**Once per Turn Attack Reaction** - Banish a card from your hand face down: Turn the card banished this way face up. If it's an attack action card with cost 2 or less, put target attacking card with **stealth** from the active chain link on the bottom of its owner's deck, then put the banished card onto the active chain link as the attacking card.	Assassin Hero		No		No	
 7cWwd7rnKPhmw7hTnTqKm	V for Valor	1	0		2				Light, Warrior, Action, Aura		Attack Reaction	Charge				**Attack Reaction** - {r}, destroy this, **charge** your hero's soul: Target attack gains +3{p}.	Light Warrior Action - Aura				No	
 dhwrK7dkJkdwjFBjJWHg9	V for Valor	2	0		2				Light, Warrior, Action, Aura		Attack Reaction	Charge				**Attack Reaction** - {r}, destroy this, **charge** your hero's soul: Target attack gains +2{p}.	Light Warrior Action - Aura				No	
 hwbbCj8CLCtFCrtDqtJNC	V for Valor	3	0		2				Light, Warrior, Action, Aura		Attack Reaction	Charge				**Attack Reaction** - {r}, destroy this, **charge** your hero's soul: Target attack gains +1{p}.	Light Warrior Action - Aura				No	

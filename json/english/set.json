@@ -65,7 +65,7 @@
     {
         "unique_id": "NhqdzMMTrtNQdB6DphMGh",
         "id": "AJV",
-        "name": "Armory Deck Origins - Jarl Vetreiđi",
+        "name": "Armory Deck Origins - Jarl Vetreiði",
         "printings": [
             {
                 "unique_id": "cD8qW6NqpwjRqpNRrht6D",
@@ -86,7 +86,7 @@
     {
         "unique_id": "HJ8Dqhq7tCwKWFCwkjw86",
         "id": "AKO",
-        "name": "Armory Deck Kayo",
+        "name": "Armory Deck - Kayo",
         "printings": [
             {
                 "unique_id": "q77LRn8kGwH9TM76kFWNp",
@@ -107,7 +107,7 @@
     {
         "unique_id": "BrRjNCgcqCj7TrJPbrmKk",
         "id": "AMX",
-        "name": "Amory Deck Maxx",
+        "name": "Amory Deck - Maxx",
         "printings": [
             {
                 "unique_id": "Jnr9G9CbTNdtFCc9JdJKG",
@@ -184,7 +184,7 @@
     {
         "unique_id": "gmPW6zdL8Fkcd7T6Fghdb",
         "id": "ASB",
-        "name": "Armory Deck Boltyn",
+        "name": "Armory Deck - Boltyn",
         "printings": [
             {
                 "unique_id": "hcwhwT87GNGLw8dzpzKWn",
@@ -199,6 +199,27 @@
                 "card_gallery": null,
                 "release_notes": null,
                 "set_logo": "https://dhhim4ltzu1pj.cloudfront.net/media/images/ad_boltyn_logo.original.png"
+            }
+        ]
+    },
+    {
+        "unique_id": "rDTjHH7pgRNCFrrWqpcmQ",
+        "id": "ASR",
+        "name": "Armory Deck - Ira",
+        "printings": [
+            {
+                "unique_id": "rB9MWz686BFgFq8nwtq9j",
+                "edition": "N",
+                "start_card_id": "ASR008",
+                "end_card_id": "ASR008",
+                "initial_release_date": "2025-07-11T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": "https://fabtcg.com/en/products/booster-set/armory-deck-ira/",
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": "https://dhhim4ltzu1pj.cloudfront.net/media/images/AD_Ira_Logo_Glow.original.png"
             }
         ]
     },
