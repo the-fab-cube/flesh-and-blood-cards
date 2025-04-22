@@ -118,5 +118,37 @@
         "date_announced": "2024-04-16T00:00:00.000Z",
         "date_in_effect": "2024-04-19T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/articles/living-legend-dromai-ash-artist/"
+    },
+    {
+        "unique_id": "Rjw6mtCjWFwk6fz8FmwK6",
+        "card_unique_id": "tJhRRN9kkMCnGQdQJ8TWg",
+        "status_active": true,
+        "date_announced": "2025-04-21T00:00:00.000Z",
+        "date_in_effect": "2025-04-25T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-enigma-ledger-of-ancestry-and-zen-tamer-of-purpose/"
+    },
+    {
+        "unique_id": "dnfmnMttKpbkpcBDbqW8w",
+        "card_unique_id": "zMC89pqnzTP7bkmfjmTzQ",
+        "status_active": true,
+        "date_announced": "2025-04-21T00:00:00.000Z",
+        "date_in_effect": "2025-04-25T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-enigma-ledger-of-ancestry-and-zen-tamer-of-purpose/"
+    },
+    {
+        "unique_id": "jgCDjdPFwPcMRjtccjMnt",
+        "card_unique_id": "GDbCgdDrFKCWWthrgD6h6",
+        "status_active": true,
+        "date_announced": "2025-04-21T00:00:00.000Z",
+        "date_in_effect": "2025-04-25T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-enigma-ledger-of-ancestry-and-zen-tamer-of-purpose/"
+    },
+    {
+        "unique_id": "GmCfb8mdqpJfTmppQKbjd",
+        "card_unique_id": "M7nPGBJMNj6tbtDgzMNqc",
+        "status_active": true,
+        "date_announced": "2025-04-21T00:00:00.000Z",
+        "date_in_effect": "2025-04-25T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-enigma-ledger-of-ancestry-and-zen-tamer-of-purpose/"
     }
 ]
