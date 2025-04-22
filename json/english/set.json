@@ -42,6 +42,27 @@
         ]
     },
     {
+        "unique_id": "TPTpTTGwGRcpmpjLhpMmH",
+        "id": "AGB",
+        "name": "Armory Deck - Gravy Bones",
+        "printings": [
+            {
+                "unique_id": "ggrNmGdbz8LcBRQKdFHnp",
+                "edition": "N",
+                "start_card_id": "AGB001",
+                "end_card_id": "AGB019",
+                "initial_release_date": "2025-05-30T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cards.fabtcg.com/products/armory-deck-gravy-bones/",
+                "product_page": "https://fabtcg.com/en/products/booster-set/armory-deck-gravy-bones/",
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": "https://dhhim4ltzu1pj.cloudfront.net/media/images/gravybones_logo.original.png"
+            }
+        ]
+    },
+    {
         "unique_id": "QPwGGk7Tnrtpj7RfD6BJP",
         "id": "AIO",
         "name": "Armory Deck - Dash I/O",
@@ -764,7 +785,7 @@
                 "unique_id": "NrpJFBQQGpNM8D9w8BBfG",
                 "edition": "N",
                 "start_card_id": "HER000",
-                "end_card_id": "HER134",
+                "end_card_id": "HER135",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -974,7 +995,7 @@
                 "unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
                 "edition": "N",
                 "start_card_id": "LGS001",
-                "end_card_id": "LGS381",
+                "end_card_id": "LGS406",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1060,6 +1081,27 @@
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/monarch-booster-unlimited/",
                 "release_notes": "https://fabtcg.com/en/resources/rules-and-policy-center/release-notes/monarch/",
                 "set_logo": "https://dhhim4ltzu1pj.cloudfront.net/media/images/0zIUv0bFVWaD.original.png"
+            }
+        ]
+    },
+    {
+        "unique_id": "bLQtwmQ8wzKq7Q7WJGtTr",
+        "id": "MPG",
+        "name": "Mastery Pack Guardian",
+        "printings": [
+            {
+                "unique_id": "h8wHg96nBztBqFwNwh9wQ",
+                "edition": "N",
+                "start_card_id": "MPG001",
+                "end_card_id": "MPG028",
+                "initial_release_date": "2025-08-08T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cards.fabtcg.com/products/mastery-pack-guardian/",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
             }
         ]
     },

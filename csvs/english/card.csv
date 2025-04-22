@@ -566,6 +566,9 @@ hJdQ9Bfwm8Fz8kdtzHHqL	Barraging Brawnhide	2	3	6	2				Generic, Action, Attack				
 QKgbfzgpnzfq7HKgWTzRg	Bastion of Unity				1				Warrior, Equipment, Off-Hand	Unity, Temper						"**Unity** - When this defends together with a card from hand, this gets +1{d} until end of turn.
 
 **Temper**"	Warrior Equipment - Off-hand				No	
+t79k8WMTmQBDnk6DcqzP8	Batter to a Pulp	1	6	10	3				Guardian, Action, Attack	Crush						"If this would deal 4 or more damage, that damage can't be prevented.
+
+**Crush** - When this deals 4 or more damage to a hero, destroy an equipment they control with no defense value."	Guardian Action - Attack				No	
 RKqGdm6WndJLgwRtTQkpc	Battered Not Broken	1	0						Brute, Guardian, Instant							The next time you would be dealt damage this turn, prevent 2 of that damage. If you do, create a Might token.	Brute / Guardian Instant				No	
 jnptttBbHJCwHBC99PMkF	Battering Bolt	1	2	6	3				Ranger, Action, Arrow, Attack							If Battering Bolt hits a hero, they reveal their hand and discard all cards other than action cards. Then they lose 1{h} for each card discarded this way.	Ranger Action - Arrow Attack				No	
 f8wtgfmb6wRGbJH9bqtRw	Battlefield Blitz	1	1	5	3				Light, Warrior, Action, Attack	Go again					Charge	If you've **charged** this turn, Battlefield Blitz gains **go again**.	Light Warrior Action - Attack				No	
@@ -889,6 +892,9 @@ Target attacking or defending attack action card gets -2{p}."	Light Instant
 BRpW7fcWGrCNrL6F67kkc	Blinding Beam	3	1						Light, Instant							"Blinding Beam cost {r} less to play if it targets a Shadow Card.
 
 Target attacking or defending attack action card gets -1{p}."	Light Instant					
+mdLNBgt6kTMfdG9c97jP9	Blinding of the Old Ones	1	6	10	3				Guardian, Action, Attack	Crush, Heave 2						"**Crush** - When this deals 4 or more damage to a Guardian hero, cards they own lose all abilities during their next turn.
+
+**Heave 2**"	Guardian Action - Attack				No	
 NBRB8MLKNqNdcQGwwFKgB	Blink	3	0						Lightning, Instant							Gain 1 action point.	Lightning Instant				No	
 PfB8MChc7h7wmW6wgfRBM	Blistering Assault	1	2	5	2				Light, Action, Attack	Go again						If you have a yellow card in your pitch zone, this gets **go again**.	Light Action - Attack					
 kMB9htzpJkJjKrWpPFF8R	Blistering Assault	2	2	4	2				Light, Action, Attack	Go again						If you have a yellow card in your pitch zone, this gets **go again**.	Light Action - Attack					
@@ -2155,6 +2161,9 @@ Each hero banishes a card from their arsenal.
 TtMnqPqJNGgrjmMJ99KWn	Disable	1	5	9	3				Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.	Guardian Action - Attack				No	
 fgrK7Mbp8qQcbMtQDwk9F	Disable	2	5	8	3				Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.	Guardian Action - Attack				No	
 7LPnw9zFRhGmKHzCzMpdJ	Disable	3	5	7	3				Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.	Guardian Action - Attack				No	
+CkHnpRcfgkcrmJqTpDztp	Disenchantment of the Old Ones	1	6	10	3				Guardian, Action, Attack	Crush, Heave 2						"**Crush** - When this deals 4 or more damage to a Guardian hero, destroy all auras they control.
+
+**Heave 2**"	Guardian Action - Attack				No	
 WRhC8n6HHNkRn6MjzDHDL	Dishonor	3	0	2	3				Ninja, Action, Attack	Combo						"**Combo** - If Bonds of Ancestry was the last attack this combat chain, this has +2{p}.
 
 When this hits a hero, if you control Surging Strike, Descendent Gustwave, and Bonds of Ancestry, that hero loses all abilities for the rest of the game."	Ninja Action - Attack				No	
@@ -6161,6 +6170,9 @@ If you have attacked with a weapon this turn, your next attack this turn gains *
 JgbBkhwf8bRTnJCB6HLrD	Push the Point	1	1	4	2				Generic, Action, Attack							If the last attack on this combat chain hit, Push the Point gains +2{p}.	Generic Action - Attack					
 fqF87f9FWqhtqnNDkKcBB	Push the Point	2	1	3	2				Generic, Action, Attack							If the last attack on this combat chain hit, Push the Point gains +2{p}.	Generic Action - Attack					
 MCf7PDzNkfQQrkwJmL9mp	Push the Point	3	1	2	2				Generic, Action, Attack							If the last attack on this combat chain hit, Push the Point gains +2{p}.	Generic Action - Attack					
+FB87tWPkwcRzmzjLcDfMD	Put 'Em In Their Place	1	6	10	3				Guardian, Action, Attack	Valda Specialization, Crush						"**Valda Specialization**
+
+**Crush** - When this deals 4 or more damage to a hero, they discard their hand, then they draw that many cards."	Guardian Action - Attack				No	
 MwtKH7HkBhbtFWTBCbDCm	Put in Context	3	0		3				Generic, Defense Reaction							This can only defend an attack with 3 or less base {p}.	Generic Defense Reaction					
 7QhWMkPGMbFjHqn7rk9Gq	Putrid Stirrings	1	3		3				Shadow, Runeblade, Action	Blood Debt, Go again					Rune Gate	"You may play this from your banished zone.
 
@@ -6616,6 +6628,9 @@ BCHMTFpN9Nb7JrWh6T6nk	Rifted Torment	3	2	2	3			1	Shadow, Runeblade, Action, Atta
 fbKhDHT7dDzFfh7cpBjkJ	Rifting	1	2	6	2				Generic, Action, Attack							If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.	Generic Action - Attack					
 ngDCfBTHCC9RGG6mQFcQp	Rifting	2	2	5	2				Generic, Action, Attack							If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.	Generic Action - Attack					
 jNHCpjQbFbfjnj8KD9rjg	Rifting	3	2	4	2				Generic, Action, Attack							If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.	Generic Action - Attack					
+jrGCfgFzjRwjWMNCCPzmc	Riggermortis	2	1	6		1			Pirate, Necromancer, Action, Ally	Watery Grave	Action	Attack				"**Action** - {r}, {t}: **Attack**
+
+**Watery Grave**"	Pirate Necromancer Action - Ally				No	
 WjTbCjjCgPncF9w7WH9Q8	Righteous Cleansing	2	7	10	3				Guardian, Action, Attack	Crush						**Crush** - If Righteous Cleansing deals 4 or more damage to a hero, look at the top 5 cards of their deck. Banish 1 or more cards with the same name from among them, then put the rest on top of their deck in any order.	Guardian Action - Attack				No	
 FDktk7t9NkNdLDQQhCPBR	Riled Up	1	3	7	3				Brute, Action, Attack							If you've discarded a card with 6 or more {p} this turn, this gets +1{p}.	Brute Action - Attack					
 B9HmMb6jB9M8kWFLH86fT	Riled Up	2	3	6	3				Brute, Action, Attack							If you've discarded a card with 6 or more {p} this turn, this gets +1{p}.	Brute Action - Attack					
@@ -6985,6 +7000,11 @@ nmc8wLKtTmPhJFb7FH8BG	Savor Bloodshed	1	0		3				Assassin, Warrior, Action	Go aga
 The next time you hit a **marked** hero with a dagger this turn, draw a card.
 
 **Go again**"	Assassin / Warrior Action				No	
+Q8R69DNJCThNGkddBPW6k	Sawbones, Dock Hand	2	2	6		2			Pirate, Necromancer, Action, Ally	Watery Grave	Action, Instant	Attack				"**Action** - {r}, {t}: **Attack**
+
+**Instant** - {t}: The next time you or a Pirate you control would be dealt damage this turn, prevent 1 of that damage.
+
+**Watery Grave**"	Pirate Necromancer Action - Ally				No	
 nkCCKCB8ftPdMCHHWHWtk	Scabskin Leathers				2				Brute, Equipment, Legs	Battleworn	Once per turn Action					"**Once per turn Action** - 0: Roll a 6 sided die. Gain action points equal to half the number rolled, rounded down.
 
 **Battleworn**"	Brute Equipment - Legs				No	
@@ -7221,6 +7241,7 @@ The next attack action card with cost 0 you play this turns gains +1{p} and **go
 
 **Blood Debt**"	Shadow Runeblade Action				No	
 FKc7CtkbBDTrzHr7t8DMQ	Seerstone								Wizard, Weapon, Orb, 2H		Action					**Action** - {r}{r}{r}: Look at the top card of your deck. You may put it on the bottom. Create a Ponder token.	Wizard Weapon - Orb (2H)					
+t9g6gbzgFL9RmRQBBNrP7	Seismic Eruption	2	0						Guardian, Instant							Create 3 Seismic Surge tokens.	Guardian Instant				No	
 NqRrPq9RLbrhFrrgzndt8	Seismic Stir	1	2		3				Guardian, Action	Go again						"Create 3 Seismic Surge tokens.
 
 **Go again**"	Guardian Action					
@@ -7676,6 +7697,9 @@ If Smashing Good Time is played from arsenal, the next attack action card you pl
 
 **Go again**"	Generic Action				No	
 cHd8RnCfp9h8MNkQnL9Md	Smashing Performance	2	3	6					Brute, Action, Attack							When this attacks draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, destroy a random item in the arena.	Brute Action - Attack				No	
+6q8j8bjLPkBrkJCBPGbKb	Smelting of the Old Ones	1	6	10	3				Guardian, Action, Attack	Crush, Heave 2						"**Crush** - When this deals 4 or more damage to a Guardian hero, destroy all equipment they control with -1{d} counters.
+
+**Heave 2**"	Guardian Action - Attack				No	
 kt98RmWMpHzwR8R6Hrccq	Smoke Out	1	0		3				Draconic, Defense Reaction	Mark						When this defends a red card, **mark** the attacking hero.	Draconic Defense Reaction					
 rGc7TPKW7CDRmPRCLg6Jd	Snag	3	0						Generic, Instant							Attack action cards can't gain {p} from their own effects, or the effects of attack reaction cards this turn.	Generic Instant				No	
 rqcn9Q6JDG6FRCrpt9tb7	Snap Shot	1	0	4	3				Elemental, Ranger, Action, Arrow, Attack	Lightning Fusion						"**Lightning Fusion**
@@ -7723,6 +7747,7 @@ LmmNMBnCBtgG6RfWz9rQQ	Soaring Strike	3	1	2	2				Draconic, Ninja, Action, Attack	
 
 **Go again**"	Draconic Ninja Action - Attack					
 GJbRTN6kqNnDtGWzTkdPT	Solar Plexus								Light, Equipment, Chest		Instant					**Instant** - Destroy this, banish a card from your soul: Yellow cards cost you {r} less to play this turn.	Light Equipment - Chest				No	
+PPhTHwN7HKT6Hj9JNbDmt	Solid Ground	3	3		5				Guardian, Defense Reaction							This costs {r} less to play for each Seismic Surge you control.	Guardian Defense Reaction				No	
 NwK66fmnJNBBbTBprQkFG	Solitary Companion	1	0		2				Illusionist, Action, Aura	Ward 3						"When this enters the arena, if you control no other Illusionist auras, create a Spectral Shield token.
 
 **Ward 1**"	Illusionist Action - Aura					
@@ -8502,6 +8527,9 @@ DJQQGbkdhhkMkqpDzWwrw	Territorial Domain	3	0		2				Ninja, Defense Reaction						
 QBwMd7jJGmz7cFKLRDjHd	Test of Might	1			4				Brute, Guardian, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Block				No	
 zmkd9LqrNQFfqHCWKcQNr	Test of Strength	1			4				Generic, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates a Gold token.	Generic Block					
 zt8NGKPrTHDJ8pDrDdJgw	Test of Vigor	1			4				Guardian, Warrior, Block	Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Block				No	
+qtGQDP6NNRnFFgNhKjCkd	Testament of Valahai				1				Guardian, Equipment, Off-Hand	Guardwell						"If you control three or more Seismic Surge tokens, this gets +2{d}. If you control six or more, instead this gets +4{d}.
+
+**Guardwell**"	Guardian Equipment - Off-Hand				No	
 89p6tjT7cTLrGWkKrRkjt	That All You Got?	2	0		3				Generic, Defense Reaction							While this is defending an attack with 2 or less {p}, when the combat chain closes, draw a card.	Generic Defense Reaction				No	
 dJCRQcRmp7mhMTNDRgFN8	Thaw	1	2	6	2				Draconic, Action, Attack				Unfreeze			"While thaw is in your graveyard, at the start of your turn, you may banish it and choose 1:
 
@@ -9000,6 +9028,9 @@ Attacks on this combat chain gain +1{p} for each Light card charged this way."	L
 zWhGF8kMMdmKdhMNdj6NH	Valda Brightaxe					21	4		Guardian, Hero, Young				Dominate		Crush	"Whenever an opponent draws a card during an action phase, create a Seismic Surge token for each card drawn this way.
 
 At the start of your turn, if you control 3 or more Seismic Surge tokens, cards you own with **crush** gain **dominate** this turn."	Guardian Hero - Young			No	No	No
+bjLbTMgMm6QRWBRrw8chQ	Valda, Seismic Impact					40	4		Guardian, Hero				Dominate		Crush	"Whenever an opponent draws 1 or more cards during an action phase, create that many Seismic Surge tokens.
+
+At the start of your turn, if you control 3 or more Siesmic Surge tokens, cards you own with **crush** get **dominate** this turn."	Guardian Hero		No		No	
 wB9f6wWqbBzPf8KBqWqTf	Valiant Dynamo				1				Warrior, Equipment, Legs	Battleworn						"At the beginning of your end phase, if you have attacked 2 or more times with weapons this turn, you may remove a -1{d} counter from Valiant Dynamo.
 
 **Battleworn**"	Warrior Equipment - Legs				No	
