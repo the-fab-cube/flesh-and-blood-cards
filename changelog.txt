@@ -823,7 +823,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated CC Living Legend status for `Enigma, Ledger of Ancestry`, `Cosmo, Scroll of Ancestral Tapestry`, `Zen, Tamer of Purpose`, and `Tiger Taming Khakkara`
 - Updated Blitz Living Legend status for Victor Goldmane and Miller's Grindstone
 - Updated set names for AKO, AMX, and ASB to maintain consistency amongst Armory Decks
-- Fixed issue `Arakni, Huntsman`, Jarl Vetreiði, and `Uzuri, Switchblade` incorrectly being marked as legal in Blitz - bug notice credit: jkloo
+- Fixed issue with `Arakni, 5L!p3d 7hRu 7h3 cR4X`, `Arakni, Huntsman`, Jarl Vetreiði, and `Uzuri, Switchblade` incorrectly being marked as legal in Blitz - bug notice credit: jkloo
+- Fixed issue with `Arakni, 5L!p3d 7hRu 7h3 cR4X` incorrectly being marked as legal in Commoner
 - Fixed typo in functional text of Ruu'di, Gem Keeper - bug notice credit: jkloo
 - Fixed issue with `Taipanis, Dracai of Judgement` not having a health or intelligence value - bug notice credit: jkloo
 - Fixed issue with Heart-throb, Fiddle-dee, Nom de Plume, and Quickstep not having a defense value - bug notice credit: Pgibby8
