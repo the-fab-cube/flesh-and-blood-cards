@@ -820,6 +820,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for Enact Vengeance - data entry assistance: manwaring
 - Added printing data for ASR008 - data entry assistance: manwaring
 - Updated CC Living Legend status for `Enigma, Ledger of Ancestry`, `Cosmo, Scroll of Ancestral Tapestry`, `Zen, Tamer of Purpose`, and `Tiger Taming Khakkara`
+- Updated Blitz Living Legend status for Victor Goldmane and Miller's Grindstone
 - Updated set names for AKO, AMX, and ASB to maintain consistency amongst Armory Decks
 - Fixed issue `Arakni, Huntsman`, Jarl Vetreiði, and `Uzuri, Switchblade` incorrectly being marked as legal in Blitz - bug notice credit: jkloo
 - Fixed typo in functional text of Ruu'di, Gem Keeper - bug notice credit: jkloo
