@@ -264,6 +264,12 @@
         "description_plain": ""
     },
     {
+        "unique_id": "kKkfLpzkL9bzzT6MPHd7b",
+        "name": "Perched",
+        "description": "This can be equipped in addition to a 2H weapon. This can't be attacked while it's equipped.",
+        "description_plain": "This can be equipped in addition to a 2H weapon. This can't be attacked while it's equipped."
+    },
+    {
         "unique_id": "GQfWb9GwKkw9RNrK6L6B9",
         "name": "Phantasm",
         "description": "**Phantasm** is a keyword that exists on Illusionist attacks. Illusionist attacks with **phantasm** are powerful but fragile. When an attack with **phantasm** is defended by a 6{p}+ non-Illusionist attack action card, the attack is destroyed and the combat chain closes.",
@@ -346,6 +352,12 @@
         "name": "Spellvoid X",
         "description": "**Spellvoid** is a keyword primarily on equipment or items. **Spellvoid** is a one time use effect that prevents arcane damage.",
         "description_plain": "Spellvoid is a keyword primarily on equipment or items. Spellvoid is a one time use effect that prevents arcane damage."
+    },
+    {
+        "unique_id": "Hf7NC8dzdQnDFbD8jb6cq",
+        "name": "Steal",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "gkcpTQwRjMPTtRkrHpDhT",

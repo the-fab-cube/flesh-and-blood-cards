@@ -817,13 +817,17 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated functional text for Banksy, Big Bertha, Crankshaft, Hyper Driver, Maxx 'The Hype' Nitro, Maxx Nitro, Sprocket Rocket, and T-Bone
 
 TODO:
-- Added set data for AST, GEM and HNT
-- Added card data for AST and HNT
+- Added set data for AST, GEM and HNT - data entry assistance: manwaring
+- Added card data for AST and HNT - data entry assistance: manwaring
 - Added card data for Magrar and Scarf for a Scarf
-- Added printing data for AST001-AST028, FAB229, FAB244, FAB255-FAB259 FAB279-FAB288, FAB290-FAB293, FAB305, FAB324, FAB333, GEM001-GEM032, HER124-HER134, JDG038-JDG044, LGS369-LGS381, LSS019, and WIN041-WIN045
+- Added printing data for AST001-AST028, FAB229, FAB244, FAB255-FAB259 FAB279-FAB288, FAB290-FAB293, FAB305, FAB324, FAB333, GEM001-GEM032, HER124-HER134, JDG038-JDG044, LGS369-LGS381, LSS019, and WIN041-WIN045 - data entry assistance: manwaring
 - Added missing images for FAB307-FAB320 FAB323, LGS360, LGS364-LGS368
 - Updated functional text for Back Stab, Blaze Headlong, Cinderskin Devotion, Cracked Bauble, Erase Face, Lava Vein Loyalty, Razor's Edge, and Razor Reflex
 - Updated TCC107 Vigor printing's Art Variation to be AA
 - Updated CC Banned status for Zephyr Needle
 - Updated Blitz Living Legend status for Victor Goldmane and Miller's Grindstone
 
+TODO:
+- Added set data for SEA
+- Added card data for SEA - data entry assistance: manwaring, Toaster-404
+- Added printing data for SEA - data entry assistance: manwaring

@@ -21,6 +21,10 @@
     },
     {
         "icon": "{t}",
-        "description": "Tap?"
+        "description": "Tap"
+    },
+    {
+        "icon": "{u}",
+        "description": "Untap"
     }
 ]
