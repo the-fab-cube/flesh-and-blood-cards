@@ -15,7 +15,7 @@ max_id = None
 def download_images_from_language_data(language):
     # Download the images
     path = Path(__file__).parent / f"../../json/{language}/card.json"
-    with path.open(newline='') as jsonfile:
+    with path.open(newline='', encoding='utf-8') as jsonfile:
         card_array = json.load(jsonfile)
 
         for card in card_array:
