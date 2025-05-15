@@ -1,4 +1,22 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	LL Legal
+BfnKt6gbqBFmB6Bw6zGkd	Spitfire			2					Mechanologist, Weapon, Gun, 2H		Action	Attack				"**Action** - {t}, {t} a cog you control: Attack
+
+When this attacks, you may {t} a cog you control. If you do, the attack gets +1{p}."	Mechanologist Weapon - Gun (2H)					
+9PJ9CMqcgnDMFTR7WW8wq	Scooba, Salty Sea Dog	2	0	4		4			Pirate, Necromancer, Action, Ally	Watery Grave	Action	Attack				"**Action** - {r}{r}{r}, {t}: Attack
+
+When this attacks, you may put a yellow card from a graveyard on the bottom of its owner's deck. If you do, create a Gold token.
+
+**Watery Grave**"	Pirate Necromancer Action - Ally				No	
+tfzkkkrLtW9kkWFjpPLQP	Draw a Crowd	3	2		3				Guardian, Action, Aura	Go again						"**Go again**
+
+When this enters the arena, each hero draws a card.
+
+At the beginning of your action phase, destroy this, then the next Guardian attack action card you play this turn gets +3{p}."	Guardian Action - Aura				No	
+jFpwffNmqGB8nTHt7mzp9	Promising Terrain	3	0		3				Guardian, Action, Aura	Go again						"**Go again**
+
+If you would create 1 or more Seismic Surge tokens, instead create that many plus 1.
+
+At the beginning of your action phase, destroy this, then if you control 3 or more Seismic Surge tokens, draw a card and gain 1{h}."	Guardian Action - Aura				No	
 CdFkL9pbDdFj8DKnRHHGn	Bolfar, Bear Hands					20	4		Guardian, Hero, Pit-Fighter		Action	Go again			Crush	"You can't equip weapons.
 
 **Action** - {r}{r}{r}, {t}: The next attack action card with **crush** you play this turn may attack an additional hero. **Go again**"	Guardian Hero - Pit-Fighter		No	No	No	No

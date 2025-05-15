@@ -846,7 +846,7 @@ TODO:
 TODO:
 - Added set data for AGB, APR, AVS, BDD, MPG, SEA, and SMP
 - Added card data for AGB, APR, AVS, BDD, MPG, SEA, and SMP - data entry assistance: manwaring, Toaster-404
-- Added card data for Batter to a Pulp - data entry assistance: manwaring
+- Added card data for Batter to a Pulp, Draw a Crowd, and Promising Terrain - data entry assistance: manwaring
 - Added printing data for AGB, APR, AVS, BDD, MPG, SEA, and SMP - data entry assistance: manwaring
-- Added printing data for HER135, LGS387, LGS406, and LGS410-LGS413 - data entry assistance: manwaring
+- Added printing data for HER135, LGS387, LGS389-LGS390, LGS406, and LGS410-LGS413 - data entry assistance: manwaring
 - Updated Argh... Smash! to use 3 periods instead of one unicode character
