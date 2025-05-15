@@ -830,3 +830,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed issue with Open the Flood Gates missing am arcane damage property
 - Fixed issue with Jarl Vetreiði's name being mispelled - bug notice credit: deguchi
 - Fixed issue with Armory Deck Origins - Jarl Vetreiði name being mispelled
+
+05-15-25:
+- Added printing data for ASR001
+- Added card images for ASR001 and ASR008
