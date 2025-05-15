@@ -152,6 +152,10 @@
         "name": "Equipment"
     },
     {
+        "unique_id": "6LcQhGP7qpJdWN8GFGNWT",
+        "name": "Event"
+    },
+    {
         "unique_id": "hJ7L9WbpPFdjw9hKWN8cP",
         "name": "Evo"
     },
@@ -286,6 +290,10 @@
     {
         "unique_id": "CK6bh8fzPQnFnn7qMNnhq",
         "name": "Pistol"
+    },
+    {
+        "unique_id": "jLnhBq6Gm9QwrgjdnR6rb",
+        "name": "Pit-Fighter"
     },
     {
         "unique_id": "dpKFPnnBFdfh6gcGGcj99",

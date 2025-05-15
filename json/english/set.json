@@ -147,6 +147,27 @@
         ]
     },
     {
+        "unique_id": "7JCQ7LLWpwmJJ9JFLNgpF",
+        "id": "APR",
+        "name": "Armory Deck Legends - Prism",
+        "printings": [
+            {
+                "unique_id": "mp7fBK9pBCF7kmBrGRdLF",
+                "edition": "N",
+                "start_card_id": "APR001",
+                "end_card_id": "APR003",
+                "initial_release_date": "2025-07-24T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cards.fabtcg.com/products/amory-deck-legends-prism-sculptor-of-arc-light/",
+                "product_page": "https://fabtcg.com/en/products/booster-set/armory-deck-legends/",
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "7LbfKJbkWGGwFJDWJn8GB",
         "id": "ARA",
         "name": "Arakni Blitz Deck",
@@ -329,6 +350,27 @@
         ]
     },
     {
+        "unique_id": "mJpgFHnK99p6HDdWWhzML",
+        "id": "AVS",
+        "name": "Armory Deck Legends - Viserai",
+        "printings": [
+            {
+                "unique_id": "KrWcdgddCbgp9nqwKtGmf",
+                "edition": "N",
+                "start_card_id": "AVS001",
+                "end_card_id": "AVS003",
+                "initial_release_date": "2025-07-24T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cards.fabtcg.com/products/amory-deck-legends-viserai-rune-blood/",
+                "product_page": "https://fabtcg.com/en/products/booster-set/armory-deck-legends/",
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "7DwGmMt7dfMKMwTKFQ6hB",
         "id": "AZL",
         "name": "Azalea Blitz Deck",
@@ -343,6 +385,27 @@
                 "card_database": "https://cards.fabtcg.com/products/azalea-blitz-deck/",
                 "product_page": "https://fabtcg.com/en/products/booster-set/outsiders/outsiders-blitz-decks/",
                 "collectors_center": "https://fabtcg.com/en/collectors-centre/outsiders/",
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
+        "unique_id": "mGktWtqzRWGPg6F78RFqh",
+        "id": "BDD",
+        "name": "Bravo Demo Deck",
+        "printings": [
+            {
+                "unique_id": "gmN7PQHjkGMmpjBhDDDnN",
+                "edition": "N",
+                "start_card_id": "BDD001",
+                "end_card_id": "BDD018",
+                "initial_release_date": "2025-08-08T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cards.fabtcg.com/products/bravo-demo-deck/",
+                "product_page": "https://fabtcg.com/en/products/bravo-demo-deck/",
+                "collectors_center": null,
                 "card_gallery": null,
                 "release_notes": null,
                 "set_logo": null
@@ -1093,7 +1156,7 @@
                 "unique_id": "h8wHg96nBztBqFwNwh9wQ",
                 "edition": "N",
                 "start_card_id": "MPG001",
-                "end_card_id": "MPG028",
+                "end_card_id": "MPG112",
                 "initial_release_date": "2025-08-08T00:00:00.000Z",
                 "out_of_print": false,
                 "card_database": "https://cards.fabtcg.com/products/mastery-pack-guardian/",
@@ -1392,6 +1455,27 @@
                 "out_of_print": false,
                 "card_database": "https://cards.fabtcg.com/products/high-seas/",
                 "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
+        "unique_id": "kbPrb6NpWfFwMJHzBb8kn",
+        "id": "SMP",
+        "name": "Smash Palace",
+        "printings": [
+            {
+                "unique_id": "GFtp6DWhdzP6M9n7tk6FH",
+                "edition": "N",
+                "start_card_id": "SMP001",
+                "end_card_id": "SMP034",
+                "initial_release_date": "2025-08-29T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cards.fabtcg.com/products/smash-palace/",
+                "product_page": "https://fabtcg.com/en/products/booster-set/smash-palace/",
                 "collectors_center": null,
                 "card_gallery": null,
                 "release_notes": null,

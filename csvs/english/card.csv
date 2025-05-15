@@ -1,9 +1,23 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	LL Legal
-zFb8FTK6fL7wtcRdcR8gj	Cutty Shark, Quick Clip	2	1	3		4			Pirate, Necromancer, Action, Ally	Watery Grave	Action, Once per Turn Action	Attack, Go again				"**Action** - {r}, {t}: **Attack**
+CdFkL9pbDdFj8DKnRHHGn	Bolfar, Bear Hands					20	4		Guardian, Hero, Pit-Fighter		Action	Go again			Crush	"You can't equip weapons.
 
-**Once per Turn Action** - {r}: Your next ally attack this turn gets +1{p}. **Go again**
+**Action** - {r}{r}{r}, {t}: The next attack action card with **crush** you play this turn may attack an additional hero. **Go again**"	Guardian Hero - Pit-Fighter		No	No	No	No
+rd8gCbPjLCWcPLdqbMRWm	Fightmaster Kox					19	4		Guardian, Hero, Pit-Fighter		Action					**Action** - {t}, destroy a Gold you control: Look at the top 3 cards of the event deck, then put them back in any order. **Go again**	Guardian Hero - Pit-Fighter		No	No	No	No
+JzRH98DmhDN98PnGR8bcg	Groundbreaker Crix					20	4		Guardian, Hero, Pit-Fighter	Clash			Protect			"Your attacks get +1{p} while attacking a hero who controls a Seismic Surge token.
 
-**Watery Grave**"	Pirate Necromancer Action - Ally					
+Whenever you attack a Guardian hero, **clash** with them. The winner creates a Seismic Surge token."	Guardian Hero - Pit-Fighter		No	No	No	No
+KnwNm8LC9DNpT8wMzDnFn	Reya, the Unyielding					21	4		Guardian, Hero, Pit-Fighter							"Block cards you own and equipment you control with 1 or greater {d} get **protect**.
+
+Whenever you protect another hero, create a Gold token."	Guardian Hero - Pit-Fighter		No	No	No	No
+jHHWGcnRpjzF8NMMKmdfF	Victor Goldmane, Match Fixer					20	4		Guardian, Hero, Pit-Fighter		Instant		Dominate		Clash	"**Instant** - {t}: Choose an opponent. The first card they reveal for their next clash this turn gets +1{p}. When they win that clash, you create a Gold token.
+
+Whenever you attack, you may destroy 3 Gold you control. If you do, the attack gets +3{p} and **dominate**."	Guardian Hero - Pit-Fighter		No	No	No	No
+w6dzmjnGppFHCRgmKMFbW	Benefactor of Bloodworth Goldmane								Event							"Create a Gold token.
+
+Your next attack this turn gets ""When this attacks, it gets +X{p}, where X is the number of Gold you control."""	Event		No	No	No	No
+9f8tgdNwfwg7bhkkDLdPK	Code of Conduct: Kill or Be Killed								Event							Until end of turn, you may attack any opposing hero and when you deal lethal damage to them, take an extra turn after this one.	Event		No	No	No	No
+Fj6DCwFDczkFfd7dtnd9J	Crowd Roars Fight!								Event							Your next attack this turn gets +1{p} and may attack any opposing hero.	Event		No	No	No	No
+hRRgnn9nCqGDpqQNHhwJm	Rally the Underdog								Event							Draw a card. If you have less {h} than an opponent, instead draw 2 cards.	Event		No	No	No	No
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3				Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
@@ -1165,6 +1179,7 @@ GJBb8BW9zTQ8CkGbzFqmN	Braveforge Bracers				2				Warrior, Equipment, Arms	Battle
 
 **Battleworn**"	Warrior Equipment - Arms				No	
 tzTbzLkLhDzmW9QMJr9KF	Bravo					20	4		Guardian, Hero, Young		Action	Go again	Dominate			**Action** - {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gains **dominate**. **Go again**	Guardian Hero - Young			No		No
+DbqGjQMfWLNCfd7qGqGht	Bravo, Flattering Showman					20	4		Guardian, Hero, Young	Go again	Action	Go again	Dominate		Crush	**Action** - {r}{r}, {t}: Turn a face-down card in your arsenal face-up. If it has crush, it gets +2{p} and **dominate** this turn. **Go again**	Guardian Hero - Young			No	No	No
 NtLDgPBR7HqDqhDzJMHmk	Bravo, Showstopper					40	4		Guardian, Hero		Action	Go again	Dominate			**Action** - {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gains **dominate**. **Go again**	Guardian Hero		No		No	
 PFJnMWQNfr6jMMzJhjB9H	Bravo, Star of the Show					40	4		Elemental, Guardian, Hero	Essence of Earth, Ice, and Lightning			Dominate, Go again			"**Essence of Earth, Ice, and Lightning**
 
@@ -1802,6 +1817,9 @@ NTCMFrrQdwdrKLnT8kcfc	Crankshaft	3	2	3	3				Mechanologist, Action, Attack	Boost	
 When this is banished from boosting, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
 bzBJdKw6Brc9KmtcNrJKp	Crash Down	1	3		3				Guardian, Action, Aura							At the start of your turn, destroy this, then the next Guardian attack action card you play this turn gets +6{p}.	Guardian Action - Aura				Yes	
 TgrNMPfTmLkB9DtNtkccP	Crash Down	2	3		3				Guardian, Action, Aura							At the start of your turn, destroy this, then the next Guardian attack action card you play this turn gets +5{p}.	Guardian Action - Aura				Yes	
+jDPdqfjkbzLjMGk6nPPgn	Crash and Bash	1			4				Guardian, Block						Crush	When this defends, you may reveal a card with **crush** from your hand. If you do, create a Seismic Surge token.	Guardian Block					
+tCKk7THm9bNKJh8F6Dmzk	Crash and Bash	2			4				Guardian, Block						Crush	When this defends, you may reveal a card with **crush** from your hand. If you do, create a Seismic Surge token.	Guardian Block					
+8CtmRqKLjmGkqD8bgDjTd	Crash and Bash	3			4				Guardian, Block						Crush	When this defends, you may reveal a card with **crush** from your hand. If you do, create a Seismic Surge token.	Guardian Block					
 DbpdPtLqk9zqfp6bdQTP6	Crater Fist				2				Guardian, Equipment, Arms	Temper	Action	Go again			Crush	"**Action** - {r}{r}{r}, destroy Crater Fist: Your attacks with **crush** gain +2{p} this turn. **Go again**
 
 **Temper**"	Guardian Equipment - Arms				No	
@@ -1908,6 +1926,11 @@ Look at the top card of the defending hero's deck. You may put it on the bottom.
 MMpKrnJcBQRmBP9thgWG6	Cut to the Chase	3	0		3				Assassin, Attack Reaction						Contract	"Target Assassin attack action card with **contract** gains +1{p}.
 
 Look at the top card of the defending hero's deck. You may put it on the bottom."	Assassin Attack Reaction					
+zFb8FTK6fL7wtcRdcR8gj	Cutty Shark, Quick Clip	2	1	3		4			Pirate, Necromancer, Action, Ally	Watery Grave	Action, Once per Turn Action	Attack, Go again				"**Action** - {r}, {t}: **Attack**
+
+**Once per Turn Action** - {r}: Your next ally attack this turn gets +1{p}. **Go again**
+
+**Watery Grave**"	Pirate Necromancer Action - Ally					
 fMTdMtzzft7bLzG9DpjNc	Cyclone Roundhouse	2	2	5	3				Ninja, Action, Attack	Combo						"**Combo** - If Spinning Wheel Kick was the last attack this combat chain, this has ""At the beginning of the reaction step, banish a random defending card from each chain link."""	Ninja Action - Attack				No	
 Ddqz6QF9FNMT8qJjjr8Q9	Dabble in Darkness	1	0	5	3				Shadow, Action, Attack	Blood Debt						"When this attacks, banish the top card of your deck. This gets -X{p}, where X is the pitch value of the card banished this way.
 
@@ -3224,6 +3247,9 @@ If Flashfreeze was **fused** with a Lightning card, attacks you control this tur
 RNdgT9tDmGkztGN7zpkRn	Flat Trackers				1				Brute, Warrior, Equipment, Legs	Blade Break	Action	Go again				"Action - Destroy this: Create an Agility token. **Go again**
 
 **Blade Break**"	Brute / Warrior Equipment - Legs					
+RJjbqnMGDRbB9LMT8LpDk	Flatten the Field	1	4	8	3				Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, destroy a Seismic Surge token they control.	Guardian Action - Attack					
+9TDdTNcJdThkBt9HwmJMK	Flatten the Field	2	4	7	3				Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, destroy a Seismic Surge token they control.	Guardian Action - Attack					
+HjbGtQFJWLJ6C7ChzRBhf	Flatten the Field	3	4	6	3				Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, destroy a Seismic Surge token they control.	Guardian Action - Attack					
 cKbtrKKgB6TQdgwKQRRMp	Fleece the Frail	1	0	4	3				Assassin, Action, Attack	Contract						"**Contract** - You are contracted to banish opponents' cards with 2 or less {d}. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."	Assassin Action - Attack					
@@ -3706,6 +3732,9 @@ bpcWc9DJf9pzfBczMWczJ	Grimoire of the Haunt								Shadow, Runeblade, Equipment,
 **Arcane Barrier 1**
 
 **Blood Debt**"	Shadow Runeblade Equipment - Off-Hand				No	
+FNKwLndWDcnRp8T6bjTqT	Grind Them Down	1	3	7	3				Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, destroy the top card of their deck.	Guardian Action - Attack					
+8pDHPwfjKjrCp9CFjbn6t	Grind Them Down	2	3	6	3				Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, destroy the top card of their deck.	Guardian Action - Attack					
+kdLqQ7BbpnTnCkJ9LzPTT	Grind Them Down	3	3	5	3				Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, destroy the top card of their deck.	Guardian Action - Attack					
 TNGCHzzLBft9q77QhkW9d	Grinding Gears	3	0						Mechanologist, Action, Item	Crank	Action					"**Crank**
 
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
@@ -3759,6 +3788,9 @@ While Hala is face up in arsenal, whenever a sword attack you control hits, it g
 phPFrDkRwGDrqrwq8M8T6	Halo of Illumination				0				Light, Equipment, Head	Spellvoid 2	Instant					"**Instant** - {r}, destroy Halo of Illumination: Put a card from your hand into your hero's soul. If it's a Light card, draw a card.
 
 **Spellvoid 2**"	Light Equipment - Head					
+ghPKp8NCBqQNbKLGpqkGM	Halo of Lumina Light								Light, Illusionist, Equipment, Head	Spellvoid 2						"When this is destroyed, you may put a yellow aura from your banished zone into the arena.
+
+**Spellvoid 2**"	Light Illusionist Equipment - Head				No	
 DLCqPPF6cRwMCgdhRBj6F	Hammer of Havenhold			3					Guardian, Weapon, Hammer, 1H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}{r}: **Attack**
 
 If you have a Chivalry in your pitch zone, this gets +1{p}."	Guardian Weapon - Hammer (1H)					
@@ -3916,6 +3948,7 @@ rjhDRz7JGN7kpDdjHQfrg	Helm of Isen's Peak				1				Guardian, Equipment, Head	Batt
 MfBtnKK96JRR8Nb7RWMBn	Helm of Sharp Eye				1				Warrior, Equipment, Head	Battleworn	Attack Reaction					"**Attack Reaction** - {r}, destroy Helm of Sharp Eye: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon with {p} greater than twice it's base {p}.
 
 **Battleworn**"	Warrior Equipment - Head				No	
+ffLDbK7CGgrjL7R68jKJC	Helm of the Arknight				2				Runeblade, Equipment, Head	Temper						**Temper**	Runeblade Equipment - Head				No	
 JbhrgT86TGzH9rWPpzHBc	Hemorrhage Bore	1	1	5	3				Ranger, Action, Arrow, Attack							"If Hemorrhage Bore has an aim counter, it has ""When this hits a hero, destroy a card in their arsenal."""	Ranger Action - Arrow Attack					
 KWpp9Jg6QBftjK9HKNNKW	Hemorrhage Bore	2	1	4	3				Ranger, Action, Arrow, Attack							"If Hemorrhage Bore has an aim counter, it has ""When this hits a hero, destroy a card in their arsenal."""	Ranger Action - Arrow Attack					
 9hMdhNp7G6p6jqcrQD6Gd	Hemorrhage Bore	3	1	3	3				Ranger, Action, Arrow, Attack							"If Hemorrhage Bore has an aim counter, it has ""When this hits a hero, destroy a card in their arsenal."""	Ranger Action - Arrow Attack					
@@ -4608,6 +4641,7 @@ Whenever you attack a **marked** hero this turn, the attack gets **go again**.
 
 **Go again**"	Warrior Action					
 BCBmbhp7nbzkzBHcpzjp7	Knives Out	3	0		3				Assassin, Ninja, Attack Reaction							Your daggers gain +1{p} this turn.	Assassin / Ninja Attack Reaction				No	
+bWBL7WwPLgdD9j9KkmDHW	Knock 'Em Off Their Feet	1	4	8	3				Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, {t} them.	Guardian Action - Attack				No	
 WqDtDMqJhHBhHfdjTRRFb	Knucklehead				2				Brute, Equipment, Head	Kayo Specialization, Temper	Action					"**Kayo Specialization** 
 
 Action - Destroy this: Roll a 6-sided die. Until end of turn, your base {i} is the number rolled.
