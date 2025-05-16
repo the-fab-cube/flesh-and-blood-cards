@@ -1,41 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	LL Legal
-BfnKt6gbqBFmB6Bw6zGkd	Spitfire			2					Mechanologist, Weapon, Gun, 2H		Action	Attack				"**Action** - {t}, {t} a cog you control: Attack
-
-When this attacks, you may {t} a cog you control. If you do, the attack gets +1{p}."	Mechanologist Weapon - Gun (2H)					
-9PJ9CMqcgnDMFTR7WW8wq	Scooba, Salty Sea Dog	2	0	4		4			Pirate, Necromancer, Action, Ally	Watery Grave	Action	Attack				"**Action** - {r}{r}{r}, {t}: Attack
-
-When this attacks, you may put a yellow card from a graveyard on the bottom of its owner's deck. If you do, create a Gold token.
-
-**Watery Grave**"	Pirate Necromancer Action - Ally				No	
-tfzkkkrLtW9kkWFjpPLQP	Draw a Crowd	3	2		3				Guardian, Action, Aura	Go again						"**Go again**
-
-When this enters the arena, each hero draws a card.
-
-At the beginning of your action phase, destroy this, then the next Guardian attack action card you play this turn gets +3{p}."	Guardian Action - Aura				No	
-jFpwffNmqGB8nTHt7mzp9	Promising Terrain	3	0		3				Guardian, Action, Aura	Go again						"**Go again**
-
-If you would create 1 or more Seismic Surge tokens, instead create that many plus 1.
-
-At the beginning of your action phase, destroy this, then if you control 3 or more Seismic Surge tokens, draw a card and gain 1{h}."	Guardian Action - Aura				No	
-CdFkL9pbDdFj8DKnRHHGn	Bolfar, Bear Hands					20	4		Guardian, Hero, Pit-Fighter		Action	Go again			Crush	"You can't equip weapons.
-
-**Action** - {r}{r}{r}, {t}: The next attack action card with **crush** you play this turn may attack an additional hero. **Go again**"	Guardian Hero - Pit-Fighter		No	No	No	No
-rd8gCbPjLCWcPLdqbMRWm	Fightmaster Kox					19	4		Guardian, Hero, Pit-Fighter		Action					**Action** - {t}, destroy a Gold you control: Look at the top 3 cards of the event deck, then put them back in any order. **Go again**	Guardian Hero - Pit-Fighter		No	No	No	No
-JzRH98DmhDN98PnGR8bcg	Groundbreaker Crix					20	4		Guardian, Hero, Pit-Fighter	Clash			Protect			"Your attacks get +1{p} while attacking a hero who controls a Seismic Surge token.
-
-Whenever you attack a Guardian hero, **clash** with them. The winner creates a Seismic Surge token."	Guardian Hero - Pit-Fighter		No	No	No	No
-KnwNm8LC9DNpT8wMzDnFn	Reya, the Unyielding					21	4		Guardian, Hero, Pit-Fighter							"Block cards you own and equipment you control with 1 or greater {d} get **protect**.
-
-Whenever you protect another hero, create a Gold token."	Guardian Hero - Pit-Fighter		No	No	No	No
-jHHWGcnRpjzF8NMMKmdfF	Victor Goldmane, Match Fixer					20	4		Guardian, Hero, Pit-Fighter		Instant		Dominate		Clash	"**Instant** - {t}: Choose an opponent. The first card they reveal for their next clash this turn gets +1{p}. When they win that clash, you create a Gold token.
-
-Whenever you attack, you may destroy 3 Gold you control. If you do, the attack gets +3{p} and **dominate**."	Guardian Hero - Pit-Fighter		No	No	No	No
-w6dzmjnGppFHCRgmKMFbW	Benefactor of Bloodworth Goldmane								Event							"Create a Gold token.
-
-Your next attack this turn gets ""When this attacks, it gets +X{p}, where X is the number of Gold you control."""	Event		No	No	No	No
-9f8tgdNwfwg7bhkkDLdPK	Code of Conduct: Kill or Be Killed								Event							Until end of turn, you may attack any opposing hero and when you deal lethal damage to them, take an extra turn after this one.	Event		No	No	No	No
-Fj6DCwFDczkFfd7dtnd9J	Crowd Roars Fight!								Event							Your next attack this turn gets +1{p} and may attack any opposing hero.	Event		No	No	No	No
-hRRgnn9nCqGDpqQNHhwJm	Rally the Underdog								Event							Draw a card. If you have less {h} than an opponent, instead draw 2 cards.	Event		No	No	No	No
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3				Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
@@ -570,7 +533,7 @@ dLhBfHW9rQGrQHqRrcQqG	Barkbone Strapping				1				Brute, Equipment, Chest	Battlew
 qdDLqzd6FfmjfPGHLD6NW	Barkskin of the Millennium Tree				2				Earth, Equipment, Chest	Temper						"When this defends, if there are 4 or more Earth cards in your banished zone, create an Embodiment of Earth token.
 
 **Temper**"	Earth Equipment - Chest				No	
-bmQzdmzHNfjGj6Qtf9cbJ	Barnacle	2	2	4		3			Pirate, Necromancer, Action, Ally	Watery Grave	Action	Attack				"**Action** - {t}: Attack
+bmQzdmzHNfjGj6Qtf9cbJ	Barnacle	2	2	4		3			Pirate, Necromancer, Action, Ally	Watery Grave	Action	Attack				"**Action** - {t}: **Attack**
 
 **Watery Grave**"	Pirate Necromancer Action - Ally					
 WCgctGz6KWwfp9Dhd7H7c	Barraging Beatdown	1	0		3				Brute, Action	Intimidate, Go again						"Your next Brute attack this turn gains ""While this attack is defended by less than 2 non-equipment cards, it has +4{p}.""
@@ -689,6 +652,9 @@ QLkz9dFQmJGnCtCRLJ9QC	Bellona, Archangel of War			4		4			Light, Angel, Ally	Ward
 When Bellona attacks, you may banish a card from your hero's soul. If you do, put a +1{p} counter on each Angel you control.
 
 **Ward 4**"	Light - Angel Ally				No	
+w6dzmjnGppFHCRgmKMFbW	Benefactor of Bloodworth Goldmane								Event							"Create a Gold token.
+
+Your next attack this turn gets ""When this attacks, it gets +X{p}, where X is the number of Gold you control."""	Event		No	No	No	No
 HT8r8mg8rHmbWJthCFHfH	Benji, the Piercing Wind					17	4		Ninja, Hero, Young							"Your attack action cards with 2 or less {p} can't be defended by cards from hand.
 
 The first time an attack action card you control hits each turn, your next attack gains +1{p}."	Ninja Hero - Young			No		No
@@ -1030,6 +996,9 @@ If Blossoming Spellblade was fused, it gains ""Whenever this deals damage to an 
 When you attack with Blossoming Spellblade, if it was **fused**, deal 1 arcane damage to target hero."	Elemental Runeblade Action - Attack				No	
 nGCNDPFfPdhBFqBQBPWwk	Board the Ship	1	2	6	3				Pirate, Necromancer, Action, Attack	Overpower						When this attacks, you may {t} an ally you control. If you do, this gets **overpower**.	Pirate Necromancer Action - Attack				No	
 LmKFmh8JznLWB8mTjmRcC	Boast	3			3				Guardian, Block						Clash	This gets +X{d} while defending, where X is twice the number of **clashes** you've won this turn.	Guardian Block				No	
+CdFkL9pbDdFj8DKnRHHGn	Bolfar, Bear Hands					20	4		Guardian, Hero, Pit-Fighter		Action	Go again			Crush	"You can't equip weapons.
+
+**Action** - {r}{r}{r}, {t}: The next attack action card with **crush** you play this turn may attack an additional hero. **Go again**"	Guardian Hero - Pit-Fighter		No	No	No	No
 qh6Ww9QDjpGFfHG8gJgb7	Bolt of Courage	1	0	3	3				Light, Warrior, Action, Attack	Charge					Charge	"As an additional cost to play Bolt of Courage, you may **charge** your hero's soul.
 
 If you've **charged** this turn, Bolt of Courage gains ""If this hits, draw a card."""	Light Warrior Action - Attack					
@@ -1511,12 +1480,12 @@ CzFbG6pFWFPw6fcHHLDp8	Chorus of the Amphitheater	2	2		2			3	Wizard, Action		Inst
 zQ89qbgtqWjgGtfBLWTkQ	Chorus of the Amphitheater	3	2		2			2	Wizard, Action		Instant					"Deal 2 arcane damage to any target.
 
 **Instant** - Discard this: If an action or instant card you control would deal arcane damage this turn, instead it deals that much plus 1."	Wizard Action				No	
-99R9wJLnb9BPbM6WjttDq	Chowder, Hearty Cook	2	3	3		3			Pirate, Necromancer, Action, Ally	Watery Grave	Action, Instant	Attack				"**Action** - {t}: Attack
+99R9wJLnb9BPbM6WjttDq	Chowder, Hearty Cook	2	3	3		3			Pirate, Necromancer, Action, Ally	Watery Grave	Action, Instant	Attack				"**Action** - {t}: **Attack**
 
 **Instant** - {t}: Gain 1{h}
 
 **Watery Grave**"	Pirate Necromancer Action - Ally					
-mwBrbdjPn7h8nPpCNzpMR	Chum, Friendly First Mate	2	4	4		6			Pirate, Necromancer, Action, Ally	Watery Grave	Action, Instant	Attack			Watery Grave	"**Action** - {t}: Attack
+mwBrbdjPn7h8nPpCNzpMR	Chum, Friendly First Mate	2	4	4		6			Pirate, Necromancer, Action, Ally	Watery Grave	Action, Instant	Attack			Watery Grave	"**Action** - {t}: **Attack**
 
 **Instant** - {t}, discard a card with watery grave: Until end of turn, opponents must choose this as the target of attacks if able.
 
@@ -1613,6 +1582,7 @@ LzjkDR6QcL9WBztfDTRt9	Coax a Commotion	1	0	4	2				Generic, Action, Attack							
 - Each hero creates a Quicken token.
 - Each hero draws a card.
 - Each hero gains 1{h}."	Generic Action - Attack				No	
+9f8tgdNwfwg7bhkkDLdPK	Code of Conduct: Kill or Be Killed								Event							Until end of turn, you may attack any opposing hero and when you deal lethal damage to them, take an extra turn after this one.	Event		No	No	No	No
 tjnCb9JGD7mzznFPfDzHp	Codex of Bloodrot	2	0		2				Assassin, Ranger, Action	Go again						"Each hero puts a card from their hand face down into their arsenal.
 
 Create a Ponder token under your control and a Bloodrot Pox token under each opponent's control.
@@ -1654,6 +1624,12 @@ KGBQtW9fTBCjQpqQTpHNz	Cogwerx Base Head								Mechanologist, Equipment, Base, H
 p6cgRTrMmWfjk6hCLH9Jt	Cogwerx Base Legs								Mechanologist, Equipment, Base, Legs		Once per Turn Instant				Boost	"When this is equipped, put a steam counter on it.
 
 **Once per Turn Instant** - {r}, remove a steam counter from this: Gain 1 action point. Activate this ability only if you've **boosted** this turn."	Mechanologist Equipment - Base Legs					
+mpNCNfJnPMdk9bgrkj8bB	Cogwerx Blunderbuss			2					Mechanologist, Weapon, Gun, 2H		Action, Instant	Attack				"**Action** - {r}{r}, {t}: **Attack**
+
+**Instant** - {t} a cog you control: This card's next attack this turn gets go again."	Mechanologist Weapon - Gun (2H)					
+dnhGwzTLMbDMGLfrBgnzz	Cogwerx Dovetail	1	1	5	3				Mechanologist, Action, Attack		Thrice per Turn Instant					"When this hits a hero, {u} all cogs you control.
+
+**Thrice per Turn Instant** - {t} a cog you control: This gets +1{p} or **go again**."	Mechanologist Action - Attack				No	
 RGTFQcwQp66wkFBWJBk6T	Cold Snap	1	1		2				Ice, Action	Go again			Freeze			"Target hero may pay {r}{r}{r}. If they don't, **freeze** a card in their arsenal or an ally they control until the start of your next turn.
 
 If Cold Snap is played from arsenal, draw a card.
@@ -1730,7 +1706,7 @@ KhmFwJF7JFP9W9c6C8brQ	Companion of the Claw	3	2	2	2				Mystic, Ninja, Action, At
 **Go again**"	Mystic Ninja Action - Attack					
 cPR8tmfTh9wKmwtzbtRKR	Compass of Sunken Depths								Pirate, Necromancer, Equipment, Off-Hand		Instant		Go again		Watery Grave	"**Instant** - {t}: Look at the top card of your deck.
 
-The first card with watery grave you play from your graveyard each turn gets go again."	Pirate Necromancer Equipment - Off-Hand					
+The first card with watery grave you play from your graveyard each turn gets **go again**."	Pirate Necromancer Equipment - Off-Hand					
 G6kR7rLFDQDjLrLNLL6tp	Compounding Anger	1	3	5	3				Draconic, Action, Attack							This costs {r} less to play for each Draconic chain link you control.	Draconic Action - Attack				No	
 GQzfCQbchkDFn7crcnkrg	Concealed Blade	3	0		3				Assassin, Ninja, Attack Reaction							"Target Assassin or Ninja attack action card gains +1{p} and ""When this hits, equip a dagger from your inventory."""	Assassin / Ninja Attack Reaction				No	
 LFHpbg9HjJqrGt8jHNGHN	Concuss	1	3	6	3				Guardian, Action, Attack							When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack					
@@ -1865,6 +1841,7 @@ Whenever an arrow is put face up into your arsenal from your deck, you may pay {
 DfkBWGW6Wqk8P6NdGjtrz	Crowd Control	1			4				Bard, Block							When this defends, you may pay {r}{r}{r}. If you do, it gets +1{d} for each opposing hero.	Bard Block				Yes	
 9MMPg6FzLBnGmNtjnFtCQ	Crowd Control	2			3				Bard, Block							When this defends, you may pay {r}{r}{r}. If you do, it gets +1{d} for each opposing hero.	Bard Block				Yes	
 WDTM8c7DNBzkphfGWtBkN	Crowd Control	3			2				Bard, Block							When this defends, you may pay {r}{r}{r}. If you do, it gets +1{d} for each opposing hero.	Bard Block				Yes	
+Fj6DCwFDczkFfd7dtnd9J	Crowd Roars Fight!								Event							Your next attack this turn gets +1{p} and may attack any opposing hero.	Event		No	No	No	No
 CQLdjjNmHTMfDnqzW6TLg	Crown of Dichotomy				0				Runeblade, Equipment, Head	Arcane Barrier 1	Action					"**Action** - {r}, destroy Crown of Dichotomy: Put target Runeblade attack action card and target Runeblade 'non-attack' action card from your graveyard on top of your deck in any order.
 
 **Arcane Barrier 1**"	Runeblade Equipment - Head					
@@ -2354,6 +2331,11 @@ fbfLBzMKtdBhJDLbBrPtg	Draw Swords	3	3		3				Warrior, Action	Go again						"Your 
 Draw a card.
 
 **Go again**"	Warrior Action					
+tfzkkkrLtW9kkWFjpPLQP	Draw a Crowd	3	2		3				Guardian, Action, Aura	Go again						"**Go again**
+
+When this enters the arena, each hero draws a card.
+
+At the beginning of your action phase, destroy this, then the next Guardian attack action card you play this turn gets +3{p}."	Guardian Action - Aura				No	
 FWdhrBqFCH9nqqmRGPcTL	Drawn to the Dark Dimension	1	2	3	3				Runeblade, Action, Attack							"Drawn to the Dark Dimension costs {r} less to play for each Runechant you control.
 
 Draw a card."	Runeblade Action - Attack					
@@ -3163,6 +3145,7 @@ p7CLrzj7kGMtt8cLfMdqT	Fiddle-dee				0				Bard, Equipment, Arms		Action	Go again	
 6dNCtnqWjTwr88JCckKDG	Fiddler's Green	1			1				Generic, Block							When this is put into your graveyard from anywhere, gain 3{h}.	Generic Block				No	
 bR7C7tbtGczDWnbDHjTD7	Fiddler's Green	2			1				Generic, Block							When this is put into your graveyard from anywhere, gain 2{h}.	Generic Block				No	
 7bLzzWQGtNWkHWzjkcdQn	Fiddler's Green	3			1				Generic, Block							When this is put into your graveyard from anywhere, gain 1{h}.	Generic Block				No	
+rd8gCbPjLCWcPLdqbMRWm	Fightmaster Kox					19	4		Guardian, Hero, Pit-Fighter		Action					**Action** - {t}, destroy a Gold you control: Look at the top 3 cards of the event deck, then put them back in any order. **Go again**	Guardian Hero - Pit-Fighter		No	No	No	No
 cWRWbKczR8N8F6nGBMNG7	Figment of Erudition	2	4						Light, Illusionist, Instant, Figment	Legendary						"**Legendary**
 
 When this enters the arena, create a Ponder token."	Light Illusionist Instant - Figment				No	
@@ -3371,6 +3354,7 @@ MCtGBgjzJWb8rPmNPTDWp	Flying Kick	3	2	3	3				Ninja, Action, Attack							When th
 tKf7fDRqqJHHn7QgrKjdR	Fog Down	2	3		3				Generic, Action, Aura					Go again		"'Non-attack' action cards lose and can't gain **go again**.
 
 At the beginning of your action phase, destroy Fog Down."	Generic Action - Aura				No	
+t9FQnwWKw7RWz7pPBGf7f	Fool's Gold	2							Generic, Resource							When this is discarded, create a Gold token.	Generic Resource				No	
 JBQPqNK9TGWNHD9NKmKTh	For the Dracai	1	0	4	3				Draconic, Action, Attack						Mark	When this attacks a **marked** hero, create a Fealty token.	Draconic Action - Attack					
 kfQHGNNdKjPpG8nWkfB9P	For the Emperor	1	1	5	3				Draconic, Action, Attack						Mark	When this attacks a **marked** hero, create a Fealty token.	Draconic Action - Attack					
 bFDwJwbqJQPJpcnHRjLCj	For the Realm	1	2	6	3				Draconic, Action, Attack						Mark	When this attacks a **marked** hero, create a Fealty token.	Draconic Action - Attack					
@@ -3593,6 +3577,9 @@ tznCbwFPngzWgKH6TzBKN	Gigawatt	2	1		2				Mechanologist, Action	Go again						"Yo
 LqjLWfPCwPRnNCmJzn7Bg	Gigawatt	3	1		2				Mechanologist, Action	Go again						"Your next Mechanologist attack this turn gets +2{p}.
 
 **Go again**"	Mechanologist Action				No	
+dMBRGmmzWTNGjDRbRMzMn	Give No Quarter	3	0		3				Pirate, Necromancer, Action	Go again						"The next 2 ally cards with watery grave you play this turn cost {r}{r}{r} less to play.
+
+**Go again**"	Pirate Necromancer Action				No	
 KcbmbJJFzhLKRT6jDjTmP	Give and Take	1	1	3	3				Generic, Action, Attack	Go again						"Whenever an action card defends Give and Take, you may put an action card with cost less than Give and Take's {p} from your graveyard on top of your deck.
 
 **Go again**"	Generic Action - Attack				No	
@@ -3758,6 +3745,9 @@ TNGCHzzLBft9q77QhkW9d	Grinding Gears	3	0						Mechanologist, Action, Item	Crank	
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 **Action** - 0: Target hero destroys the top card of their deck."	Mechanologist Action - Item				No	
+JzRH98DmhDN98PnGR8bcg	Groundbreaker Crix					20	4		Guardian, Hero, Pit-Fighter	Clash			Protect			"Your attacks get +1{p} while attacking a hero who controls a Seismic Surge token.
+
+Whenever you attack a Guardian hero, **clash** with them. The winner creates a Seismic Surge token."	Guardian Hero - Pit-Fighter		No	No	No	No
 LT6DJwbzTFg8pwp6dGG6M	Grow Claws	1	1	4	2				Ninja, Action, Attack	Go again						"If a Draconic attack was the last attack this combat chain, this gets +1{p}.
 
 **Go again**"	Ninja Action - Attack					
@@ -4568,6 +4558,11 @@ RbpzqdWTwMQDRTpNhwdtp	Jagged Edge	1	1		3				Warrior, Attack Reaction							"Targ
 GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit			2					Bard, Weapon, Fiddle, 2H		Once per Turn Action, Action	Go again, Attack				"**Once per Turn Action** - {r}{r}{r}: Target opposing hero chooses and creates a Might, Quicken, or Vigor token. You create a Copper token. **Go again**
 
 **Action** - 0: **Attack**. When this hits, destroy it."	Bard Weapon - Fiddle (2H)					
+6cNLLnWnpJdfmdpQHMFMb	Jolly Bludger	2	2	5	3				Pirate, Mechanologist, Action, Attack	Overpower, Steal	Thrice per Turn Instant					"When this attacks, you may {t} a cog you control. If you do, this gets **overpower**.
+
+When this deals damage to a hero, **steal** that many items they control.
+
+**Thrice per Turn Instant** - {t} a cog you control: This gets +1{p}."	Pirate Mechanologist Action - Attack				No	
 kfCPfkdm8jrFqmHMNGj8h	Jubeel, Spellbane			3					Warrior, Weapon, Sword, 2H							"**Once per Turn Action** - {r}: **Attack**
 
 Whenever this hits a hero and you don't control a Spellbane Aegis, create a Spellbane Aegis token."	Warrior Weapon - Sword (2H)				No	
@@ -4627,7 +4622,7 @@ NcQMQ79gb9P7CTMfWfBz8	Kayo, Berserker Runt					19	4		Brute, Hero, Young							"W
 - 1 to 4 - Halve the attack's base {p}, rounded down.
 
 - 5 to 6 - Double the attack's base {p}."	Brute Hero - Young			No		No
-QCKrPkcL9crDhmNhQTnPc	Kelpie, Tangled Mess	2	0	1		3			Pirate, Necromancer, Action, Ally	Watery Grave	Action	Attack, Go again				"**Action** - {t}: Attack
+QCKrPkcL9crDhmNhQTnPc	Kelpie, Tangled Mess	2	0	1		3			Pirate, Necromancer, Action, Ally	Watery Grave	Action	Attack, Go again				"**Action** - {t}: **Attack**
 
 **Action** - {r}, {t}: {t} target hero or ally. **Go again**
 
@@ -4871,7 +4866,7 @@ bjwkrWNdkhrMrPjMtdRmm	Lightning Press	3	0						Lightning, Instant							Target a
 8BFGd6LjfLGgTBrJdmdqf	Lightning Surge	1	0	4	2				Lightning, Action, Attack	Go again						If this was played from arsenal, it gets **go again**.	Lightning Action - Attack					
 b7tLTkWGQtKDhqKG9fjQq	Lightning Surge	2	0	3	2				Lightning, Action, Attack	Go again						If this was played from arsenal, it gets **go again**.	Lightning Action - Attack					
 6CrqfmG7dCTFgNzLbKtcc	Lightning Surge	3	0	2	2				Lightning, Action, Attack	Go again						If this was played from arsenal, it gets **go again**.	Lightning Action - Attack					
-cw7GLPjtPFqMHJthzJCbw	Limpit, Hop-a-long	2	0	2		1			Pirate, Necromancer, Action, Ally	Watery Grave	Action	Attack, Go again				"**Action** - {r}, {t}: Attack. **Go again**
+cw7GLPjtPFqMHJthzJCbw	Limpit, Hop-a-long	2	0	2		1			Pirate, Necromancer, Action, Ally	Watery Grave	Action	Attack, Go again				"**Action** - {r}, {t}: **Attack**. **Go again**
 
 **Watery Grave**"	Pirate Necromancer Action - Ally				No	
 htRtFwB8MhppFMqwLnNzK	Line It Up	2	1		3				Ranger, Action	Go again						"Your next arrow attack this turn gets +3{p}.
@@ -5277,7 +5272,7 @@ khj76ndGTj7gDDQNwzjqw	Moonshot	2	XX	3	3				Mechanologist, Action, Attack	Overpow
 When this attacks, it gets +3{p} for each Hyper Driver destroyed this way.
 
 If this has 10 or more {p}, it gets **overpower**."	Mechanologist Action - Attack				No	
-HNFBzNgGjf6JnH9h6PKFJ	Moray le Fay	2	0	0		3			Pirate, Necromancer, Action, Ally	Watery Grave	Action, Instant	Attack				"**Action** - {t}: Attack
+HNFBzNgGjf6JnH9h6PKFJ	Moray le Fay	2	0	0		3			Pirate, Necromancer, Action, Ally	Watery Grave	Action, Instant	Attack				"**Action** - {t}: **Attack**
 
 **Instant** - {r}, {t}: Put a +1{p} counter on target ally.
 
@@ -6170,6 +6165,11 @@ If Promise of Plenty is played from arsenal, it gains **go again**."	Generic Act
 g9LhkTgkgNBCtwmcPCgdP	Promise of Plenty	3	0	1	2				Generic, Action, Attack	Go again						"If Promise of Plenty hits, each hero who doesn't have a card in their arsenal puts the top card of their deck face down into their arsenal.
 
 If Promise of Plenty is played from arsenal, it gains **go again**."	Generic Action - Attack				No	
+jFpwffNmqGB8nTHt7mzp9	Promising Terrain	3	0		3				Guardian, Action, Aura	Go again						"**Go again**
+
+If you would create 1 or more Seismic Surge tokens, instead create that many plus 1.
+
+At the beginning of your action phase, destroy this, then if you control 3 or more Seismic Surge tokens, draw a card and gain 1{h}."	Guardian Action - Aura				No	
 kWMK7khntdgCmPBhqmkJ9	Proto Base Arms								Mechanologist, Equipment, Base, Arms								Mechanologist Equipment - Base Arms					
 cNNm9qpcDKNGdmMgr9htd	Proto Base Chest								Mechanologist, Equipment, Base, Chest								Mechanologist Equipment - Base Chest					
 MfJzLNc8CpcPLnpqfQGtN	Proto Base Head								Mechanologist, Equipment, Base, Head								Mechanologist Equipment - Base Head					
@@ -6392,6 +6392,7 @@ pP7GCzgTjQPMNLBFfRbBw	Rake the Embers	3	1		2				Draconic, Illusionist, Action	Tr
 68J8LFDffgJ8j6RJ6FhmD	Rally the Rearguard	1	2	6	2				Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this ability only while this is defending.	Generic Action - Attack					
 hKdWPHqc8bLM9Nkbwmncc	Rally the Rearguard	2	2	5	2				Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this ability only while this is defending.	Generic Action - Attack					
 LQjBwTpQK6MR6LNkpnNPK	Rally the Rearguard	3	2	4	2				Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this ability only while this is defending.	Generic Action - Attack					
+hRRgnn9nCqGDpqQNHhwJm	Rally the Underdog								Event							Draw a card. If you have less {h} than an opponent, instead draw 2 cards.	Event		No	No	No	No
 RpM6tCjLdHHdfWcFbJrK6	Ram Raider	1	2	6	3				Shadow, Brute, Action, Attack	Blood Debt, Go again						"As an additional cost to play this, banish a random card from your hand. If a card with 6 or more {p} is banished this way, this gets **go again**.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	
@@ -6695,6 +6696,9 @@ JBKPrLhtDj77ttccNgnqD	Reverberate	3	1		3			1	Wizard, Action							"Deal 1 arcane
 
 If Reverberate deals damage, you may banish a Wizard 'non-attack' action card from your hand with {r} cost less than or equal to the damage dealt by Reverberate. If you do, you may play it this turn as though it were an instant."	Wizard Action					
 jBcWwLwbkkMjtgW7pTW8J	Rewind	3	1						Wizard, Instant	Negate						**Negate** target 'non-attack' action card and return it to its owner's hand. Then that hero gains 1 action point.	Wizard Instant				No	
+KnwNm8LC9DNpT8wMzDnFn	Reya, the Unyielding					21	4		Guardian, Hero, Pit-Fighter							"Block cards you own and equipment you control with 1 or greater {d} get **protect**.
+
+Whenever you protect another hero, create a Gold token."	Guardian Hero - Pit-Fighter		No	No	No	No
 wNRqrHCn6rrKLhrDkqPwp	Rhinar					20	4		Brute, Hero, Young	Intimidate						Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**.	Brute Hero - Young			No		No
 wr9wBtTWwRrPrdhCRHCdN	Rhinar, Reckless Rampage					40	4		Brute, Hero	Intimidate						Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**.	Brute Hero		No		No	
 fR8fP8Q7BrTwbtKdzhdft	Ride the Tailwind	1	0	3	2				Ninja, Action, Attack	Go again			Go again			"When Ride the Tailwind hits, the next attack action card with 2 or less base {p} you play this combat chain gains **go again**.
@@ -7147,6 +7151,11 @@ Create a Runechant token for each damage dealt this way."	Runeblade Weapon - Sce
 G7MWPzRtWqBpdW7K8MQDd	Schism of Chaos	3							Chaos, Resource, Gem	Legendary						"**Legendary**
 
 When this is pitched, each hero shuffles, then puts the top card of their deck facedown into their arsenal."	Chaos Resource - Gem				No	
+9PJ9CMqcgnDMFTR7WW8wq	Scooba, Salty Sea Dog	2	0	4		4			Pirate, Necromancer, Action, Ally	Watery Grave	Action	Attack				"**Action** - {r}{r}{r}, {t}: **Attack**
+
+When this attacks, you may put a yellow card from a graveyard on the bottom of its owner's deck. If you do, create a Gold token.
+
+**Watery Grave**"	Pirate Necromancer Action - Ally				No	
 9hDNGJWktKbqR8bFFzmMf	Scour	3	X		3			X	Wizard, Action							Destroy X target aura tokens and/or auras with cost 0 controlled by target hero. Then deal arcane damage to that hero equal to the number of auras destroyed this way.	Wizard Action				No	
 rhGfKbpkJHqwTK6rJDcwK	Scour the Battlescape	1	0	3	2				Generic, Action, Attack	Go again						"You may put a card from your hand on the bottom of your deck. If you do, draw a card.
 
@@ -7447,6 +7456,11 @@ Your weapon attacks get +1{p}. If their {p} is greater than twice their base, th
 
 At the beginning of your end phase, destroy this."	Warior Action - Aura				No	
 RJNjgKCzrKtWJfdqRPMhg	Shatter	2	0		3				Warrior, Attack Reaction							"Until end of turn, target 2H weapon gains ""Whenever this would deal {p} damage, instead you may destroy target defending equipment with {d} less than the damage that would be dealt this way."	Warrior Attack Reaction				No	
+rc7mWBhpMFfgWcfhmTJCN	Shelly, Hardened Traveler	2	2	4		5			Pirate, Necromancer, Action, Ally	Watery Grave	Action, Instant					"**Action** - {r}{r}{r}, {t}: **Attack**
+
+**Instant** - {t}: The next attack action card you defend with this turn gets +1{d}.
+
+**Watery Grave**"	Pirate Necromancer Action - Ally					
 BgPLgpRRpkb7bgRMfcL9N	Shelter from the Storm	1	0		4				Generic, Defense Reaction		Instant					**Instant** - Discard this: The next 3 times you would be dealt damage this turn, prevent 1 of that damage.	Generic Defense Reaction				No	
 PfLGWkcf8RngRHztHDfFT	Sheltered Cove								Generic, Equipment, Head		Instant					**Instant** - {r}{r}{r}, destroy this: The next time you would be dealt damage this turn, prevent 2 of that damage	Generic Equipment - Head					
 cJPFBnkLWpF7cKKwzRNTq	Shield Bash	1	3		6				Guardian, Defense Reaction							If a Guardian off-hand with 1 or more {d} is defending this chain link, deal 1 damage to the attacking hero unless they discard a card.	Guardian Defense Reaction				No	
@@ -8086,6 +8100,9 @@ You may play Lumina Ascension as though it were an instant."	Light Warrior Actio
 Nh7kN9dhkWQhjfr7CfKW7	Spirit of War	1	0	3	3				Light, Warrior, Action, Attack	Charge						"As an additional cost to play this, you may **charge** your hero's soul.
 
 If a yellow card is **charged** this way, whenever an attack action card hits this combat chain, create a Courage token."	Light Warrior Action - Attack				No	
+BfnKt6gbqBFmB6Bw6zGkd	Spitfire			2					Mechanologist, Weapon, Gun, 2H		Action	Attack				"**Action** - {t}, {t} a cog you control: **Attack**
+
+When this attacks, you may {t} a cog you control. If you do, the attack gets +1{p}."	Mechanologist Weapon - Gun (2H)					
 LwHFKjjChb9JFQjLmrGMq	Splatter Skull	1	2	6	3				Brute, Action, Attack						Intimidate	When this hits a hero, choose a face-down card in their banished zone that was banished by **intimidate** this turn. Put it into their graveyard.	Brute Action - Attack				No	
 ccMrKMKrqCHDBFcnQFCFB	Splintering Deadwood	1	3	7	3				Runeblade, Action, Attack							When this attacks or hits, you may destroy an aura you control. If you do, create a Runechant token.	Runeblade Action - Attack				No	
 DrMHRGghQK9rb9NdTTKmj	Splintering Deadwood	2	3	6	3				Runeblade, Action, Attack							When this attacks or hits, you may destroy an aura you control. If you do, create a Runechant token.	Runeblade Action - Attack				No	
@@ -8407,6 +8424,9 @@ brKBKrnCrpggpqBPwbpjN	Sutcliffe's Research Notes	3	1		2				Runeblade, Action	Go 
 
 **Go again**"	Runeblade Action					
 nMfgFcrcDq7KRfmMzrrh8	Sutcliffe's Suede Hides				0				Runeblade, Equipment, Legs		Attack Reaction		Go again			**Attack Reaction** - {r}, destroy Sutcliffe's Suede Hides: Target attack action card gains **go again**. Activate this ability only if you have played a 'non-attack' action card this turn.	Runeblade Equipment - Legs					
+HqbJGrbMPHJQWPhN8kcFd	Swabbie	2	3	7		3			Pirate, Necromancer, Action, Ally	Watery Grave	Action	Attack				"**Action** - {r}{r}, {t}: **Attack**
+
+**Watery Grave**"	Pirate Necromancer Action - Ally					
 NtnBPQH6gdBtgKCRmKtFg	Swarming Gloomveil	1	0	3	3				Runeblade, Action, Attack	Go again						"If you have played or created 1 or more auras this turn, Swarming Gloomveil gains **go again**. If you have played and/or created 2 or more, it gains +1{p}. If you have played and/or created 3 or more, it gains ""When this hits a hero, they can't prevent arcane damage from sources you control this turn."""	Runeblade Action - Attack				No	
 BQDcMDQpmhqJfwGDNNMcL	Sweeping Blow	1	1	3	3				Draconic, Illusionist, Action, Attack	Go again						"When you attack with Sweeping Blow, create an Ash token.
 
@@ -9263,6 +9283,9 @@ The first time each turn you would fail to win a **clash**, instead you may dest
 fc8jMwTprwnhRbPKDmF9J	Victor Goldmane, High and Mighty					40	4		Guardian, Hero	Clash					Clash	"The first time each turn you create a Gold token from an effect you control, draw a card.
 
 The first time each turn you would fail to win a **clash**, instead you may destroy a Gold you control. If you do, put 1 of the revealed cards on the bottom of its owner's deck, then **clash** again."	Guardian Hero		No		No	
+jHHWGcnRpjzF8NMMKmdfF	Victor Goldmane, Match Fixer					20	4		Guardian, Hero, Pit-Fighter		Instant		Dominate		Clash	"**Instant** - {t}: Choose an opponent. The first card they reveal for their next clash this turn gets +1{p}. When they win that clash, you create a Gold token.
+
+Whenever you attack, you may destroy 3 Gold you control. If you do, the attack gets +3{p} and **dominate**."	Guardian Hero - Pit-Fighter		No	No	No	No
 RCqkLt7cqwdWMNrmFqpc8	Victoria, Archangel of Triumph			4		4			Light, Angel, Ally	Ward 4	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
 When Victoria attacks, you may banish a card from your hero's soul. If you do, attack action cards your opponents control get -1{p} until the start of your next turn.
@@ -9383,7 +9406,7 @@ wGwjNqdjmKwqgzKrPhMn9	Wage Might	3	3	5	2				Brute, Guardian, Action, Attack	Wage
 cgFCqbggd6BNB8kHFWNKJ	Wage Vigor	1	3	7	2				Guardian, Warrior, Action, Attack	Wager						When this attacks a hero, you may **wager** a Vigor token with them.	Guardian / Warrior Action - Attack					
 MQN9FMbnbmGjrndKzFCC8	Wage Vigor	2	3	6	2				Guardian, Warrior, Action, Attack	Wager						When this attacks a hero, you may **wager** a Vigor token with them.	Guardian / Warrior Action - Attack					
 9t79HPQncwtwKtBg8MhRH	Wage Vigor	3	3	5	2				Guardian, Warrior, Action, Attack	Wager						When this attacks a hero, you may **wager** a Vigor token with them.	Guardian / Warrior Action - Attack					
-jqwmB7FLCpBPgTJz9ztGJ	Wailer Humperdinck	2	6	11		7			Pirate, Necromancer, Action, Ally	Watery Grave	Action, Instant	Attack				"**Action** - {r}{r}{r} {r}{r}{r}, {t}: Attack
+jqwmB7FLCpBPgTJz9ztGJ	Wailer Humperdinck	2	6	11		7			Pirate, Necromancer, Action, Ally	Watery Grave	Action, Instant	Attack				"**Action** - {r}{r}{r} {r}{r}{r}, {t}: **Attack**
 
 **Watery Grave**"	Pirate Necromancer Action - Ally				No	
 mdhBmNB8JHPmK9KzKg7D6	Wall Breaker	1	2	6	3				Shadow, Brute, Action, Attack	Overpower, Blood Debt						"If you've banished a card with 6 or more {p} this turn, this gets **overpower**.
