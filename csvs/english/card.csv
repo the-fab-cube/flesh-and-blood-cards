@@ -995,6 +995,7 @@ nDWpQJCqCqHJM6WbhD7GN	Blossoming Spellblade	1	2	6	3			1	Elemental, Runeblade, Ac
 If Blossoming Spellblade was fused, it gains ""Whenever this deals damage to an opposing hero, you may banish a 'non-attack' action card from your graveyard. If you do, you may play it this turn as though it were an instant and if it would be put into your graveyard this turn, instead banish it.""
 
 When you attack with Blossoming Spellblade, if it was **fused**, deal 1 arcane damage to target hero."	Elemental Runeblade Action - Attack				No	
+KtQQggkn6LkFz7dGHNLWj	Blue Fin Harpoon	3	2	4	3				Pirate, Ranger, Action, Arrow, Attack	Go Fish						**Go Fish** - When this hits a hero, they choose and reveal a card from their hand. If it's blue, they discard it and you create a Gold token. If you've activated a cannon this turn, instead look at their hand and you choose the card.	Pirate Ranger Action - Arrow Attack				No	
 nGCNDPFfPdhBFqBQBPWwk	Board the Ship	1	2	6	3				Pirate, Necromancer, Action, Attack	Overpower						When this attacks, you may {t} an ally you control. If you do, this gets **overpower**.	Pirate Necromancer Action - Attack				No	
 LmKFmh8JznLWB8mTjmRcC	Boast	3			3				Guardian, Block						Clash	This gets +X{d} while defending, where X is twice the number of **clashes** you've won this turn.	Guardian Block				No	
 CdFkL9pbDdFj8DKnRHHGn	Bolfar, Bear Hands					20	4		Guardian, Hero, Pit-Fighter		Action	Go again			Crush	"You can't equip weapons.
@@ -1780,6 +1781,11 @@ If a card with 6 or more {p} is banished this way, the next attack action card y
 
 **Go again**"	Shadow Brute Action				No	
 gzDGmdfm6gHWctgrcgfKf	Copper								Generic, Token, Item		Action	Go again				**Action** - {r}{r}{r}{r}, destroy this: Draw a card. **Go again**	Generic Token - Item					
+kzBc7Bmrk7TfHNwhQK6Lj	Copper Cog	3	0						Mechanologist, Action, Cog, Item	Unlimited, Crank						"**Unlimited**
+
+**Crank**
+
+This enters the arena with 2 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it."	Mechanologist Action - Cog Item				No	
 9b7hjHNnGDBkfL8jL89bf	Coronet Peak				2				Ice, Equipment, Head	Blade Break	Action					"**Action** - {r}{r}{r}: Target hero discards a card unless they pay {r}.
 
 **Blade Break**"	Ice Equipment - Head				No	
@@ -3196,6 +3202,11 @@ P8MBHdhfJLMQ6qdPdWpCL	Fire and Brimstone	1	2		3				Draconic, Warrior, Attack Rea
 This costs {r} less to play for each Draconic chain link you control.
 
 Daggers you control get +1{p} and you may attack with each of them an additional time this turn."	Draconic Warrior Attack Reaction				No	
+qnr8rHRmfzBbrgbjM9GjG	Fire in the Hole	1	0		2				Ranger, Action	Go again						"Your next arrow attack this turn gets +3{p}.
+
+You may {u} a bow you control.
+
+**Go again**"	Ranger Action				No	
 FKCrQMngDF9nMT99qzNjn	Firebreathing	1	2	3	3				Generic, Action, Attack		Instant					**Instant** - {r}: Firebreathing gains +1{p}. Activate this ability only while Firebreathing is attacking.	Generic Action - Attack				No	
 kHP6QW9GNhJzkDjq7nGpk	Firewall	1			4				Mechanologist, Block							When this defends, reveal the top card of your deck. If it's an Evo, put it on top of your deck. Otherwise, put it on the bottom.	Mechanologist Block				No	
 zRdT7QbmBfgd7DKBwjfGd	Firewall	2			3				Mechanologist, Block							When this defends, reveal the top card of your deck. If it's an Evo, put it on top of your deck. Otherwise, put it on the bottom.	Mechanologist Block				No	
@@ -5260,6 +5271,11 @@ At the beginning of each end phase, destroy this unless you've pitched, played, 
 7mgnPjCmmLc9K9WwLdhJ6	Money Where Ya Mouth Is	1	1		2				Generic, Action	Go again			Wager			"Your next attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 B7Db99Nw9PFrJLmRzPT7t	Money Where Ya Mouth Is	2	1		2				Generic, Action	Go again			Wager			"Your next attack this turn gets +2{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 9BM9L9zrh8BgBWkPDdJgf	Money Where Ya Mouth Is	3	1		2				Generic, Action	Go again			Wager			"Your next attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
+qrzhp6bWn7rbTFt9fHw7k	Monkey Powder	1	3		2				Ranger, Action	Go again			Overpower			"Your next arrow attack this turn gets +1{p} and **overpower**.
+
+Draw a card.
+
+**Go again**"	Ranger Action				No	
 t68gtGcPf8H9wTGBCfj8L	Monstrous Veil				1				Brute, Equipment, Head	Rhinar Specialization, Battleworn	Action	Go again				"**Rhinar Specialization**
 
 **Action** - Destroy this: Draw a card then discard a random card. **Go again**
@@ -5312,6 +5328,9 @@ If Mulch was **fused**, it gains ""If this hits a hero, put a card from their ar
 hMBwBfHp8F7rBbMTwH9Kz	Mulch	3	4	6	3				Elemental, Guardian, Action, Attack	Earth Fusion						"**Earth Fusion**
 
 If Mulch was **fused**, it gains ""If this hits a hero, put a card from their arsenal on the bottom of their deck."""	Elemental Guardian Action - Attack					
+jDPCKWMC9wbhQHtDj8fzM	Murderous Rabble	3	0	0	3				Pirate, Action, Attack	Go again						"When this attacks, reveal the top card of your deck. This gets +X{p}, where X is the pitch value of the card revealed this way.
+
+**Go again**"	Pirate Action - Attack				No	
 pwFkWbwFjKnnhTNQzgLJK	Murkmire Grapnel	1	0	4	3				Ranger, Action, Arrow, Attack							"If Murkmire Grapnel has an aim counter, it has +1{p}.
 
 Damage that would be dealt by Murkmire Grapnel can't be prevented."	Ranger Action - Arrow Attack					
@@ -6574,6 +6593,7 @@ cTk6wFnMDN7z6WHfDPmrQ	Red Alert Vest				1				Assassin, Warrior, Equipment, Chest
 Lf6kGcR7qqdFHCHLnGkng	Red Alert Visor				1				Assassin, Warrior, Equipment, Head	Blade Break						"If an attack reaction has been played or activated this chain link, this gets +1{d}.
 
 **Blade Break**"	Assassin / Warrior Equipment - Head					
+tnznnMJqJfzTqCn8QBgBz	Red Fin Harpoon	3	2	4	3				Pirate, Ranger, Action, Arrow, Attack	Go Fish						**Go Fish** - When this hits a hero, they choose and reveal a card from their hand. If it's red, they discard it and you create a Gold token. If you've activated a cannon this turn, instead look at their hand and you choose the card.	Pirate Ranger Action - Arrow Attack				No	
 GRJN6ctjz9wPmFn9K7WHn	Red Hot	1	2	4	3				Draconic, Action, Attack	Dromai or Fai Specialization, Rupture						"**Dromai or Fai Specialization**
 
 **Rupture** - If Red Hot is played as chain link 4 or higher, it has ""When you attack with this, reveal the top X cards of your deck, where X is the number of Draconic chain links you control. Deal damage equal to the number of red cards revealed this way to any target, then shuffle."""	Draconic Action - Attack				No	
@@ -9746,6 +9766,7 @@ If a card with 6 or more {p} is banished this way, Writhing Beast Hulk gains **d
 q69qJCPFdP8PzL8rpNK9b	Written in the Stars	3	0		3				Lightning, Runeblade, Action							"Create an Embodiment of Lightning token.
 
 If you've dealt arcane damage this turn, draw a card."	Lightning Runeblade Action				No	
+QMr7k6cBWr6PJNDFFWgFw	Yellow Fin Harpoon	3	2	4	3				Pirate, Ranger, Action, Arrow, Attack	Go Fish						**Go Fish** - When this hits a hero, they choose and reveal a card from their hand. If it's yellow, they discard it and you create a Gold token. If you've activated a cannon this turn, instead look at their hand and you choose the card.	Pirate Ranger Action - Arrow Attack				No	
 gqTpfTkztdLpN8W6TpRtR	Yendurai			3		3			Draconic, Illusionist, Dragon, Ally							"Yendurai enters the arena with an endurance counter on him.
 
 If Yendurai would be dealt damage, remove an endurance counter from him to prevent 3 of that damage."	Draconic Illusionist - Dragon Ally				No	
