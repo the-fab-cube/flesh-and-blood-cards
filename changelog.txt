@@ -852,7 +852,7 @@ TODO:
 - Added card data for AGB, APR, AVS, BDD, MPG, SEA, and SMP - data entry assistance: manwaring, Toaster-404
 - Added card data for Batter to a Pulp, Draw a Crowd, and Promising Terrain - data entry assistance: manwaring
 - Added printing data for AGB, APR, AVS, BDD, MPG, SEA, and SMP - data entry assistance: manwaring
-- Added printing data for HER135, LGS387, LGS389-LGS390, LGS406, and LGS410-LGS413 - data entry assistance: manwaring
+- Added printing data for HER135, LGS387, LGS389-LGS390, and LGS395-LGS413 - data entry assistance: manwaring
 - Added Go Fish and Unlimited keywords
 - Added Cannon, Cog, and Pirate types
 - Updated Argh... Smash! to use 3 periods instead of one unicode character
