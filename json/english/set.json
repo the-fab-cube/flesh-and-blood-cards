@@ -1451,14 +1451,14 @@
                 "edition": "N",
                 "start_card_id": "SEA001",
                 "end_card_id": "SEA264",
-                "initial_release_date": "2026-06-06T00:00:00.000Z",
+                "initial_release_date": "2025-06-06T00:00:00.000Z",
                 "out_of_print": false,
                 "card_database": "https://cards.fabtcg.com/products/high-seas/",
                 "product_page": null,
                 "collectors_center": null,
                 "card_gallery": null,
                 "release_notes": null,
-                "set_logo": null
+                "set_logo": "https://dhhim4ltzu1pj.cloudfront.net/media/images/high_seas_logo_noglow.original.png"
             }
         ]
     },

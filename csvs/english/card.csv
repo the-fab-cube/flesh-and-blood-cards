@@ -5197,6 +5197,9 @@ r8fjLMCFnQhFrRjwpMTgK	Micro-processor	3	2						Mechanologist, Action, Item	Data 
 **Once Per Turn Action** - 0: Banish the top card of your deck.
 
 The first time you activate Micro-processor each turn, gain 1 action point."	Mechanologist Action - Item				No	
+mFpKJrtphdgPmTDK7T7PJ	Midas Touch	2	1		3				Generic, Action	Go again						"Destroy target ally. Its controller creates Gold tokens equal to its cost.
+
+**Go again**"	Generic Action				No	
 6gqTwGnmHjkCLDqKPWt8c	Might								Generic, Token, Aura							At the start of your turn, destroy this, then your next attack this turn gets +1{p}.	Generic Token - Aura					
 RGHRQgGJdBhBPgM9Pfgw7	Mighty Windup	1	3	7	2				Brute, Guardian, Action, Attack		Instant					**Instant** - Discard this: Create a Might token.	Brute / Guardian Action - Attack					
 wWrJrBcLPWcwc7RTrc6Bk	Mighty Windup	2	3	6	2				Brute, Guardian, Action, Attack		Instant					**Instant** - Discard this: Create a Might token.	Brute / Guardian Action - Attack					
