@@ -454,5 +454,53 @@
         "date_announced": "2024-11-11T00:00:00.000Z",
         "date_in_effect": "2024-11-11T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-11-11-24/"
+    },
+    {
+        "unique_id": "FFLgPn8ctTpckN8zTQc7q",
+        "card_unique_id": "PWbNdrFrhPDk99CRG7QfM",
+        "status_active": true,
+        "date_announced": "2025-05-19T00:00:00.000Z",
+        "date_in_effect": "2025-05-20T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-19-05-25/"
+    },
+    {
+        "unique_id": "fGbBQHCFWzLmdMbpnBTdB",
+        "card_unique_id": "cP6jRNBkfK9L8HzGjgpmw",
+        "status_active": true,
+        "date_announced": "2025-05-19T00:00:00.000Z",
+        "date_in_effect": "2025-05-20T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-19-05-25/"
+    },
+    {
+        "unique_id": "NjGqjtLnwwzm8QHFgFrfP",
+        "card_unique_id": "gFm9BtgB7HbP6CkbjG8gC",
+        "status_active": true,
+        "date_announced": "2025-05-19T00:00:00.000Z",
+        "date_in_effect": "2025-05-20T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-19-05-25/"
+    },
+    {
+        "unique_id": "LN9BJ7nKWPGNTbjGrcdkr",
+        "card_unique_id": "7c9ChFNmpbPDdgD7DNKth",
+        "status_active": true,
+        "date_announced": "2025-05-19T00:00:00.000Z",
+        "date_in_effect": "2025-05-20T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-19-05-25/"
+    },
+    {
+        "unique_id": "WmhJmbBhRfWHFcNRHDc6f",
+        "card_unique_id": "wq9TcGTj79nqfWPtJFdkR",
+        "status_active": true,
+        "date_announced": "2025-05-19T00:00:00.000Z",
+        "date_in_effect": "2025-05-20T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-19-05-25/"
+    },
+    {
+        "unique_id": "MpCK7zHPQMgPJpwTHHL77",
+        "card_unique_id": "hpMnhtBmjM7zFBTDMkf87",
+        "status_active": true,
+        "date_announced": "2025-05-19T00:00:00.000Z",
+        "date_in_effect": "2025-05-20T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-19-05-25/"
     }
 ]

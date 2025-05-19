@@ -6,5 +6,21 @@
         "date_announced": "2024-10-02T00:00:00.000Z",
         "date_in_effect": "2024-10-04T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/en/articles/banned-and-restricted-announcement-oct02/"
+    },
+    {
+        "unique_id": "m8hkNgrNcGjgjWJjgjb7F",
+        "card_unique_id": "KLtwtTdQqjdTJNhcQHJhd",
+        "status_active": true,
+        "date_announced": "2025-05-19T00:00:00.000Z",
+        "date_in_effect": "2025-05-20T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-19-05-25/"
+    },
+    {
+        "unique_id": "h7Ljp7TPcKhGj88KppdLW",
+        "card_unique_id": "Lbp8pFhph9wMqMHDw8JWq",
+        "status_active": true,
+        "date_announced": "2025-05-19T00:00:00.000Z",
+        "date_in_effect": "2025-05-20T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-19-05-25/"
     }
 ]
