@@ -120,6 +120,22 @@
         "legality_article": "https://fabtcg.com/articles/living-legend-dromai-ash-artist/"
     },
     {
+        "unique_id": "CGR8WQmTGbpqdbk7M6jRW",
+        "card_unique_id": "TKbRWjjBLJThMmLkTFb6q",
+        "status_active": true,
+        "date_announced": "2025-02-25T00:00:00.000Z",
+        "date_in_effect": "2025-02-28T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-viserai-rune-blood/"
+    },
+    {
+        "unique_id": "BtMPktjQt6Gw9WPjH8QQ7",
+        "card_unique_id": "RWwk8hgBdnRdWfjkrfJHt",
+        "status_active": true,
+        "date_announced": "2025-02-25T00:00:00.000Z",
+        "date_in_effect": "2025-02-28T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-viserai-rune-blood/"
+    },
+    {
         "unique_id": "Rjw6mtCjWFwk6fz8FmwK6",
         "card_unique_id": "tJhRRN9kkMCnGQdQJ8TWg",
         "status_active": true,
@@ -150,5 +166,21 @@
         "date_announced": "2025-04-21T00:00:00.000Z",
         "date_in_effect": "2025-04-25T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/en/articles/living-legend-enigma-ledger-of-ancestry-and-zen-tamer-of-purpose/"
+    },
+    {
+        "unique_id": "kpNjBpL8L7zk9NHTBMnnG",
+        "card_unique_id": "mHBtPppktRTkWpnf69dHj",
+        "status_active": true,
+        "date_announced": "2025-05-06T00:00:00.000Z",
+        "date_in_effect": "2025-05-09T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-aurora-shooting-star/"
+    },
+    {
+        "unique_id": "RhCdfdjTK6rRwBhGJpbMn",
+        "card_unique_id": "m7NGBRdNftTh9ntBzppbB",
+        "status_active": true,
+        "date_announced": "2025-05-06T00:00:00.000Z",
+        "date_in_effect": "2025-05-09T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-aurora-shooting-star/"
     }
 ]
