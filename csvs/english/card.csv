@@ -1,7 +1,4 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	LL Legal
-8KBRjnQQ7cTq7M9q9CgCN	Herald of Sekem	1	2	7	3				Light, Illusionist, Action, Attack	Phantasm						"When this attacks, you may put a yellow card from your hand into your soul. If you do, deal 2 arcane damage to any target.
-
-**Phantasm**"	Light Illusionist Action - Attack				No	
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	1	8		3				Illusionist, Action, Aura	Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
@@ -999,6 +996,9 @@ If Blossoming Spellblade was fused, it gains ""Whenever this deals damage to an 
 
 When you attack with Blossoming Spellblade, if it was **fused**, deal 1 arcane damage to target hero."	Elemental Runeblade Action - Attack				No	
 KtQQggkn6LkFz7dGHNLWj	Blue Fin Harpoon	3	2	4	3				Pirate, Ranger, Action, Arrow, Attack	Go Fish						**Go Fish** - When this hits a hero, they choose and reveal a card from their hand. If it's blue, they discard it and you create a Gold token. If you've activated a cannon this turn, instead look at their hand and you choose the card.	Pirate Ranger Action - Arrow Attack				No	
+8TbK6kFJcDtRjqwNzBbmp	Blue Sea Tricorn				1				Pirate, Equipment, Head	Blade Break	Action	Go again				"**Action** - {r}{r}{r}, destroy this: Draw a card. **Go again**
+
+**Blade Break**"	Pirate Equipment - Head					
 nGCNDPFfPdhBFqBQBPWwk	Board the Ship	1	2	6	3				Pirate, Necromancer, Action, Attack	Overpower						When this attacks, you may {t} an ally you control. If you do, this gets **overpower**.	Pirate Necromancer Action - Attack				No	
 LmKFmh8JznLWB8mTjmRcC	Boast	3			3				Guardian, Block						Clash	This gets +X{d} while defending, where X is twice the number of **clashes** you've won this turn.	Guardian Block				No	
 CdFkL9pbDdFj8DKnRHHGn	Bolfar, Bear Hands					20	4		Guardian, Hero, Pit-Fighter		Action	Go again			Crush	"You can't equip weapons.
@@ -1238,6 +1238,9 @@ If all heroes in a **clash** would fail to win, instead choose which hero wins t
 CGLDFnpbfg9LbF7z7GndP	Bubble to the Surface	1	2						Draconic, Instant							"This costs {r} less to play for each Draconic chain link you control.
 
 Reveal cards from the top of your deck until you've revealed a red card. Banish it. You may play it this turn. Shuffle."	Draconic Instant				No	
+KL6rbKJcpRFhNFLwbkbbg	Buccaneer's Bounty				1				Pirate, Equipment, Chest	Blade Break	Action	Go again				"**Action** - Destroy this: Gain {r}. **Go again**
+
+**Blade Break**"	Pirate Equipment - Chest					
 TctkW8gCmpjnHwQ6dfdMg	Buckle	3	3		3				Guardian, Action	Go again			Dominate			"Your next Guardian attack this turn gains +1{p}, **dominate**, and ""When this hits a hero, destroy an equipment they control with a -1{d} counter on it.""
 
 **Go again**"	Guardian Action				No	
@@ -3223,6 +3226,9 @@ rtLfTrnFcDBQhtbFprGRD	First Tenet of Chi: Tide	3	0		3				Mystic, Action	Go again
 tCjqz6rHFKTmDpDkfHmzm	First Tenet of Chi: Wind	3	0		3				Mystic, Action	Go again			Go again			"The next blue action card you play this turn gets **go again**.
 
 Go again"	Mystic Action					
+KGqmhqzwPDDcr6MNr76gB	Fish Fingers				1				Pirate, Equipment, Arms	Blade Break	Action	Go again				"**Action** - {r}, destroy this: Your next attack this turn gets +1{p}. **Go again**
+
+**Blade Break**"	Pirate Equipment - Arms					
 PGCBWLPcTWcHRh7CwW8K7	Fist Pump				1				Mechanologist, Equipment, Arms	Battleworn					Boost	"Whenever you banish a Hyper Driver from boosting, target wrench you control gets +1{p} this turn.
 
 **Battleworn**"	Mechanologist Equipment - Arms				No	
@@ -4021,6 +4027,9 @@ WzgPPdjkL9zHrrqpjHbNJ	Herald of Rebirth	2	2	6	3				Light, Illusionist, Action, A
 wHPGqnKDg8mRNzmwfmh8W	Herald of Rebirth	3	2	5	3				Light, Illusionist, Action, Attack	Phantasm					Phantasm	"When this hits, put it into your hero's soul and put up to 1 card with **phantasm** from your graveyard on top of your deck.
 
 **Phantasm**"	Light Illusionist Action - Attack					
+8KBRjnQQ7cTq7M9q9CgCN	Herald of Sekem	1	2	7	3				Light, Illusionist, Action, Attack	Phantasm						"When this attacks, you may put a yellow card from your hand into your soul. If you do, deal 2 arcane damage to any target.
+
+**Phantasm**"	Light Illusionist Action - Attack				No	
 JRFMjNBpz9H6tmgGWHkrD	Herald of Tenacity	1	2	6	3				Light, Illusionist, Action, Attack	Dominate, Phantasm						"**Dominate**
 
 When this hits, put it into your hero's soul.
