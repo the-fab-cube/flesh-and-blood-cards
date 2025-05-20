@@ -135,6 +135,15 @@
         "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-11-11-24/"
     },
     {
+        "unique_id": "NHRWzNTRQFwzcJdbMgjQd",
+        "card_unique_id": "7RhQ7rthWCfHkgfdHFFJm",
+        "status_active": true,
+        "affects_full_cycle": false,
+        "date_announced": "2025-05-19T00:00:00.000Z",
+        "date_in_effect": "2025-05-20T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-19-05-25/"
+    },
+    {
         "unique_id": "nMB77ggcMb7rCkJ8Rqwzn",
         "card_unique_id": "r7fBPzjnf99MPwFc6F8b6",
         "status_active": true,
