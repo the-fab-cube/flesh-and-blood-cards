@@ -133,6 +133,9 @@ When you attack with Alpha Rampage, **intimidate**."	Brute Action - Attack				No
 7nk7cnttWTLRfKgLWnWwP	Already Dead	1	2	6	3				Assassin, Action, Attack	Contract						"**Contract** - You are contracted to banish opponents' non-action cards. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck and a defending card."	Assassin Action - Attack				No	
+rnCGHPJFzCqjPfbkJTKHM	Amethyst Amulet	3	0						Generic, Action, Item	Legendary, Watery Grave	Instant					"**Instant** - Destroy this: Your next attack this turn gets +2{p}.
+
+**Legend of the Watery Grave**"	Generic Action - Item				No	
 tqL9KdjgkjfnQ98H97dJw	Amethyst Tiara				1				Runeblade, Equipment, Head	Blade Break	Instant		Spellvoid 1			"**Instant** - Destroy Amethyst Tiara: Runechants you control have **spellvoid 1** this turn.
 
 **Blade Break**"	Runeblade Equipment - Head				No	
@@ -189,6 +192,14 @@ Your next angel attack this turn gets +1{p}."	Light Illusionist Instant
 GGDBMFMgCgn9wmWG6jMkq	Angelic Wrath	1	0						Light, Illusionist, Instant							Target attack action card with Herald in its name gets +4{p}	Light Illusionist Instant					
 DHLWgwppG9tBkQkBqHBKB	Angelic Wrath	2	0						Light, Illusionist, Instant							Target attack action card with Herald in its name gets +3{p}	Light Illusionist Instant					
 QDrMdfMCqDCjTpkBQmdJD	Angelic Wrath	3	0						Light, Illusionist, Instant							Target attack action card with Herald in its name gets +2{p}	Light Illusionist Instant					
+kQ6FBdQthJqphzBCzPcB9	Angry Bones	1	2	6	3				Pirate, Necromancer, Action, Attack						Watery Grave	When this attacks, you may discard a card or destroy the top card of your deck. If that card has watery grave, this gets +1{p}.	Pirate Necromancer Action - Attack					
+jGn7mnKcjTLRfgQH9kChJ	Angry Bones	2	2	5	3				Pirate, Necromancer, Action, Attack						Watery Grave	When this attacks, you may discard a card or destroy the top card of your deck. If that card has watery grave, this gets +1{p}.	Pirate Necromancer Action - Attack					
+7MCWwM6pBCDcRdFRmTJRC	Angry Bones	3	2	4	3				Pirate, Necromancer, Action, Attack						Watery Grave	When this attacks, you may discard a card or destroy the top card of your deck. If that card has watery grave, this gets +1{p}.	Pirate Necromancer Action - Attack					
+JjKJRwQPTtgpcCcLrDRwF	Anka, Drag Under	2	2	5		3			Pirate, Necromancer, Action, Ally	Watery Grave	Action	Attack			Watery Grave	"**Action** - {r}, {t}: Attack
+
+**Instant** - {t}, discard a card with watery grave: The next time an opponent draws one or more cards this turn, they discard a card.
+
+**Watery Grave**"	Pirate Necromancer Action - Ally				No	
 9gnHtCMJBbDQjqk8cWmhN	Annals of Sutcliffe								Runeblade, Weapon, Book, 2H							**Once per Turn Action** - {r}{r}{r}: Draw a card. If an attack action card and a 'non-attack' action card were pitched this way, create a Runechant token.	Runeblade Weapon - Book (2H)					
 qJfJ7wBLmBtGnBpqQttNK	Annihilate the Armed	1	1	5	3				Assassin, Action, Attack	Contract						"**Contract** - You are contracted to banish opponents' attack action cards. Whenever you complete this contract, create a Silver token.
 
@@ -272,6 +283,7 @@ Whenever you **go again** this turn, deal 1 arcane damage to any target.
 The next action card you play this turn gets **go again**.
 
 **Go again**"	Lightning Runeblade Action				No	
+b6DbmpN6JNfdhNNm86qWW	Arcane Compliance	3	0						Generic, Instant							Until end of turn, effects can't increase arcane damage that target action card on the stack would deal.	Generic Instant				No	
 Rft8fQBq9gz7bRh6BfjRC	Arcane Cussing	1	1		2				Runeblade, Action, Aura	Go again						"**Go again**
 
 When you deal or are dealt damage, destroy this.
@@ -429,6 +441,9 @@ Mc6fWtzKjhpfgWd9h99nh	Avalon, Archangel of Rebirth			4		4			Light, Angel, Ally	W
 When Avalon attacks, you may banish a card from your hero's soul. If you do, put a yellow card from your graveyard on top of your deck.
 
 **Ward 4**"	Light - Angel Ally				No	
+9hfD6tJzWCzbTMBnzgnBL	Avast Ye!	3	0		3				Pirate, Necromancer, Action	Go again			Go again			"Your next Pirate ally attack this turn gets **go again** and ""When this hits a hero, create a Gold token.""
+
+**Go again**"	Pirate Necromancer Action				No	
 phCFwdjG8dKDCmr7d7F7M	Awakening	3	2						Elemental, Guardian, Instant	Earth Fusion						"**Earth Fusion**
 
 If you have less {h} than an opposing hero, create Seismic Surge tokens equal to the difference. If Awakening was **fused**, instead create twice that many Seismic Surge tokens.
@@ -506,6 +521,10 @@ w77m97tB9GPDzK6ccgkjr	Ball Lightning	2	0	2	0				Lightning, Action, Attack	Go aga
 QnKbrhtk7HFcckCBbFmkt	Ball Lightning	3	0	1	0				Lightning, Action, Attack	Go again						"Whenever a Lightning or Elemental action card would deal damage this combat chain, instead it deals that much damage plus 1.
 
 **Go again**"	Lightning Action - Attack					
+k6CHfQ7NKhD8f7kPPhBdK	Bam Bam	2	3	6	3				Brute, Action, Attack		Instant					"When this hits a hero, destroy an item they control.
+
+**Instant** - Discard this: Your club attacks this turn get ""When this hits a hero, destroy an item they control."""	Brute Action - Attack				No	
+rFtnRCDzmJrrJwfJfWnFC	Bandana of the Blue Beyonds				0				Generic, Equipment, Head		Action	Go again				**Action** - Discard a card, destroy this: Put a blue card from your graveyard on the bottom of your deck. **Go again**	Generic Equipment - Head					
 hHTFWRhbq9F7CwwbQqNQ8	Bank Breaker			3					Mechanologist, Weapon, Wrench, 2H		Twice per Turn Action	Attack	Overpower, Go again			"**Twice per Turn Action** - {r}: **Attack**. Activate this only if you've cranked this turn.
 
 When this attacks, you may banish a card from under it. If you do, the attack gets **overpower** and **go again**."	Mechanologist Weapon - Wrench (2H)				No	
@@ -570,6 +589,9 @@ hJdQ9Bfwm8Fz8kdtzHHqL	Barraging Brawnhide	2	3	6	2				Generic, Action, Attack				
 QKgbfzgpnzfq7HKgWTzRg	Bastion of Unity				1				Warrior, Equipment, Off-Hand	Unity, Temper						"**Unity** - When this defends together with a card from hand, this gets +1{d} until end of turn.
 
 **Temper**"	Warrior Equipment - Off-hand				No	
+jBMwChDGmJjp7GrhnzdwQ	Battalion Barque	1	4	7	3				Pirate, Action, Attack	High Tide						High Tide - If there are 2 or more blue cards in your pitch zone, this gets +2{p}.	Pirate Action - Attack					
+gPkmHM8hGHGdkDTfCdbDP	Battalion Barque	2	4	6	3				Pirate, Action, Attack	High Tide						High Tide - If there are 2 or more blue cards in your pitch zone, this gets +2{p}.	Pirate Action - Attack					
+CKgkPBMkGRkNzrDbdRttC	Battalion Barque	3	4	5	3				Pirate, Action, Attack	High Tide						High Tide - If there are 2 or more blue cards in your pitch zone, this gets +2{p}.	Pirate Action - Attack					
 t79k8WMTmQBDnk6DcqzP8	Batter to a Pulp	1	6	10	3				Guardian, Action, Attack	Crush						"If this would deal 4 or more damage, that damage can't be prevented.
 
 **Crush** - When this deals 4 or more damage to a hero, destroy an equipment they control with no defense value."	Guardian Action - Attack				No	
@@ -945,6 +967,7 @@ P8RBh6qWkwRjcJQMWKNQG	Blood Splattered Vest				1				Assassin, Ninja, Equipment, 
 Lmfc89kGcH66W6BRqCfb7	Blood Tribute	1	0						Shadow, Instant	Opt 3						**Opt 3**, then banish the top card of your deck.	Shadow Instant					
 kmWDHgcj8hrqMgrtJ6dwW	Blood Tribute	2	0						Shadow, Instant	Opt 2						**Opt 2**, then banish the top card of your deck.	Shadow Instant					
 tdqH9kBqn9TbjRBHHDrfP	Blood Tribute	3	0						Shadow, Instant	Opt 1						**Opt 1**, then banish the top card of your deck.	Shadow Instant					
+mhWb9WptjzMQtB99PWNBr	Blood in the Water	1	0		4				Pirate, Necromancer, Defense Reaction						Watery Grave	When this defends, you may discard a card or destroy the top card of your deck. If that card has watery grave, this gets +2{d}.	Pirate Necromancer Defense Reaction				No	
 nqFNHFqP79nMk7TKM9r8T	Blood of the Dracai	1							Draconic, Resource, Gem	Legendary						"**Legendary**
 
 When you pitch Blood of the Dracai, the next 3 Draconic cards you play this turn cost {r} less."	Draconic Resource - Gem				No	
@@ -995,6 +1018,9 @@ nDWpQJCqCqHJM6WbhD7GN	Blossoming Spellblade	1	2	6	3			1	Elemental, Runeblade, Ac
 If Blossoming Spellblade was fused, it gains ""Whenever this deals damage to an opposing hero, you may banish a 'non-attack' action card from your graveyard. If you do, you may play it this turn as though it were an instant and if it would be put into your graveyard this turn, instead banish it.""
 
 When you attack with Blossoming Spellblade, if it was **fused**, deal 1 arcane damage to target hero."	Elemental Runeblade Action - Attack				No	
+Fp6nwdwf88LdLLcTJcFHr	Blow for a Blow	1	2	4	2				Generic, Action, Attack	Go again						"When this is played, if you have less {h} than an opposing hero, it gets **go again**.
+
+When this hits, deal 1 damage to any target."	Generic Action - Attack					
 KtQQggkn6LkFz7dGHNLWj	Blue Fin Harpoon	3	2	4	3				Pirate, Ranger, Action, Arrow, Attack	Go Fish						**Go Fish** - When this hits a hero, they choose and reveal a card from their hand. If it's blue, they discard it and you create a Gold token. If you've activated a cannon this turn, instead look at their hand and you choose the card.	Pirate Ranger Action - Arrow Attack				No	
 8TbK6kFJcDtRjqwNzBbmp	Blue Sea Tricorn				1				Pirate, Equipment, Head	Blade Break	Action	Go again				"**Action** - {r}{r}{r}, destroy this: Draw a card. **Go again**
 
@@ -1268,6 +1294,9 @@ If there are 10 or more defense reaction cards in their graveyard, draw a card.
 HFHTwwNzfP98TwzjLdFjK	Burgeoning	1	2	6	2				Earth, Action, Attack							If this was played from arsenal, it gains +1{p}.	Earth Action - Attack					
 THkdFmjJffhRHdNTPcKmF	Burgeoning	2	2	5	2				Earth, Action, Attack							If this was played from arsenal, it gains +1{p}.	Earth Action - Attack					
 CrcJtRzFPTCwQ8wQtzpmN	Burgeoning	3	2	4	2				Earth, Action, Attack							If this was played from arsenal, it gains +1{p}.	Earth Action - Attack					
+BdPrJgdgHTBcQ6gd7RTGc	Burly Bones	1	2	6	3				Pirate, Necromancer, Action, Attack	Overpower					Watery Grave	When this attacks, you may discard a card or destroy the top card of your deck. If that card has watery grave, this gets **overpower**.	Pirate Necromancer Action - Attack					
+rBJ7nHKTc9W6d6P8hK7BQ	Burly Bones	2	2	5	3				Pirate, Necromancer, Action, Attack	Overpower					Watery Grave	When this attacks, you may discard a card or destroy the top card of your deck. If that card has watery grave, this gets **overpower**.	Pirate Necromancer Action - Attack					
+hCT6MJC6bWrdHTmCjJfF6	Burly Bones	3	2	4	3				Pirate, Necromancer, Action, Attack	Overpower					Watery Grave	When this attacks, you may discard a card or destroy the top card of your deck. If that card has watery grave, this gets **overpower**.	Pirate Necromancer Action - Attack					
 kDgcBghDT7wRQwQWmpWRb	Burn Away	1	0	2	3				Draconic, Action, Attack	Go again						As an additional cost to play Burn Away, you may banish a Phoenix Flame from your graveyard. When you do, Burn Away gains +2{p} and **go again**.	Draconic Action - Attack					
 FRftJtrB9LzbkMfcJKCmb	Burn Bare		3		3			6	Wizard, Action						Phantasm	"Deal 6 arcane damage to any target.
 
@@ -1311,6 +1340,21 @@ zqbcPKK9npDdLNNLNhdnN	Cadaverous Tilling	3	3	4	2				Earth, Action, Attack	Decomp
 Your attacks this turn get ""Whenever the defending hero adds 1 or more defending cards from hand to this chain link, this deals 1 damage to them."" **Go again**
 
 **Unity** - When this defends together with a card from hand, create an Embodiment of Lightning token under any number of heroes' control."	Lightning Action				No	
+7c9KRd7Rh7hbGJ8kRCrFr	Call in the Big Guns	1	0		2				Ranger, Action	Go again						"Your next arrow attack this turn gets +3{p}.
+
+You may put an arrow from your hand face-up into your arsenal.
+
+**Go again**"	Ranger Action					
+L6GQFG6PbmFHrGw8fhwMn	Call in the Big Guns	2	0		2				Ranger, Action	Go again						"Your next arrow attack this turn gets +2{p}.
+
+You may put an arrow from your hand face-up into your arsenal.
+
+**Go again**"	Ranger Action					
+QLDR6B8G7KPBBTF8C9JKJ	Call in the Big Guns	3	0		2				Ranger, Action	Go again						"Your next arrow attack this turn gets +1{p}.
+
+You may put an arrow from your hand face-up into your arsenal.
+
+**Go again**"	Ranger Action					
 gDhFGHDrPKRwCP6qRF6zd	Call to the Grave	3	0		2				Generic, Action	Go again						"Search your deck for a card, put it into your graveyard, then shuffle.
 
 **Go again**"	Generic Action				No	
@@ -1344,6 +1388,7 @@ The next attack action card with cost 0 you play this turn gains +2{p}.
 The next attack action card with cost 0 you play this turn gains **go again**.
 
 **Go again**"	Generic Action				No	
+hmr8mCTP6dhctND9KcFjp	Captain's Coat				0				Generic, Equipment, Chest		Action	Go again				**Action** - Destroy this: Gain {r}. Activate this only if you've drawn a card this turn. **Go again**	Generic Equipment - Chest					
 KLtwtTdQqjdTJNhcQHJhd	Carrion Husk				6				Shadow, Equipment, Chest	Blood Debt						"If you defend with Carrion Husk, banish it when the combat chain closes.
 
 At the start of your turn, if you have 13 or less {h}, banish Carrion Husk.
@@ -1443,6 +1488,21 @@ WfqwhCzMFNJrtQdBjn6WN	Charge of the Light Brigade	2	0		3				Light, Warrior, Acti
 T7LWwwbfhmJMhQrBLKc7F	Charge of the Light Brigade	3	0		3				Light, Warrior, Action	Go again					Charge	"The next attack you **charge** to play this turn gets +1{p}.
 
 **Go again**"	Light Warrior Action					
+MnFBFMRFhmwWQLLKQFJQc	Chart a Course	1	0		2				Pirate, Action	Go again						"Your first attack this turn gets +3{p}.
+
+You may put a gold counter on Treasure Island.
+
+**Go again**"	Pirate Action					
+Rwgrgc7rDQbtj6KhkfjTb	Chart a Course	2	0		2				Pirate, Action	Go again						"Your second attack this turn gets +3{p}.
+
+You may put a gold counter on Treasure Island.
+
+**Go again**"	Pirate Action					
+jmdFFT8D6MhJWJLRbz6dt	Chart a Course	3	0		2				Pirate, Action	Go again						"Your third attack this turn gets +3{p}.
+
+You may put a gold counter on Treasure Island.
+
+**Go again**"	Pirate Action					
 jMMDM8cd7Dc8LdWWN7GzR	Chart the High Seas	3	0		3				Pirate, Necromancer, Action	Go again						"Look at the top 2 cards of your deck. You may pitch a blue card from among them. Put the rest into your graveyard.
 
 Create a Gold token for each yellow card put into your graveyard this way.
@@ -1545,6 +1605,11 @@ qQ9JC8BtngfRq7n9pqpKM	Civic Steps				2				Guardian, Equipment, Legs	Temper						
 This enters the arena with 2 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 Wrenches you control get +2{p}."	Mechanologist Action - Item				No	
+Rz7gTL7CQrDCtn9n87jGK	Clap 'Em in Irons	3	0						Generic, Action, Item	Go again						"**Go again**
+
+When this enters the arena, {t} target Pirate hero or ally. It can't {u} while this is in the arena.
+
+At the start of your turn, destroy this."	Generic Action - Item				No	
 M8HJKTz7QwHTjGtjdHqDM	Clarity Potion	3	0						Generic, Action, Item		Instant	Opt 2				**Instant** - Destroy Clarity Potion: **Opt 2**	Generic Action - Item				No	
 gRpHwzjCr7Q6RQwnGTT7t	Clash of Agility	1	2	6	3				Brute, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Action - Attack				No	
 8dw7PGfBNcKMcRkgMdPJz	Clash of Agility	2	2	5	3				Brute, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Action - Attack				No	
@@ -1555,6 +1620,9 @@ KnJTJP7KPKfpNC7FNLJB8	Clash of Might	3	2	4	3				Brute, Guardian, Action, Attack	
 FWQPHMnG9JDfm7JmC6hJ6	Clash of Vigor	1	2	6	3				Guardian, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Action - Attack				No	
 HrKnbRbWgpztmkCN6DJfR	Clash of Vigor	2	2	5	3				Guardian, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Action - Attack				No	
 pBjNr7MRTR6L7LMKT8j9d	Clash of Vigor	3	2	4	3				Guardian, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Action - Attack				No	
+hgWGqgpQTdRHtTKcWpjkw	Claw of Vynserakai			1					Draconic, Weapon, Dagger, (1H)	Spellvoid 1	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
+
+**Spellvoid 1**"	Draconic Weapon - Dagger (1H)				No	
 8fNNR6wFmtQfKWqgkB6pb	Cleansing Light	1	3		2				Light, Action							"If a card has been put into your hero's soul this turn, you may play this as though it were an instant.
 
 Destroy target red aura."	Light Action				No	
@@ -1573,16 +1641,19 @@ bPJzLWhH7G7BnHL9fNJw6	Cleave	1	1		3				Warrior, Action	Go again						"Your next 
 TtgGwwdkkjjMHBbMztjrG	Cloak of Darkness								Shadow, Equipment, Chest	Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
 
 **Blood Debt**"	Shadow Equipment - Chest					
-rPqkgWJCRBcDzDGPgMzBj	Cloud City Steamboat	1	2	6	3				Mechanologist, Action, Attack							"When this hits a hero, you may {t} a cog you control. If you do, put a steam counter on a cog you control.
+rPqkgWJCRBcDzDGPgMzBj	Cloud City Steamboat	1	2	6	3				Mechanologist, Action, Attack		Twice per Turn Instant					"When this hits a hero, you may {t} a cog you control. If you do, put a steam counter on a cog you control.
 
 **Twice per Turn Instant** - {t} a cog you control: This gets +1{p}."	Mechanologist Action - Attack				No	
-kTKcmGwRgtjQcGFRRG6fT	Cloud City Steamboat	2	2	5	3				Mechanologist, Action, Attack							"When this hits a hero, you may {t} a cog you control. If you do, put a steam counter on a cog you control.
+kTKcmGwRgtjQcGFRRG6fT	Cloud City Steamboat	2	2	5	3				Mechanologist, Action, Attack		Twice per Turn Instant					"When this hits a hero, you may {t} a cog you control. If you do, put a steam counter on a cog you control.
 
 **Twice per Turn Instant** - {t} a cog you control: This gets +1{p}."	Mechanologist Action - Attack				No	
-pPgMnD6hBcnm8gcdHL79J	Cloud City Steamboat	3	2	4	3				Mechanologist, Action, Attack							"When this hits a hero, you may {t} a cog you control. If you do, put a steam counter on a cog you control.
+pPgMnD6hBcnm8gcdHL79J	Cloud City Steamboat	3	2	4	3				Mechanologist, Action, Attack		Twice per Turn Instant					"When this hits a hero, you may {t} a cog you control. If you do, put a steam counter on a cog you control.
 
 **Twice per Turn Instant** - {t} a cog you control: This gets +1{p}."	Mechanologist Action - Attack				No	
 8jzNDBDqQhcHgJtG9JRF8	Cloud Cover	2	0						Lightning, Instant							The next time you would be dealt damage this turn, prevent 2 of that damage.	Lightning Instant				No	
+mbNRPd7D9TN76C8wbBRrL	Cloud Skiff	1	1	5	3				Mechanologist, Action, Attack	Go again	Once per Turn Instant					**Once per Turn Instant** - {t} a cog you control: This gets +1{p} or go again.	Mechanologist Action - Attack					
+kkfTJq9f9rMqbkPkbJm8R	Cloud Skiff	2	1	4	3				Mechanologist, Action, Attack	Go again	Once per Turn Instant					**Once per Turn Instant** - {t} a cog you control: This gets +1{p} or go again.	Mechanologist Action - Attack					
+nNnqFQD7WfGFGRnrMw8nh	Cloud Skiff	3	1	3	3				Mechanologist, Action, Attack	Go again	Once per Turn Instant					**Once per Turn Instant** - {t} a cog you control: This gets +1{p} or go again.	Mechanologist Action - Attack					
 JBkC6qp77CfhzhkphHMPC	Coalescence Mirage	1	2	7	3				Illusionist, Action, Attack	Phantasm						"**Phantasm**
 
 When Coalescence Mirage is destroyed, you may put an Illusionist aura card with cost 0 from your hand into the arena."	Illusionist Action - Attack					
@@ -1644,9 +1715,24 @@ p6cgRTrMmWfjk6hCLH9Jt	Cogwerx Base Legs								Mechanologist, Equipment, Base, L
 mpNCNfJnPMdk9bgrkj8bB	Cogwerx Blunderbuss			2					Mechanologist, Weapon, Gun, 2H		Action, Instant	Attack				"**Action** - {r}{r}, {t}: **Attack**
 
 **Instant** - {t} a cog you control: This card's next attack this turn gets go again."	Mechanologist Weapon - Gun (2H)					
-dnhGwzTLMbDMGLfrBgnzz	Cogwerx Dovetail	1	1	5	3				Mechanologist, Action, Attack		Thrice per Turn Instant					"When this hits a hero, {u} all cogs you control.
+dnhGwzTLMbDMGLfrBgnzz	Cogwerx Dovetail	1	1	5	3				Mechanologist, Action, Attack	Go again	Thrice per Turn Instant					"When this hits a hero, {u} all cogs you control.
 
 **Thrice per Turn Instant** - {t} a cog you control: This gets +1{p} or **go again**."	Mechanologist Action - Attack				No	
+cqRf8LJ6Dt86pRfcDdJ7H	Cogwerx Tinker Rings				2				Mechanologist, Equipment, Arms	Blade Break						"When this defends, create a Golden Cog token.
+
+**Blade Break**"	Mechanologist Equipment - Arms				No	
+NtGRcJrNgDN6LcQtcN7Qb	Cogwerx Workshop	3	1		3				Mechanologist, Action							"Create a Golden Cog token.
+
+Put a steam counter on up to 2 cogs you control."	Mechanologist Action				No	
+WMNLQNgmCHD7FwnFFq6dG	Cogwerx Zeppelin	1	2	6	3				Mechanologist, Action, Attack		Twice per Turn Instant					"When this hits a hero, you may {t} a cog you control. If you do, create a Golden Cog token.
+
+**Twice per Turn Instant** - {t} a cog you control: This gets +1{p}."	Mechanologist Action - Attack				No	
+fJzjdQTnDbfNwGCDWCBNK	Cogwerx Zeppelin	2	2	5	3				Mechanologist, Action, Attack		Twice per Turn Instant					"When this hits a hero, you may {t} a cog you control. If you do, create a Golden Cog token.
+
+**Twice per Turn Instant** - {t} a cog you control: This gets +1{p}."	Mechanologist Action - Attack				No	
+kNggzqkBtLWRqfhFCMbfQ	Cogwerx Zeppelin	3	2	4	3				Mechanologist, Action, Attack		Twice per Turn Instant					"When this hits a hero, you may {t} a cog you control. If you do, create a Golden Cog token.
+
+**Twice per Turn Instant** - {t} a cog you control: This gets +1{p}."	Mechanologist Action - Attack				No	
 RGTFQcwQp66wkFBWJBk6T	Cold Snap	1	1		2				Ice, Action	Go again			Freeze			"Target hero may pay {r}{r}{r}. If they don't, **freeze** a card in their arsenal or an ally they control until the start of your next turn.
 
 If Cold Snap is played from arsenal, draw a card.
@@ -1753,6 +1839,13 @@ GtL9zmpkGKMqgBcFfCQgN	Confront Adversity				2				Generic, Equipment, Chest	Blade
 gHzNJcBw6rtnCgNqfftPz	Conqueror of the High Seas	1	4	7	3				Pirate, Action, Attack	High Tide, Go again						"When this hits a hero, destroy all cards in their arsenal. Create a Gold token for each card destroyed this way.
 
 **High Tide** - If there are 2 or more blue cards in your pitch zone, this gets +1{p} and **go again**."	Pirate Action - Attack				No	
+LpGthTWGTT6KK6mg8dqrH	Consign to Cosmos // Shock	2	0		3				Lightning, Wizard, Action, Instant	Meld						"**Meld**
+
+Banish X instant and/or aura cards from any graveyard, where X is the amount of arcane damage you've dealt this turn.
+
+//
+
+Deal 1 arcane damage to any target."	Lightning Wizard Action // Lightning Instant	Yes			No	
 RNCWjkhhdhrHCNRncqznq	Construct Bank Breaker	2	0		3				Mechanologist, Action, Construct	Transform, Go again						"If you have a wrench weapon equipped, **transform** it and 3 Hyper Drivers you control into Bank Breaker, then equip Bank Breaker.
 
 **Go again**"	Mechanologist Action - Construct				No	
@@ -1833,6 +1926,15 @@ NTCMFrrQdwdrKLnT8kcfc	Crankshaft	3	2	3	3				Mechanologist, Action, Attack	Boost	
 When this is banished from boosting, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
 bzBJdKw6Brc9KmtcNrJKp	Crash Down	1	3		3				Guardian, Action, Aura							At the start of your turn, destroy this, then the next Guardian attack action card you play this turn gets +6{p}.	Guardian Action - Aura				Yes	
 TgrNMPfTmLkB9DtNtkccP	Crash Down	2	3		3				Guardian, Action, Aura							At the start of your turn, destroy this, then the next Guardian attack action card you play this turn gets +5{p}.	Guardian Action - Aura				Yes	
+78qm8bGbrcGwf7chnPrqj	Crash Down the Gates	1	3	6	2				Generic, Action, Attack							"When this attacks a hero, they reveal the top card of their deck. If this has {p} greater than the revealed card, this gets +2{p}.
+
+When this hits a hero, destroy the top card of their deck."	Generic Action - Attack				No	
+rkBTWR7wJGdbpzMDC8CfT	Crash Down the Gates	2	3	5	2				Generic, Action, Attack							"When this attacks a hero, they reveal the top card of their deck. If this has {p} greater than the revealed card, this gets +2{p}.
+
+When this hits a hero, destroy the top card of their deck."	Generic Action - Attack				No	
+6cNDdMzwq6KHcHjFdmmHT	Crash Down the Gates	3	3	4	2				Generic, Action, Attack							"When this attacks a hero, they reveal the top card of their deck. If this has {p} greater than the revealed card, this gets +2{p}.
+
+When this hits a hero, destroy the top card of their deck."	Generic Action - Attack				No	
 jDPdqfjkbzLjMGk6nPPgn	Crash and Bash	1			4				Guardian, Block						Crush	When this defends, you may reveal a card with **crush** from your hand. If you do, create a Seismic Surge token.	Guardian Block					
 tCKk7THm9bNKJh8F6Dmzk	Crash and Bash	2			4				Guardian, Block						Crush	When this defends, you may reveal a card with **crush** from your hand. If you do, create a Seismic Surge token.	Guardian Block					
 8CtmRqKLjmGkqD8bgDjTd	Crash and Bash	3			4				Guardian, Block						Crush	When this defends, you may reveal a card with **crush** from your hand. If you do, create a Seismic Surge token.	Guardian Block					
@@ -2132,6 +2234,9 @@ jmNMNj8FrgJCR8dCcbmTr	Den of the Spider	1	0		3				Assassin, Warrior, Defense Rea
 hNdDhKhhpGwKTCT7wMRCp	Dense Blue Mist	3	1						Mystic, Instant							"Attacks that target you this turn get -1{p}.
 
 If a Chi was pitched to play this, effects don't trigger if an attack hits you this turn."	Mystic Instant				No	
+cMpT98cKjcqFfkprHTQgt	Deny Redemption	1	0	3	3				Runeblade, Action, Attack		Instant					"When this attacks a hero with more {h} than you, deal 1 arcane damage to them. This damage can't be prevented.
+
+**Instant** - Discard this: Heroes can't gain {h} this turn."	Runeblade Action - Attack				No	
 ppcfhRgNk9GH8QWRpMbdt	Descendent Gustwave	1	1	3	2				Ninja, Action, Attack	Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, this costs {r} less to play and has +2{p}.
 
 **Go again**"	Ninja Action - Attack					
@@ -2267,6 +2372,9 @@ When this hits, **opt 1**."	Mechanologist Action - Attack
 q87bjWTPpRz8LHrN8drrd	Dive Through Data	3	1	2	3				Mechanologist, Action, Attack	Boost, Opt 1						"**Boost**
 
 When this hits, **opt 1**."	Mechanologist Action - Attack					
+wBNFNMMLnnBTDczrjjgRH	Divvy Up	3	0		3				Pirate, Action							"Remove half the gold counters from Treasure Island, rounded up. If you are a Thief, instead remove all of them.
+
+Create Gold tokens equal to the number of gold counters removed this way."	Pirate Action				No	
 bzkCGg6kcffpBcBhgHrkH	Dodge	3	0		2				Generic, Defense Reaction								Generic Defense Reaction					
 hjggcdqWwpwNKCrTBj6J7	Dominia			4		4			Draconic, Illusionist, Dragon, Ally							Whenever Dominia attacks a hero, reveal the top card of your deck. If it's a red card, look at their hand and banish a card from it.	Draconic Illusionist - Dragon Ally				No	
 w7HdMtLpHDBRNJcKHWHpc	Doomsday	3	0						Shadow, Instant	Legendary, Levia Specialization					Blood Debt	"**Legendary Levia Specialization**
@@ -2439,6 +2547,9 @@ pBTGtg7LJbjTBWDGQDknH	Drop of Dragon Blood	1	2						Draconic, Instant	Legendary	
 This costs {r} less to play for each Draconic chain link you control.
 
 Gain {r}. Draw a card."	Draconic Instant				No	
+nzhkqMtnDtP7HP8NRWpTP	Drop the Anchor	1	0		2				Ranger, Action	Go again						"Your next arrow attack this turn gets +3{p} and ""When this hits a hero, {t} them and all allies they control.""
+
+**Go again**"	Ranger Action				No	
 gzdhT8FLprLrfPNCdNtR7	Droplet	3	0	2	2				Mystic, Action, Attack							If you've played another blue card this turn, this gets +2{p}.	Mystic Action - Attack					
 rB8rmFM8LLnw7BNFPbNtW	Drowning Dire	1	2	5	3				Runeblade, Action, Attack	Dominate						"If you have played or created an aura this turn, Drowning Dire gains **dominate**.
 
@@ -2449,6 +2560,7 @@ When Drowning Dire hits, you may put a 'non-attack' action card from your gravey
 GhDWNg68bbPjPMPcGfK7Q	Drowning Dire	3	2	3	3				Runeblade, Action, Attack	Dominate						"If you have played or created an aura this turn, Drowning Dire gains **dominate**.
 
 When Drowning Dire hits, you may put a 'non-attack' action card from your graveyard on the bottom of your deck."	Runeblade Action - Attack					
+c98tqCFBpDpkCNbkkT8mg	Dry Powder Shot	1	0	3	3				Ranger, Action, Arrow, Attack							When this is put face-up into your arsenal, it gets +2{p} this turn.	Ranger Action - Arrow Attack					
 FnPjLR9FPNJzBcJpCf8mQ	Dual Threat	2	0		3				Generic, Action	Go again						"If you've attacked with a weapon this turn, the next attack action card you play this turn gets +3{p}.
 
 If you've attacked with an attack action card this turn, your next weapon attack this turn gets +3{p}.
@@ -2766,6 +2878,7 @@ If Entangle was **fused**, it gains ""If this hits a hero, their first attack du
 hWTwmwHfMg8PfTFRffBqz	Entangle	3	3	5	3				Elemental, Guardian, Action, Attack	Earth Fusion						"**Earth Fusion**
 
 If Entangle was **fused**, it gains ""If this hits a hero, their first attack during their next turn has -2{p}."""	Elemental Guardian Action - Attack					
+JKqPrBhgGqjjWjnwBPpJN	Entangling Shot	1	0	4	3				Ranger, Action, Arrow, Attack							When this is put face-up into your arsenal, you may {t} target hero.	Ranger Action - Arrow Attack					
 DdJT86P9h6tQ77czjkwBc	Entwine Earth	1	2	6	2				Elemental, Action, Attack	Earth Fusion						"**Earth Fusion**
 
 If Entwine Earth was **fused**, it gains +2{p}."	Elemental Action - Attack					
@@ -2812,6 +2925,11 @@ CnzHmjrhb7TTzGJppkpfc	Eradicate	2	1	4	3				Assassin, Action, Attack	Contract				
 
 When this hits a hero, banish the top X cards of their deck, where X is the damage dealt by Eradicate."	Assassin Action - Attack				No	
 qJTKdmdtgwgfgPFLtWpNj	Erase Face	1	2	6	2				Generic, Action, Attack							When this hits a hero, cards they own lose all class and talent types until the end of their next turn.	Generic Action - Attack				No	
+NdcgmHW9WJnCHKNfLRhDd	Escalate Bloodshed	1	0						Warrior, Instant, Aura							"Whenever a hero draws a card during an action phase, they lose 1{h}.
+
+At the beginning of each hero's action phase, they draw a card.
+
+At the beginning of each hero's end phase, if a weapon did not attack this turn, destroy this."	Warrior Instant - Aura				No	
 qMzCjGnnHpbqRJPtJfp6T	Essence of Ancestry: Body	1	0		3				Illusionist, Action, Aura	Ward 2						"When this leaves the arena, if you control no Illusionist auras, the next time you would be dealt damage by a red source this turn, prevent it.
 
 **Ward 2**"	Illusionist Action - Aura				No	
@@ -2845,6 +2963,15 @@ QbtQ6rBPTTD99TNC7PGRM	Even Bigger Than That!	2	0						Generic, Instant	Opt 2				
 LDCrQmNm8bFk8wcCJ6pj9	Even Bigger Than That!	3	0						Generic, Instant	Opt 1						"Play Even Bigger Than That! only if you've dealt {p} this turn.
 
 **Opt 1**, then reveal the top card of your deck. If it has {p} greater than the amount of damage you've dealt this turn, create a Quicken token and draw a card."	Generic Instant				No	
+nnQpNFFKqfMwJbRQ6brJ6	Everbloom // Life	3	0		3				Earth, Action, Instant	Go again, Meld						"**Meld**
+
+Choose an action card in a graveyard with cost less than the total {h} you've gained this turn. Put it on the bottom of its owner's deck.
+
+**Go again**
+
+//
+
+Gain 1{h}"	Earth Action // Instant	Yes			No	
 tfdr8MdNBHPQjKn9FJCT6	Evergreen	1	3	7	2				Earth, Action, Attack							If Evergreen is played from arsenal, put it on the bottom of its owner's deck when the combat chain closes.	Earth Action - Attack				No	
 JTc7kdrn9kHtq7LdJ8pQW	Evergreen	2	3	6	2				Earth, Action, Attack							If Evergreen is played from arsenal, put it on the bottom of its owner's deck when the combat chain closes.	Earth Action - Attack				No	
 nRDPrpfRT9gGCWf9K8nBT	Evergreen	3	3	5	2				Earth, Action, Attack							If Evergreen is played from arsenal, put it on the bottom of its owner's deck when the combat chain closes.	Earth Action - Attack				No	
@@ -3632,6 +3759,9 @@ If a yellow card is **charged** this way, this gets **overpower**."	Light Warrio
 RdzmGtLg9BgTTbC6BjFdk	Glaring Impact	3	1	2	3				Light, Warrior, Action, Attack	Charge, Overpower						"As an additional cost to play this, you may **charge** your hero's soul.
 
 If a yellow card is **charged** this way, this gets **overpower**."	Light Warrior Action - Attack					
+N8krkMtHG86TBmG8Fp69t	Glidewell Fins				1				Ranger, Equipment, Arms	Battleworn						"**Action** - {r}, destroy this: Put an arrow from your hand face-up into your arsenal. It gets +1{p} this turn. **Go again**
+
+**Battleworn**"	Ranger Equipment - Arms					
 QDgDmcwTqJPDctWrbqMLt	Glint the Quicksilver	3	0		3				Warrior, Attack Reaction	Reprise			Go again			"Target weapon attack gains **go again**.
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, draw a card."	Warrior Attack Reaction				No	
@@ -3666,6 +3796,15 @@ gnCjFF9rFPTrhTrBcjJGc	Goblet of Bloodrun Wine	3	0		2				Warrior, Action	Go again
 
 **Go again**"	Warrior Action					
 8qdmprPg7kckn8ktMTKQh	Gold								Generic, Token, Item		Action	Go again				**Action** - {r}{r}, destroy this: Draw a card. **Go again**	Generic Token - Item					
+Kjjm76jCB6TCdfprGprtD	Gold Hunter Ketch	2	4	7	2				Pirate, Action, Attack							If you control less Gold than an opponent, this costs {r}{r} less to play.	Pirate Action - Attack					
+NrW7LgbzfgBGPCwhBRkKL	Gold Hunter Lightsail	2	1	4	2				Pirate, Action, Attack							When this attacks, if you control less Gold than an opponent, this gets **go again**.	Pirate Action - Attack					
+FMtqqPTBz8J7KdLNCbzcb	Gold Hunter Longboat	2	0	3	2				Pirate, Action, Attack							If you control less Gold than an opponent, this gets +2{p}.	Pirate Action - Attack					
+KgPDCHhKBMbLfN6c8kwBJ	Gold Hunter Marauder	2	3	6	2				Pirate, Action, Attack	Overpower						If you control less Gold than an opponent, this gets **overpower**.	Pirate Action - Attack					
+f9RrDh96NLGChKKrC9JGK	Gold the Tip	2	0		2				Pirate, Ranger, Action	Go again						"Your next arrow attack this turn gets +3{p}.
+
+If there is a yellow arrow face-up in your arsenal, create a Gold token.
+
+**Go again**"	Pirate Ranger Action				No	
 FmmqBdRdbrjzcQ7cp6jKq	Gold-Baited Hook				1				Pirate, Equipment, Arms	Battleworn	Action	Steal, Go again				"**Action** - {t}: Your next Pirate attack this turn gets ""When this hits a hero, **steal** a Gold token they control, otherwise create a Gold token."" At the beginning of your end phase, if you haven't created or stolen a Gold token this turn, destroy this. **Go again**
 
 **Battleworn**"	Pirate Equipment - Arms				No	
@@ -3678,8 +3817,26 @@ When this defends together with 2 or more yellow cards, create a Gold token.
 
 **Blade Break**"	Guardian Equipment - Head					
 cTchBtPqMqnNgDGGW89Gp	Golden Skywarden	2	4	7	2				Pirate, Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +1{d}. If a Golden Cog is destroyed this way, create a Gold token and repeat this process.	Pirate Mechanologist Action - Attack				No	
+6CpcdCrJKFkpkdkdLPQqT	Golden Tipple	1	1	3	2				Pirate, Action, Attack	Go again						"When this attacks, you may discard a yellow card. If you do, draw a card and create a Gold token.
+
+**Go again**"	Pirate Action - Attack					
+8QrD8rDCQWm78C9fq7tpr	Golden Tipple	2	1	2	2				Pirate, Action, Attack	Go again						"When this attacks, you may discard a yellow card. If you do, draw a card and create a Gold token.
+
+**Go again**"	Pirate Action - Attack					
+QctzddqGNk8RgCTBMWPMN	Golden Tipple	3	1	1	2				Pirate, Action, Attack	Go again						"When this attacks, you may discard a yellow card. If you do, draw a card and create a Gold token.
+
+**Go again**"	Pirate Action - Attack					
 p9pFJWk6TCzMCLKPB68KG	Goldfin Harpoon	2	0	2					Pirate, Ranger, Action, Arrow, Attack							If this would be put into a graveyard, instead remove it from the game.	Pirate Ranger Action - Arrow Attack					
 9KpmmRGnpbdND9Q8GJnT6	Goldkiss Rum								Generic, Token, Item		Instant		Go again			**Instant** - {t} your hero, destroy this: Your next action this turn gets **go again**. Your hero can't {u} this turn unless they're a Pirate.	Generic Token - Item					
+8nwFDqnJ8nCHfBMLrwBnr	Goldwing Turbine	1	2		3				Mechanologist, Action							"Your next Mechanologist attack this turn gets +3{p}.
+
+Create a Golden Cog token."	Mechanologist Action					
+CwgjPFFG8MpkRF8ztzgFg	Goldwing Turbine	2	2		3				Mechanologist, Action							"Your next Mechanologist attack this turn gets +2{p}.
+
+Create a Golden Cog token."	Mechanologist Action					
+tDL9LBtmCdmkrNnQzRhQ9	Goldwing Turbine	3	2		3				Mechanologist, Action							"Your next Mechanologist attack this turn gets +1{p}.
+
+Create a Golden Cog token."	Mechanologist Action					
 bPGmQFC976CBt9cTGc88t	Goliath Gauntlet				0				Generic, Equipment, Arms		Action	Go again				**Action** - Destroy Goliath Gauntlet: The next attack action card with cost 2 or greater you play this turn gains +2{p}. **Go again**	Generic Equipment - Arms					
 DHfcJWbWWPdKWcGdtWmnQ	Gone in a Flash	1	0	4	3				Lightning, Action, Attack							When this attacks, the next time you play an instant card this chain link, you may return this to it's owner's hand.	Lightning Action - Attack				No	
 nnFHwzGctzmqqwMTrfBpQ	Good Deeds Don't Go Unnoticed	2	0		3				Generic, Action, Aura							"At the start of each other hero's turn, choose 1; they draw a card, they gain {r}, they gain 1{h}, or their next attack this turn gains +1{p}.
@@ -3800,6 +3957,15 @@ wLbNLfGtn86JfCTKBdMRg	Guardian of the Shadowrealm	1	2		6				Shadow, Defense Reac
 
 **Blood Debt**"	Shadow Defense Reaction				No	
 NCG7Gj8FnzJfDbmHQF6gF	Gustwave of the Second Wind	1	0	4	3				Ninja, Action, Attack	Combo, Go again						**Combo** - If Surging Strike was the last attack this combat chain, this gets **go again**.	Ninja Action - Attack				No	
+bkMchLmgcWQfPCf7MtjnF	HMS Barracuda	2	4	6	3				Pirate, Action, Attack	High Tide, Overpower						"When this hits a hero, destroy an ally they control.
+
+**High Tide** - If there are 2 or more blue cards in your pitch zone, this gets +1{p} and **overpower**."	Pirate Action - Attack				No	
+7p9qhCT76DDh6MQ9zFDwK	HMS Kraken	2	4	6	3				Pirate, Action, Attack	High Tide, Overpower						"When this hits a hero, destroy an item they control.
+
+**High Tide** - If there are 2 or more blue cards in your pitch zone, this gets +1{p} and **overpower**."	Pirate Action - Attack				No	
+NPjFdzCwz8HKdGkcwLPmw	HMS Marlin	2	4	6	3				Pirate, Action, Attack	High Tide, Overpower						"When this hits a hero, destroy the top card of their deck.
+
+**High Tide** - If there are 2 or more blue cards in your pitch zone, this gets +1{p} and **overpower**."	Pirate Action - Attack				No	
 LPNDBTkkJ9gfhfnqrctfJ	Hack to Reality	2	1		2				Generic, Action	Go again						"Your next attack this turn gets +2{p}.
 
 The next time you hit a hero this turn, destroy a non-token aura they own with cost less than or equal to the damage dealt this way.
@@ -3900,6 +4066,9 @@ p8tbQ7KL7G8RwQTtdKnNH	Head Leads the Tail	1	1	3	2				Ninja, Action, Attack	Go ag
 KjdKWBHLWtqdF66zPzRwG	Head Shot	1	1	4	3				Ranger, Action, Arrow, Attack							If Head Shot is put into your arsenal face up, it gains +2{p} until end of turn.	Ranger Action - Arrow Attack					
 cDJpRqfcbpFm8NjnhDfCw	Head Shot	2	1	3	3				Ranger, Action, Arrow, Attack							If Head Shot is put into your arsenal face up, it gains +2{p} until end of turn.	Ranger Action - Arrow Attack					
 zNgcmTJjnWHfGKcLmPw8G	Head Shot	3	1	2	3				Ranger, Action, Arrow, Attack							If Head Shot is put into your arsenal face up, it gains +2{p} until end of turn.	Ranger Action - Arrow Attack					
+Pm8jQMDcJhBnT8wj6rwFD	Head Stone				1				Necromancer, Equipment, Head	Battleworn						"**Instant** - Destroy this: Destroy the top card of your deck.
+
+**Battleworn**"	Necromancer Equipment - Head					
 BB7nwJkKWfznpRkt6gcCF	Headliner Helm				*				Generic, Equipment, Head	Blade Break						"Headliner Helm's {d} is equal to the number of opposing heroes with greater {h} than you.
 
 **Blade Break**"	Generic Equipment - Head					
@@ -3930,6 +4099,9 @@ H6KCbhR6jqrLJnhjM8GPN	Heat Seeker	1	1	5	3				Ranger, Action, Arrow, Attack						
 Prkf9mwfBCbLDHncK6CPP	Heat Wave				0				Draconic, Ninja, Equipment, Arms	Quell 1	Instant					"**Instant** - Destroy Heat Wave: Phoenix Flames you control gain +1{p} until end of turn.
 
 **Quell 1**"	Draconic Ninja Equipment - Arms					
+6HTFGH8fzF8THpGNjpmHR	Heave Ho!	3	0		3				Pirate, Necromancer, Action	Go again			Overpower			"Your next Pirate ally attack this turn gets **overpower** and ""When this hits a hero, create a Gold token.""
+
+**Go again**"	Pirate Necromancer Action				No	
 BDqM89MWQr6zKfCk6hkBH	Heaven's Claws	1	1	5	3				Lightning, Action, Attack								Lightning Action - Attack					
 NMTzJw6qfQ7rBdDpgMCzL	Heaven's Claws	2	1	4	3				Lightning, Action, Attack								Lightning Action - Attack					
 HCGkgWcrLLkmHFBRbhpdM	Heaven's Claws	3	1	3	3				Lightning, Action, Attack								Lightning Action - Attack					
@@ -3987,6 +4159,9 @@ MfBtnKK96JRR8Nb7RWMBn	Helm of Sharp Eye				1				Warrior, Equipment, Head	Battlew
 
 **Battleworn**"	Warrior Equipment - Head				No	
 ffLDbK7CGgrjL7R68jKJC	Helm of the Arknight				2				Runeblade, Equipment, Head	Temper						**Temper**	Runeblade Equipment - Head				No	
+PMh8LjJm6jmBKfm8FqfkW	Helmsman's Peak				1				Generic, Equipment, Head	Blade Break						"When this defends, look at the top card of your deck.
+
+**Blade Break**"	Generic Equipment - Head					
 JbhrgT86TGzH9rWPpzHBc	Hemorrhage Bore	1	1	5	3				Ranger, Action, Arrow, Attack							"If Hemorrhage Bore has an aim counter, it has ""When this hits a hero, destroy a card in their arsenal."""	Ranger Action - Arrow Attack					
 KWpp9Jg6QBftjK9HKNNKW	Hemorrhage Bore	2	1	4	3				Ranger, Action, Arrow, Attack							"If Hemorrhage Bore has an aim counter, it has ""When this hits a hero, destroy a card in their arsenal."""	Ranger Action - Arrow Attack					
 9hMdhNp7G6p6jqcrQD6Gd	Hemorrhage Bore	3	1	3	3				Ranger, Action, Arrow, Attack							"If Hemorrhage Bore has an aim counter, it has ""When this hits a hero, destroy a card in their arsenal."""	Ranger Action - Arrow Attack					
@@ -4169,6 +4344,9 @@ zc8n8JQRfBTPHGfnBmw8L	Honing Hood		0		0				Ranger, Equipment, Head		Instant					
 
 **Battleworn**"	Warrior Equipment - Head					
 pnwRgqpdgHJCwh7QMbzwT	Hood of Second Thoughts				0				Generic, Equipment, Head		Instant					**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this only if you've been dealt damage this turn.	Generic Equipment - Head					
+9tPpWpwwJdjzdcBppcpQq	Hook	3	0		3				Ranger, Action	Go again						"Look at the top card of your deck. If it's an arrow, you may put it face-up into your arsenal. If you do, it gets +1{p} this turn.
+
+**Go again**"	Ranger Action				No	
 khP7tT6NRCgzjJMWB8JHm	Hooves of the Shadowbeast				1				Shadow, Brute, Equipment, Legs	Battleworn						"Whenever a card with 6 or more {p} is put into your banished zone, you may destroy Hooves of the Shadowbeast. If you do, gain 1 action point.
 
 **Battleworn**"	Shadow Brute Equipment - Legs					
@@ -4581,6 +4759,12 @@ Whenever you play an Ice card during an opponents turn, create a Frostbite token
 If it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.
 
 Whenever you play an Ice card during an opponents turn, create a Frostbite token under their control."	Elemental Wizard Hero		No		No	
+JfdLrjqqCPgLQkrhtFqcz	Jack Be Nimble	1	0	3	3				Generic, Action, Attack	Go again, Steal						"When this attacks, you may banish a Nimblism from your graveyard. If you do, this gets +1{p} and **go again**.
+
+When this hits a hero, steal an item they control until the end of this action phase."	Generic Action - Attack				No	
+hKpL79WLFdLkgBhmhtdQJ	Jack Be Quick	1	0	3	3				Generic, Action, Attack	Go again, Steal						"When this attacks, you may banish a Nimblism from your graveyard. If you do, this gets +1{p} and **go again**.
+
+When this hits a hero, {u} an ally they control, then steal it until the end of this action phase."	Generic Action - Attack				No	
 MqhJWhp7gnBLjtMwzwmm8	Jack-o'-lantern	1	0		2				Shadow, Runeblade, Action	Go again						Banish the top card of your deck. If it's red, create a Runechant token.	Shadow Runeblade Action				No	
 KmMWLT6fF88QdfKTJ9GFf	Jack-o'-lantern	2	0		2				Shadow, Runeblade, Action	Go again						Banish the top card of your deck. If it's yellow, create a Runechant token.	Shadow Runeblade Action				No	
 b9tmpTgLPfDhD6qDJ7FwD	Jack-o'-lantern	3	0		2				Shadow, Runeblade, Action	Go again						Banish the top card of your deck. If it's blue, create a Runechant token.	Shadow Runeblade Action				No	
@@ -4591,6 +4775,9 @@ RbpzqdWTwMQDRTpNhwdtp	Jagged Edge	1	1		3				Warrior, Attack Reaction							"Targ
 GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit			2					Bard, Weapon, Fiddle, 2H		Once per Turn Action, Action	Go again, Attack				"**Once per Turn Action** - {r}{r}{r}: Target opposing hero chooses and creates a Might, Quicken, or Vigor token. You create a Copper token. **Go again**
 
 **Action** - 0: **Attack**. When this hits, destroy it."	Bard Weapon - Fiddle (2H)					
+FBWddcQRCcJm9mqLNdwtW	Jittery Bones	1	0	4	3				Pirate, Necromancer, Action, Attack	Go again					Watery Grave	When this attacks, you may discard a card or destroy the top card of your deck. If that card has watery grave, this gets **go again**.	Pirate Necromancer Action - Attack					
+CRn7J9kmnRCDPDRKbckQQ	Jittery Bones	2	0	3	3				Pirate, Necromancer, Action, Attack	Go again					Watery Grave	When this attacks, you may discard a card or destroy the top card of your deck. If that card has watery grave, this gets **go again**.	Pirate Necromancer Action - Attack					
+GTNzDNDpq96bffrF66DPG	Jittery Bones	3	0	2	3				Pirate, Necromancer, Action, Attack	Go again					Watery Grave	When this attacks, you may discard a card or destroy the top card of your deck. If that card has watery grave, this gets **go again**.	Pirate Necromancer Action - Attack					
 6cNLLnWnpJdfmdpQHMFMb	Jolly Bludger	2	2	5	3				Pirate, Mechanologist, Action, Attack	Overpower, Steal	Thrice per Turn Instant					"When this attacks, you may {t} a cog you control. If you do, this gets **overpower**.
 
 When this deals damage to a hero, **steal** that many items they control.
@@ -4866,6 +5053,9 @@ bbgPwChkMppQBfwfrfTtL	Life of the Party	3	2	2	2				Generic, Action, Attack	Go ag
 - This gets ""When this hits, gain life 2{h}.""
 - This gets +2{p}.
 - This gets **go again**."	Generic Action - Attack				No	
+QCpd7ctKhtN7LCP8FqkmP	Light Fingers				1				Generic, Equipment, Arms	Blade Break						"When this defends, if you are a Thief, **steal** a Gold token the attacking hero controls.
+
+**Blade Break**"	Generic Equipment - Arms					
 7hLgJ6QwzWmFrG8phh9qb	Light it Up	2	1	4	3				Elemental, Ranger, Action, Arrow, Attack	Lexi Specialization, Lightning Fusion						"**Lexi Specialization**
 
 **Lightning Fusion**
@@ -4902,6 +5092,9 @@ b7tLTkWGQtKDhqKG9fjQq	Lightning Surge	2	0	3	2				Lightning, Action, Attack	Go ag
 cw7GLPjtPFqMHJthzJCbw	Limpit, Hop-a-long	2	0	2		1			Pirate, Necromancer, Action, Ally	Watery Grave	Action	Attack, Go again				"**Action** - {r}, {t}: **Attack**. **Go again**
 
 **Watery Grave**"	Pirate Necromancer Action - Ally				No	
+8CRqBFWrD7R7kCrnJbKr9	Line	3	0		3				Ranger, Action	Go again			Go again			"Look at the top card of your deck. If it's an arrow, you may put it face-up into your arsenal. If you do, it gets **go again** this turn.
+
+**Go again**"	Ranger Action				No	
 htRtFwB8MhppFMqwLnNzK	Line It Up	2	1		3				Ranger, Action	Go again						"Your next arrow attack this turn gets +3{p}.
 
 You may turn a face-down arrow in your arsenal face-up. If you do, put an aim counter on it.
@@ -4959,7 +5152,9 @@ hTMnFLppC7Pjdk6hq8nWb	Lord of Wind	3	0	2	3				Ninja, Action, Attack	Katsu Specia
 bctJhnLdnWB9tqBJ6nNTN	Lost in Thought	1	1		2				Illusionist, Action	Go again						"Look at target hero's hand. Choose an attack action card and reveal it. If you do, they put it on the bottom of their deck and create a Ponder token.
 
 **Go again**"	Illusionist Action				No	
+KddkfBmzB78rpH6j6CfBC	Lost in Transit	2			3				Pirate, Block							When this defends, you may remove a gold counter from Treasure Island. If you do and you are a Thief, create a Gold token.	Pirate Block				No	
 9PCRhmGdjtCwJcn8hgn6t	Loyalty Beyond the Grave	1	0		3				Draconic, Defense Reaction							While this is in your graveyard, at the start of your turn, you may banish 2 cards named Loyalty Beyond the Grave from your graveyard. If you do, draw a card.	Draconic, Defense Reaction				No	
+pKtKBmHB8P6Nwr8TP7p6D	Lubricate	3	0						Mechanologist, Instant							{u} up to 3 cogs you control.	Mechanologist Instant				No	
 L8wq9HzdqTwM8tLWCRGcR	Lumina Ascension	2	0		3				Light, Warrior, Action	Boltyn Specialization, Go again					Charge	"**Boltyn Specialization**
 
 Until end of turn, weapons you control gain +1{p} and ""If this hits, reveal the top card of your deck. If it's a Light card, put it into your hero's soul and gain 1{h}, otherwise put it on the bottom of your deck.""
@@ -5286,6 +5481,9 @@ At the beginning of each end phase, destroy this unless you've pitched, played, 
 7mgnPjCmmLc9K9WwLdhJ6	Money Where Ya Mouth Is	1	1		2				Generic, Action	Go again			Wager			"Your next attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 B7Db99Nw9PFrJLmRzPT7t	Money Where Ya Mouth Is	2	1		2				Generic, Action	Go again			Wager			"Your next attack this turn gets +2{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 9BM9L9zrh8BgBWkPDdJgf	Money Where Ya Mouth Is	3	1		2				Generic, Action	Go again			Wager			"Your next attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
+JnLNPdCz8Fkp6KJ7TMLdj	Money or Your Life?	1	3	6	2				Generic, Action, Attack							When this hits a hero, deal 2 damage to them unless they give you a Gold token they control. If you are a Thief, repeat this process once.	Generic Action - Attack				No	
+tDFjkc6tL8qqHC9n9nCrh	Money or Your Life?	2	3	5	2				Generic, Action, Attack							When this hits a hero, deal 2 damage to them unless they give you a Gold token they control. If you are a Thief, repeat this process once.	Generic Action - Attack				No	
+FG8PKbFmKK7Tgck8BjrdW	Money or Your Life?	3	3	4	2				Generic, Action, Attack							When this hits a hero, deal 2 damage to them unless they give you a Gold token they control. If you are a Thief, repeat this process once.	Generic Action - Attack				No	
 qrzhp6bWn7rbTFt9fHw7k	Monkey Powder	1	3		2				Ranger, Action	Go again			Overpower			"Your next arrow attack this turn gets +1{p} and **overpower**.
 
 Draw a card.
@@ -5366,6 +5564,21 @@ Fw7hr8tGFkDbJkJB8Gjhk	Mutated Mass	3	1	*	*				Shadow, Action, Attack	Blood Debt	
 Mutated Mass's {p} and {d} is equal to twice the number of cards in your pitch zone with different costs.
 
 **Blood Debt**"	Shadow Action - Attack				No	
+JnzNgM8krkHCW67dfWJLP	Mutiny on the Battalion Barque	3	0		2				Pirate, Action	Go again, Steal			Overpower			"For each hero that controls more Gold than you, **steal** a Gold token they control.
+
+If you gain control of 1 or more Gold tokens this way, your next attack this turn gets **overpower**.
+
+**Go again**"	Pirate Action					
+6TFrJmTqf9DjPmgPrmd8m	Mutiny on the Nimbus Sovereign	3	0		2				Pirate, Action	Go again, Steal						"For each hero that controls more Gold than you, **steal** a Gold token they control.
+
+If you gain control of 1 or more Gold tokens this way, your next attack this turn gets +2{p}.
+
+Go again"	Pirate Action					
+JwdBp6DFwFkG9npJ78jbK	Mutiny on the Swiftwater	3	0		2				Pirate, Action	Go again, Steal			Go again			"For each hero that controls more Gold than you, **steal** a Gold token they control.
+
+If you gain control of 1 or more Gold tokens this way, your next attack this turn gets **go again**.
+
+**Go again**"	Pirate Action					
 GpmN8jcWjbH7fMHd7hWjJ	Nasreth, the Soul Harrower			6		6			Shadow, Token, Demon, Ally		Once per Turn Action	Attack				"**Once per Turn Action - 0: Attack**
 
 When Nasreth hits a hero, banish a card from their soul. If a Light card is banished this way, gain 1{h}."	Shadow Token - Demon Ally					
@@ -5395,6 +5608,7 @@ When this hits a hero, the next time they defend with 1 or more reaction cards t
 **Battleworn** and **temper** on equipment you control doesn't trigger if it defends an attack with 2 or less {p}.
 
 When your hero is dealt damage, destroy Nerves of Steel."	Guardian Action - Aura				No	
+fhmnPQWbBz77qwmWDL6hT	Nettling Shot	1	0	4	3				Ranger, Action, Arrow, Attack							When this is put face-up into your arsenal, you may {t} target ally.	Ranger Action - Arrow Attack					
 JtmjqNPR7JcNHJGFNtWNR	Never Yield	3	3		3				Guardian, Action, Aura							At the start of your turn, destroy Never Yield then if you have no cards in hand, draw a card. If you have less {h} than all other heroes, gain 2{h}. If you control less equipment than all other heroes, remove a -1{d} counter from an equipment you control.	Guardian Action - Aura				No	
 BqJ76BGQWgFpPddRMQrQc	New Horizon				2				Ranger, Equipment, Head	Blade Break						"If you have a face up card in your arsenal, you have an additional arsenal zone.
 
@@ -5413,6 +5627,9 @@ M6j9KrDRqMMHwGqw9QLKz	Nimblism	2	0		2				Generic, Action	Go again						"The next
 cQD9DmppBQNGqb9CdqCRc	Nimblism	3	0		2				Generic, Action	Go again						"The next attack action card with cost 1 or less you play this turn gains +1{p}.
 
 **Go again**"	Generic Action					
+TwN6BKbDJDrJBf7DPGcP8	Nimby	1	0	3	2				Generic, Action, Attack							When this attacks, you may search your deck for a Nimblism, reveal it, put it into your hand, then shuffle.	Generic Action - Attack					
+7HzdfH8DD7cMhzKpCfDRG	Nimby	2	0	2	2				Generic, Action, Attack							When this attacks, you may search your deck for a Nimblism, reveal it, put it into your hand, then shuffle.	Generic Action - Attack					
+6wDLWfBNH8rPfhKPNtT8L	Nimby	3	0	1	2				Generic, Action, Attack							When this attacks, you may search your deck for a Nimblism, reveal it, put it into your hand, then shuffle.	Generic Action - Attack					
 rz79tn8mdQLDqNnhFdngk	Ninth Blade of the Blood Oath	2	9	9	3				Runeblade, Action, Attack							Ninth Blade of the Blood Oath costs {r} less to play for each Runechant you control.	Runeblade Action - Attack				No	
 Wk8pbbnHPWfp6ndkJb6QD	Nip at the Heels	3	0		3				Generic, Attack Reaction							Target attack with 3 or less base {p} gets +1{p}.	Generic Attack Reaction					
 wCLt8CtdLmrbMPcqLCzqc	Nitro Mechanoid			5	5				Mechanologist, Weapon, Equipment, Item	Overpower, Temper	Action	Attack				"**Action** - Banish a card from under Nitro Mechanoid: **Attack**
@@ -5445,6 +5662,9 @@ CGhtqrGGT7TL9C89GjF8R	Northern Winds	3	0		2				Ice, Action	Oldhim Specialization
 **Freeze** up to 1 equipment, item, and/or ally each hero controls.
 
 **Unity** - When this defends together with a card from hand, create a Spellbane Aegis token under any number of heroes' control."	Ice Action				No	
+F7mqQWTKzmNmMfgmQbHFw	Not So Fast	2	0						Pirate, Instant	Scurv Specialization						"**Scurv Specialization**
+
+The next time an opponent would draw a card from the effect of a Gold token this turn, instead you draw a card."	Pirate Instant				No	
 7Tpfm7Ccf8rKcztfFngM9	Nourishing Emptiness	1	2	6	3				Generic, Action, Attack	Dominate						"While there are no attack action cards in your graveyard, Nourishing Emptiness has **dominate** and ""If this hits, your hero gains +1{i} until end of turn."""	Generic Action - Attack				No	
 JTrNBd8TcnPmB6KdDmjRN	Null // Shock	2	1					1	Wizard, Instant, Lightning, Instant	Meld, Negate						"**Meld**
 
@@ -5511,6 +5731,9 @@ DWcKpdjNKBcK67WpPb9Qf	Ode to Wrath	2	4						Light, Illusionist, Instant, Aura	Sp
 Illusionist attack action cards you control have **go again**.
 
 **Spectra**"	Light Illusionist Instant - Aura				No	
+KTh89nLtmJWQcQQJPwgDW	Old Knocker				1				Generic, Equipment, Chest	Blade Break	Instant					"**Instant** - {t} your hero, destroy this: Gain {r}
+
+Blade Break"	Generic Equipment - Chest					
 hw6qHfWdqQGfRPfKJMgR7	Oldhim					20	4		Elemental, Guardian, Hero, Young	Essence of Earth and Ice	Once per Turn Defense Reaction					"**Essence of Earth and Ice**
 
 **Once per Turn Defense Reaction** - {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck."	Elemental Guardian Hero - Young			No		No
@@ -5525,9 +5748,18 @@ t7H7JCQcTb9TTjjCbNwDH	Olympia					20	4		Warrior, Hero, Young						Wager	The firs
 rC98Cch9DNGTfpggrNBh6	On a Knife Edge	2	0		2				Generic, Action	Go again			Go again			"Your next sword attack this turn gains **go again**.
 
 **Go again**"	Generic Action					
+LqpTFf7TmpdtPgf8WtdfQ	On the Horizon	1			4				Generic, Block							When this defends, look at the top card of your deck.	Generic Block					
+bFMkfr79WHCrP6HK6krM6	On the Horizon	2			3				Generic, Block							When this defends, look at the top card of your deck.	Generic Block					
+gqfJ6k7rFMpbcHMqjDJKR	On the Horizon	3			2				Generic, Block							When this defends, look at the top card of your deck.	Generic Block					
 pFLwpNDCLLMNtd7rRqNMf	One-Two Punch	1	0	3	3				Ninja, Action, Attack	Combo						"**Combo** - If Head Jab was the last attack this combat chain, this has ""When this hits a hero, deal 2 damage to them."""	Ninja Action - Attack					
 nCKMcTCR7mjKgkhQk7TWc	One-Two Punch	2	0	2	3				Ninja, Action, Attack	Combo						"**Combo** - If Head Jab was the last attack this combat chain, this has ""When this hits a hero, deal 2 damage to them."""	Ninja Action - Attack					
 TrQFGjDB6ktDwC6JMcqFT	One-Two Punch	3	0	1	3				Ninja, Action, Attack	Combo						"**Combo** - If Head Jab was the last attack this combat chain, this has ""When this hits a hero, deal 2 damage to them."""	Ninja Action - Attack					
+hpQCHKmzQGrjhJFJR8pBP	Onyx Amulet	3	0						Generic, Action, Item	Legendary, Watery Grave	Action	Go again				"**Action** - Destroy this: {t} all heroes and allies. **Go again**
+
+**Legend of the Watery Grave**"	Generic Action - Item				No	
+rdG6zR6dgDWwzw9KKtq78	Opal Amulet	3	0						Generic, Action, Item	Legendary, Watery Grave	Instant	Opt 2				"**Instant** - Destroy this: **Opt 2**
+
+**Legend of the Watery Grave**"	Generic Action - Item				No	
 TkCWdhw8pfcpfckC9MLNm	Open the Center	1	2	5	3				Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack					
 BfQnT8rqMhTBmDWCFgdhW	Open the Center	2	2	4	3				Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack					
 CChttCnwGwHMcBKm6LhNR	Open the Center	3	2	3	3				Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack					
@@ -5680,6 +5912,11 @@ BDbLKmLQzJTjHjgJrtLWT	Overpower	1	3		3				Warrior, Attack Reaction	Reprise						
 68PDzWMgFLKpqQNpQGQFB	Overpower	3	3		3				Warrior, Attack Reaction	Reprise						"Target weapon attack gains +2{p}
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, instead it gains +4{p}."	Warrior Attack Reaction				No	
+fDMt9jWjpCQKJPQbfcpWg	Oysten, Heart of Gold	2	0	3		1			Pirate, Necromancer, Action, Ally	Watery Grave	Action, Instant	Attack				"**Action** - {t}: Attack
+
+When this dies, create a Gold token.
+
+**Watery Grave**"	Pirate Necromancer Action - Ally				No	
 MzqJQdLGgrHNQnLjMG99B	Pack Call	1	3	7	3				Brute, Action, Attack							When this defends, reveal the top card of your deck. If it has 6 or more {p}, put it on top. Otherwise, put it on the bottom.	Brute Action - Attack				No	
 JkqmHRmjDr8cm6wcdCkPj	Pack Call	2	3	6	3				Brute, Action, Attack							When this defends, reveal the top card of your deck. If it has 6 or more {p}, put it on top. Otherwise, put it on the bottom.	Brute Action - Attack				No	
 WBf76MHCnCnh87Wt86w9T	Pack Call	3	3	5	3				Brute, Action, Attack							When this defends, reveal the top card of your deck. If it has 6 or more {p}, put it on top. Otherwise, put it on the bottom.	Brute Action - Attack				No	
@@ -5746,6 +5983,9 @@ Create a Ponder token."	Generic Instant
 LhPbGbqqgcdFhMMJTkHhw	Peace of Mind	3	2						Generic, Instant							"The next time you would be dealt {p} damage, prevent 2 of that damage.
 
 Create a Ponder token."	Generic Instant					
+rKb97mmPGtmm9R9dMDW8d	Pearl Amulet	3	0						Generic, Action, Item	Legendary, Watery Grave	Action	Go again				"**Action** - Destroy this: {u} target permanent. **Go again**
+
+**Legend of the Watery Grave**"	Generic Action - Item				No	
 rkKktHBPDLQDfpddktPwn	Pedal to the Metal	1	2	5	3				Mechanologist, Action, Attack	Boost			Dominate			"If Pedal to the Metal hits, your next attack this turn gains **dominate**.
 
 **Boost**"	Mechanologist Action - Attack				No	
@@ -5898,6 +6138,10 @@ nFJpHkbfmgjNBpC8CmKzK	Piercing Shadow Vise	3	2	2	3				Shadow, Runeblade, Action,
 If you have dealt arcane damage to an opposing hero this turn, Piercing Shadow Vise gains +2{p}.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack					
+pptHzNLNnz6wnCMFqBgG6	Pilfer the Wreck	1	3	7	2				Pirate, Action, Attack							When this hits a hero, you may turn a card in their graveyard face-down. If it's yellow, create a Gold token.	Pirate Action - Attack				No	
+frFC8JrBBcmKCbDTjLbKc	Pilfer the Wreck	2	3	6	2				Pirate, Action, Attack							When this hits a hero, you may turn a card in their graveyard face-down. If it's yellow, create a Gold token.	Pirate Action - Attack				No	
+qMGgBkKkjCT6cFgJjqnwQ	Pilfer the Wreck	3	3	5	2				Pirate, Action, Attack							When this hits a hero, you may turn a card in their graveyard face-down. If it's yellow, create a Gold token.	Pirate Action - Attack				No	
+gQdQfNwNMgDLJfkcNWmhH	Pinion Sentry	3			3				Mechanologist, Block							When this defends, you may {t} a cog you control. If you do, create a Golden Cog token.	Mechanologist Block				No	
 fq6Pbr7BmJdqbLFqdfdTW	Pink Visor								Merchant, Equipment, Head	Ruu'di Specialization	Once per Turn Action					"**Ruu'di Specialization**
 
 **Once per Turn Action** - {r}: The next card you reveal this turn has its grade increased by 1. **Go again**"	Merchant Equipment - Head		No	No	No	No
@@ -5924,6 +6168,9 @@ When a Mechanologist item with cost 2 or less enters the arena under your contro
 rmdHP7ttKz7NqLwwwGGKg	Plasma Purifier	1	2						Mechanologist, Action, Item		Action, Once per Turn Action	Go again				"**Action** - {r}: If there are no steam counters on Plasma Purifier, put a steam counter on it. **Go again**
 
 **Once per Turn Action** - Remove a steam counter from Plasma Purifier: Target Mechanologist pistol you control gains +1{p} until end of turn. **Go again**"	Mechanologist Action - Item				No	
+QmBfhgrGL6JDrhkn6ccg8	Platinum Amulet	3	0						Generic, Action, Item	Legendary, Watery Grave	Instant					"**Instant** - Destroy this: Target defending card gets +1{d} until end of turn.
+
+**Legend of the Watery Grave**"	Generic Action - Item				No	
 LQDwqpNddrmqQQb8J9dht	Pledge Fealty	1	0						Draconic, Instant							Create a Fealty token.	Draconic Instant					
 T8TC8nQ6HCgPGGLKRhpwh	Plow Through	1	1		3				Warrior, Action	Go again						"Your next weapon attack this turn gains +3{p} and ""If this weapon is defended by an attack action card, it gains +1{p} until end of turn.""
 
@@ -6072,6 +6319,9 @@ LRdKLkdKnTJ8CCczKmwzw	Potion of Ironhide	3	0						Generic, Action, Item		Instant
 K6NjFFzbnPdFpFCDRLMrK	Potion of Luck	3	0						Generic, Action, Item		Instant					**Instant** - Destroy Potion of Luck: Shuffle your hand and arsenal into your deck then draw that many cards.	Generic Action - Item				No	
 HkNT7zKrjgzBDp6Mq76Nm	Potion of Seeing	3	0						Generic, Action, Item		Instant					**Instant** - Destroy Potion of Seeing: Look at target hero's hand.	Generic Action - Item				No	
 fNMMHHpLGMCjHh8KQG8nW	Potion of Strength	3	0						Generic, Action, Item		Action	Go again				**Action** - Destroy this: Your next attack this turn gains +2{p}. **Go again**	Generic Action - Item				No	
+cGJkkqNfjfkwKDkcqwMBk	Pounamu Amulet	3	0						Generic, Action, Item	Legendary, Watery Grave	Action	Go again				"**Action** - Destroy this: Gain 2{h}. **Go again**
+
+**Legend of the Watery Grave**"	Generic Action - Item				No	
 HjFKhRGTDGJDk8NGmdFjB	Pouncing Paws				1				Ninja, Equipment, Legs	Battleworn	Instant					"**Instant** - Destroy this: Create a Crouching Tiger in your banished zone. You may play it this turn.
 
 **Battleworn**"	Ninja Equipment - Legs					
@@ -6115,6 +6365,9 @@ RznwHPTkhd7rfzzJc9dp8	Prayer of Bellona	2	1		3				Light, Warrior, Action	Charge,
 Reveal the top card of your deck. If it's yellow, put it into your hand, then **charge** your hero's soul.
 
 **Go again**"	Light Warrior Action				No	
+PzGjPPLt9cWDqTWCQnzTC	Preach Modesty	1	0		2				Ninja, Action, Aura							"This enters the arena with a balance counter. At the beginning of your action phase, destroy this unless you remove a balance counter from it.
+
+Hero abilities can't create cards."	Ninja Action - Aura				No	
 bGHDTHMbhKnnkgWBpNzFJ	Precision Press	1	1		3				Warrior, Action	Go again			Go again, Piercing 3			"Your next sword or dagger attack this turn has **go again** and **piercing 3**.
 
 **Go again**"	Warrior Action				No	
@@ -6378,9 +6631,13 @@ c8tGz8c7GKmBJRLTcQHfJ	Quantum Processor	2	1						Mechanologist, Action, Item	Cra
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 **Once per Turn Instant** - 0: Put a Mechanologist item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Item				No	
+KbcGqTJFnNLmLWMpfzPbT	Quartermaster's Boots				1				Generic, Equipment, Legs	Blade Break	Action	Go again				"**Action** - {r}{r}, destroy this: The next non-attack action card you play this turn gets **go again**. **Go again**
+
+**Blade Break**"	Generic Equipment - Legs					
 k8d9d7n7fJRwkRDWG7Kcn	Quelling Robe				0				Generic, Equipment, Chest	Quell 1						**Quell 1**	Generic Equipment - Chest					
 QdCcTgDwqq66NHp6qDdTz	Quelling Sleeves				0				Generic, Equipment, Arms	Quell 1						**Quell 1**	Generic Equipment - Arms					
 DMht6KBFhqWNdGBJNL7NB	Quelling Slippers				0				Generic, Equipment, Legs	Quell 1						**Quell 1**	Generic Equipment - Legs					
+BzRFcMpm9fmqgDPNdCRQ9	Quick Clicks				0				Generic, Equipment, Legs		Action	Go again				**Action** - Destroy this: Your next attack this turn gets **go again**. Activate this only if you've played a Nimblism this turn. **Go again**	Generic Equipment - Legs					
 kg7JPwP7pDg9wGqqQ76HT	Quickdodge Flexors				0				Generic, Equipment, Legs		Defense Reaction					"**Defense Reaction** - {r}: Add this to the active chain link as a defending card. It has 2 base {d} this chain link.
 
 At the beginning of the end phase, if this defendend this turn, destroy it."	Generic Equipment - Legs				No	
@@ -6438,6 +6695,9 @@ ctP6TMfCKqwK6QpjG7wLH	Rake the Embers	2	1		2				Draconic, Illusionist, Action	Tr
 pP7GCzgTjQPMNLBFfRbBw	Rake the Embers	3	1		2				Draconic, Illusionist, Action	Transform, Go again						"Create an Ash token, then **transform** up to 1 ash you control into an Aether Ashwing.
 
 **Go again**"	Draconic Illusionist Action					
+TB9k9LLhgLQm7jD9tnNzk	Rally the Coast Guard	1	3	7	2				Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this only while this card is defending.	Generic Action - Attack					
+d6WrKcWGr7BHGtWHWT6dt	Rally the Coast Guard	2	3	6	2				Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this only while this card is defending.	Generic Action - Attack					
+wL7qNGJ7hn86bLDB7kGDG	Rally the Coast Guard	3	3	5	2				Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this only while this card is defending.	Generic Action - Attack					
 68J8LFDffgJ8j6RJ6FhmD	Rally the Rearguard	1	2	6	2				Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this ability only while this is defending.	Generic Action - Attack					
 hKdWPHqc8bLM9Nkbwmncc	Rally the Rearguard	2	2	5	2				Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this ability only while this is defending.	Generic Action - Attack					
 LQjBwTpQK6MR6LNkpnNPK	Rally the Rearguard	3	2	4	2				Generic, Action, Attack		Once per Turn Instant					**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this ability only while this is defending.	Generic Action - Attack					
@@ -6643,6 +6903,9 @@ QPHcwktfpnPBPfqHCDfKw	Reel In	3	X						Ranger, Instant	Reload						"Look at the 
 dtg9jMjQFFbmncCBNHjW9	Refraction Bolters				1				Warrior, Equipment, Legs	Battleworn			Go again			"When a weapon you control hits, you may destroy Refraction Bolters. If you do, the attack gains **go again**.
 
 **Battleworn**"	Warrior Equipment - Legs					
+qWzngwMHHKwBJT6BKkF9r	Regain Composure	3	0		2				Generic, Action	Go again						"Your next attack this turn gets +1{p} and ""When this hits, {u} your hero.""
+
+**Go again**"	Generic Action				No	
 NBHQRhkBP8d99d8Nm96zb	Regicide	3	0	3	3				Assassin, Action, Attack	Legendary, Arakni Specialization						"**Legendary Arakni Specialization**
 
 When this hits a Royal hero, they lose the game.
@@ -6714,6 +6977,9 @@ If you've **charged** this turn, create a Courage token."	Light Warrior Attack R
 gW8BgNnBNK8JNCH7DC8cd	Resounding Courage	3	1		3				Light, Warrior, Attack Reaction						Charge	"Target Light Warrior attack gets +1{p}.
 
 If you've **charged** this turn, create a Courage token."	Light Warrior Attack Reaction					
+DrDF9kFdf8r9M7chBwcK6	Restless Bones	1	2	6	3				Pirate, Necromancer, Action, Attack	Go again					Watery Grave	When this attacks, you may discard a card or destroy the top card of your deck. If that card has watery grave, this gets **go again**.	Pirate Necromancer Action - Attack					
+7kCDQpqnLkNbQmzzkcJcz	Restless Bones	2	2	5	3				Pirate, Necromancer, Action, Attack	Go again					Watery Grave	When this attacks, you may discard a card or destroy the top card of your deck. If that card has watery grave, this gets **go again**.	Pirate Necromancer Action - Attack					
+G6qbqK8tRPRF7dMhBRf7C	Restless Bones	3	2	4	3				Pirate, Necromancer, Action, Attack	Go again					Watery Grave	When this attacks, you may discard a card or destroy the top card of your deck. If that card has watery grave, this gets **go again**.	Pirate Necromancer Action - Attack					
 cFpmN9tpMR8cLKDzkNtzz	Restless Coalescence	2	0						Illusionist, Instant, Aura	Ward 2	Once per Turn Instant					"When this enters the arena, move any number of +1{p} counters from auras you control onto this.
 
 **Once per Turn Instant** - Remove a +1{p} counter from this: Create a Spectral Shield token.
@@ -6752,6 +7018,12 @@ KnwNm8LC9DNpT8wMzDnFn	Reya, the Unyielding					21	4		Guardian, Hero, Pit-Fighter
 Whenever you protect another hero, create a Gold token."	Guardian Hero - Pit-Fighter		No	No	No	No
 wNRqrHCn6rrKLhrDkqPwp	Rhinar					20	4		Brute, Hero, Young	Intimidate						Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**.	Brute Hero - Young			No		No
 wr9wBtTWwRrPrdhCRHCdN	Rhinar, Reckless Rampage					40	4		Brute, Hero	Intimidate						Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**.	Brute Hero		No		No	
+TwgRkcgHd9bW9Fb8JjwdF	Riches of Trōpal-Dhani	2							Generic, Resource, Gem	Legendary						"**Legendary**
+
+When this is pitched, create a Gold token."	Generic Resource - Gem				No	
+QTCtQrNNqdCGRr8CFmqcp	Riddle with Regret	1	0		2				Chaos, Action, Aura	Go again	Instant					"**Go again**
+
+At the beginning of each hero's end phase, they lose X{h}, where X is the number of auras they controlled when this triggered. If X is 3 or more, destroy this."	Chaos Action - Aura				No	
 fR8fP8Q7BrTwbtKdzhdft	Ride the Tailwind	1	0	3	2				Ninja, Action, Attack	Go again			Go again			"When Ride the Tailwind hits, the next attack action card with 2 or less base {p} you play this combat chain gains **go again**.
 
 **Go again**"	Ninja Action - Attack					
@@ -6995,6 +7267,9 @@ gKGT9RtDz7RGgtLWKkhgJ	Rout	1	2		3				Warrior, Attack Reaction	Reprise						"Targ
 G6zJNLBqTJDLhPgDqpT6w	Rowdy Locals	3	0	2	3				Generic, Action, Attack							"If this is defended by an action card, this gets +2{p}.
 
 When this hits a hero, discard a card. If you do, they discard a card."	Generic Action - Attack				No	
+chPNcp7C8zz7FFPhLkMrh	Ruby Amulet	3	0						Generic, Action, Item	Legendary, Watery Grave	Instant					"**Instant** - Destroy this: Gain {r}{r}
+
+**Legend of the Watery Grave**"	Generic Action - Item				No	
 JGTWPHkq97qTw6qtMgNHN	Rugged Roller			6					Brute, Weapon, Club, 2H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 Activate Rugged Roller only if you've rolled a 6 on a die this turn."	Brute Weapon - Club (2H)					
@@ -7078,7 +7353,11 @@ hPQ9NCmMKDdgMkzpkpGb6	Runner Runner	1	2	6	3				Brute, Warrior, Action, Attack			
 wmN6kmKhktkmfhWtqLmHm	Rushing River	1	0	3	3				Ninja, Action, Attack	Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack				No	
 cdcnJRkcCzJkDmb7NwnPQ	Rushing River	2	0	2	3				Ninja, Action, Attack	Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack				No	
 tMDDnhBrcpCL8c9MW7BgC	Rushing River	3	0	1	3				Ninja, Action, Attack	Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack				No	
+LKtdCkW87n6dJCtKqqkMw	Rust Belt				1				Mechanologist, Equipment, Chest	Battleworn						"**Instant** - {t} a cog you control, destroy this: Gain {r}.
+
+**Battleworn**"	Mechanologist Equipment - Chest					
 CCwMfr7DptzKNpLPDwtDc	Rusted Relic	3	0						Generic, Action, Item	Arcane Barrier 1						**Arcane Barrier 1**	Generic Action - Item				No	
+CMbMkj6F86Kj9kPKNBwPN	Rusty Harpoon	3	0	1	3				Pirate, Ranger, Action, Arrow, Attack								Pirate Ranger Action - Arrow Attack					
 hRMhmf8qkn6pR7TWQLqgb	Ruu'di, Gem Keeper					40	4		Hero, Merchant		Once per Turn Action	Go again				"You may only have PSA graded cards in your deck.
 
 **Once per Turn Action** - {r}: Reveal the top card of your deck. If it's graded Gem Mint 10, put it into your hand, otherwise each opponent may draw a card. **Go again**"	Hero - Merchant		No	No	No	No
@@ -7110,6 +7389,15 @@ If you've played another blue card this turn, choose 3. Otherwise, choose 1;
 - Banish up to 2 cards in an opposing hero's graveyard.
 - **Transcend**"	Mystic Assassin Instant				No	
 zKtm8BQzLMCwJRgqcGLNm	Salt the Wound	2	0	2	3				Ninja, Action, Attack							This gets +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack					
+c9hrdrfn8dNhkBcfQmqWn	Saltwater Swell	1	1	3	3				Pirate, Action, Attack	Go again						"When this attacks, reveal the top card of your deck. If it's blue, pitch it.
+
+**Go again**"	Pirate Action - Attack				No	
+rBz7GBhR7FPkbzKwRWmdp	Saltwater Swell	2	1	2	3				Pirate, Action, Attack	Go again						"When this attacks, reveal the top card of your deck. If it's blue, pitch it.
+
+**Go again**"	Pirate Action - Attack				No	
+DN8dWKrTLQzr6H9BJ8kcn	Saltwater Swell	3	1	1	3				Pirate, Action, Attack	Go again						"When this attacks, reveal the top card of your deck. If it's blue, pitch it.
+
+**Go again**"	Pirate Action - Attack				No	
 9pnrkbM9DbqCqqkbDCC8N	Salvage Shot	1	1	5	3				Ranger, Action, Arrow, Attack							When this hits, put it on the bottom of its owner's deck.	Ranger Action - Arrow Attack					
 d8mzLHtQRkT8GWFcgR78H	Salvage Shot	2	1	4	3				Ranger, Action, Arrow, Attack							When this hits, put it on the bottom of its owner's deck.	Ranger Action - Arrow Attack					
 bjffjnzNfQhdcGKKCWKCd	Salvage Shot	3	1	3	3				Ranger, Action, Arrow, Attack							When this hits, put it on the bottom of its owner's deck.	Ranger Action - Arrow Attack					
@@ -7134,6 +7422,9 @@ nkzf6zG8JPJgGkt7N66RP	Sap	2	0		3			2	Wizard, Action	Surge						"Deal 2 arcane da
 pGWLw8bBqKqTQHnrhg6b6	Sap	3	0		3			1	Wizard, Action	Surge						"Deal 1 arcane damage to target hero.
 
 **Surge** - If this deals more than 1 damage to a hero, you may remove an energy counter from a permanent they control."	Wizard Action					
+8n9Fkr9DLNbMhKJRJTkLL	Sapphire Amulet	3	0						Generic, Action, Item	Legendary, Watery Grave	Action					"**Action** - Destroy this: You get +1{i} this turn.
+
+**Legend of the Watery Grave**"	Generic Action - Item				No	
 9BqdPQckmdgcfzwtjw7BP	Sash of Sandikai				0				Draconic, Equipment, Chest		Instant					**Instant** - Destroy Sash of Sandikai: Gain {r}. Activate this ability only if you've played a red card this turn.	Draconic Equipment - Chest					
 7mdh968cg9r9JB7dfzcFW	Savage Beatdown	1	3	6	3				Brute, Action, Attack							"Play this only if you've discarded a card with 6 or more {p} this turn.
 
@@ -7232,6 +7523,7 @@ rfzK67PqGLCLKL6w8GhLp	Scout the Periphery	3	0		2				Generic, Action	Go again				
 The next attack action card you play from arsenal this turn gains +1{p}.
 
 **Go again**"	Generic Action					
+mTbrkkQFPRjRGNJMPtF7Q	Scouting Shot	1	0	4	3				Ranger, Action, Arrow, Attack							When this is put face-up into your arsenal, you may look at the top card of your deck.	Ranger Action - Arrow Attack					
 czpGHfkkmgF6kFCQjfcC8	Scowling Flesh Bag				2				Brute, Equipment, Head	Intimidate, Blade Break						"When this defends, **intimidate**.
 
 **Blade Break**"	Brute Equipment - Head				No	
@@ -7285,6 +7577,12 @@ CQpHCDTdJdmJgn8hGJrgq	Scrap Trader	1	0		2				Mechanologist, Action	Scrap						"*
 **Scrap**
 
 Gain {r}{r} for each card this **scrapped**."	Mechanologist Action				No	
+rqcKnqMqChqrkHbDTPWPR	Scrub the Deck	3	0		3				Pirate, Action	Go again						"Destroy the top card of target hero's deck. If it's yellow, create a Gold token.
+
+**Go again**"	Pirate Action				No	
+gKgfQDwNnGH8GtfL9RkPG	Scurv, Stowaway					20	4		Pirate, Thief, Hero, Young	Go again						"**Action** - {t}, destroy a Gold you control: Create a Goldkiss Rum token. **Go again**
+
+Whenever you activate a Goldkiss Rum, gain {r}."	Pirate Thief Hero - Young			No		No
 CN9QrzcRcRDrRhPRqJCwk	Scuttle the Canal	1	0	3	3				Assassin, Action, Attack	Stealth, Go again					Go again	"**Stealth**
 
 When this attacks a **marked** hero, this gets **go again**."	Assassin Action - Attack					
@@ -7294,6 +7592,9 @@ When this attacks a **marked** hero, this gets **go again**."	Assassin Action - 
 FH6ffcgjbnGTRQTtwwWGh	Scuttle the Canal	3	0	1	3				Assassin, Action, Attack	Stealth, Go again					Go again	"**Stealth**
 
 When this attacks a **marked** hero, this gets **go again**."	Assassin Action - Attack					
+D6fPnQdQ7FKpWDB9ktTJ6	Sea Floor Salvage	3	0		3				Pirate, Action	Go again						"Turn a card in a graveyard face-down. If it's yellow, create a Gold token.
+
+**Go again**"	Pirate Action				No	
 q6JzqgbQgM8DB8tgcfc6B	Sea Legs	2	3	6	3				Generic, Action, Attack							When this is discarded, create a Goldkiss Rum token.	Generic Action - Attack				No	
 hqP98JGRBnqGr9QnPCmHC	Sealace Sarong				2				Ranger, Equipment, Legs	Blade Break	Instant		Go again			"**Instant** - {t}, turn a blue arrow in your arsenal face-up: it gets **go again** this turn.
 
@@ -7523,6 +7824,9 @@ qD7tKdD8zMjjRBmhhRmGm	Shield Wall	3	6		5				Guardian, Defense Reaction							If 
 tpMDpBjtFznFdgjFtnqQf	Shift the Tide of Battle	2	0		3				Warrior, Attack Reaction				Go again			"Target Warrior attack with {p} greater than its base gets **go again**.
 
 The next time an opposing hero is dealt damage this turn, create an Agility token."	Warrior Attack Reaction				No	
+R7Q6MhPq9nCBT6DhbQMDL	Shifting Tides	3	0		3				Pirate, Action, Aura	Go again						"**Go again**
+
+At the start of your turn, pitch the top card of your deck. If it's blue, put this on the bottom of your deck, otherwise destroy this."	Pirate Action - Aura				No	
 WznLQmk7B6QQKMmT6TJJC	Shifting Winds of the Mystic Beast	3	1		3				Mystic, Ninja, Action	Go again						"Whenever you play a Crouching Tiger this turn, name a card. It gets that name.
 
 If a Chi was pitched to play this, create 2 Crouching Tigers in your hand.
@@ -7739,6 +8043,9 @@ C8jqfdnRnWRfnnnFrMwFq	Single Minded Determination	1	2		3				Illusionist, Action,
 LfddJTKKb9HwPzHMBH9w9	Sink Below	1	0		4				Generic, Defense Reaction							You may put a card from your hand on the bottom of your deck. If you do, draw a card.	Generic Defense Reaction					
 7RzTp9JnTprz6fjnhRJLM	Sink Below	2	0		3				Generic, Defense Reaction							You may put a card from your hand on the bottom of your deck. If you do, draw a card.	Generic Defense Reaction					
 bHRdHqLRCthfzcrffPNQH	Sink Below	3	0		2				Generic, Defense Reaction							You may put a card from your hand on the bottom of your deck. If you do, draw a card.	Generic Defense Reaction					
+z8hRmWFtTQPPC8pDR9jTw	Sinker	3	0		3				Ranger, Action	Go again			Overpower			"Look at the top card of your deck. If it's an arrow, you may put it face-up into your arsenal. If you do, it gets **overpower** this turn.
+
+**Go again**"	Ranger Action				No	
 bczQzLRqRKQpkCBHmTCHf	Siren's Call	1	1		3				Mystic, Assassin, Attack Reaction							Look at the defending hero's hand and choose a blue card. Add it to this chain link as a defending card. If you do, draw a card.	Mystic Assassin Attack Reaction				No	
 WMwJ8b97zqNWbjdHqRNRK	Sirens of Safe Harbor	1	2	6	2				Generic, Action, Attack							When this is put into your graveyard from anywhere, gain 1{h}.	Generic Action - Attack					
 zrRwzwz7n6KgqcDMnjjDw	Sirens of Safe Harbor	2	2	5	2				Generic, Action, Attack							When this is put into your graveyard from anywhere, gain 1{h}.	Generic Action - Attack					
@@ -8287,6 +8594,11 @@ Until end of turn, target weapon gains +2{p} and ""Whenever this weapon hits, dr
 
 **Go again**"	Warrior Action				No	
 fDMpDJm8JHF7zkQcDq8mn	Steelbraid Buckler				2				Guardian, Equipment, Off-Hand	Temper						**Temper**	Guardian Equipment - Off-Hand					
+mdtMRhRMbMkBRntzQzcbJ	Sticky Fingers			2		2			Scurv, Companion, Off-Hand, Ally	Perched, Steal	Action	Attack				"**Action** - {t}: **Attack**. If this is equipped, unequip it.
+
+When this attacks a hero, **steal** a Gold token they control.
+
+**Perched**"	Scurv Companion - Off-Hand Ally					
 cqMtqGpkpQKD6bPB8pT9N	Sting of Sorcery	3	0		2			1	Runeblade, Action, Aura	Go again						"**Go again**
 
 Attack action cards you control gain ""When you attack with this, deal 1 arcane damage to target hero.""
@@ -8382,6 +8694,9 @@ At the beginning of your action phase, destroy Strength of Sequoia then the next
 DhKMQzczm7mmf9HnhWhdL	Stride of Reprisal				1				Mystic, Ninja, Equipment, Legs	Blade Break						"When this defends, create a Crouching Tiger in your hand.
 
 **Blade Break**"	Mystic Ninja Equipment - Legs					
+tGd6nNtRQGbkcNjCRGB77	Strike Gold	1	0	4	2				Generic, Action, Attack							When this hits, create a Gold token.	Generic Action - Attack					
+GzCQMQGTHq66mwH7GbpQL	Strike Gold	2	0	3	2				Generic, Action, Attack							When this hits, create a Gold token.	Generic Action - Attack					
+qLjtfh8FGb6JCLpWPc7Ph	Strike Gold	3	0	2	2				Generic, Action, Attack							When this hits, create a Gold token.	Generic Action - Attack					
 QzMcw6fdMzggnrQ8M9jbC	Stroke of Foresight	1	1		3				Warrior, Attack Reaction	Reprise						"Target weapon attack gains +3{p}.
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, draw a card, then put a card from your hand on the top or bottom of your deck."	Warrior Attack Reaction					
@@ -8453,6 +8768,11 @@ When Suraya attacks, you may banish a card from your hero's soul. If you do, dra
 Whenever Suraya deals damage, you gain that much {h}.
 
 **Ward 4**"	Light Illusionist - Angel Ally				No	
+wQW7bhgz9hpPLfMW9fq7h	Surface Shaking	3	3		3				Guardian, Action, Aura	Go again						"**Go again**
+
+When this enters the arena, create 3 Seismic Surge tokens.
+
+At the beginning of your action phase, destroy this, then you may put up to X cards from your hand on the bottom of your deck, where X is the number of Seismic Surge tokens you control. Draw cards equal to the number of cards put on the bottom this way."	Guardian Action - Aura				No	
 g69J9qNWrLQRfCbT8D9jk	Surgent Aethertide							1	Wizard, Weapon, Staff, 2H		Once per Turn Action	Go again				"**Once per Turn Action** - {r}{r}: Deal 1 arcane damage to an opposing hero. **Go again**
 
 The first card you play each turn with an arcane damage effect, instead deals that much arcane damage plus X, where X is the damage dealt by Surgent Aethertide this turn."	Wizard Weapon - Staff (2H)				No	
@@ -8491,6 +8811,14 @@ NgdLmcdGCGFwQG98dqGwB	Sweeping Blow	3	1	1	3				Draconic, Illusionist, Action, At
 9Hp7c9HFRmwLFQ7WtKd86	Swell Tidings	1	2		3			5	Wizard, Action	Surge						"Deal 5 arcane damage to target hero.
 
 **Surge** - If this deals more than 5 damage, create a Ponder token."	Wizard Action				No	
+wFhMnRGdkbwTt6CgpQLHP	Swift Shot	1	0	4	3				Ranger, Action, Arrow, Attack	Go again						When this is put face-up into your arsenal, it gets **go again** this turn.	Ranger Action - Arrow Attack					
+69mRCnm9t6Dcjkk9H8RhG	Swiftstrike Bracers				0				Generic, Equipment, Arms		Action	Go again				**Action** - Destroy this: Your next attack this turn gets +2{p}. Activate this only if you've played a Nimblism this turn. **Go again**	Generic Equipment - Arms					
+wB9MNr6JNzqKB68gBhbQc	Swiftwater Sloop	1	2	6	2				Pirate, Action, Attack	High Tide						High Tide - If there are 2 or more blue cards in your pitch zone, this gets **go again**.	Pirate Action - Attack					
+9H8LCJNgGQJCRNPLFKqPN	Swiftwater Sloop	2	2	5	2				Pirate, Action, Attack	High Tide						High Tide - If there are 2 or more blue cards in your pitch zone, this gets **go again**.	Pirate Action - Attack					
+QgnRKmWk6WG8RhnhRTkNB	Swiftwater Sloop	3	2	4	2				Pirate, Action, Attack	High Tide						High Tide - If there are 2 or more blue cards in your pitch zone, this gets **go again**.	Pirate Action - Attack					
+PFgWLDKNLrPHmLFFFJC7W	Swindler's Grift	1	2	6	2				Pirate, Action, Attack							When this attacks, you may discard a yellow card. If you do, draw a card and create a Gold token.	Pirate Action - Attack					
+kWhWddrDGGh6fpqFrFB6j	Swindler's Grift	2	2	5	2				Pirate, Action, Attack							When this attacks, you may discard a yellow card. If you do, draw a card and create a Gold token.	Pirate Action - Attack					
+gdgW96DqcRG69KdjcLBjr	Swindler's Grift	3	2	4	2				Pirate, Action, Attack							When this attacks, you may discard a yellow card. If you do, draw a card and create a Gold token.	Pirate Action - Attack					
 jPMgW9kwNF8Cj69gwJntt	Swing Big	1	2	8	3				Brute, Action, Attack							If Swing Big doesn't hit, the defending hero creates a Quicken token when the combat chain closes.	Brute Action - Attack				No	
 GJdjP8QBqTFjbpwD7fKkf	Swing Fist, Think Later	1	1	4	3				Brute, Action, Attack	Go again						"As an additional cost to play Swing Fist, Think Later, discard a random card.
 
@@ -8647,6 +8975,9 @@ TN6DmN7GK9DtMKd9pnmwF	Tectonic Plating				2				Guardian, Equipment, Chest	Battle
 69TdTgmPz69bNLRWPHLpK	Tectonic Rift	3	X		2				Guardian, Action	Go again						"Create X Seismic Surge tokens.
 
 **Go again**"	Guardian Action				No	
+9fgDH76FTCT7NWzJmBRGk	Teeth of the Cog	1	0	4	2				Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, create a Golden Cog token.	Mechanologist Action - Attack					
+d7MbqP6qdjzHWbbJTzCfF	Teeth of the Cog	2	0	3	2				Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, create a Golden Cog token.	Mechanologist Action - Attack					
+Mphbggf6mpBbRJJb6dfgL	Teeth of the Cog	3	0	2	2				Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, create a Golden Cog token.	Mechanologist Action - Attack					
 ddc8cKjhFDgfDQqdpcRjB	Teklo Base Arms				1				Mechanologist, Equipment, Base, Arms	Blade Break						**Blade Break**	Mechanologist Equipment - Base Arms					
 LHBn8grtppJpC8gBmzfrd	Teklo Base Chest				1				Mechanologist, Equipment, Base, Chest	Blade Break						**Blade Break**	Mechanologist Equipment - Base Chest					
 DkcTJhjgpTcfrhDFffL6q	Teklo Base Head				1				Mechanologist, Equipment, Base, Head	Blade Break						**Blade Break**	Mechanologist Equipment - Base Head					
@@ -8758,6 +9089,7 @@ When Themis attacks, you may banish a card from your hero's soul. If you do, tur
 **Ward 4**"	Light - Angel Ally				No	
 DbqmMdc6Mw9jGpPQBcwRd	Theryon, Magister of Justice					20	4		Light, Adjudicator, Hero							The first time each turn another hero destroys a card they don't control, you may pay {r}{r}. If you do, they destroy a non-hero permanent they control.	Light Adjudicator Hero		No	No	No	No
 QDH7qtJbC6HLbqnGzDBkR	Thick Hide Hunter	2	2	6	6				Brute, Action, Attack							When this attacks or defends, discard a random card.	Brute Action - Attack				No	
+mGJzBdWQ7W7FHH6QnLzNj	Thiev'n Varmints	1	0	4	3				Pirate, Action, Attack							When this attacks, you may remove a gold counter from Treasure Island. If you do and you are a Thief, create a Gold token.	Pirate Action - Attack					
 RHLWQrrJnTDMjfMjpf9m8	This Round's on Me	3	1		3				Generic, Action	Go again						"Each hero draws a card.
 
 Until the start of your next turn, attacks that target you have -1{p}.
@@ -8781,6 +9113,7 @@ JnRGGfDChkHqpkHQpr6c8	Thrive	2	0		2				Earth, Action	Go again						"If an attack
 BHKdPc9mGc9CtNCzQJHnF	Throttle	1	2	6	3				Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
 6bkFRTMhgjKWfftkpqtD6	Throttle	2	2	5	3				Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
 PMqDKT6PGBHdmFKzcnCFB	Throttle	3	2	4	3				Mechanologist, Action, Attack	Boost						**Boost**	Mechanologist Action - Attack					
+QjCCMBLNTHkwzPqmjCTqN	Throw Caution to the Wind	3	0						Pirate, Instant							Reveal the top card of your deck. The next time you would be dealt damage this turn, prevent X of that damage, where X is the pitch value of the card revealed this way.	Pirate Instant				No	
 cr8bTCLKLcfKLDTk7zcWn	Throw Dagger	3	0		3				Assassin, Ninja, Attack Reaction							Target dagger you control that isn't on the active chain link deals 1 damage to the defending hero. If damage is dealt this way, the dagger has hit and you draw a card. Destroy the dagger.	Assassin / Ninja Attack Reaction				No	
 rPFmfpqGpLn8DF66nRgFg	Throw Yourself at Them	1	1	3	2				Assassin, Ninja, Action, Attack	Go again						"When this attacks a hero, you may have target dagger you control deal 1 damage to them. If damage is dealt this way, the dagger has hit. Destroy the dagger.
 
@@ -8871,6 +9204,9 @@ You may give a Gold token you control to another hero. If you do, put this on th
 9CjK6W9dqPdJrfthqqKCD	Tip-Off	1	1	5	2				Generic, Action, Attack		Instant	Mark				**Instant** - Discard this: **Mark** target opposing hero.	Generic Action - Attack					
 Hfwh8FM6w6kLD76KtdhKK	Tip-Off	2	1	4	2				Generic, Action, Attack		Instant	Mark				**Instant** - Discard this: **Mark** target opposing hero.	Generic Action - Attack					
 867HbTJM7BhLzBFgFzDdN	Tip-Off	3	1	3	2				Generic, Action, Attack		Instant	Mark				**Instant** - Discard this: **Mark** target opposing hero.	Generic Action - Attack					
+knKbmDwjgK9qD8rmJNTQq	Tit for Tat	3	0		2				Generic, Action	Go again						"{t} target hero. {u} another target hero.
+
+**Go again**"	Generic Action				No	
 cTRhTc7kkHWQrwpRgtrM9	Titan's Fist			3					Guardian, Weapon, Hammer, 1H		Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}{r}: **Attack**
 
 If there is a card with cost 3 or greater in your pitch zone, Titan's Fist has +1{p}."	Guardian Weapon - Hammer (1H)					
@@ -8929,6 +9265,9 @@ MkJgPht7nFRJFBKCgThrP	Torque Tuned	3	2	4	2				Mechanologist, Action, Attack	Over
 9F67fMDKzMkLMJFr7GN67	Torrent of Tempo	1	1	5	3				Ninja, Action, Attack	Go again						If Torrent of Tempo hits, it gains **go again**.	Ninja Action - Attack					
 TR8gpGqrWD7JrKtjMqKbJ	Torrent of Tempo	2	1	4	3				Ninja, Action, Attack	Go again						If Torrent of Tempo hits, it gains **go again**.	Ninja Action - Attack					
 hRbLKmtGT7DJQqr9Q7MNN	Torrent of Tempo	3	1	3	3				Ninja, Action, Attack	Go again						If Torrent of Tempo hits, it gains **go again**.	Ninja Action - Attack					
+KwphDpWLnJrjGGMGnJc9n	Tough Old Wrench	1	2	6	2				Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, create a Golden Cog token.	Mechanologist Action - Attack					
+9dPrwcgFKcd8zk8PpwfRJ	Tough Old Wrench	2	2	5	2				Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, create a Golden Cog token.	Mechanologist Action - Attack					
+zLMWLzKGcdNnndTcD89gT	Tough Old Wrench	3	2	4	2				Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, create a Golden Cog token.	Mechanologist Action - Attack					
 QQJMKL7hLRfLcMhQCwTpN	Toughen Up	3	2		4				Generic, Defense Reaction								Generic Defense Reaction					
 7rNHHrKTMQDhQdp6tgKhD	Towering Titan	1	9		3				Guardian, Action, Aura							At the beginning of your action phase, destroy Towering Titan then the next Guardian attack action card you play this turn gains +10{p}.	Guardian Action - Aura				No	
 6QjFBg8DFzJBbLNmzKjPj	Towering Titan	2	9		3				Guardian, Action, Aura							At the beginning of your action phase, destroy Towering Titan then the next Guardian attack action card you play this turn gains +9{p}.	Guardian Action - Aura				No	
@@ -9128,6 +9467,9 @@ When this hits, put it on the bottom of its owner's deck."	Mechanologist Action 
 TdH7kmMbcGfRPpcGCfFkT	Under the Trap-Door	3	0	1	3				Assassin, Action, Attack	Stealth	Instant					"**Stealth**
 
 **Instant** - Discard this: Banish target trap from your graveyard. If you do, you may play it this turn and if it would be put into the graveyard this turn, instead banish it."	Assassin Action - Attack				No	
+PnMQ8tr9B76DfQQNT6gKb	Undercover Acquisition	1	0	3	3				Assassin, Action, Attack	Stealth, Steal						"**Stealth**
+
+When this hits a hero, steal an item they control."	Assassin Action - Attack				No	
 7FKzc7kNTqjg78RNqwM77	Undertow Stilettos				1				Mystic, Assassin, Equipment, Legs	Battleworn	Attack Reaction					"**Attack Reaction** - {r}, destroy this: Create a Slither in your hand.
 
 **Battleworn**"	Mystic Assassin Equipment - Legs					
@@ -9149,6 +9491,9 @@ DBDkGQDnNMDRfMNK7JFWN	Unhallowed Rites	3	1	2	3				Shadow, Runeblade, Action, Att
 You may put a 'non-attack' action card with blood debt from your graveyard on the bottom of your deck.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack				No	
+Hp8cr9fLGCnpNCfrgKFJN	Unicycle				1				Mechanologist, Equipment, Legs	Battleworn						"**Instant** - Destroy this: {u} a cog you control.
+
+**Battleworn**"	Mechanologist Equipment - Legs					
 kKGgdbFMjjhBjggrzwzkM	Unified Decree	2	2		3				Warrior, Attack Reaction	Reprise						"Target weapon attack gains +3{p}.
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, look at the top card of your deck. If it's an attack reaction card, you may banish it. If you do, you may play it this combat chain."	Warrior Attack Reaction				No	
@@ -9460,6 +9805,9 @@ MQN9FMbnbmGjrndKzFCC8	Wage Vigor	2	3	6	2				Guardian, Warrior, Action, Attack	Wa
 jqwmB7FLCpBPgTJz9ztGJ	Wailer Humperdinck	2	6	11		7			Pirate, Necromancer, Action, Ally	Watery Grave	Action, Instant	Attack				"**Action** - {r}{r}{r} {r}{r}{r}, {t}: **Attack**
 
 **Watery Grave**"	Pirate Necromancer Action - Ally				No	
+RLQrqhLnpqbkKh8qLRtnn	Walk the Plank	1	3	7	2				Generic, Action, Attack							When this hits a Pirate hero, {t} them or an ally they control.	Generic Action - Attack					
+qbfHLhfMncWkw8bbhDgJD	Walk the Plank	2	3	6	2				Generic, Action, Attack							When this hits a Pirate hero, {t} them or an ally they control.	Generic Action - Attack					
+wFcdCKBhBrRhhTWtQH76f	Walk the Plank	3	3	5	2				Generic, Action, Attack							When this hits a Pirate hero, {t} them or an ally they control.	Generic Action - Attack					
 mdhBmNB8JHPmK9KzKg7D6	Wall Breaker	1	2	6	3				Shadow, Brute, Action, Attack	Overpower, Blood Debt						"If you've banished a card with 6 or more {p} this turn, this gets **overpower**.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	
@@ -9540,6 +9888,9 @@ qN9rt6FWmjTRwNC9cTrPW	Wartune Herald	3	1	5	3				Light, Illusionist, Action, Atta
 
 **Phantasm**"	Light Illusionist Action - Attack					
 wdLw8WtkJzf79bfKPbzj9	Wash Away	3	2		3				Mystic, Defense Reaction							If you've played another blue card this turn, this gets +2{d}.	Mystic Defense Reaction					
+QtHWQMww79tzzPLJfbQBp	Washed Up Wave				0				Pirate, Necromancer, Equipment, Arms	Blade Break					Watery Grave	"When this defends, you may discard a card or destroy the top card of your deck. If that card has watery grave, this gets +2{d}.
+
+**Blade Break**"	Pirate Necromancer Equipment - Arms					
 tB76Jz9T9FcQTtbFDpbmN	Water Glow Lanterns	1	0		2				Illusionist, Action	Go again						"Reveal the top card of your deck. If it's red, create a Spectral Shield token.
 
 **Go again**"	Illusionist Action					
@@ -9794,6 +10145,9 @@ While Yinti Yanti is defending and you control an aura, it has +1{d}."	Generic A
 jqpfzHrQb9QC8BptMgLQJ	Yinti Yanti	3	0	1	2				Generic, Action, Attack							"While Yinti Yanti is attacking and you control an aura, it has +1{p}.
 
 While Yinti Yanti is defending and you control an aura, it has +1{d}."	Generic Action - Attack					
+PGQMRR7h9kBt98fnhgnNt	Yo Ho Ho!	3	0		3				Pirate, Necromancer, Action	Go again						"Your next Pirate ally attack this turn gets +1{p} and ""When this hits a hero, create a Gold token.""
+
+**Go again**"	Pirate Necromancer Action - Ally				No	
 ncc6tmdrfHgnz9DhPqnwC	Yoji, Royal Protector					22	4		Guardian, Hero, Young		Once per Turn Instant					**Once per Turn Instant** - {r}{r}{r}: The next time another target hero would be dealt damage this turn, instead that damage is dealt to Yoji and prevent 1 of that damage.	Guardian Hero - Young			No	No	No
 nrMg9kDMg9KwBPPtJLJph	Yorick, Weaver of Tales					20	4		Bard, Hero, Young							At the start of the game, all heroes shuffle their starting decks together. All heroes share the same deck and graveyard this game.	Bard Hero - Young		No	No	No	No
 NLkgcrjgGCQdWqGdg8gpj	Zap	1	0		3			3	Wizard, Action							Deal 3 arcane damage to target hero.	Wizard Action					
