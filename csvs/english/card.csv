@@ -1225,6 +1225,9 @@ If the discarded card has 6 or more {p}, Breakneck Battery gains **go again**."	
 NDtf9QNdnRFLkjncQDRgM	Breakneck Battery	3	2	4	3				Brute, Action, Attack	Go again						"As an additional cost to play Breakneck Battery, discard a random card.
 
 If the discarded card has 6 or more {p}, Breakneck Battery gains **go again**."	Brute Action - Attack				No	
+J8LhcKQG9z8mnTm6bMnFp	Breakwater Undertow				1				Pirate, Necromancer, Equipment, Legs	Blade Break	Attack Reaction		Go again			"**Attack Reaction** - Destroy this: Target Pirate ally attack gets **go again**. When the combat chain closes, destroy the ally.
+
+**Blade Break**"	Pirate Necromancer Equipment - Legs				No	
 H6WLbh6cgMkhmdqLhQWrJ	Breed Anger	1	1	4	3				Ninja, Action, Attack	Combo, Go again						**Combo** - When this attacks, if Crouching Tiger was the last attack this combat chain, this gets **go again** and create a Crouching Tiger in your banished zone. You may play it this turn.	Ninja Action - Attack					
 Bhzf7NDc9qBcP86RzJjmK	Breed Anger	2	1	3	3				Ninja, Action, Attack	Combo, Go again						**Combo** - When this attacks, if Crouching Tiger was the last attack this combat chain, this gets **go again** and create a Crouching Tiger in your banished zone. You may play it this turn.	Ninja Action - Attack					
 mbtPRkBfzdTWWGGDFGmPB	Breed Anger	3	1	2	3				Ninja, Action, Attack	Combo, Go again						**Combo** - When this attacks, if Crouching Tiger was the last attack this combat chain, this gets **go again** and create a Crouching Tiger in your banished zone. You may play it this turn.	Ninja Action - Attack					
@@ -3893,6 +3896,9 @@ Ng9LqqDzcwcTmQmDzWzjT	Graven Call			1					Assassin, Weapon, Dagger, 1H	Piercing 
 **Piercing 1**
 
 **Instant** - Destroy 2 Silver you control: Equip this with a +1{p} counter. Activate this ability only while this is in your graveyard."	Assassin Weapon - Dagger (1H)				No	
+wTC7KKjRHpQdTrHCTgkJj	Graven Justaucorpse				1				Necromancer, Equipment, Chest	Battleworn	Instant					"**Instant** - Destroy this: Discard a card. Gain {r} equal to its pitch value.
+
+**Battleworn**"	Necromancer Equipment - Chest				No	
 Fq9Cg9pKGFKrTbfHq9mBb	Gravy Bones					20	4		Pirate, Necromancer, Hero, Young		Instant					"**Instant** - {t}, destroy a Gold you control: Draw a card, then discard a card.
 
 If a blue card has been put into your graveyard this turn, you may play cards with watery grave from your graveyard."	Pirate Necromancer Hero - Young			No		No
@@ -5143,6 +5149,12 @@ bpQN7JWMfcWndWkjWkJwb	Looking for a Scrap	3	1	2	2				Generic, Action, Attack	Go 
 NdGdjWwfTnfdWGFL6tRwz	Looming Doom	3	3		3			2	Runeblade, Action, Aura							"When Looming Doom enters the arena, destroy all Runechants you control and put that many doom counters on Looming Doom.
 
 At the beginning of your end phase, remove a doom counter from Looming Doom. If you do, deal 2 arcane damage to any target. Otherwise, destroy Looming Doom."	Runeblade Action - Aura				No	
+Lz787nr8ndnM9BrnPtjDC	Loot the Arsenal	3	0		3				Pirate, Necromancer, Action	Go again						"Your next Pirate ally attack this turn gets ""When this hits a hero, destroy a card in their arsenal. If you do, create a Gold token.""
+
+**Go again**"	Pirate Necromancer Action				No	
+bthMFnn9GbPQBnBT8cNj8	Loot the Hold	3	0		3				Pirate, Necromancer, Action	Go again						"Your next Pirate ally attack this turn gets ""When this hits a hero, they discard a card. If they do, create a Gold token.""
+
+**Go again**"	Pirate Necromancer Action				No	
 WprpWWNjq6F8BwRrTPFmM	Lord Sutcliffe				3			1	Runeblade, Mentor						Specialization	"While Sutcliffe is face down in arsenal, at the start of your turn, you may turn him face up.
 
 While Sutcliffe is face up in arsenal, whenever you play a 'non-attack' action card, deal 1 arcane damage to each hero and put a lesson counter on Sutcliffe for each damage dealt this way. Then if there are 3 or more lesson counters on him, banish him, search your deck for a **specialization** card, put it face up into arsenal, and shuffle."	Runeblade Mentor			No	No	No
@@ -9379,6 +9391,9 @@ KqJPNjpMbNhDNDkL8T8gM	Tribute to the Legions of Doom	3	3	5	3				Shadow, Brute, A
 If a card with 6 or more {p} is banished this way, this gets +2{p}.
 
 **Blood Debt**"	Shadow Brute Action - Attack					
+hBqjdnFmnpdFC8wpQGgfB	Tricorn of Saltwater Death				1				Pirate, Necromancer, Equipment, Head	Blade Break	Instant				Watery Grave	"When this defends, you may discard a card with watery grave. If you do, draw a card.
+
+**Blade Break**"	Pirate Necromancer Equipment - Head				No	
 7GkCr8MrPLnHfLc6JfQMH	Trip the Light Fantastic	1	1	5	2				Lightning, Action, Attack		Instant					**Instant** - Discard this: Prevent the next 2 damage that would be dealt to you this turn.	Lightning Action - Attack					
 CNJjHNFRzNwCmBRJw6mt6	Trip the Light Fantastic	2	1	4	2				Lightning, Action, Attack		Instant					**Instant** - Discard this: Prevent the next 2 damage that would be dealt to you this turn.	Lightning Action - Attack					
 WbmtPhzqpRtfC7rRHgB7k	Trip the Light Fantastic	3	1	3	2				Lightning, Action, Attack		Instant					**Instant** - Discard this: Prevent the next 2 damage that would be dealt to you this turn.	Lightning Action - Attack					
