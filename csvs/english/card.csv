@@ -524,7 +524,7 @@ QnKbrhtk7HFcckCBbFmkt	Ball Lightning	3	0	1	0				Lightning, Action, Attack	Go aga
 k6CHfQ7NKhD8f7kPPhBdK	Bam Bam	2	3	6	3				Brute, Action, Attack		Instant					"When this hits a hero, destroy an item they control.
 
 **Instant** - Discard this: Your club attacks this turn get ""When this hits a hero, destroy an item they control."""	Brute Action - Attack				No	
-rFtnRCDzmJrrJwfJfWnFC	Bandana of the Blue Beyonds				0				Generic, Equipment, Head		Action	Go again				**Action** - Discard a card, destroy this: Put a blue card from your graveyard on the bottom of your deck. **Go again**	Generic Equipment - Head					
+rFtnRCDzmJrrJwfJfWnFC	Bandana of the Blue Beyond				0				Generic, Equipment, Head		Action	Go again				**Action** - Discard a card, destroy this: Put a blue card from your graveyard on the bottom of your deck. **Go again**	Generic Equipment - Head					
 hHTFWRhbq9F7CwwbQqNQ8	Bank Breaker			3					Mechanologist, Weapon, Wrench, 2H		Twice per Turn Action	Attack	Overpower, Go again			"**Twice per Turn Action** - {r}: **Attack**. Activate this only if you've cranked this turn.
 
 When this attacks, you may banish a card from under it. If you do, the attack gets **overpower** and **go again**."	Mechanologist Weapon - Wrench (2H)				No	
@@ -1671,7 +1671,7 @@ LzjkDR6QcL9WBztfDTRt9	Coax a Commotion	1	0	4	2				Generic, Action, Attack							
 - Each hero draws a card.
 - Each hero gains 1{h}."	Generic Action - Attack				No	
 9f8tgdNwfwg7bhkkDLdPK	Code of Conduct: Kill or Be Killed								Event							Until end of turn, you may attack any opposing hero and when you deal lethal damage to them, take an extra turn after this one.	Event		No	No	No	No
-tjnCb9JGD7mzznFPfDzHp	Codex of Bloodrot	2	0		2				Assassin, Ranger, Action	Go again						"Each hero puts a card from their hand face down into their arsenal.
+tjnCb9JGD7mzznFPfDzHp	Codex of Bloodrot	2	0		2				Assassin, Ranger, Action	Go again						"Each hero puts a card from their hand face-down into their arsenal.
 
 Create a Ponder token under your control and a Bloodrot Pox token under each opponent's control.
 
@@ -4063,9 +4063,9 @@ CbngjC9FTFNdmTGT7ddCT	Head Jab	3	0	1	2				Ninja, Action, Attack	Go again						**
 p8tbQ7KL7G8RwQTtdKnNH	Head Leads the Tail	1	1	3	2				Ninja, Action, Attack	Go again						"When this attacks, name another card. Attack action cards with that name have +1{p} this combat chain.
 
 **Go again**"	Ninja Action - Attack				No	
-KjdKWBHLWtqdF66zPzRwG	Head Shot	1	1	4	3				Ranger, Action, Arrow, Attack							If Head Shot is put into your arsenal face up, it gains +2{p} until end of turn.	Ranger Action - Arrow Attack					
-cDJpRqfcbpFm8NjnhDfCw	Head Shot	2	1	3	3				Ranger, Action, Arrow, Attack							If Head Shot is put into your arsenal face up, it gains +2{p} until end of turn.	Ranger Action - Arrow Attack					
-zNgcmTJjnWHfGKcLmPw8G	Head Shot	3	1	2	3				Ranger, Action, Arrow, Attack							If Head Shot is put into your arsenal face up, it gains +2{p} until end of turn.	Ranger Action - Arrow Attack					
+KjdKWBHLWtqdF66zPzRwG	Head Shot	1	1	4	3				Ranger, Action, Arrow, Attack							When this is put into your arsenal face up, it gains +2{p} until end of turn.	Ranger Action - Arrow Attack					
+cDJpRqfcbpFm8NjnhDfCw	Head Shot	2	1	3	3				Ranger, Action, Arrow, Attack							When this is put into your arsenal face up, it gains +2{p} until end of turn.	Ranger Action - Arrow Attack					
+zNgcmTJjnWHfGKcLmPw8G	Head Shot	3	1	2	3				Ranger, Action, Arrow, Attack							When this is put into your arsenal face up, it gains +2{p} until end of turn.	Ranger Action - Arrow Attack					
 Pm8jQMDcJhBnT8wj6rwFD	Head Stone				1				Necromancer, Equipment, Head	Battleworn						"**Instant** - Destroy this: Destroy the top card of your deck.
 
 **Battleworn**"	Necromancer Equipment - Head					
@@ -5029,15 +5029,15 @@ GFc7t8wNTwC8rCFwrqTfh	Lexi					20	4		Elemental, Ranger, Hero, Young	Essence of I
 PFmgFK9dFr8q6PrpJFpPG	Lexi, Livewire					40	4		Elemental, Ranger, Hero	Essence of Ice and Lightning	Once per Turn Action	Go again	Go again			"**Essence of Ice and Lightning**
 
 **Once per Turn Action** - Turn a face down card in your arsenal face up: If it's a Lightning card, your next attack this turn gains **go again**. If it's an Ice card, create a Frostbite token under target hero's control. **Go again**"	Elemental Ranger Hero		No		No	
-qqzmLCbJJ6nwQGtzrJMcL	Life for a Life	1	1	4	2				Generic, Action, Attack	Go again						"If Life for a Life hits, gain 1{h}.
+qqzmLCbJJ6nwQGtzrJMcL	Life for a Life	1	1	4	2				Generic, Action, Attack	Go again						"When this is played, if you have less {h} than an opposing hero, it gets **go again**.
 
-When you play Life for a Life, if you have less {h} than an opposing hero, it gains **go again**."	Generic Action - Attack				No	
-9HfD8KjKKWFc6CfCjKp9p	Life for a Life	2	1	3	2				Generic, Action, Attack	Go again						"If Life for a Life hits, gain 1{h}.
+When this hits, gain 1{h}."	Generic Action - Attack				No	
+9HfD8KjKKWFc6CfCjKp9p	Life for a Life	2	1	3	2				Generic, Action, Attack	Go again						"When this is played, if you have less {h} than an opposing hero, it gets **go again**.
 
-When you play Life for a Life, if you have less {h} than an opposing hero, it gains **go again**."	Generic Action - Attack				No	
-qGLzQjzncCQztM6QrtwPn	Life for a Life	3	1	2	2				Generic, Action, Attack	Go again						"If Life for a Life hits, gain 1{h}.
+When this hits, gain 1{h}."					No	
+qGLzQjzncCQztM6QrtwPn	Life for a Life	3	1	2	2				Generic, Action, Attack	Go again						"When this is played, if you have less {h} than an opposing hero, it gets **go again**.
 
-When you play Life for a Life, if you have less {h} than an opposing hero, it gains **go again**."	Generic Action - Attack				No	
+When this hits, gain 1{h}."					No	
 LJ9FRbpjJLcpHMM6wk6HW	Life of the Party	1	2	4	2				Generic, Action, Attack	Go again						"You may discard or destroy a card you control named Crazy Brew rather than pay Life of the Party's {r} cost. If you do, choose all modes, otherwise choose 1 at random;
 
 - This gets ""When this hits, gain life 2{h}.""
@@ -7483,9 +7483,9 @@ When this hits a hero, the next time they defend with 1 or more equipment this t
 t6JCJM8LbB8DcqTwHj7Mk	Scar Tissue	1	0		2				Assassin, Warrior, Attack Reaction				Mark			"Target dagger attack gets +3{p} and ""When this hits a hero, **mark** them."""	Assassin / Warrior Attack Reaction					
 GHfNcPpwFnQttfmWMDq86	Scar Tissue	2	0		2				Assassin, Warrior, Attack Reaction				Mark			"Target dagger attack gets +2{p} and ""When this hits a hero, **mark** them."""	Assassin / Warrior Attack Reaction					
 KjLnGJk9WwJKDbRtpBRKG	Scar Tissue	3	0		2				Assassin, Warrior, Attack Reaction				Mark			"Target dagger attack gets +1{p} and ""When this hits a hero, **mark** them."""	Assassin / Warrior Attack Reaction					
-DbpqBt8Gp8HWg6QMFBBgh	Scar for a Scar	1	0	4	2				Generic, Action, Attack	Go again						When you play Scar for a Scar, if you have less {h} than an opposing hero, it gains **go again**.	Generic Action - Attack					
-LwdKpBTcMk6rLjDwG8r6G	Scar for a Scar	2	0	3	2				Generic, Action, Attack	Go again						When you play Scar for a Scar, if you have less {h} than an opposing hero, it gains **go again**.	Generic Action - Attack					
-fBjC6dqfrGN9TG7Whh9TR	Scar for a Scar	3	0	2	2				Generic, Action, Attack	Go again						When you play Scar for a Scar, if you have less {h} than an opposing hero, it gains **go again**.	Generic Action - Attack					
+DbpqBt8Gp8HWg6QMFBBgh	Scar for a Scar	1	0	4	2				Generic, Action, Attack	Go again						When this is played, if you have less {h} than an opposing hero, it gets **go again**.	Generic Action - Attack					
+LwdKpBTcMk6rLjDwG8r6G	Scar for a Scar	2	0	3	2				Generic, Action, Attack	Go again						When this is played, if you have less {h} than an opposing hero, it gets **go again**.	Generic Action - Attack					
+fBjC6dqfrGN9TG7Whh9TR	Scar for a Scar	3	0	2	2				Generic, Action, Attack	Go again						When this is played, if you have less {h} than an opposing hero, it gets **go again**.	Generic Action - Attack					
 HQpCLnmftkcKMJrjjczGK	Scarf for a Scarf	1	0	4	2				Generic, Action, Attack	Go again						When this attacks a hero, exchange a head equipment permanent with them. If you do, this gets **go again**.	Generic Action - Attack		No	No	No	No
 jktJDQ97DD6rnkQjhNdD8	Scepter of Pain							1	Runeblade, Weapon, Scepter, 1H		Once per Turn Action					"**Once per Turn Action** - {r}{r}: Deal 1 arcane damage to any opposing target.
 
@@ -9284,15 +9284,15 @@ rgMGtN8QtgRjn7PkNdcKG	Toxicity	2	0		2				Assassin, Ranger, Action	Go again						
 F9KLhWk9DbmqRwtRggPjF	Toxicity	3	0		2				Assassin, Ranger, Action	Go again						"The next Assassin or Ranger attack action card you play this turn gains ""When this hits a hero, they lose 3{h}.""
 
 **Go again**"	Assassin / Ranger Action				No	
-B7JjFkkd8gdhc7CqdWN9G	Trade In	1	0	3	2				Generic, Action, Attack	Go again						"When you attack with Trade In, you may discard a card. If you do, draw a card.
+B7JjFkkd8gdhc7CqdWN9G	Trade In	1	0	3	2				Generic, Action, Attack	Go again						"When this attacks, you may discard a card. If you do, draw a card.
 
-If Trade In is played from arsenal, it gains **go again**."	Generic Action - Attack					
-gbMdbHtkbGnzcfpqHBFBq	Trade In	2	0	2	2				Generic, Action, Attack	Go again						"When you attack with Trade In, you may discard a card. If you do, draw a card.
+If this was played from arsenal, it gains **go again**."	Generic Action - Attack					
+gbMdbHtkbGnzcfpqHBFBq	Trade In	2	0	2	2				Generic, Action, Attack	Go again						"When this attacks, you may discard a card. If you do, draw a card.
 
-If Trade In is played from arsenal, it gains **go again**."	Generic Action - Attack					
-TDCnCP7tnLRMNgHNJPTRF	Trade In	3	0	1	2				Generic, Action, Attack	Go again						"When you attack with Trade In, you may discard a card. If you do, draw a card.
+If this was played from arsenal, it gains **go again**."	Generic Action - Attack					
+TDCnCP7tnLRMNgHNJPTRF	Trade In	3	0	1	2				Generic, Action, Attack	Go again						"When this attacks, you may discard a card. If you do, draw a card.
 
-If Trade In is played from arsenal, it gains **go again**."	Generic Action - Attack					
+If this was played from arsenal, it gains **go again**."	Generic Action - Attack					
 CRNw7cJfmDMzMPDKnQgRG	Trailblazing Aether	1	0		3			3	Wizard, Action	Surge	Go again					"Deal 3 arcane damage to target hero.
 
 **Surge** - If this deals more than 3 damage, it gets **go again**."	Wizard Action					

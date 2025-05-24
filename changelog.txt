@@ -862,5 +862,6 @@ TODO:
 - Added printing data for HER135, LGS387, LGS389-LGS390, and LGS395-LGS413 - data entry assistance: manwaring
 - Added Go Fish and Unlimited keywords
 - Added Cannon, Cog, and Pirate types
+- Updated functional text for Codex of Frailty, Head Shot, Life for a Life, Scar for a Scar, and Trade In
 - Updated Argh... Smash! to use 3 periods instead of one unicode character
 - Updated Blitz Living Legend status for Victor Goldmane and Miller's Grindstone
