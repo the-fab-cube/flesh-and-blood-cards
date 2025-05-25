@@ -1620,6 +1620,9 @@ ghCPQqFqNjMq9cn7nTrzJ	Clash of Agility	3	2	4	3				Brute, Warrior, Action, Attack
 NGMpfnrcHzjWtB6bmGC6C	Clash of Might	1	2	6	3				Brute, Guardian, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Action - Attack				No	
 HQGTg8btKJgCCrhmBGrDN	Clash of Might	2	2	5	3				Brute, Guardian, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Action - Attack				No	
 KnJTJP7KPKfpNC7FNLJB8	Clash of Might	3	2	4	3				Brute, Guardian, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Action - Attack				No	
+n7Qn88BQPmjpPRpdz88gm	Clash of Mountains	1	4	8	3				Guardian, Action, Attack	Clash						When this defends a Guardian attack, **clash** with the attacking hero. The winner creates a Seismic Surge token.	Guardian Action - Attack					
+GGLrgHcQbNtpBQDwjLzJm	Clash of Mountains	2	4	7	3				Guardian, Action, Attack	Clash						When this defends a Guardian attack, **clash** with the attacking hero. The winner creates a Seismic Surge token.	Guardian Action - Attack					
+wG6tBGKr7rb6TCjP7bBDC	Clash of Mountains	3	4	6	3				Guardian, Action, Attack	Clash						When this defends a Guardian attack, **clash** with the attacking hero. The winner creates a Seismic Surge token.	Guardian Action - Attack					
 FWQPHMnG9JDfm7JmC6hJ6	Clash of Vigor	1	2	6	3				Guardian, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Action - Attack				No	
 HrKnbRbWgpztmkCN6DJfR	Clash of Vigor	2	2	5	3				Guardian, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Action - Attack				No	
 pBjNr7MRTR6L7LMKT8j9d	Clash of Vigor	3	2	4	3				Guardian, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Action - Attack				No	
@@ -5576,16 +5579,16 @@ Fw7hr8tGFkDbJkJB8Gjhk	Mutated Mass	3	1	*	*				Shadow, Action, Attack	Blood Debt	
 Mutated Mass's {p} and {d} is equal to twice the number of cards in your pitch zone with different costs.
 
 **Blood Debt**"	Shadow Action - Attack				No	
-JnzNgM8krkHCW67dfWJLP	Mutiny on the Battalion Barque	3	0		2				Pirate, Action	Go again, Steal			Overpower			"For each hero that controls more Gold than you, **steal** a Gold token they control.
-
-If you gain control of 1 or more Gold tokens this way, your next attack this turn gets **overpower**.
-
-**Go again**"	Pirate Action					
-6TFrJmTqf9DjPmgPrmd8m	Mutiny on the Nimbus Sovereign	3	0		2				Pirate, Action	Go again, Steal						"For each hero that controls more Gold than you, **steal** a Gold token they control.
+6TFrJmTqf9DjPmgPrmd8m	Mutiny on the Battalion Barque	3	0		2				Pirate, Action	Go again, Steal						"For each hero that controls more Gold than you, **steal** a Gold token they control.
 
 If you gain control of 1 or more Gold tokens this way, your next attack this turn gets +2{p}.
 
 Go again"	Pirate Action					
+JnzNgM8krkHCW67dfWJLP	Mutiny on the Nimbus Sovereign	3	0		2				Pirate, Action	Go again, Steal			Overpower			"For each hero that controls more Gold than you, **steal** a Gold token they control.
+
+If you gain control of 1 or more Gold tokens this way, your next attack this turn gets **overpower**.
+
+**Go again**"	Pirate Action					
 JwdBp6DFwFkG9npJ78jbK	Mutiny on the Swiftwater	3	0		2				Pirate, Action	Go again, Steal			Go again			"For each hero that controls more Gold than you, **steal** a Gold token they control.
 
 If you gain control of 1 or more Gold tokens this way, your next attack this turn gets **go again**.
