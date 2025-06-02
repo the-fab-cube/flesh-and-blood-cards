@@ -798,7 +798,46 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 11-12-24:
 - Fixed issue with types for Ollin Ice Cap and Tectonic Crust - bug notice credit: Aegisworn
 
-11-15-14:
+11-15-24:
 - Added printing data and images for LGS205-LGS211
 - Added printing data for AJV002, AJV008-AJV010, AJV012, AJV014-AJV016, AJV019, and AJV021-AJV030
 - Added images for AJV002, AJV008-AJV010, AJV012, AJV014-AJV016, AJV019, and AJV020-AJV030
+
+11-23-24:
+- Added card data for Cracker Bauble and Spirit of Christmas
+- Added printing data for LGS337-LGS339, LGS355-LGS360, and LGS364-LGS368
+
+11-26-24:
+- Fixed issue with Steelbraid Buckler AJV003 printing being incorrectly listed as AJV002 - bug notice credit: Aegisworn
+
+04-16-25:
+- Added card data for Breaker Helm Protos, Construct Bank Breaker, Drive Brake, Fist Pump, Puffer Jacket, and Twintek Charging Station - data entry assistance: manwaring
+- Added printing data and images for AMX001-AMX028 - data entry assistance: manwaring
+- Updated functional text for Banksy, Big Bertha, Crankshaft, Hyper Driver, Maxx 'The Hype' Nitro, Maxx Nitro, Sprocket Rocket, and T-Bone
+
+04-21-25:
+- Added set data for ASR - data entry assistance: manwaring
+- Added card data for Enact Vengeance - data entry assistance: manwaring
+- Added printing data for ASR008 - data entry assistance: manwaring
+- Updated CC Living Legend status for `Enigma, Ledger of Ancestry`, `Cosmo, Scroll of Ancestral Tapestry`, `Zen, Tamer of Purpose`, and `Tiger Taming Khakkara`
+- Updated Blitz Living Legend status for Victor Goldmane and Miller's Grindstone
+- Updated set names for AKO, AMX, and ASB to maintain consistency amongst Armory Decks
+- Fixed issue `Arakni, Huntsman`, Jarl Vetreiði, and `Uzuri, Switchblade` incorrectly being marked as legal in Blitz - bug notice credit: jkloo
+- Fixed typo in functional text of Ruu'di, Gem Keeper - bug notice credit: jkloo
+- Fixed issue with `Taipanis, Dracai of Judgement` not having a health or intelligence value - bug notice credit: jkloo
+- Fixed issue with Heart-throb, Fiddle-dee, Nom de Plume, and Quickstep not having a defense value - bug notice credit: Pgibby8
+- Fixed issue with Open the Center incorrectly having an arcane damage property - bug notice credit: manwaring
+- Fixed issue with Open the Flood Gates missing am arcane damage property
+- Fixed issue with Jarl Vetreiði's name being mispelled - bug notice credit: deguchi
+- Fixed issue with Armory Deck Origins - Jarl Vetreiði name being mispelled
+
+05-15-25:
+- Added printing data for ASR001
+- Added card images for ASR001 and ASR008
+
+05-19-25:
+- Updated CC Living Legend Status for `Aurora, Shooting Star`, Star Fall, `Viserai, Rune Blood`, and Nebula Blade
+- Updated CC Legality for Count Your Blessings, Germinate, Scepter of Pain, and Bonds of Ancestry (Red)
+- Updated Blitz Legality for Channel Lightning Valley, Count Your Blessings, Flicker Wisp, and Storm Striders
+- Updated LL Legality for Carrion Husk, Crown of Seeds, Deadwood Dirge, Succumb to Temptation, and Hypothermia
+- Updated Commoner Legality for Reality Refractor

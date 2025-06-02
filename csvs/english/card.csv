@@ -224,7 +224,7 @@ NbbDrzwLMP7CH69PHcWfK	Aqua Seeing Shell				1				Mystic, Equipment, Head	Cloaked	
 
 At the start of your turn, destroy this."	Mystic Equipment - Head					
 9F7RHWjLgCDRqwMww99GN	Arakni					20	4		Assassin, Hero, Young							Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.	Assassin Hero - Young			No		No
-CKtFCgnGdwMDBh7dzDqqz	Arakni, Huntsman					40	4		Assassin, Hero							Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.	Assassin Hero				No	
+CKtFCgnGdwMDBh7dzDqqz	Arakni, Huntsman					40	4		Assassin, Hero							Whenever you play a card with **contract**, you may look at the top card of target opponent's deck. You may put it on the bottom.	Assassin Hero		No		No	
 jkwfjdcDbhRnDrPWDnwT9	Arakni, Solitary Confinement					19	4		Assassin, Hero, Young				Go again		Stealth	Your first attack with **stealth** each turn has **go again**.	Assassin Hero - Young			No		No
 hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	2	6						Light, Illusionist, Instant, Aura	Prism Specialization, Spectra						"**Prism Specialization**
 
@@ -468,11 +468,14 @@ w77m97tB9GPDzK6ccgkjr	Ball Lightning	2	0	2	0				Lightning, Action, Attack	Go aga
 QnKbrhtk7HFcckCBbFmkt	Ball Lightning	3	0	1	0				Lightning, Action, Attack	Go again						"Whenever a Lightning or Elemental action card would deal damage this combat chain, instead it deals that much damage plus 1.
 
 **Go again**"	Lightning Action - Attack					
+hHTFWRhbq9F7CwwbQqNQ8	Bank Breaker			3					Mechanologist, Weapon, Wrench, 2H		Twice per Turn Action	Attack	Overpower, Go again			"**Twice per Turn Action** - {r}: **Attack**. Activate this only if you've cranked this turn.
+
+When this attacks, you may banish a card from under it. If you do, the attack gets **overpower** and **go again**."	Mechanologist Weapon - Wrench (2H)				No	
 LJrMwbT9tW99BNDwBKNfr	Banksy			3					Mechanologist, Weapon, Wrench, 2H	Maxx Specialization	Once per Turn Action	Attack			Crank	"**Maxx Specialization**
 
-**Once per Turn Action** - {r}: **Attack**. Activate this ability only if you've **cranked** this turn.
+**Once per Turn Action** - {r}: **Attack**. Activate this ability only if you've cranked this turn.
 
-When this hits a hero, put a steam counter on an item you control with **crank**."	Mechanologist Weapon - Wrench (2H)					
+When this hits a hero, put a steam counter on an item you control with crank."	Mechanologist Weapon - Wrench (2H)					
 PtBr9hn97WqBzgMqNHzFp	Banneret of Courage	2	1	4	3				Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, create a Courage token.	Light Warrior Action - Attack				No	
 MT7rdNFQjRncfm9DzmLdH	Banneret of Gallantry	2	1	4	3				Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, create a Quicken token.	Light Warrior Action - Attack				No	
 Hkdtj7NWwgjL9znCjwM9M	Banneret of Protection	2	1	4	3				Light, Warrior, Action, Attack	Solflare					Charge	**Solflare** - When this is **charged** to your hero's soul, create a Spellbane Aegis token.	Light Warrior Action - Attack				No	
@@ -632,13 +635,13 @@ zdWrPkDgdbWdGBWjCLnhj	Betsy					20	4		Guardian, Hero, Young				Overpower		Wager	
 m7WjNjrtmfKdLfqPLWDHw	Betsy, Skin in the Game					40	4		Guardian, Hero				Overpower		Wager	Whenever an attack you control **wagers**, you may pay {r}{r}. If you do, the attack gets +1{p} and **overpower**.	Guardian Hero		No		No	
 zgRHgqkpfq7FTNgrjRnbj	Big Bertha	1	3	6	3				Mechanologist, Action, Attack	Boost					Boost	"**Boost**
 
-When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
+When this is banished from boosting, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
 hpjt9GGTdQKf9t6RC6tCk	Big Bertha	2	3	5	3				Mechanologist, Action, Attack	Boost					Boost	"**Boost**
 
-When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
+When this is banished from boosting, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
 BbhMcGn9tRzPq6qdt8f8W	Big Bertha	3	3	4	3				Mechanologist, Action, Attack	Boost					Boost	"**Boost**
 
-When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
+When this is banished from boosting, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
 9GHTwjj8W9dWDtc9zbfmc	Big Blue Sky	3	0		2				Mystic, Defense Reaction							This gets +1{d} for each blue card you've pitched this turn.	Mystic Defense Reaction				No	
 L6rgnMGtzqKkLfHdkTPph	Big Bop	1	3		2				Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +5{p} and ""When this attacks a hero, you may **wager** a Vigor token with them."""	Guardian Action - Aura					
 c7LrgMPzh9mcqbCqM9mmw	Big Bop	2	3		2				Guardian, Action, Aura				Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +4{p} and ""When this attacks a hero, you may **wager** a Vigor token with them."""	Guardian Action - Aura					
@@ -1078,6 +1081,9 @@ wgLPnnJb8QW7WH6zRFbNr	Break Tide	2	0	2	3				Ninja, Action, Attack	Combo, Dominat
 jWrgGqDQrJcHQ8PF7htmc	Break of Dawn	1	0						Light, Instant							The next time a Shadow source would deal damage this turn, prevent 4 of that damage.	Light Instant					
 L9ckNFnGCDh9tQtCg8rm6	Break of Dawn	2	0						Light, Instant							The next time a Shadow source would deal damage this turn, prevent 3 of that damage.	Light Instant					
 GGH7Jb9gBH68rFcMCWWcd	Break of Dawn	3	0						Light, Instant							The next time a Shadow source would deal damage this turn, prevent 2 of that damage.	Light Instant					
+MHDhBfch9wDpjrhrR6R7d	Breaker Helm Protos				1				Mechanologist, Equipment, Base, Head	Temper						"When this defends, you may discard a Hyper Driver. If you do, draw a card and this gets +1{d} until end of turn.
+
+**Temper**"	Mechanologist Equipment - Base Head				No	
 qT78mFRmt9KQfQdGwfnJD	Breaking Point	1	1	5	3				Draconic, Action, Attack	Rupture						"**Rupture** - If Breaking Point is played as chain link 4 or higher, it has ""When this hits a hero, destroy all cards in their arsenal."""	Draconic Action - Attack					
 6dMC789mNcrmnMPWGMdhb	Breaking Scales				1				Ninja, Equipment, Arms	Battleworn	Attack Reaction				Combo	"**Attack Reaction** - Destroy Breaking Scales: Target attack action card with **combo** gains +1{p}.
 
@@ -1394,6 +1400,11 @@ CjRzTWJcLTzzfkhwCRK7K	Civic Peak				2				Guardian, Equipment, Head	Temper						"
 qQ9JC8BtngfRq7n9pqpKM	Civic Steps				2				Guardian, Equipment, Legs	Temper						"Whenever this defends, create a Quicken token under another hero's control.
 
 **Temper**"	Guardian Equipment - Legs					
+9G9hzcppH7WtgccPwfdGC	Clamp Press	3	2						Mechanologist, Action, Item	Crank						"**Crank**
+
+This enters the arena with 2 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+Wrenches you control get +2{p}."	Mechanologist Action - Item				No	
 M8HJKTz7QwHTjGtjdHqDM	Clarity Potion	3	0						Generic, Action, Item		Instant	Opt 2				**Instant** - Destroy Clarity Potion: **Opt 2**	Generic Action - Item				No	
 gRpHwzjCr7Q6RQwnGTT7t	Clash of Agility	1	2	6	3				Brute, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Action - Attack				No	
 8dw7PGfBNcKMcRkgMdPJz	Clash of Agility	2	2	5	3				Brute, Warrior, Action, Attack	Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Action - Attack				No	
@@ -1575,6 +1586,9 @@ dzP7wmmnGhcPk78jJpwQ6	Conduit of Frostburn				0				Ice, Wizard, Equipment, Arms	
 GtL9zmpkGKMqgBcFfCQgN	Confront Adversity				2				Generic, Equipment, Chest	Blade Break						"This may only defend an attack if the attack's controller has destroyed a Vigor token this turn.
 
 **Blade Break**"	Generic Equipment - Chest					
+RNCWjkhhdhrHCNRncqznq	Construct Bank Breaker	2	0		3				Mechanologist, Action, Construct	Transform, Go again						"If you have a wrench weapon equipped, **transform** it and 3 Hyper Drivers you control into Bank Breaker, then equip Bank Breaker.
+
+**Go again**"	Mechanologist Action - Construct				No	
 mjFjGKmpGbTCnrJR6fN79	Construct Nitro Mechanoid	2	4		3				Mechanologist, Action, Construct	Transform, Negate, Go again						"**Transform** target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, **negate** this.
 
 **Go again**"	Mechanologist Action - Construct				No	
@@ -1628,6 +1642,7 @@ BtzBqJcHbCptkMJMBchgQ	Courageous Steelhand	1	0		2				Light, Warrior, Attack Reac
 WKHF6LbqnjdPn6FrHDKcg	Courageous Steelhand	2	0		2				Light, Warrior, Attack Reaction						Charge	If you've **charged** this turn, target attack gains +2{p}.	Light Warrior Attack Reaction					
 fdTHJDGRFHhBhjmFKfkHp	Courageous Steelhand	3	0		2				Light, Warrior, Attack Reaction						Charge	If you've **charged** this turn, target attack gains +1{p}.	Light Warrior Attack Reaction					
 Dbhn6rRcrbdRnKbqdPdwh	Cracked Bauble	2							Generic, Resource							*(Cracked Bauble exists to support Booster Draft and sealed Deck formats. A player may add any number of Cracked Baubles to their deck. Typically, a player would only do this if they did not have enough legally playable cards to make a 30 card minimum deck.)*	Generic Resource					
+FzFpckchjNncjDCnzQ7Tp	Cracker Bauble	2	0						Generic, Resource							When this is pitched, you and target opponent randomly choose opposite ends of this and pull them until this breaks in half. Then each hero creates the token on the back of their half, and this ceases to exist.	Generic Resource		No	No	No	No
 tbc6PrGdmPnPJkbN9DW9q	Cracker Jax				0				Generic, Equipment, Arms		Action	Go again				**Action** - Destroy Cracker Jax: The next attack action card you play this turn gains +1{p}. **Go again**	Generic Equipment - Arms					
 tmNrkK9dghWBkfmgLH7MG	Crackling	1	0	3	3				Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, this gets +1{p}.	Elemental Runeblade Action - Attack					
 DKNCGmjBWngRMjmTCbKLr	Crackling	2	0	2	3				Elemental, Runeblade, Action, Attack	Lightning Flow						**Lightning Flow** - If you've played a Lightning card this turn, this gets +1{p}.	Elemental Runeblade Action - Attack					
@@ -1637,13 +1652,13 @@ KWNMNMjTzTQMRK7FF9J6T	Crane Dance	3	0	1	3				Ninja, Action, Attack	Combo						**
 wc9L9bCGdNwhFrRD9Ntr6	Cranial Crush	3	6	8	3				Guardian, Action, Attack	Crush						**Crush** - When this deals 4 or more damage to a hero, they can't draw cards during their next action phase	Guardian Action - Attack				No	
 HDnfHcMqHHBkwtWpgbMPF	Crankshaft	1	2	5	3				Mechanologist, Action, Attack	Boost					Boost	"**Boost**
 
-When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
+When this is banished from boosting, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
 9fWDqPpBKjMCTghKhBW8p	Crankshaft	2	2	4	3				Mechanologist, Action, Attack	Boost						"**Boost**
 
-When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
+When this is banished from boosting, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
 NTCMFrrQdwdrKLnT8kcfc	Crankshaft	3	2	3	3				Mechanologist, Action, Attack	Boost						"**Boost**
 
-When this is banished from **boosting**, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
+When this is banished from boosting, put a steam counter on a Hyper Driver you control."	Mechanologist Action - Attack					
 bzBJdKw6Brc9KmtcNrJKp	Crash Down	1	3		3				Guardian, Action, Aura							At the start of your turn, destroy this, then the next Guardian attack action card you play this turn gets +6{p}.	Guardian Action - Aura				Yes	
 TgrNMPfTmLkB9DtNtkccP	Crash Down	2	3		3				Guardian, Action, Aura							At the start of your turn, destroy this, then the next Guardian attack action card you play this turn gets +5{p}.	Guardian Action - Aura				Yes	
 DbpdPtLqk9zqfp6bdQTP6	Crater Fist				2				Guardian, Equipment, Arms	Temper	Action	Go again			Crush	"**Action** - {r}{r}{r}, destroy Crater Fist: Your attacks with **crush** gain +2{p} this turn. **Go again**
@@ -2138,6 +2153,9 @@ When this hits a hero, put a -1{d} counter on an equipment they control."	Ranger
 G9mhTdpGKD9kzDnBtgdkP	Drink 'Em Under the Table	1	4	8	3				Guardian, Action, Attack	Betsy Specialization, Wager						"**Betsy Specialization**
 
 When this attacks a hero, you may **wager** with them. The winner draws a card, and the other hero discards a card."	Guardian Action - Attack				No	
+GjBLFNBbqRDNHcgKcFnnP	Drive Brake				1				Mechanologist, Equipment, Legs	Battleworn					Boost	"Whenever you banish a Hyper Driver from boosting, remove a -1{d} counter from this.
+
+**Battleworn**"	Mechanologist Equipment - Legs				No	
 gDcKMbmQqDqD6mkWBTqq8	Driving Blade	1	2		3				Warrior, Action	Go again			Go again			"Your next weapon attack this turn gains +3{p} and **go again**.
 
 **Go again**"	Warrior Action					
@@ -2373,6 +2391,7 @@ Mr6TbnRrKTrJWndKh8QwF	Empyrean Rapture								Light, Illusionist, Equipment, Che
 dJhftDhtgzGRMPCt7btf9	En Garde	1	1		3				Warrior, Action	Go again						"Your next weapon attack this turn gains +3{p}.
 
 **Go again**"	Warrior Action					
+jR8M7zkdc97kKqDjw7RWD	Enact Vengeance	1	2	6	3				Ninja, Action, Attack	Combo						"**Combo** - If Edge of Autumn or a card with Vengeance in its name was the last attack this combat chain, this gets ""When this hits a hero, destroy all cards in their arsenal."""	Ninja Action - Attack				No	
 dzMtpNHjPcPNCFFkrR9QJ	Encase	1	0		3			3	Elemental, Wizard, Action	Ice Fusion			Freeze			"**Ice Fusion**
 
 Deal 3 arcane damage to any target. If Encase was **fused** and deals damage to a hero, **freeze** that hero and all equipment they control until the start of your next turn."	Elemental Wizard Action				No	
@@ -2850,7 +2869,7 @@ If Fervent Forerunner is played from arsenal, it gains **go again**."	Generic Ac
 zQMMbcBbbRKKJcTwcCPPQ	Fervent Forerunner	3	0	1	2				Generic, Action, Attack	Opt 2, Go again						"If Fervent Forerunner hits, **opt 2**.
 
 If Fervent Forerunner is played from arsenal, it gains **go again**."	Generic Action - Attack					
-p7CLrzj7kGMtt8cLfMdqT	Fiddle-dee								Bard, Equipment, Arms		Action	Go again				**Action** - Destroy this: Each hero creates a Might token.  **Go again**	Bard Equipment - Arms				No	
+p7CLrzj7kGMtt8cLfMdqT	Fiddle-dee				0				Bard, Equipment, Arms		Action	Go again				**Action** - Destroy this: Each hero creates a Might token.  **Go again**	Bard Equipment - Arms				No	
 cWRWbKczR8N8F6nGBMNG7	Figment of Erudition	2	4						Light, Illusionist, Instant, Figment	Legendary						"**Legendary**
 
 When this enters the arena, create a Ponder token."	Light Illusionist Instant - Figment				No	
@@ -2890,6 +2909,9 @@ rtLfTrnFcDBQhtbFprGRD	First Tenet of Chi: Tide	3	0		3				Mystic, Action	Go again
 tCjqz6rHFKTmDpDkfHmzm	First Tenet of Chi: Wind	3	0		3				Mystic, Action	Go again			Go again			"The next blue action card you play this turn gets **go again**.
 
 Go again"	Mystic Action					
+PGCBWLPcTWcHRh7CwW8K7	Fist Pump				1				Mechanologist, Equipment, Arms	Battleworn					Boost	"Whenever you banish a Hyper Driver from boosting, target wrench you control gets +1{p} this turn.
+
+**Battleworn**"	Mechanologist Equipment - Arms				No	
 FwDRt9TR7CCJd9NnNBmfP	Fisticuffs								Generic, Equipment, Arms		Attack Reaction					**Attack Reaction** - {r}{r}, destroy Fisticuffs: Target attack action card gains +1{p}.	Generic Equipment - Arms					
 KthQj9HCRMDRfngK88kCw	Flail of Agony			1					Shadow, Runeblade, Weapon, Flail, 1H	Vynnset Specialization	Once per Turn Action	Attack				"**Vynnset Specialization**
 
@@ -3506,7 +3528,7 @@ PpQBJwQCfFrHzKM9TkcbD	Heart of Ice				1				Ice, Equipment, Chest	Arcane Barrier 
 **Arcane Barrier 1**
 
 **Blade Break**"	Ice Equipment - Chest				No	
-h7NLHrBf7dNmKLN8zqRLn	Heart-throb								Bard, Equipment, Chest		Action	Go again				**Action** - Destroy this: Each hero creates a Vigor token.  **Go again**	Bard Equipment - Chest				No	
+h7NLHrBf7dNmKLN8zqRLn	Heart-throb				0				Bard, Equipment, Chest		Action	Go again				**Action** - Destroy this: Each hero creates a Vigor token.  **Go again**	Bard Equipment - Chest				No	
 rQ7rcfpMdHMcLkTqtnfHz	Heartbeat of Candlehold	3	1		3				Earth, Wizard, Action	Verdance Specialization, Go again						"**Verdance Specialization**
 
 Gain 1{h}. Gain 1{h}. Gain 1{h}.
@@ -3844,16 +3866,16 @@ HCR9pfkgzwfMgnwHdt8TP	Hydraulic Press	3	3	4	3				Mechanologist, Action, Attack	S
 When this attacks, if it scrapped a card, this gets **overpower**."	Mechanologist Action - Attack				No	
 kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1	1						Mechanologist, Action, Item						Boost	"This enters the arena with 3 steam counters. When it has none, destroy it.
 
-Once per turn, when you **boost** a card, remove a steam counter from this and gain {r}."	Mechanologist Action - Item					
-zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2	1						Mechanologist, Action, Item						Boost	"Hyper Driver enters the arena with 2 steam counters on it. When Hyper Driver has no steam counters on it, destroy it.
+Once per turn, when you boost a card, remove a steam counter from this and gain {r}."	Mechanologist Action - Item					
+zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2	1						Mechanologist, Action, Item						Boost	"This enters the arena with 2 steam counters on it. When this has no steam counters on it, destroy it.
 
-Once per turn, when you **boost** a card, remove a steam counter from Hyper Driver and gain {r}."	Mechanologist Action - Item					
-chD7n8jHMM6brNhDGJtfG	Hyper Driver	3	1						Mechanologist, Action, Item						Boost	"Hyper Driver enters the arena with a steam counters on it. When Hyper Driver has no steam counters on it, destroy it.
+Once per turn, when you boost a card, remove a steam counter from this and gain {r}."	Mechanologist Action - Item					
+chD7n8jHMM6brNhDGJtfG	Hyper Driver	3	1						Mechanologist, Action, Item						Boost	"This enters the arena with a steam counters on it. When this has no steam counters on it, destroy it.
 
-Once per turn, when you **boost** a card, remove a steam counter from Hyper Driver and gain {r}."	Mechanologist Action - Item					
+Once per turn, when you boost a card, remove a steam counter from this and gain {r}."	Mechanologist Action - Item					
 FwwCqJKcNDNMjJn9mTCgg	Hyper Driver								Mechanologist, Token, Item						Boost	"When this has no steam counters, destroy it.
 
-Once per turn, when you **boost** a card, remove a steam counter from this and gain {r}."	Mechanologist Token - Item					
+Once per turn, when you boost a card, remove a steam counter from this and gain {r}."	Mechanologist Token - Item					
 mC76qgRmwnBBqMkgTTfJ8	Hyper Scrapper	3	X	2	3				Mechanologist, Action, Attack	Go Again						"As an additional cost to play this, banish X items from your graveyard.
 
 When this attacks it gets +X{p}. If 3 or more Hyper Drivers were banished to play this, gain {r}{r}{r} {r}{r}{r} and this gets **go again**."	Mechanologist Action - Attack				No	
@@ -4130,9 +4152,9 @@ Whenever you play an Ice card during an opponents turn, create a Frostbite token
 MqhJWhp7gnBLjtMwzwmm8	Jack-o'-lantern	1	0		2				Shadow, Runeblade, Action	Go again						Banish the top card of your deck. If it's red, create a Runechant token.	Shadow Runeblade Action				No	
 KmMWLT6fF88QdfKTJ9GFf	Jack-o'-lantern	2	0		2				Shadow, Runeblade, Action	Go again						Banish the top card of your deck. If it's yellow, create a Runechant token.	Shadow Runeblade Action				No	
 b9tmpTgLPfDhD6qDJ7FwD	Jack-o'-lantern	3	0		2				Shadow, Runeblade, Action	Go again						Banish the top card of your deck. If it's blue, create a Runechant token.	Shadow Runeblade Action				No	
-9QL68DDb9hCqhWWhgnQgR	Jarl Vetreiđi					40	4		Elemental, Guardian, Hero							"Whenever you play an Ice card, create a Frostbite token in an opponent's exposed head, chest, arms, or legs zone.
+9QL68DDb9hCqhWWhgnQgR	Jarl Vetreiði					40	4		Elemental, Guardian, Hero							"Whenever you play an Ice card, create a Frostbite token in an opponent's exposed head, chest, arms, or legs zone.
 
-**Essence of Earth and Ice**"	Elemental Guardian Hero				No	
+**Essence of Earth and Ice**"	Elemental Guardian Hero		No		No	
 GK6TKkztnwHHwqKPrGR9k	Jinglewood, Smash Hit			2					Bard, Weapon, Fiddle, 2H		Once per Turn Action, Action	Go again, Attack				"**Once per Turn Action** - {r}{r}{r}: Target opposing hero chooses and creates a Might, Quicken, or Vigor token. You create a Copper token. **Go again**
 
 **Action** - 0: **Attack**. When this hits, destroy it."	Bard Weapon - Fiddle (2H)					
@@ -4571,10 +4593,10 @@ tpCTjhFnCPJKBbPbRnFLM	Mauvrion Skies	3	0		2				Runeblade, Action	Go again			Go a
 
 **Go again**"	Runeblade Action				No	
 mkDw7d9PKRDtJT7bCCRjh	Maximum Velocity	1	2	10	3				Mechanologist, Action, Attack						Boost	Play this only if you've **boosted** 3 or more times this turn.	Mechanologist Action - Attack				No	
-tqBKqzRbFHWtBLQ7hhDgW	Maxx 'The Hype' Nitro					40	4		Mechanologist, Hero		Once Per Turn Action		Crank		Boost	"**Once per Turn Action** - {r}{r}: Create a Hyper Driver token with 2 steam counters.  Activate this ability only if you've **boosted** this turn.
+tqBKqzRbFHWtBLQ7hhDgW	Maxx 'The Hype' Nitro					40	4		Mechanologist, Hero		Once Per Turn Action		Crank		Boost	"**Once per Turn Action** - {r}{r}: Create a Hyper Driver token with 2 steam counters.  Activate this ability only if you've boosted this turn.
 
 Hyper Drivers you control get **crank**."	Mechanologist Hero		No		No	
-z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro					20	4		Mechanologist, Hero, Young		Once Per Turn Action		Crank		Boost	"**Once per Turn Action** - {r}{r}: Create a Hyper Driver token with 2 steam counters.  Activate this ability only if you've **boosted** this turn.
+z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro					20	4		Mechanologist, Hero, Young		Once Per Turn Action		Crank		Boost	"**Once per Turn Action** - {r}{r}: Create a Hyper Driver token with 2 steam counters.  Activate this ability only if you've boosted this turn.
 
 Hyper Drivers you control get **crank**."	Mechanologist Hero - Young			No		No
 rpF86BNmBttKMGpckqJnq	Meat and Greet	1	1	4	3				Runeblade, Action, Attack	Go again						"When this hits, create a Runechant token.
@@ -4850,7 +4872,7 @@ Search your deck for an arrow card, reveal it, then shuffle your deck and put it
 **Reload**
 
 **Go again**"	Ranger Action				No	
-GkMGqFmbbrpwRCGHJknjt	Nom de Plume								Bard, Equipment, Head		Action	Go again				**Action** - Destroy this: Each hero draws a card.  **Go again**	Bard Equipment - Head				No	
+GkMGqFmbbrpwRCGHJknjt	Nom de Plume				0				Bard, Equipment, Head		Action	Go again				**Action** - Destroy this: Each hero draws a card.  **Go again**	Bard Equipment - Head				No	
 CGhtqrGGT7TL9C89GjF8R	Northern Winds	3	0		2				Ice, Action	Oldhim Specialization, Unity, Freeze						"**Oldhim Specialization**
 
 **Freeze** up to 1 equipment, item, and/or ally each hero controls.
@@ -4928,16 +4950,16 @@ rC98Cch9DNGTfpggrNBh6	On a Knife Edge	2	0		2				Generic, Action	Go again			Go ag
 pFLwpNDCLLMNtd7rRqNMf	One-Two Punch	1	0	3	3				Ninja, Action, Attack	Combo						"**Combo** - If Head Jab was the last attack this combat chain, this has ""When this hits a hero, deal 2 damage to them."""	Ninja Action - Attack					
 nCKMcTCR7mjKgkhQk7TWc	One-Two Punch	2	0	2	3				Ninja, Action, Attack	Combo						"**Combo** - If Head Jab was the last attack this combat chain, this has ""When this hits a hero, deal 2 damage to them."""	Ninja Action - Attack					
 TrQFGjDB6ktDwC6JMcqFT	One-Two Punch	3	0	1	3				Ninja, Action, Attack	Combo						"**Combo** - If Head Jab was the last attack this combat chain, this has ""When this hits a hero, deal 2 damage to them."""	Ninja Action - Attack					
-TkCWdhw8pfcpfckC9MLNm	Open the Center	1	2	5	3			3	Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack					
-BfQnT8rqMhTBmDWCFgdhW	Open the Center	2	2	4	3			2	Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack					
-CChttCnwGwHMcBKm6LhNR	Open the Center	3	2	3	3			1	Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack					
-FwtKQ8HK8JLbHFWbFQDPg	Open the Flood Gates	1	2		3				Wizard, Action	Surge						"Deal 3 arcane damage to target hero.
+TkCWdhw8pfcpfckC9MLNm	Open the Center	1	2	5	3				Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack					
+BfQnT8rqMhTBmDWCFgdhW	Open the Center	2	2	4	3				Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack					
+CChttCnwGwHMcBKm6LhNR	Open the Center	3	2	3	3				Ninja, Action, Attack	Combo, Go again, Dominate						**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.	Ninja Action - Attack					
+FwtKQ8HK8JLbHFWbFQDPg	Open the Flood Gates	1	2		3			3	Wizard, Action	Surge						"Deal 3 arcane damage to target hero.
 
 **Surge** - If this deals more than 3 damage, draw 2 cards."	Wizard Action					
-NHdBTDcjh8hGJBKPpcgQ9	Open the Flood Gates	2	2		3				Wizard, Action	Surge						"Deal 2 arcane damage to target hero.
+NHdBTDcjh8hGJBKPpcgQ9	Open the Flood Gates	2	2		3			2	Wizard, Action	Surge						"Deal 2 arcane damage to target hero.
 
 **Surge** - If this deals more than 2 damage, draw 2 cards."	Wizard Action					
-jBbnKk8wHjT9GG7fMzkdJ	Open the Flood Gates	3	2		3				Wizard, Action	Surge						"Deal 1 arcane damage to target hero.
+jBbnKk8wHjT9GG7fMzkdJ	Open the Flood Gates	3	2		3			1	Wizard, Action	Surge						"Deal 1 arcane damage to target hero.
 
 **Surge** - If this deals more than 1 damage, draw 2 cards."	Wizard Action					
 6Wcpcb7DQ8GMGMTwjdQTR	Optekal Monocle	3	0						Mechanologist, Action, Item		Action	Opt 1, Go again				"Optekal Monocle enters the arena with 5 steam counters on it. When Optekal Monocle has no steam counters on it, destroy it.
@@ -5539,6 +5561,9 @@ You may choose a card revealed this way. If you do, that hero puts it on the bot
 cBbDbtL7FMKjqwNQpkWQ6	Pry	3	0		3				Wizard, Action							"Target hero reveals a card from their hand. If Pry is played during an opponents turn, instead they reveal all cards in their hand.
 
 You may choose a card revealed this way. If you do, that hero puts it on the bottom of their deck then draws a card."	Wizard Action					
+fJTDNGKmzzzmwzrpCdgbT	Puffer Jacket				2				Mechanologist, Equipment, Chest	Temper						"Non-token Hyper Drivers you control enter the arena with an additional steam counter.
+
+**Temper**"	Mechanologist Equipment - Chest				No	
 Hpdjj6RbkDfKMmNqQmwTR	Pulping	1	2	6					Brute, Action, Attack	Dominate, Go again						"When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **dominate**.
 
 If this is defended by fewer than 2 non-equipment cards, it gets **go again**."	Brute Action - Attack				No	
@@ -5664,7 +5689,7 @@ The next attack you **boost** this turn gets +2{p}.
 MLc97c6bqmKcPCtNg9M9q	Quicksilver Dagger			1					Warrior, Weapon, Dagger, 1H	Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 If another weapon you control has gained **go again** this turn, this card's attacks get **go again**."	Warrior Weapon - Dagger (1H)					
-DmpnhzMR7WhCgkFWncRkk	Quickstep								Bard, Equipment, Legs		Action	Go again				**Action** - Destroy this: Each hero creates a Quicken token.  **Go again**	Bard Equipment - Legs				No	
+DmpnhzMR7WhCgkFWncRkk	Quickstep				0				Bard, Equipment, Legs		Action	Go again				**Action** - Destroy this: Each hero creates a Quicken token.  **Go again**	Bard Equipment - Legs				No	
 FcJ9DMBN6LLbBJGhJ9Kkt	Quiver of Abyssal Depths								Ranger, Equipment, Quiver		Instant					**Instant** - {r}{r}{r}, destroy Quiver of Abyssal Depths: Shuffle up to 3 arrows with different names from your graveyard into your deck.	Ranger Equipment - Quiver				No	
 Pc9dDNQmwKnmDbgf6jrLH	Quiver of Rustling Leaves								Ranger, Equipment, Quiver		Instant					**Instant** - {r}{r}{r}: Reveal the top card of your deck. If it's an arrow, put it face up into your arsenal and destroy Quiver of Rustling Leaves.	Ranger Equipment - Quiver				No	
 GcD9dDfgTK8tmn7H8ccTk	Radiant Flow								Light, Equipment, Legs		Instant					**Instant** - Banish this and a card from your hero's soul: Prevent the next 2 damage that would be dealt to your hero this turn.	Light Equipment - Legs					
@@ -6295,7 +6320,7 @@ tMDDnhBrcpCL8c9MW7BgC	Rushing River	3	0	1	3				Ninja, Action, Attack	Combo, Go a
 CCwMfr7DptzKNpLPDwtDc	Rusted Relic	3	0						Generic, Action, Item	Arcane Barrier 1						**Arcane Barrier 1**	Generic Action - Item				No	
 hRMhmf8qkn6pR7TWQLqgb	Ruu'di, Gem Keeper					40	4		Hero, Merchant		Once per Turn Action	Go again				"You may only have PSA graded cards in your deck.
 
-**Once per Turn Action** - {r}: Reveal the top card of your deck. If it's graded Gem Min 10, put it into your hand, otherwise each opponent may draw a card. **Go again**"	Hero - Merchant		No	No	No	No
+**Once per Turn Action** - {r}: Reveal the top card of your deck. If it's graded Gem Mint 10, put it into your hand, otherwise each opponent may draw a card. **Go again**"	Hero - Merchant		No	No	No	No
 bdCCWJQKkgjTNrH8PbnwQ	Sack the Shifty	1	0	4	3				Assassin, Action, Attack	Contract					Go again	"**Contract** - You are contracted to banish opponents' cards with base **go again**. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."	Assassin Action - Attack					
@@ -7275,6 +7300,9 @@ wdbnJz7TQDCJ6gWW7WNch	Spinning Wheel Kick	3	1	2	2				Ninja, Action, Attack	Combo
 Ngbkbt7KfrCHnQkTPJRb8	Spire Sniping	1	1	5	3				Ranger, Action, Arrow, Attack							When Spire Sniping is put or turned face up in arsenal, look at the top 2 cards of your deck, then put them back in any order.	Ranger Action - Arrow Attack					
 bN6pjwhzgGhMm8brnpPg9	Spire Sniping	2	1	4	3				Ranger, Action, Arrow, Attack							When Spire Sniping is put or turned face up in arsenal, look at the top 2 cards of your deck, then put them back in any order.	Ranger Action - Arrow Attack					
 mPJPLJJrjTgtK9PkhWCqb	Spire Sniping	3	1	3	3				Ranger, Action, Arrow, Attack							When Spire Sniping is put or turned face up in arsenal, look at the top 2 cards of your deck, then put them back in any order.	Ranger Action - Arrow Attack					
+bQ8GJhJQwBd9JRFkcJQqG	Spirit of Christmas	3	0		3				Generic, Action	Go again						"Each hero chooses another hero. The chosen hero creates an Agility, Might, Vigor, and Gold token.
+
+**Go again**"	Generic Action		No	No	No	No
 hcRgHbGGNmwCTQMBF6CQh	Spirit of Eirina	2	0						Light, Warrior, Action, Item	Legendary						"**Legendary**
 
 If Spirit of Eirina would be put into your soul, instead put it into the arena.
@@ -7321,13 +7349,13 @@ When this hits a hero, remove all steam counters from an equipment, item, or wea
 g8DJ9bCBRCD6hLtGrzkQh	Springboard Somersault	2	0		2				Generic, Defense Reaction							If Springboard Somersault is played from arsenal, it gains +2{d}.	Generic Defense Reaction					
 dzMTMbL8qfHbFmCJB8GG7	Sprocket Rocket	1	0	3	3				Mechanologist, Action, Attack	Boost						"**Boost**
  
-If an item or equipment was banished from **boosting** this, this gets +1{p}."	Mechanologist Action - Attack					
+If an item or equipment was banished from boosting this, this gets +1{p}."	Mechanologist Action - Attack					
 kQRmk6tcgNqLqhd887DBB	Sprocket Rocket	2	0	2	3				Mechanologist, Action, Attack	Boost						"**Boost**
  
-If an item or equipment was banished from **boosting** this, this gets +1{p}."	Mechanologist Action - Attack					
+If an item or equipment was banished from boosting this, this gets +1{p}."	Mechanologist Action - Attack					
 WbWjnqbPBLjTN8rnbHhDD	Sprocket Rocket	3	0	1	3				Mechanologist, Action, Attack	Boost						"**Boost**
  
-If an item or equipment was banished from **boosting** this, this gets +1{p}."	Mechanologist Action - Attack					
+If an item or equipment was banished from boosting this, this gets +1{p}."	Mechanologist Action - Attack					
 czfMfgfthg6qKLtKBMQjD	Squizzy & Floof					20	4		Merchant, Hero, Young							At the start of each opposing hero's turn, they may create a Cracked Bauble in their hand. If they do, you create a Gold token.	Merchant Hero - Young		No	No	No	No
 kGnRg6Kgz9P68LnjncPGj	Stab Wound	3	0	2	3				Assassin, Ninja, Action, Attack							When this hits a hero, they lose X{h}, where X is the number of times a dagger has hit this combat chain.	Assassin / Ninja Action - Attack				No	
 jW9jRfpRdt7tWjpdNCTCz	Stacked in Your Favor	1	2		2				Guardian, Action, Aura	Go again						"**Go again**
@@ -7616,16 +7644,16 @@ tPW6ffbwKnNCWf9hKLKTN	Symbiosis Shot			2					Mechanologist, Weapon, Gun, 2H	Dash
 Whenever a Mechanologist item enters the arena under your control, if this has fewer than 6 steam counters, you may put a steam counter on this."	Mechanologist Weapon - Gun (2H)					
 GTWTq8HRqQM9nCCqQcTPD	System Failure	2	1		2				Mechanologist, Action							Remove all steam counters from target equipment, item, or weapon. If 2 or more steam counters are removed this way, deal 2 damage to its controler.	Mechanologist Action				No	
 bh7RktHmCjjn9mKNmT6QK	System Reset	2	X		3				Mechanologist, Action							Banish X Mechanologist items you control with cost 0 or 1, then return them to the arena under their owners' control.	Mechanologist Action				No	
-7kwDMdkW6h7bMH8ctTjPC	T-Bone	1	0	3	3				Mechanologist, Action, Attack	Boost					Boost	"If you control a card on the combat chain that was boosted, the defending hero must defend T-Bone with an equipment they control if able.
+7kwDMdkW6h7bMH8ctTjPC	T-Bone	1	0	3	3				Mechanologist, Action, Attack	Boost					Boost	"If you control a card on the combat chain that was boosted, the defending hero must defend this with an equipment they control if able.
 
 **Boost**"	Mechanologist Action - Attack				No	
-QkHWwDgWHtWPqbHHrcBLM	T-Bone	2	0	2	3				Mechanologist, Action, Attack	Boost					Boost	"If you control a card on the combat chain that was boosted, the defending hero must defend T-Bone with an equipment they control if able.
+QkHWwDgWHtWPqbHHrcBLM	T-Bone	2	0	2	3				Mechanologist, Action, Attack	Boost					Boost	"If you control a card on the combat chain that was boosted, the defending hero must defend this with an equipment they control if able.
 
 **Boost**"	Mechanologist Action - Attack				No	
-zqDHmd6wGQKW8HFHd7BNP	T-Bone	3	0	1	3				Mechanologist, Action, Attack	Boost					Boost	"If you control a card on the combat chain that was boosted, the defending hero must defend T-Bone with an equipment they control if able.
+zqDHmd6wGQKW8HFHd7BNP	T-Bone	3	0	1	3				Mechanologist, Action, Attack	Boost					Boost	"If you control a card on the combat chain that was boosted, the defending hero must defend this with an equipment they control if able.
 
 **Boost**"	Mechanologist Action - Attack				No	
-FtGCjcNCNGg9MkDMwtKCN	Taipanis, Dracai of Judgement								Draconic, Adjudicator, Hero							The first time each turn another hero becomes the target of a source that would deal lethal damage, you may discard a red card. If you do, choose new targets for that source.	Draconic Adjudicator Hero		No	No	No	No
+FtGCjcNCNGg9MkDMwtKCN	Taipanis, Dracai of Judgement					20	4		Draconic, Adjudicator, Hero							The first time each turn another hero becomes the target of a source that would deal lethal damage, you may discard a red card. If you do, choose new targets for that source.	Draconic Adjudicator Hero		No	No	No	No
 hFhjbTW96DmWQPBP8C8HF	Take Aim	1	0		2				Ranger, Action	Reload, Go again						"The next Ranger attack action card you play this turn, gains +3{p}.
 
 **Reload**
@@ -8127,6 +8155,11 @@ RrMqgK8fbbhbJMTqcKbdM	Twin Twisters	3	1	1	2				Ninja, Action, Attack	Go again			
 **Go again**"	Ninja Action - Attack					
 NGbpwjFhL9rLHN7zKChnW	Twinkle Toes				0				Lightning, Equipment, Legs		Instant					**Instant** - Destroy this: Prevent the next 2 damage that would be dealt to you this turn. Activate this only if you've played an instant card this turn.	Lightning Equipment - Legs					
 hcrwmGkbzW8zBft77cKpj	Twinning Blade	2	0		3				Warrior, Attack Reaction							You may attack an additional time with target sword this turn.	Warrior Attack Reaction				No	
+CdpKjkTrwkF8rBrG8pCTd	Twintek Charging Station	1	0		2				Mechanologist, Action	Go again					Boost	"The next attack you boost this turn gets +3{p}.
+
+You may shuffle a Hyper Driver from your graveyard into your deck. If you do, gain {r}.
+
+**Go again**"	Mechanologist Action				No	
 gmR7DG76HhtdgwwTqQngT	Under Loop	1	1	4	3				Mechanologist, Action, Attack	Boost						"**Boost**
 
 When this hits, put it on the bottom of its owner's deck."	Mechanologist Action - Attack				Yes	
@@ -8214,7 +8247,7 @@ pN9zPNQfc6GGrwdgMBLkj	Ursur, the Soul Reaper			6		6			Shadow, Token, Demon, Ally
 
 While Ursur is attacking a hero with 1 or more cards in their soul, the attack has **go again**."	Shadow Token - Demon Ally					
 QmqN6fJJMnLDjLHKF7g97	Uzuri					20	4		Assassin, Hero, Young		Once per Turn Attack Reaction				Stealth	**Once per Turn Attack Reaction** - Banish a card from your hand face down: Turn the card banished this way face up. If it's an attack action card with cost 2 or less, put target attacking card with **stealth** from the active chain link on the bottom of its owner's deck, then put the banished card onto the active chain link as the attacking card.	Assassin Hero - Young			No		No
-rNhtnPWtDDBzBp7mNdQtT	Uzuri, Switchblade					40	4		Assassin, Hero		Once per Turn Attack Reaction				Stealth	**Once per Turn Attack Reaction** - Banish a card from your hand face down: Turn the card banished this way face up. If it's an attack action card with cost 2 or less, put target attacking card with **stealth** from the active chain link on the bottom of its owner's deck, then put the banished card onto the active chain link as the attacking card.	Assassin Hero				No	
+rNhtnPWtDDBzBp7mNdQtT	Uzuri, Switchblade					40	4		Assassin, Hero		Once per Turn Attack Reaction				Stealth	**Once per Turn Attack Reaction** - Banish a card from your hand face down: Turn the card banished this way face up. If it's an attack action card with cost 2 or less, put target attacking card with **stealth** from the active chain link on the bottom of its owner's deck, then put the banished card onto the active chain link as the attacking card.	Assassin Hero		No		No	
 7cWwd7rnKPhmw7hTnTqKm	V for Valor	1	0		2				Light, Warrior, Action, Aura		Attack Reaction	Charge				**Attack Reaction** - {r}, destroy this, **charge** your hero's soul: Target attack gains +3{p}.	Light Warrior Action - Aura				No	
 dhwrK7dkJkdwjFBjJWHg9	V for Valor	2	0		2				Light, Warrior, Action, Aura		Attack Reaction	Charge				**Attack Reaction** - {r}, destroy this, **charge** your hero's soul: Target attack gains +2{p}.	Light Warrior Action - Aura				No	
 hwbbCj8CLCtFCrtDqtJNC	V for Valor	3	0		2				Light, Warrior, Action, Aura		Attack Reaction	Charge				**Attack Reaction** - {r}, destroy this, **charge** your hero's soul: Target attack gains +1{p}.	Light Warrior Action - Aura				No	
