@@ -865,3 +865,4 @@ TODO:
 - Updated functional text for Codex of Frailty, Head Shot, Life for a Life, Scar for a Scar, and Trade In
 - Updated Argh... Smash! to use 3 periods instead of one unicode character
 - Updated Blitz Living Legend status for Victor Goldmane and Miller's Grindstone
+- Fixed issue with Jarl Vetreiði missing the Essence of Earth and Ice keyword
