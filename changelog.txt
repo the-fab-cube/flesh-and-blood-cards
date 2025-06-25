@@ -841,3 +841,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated Blitz Legality for Channel Lightning Valley, Count Your Blessings, Flicker Wisp, and Storm Striders
 - Updated LL Legality for Carrion Husk, Crown of Seeds, Deadwood Dirge, Succumb to Temptation, and Hypothermia
 - Updated Commoner Legality for Reality Refractor
+
+06-24-25:
+- Added card data for Iris of the Blossom and Okana Scar Wraps
