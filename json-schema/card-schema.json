@@ -13,6 +13,10 @@
                 "description": "The name of the card.",
                 "type": "string"
             },
+            "color": {
+                "description": "The color of the card's pitch strip. Can be Red, Yellow, Blue, or blank.",
+                "type": "string"
+            },
             "pitch": {
                 "description": "The pitch value of the card. Can be a number or blank.",
                 "type": "string"
@@ -379,6 +383,7 @@
         "required": [
             "unique_id",
             "name",
+            "color",
             "pitch",
             "cost",
             "power",
