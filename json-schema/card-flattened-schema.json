@@ -45,6 +45,14 @@
                     "type": "string"
                 }
             },
+            "traits": {
+                "description": "The traits of the card.",
+                "type": "array",
+                "items": {
+                    "description": "An individual trait.",
+                    "type": "string"
+                }
+            },
             "card_keywords": {
                 "description": "The keywords inherent to the card. Includes conditional keywords, but does not include keywords that are part of the card's activated and triggered abilities.",
                 "type": "array",
@@ -350,6 +358,7 @@
             "health",
             "intelligence",
             "types",
+            "traits",
             "card_keywords",
             "abilities_and_effects",
             "ability_and_effect_keywords",

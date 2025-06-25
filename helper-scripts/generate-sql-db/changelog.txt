@@ -69,3 +69,6 @@
 
 10-16-24:
 - Fixed an issue where card upload function was failing to insert rows
+
+06-25-25:
+- Updated card table to have new traits field
