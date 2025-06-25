@@ -4718,6 +4718,9 @@ KWR8NHg7qbrP9rnbfWPr7	Invoke Vynserakai	1	3		3				Draconic, Illusionist, Action,
 GCRQMpBtqBHWrk68GqnGP	Ira, Crimson Haze					20	4		Ninja, Hero, Young							Your second attack each turn gets +1{p}.	Ninja Hero - Young			No		No
 DBKWbWMbrt7WK7KwmNQRL	Ira, Scarlet Revenger					40	4		Ninja, Hero							Your second attack each turn gets +1{p}.	Ninja Hero		No		No	
 W8h8fMQhbjGr6hzDbFmq7	Iris of Reality								Illusionist, Weapon, Orb, 2H				Attack, Go again			During your action phase, Illusionist auras you control are weapons with 4{p} and **Once per Turn Action** - {r}{r}{r}: **Attack. Go again**	Illusionist Weapon - Orb (2H)					
+MNKMPhrDfjjDqqBJW99jk	Iris of the Blossom				2				Ninja, Equipment, Head	Blade Break	Instant					"**Instant** - {t}, discard a card: Search your deck for a Whirling Mist Blossom, banish it, then shuffle. You may play it this turn. Activate this only if you've hit this turn.
+
+**Blade Break**"	Ninja Equipment - Head				No	
 FWzdtMmz6kCcWBpWDMLmM	Ironhide Gauntlet				0				Generic, Equipment, Arms							"When you defend with Ironhide Gauntlet, you may pay {r}. If you do, it gains +2{d} and ""When the combat chain closes, destroy Ironhide Gauntlet."""	Generic Equipment - Arms					
 kJJJmpKfCzqkzCM9DW9Nw	Ironhide Helm				0				Generic, Equipment, Head							"When you defend with Ironhide Helm, you may pay {r}. If you do, it gains +2{d} and ""When the combat chain closes, destroy Ironhide Helm."""	Generic Equipment - Head					
 d7FgThnkGzdhQBPmFgnrn	Ironhide Legs				0				Generic, Equipment, Legs							"When you defend with Ironhide Legs, you may pay {r}. If you do, it gains +2{d} and ""When the combat chain closes, destroy Ironhide Legs."""	Generic Equipment - Legs					
@@ -5746,6 +5749,11 @@ DWcKpdjNKBcK67WpPb9Qf	Ode to Wrath	2	4						Light, Illusionist, Instant, Aura	Sp
 Illusionist attack action cards you control have **go again**.
 
 **Spectra**"	Light Illusionist Instant - Aura				No	
+ph6zmRnbqhCtD7T7FwpdB	Okana Scar Wraps				2				Ninja, Equipment, Arms	Blade Break	Attack Reaction					"**Attack Reaction** - {t}, banish an Edge of Autumn you control: Target Ninja attack action card gets +1{p}.
+
+Whenever an attack you control with Vengeance in its name hits, you may equip an Edge of Autumn from your banished zone.
+
+**Blade Break**"	Ninja Equipment - Arms				No	
 KTh89nLtmJWQcQQJPwgDW	Old Knocker				1				Generic, Equipment, Chest	Blade Break	Instant					"**Instant** - {t} your hero, destroy this: Gain {r}
 
 Blade Break"	Generic Equipment - Chest					
