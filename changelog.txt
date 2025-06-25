@@ -848,8 +848,14 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for Iris of the Blossom and Okana Scar Wraps
 
 TODO:
+<<<<<<< HEAD
 - Added set data for AST, GEM and HNT - data entry assistance: manwaring
 - Added card data for AST and HNT - data entry assistance: manwaring
+=======
+- Breaking: Added Trait field to card.csv
+- Added set data for AST, GEM and HNT
+- Added card data for AST and HNT
+>>>>>>> the-hunters
 - Added card data for Magrar and Scarf for a Scarf
 - Added printing data for AST001-AST028, FAB229, FAB244, FAB255-FAB259 FAB279-FAB288, FAB290-FAB293, FAB305, FAB324, FAB333, GEM001-GEM032, HER124-HER134, JDG038-JDG044, LGS369-LGS381, LSS019, and WIN041-WIN045 - data entry assistance: manwaring
 - Added missing images for FAB307-FAB320 FAB323, LGS360, LGS364-LGS368
