@@ -131,7 +131,7 @@ const formatRarity = (rarity) => {
 }
 
 const splitDFCIntoTwoEntries = (productDetail, index, array) => {
-    if (productDetail.name.includes("//") && productDetail.cardId.includes("//")) {
+    if (productDetail.name.includes("//") && productDetail.cardId?.includes("//")) {
 
         const splitName = productDetail.name.split("//")
         const splitCardId = productDetail.cardId.split("//")

@@ -6,3 +6,6 @@
 
 01-29-25:
 - Updated an error message to be more accurate
+
+06-26-25:
+- Update fetch-group-product-details splitDFCIntoTwoEntries function to handle null cardIDs
