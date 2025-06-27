@@ -854,6 +854,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for Magrar and Scarf for a Scarf
 - Added printing data for ARK, CIN, FNG, and WOD cards
 - Added printing data for AST001-AST028, FAB229, FAB244, FAB255-FAB259 FAB279-FAB288, FAB290-FAB293, FAB305, FAB324, FAB333, GEM001-GEM032, HER124-HER134, JDG038-JDG044, LGS369-LGS381, LSS019, and WIN041-WIN045 - data entry assistance: manwaring
+- Added printing data for foil versions of AJV013, AJV017, AJV018, and AJV020 - data entry credit: edhebi
 - Added missing images for FAB307-FAB320 FAB323, LGS360, LGS364-LGS368
 - Updated functional text for Back Stab, Blaze Headlong, Cinderskin Devotion, Cracked Bauble, Erase Face, Lava Vein Loyalty, Razor's Edge, and Razor Reflex
 - Updated TCC107 Vigor printing's Art Variation to be AA
