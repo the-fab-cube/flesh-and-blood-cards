@@ -865,7 +865,7 @@ TODO:
 - Added card data for AGB, APR, AVS, BDD, MPG, SEA, and SMP - data entry assistance: manwaring, Toaster-404
 - Added card data for Batter to a Pulp, Draw a Crowd, and Promising Terrain - data entry assistance: manwaring
 - Added printing data for AGB, APR, AVS, BDD, MPG, SEA, and SMP - data entry assistance: manwaring
-- Added printing data for HER135, LGS387, LGS389-LGS390, and LGS395-LGS413 - data entry assistance: manwaring
+- Added printing data for GEM033-GEM068, HER135, LGS387, LGS389-LGS390, and LGS395-LGS413 - data entry assistance: manwaring
 - Added missing images for FAI cards
 - Adding TCGPlayer IDs for FAI001, FLR011, FLR026, and FLR029
 - Added Go Fish and Unlimited keywords
