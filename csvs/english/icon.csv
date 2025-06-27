@@ -4,3 +4,5 @@ Shorthand	Name
 {d}	Defense Value
 {h}	Life (of a hero card)
 {I}	Intellect (of a hero card)
+{t}	Tap
+{u}	Untap

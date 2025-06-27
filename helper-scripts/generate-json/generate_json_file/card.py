@@ -68,6 +68,7 @@ def generate_json_file():
             card_object['unique_id'] = card_unique_id
 
             card_object['name'] = row['Name']
+            card_object['color'] = row['Color']
             card_object['pitch'] = row['Pitch']
             card_object['cost'] = row['Cost']
             card_object['power'] = row['Power']

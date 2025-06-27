@@ -29,6 +29,7 @@ g6BD6HNFJBRDDdwD9kBWK	Freeze	A **frozen** object can't be played or activated.
 rwhcqgpkPpTtFrNM6n7Pw	Fusion	**Fusion** is a keyword that **fuses** one or more elements with an elemental card to give an additional effect.
 jrGkNBJRdJDK9BPp7qGbf	Galvanize	
 mmf6BdTtrbCGrhdhg8K9g	Go again	**Go again** allows multiple actions to be played in a turn, when usually playing an action would use up your action point, and therefore end your turn. A card with **go again** gives the controller of that card or activated ability 1 action point when it resolves.
+cHmQnQCNKmq8BRJ6kT9ch	Go Fish	
 JpQHgf9ttGqRjHjW6rgR8	Guardwell	
 hbjfTFTQmCR9FjzP7DWGK	Heave X	At the beginning of your end phase, if this is in your hand and you have an empty arsenal zone, you may pay X and put this face up into your arsenal. If you do, create X Seismic Surge tokens.
 RkjqDPNHf78knQNQGpTbP	Heavy	
@@ -42,6 +43,7 @@ KjHmzrtCdmW698JjW8J6j	Negate	**Negating** a card on a layer of the chain will pr
 bfRPRwTzzCPNRmNbfhdq7	Opt X	**Opt** is a keyword that allows you to look at the top X cards and put any number of them on the top and/or bottom of your deck in any order.
 pWczCNRqmhC9Cp9wNPCK9	Overpower	The defending hero can't defend this with more than one action card.
 mFCtFC79DRMhbJf9MTNBL	Pairs	
+kKkfLpzkL9bzzT6MPHd7b	Perched	This can be equipped in addition to a 2H weapon. This can't be attacked while it's equipped.
 GQfWb9GwKkw9RNrK6L6B9	Phantasm	**Phantasm** is a keyword that exists on Illusionist attacks. Illusionist attacks with **phantasm** are powerful but fragile. When an attack with **phantasm** is defended by a 6{p}+ non-Illusionist attack action card, the attack is destroyed and the combat chain closes.
 FqH7Rt8PDdWccP9RGMFbL	Piercing X	If this is defended by an equipment, it has +X{p}.
 LNcJ8JT8MtHcJkwtHtmm9	Protect	
@@ -56,6 +58,7 @@ bbpQG8LjWGCDk7GDzf686	Scrap
 cjn8CBRWPmdG8fwJNTBJt	Specialization	You may only have this card in your deck if your hero is the specified hero.
 fDbLqGWBhWhTmJhGmdKQc	Spectra	**Spectra** is a keyword that exists on Illusionist Aura cards. When a player is deciding who to target for an attack they may elect to target an Aura with the keyword **spectra**. When an Aura with **spectra** is attacked, destroy it and close the combat chain. The attack will not resolve and the combat chain closes.
 f8Tw8JfDjQhjrtkLLcBKt	Spellvoid X	**Spellvoid** is a keyword primarily on equipment or items. **Spellvoid** is a one time use effect that prevents arcane damage.
+Hf7NC8dzdQnDFbD8jb6cq	Steal	
 gkcpTQwRjMPTtRkrHpDhT	Stealth	
 CKRGw9dCnNdKpNTdTBqgz	Surge	**Surge** is an effect that applies if a card deals more arcane damage than it's printed amount.
 RnrzPrG6KfnCPhDCF8bpB	Temper	**Temper** is a keyword that exists on equipment. Usually high in defense, **Temper** equipment presents a choice when it is down to 1{d}, of whether to defend with it one last time and see it destroyed, or save it to use for its ability.
@@ -65,5 +68,7 @@ hGzPP7bNMQJWNJ8QzQhDQ	Transform	An Illusionist mechanic that puts specified obje
 hDqkbTcqj9Fmr7m8TKKCz	Unfreeze	Removes **Freeze** from an object.
 H6QfMpMdgD8Fhcfqgq6rm	Unity	
 tkB9tfFWLbkpqfNJwpTWF	Universal	
+GQBrF9G7LHGCcpCNW7bMW	Unlimited	
 k9Tt9gnfKHKFHHmq9LTnG	Wager	
 hWpPNJ8jcqTHpgnQcPNkm	Ward X	If your hero would be dealt damage, prevent X of that damage and destroy this.
+bw6qfzzWmNRWgJkNk6kHd	Watery Grave	

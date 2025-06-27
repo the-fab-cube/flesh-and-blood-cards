@@ -180,6 +180,12 @@
         "description_plain": "Go again allows multiple actions to be played in a turn, when usually playing an action would use up your action point, and therefore end your turn. A card with go again gives the controller of that card or activated ability 1 action point when it resolves."
     },
     {
+        "unique_id": "cHmQnQCNKmq8BRJ6kT9ch",
+        "name": "Go Fish",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "JpQHgf9ttGqRjHjW6rgR8",
         "name": "Guardwell",
         "description": "",
@@ -256,6 +262,12 @@
         "name": "Pairs",
         "description": "",
         "description_plain": ""
+    },
+    {
+        "unique_id": "kKkfLpzkL9bzzT6MPHd7b",
+        "name": "Perched",
+        "description": "This can be equipped in addition to a 2H weapon. This can't be attacked while it's equipped.",
+        "description_plain": "This can be equipped in addition to a 2H weapon. This can't be attacked while it's equipped."
     },
     {
         "unique_id": "GQfWb9GwKkw9RNrK6L6B9",
@@ -342,6 +354,12 @@
         "description_plain": "Spellvoid is a keyword primarily on equipment or items. Spellvoid is a one time use effect that prevents arcane damage."
     },
     {
+        "unique_id": "Hf7NC8dzdQnDFbD8jb6cq",
+        "name": "Steal",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "gkcpTQwRjMPTtRkrHpDhT",
         "name": "Stealth",
         "description": "",
@@ -396,6 +414,12 @@
         "description_plain": ""
     },
     {
+        "unique_id": "GQBrF9G7LHGCcpCNW7bMW",
+        "name": "Unlimited",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "k9Tt9gnfKHKFHHmq9LTnG",
         "name": "Wager",
         "description": "",
@@ -406,5 +430,11 @@
         "name": "Ward X",
         "description": "If your hero would be dealt damage, prevent X of that damage and destroy this.",
         "description_plain": "If your hero would be dealt damage, prevent X of that damage and destroy this."
+    },
+    {
+        "unique_id": "bw6qfzzWmNRWgJkNk6kHd",
+        "name": "Watery Grave",
+        "description": "",
+        "description_plain": ""
     }
 ]

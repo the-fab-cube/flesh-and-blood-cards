@@ -2,6 +2,7 @@
     {
         "unique_id": "pBpLPQ7kg6mkBpNMMPdCD",
         "name": "Cuore di Fyendal",
+        "color": "Blue",
         "pitch": "3",
         "cost": "",
         "power": "",
@@ -65,6 +66,7 @@
     {
         "unique_id": "N77hdGp96fNQnzc79hqN9",
         "name": "Occhio di Ophidia",
+        "color": "Blue",
         "pitch": "3",
         "cost": "",
         "power": "",
@@ -129,6 +131,7 @@
     {
         "unique_id": "pkMGCRh9fDT98dRgnQF8W",
         "name": "Frammento del Cavaliere Oscuro",
+        "color": "Blue",
         "pitch": "3",
         "cost": "",
         "power": "",

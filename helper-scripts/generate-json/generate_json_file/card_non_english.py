@@ -61,6 +61,7 @@ def generate_json_file(language):
 
             card_object['name'] = row['Name']
 
+            card_object['color'] = english_card['color']
             card_object['pitch'] = english_card['pitch']
             card_object['cost'] = english_card['cost']
             card_object['power'] = english_card['power']
