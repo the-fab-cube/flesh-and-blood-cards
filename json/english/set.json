@@ -455,6 +455,27 @@
         ]
     },
     {
+        "unique_id": "DPzPjHGgBmc7mDjfjBk9P",
+        "id": "CIN",
+        "name": "Cindra Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "8GcbnHRjkMGphRrTRqwBk",
+                "edition": "N",
+                "start_card_id": "CIN001",
+                "end_card_id": "CIN029",
+                "initial_release_date": "2025-01-31T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": "https://fabtcg.com/en/products/booster-set/the-hunted-blitz-deck-collection/",
+                "collectors_center": "https://fabtcg.com/en/collectors-centre/the-hunted/",
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "K8MGfzFdqWGwrcJgpDqRR",
         "id": "CRU",
         "name": "Crucible of War",
