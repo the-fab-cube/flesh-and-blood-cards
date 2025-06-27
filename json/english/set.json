@@ -539,6 +539,27 @@
         ]
     },
     {
+        "unique_id": "DPzPjHGgBmc7mDjfjBk9P",
+        "id": "CIN",
+        "name": "Cindra Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "8GcbnHRjkMGphRrTRqwBk",
+                "edition": "N",
+                "start_card_id": "CIN001",
+                "end_card_id": "CIN029",
+                "initial_release_date": "2025-01-31T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": "https://fabtcg.com/en/products/booster-set/the-hunted-blitz-deck-collection/",
+                "collectors_center": "https://fabtcg.com/en/collectors-centre/the-hunted/",
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "K8MGfzFdqWGwrcJgpDqRR",
         "id": "CRU",
         "name": "Crucible of War",
@@ -812,6 +833,27 @@
                 "card_database": "https://cards.fabtcg.com/products/rosetta-blitz-deck-florian/",
                 "product_page": "https://fabtcg.com/products/booster-set/rosetta-blitz-deck-collection/",
                 "collectors_center": "https://fabtcg.com/en/collectors-centre/rosetta/",
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
+        "unique_id": "TwzRhRnKNBdWbmnt8JMBN",
+        "id": "FNG",
+        "name": "Fang Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "RPbcG8Ht9nwcTCd6FHwcj",
+                "edition": "N",
+                "start_card_id": "FNG001",
+                "end_card_id": "FNG029",
+                "initial_release_date": "2025-01-31T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": "https://fabtcg.com/en/products/booster-set/the-hunted-blitz-deck-collection/",
+                "collectors_center": "https://fabtcg.com/en/collectors-centre/the-hunted/",
                 "card_gallery": null,
                 "release_notes": null,
                 "set_logo": null
@@ -1683,6 +1725,27 @@
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/welcome-rathe-unlimited-booster/",
                 "release_notes": "https://fabtcg.com/en/resources/rules-and-policy-center/release-notes/welcome-rathe/",
                 "set_logo": "https://dhhim4ltzu1pj.cloudfront.net/media/images/wtr_logo.original.png"
+            }
+        ]
+    },
+    {
+        "unique_id": "FcJD8jDhLNKKtBDhLnNLt",
+        "id": "WOD",
+        "name": "Arakni, Web of Deceit Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "wwRLKLgMjRWNfjtGBJzLC",
+                "edition": "N",
+                "start_card_id": "WOD001",
+                "end_card_id": "WOD029",
+                "initial_release_date": "2025-01-31T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": "https://fabtcg.com/en/products/booster-set/the-hunted-blitz-deck-collection/",
+                "collectors_center": "https://fabtcg.com/en/collectors-centre/the-hunted/",
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
             }
         ]
     },
