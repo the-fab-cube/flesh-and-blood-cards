@@ -756,6 +756,27 @@
         ]
     },
     {
+        "unique_id": "TwzRhRnKNBdWbmnt8JMBN",
+        "id": "FNG",
+        "name": "Fang Blitz Deck",
+        "printings": [
+            {
+                "unique_id": "RPbcG8Ht9nwcTCd6FHwcj",
+                "edition": "N",
+                "start_card_id": "FNG001",
+                "end_card_id": "FNG029",
+                "initial_release_date": "2025-01-31T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": "https://fabtcg.com/en/products/booster-set/the-hunted-blitz-deck-collection/",
+                "collectors_center": "https://fabtcg.com/en/collectors-centre/the-hunted/",
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "mMCpM6zqkdb7wKmw6qP6n",
         "id": "GEM",
         "name": "GEM Pack Promos",
