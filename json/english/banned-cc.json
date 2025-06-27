@@ -328,6 +328,14 @@
         "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-11-11-24/"
     },
     {
+        "unique_id": "zGbTqw77HGF7JdgzzbqhQ",
+        "card_unique_id": "DC8RfMDzMnthBkWJgmWpQ",
+        "status_active": true,
+        "date_announced": "2025-01-24T00:00:00.000Z",
+        "date_in_effect": "2025-01-31T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/banned-and-restricted-announcement-24-01-25/"
+    },
+    {
         "unique_id": "CcqNRqdPpWPFfCPJDzFkN",
         "card_unique_id": "cP6jRNBkfK9L8HzGjgpmw",
         "status_active": true,

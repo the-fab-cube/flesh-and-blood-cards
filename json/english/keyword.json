@@ -210,6 +210,12 @@
         "description_plain": "You may only have 1 copy of this card in your deck."
     },
     {
+        "unique_id": "FwrcNrC7nJWd9jQgNfdq7",
+        "name": "Mark",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "h8pdGJQwFdJWbtJCHrmPP",
         "name": "Material",
         "description": "An Illusionist mechanic that applies effects if it is under another permanent.",
@@ -286,6 +292,12 @@
         "name": "Reprise",
         "description": "A Warrior mechanic that showcases the prowess a warrior has when they are engaged in close combat. **Reprise** effects \"turn on\" if the defending hero has defended with a card from their hand.",
         "description_plain": "A Warrior mechanic that showcases the prowess a warrior has when they are engaged in close combat. Reprise effects \"turn on\" if the defending hero has defended with a card from their hand."
+    },
+    {
+        "unique_id": "C96dP7FqChgNnLJhWbjhz",
+        "name": "Retrieve",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "qhmLJGzNtDRbd9HLFbLFp",

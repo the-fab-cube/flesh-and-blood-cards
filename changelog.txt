@@ -793,7 +793,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed issue with Civic Guide, Civic Steps, Deathly Delight, and Deathly Wail having the incorrect artists - bug notice credit: manwaring
 - Updated images for DTD143-DTD148
 - Fixed issue with ASB016 having the wrong rarity - bug notice credit: manwaring
-- Update functional text for Boltyn and `Ser Boltyn, Breaker of Dawn` - notice credit: manwaring
+- Updated functional text for Boltyn and `Ser Boltyn, Breaker of Dawn` - notice credit: manwaring
 
 11-12-24:
 - Fixed issue with types for Ollin Ice Cap and Tectonic Crust - bug notice credit: Aegisworn
@@ -811,7 +811,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed issue with Steelbraid Buckler AJV003 printing being incorrectly listed as AJV002 - bug notice credit: Aegisworn
 
 04-16-25:
-- Added card data for Breaker Helm Protos, Construct Bank Breaker, Drive Brake, Fist Pump, Puffer Jacket, and Twintek Charging Station - data entry assistance: manwaring
+- Added set data for AMX
+- Added card data for Bank Breaker, Breaker Helm Protos, Clamp Press, Construct Bank Breaker, Drive Brake, Fist Pump, Puffer Jacket, and Twintek Charging Station - data entry assistance: manwaring
 - Added printing data and images for AMX001-AMX028 - data entry assistance: manwaring
 - Updated functional text for Banksy, Big Bertha, Crankshaft, Hyper Driver, Maxx 'The Hype' Nitro, Maxx Nitro, Sprocket Rocket, and T-Bone
 
@@ -822,7 +823,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated CC Living Legend status for `Enigma, Ledger of Ancestry`, `Cosmo, Scroll of Ancestral Tapestry`, `Zen, Tamer of Purpose`, and `Tiger Taming Khakkara`
 - Updated Blitz Living Legend status for Victor Goldmane and Miller's Grindstone
 - Updated set names for AKO, AMX, and ASB to maintain consistency amongst Armory Decks
-- Fixed issue `Arakni, Huntsman`, Jarl Vetreiði, and `Uzuri, Switchblade` incorrectly being marked as legal in Blitz - bug notice credit: jkloo
+- Fixed issue with `Arakni, 5L!p3d 7hRu 7h3 cR4X`, `Arakni, Huntsman`, Jarl Vetreiði, and `Uzuri, Switchblade` incorrectly being marked as legal in Blitz - bug notice credit: jkloo
+- Fixed issue with `Arakni, 5L!p3d 7hRu 7h3 cR4X` incorrectly being marked as legal in Commoner
 - Fixed typo in functional text of Ruu'di, Gem Keeper - bug notice credit: jkloo
 - Fixed issue with `Taipanis, Dracai of Judgement` not having a health or intelligence value - bug notice credit: jkloo
 - Fixed issue with Heart-throb, Fiddle-dee, Nom de Plume, and Quickstep not having a defense value - bug notice credit: Pgibby8
@@ -844,3 +846,16 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 06-24-25:
 - Added card data for Iris of the Blossom and Okana Scar Wraps
+
+06-27-25:
+- Breaking: Added Trait field to card.csv
+- Added set data for ARK, AST, CIN, FNG, GEM, HNT, and WOD
+- Added card data for AST and HNT
+- Added card data for Magrar and Scarf for a Scarf
+- Added printing data for ARK, CIN, FNG, and WOD cards
+- Added printing data for AST001-AST028, FAB229, FAB244, FAB255-FAB259 FAB279-FAB288, FAB290-FAB293, FAB305, FAB324, FAB333, GEM001-GEM032, HER124-HER134, JDG038-JDG044, LGS369-LGS381, LSS019, and WIN041-WIN045
+- Added missing images for FAB307-FAB320 FAB323, LGS360, LGS364-LGS368
+- Updated functional text for Back Stab, Blaze Headlong, Cinderskin Devotion, Cracked Bauble, Erase Face, Lava Vein Loyalty, Razor's Edge, and Razor Reflex
+- Updated TCC107 Vigor printing's Art Variation to be AA
+- Updated CC Banned status for Zephyr Needle
+- Updated Blitz Living Legend status for Victor Goldmane and Miller's Grindstone
