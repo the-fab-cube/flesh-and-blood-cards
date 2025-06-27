@@ -847,10 +847,10 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 06-24-25:
 - Added card data for Iris of the Blossom and Okana Scar Wraps
 
-TODO:
+06-27-25:
 - Breaking: Added Color and Traits fields to card.csv
 - Added set data for ARK, AST, CIN, FNG, GEM, HNT, and WOD - data entry assistance: manwaring
-- Added card data for AST and HNT - data entry assistance: manwaring
+- Added card data for ARK, AST, CIN, FNG, GEM, HNT, and WOD - data entry assistance: manwaring
 - Added card data for Magrar and Scarf for a Scarf
 - Added printing data for ARK, CIN, FNG, and WOD cards
 - Added printing data for AST001-AST028, FAB229, FAB244, FAB255-FAB259 FAB279-FAB288, FAB290-FAB293, FAB305, FAB324, FAB333, GEM001-GEM032, HER124-HER134, JDG038-JDG044, LGS369-LGS381, LSS019, and WIN041-WIN045 - data entry assistance: manwaring
@@ -876,3 +876,7 @@ TODO:
 - Updated Commoner Banned status for Ball Lightning, Rosetta THorn, Waning Moon, and Zephyr Needle
 - Updated LL Restricted status for Electromagnetic Somersault
 - Fixed issue with Jarl Vetreiði missing the Essence of Earth and Ice keyword
+- Fixed an issue with Florian's ROS002 marvel printing having incorrect faces - bug notice credit: jeroenvrooij
+- Fixed an issue with Claw of Vynserakai's types field - bug notice credit: PvtVoid
+- Fixed an issue with Crash and Bash (yellow and blue) having incorrect block values - bug notice credit: PvtVoid
+- Fixed an issue with Shock Frock having missing block value - bug notice credit: PvtVoid

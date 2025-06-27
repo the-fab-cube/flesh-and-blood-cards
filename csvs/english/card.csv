@@ -1626,7 +1626,7 @@ wG6tBGKr7rb6TCjP7bBDC	Clash of Mountains	Blue	3	4	6	3				Guardian, Action, Attac
 FWQPHMnG9JDfm7JmC6hJ6	Clash of Vigor	Red	1	2	6	3				Guardian, Warrior, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Action - Attack				No	
 HrKnbRbWgpztmkCN6DJfR	Clash of Vigor	Yellow	2	2	5	3				Guardian, Warrior, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Action - Attack				No	
 pBjNr7MRTR6L7LMKT8j9d	Clash of Vigor	Blue	3	2	4	3				Guardian, Warrior, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Action - Attack				No	
-hgWGqgpQTdRHtTKcWpjkw	Claw of Vynserakai				1					Draconic, Weapon, Dagger, (1H)		Spellvoid 1	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
+hgWGqgpQTdRHtTKcWpjkw	Claw of Vynserakai				1					Draconic, Weapon, Dagger, 1H		Spellvoid 1	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 **Spellvoid 1**"	Draconic Weapon - Dagger (1H)				No	
 8fNNR6wFmtQfKWqgkB6pb	Cleansing Light	Red	1	3		2				Light, Action								"If a card has been put into your hero's soul this turn, you may play this as though it were an instant.
@@ -1942,8 +1942,8 @@ When this hits a hero, destroy the top card of their deck."	Generic Action - Att
 
 When this hits a hero, destroy the top card of their deck."	Generic Action - Attack				No	
 jDPdqfjkbzLjMGk6nPPgn	Crash and Bash	Red	1			4				Guardian, Block							Crush	When this defends, you may reveal a card with **crush** from your hand. If you do, create a Seismic Surge token.	Guardian Block					
-tCKk7THm9bNKJh8F6Dmzk	Crash and Bash	Yellow	2			4				Guardian, Block							Crush	When this defends, you may reveal a card with **crush** from your hand. If you do, create a Seismic Surge token.	Guardian Block					
-8CtmRqKLjmGkqD8bgDjTd	Crash and Bash	Blue	3			4				Guardian, Block							Crush	When this defends, you may reveal a card with **crush** from your hand. If you do, create a Seismic Surge token.	Guardian Block					
+tCKk7THm9bNKJh8F6Dmzk	Crash and Bash	Yellow	2			3				Guardian, Block							Crush	When this defends, you may reveal a card with **crush** from your hand. If you do, create a Seismic Surge token.	Guardian Block					
+8CtmRqKLjmGkqD8bgDjTd	Crash and Bash	Blue	3			2				Guardian, Block							Crush	When this defends, you may reveal a card with **crush** from your hand. If you do, create a Seismic Surge token.	Guardian Block					
 DbpdPtLqk9zqfp6bdQTP6	Crater Fist					2				Guardian, Equipment, Arms		Temper	Action	Go again			Crush	"**Action** - {r}{r}{r}, destroy Crater Fist: Your attacks with **crush** gain +2{p} this turn. **Go again**
 
 **Temper**"	Guardian Equipment - Arms				No	
@@ -7869,7 +7869,7 @@ At the beginning of your action phase, Shiyana becomes a copy of target hero unt
 JkPgFzHTpzdNfzJCwQCmt	Shock Charmers					0				Lightning, Equipment, Arms		Spellvoid 2	Instant					"**Instant** - {r}{r}: The next time an attack action card you control hits a hero this turn, it deals 1 damage to them.
 
 **Spellvoid 2**"	Lightning Equipment - Arms				No	
-wwCjCpWgjmHMPNGhtQBwT	Shock Frock									Lightning, Equipment, Chest		Battleworn	Action	Go again				"**Action** - Destroy this: Gain {r}. Activate this only if you've played a Lightning card this turn. **Go again**
+wwCjCpWgjmHMPNGhtQBwT	Shock Frock					1				Lightning, Equipment, Chest		Battleworn	Action	Go again				"**Action** - Destroy this: Gain {r}. Activate this only if you've played a Lightning card this turn. **Go again**
 
 **Battleworn**"	Lightning Equipment - Chest				No	
 zrmt6g9QChNNTDw7Gm68D	Shock Striker	Red	1	1	5	2				Lightning, Action, Attack			Once per Turn Instant					"**Once per Turn Instant** - {r}{r}: Shock Striker gains ""If Shock Striker hits a hero, deal 1 damage to them."""	Lightning Action - Attack					
