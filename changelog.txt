@@ -849,29 +849,22 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 06-27-25:
 - Breaking: Added Color and Traits fields to card.csv
-- Added set data for ARK, AST, CIN, FNG, GEM, HNT, and WOD - data entry assistance: manwaring
-- Added card data for ARK, AST, CIN, FNG, GEM, HNT, and WOD - data entry assistance: manwaring
-- Added card data for Magrar and Scarf for a Scarf
-- Added printing data for ARK, AST, CIN, FNG, GEM, HNT, and WOD cards - data entry assistance: manwaring, nathaneastwood
-- Added printing data for AST001-AST028, FAB229, FAB244, FAB255-FAB259 FAB279-FAB288, FAB290-FAB293, FAB305, FAB324, FAB333, GEM001-GEM032, HER124-HER134, JDG038-JDG044, LGS369-LGS381, LSS019, and WIN041-WIN045 - data entry assistance: manwaring
-- Added printing data for foil versions of AJV013, AJV017, AJV018, and AJV020 - data entry credit: edhebi
-- Added missing images for FAB307-FAB320 FAB323, LGS360, LGS364-LGS368
-- Updated functional text for Back Stab, Blaze Headlong, Cinderskin Devotion, Cracked Bauble, Erase Face, Lava Vein Loyalty, Razor's Edge, and Razor Reflex
-- Updated TCC107 Vigor printing's Art Variation to be AA
-- Updated CC Banned status for Zephyr Needle
-
-TODO:
-- Added set data for AGB, APR, AVS, BDD, MPG, SEA, and SMP
-- Added card data for AGB, APR, AVS, BDD, MPG, SEA, and SMP - data entry assistance: manwaring, Toaster-404
+- Added set data for AGB, APR, ARK, AST, AVS, BDD, CIN, FNG, GEM, HNT, MPG, SMP, and WOD - data entry assistance: manwaring
+- Added card data for AGB, APR, ARK, AST, AVS, BDD, CIN, FNG, GEM, HNT, MPG, SMP, and WOD - data entry assistance: manwaring
 - Added card data for Batter to a Pulp, Draw a Crowd, and Promising Terrain - data entry assistance: manwaring
-- Added printing data for AGB, APR, AVS, BDD, MPG, SEA, and SMP - data entry assistance: manwaring
-- Added printing data for GEM033-GEM068, HER135, LGS387, LGS389-LGS390, and LGS395-LGS413 - data entry assistance: manwaring
+- Added card data for Magrar and Scarf for a Scarf
+- Added printing data for AGB, APR, ARK, AST, AVS, BDD, CIN, FNG, GEM, HNT, MPG, SMP, and WOD cards - data entry assistance: manwaring, nathaneastwood
+- Added printing data for AST001-AST028, FAB229, FAB244, FAB255-FAB259 FAB279-FAB288, FAB290-FAB293, FAB305, FAB324, FAB333, GEM001-GEM068, HER124-HER135, JDG038-JDG044, LGS369-LGS381, LGS387, LGS389-LGS390, LGS395-LGS413, LSS019, and WIN041-WIN045 - data entry assistance: manwaring
+- Added printing data for foil versions of AJV013, AJV017, AJV018, and AJV020 - data entry credit: edhebi
 - Added missing images for FAI cards
 - Adding TCGPlayer IDs for FAI001, FLR011, FLR026, and FLR029
+- Added missing images for FAB307-FAB320 FAB323, LGS360, LGS364-LGS368
 - Added Go Fish and Unlimited keywords
 - Added Cannon, Cog, and Pirate types
-- Updated functional text for Codex of Frailty, Head Shot, Life for a Life, Scar for a Scar, and Trade In
+- Updated functional text for Back Stab, Blaze Headlong, Cinderskin Devotion, Codex of Frailty, Cracked Bauble, Erase Face, Head Shot, Lava Vein Loyalty, Life for a Life, Razor's Edge, Razor Reflex, Scar for a Scar, and Trade In
+- Updated TCC107 Vigor printing's Art Variation to be AA
 - Updated Argh... Smash! to use 3 periods instead of one unicode character
+- Updated CC Banned status for Zephyr Needle
 - Updated Blitz Living Legend status for Victor Goldmane and Miller's Grindstone
 - Updated Blitz Banned status for Crown of Seeds, Traverse the Universe, and Zephyr Needle
 - Updated Commoner Banned status for Ball Lightning, Rosetta THorn, Waning Moon, and Zephyr Needle
