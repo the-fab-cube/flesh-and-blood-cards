@@ -135,6 +135,33 @@
         "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-11-11-24/"
     },
     {
+        "unique_id": "nNBRFjqhqbhpjPqN9MMQG",
+        "card_unique_id": "BM6cWKkWT7zRBLb7P77pg",
+        "status_active": true,
+        "affects_full_cycle": true,
+        "date_announced": "2025-03-04T00:00:00.000Z",
+        "date_in_effect": "2025-03-04T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-04-03-25/"
+    },
+    {
+        "unique_id": "FTbqH7dKBpFGhz8fqpJff",
+        "card_unique_id": "dGtzm9PwqTkFGcJwFNzPM",
+        "status_active": true,
+        "affects_full_cycle": true,
+        "date_announced": "2025-03-04T00:00:00.000Z",
+        "date_in_effect": "2025-03-04T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-04-03-25/"
+    },
+    {
+        "unique_id": "gCtMCnRkNJMcWdmjFHTHF",
+        "card_unique_id": "TjdM8c7NpJjpjdLDbt7KG",
+        "status_active": true,
+        "affects_full_cycle": true,
+        "date_announced": "2025-03-04T00:00:00.000Z",
+        "date_in_effect": "2025-03-04T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-04-03-25/"
+    },
+    {
         "unique_id": "NHRWzNTRQFwzcJdbMgjQd",
         "card_unique_id": "7RhQ7rthWCfHkgfdHFFJm",
         "status_active": true,
