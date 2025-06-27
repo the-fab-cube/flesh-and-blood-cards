@@ -860,7 +860,9 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Adding TCGPlayer IDs for FAI001, FLR011, FLR026, and FLR029
 - Added missing images for FAB307-FAB320 FAB323, LGS360, LGS364-LGS368
 - Added Go Fish and Unlimited keywords
-- Added Cannon, Cog, and Pirate types
+- Added Cannon, Cog, Event, High Seas, Necromancer, Pirate, Pit-Fighter, Rosetta, and Thief types
+- Added Tap and Untap icons
+- Added Basic rarity
 - Updated functional text for Back Stab, Blaze Headlong, Cinderskin Devotion, Codex of Frailty, Cracked Bauble, Erase Face, Head Shot, Lava Vein Loyalty, Life for a Life, Razor's Edge, Razor Reflex, Scar for a Scar, and Trade In
 - Updated TCC107 Vigor printing's Art Variation to be AA
 - Updated Argh... Smash! to use 3 periods instead of one unicode character

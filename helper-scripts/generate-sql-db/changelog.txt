@@ -70,6 +70,6 @@
 10-16-24:
 - Fixed an issue where card upload function was failing to insert rows
 
-06-25-25:
+06-27-25:
 - Updated card table to have new color and traits fields
 - Changed unique index of card table to be name and color instead of name and pitch
