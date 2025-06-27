@@ -93,8 +93,8 @@ const makeGetProductDetailsCall = async (productIds, bearerToken) => {
 const formatProductDetail = (productDetail) => {
     const name = productDetail.name
     const productId = productDetail.productId
-    const rarity = formatRarity(productDetail.extendedData.find(dataElement => dataElement.name.toLowerCase() == 'rarity')?.value)
-    const cardId = productDetail.extendedData.find(dataElement => dataElement.name.toLowerCase() == 'number')?.value
+    const rarity = formatRarity(productDetail.extendedData?.find(dataElement => dataElement.name.toLowerCase() == 'rarity')?.value)
+    const cardId = productDetail.extendedData?.find(dataElement => dataElement.name.toLowerCase() == 'number')?.value
 
     return {
         name,

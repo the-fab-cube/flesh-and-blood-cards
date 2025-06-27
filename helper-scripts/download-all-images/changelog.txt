@@ -30,5 +30,5 @@
 05-10-24:
 - Added handling for new image domain
 
-TODO:
+06-27-25:
 - Added '-l' and '-m' options to allow you to set min and max ids to download when downloading certain set ids
