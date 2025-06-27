@@ -2,6 +2,7 @@
     {
         "unique_id": "pBpLPQ7kg6mkBpNMMPdCD",
         "name": "Corazón de Fyendal",
+        "color": "Blue",
         "pitch": "3",
         "cost": "",
         "power": "",
@@ -13,6 +14,7 @@
             "Recurso",
             "Gema"
         ],
+        "traits": [],
         "card_keywords": [
             "Legendario"
         ],
@@ -64,6 +66,7 @@
     {
         "unique_id": "N77hdGp96fNQnzc79hqN9",
         "name": "Ojo de Ofidia",
+        "color": "Blue",
         "pitch": "3",
         "cost": "",
         "power": "",
@@ -75,6 +78,7 @@
             "Recurso",
             "Gema"
         ],
+        "traits": [],
         "card_keywords": [
             "Legendario",
             "Opta 2"
@@ -127,6 +131,7 @@
     {
         "unique_id": "pkMGCRh9fDT98dRgnQF8W",
         "name": "Fragmento del archicaballero",
+        "color": "Blue",
         "pitch": "3",
         "cost": "",
         "power": "",
@@ -138,6 +143,7 @@
             "Recurso",
             "Gema"
         ],
+        "traits": [],
         "card_keywords": [
             "Legendario",
             "Especialización de Viserai"

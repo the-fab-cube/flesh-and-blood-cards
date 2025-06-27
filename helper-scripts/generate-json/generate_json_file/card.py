@@ -68,6 +68,7 @@ def generate_json_file():
             card_object['unique_id'] = card_unique_id
 
             card_object['name'] = row['Name']
+            card_object['color'] = row['Color']
             card_object['pitch'] = row['Pitch']
             card_object['cost'] = row['Cost']
             card_object['power'] = row['Power']
@@ -77,6 +78,7 @@ def generate_json_file():
             card_object['arcane'] = row['Arcane']
 
             card_object['types'] = helper_functions.convert_to_array(row['Types'])
+            card_object['traits'] = helper_functions.convert_to_array(row['Traits'])
             card_object['card_keywords'] = helper_functions.convert_to_array(row['Card Keywords'])
             card_object['abilities_and_effects'] = helper_functions.convert_to_array(row['Abilities and Effects'])
             card_object['ability_and_effect_keywords'] = helper_functions.convert_to_array(row['Ability and Effect Keywords'])

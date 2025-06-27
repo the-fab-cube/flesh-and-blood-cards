@@ -2,6 +2,7 @@
     {
         "unique_id": "pBpLPQ7kg6mkBpNMMPdCD",
         "name": "Cœur de Fyendal",
+        "color": "Blue",
         "pitch": "3",
         "cost": "",
         "power": "",
@@ -13,6 +14,7 @@
             "Ressource",
             "Pierre précieuse"
         ],
+        "traits": [],
         "card_keywords": [
             "Légendaire"
         ],
@@ -60,6 +62,7 @@
     {
         "unique_id": "N77hdGp96fNQnzc79hqN9",
         "name": "Œil d'Ophidie",
+        "color": "Blue",
         "pitch": "3",
         "cost": "",
         "power": "",
@@ -71,6 +74,7 @@
             "Ressource",
             "Pierre précieuse"
         ],
+        "traits": [],
         "card_keywords": [
             "Légendaire",
             "Optez 2"
@@ -119,6 +123,7 @@
     {
         "unique_id": "pkMGCRh9fDT98dRgnQF8W",
         "name": "Éclat d'Archenuit",
+        "color": "Blue",
         "pitch": "3",
         "cost": "",
         "power": "",
@@ -130,6 +135,7 @@
             "Ressource",
             "Pierre précieuse"
         ],
+        "traits": [],
         "card_keywords": [
             "Légendaire",
             "Spécialisation de Viserai"

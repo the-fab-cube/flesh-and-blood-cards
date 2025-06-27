@@ -182,5 +182,37 @@
         "date_announced": "2024-09-09T00:00:00.000Z",
         "date_in_effect": "2024-09-13T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/en/articles/living-legend-rhinar/"
+    },
+    {
+        "unique_id": "678gGLB8DDMNpf9cKGnBq",
+        "card_unique_id": "7FHM67fkfjCjzwWzKfFKH",
+        "status_active": false,
+        "date_announced": "2024-11-11T00:00:00.000Z",
+        "date_in_effect": "2024-11-11T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-11-11-24/"
+    },
+    {
+        "unique_id": "LnzBN6rzQtBCnzhGWCqbH",
+        "card_unique_id": "M7nPGBJMNj6tbtDgzMNqc",
+        "status_active": false,
+        "date_announced": "2024-11-11T00:00:00.000Z",
+        "date_in_effect": "2024-11-11T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-11-11-24/"
+    },
+    {
+        "unique_id": "CNHzt88kWhhrMwNFfp9pg",
+        "card_unique_id": "kHmRR6Q7mJPjQgdQJcjpQ",
+        "status_active": true,
+        "date_announced": "2024-12-10T00:00:00.000Z",
+        "date_in_effect": "2024-12-13T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-victor-goldmane/"
+    },
+    {
+        "unique_id": "bBdBDRPPCQFQfhgLFmGMt",
+        "card_unique_id": "RRfwzgrbMbFGNqppnD8rB",
+        "status_active": true,
+        "date_announced": "2024-12-10T00:00:00.000Z",
+        "date_in_effect": "2024-12-13T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/living-legend-victor-goldmane/"
     }
 ]

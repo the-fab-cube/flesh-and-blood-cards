@@ -28,6 +28,10 @@
         "description": "Token"
     },
     {
+        "id": "B",
+        "description": "Basic"
+    },
+    {
         "id": "V",
         "description": "Marvel"
     },

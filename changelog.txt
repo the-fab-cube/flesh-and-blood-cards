@@ -738,7 +738,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated Blitz Living Legend Status for Rhinar and Romping Club
 
 10-05-24:
-- Added card data for ROS
+- Added card data for ROS - data entry assistance: manwaring
 - Added card data for Brush of Heavenly Rites, Heavy Industry Ram Stop, and `Ira, Scarlet Revenger`
 - Added printing data for AIO001-AIO027, AAZ001-AAZ004, AAZ008-AAZ015, AAZ017-AAZ023, AAZ025-AAZ032, ASB001-ASB002, ASB007-ASB024, ASB026-ASB028, AUA001-AUA029, ROS000-ROS257, FAB250-FAB275, FAB277-FAB278, FAB284, HER119-HER123, JDG030-JDG036, LGS309-LGS336, LGS340-LGS341, LGS345-LGS354, LGS362-LGS363, and WIN036-WIN040
 - Added printing data for alt art AAZ005
@@ -764,3 +764,115 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Breaking: Changed Variation field in card-printing.csv to Variations to support multiple variations per card
 - Breaking: Changed Out of Print Date field in set-printing.csv to Out of Print
 - Breaking: Added Card Database, Release Notes, and Set Logo fields to set-printing.csv
+
+10-14-24:
+- Added card data for Channel Mount Isen, Crumble to Eternity, Jarl Vetreiði, and Unforgetting Unforgiving
+- Added printing data for AJV001, AJV011, AJV013, AJV017, AJV018
+- Added card reference data for Channel Mount Isen, Jarl Vetreiði, and Unforgetting Unforgiving
+- Added set info for AJV
+
+10-17-24:
+- Fixed issue with Mistcloak Gully not being marked as Played Horizontally
+- Fixed issue with Crumble to Eternity and Unforgetting Unforgiving not referencing Jarl Vetreiði
+- Fixed missing granted keyword Dominate on Crumble to Eternity
+- Added images for AJV001, AJV013, AJV017, and AJV018
+
+11-07-24:
+- Added card data for `Summit, the Unforgiving`, Ollin Ice Cap, Tectonic Crust, Gauntlets of the Boreal Domain, Root-Bound Trunks, and Frozen to Death
+- Added printing data for AJV002-AJV007 and AJV002
+- Added card reference data for `Summit, the Unforgiving`, Ollin Ice Cap, Tectonic Crust, Gauntlets of the Boreal Domain, Root-Bound Trunks, and Frozen to Death
+- Added Polearm type
+- Added Heavy keyword
+
+11-11-24:
+- Updated Blitz Legality for Belittle, Hadron Collider, and Zen
+- Updated CC Legality for High Octane and Count Your Blessings (Blue)
+- Updated Commoner Legality for Aether Ironweave
+- Update LL Legality for Open the Flood Gates and Star Struck
+- Fixed issue with Star Fall (ROS009 Cold Foil), Staff of Verdant Shoots (ROS015 Cold Foil), and `Volzar, the Lightning Rod` (ROS021 Cold Foil) having the incorrect TCGPlayer ID - bug notice credit: manwaring
+- Fixed issue with Civic Guide, Civic Steps, Deathly Delight, and Deathly Wail having the incorrect artists - bug notice credit: manwaring
+- Updated images for DTD143-DTD148
+- Fixed issue with ASB016 having the wrong rarity - bug notice credit: manwaring
+- Updated functional text for Boltyn and `Ser Boltyn, Breaker of Dawn` - notice credit: manwaring
+
+11-12-24:
+- Fixed issue with types for Ollin Ice Cap and Tectonic Crust - bug notice credit: Aegisworn
+
+11-15-24:
+- Added printing data and images for LGS205-LGS211
+- Added printing data for AJV002, AJV008-AJV010, AJV012, AJV014-AJV016, AJV019, and AJV021-AJV030
+- Added images for AJV002, AJV008-AJV010, AJV012, AJV014-AJV016, AJV019, and AJV020-AJV030
+
+11-23-24:
+- Added card data for Cracker Bauble and Spirit of Christmas
+- Added printing data for LGS337-LGS339, LGS355-LGS360, and LGS364-LGS368
+
+11-26-24:
+- Fixed issue with Steelbraid Buckler AJV003 printing being incorrectly listed as AJV002 - bug notice credit: Aegisworn
+
+04-16-25:
+- Added set data for AMX
+- Added card data for Bank Breaker, Breaker Helm Protos, Clamp Press, Construct Bank Breaker, Drive Brake, Fist Pump, Puffer Jacket, and Twintek Charging Station - data entry assistance: manwaring
+- Added printing data and images for AMX001-AMX028 - data entry assistance: manwaring
+- Updated functional text for Banksy, Big Bertha, Crankshaft, Hyper Driver, Maxx 'The Hype' Nitro, Maxx Nitro, Sprocket Rocket, and T-Bone
+
+04-21-25:
+- Added set data for ASR - data entry assistance: manwaring
+- Added card data for Enact Vengeance - data entry assistance: manwaring
+- Added printing data for ASR008 - data entry assistance: manwaring
+- Updated CC Living Legend status for `Enigma, Ledger of Ancestry`, `Cosmo, Scroll of Ancestral Tapestry`, `Zen, Tamer of Purpose`, and `Tiger Taming Khakkara`
+- Updated Blitz Living Legend status for Victor Goldmane and Miller's Grindstone
+- Updated set names for AKO, AMX, and ASB to maintain consistency amongst Armory Decks
+- Fixed issue with `Arakni, 5L!p3d 7hRu 7h3 cR4X`, `Arakni, Huntsman`, Jarl Vetreiði, and `Uzuri, Switchblade` incorrectly being marked as legal in Blitz - bug notice credit: jkloo
+- Fixed issue with `Arakni, 5L!p3d 7hRu 7h3 cR4X` incorrectly being marked as legal in Commoner
+- Fixed typo in functional text of Ruu'di, Gem Keeper - bug notice credit: jkloo
+- Fixed issue with `Taipanis, Dracai of Judgement` not having a health or intelligence value - bug notice credit: jkloo
+- Fixed issue with Heart-throb, Fiddle-dee, Nom de Plume, and Quickstep not having a defense value - bug notice credit: Pgibby8
+- Fixed issue with Open the Center incorrectly having an arcane damage property - bug notice credit: manwaring
+- Fixed issue with Open the Flood Gates missing am arcane damage property
+- Fixed issue with Jarl Vetreiði's name being mispelled - bug notice credit: deguchi
+- Fixed issue with Armory Deck Origins - Jarl Vetreiði name being mispelled
+
+05-15-25:
+- Added printing data for ASR001
+- Added card images for ASR001 and ASR008
+
+05-19-25:
+- Updated CC Living Legend Status for `Aurora, Shooting Star`, Star Fall, `Viserai, Rune Blood`, and Nebula Blade
+- Updated CC Legality for Count Your Blessings, Germinate, Scepter of Pain, and Bonds of Ancestry (Red)
+- Updated Blitz Legality for Channel Lightning Valley, Count Your Blessings, Flicker Wisp, and Storm Striders
+- Updated LL Legality for Carrion Husk, Crown of Seeds, Deadwood Dirge, Succumb to Temptation, and Hypothermia
+- Updated Commoner Legality for Reality Refractor
+
+06-24-25:
+- Added card data for Iris of the Blossom and Okana Scar Wraps
+
+06-27-25:
+- Breaking: Added Color and Traits fields to card.csv
+- Added set data for AGB, APR, ARK, AST, AVS, BDD, CIN, FNG, GEM, HNT, MPG, SMP, and WOD - data entry assistance: manwaring
+- Added card data for AGB, APR, ARK, AST, AVS, BDD, CIN, FNG, GEM, HNT, MPG, SMP, and WOD - data entry assistance: manwaring
+- Added card data for Batter to a Pulp, Draw a Crowd, and Promising Terrain - data entry assistance: manwaring
+- Added card data for Magrar and Scarf for a Scarf
+- Added printing data for AGB, APR, ARK, AST, AVS, BDD, CIN, FNG, GEM, HNT, MPG, SMP, and WOD cards - data entry assistance: manwaring, nathaneastwood
+- Added printing data for AST001-AST028, FAB229, FAB244, FAB255-FAB259 FAB279-FAB288, FAB290-FAB293, FAB305, FAB324, FAB333, GEM001-GEM068, HER124-HER135, JDG038-JDG044, LGS369-LGS381, LGS387, LGS389-LGS390, LGS395-LGS413, LSS019, and WIN041-WIN045 - data entry assistance: manwaring
+- Added printing data for foil versions of AJV013, AJV017, AJV018, and AJV020 - data entry credit: edhebi
+- Added missing images for FAI cards
+- Adding TCGPlayer IDs for FAI001, FLR011, FLR026, and FLR029
+- Added missing images for FAB307-FAB320 FAB323, LGS360, LGS364-LGS368
+- Added Go Fish and Unlimited keywords
+- Added Cannon, Cog, Event, High Seas, Necromancer, Pirate, Pit-Fighter, Rosetta, and Thief types
+- Added Tap and Untap icons
+- Added Basic rarity
+- Updated functional text for Back Stab, Blaze Headlong, Cinderskin Devotion, Codex of Frailty, Cracked Bauble, Erase Face, Head Shot, Lava Vein Loyalty, Life for a Life, Razor's Edge, Razor Reflex, Scar for a Scar, and Trade In
+- Updated TCC107 Vigor printing's Art Variation to be AA
+- Updated Argh... Smash! to use 3 periods instead of one unicode character
+- Updated CC Banned status for Zephyr Needle
+- Updated Blitz Living Legend status for Victor Goldmane and Miller's Grindstone
+- Updated Blitz Banned status for Crown of Seeds, Traverse the Universe, and Zephyr Needle
+- Updated Commoner Banned status for Ball Lightning, Rosetta THorn, Waning Moon, and Zephyr Needle
+- Updated LL Restricted status for Electromagnetic Somersault
+- Fixed issue with Jarl Vetreiði missing the Essence of Earth and Ice keyword
+- Fixed an issue with Florian's ROS002 marvel printing having incorrect faces - bug notice credit: jeroenvrooij
+- Fixed an issue with Claw of Vynserakai's types field - bug notice credit: PvtVoid
+- Fixed an issue with Crash and Bash (yellow and blue) having incorrect block values - bug notice credit: PvtVoid
+- Fixed an issue with Shock Frock having missing block value - bug notice credit: PvtVoid

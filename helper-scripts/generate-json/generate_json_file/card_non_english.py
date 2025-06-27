@@ -61,6 +61,7 @@ def generate_json_file(language):
 
             card_object['name'] = row['Name']
 
+            card_object['color'] = english_card['color']
             card_object['pitch'] = english_card['pitch']
             card_object['cost'] = english_card['cost']
             card_object['power'] = english_card['power']
@@ -70,6 +71,9 @@ def generate_json_file(language):
 
             english_card_types = english_card['types']
             card_object['types'] = convert_english_types_to_language.convert_english_types_to_language(language, english_card_types, english_type_array, language_type_array)
+
+            # TODO: Auto-convert?
+            card_object['traits'] = english_card['traits']
 
             english_card_keywords = english_card['card_keywords']
             card_object['card_keywords'] = convert_english_keywords_to_language.convert_english_keywords_to_language(language, english_card_keywords, english_keyword_array, language_keyword_array)

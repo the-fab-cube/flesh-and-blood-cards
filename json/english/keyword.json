@@ -180,6 +180,12 @@
         "description_plain": "Go again allows multiple actions to be played in a turn, when usually playing an action would use up your action point, and therefore end your turn. A card with go again gives the controller of that card or activated ability 1 action point when it resolves."
     },
     {
+        "unique_id": "cHmQnQCNKmq8BRJ6kT9ch",
+        "name": "Go Fish",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "JpQHgf9ttGqRjHjW6rgR8",
         "name": "Guardwell",
         "description": "",
@@ -192,6 +198,12 @@
         "description_plain": "At the beginning of your end phase, if this is in your hand and you have an empty arsenal zone, you may pay X and put this face up into your arsenal. If you do, create X Seismic Surge tokens."
     },
     {
+        "unique_id": "RkjqDPNHf78knQNQGpTbP",
+        "name": "Heavy",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "NdTgddPBhJLhG7HRjqPG6",
         "name": "Intimidate",
         "description": "A Brute mechanic that showcases how frightening a brute is to its enemies. **Intimidate** removes a random card from a heroes hand making it more difficult to defend.",
@@ -202,6 +214,12 @@
         "name": "Legendary",
         "description": "You may only have 1 copy of this card in your deck.",
         "description_plain": "You may only have 1 copy of this card in your deck."
+    },
+    {
+        "unique_id": "FwrcNrC7nJWd9jQgNfdq7",
+        "name": "Mark",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "h8pdGJQwFdJWbtJCHrmPP",
@@ -246,6 +264,12 @@
         "description_plain": ""
     },
     {
+        "unique_id": "kKkfLpzkL9bzzT6MPHd7b",
+        "name": "Perched",
+        "description": "This can be equipped in addition to a 2H weapon. This can't be attacked while it's equipped.",
+        "description_plain": "This can be equipped in addition to a 2H weapon. This can't be attacked while it's equipped."
+    },
+    {
         "unique_id": "GQfWb9GwKkw9RNrK6L6B9",
         "name": "Phantasm",
         "description": "**Phantasm** is a keyword that exists on Illusionist attacks. Illusionist attacks with **phantasm** are powerful but fragile. When an attack with **phantasm** is defended by a 6{p}+ non-Illusionist attack action card, the attack is destroyed and the combat chain closes.",
@@ -280,6 +304,12 @@
         "name": "Reprise",
         "description": "A Warrior mechanic that showcases the prowess a warrior has when they are engaged in close combat. **Reprise** effects \"turn on\" if the defending hero has defended with a card from their hand.",
         "description_plain": "A Warrior mechanic that showcases the prowess a warrior has when they are engaged in close combat. Reprise effects \"turn on\" if the defending hero has defended with a card from their hand."
+    },
+    {
+        "unique_id": "C96dP7FqChgNnLJhWbjhz",
+        "name": "Retrieve",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "qhmLJGzNtDRbd9HLFbLFp",
@@ -322,6 +352,12 @@
         "name": "Spellvoid X",
         "description": "**Spellvoid** is a keyword primarily on equipment or items. **Spellvoid** is a one time use effect that prevents arcane damage.",
         "description_plain": "Spellvoid is a keyword primarily on equipment or items. Spellvoid is a one time use effect that prevents arcane damage."
+    },
+    {
+        "unique_id": "Hf7NC8dzdQnDFbD8jb6cq",
+        "name": "Steal",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "gkcpTQwRjMPTtRkrHpDhT",
@@ -378,6 +414,12 @@
         "description_plain": ""
     },
     {
+        "unique_id": "GQBrF9G7LHGCcpCNW7bMW",
+        "name": "Unlimited",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "k9Tt9gnfKHKFHHmq9LTnG",
         "name": "Wager",
         "description": "",
@@ -388,5 +430,11 @@
         "name": "Ward X",
         "description": "If your hero would be dealt damage, prevent X of that damage and destroy this.",
         "description_plain": "If your hero would be dealt damage, prevent X of that damage and destroy this."
+    },
+    {
+        "unique_id": "bw6qfzzWmNRWgJkNk6kHd",
+        "name": "Watery Grave",
+        "description": "",
+        "description_plain": ""
     }
 ]

@@ -2,6 +2,7 @@
     {
         "unique_id": "pBpLPQ7kg6mkBpNMMPdCD",
         "name": "Cuore di Fyendal",
+        "color": "Blue",
         "pitch": "3",
         "cost": "",
         "power": "",
@@ -13,6 +14,7 @@
             "Risorsa",
             "Gemma"
         ],
+        "traits": [],
         "card_keywords": [
             "Leggendaria"
         ],
@@ -60,6 +62,7 @@
     {
         "unique_id": "N77hdGp96fNQnzc79hqN9",
         "name": "Occhio di Ophidia",
+        "color": "Blue",
         "pitch": "3",
         "cost": "",
         "power": "",
@@ -71,6 +74,7 @@
             "Risorsa",
             "Gemma"
         ],
+        "traits": [],
         "card_keywords": [
             "Leggendaria",
             "Opta 2"
@@ -119,6 +123,7 @@
     {
         "unique_id": "pkMGCRh9fDT98dRgnQF8W",
         "name": "Frammento del Cavaliere Oscuro",
+        "color": "Blue",
         "pitch": "3",
         "cost": "",
         "power": "",
@@ -130,6 +135,7 @@
             "Risorsa",
             "Gemma"
         ],
+        "traits": [],
         "card_keywords": [
             "Leggendaria",
             "Specializzazione di Viserai"

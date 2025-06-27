@@ -2,6 +2,7 @@
     {
         "unique_id": "pBpLPQ7kg6mkBpNMMPdCD",
         "name": "Herz von Fyendal",
+        "color": "Blue",
         "pitch": "3",
         "cost": "",
         "power": "",
@@ -13,6 +14,7 @@
             "Ressource",
             "Edelstein"
         ],
+        "traits": [],
         "card_keywords": [
             "Legendär"
         ],
@@ -64,6 +66,7 @@
     {
         "unique_id": "N77hdGp96fNQnzc79hqN9",
         "name": "Auge von Ophidia",
+        "color": "Blue",
         "pitch": "3",
         "cost": "",
         "power": "",
@@ -75,6 +78,7 @@
             "Ressource",
             "Edelstein"
         ],
+        "traits": [],
         "card_keywords": [
             "Legendär",
             "Sortiere 2 um"
@@ -127,6 +131,7 @@
     {
         "unique_id": "pkMGCRh9fDT98dRgnQF8W",
         "name": "Scherbe der Erznacht",
+        "color": "Blue",
         "pitch": "3",
         "cost": "",
         "power": "",
@@ -138,6 +143,7 @@
             "Ressource",
             "Edelstein"
         ],
+        "traits": [],
         "card_keywords": [
             "Legendär",
             "Viserai-Spezialisierung"

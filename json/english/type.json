@@ -88,6 +88,14 @@
         "name": "Brute"
     },
     {
+        "unique_id": "P9d8zF7mF7Lw9DjjcpqBT",
+        "name": "Cannon"
+    },
+    {
+        "unique_id": "BBBmjtrkffB6wcmRgLqzz",
+        "name": "Chaos"
+    },
+    {
         "unique_id": "Bp7wdKfgzKBz88hPDPGm6",
         "name": "Chest"
     },
@@ -102,6 +110,10 @@
     {
         "unique_id": "NnTDtPCgbNq7GgprgwC7r",
         "name": "Club"
+    },
+    {
+        "unique_id": "qH8zJBhrpKrMLTGwmmnTR",
+        "name": "Cog"
     },
     {
         "unique_id": "HrgTfm7hGrDQ8bLcTpjB9",
@@ -142,6 +154,10 @@
     {
         "unique_id": "NGBgjq76Q7GHNH9P9nHgM",
         "name": "Equipment"
+    },
+    {
+        "unique_id": "6LcQhGP7qpJdWN8GFGNWT",
+        "name": "Event"
     },
     {
         "unique_id": "hJ7L9WbpPFdjw9hKWN8cP",
@@ -186,6 +202,10 @@
     {
         "unique_id": "b8G7cnjcNcGLktWj8WLDb",
         "name": "Hero"
+    },
+    {
+        "unique_id": "cfbtgDrfcHMgzzhpMbmKf",
+        "name": "High Seas"
     },
     {
         "unique_id": "8Jt7j6JwCjjLMtr8jDQtD",
@@ -252,6 +272,10 @@
         "name": "Mystic"
     },
     {
+        "unique_id": "mLWWR8DrqjTNNCmnr7BQr",
+        "name": "Necromancer"
+    },
+    {
         "unique_id": "GC7qTwCNRhnM89fNqHGRf",
         "name": "Ninja"
     },
@@ -264,12 +288,24 @@
         "name": "Orb"
     },
     {
+        "unique_id": "kHhH8HLcdhkFQtKw6WkFG",
+        "name": "Pirate"
+    },
+    {
         "unique_id": "CK6bh8fzPQnFnn7qMNnhq",
         "name": "Pistol"
     },
     {
+        "unique_id": "jLnhBq6Gm9QwrgjdnR6rb",
+        "name": "Pit-Fighter"
+    },
+    {
         "unique_id": "dpKFPnnBFdfh6gcGGcj99",
         "name": "Placeholder Card"
+    },
+    {
+        "unique_id": "hLRFPFpDbdjGkNTQQjzzt",
+        "name": "Polearm"
     },
     {
         "unique_id": "B7GtthGWB6pkK8M9NwWGp",
@@ -286,6 +322,10 @@
     {
         "unique_id": "LgFRWWjCpQ8Bk9BznncWt",
         "name": "Rock"
+    },
+    {
+        "unique_id": "dwThjWrLJChPnFznrTz77",
+        "name": "Rosetta"
     },
     {
         "unique_id": "RCTkdzmcK8rfB7wRqtCgT",
@@ -330,6 +370,10 @@
     {
         "unique_id": "KwNFJtj8Ft7TgmKqPkP9b",
         "name": "Token"
+    },
+    {
+        "unique_id": "LwwM7bFFNr7rH8fCp98jM",
+        "name": "Thief"
     },
     {
         "unique_id": "tTjm9CpwRnRdFHzWTG8MW",

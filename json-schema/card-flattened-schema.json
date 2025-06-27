@@ -9,6 +9,10 @@
                 "description": "The name of the card.",
                 "type": "string"
             },
+            "color": {
+                "description": "The color of the card's pitch strip. Can be Red, Yellow, Blue, or blank.",
+                "type": "string"
+            },
             "pitch": {
                 "description": "The pitch value of the card. Can be a number or blank.",
                 "type": "string"
@@ -42,6 +46,14 @@
                 "type": "array",
                 "items": {
                     "description": "An individual type.",
+                    "type": "string"
+                }
+            },
+            "traits": {
+                "description": "The traits of the card.",
+                "type": "array",
+                "items": {
+                    "description": "An individual trait.",
                     "type": "string"
                 }
             },
@@ -343,6 +355,7 @@
         "required": [
             "unique_id",
             "name",
+            "color",
             "pitch",
             "cost",
             "power",
@@ -350,6 +363,7 @@
             "health",
             "intelligence",
             "types",
+            "traits",
             "card_keywords",
             "abilities_and_effects",
             "ability_and_effect_keywords",

@@ -63,3 +63,6 @@
 - Updated card printing's art_variation field to be art_variations field, which is an array of art variations for the printing
 - Updated set_printing's out_of_print_date field to be out_of_print, which is now a boolean
 - Updated set_printing with new card_database, release_notes, and set_logo fields
+
+06-27-25:
+- Updated card to have new color and traits fields
