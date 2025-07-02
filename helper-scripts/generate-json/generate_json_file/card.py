@@ -228,7 +228,10 @@ def generate_json_file():
 
             # Card Printings
 
-            card_printing_array = card_printing_dict[card_unique_id]
+            if card_unique_id in card_printing_dict:
+                card_printing_array = card_printing_dict[card_unique_id]
+            else:
+                card_printing_array = []
 
             card_object['printings'] = card_printing_array
 

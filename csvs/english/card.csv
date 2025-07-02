@@ -583,6 +583,9 @@ While Barraging Big Horn is defended by less than 2 non-equipment cards, it has 
 8h9W9mdd6djDk6JCMCdGt	Barraging Brawnhide	Red	1	3	7	2				Generic, Action, Attack								While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack					
 hJdQ9Bfwm8Fz8kdtzHHqL	Barraging Brawnhide	Yellow	2	3	6	2				Generic, Action, Attack								While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack					
 9FcqNtGpHg68zzCggJkkP	Barraging Brawnhide	Blue	3	3	5	2				Generic, Action, Attack								While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack					
+kJzkbhWtqDJcCD6ngwkBH	Bask in Your Own Greatness	Red	1	0	4	2				Reviled, Action, Attack								When this attacks, you may pay up to {r}{r}{r}. Create that many Might tokens.	Reviled Action - Attack					
+jg7dz6tkjTTqgmcNQbLRW	Bask in Your Own Greatness	Yellow	2	0	3	2				Reviled, Action, Attack								When this attacks, you may pay up to {r}{r}{r}. Create that many Might tokens.	Reviled Action - Attack					
+CdnTg7KmhKzWpJcd9JHrR	Bask in Your Own Greatness	Blue	3	0	2	2				Reviled, Action, Attack								When this attacks, you may pay up to {r}{r}{r}. Create that many Might tokens.	Reviled Action - Attack					
 8QrLPLnBTwCjng6NzNtgp	Bastion of Duty					2				Guardian, Equipment, Off-Hand		Protect, Temper						"**Protect**
 
 **Temper**"	Guardian Equipment - Off-Hand					
@@ -1288,6 +1291,7 @@ If you control a Hyper Driver, this gets **overpower**."	Mechanologist Action - 
 FLfrm7mBczWhFLBTKmBgJ	Bull's Eye Bracers					0				Ranger, Equipment, Arms		Arcane Barrier 1	Action	Go again				"**Action** - Destroy Bull's Eye Bracers: If you have no cards in your arsenal, you may put an arrow card from your hand face up into your arsenal. It gains +1{p} until end of turn. **Go again**
 
 **Arcane Barrier 1**"	Ranger Equipment - Arms					
+tk7rTRCHCTKrRtffjFQGC	Bully Tactics	Red	1	0	3	3				Reviled, Action, Attack		Intimidate						When this attacks a hero, you may pay up to {r}{r}{r}. **Intimidate** them that many times.	Reviled Action - Attack				No	
 qdzb6znQFtcJHcPNnkFF7	Bunker Beard					0				Generic, Equipment, Head			Defense Reaction					**Defense Reaction** - Destroy this: You may add an action card from your arsenal to the active chain link as a defending card.	Generic Equipment - Head					
 bCr7BCMzbRDWdBCJfTdTM	Burdens of the Past	Blue	3	0		3				Generic, Action		Go again						"Until end of turn, target hero can't play defense reaction cards with the same name as a card in their graveyard.
 
@@ -1512,6 +1516,10 @@ Create a Gold token for each yellow card put into your graveyard this way.
 
 **Go again**"	Pirate Necromancer Action				No	
 WRGBnNRjPprcPjd67kBqM	Chase the Tail	Red	1	1	4	3				Ninja, Action, Attack		Combo						**Combo** - When this attacks, if Crouching Tiger was the last attack this combat chain, this gets go again and the next Crouching Tiger you play this combat chain gets +3{p}.	Ninja Action - Attack				No	
+7bfH9wkNGQKGzHKfGrQfd	Cheater's Charm	Yellow	2	0						Reviled, Brute, Instant		Steal, The Crowd Boos						"Choose any number;
+- **Steal** a Confidence or Toughness token.
+- **The crowd boos** you.
+- If you control an attack with 6 or more {p}, deal 2 damage to target hero unless they discard a card."	Reviled Brute Instant				No	
 LrjhhdFHqndpWG8d66GJz	Chief Ruk'utan					3				Brute, Mentor		Intimidate						"While Ruk'utan is face down in arsenal, at the start of your turn, you may turn him face up.
 
 While Ruk'utan is face up in arsenal, whenever you play a card with 6 or more {p}, **intimidate**, and put a lesson counter on him. Then if there are 2 or more lesson counters on Ruk'utan, banish him, search your deck for Alpha Rampage, put it face up in arsenal, and shuffle."	Brute Mentor			No	No	No
@@ -1788,6 +1796,9 @@ qr8WW79Hrfcj8DkpKzRfd	Come to Fight	Yellow	2	1		3				Generic, Action		Go again		
 Dc8cHfKHFHkg98Pwn6H96	Come to Fight	Blue	3	1		3				Generic, Action		Go again						"The next attack action card you play this turn gains +1{p}.
 
 **Go again**"	Generic Action					
+RLDRbkhHqH6DQCjtqPrMQ	Comeback Kid	Red	1	3	7	3				Revered, Action, Attack		The Crowd Cheers					The Crowd Cheers	"When this attacks a hero, if you have less {h} than them, **the crowd cheers* you.
+
+If you've been cheered this turn, this gets +1{p}."	Revered Action - Attack				No	
 hNtpt77b8dGgTbkCqzCLB	Comet Storm // Shock	Red	1	2		3			6	Wizard, Action, Lightning, Instant		Meld						"**Meld**
 
 Deal 5 arcane damage to any target.
@@ -1971,6 +1982,7 @@ Whenever an arrow is put face up into your arsenal from your deck, you may pay {
 DfkBWGW6Wqk8P6NdGjtrz	Crowd Control	Red	1			4				Bard, Block								When this defends, you may pay {r}{r}{r}. If you do, it gets +1{d} for each opposing hero.	Bard Block				Yes	
 9MMPg6FzLBnGmNtjnFtCQ	Crowd Control	Yellow	2			3				Bard, Block								When this defends, you may pay {r}{r}{r}. If you do, it gets +1{d} for each opposing hero.	Bard Block				Yes	
 WDTM8c7DNBzkphfGWtBkN	Crowd Control	Blue	3			2				Bard, Block								When this defends, you may pay {r}{r}{r}. If you do, it gets +1{d} for each opposing hero.	Bard Block				Yes	
+HF9r7w6kkD9C7Qddqn8kR	Crowd Goes Wild	Yellow	2	3	6	3				Revered, Action, Attack							The Crowd Cheers	If you've been cheered this turn, this costs {r}{r}{r} less to play.	Revered Action - Attack				No	
 Fj6DCwFDczkFfd7dtnd9J	Crowd Roars Fight!									Event								Your next attack this turn gets +1{p} and may attack any opposing hero.	Event		No	No	No	No
 CQLdjjNmHTMfDnqzW6TLg	Crown of Dichotomy					0				Runeblade, Equipment, Head		Arcane Barrier 1	Action					"**Action** - {r}, destroy Crown of Dichotomy: Put target Runeblade attack action card and target Runeblade 'non-attack' action card from your graveyard on top of your deck in any order.
 
@@ -2303,6 +2315,9 @@ Your next dagger attack this turn gets +2{p}."	Warrior Attack Reaction				No
 pnrmmPMcwr7twfKQnHhcm	Diced	Blue	3	0		2				Warrior, Attack Reaction								"Target dagger attack gets +1{p}.
 
 Your next dagger attack this turn gets +1{p}."	Warrior Attack Reaction				No	
+gncL7pDCJzDJffqCnGGQM	Dig In	Red	1	3	7	3				Revered, Action, Attack								When this defends, you may pay up to {r}{r}{r}. Create that many Toughness tokens.	Revered Action - Attack					
+RhkhMcbkCpRhLmpfqmbDF	Dig In	Yellow	2	3	6	3				Revered, Action, Attack								When this defends, you may pay up to {r}{r}{r}. Create that many Toughness tokens.	Revered Action - Attack					
+8TmrQnhqFHDGkCQGKzWTj	Dig In	Blue	3	3	5	3				Revered, Action, Attack								When this defends, you may pay up to {r}{r}{r}. Create that many Toughness tokens.	Revered Action - Attack					
 QgkQT8TfFkgPfKbqmF9pb	Dig Up Dinner	Blue	3	1		3				Brute, Action		Go again						"Choose 3 random cards in your graveyard. Shuffle all attack action cards with 6 or more {p} chosen this way into your deck, then gain that much {h}. Banish this.
 
 **Go again**"	Brute Action				No	
@@ -4854,6 +4869,11 @@ NcQMQ79gb9P7CTMfWfBz8	Kayo, Berserker Runt						19	4		Brute, Hero, Young								
 - 1 to 4 - Halve the attack's base {p}, rounded down.
 
 - 5 to 6 - Double the attack's base {p}."	Brute Hero - Young			No		No
+fMDbBJHTPL7dcMMFNkCCm	Kayo, Underhanded Cheat						40	4		Reviled, Brute, Hero			Instant				The Crowd Boos	"You start the game with 1 weapon zone.
+
+**Instant** - {r}{r}{r}{r}, {t}: Target attack action card you control has 6 base {p}.
+
+Whenever the crowd boos you, create a Vigor token."	Reviled Brute Hero		No		No	
 QCKrPkcL9crDhmNhQTnPc	Kelpie, Tangled Mess	Yellow	2	0	1		3			Pirate, Necromancer, Action, Ally		Watery Grave	Action	Attack, Go again				"**Action** - {t}: **Attack**
 
 **Action** - {r}, {t}: {t} target hero or ally. **Go again**
@@ -5041,6 +5061,10 @@ GFc7t8wNTwC8rCFwrqTfh	Lexi						20	4		Elemental, Ranger, Hero, Young		Essence of
 PFmgFK9dFr8q6PrpJFpPG	Lexi, Livewire						40	4		Elemental, Ranger, Hero		Essence of Ice and Lightning	Once per Turn Action	Go again	Go again			"**Essence of Ice and Lightning**
 
 **Once per Turn Action** - Turn a face down card in your arsenal face up: If it's a Lightning card, your next attack this turn gains **go again**. If it's an Ice card, create a Frostbite token under target hero's control. **Go again**"	Elemental Ranger Hero		No		No	
+cHPKptkbztKtj7bQnWmmP	Liar's Charm	Yellow	2	0						Reviled, Guardian, Instant		Steal, The Crowd Boos						"Choose any number;
+- **Steal** a Toughness or Vigor token.
+- **The crowd boos** you.
+- Target hero loses and can't gain abilities this action phase unless they discard a card."	Reviled Guardian Instant				No	
 qqzmLCbJJ6nwQGtzrJMcL	Life for a Life	Red	1	1	4	2				Generic, Action, Attack		Go again						"When this is played, if you have less {h} than an opposing hero, it gets **go again**.
 
 When this hits, gain 1{h}."	Generic Action - Attack					
@@ -5194,6 +5218,11 @@ z8GG8N7Lkg6BQR7FnWcwp	Luminaris, Celestial Fury									Light, Illusionist, Weap
 GkJfHHnhbDNWnfwGNTznm	Lunartide Plunderer	Yellow	2	3	6	2				Shadow, Action, Attack								If Lunartide Plunderer hits a hero, banish it and a card from their soul.	Shadow Action - Attack					
 wFPpjqhRHHNdNkDbRffBF	Lunartide Plunderer	Blue	3	3	5	2				Shadow, Action, Attack								If Lunartide Plunderer hits a hero, banish it and a card from their soul.	Shadow Action - Attack					
 KTHGJMmtDhhmTdbm9zcQC	Lunging Press	Blue	3	0		2				Generic, Attack Reaction								Target attack action card gains +1{p}.	Generic Attack Reaction					
+MgKprw8PQjNKC7JDmppHh	Lyath Goldmane, Vile Savant						40	5		Reviled, Guardian, Hero			Instant	The Crowd Boos			The Crowd Boos	"The base {p} and {d} of cards you control are halved, rounded up.
+
+**Instant** - {r}{r}, {t}: **The crowd boos** you. Defending action cards you control get +1{d} this turn.
+
+Whenever the crowd boos you, create a Might token."	Reviled Guardian Hero		No		No	
 MBGNCzRpfLJ6bqMpMzppm	MHz Script	Yellow	2	0						Mechanologist, Action, Item		Crank			Go again			"**Crank**
 
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
@@ -5496,6 +5525,9 @@ gJH8NpPRNdFtTbDQTDzHL	Mistcloak Gully			1						Mystic, Instant, Landmark		Legend
 The first attack that targets you each turn gets -1{p}.
 
 At the beginning of each end phase, destroy this unless you've pitched, played, or defended with a blue card this turn. If you've pitched, played, and defended with a blue card this turn, **transcend**."	Mystic Instant - Landmark	Yes			No	
+m7nLdbTgfJKmdQrmCDTcq	Mocking Blow	Red	1	0	1	3				Reviled, Action, Attack							The Crowd Boos	"When this attacks a hero, if you have more {h} than them, **the crowd boos** you.
+
+If you've been booed this turn, this gets +4{p}."	Reviled Action - Attack				No	
 7mgnPjCmmLc9K9WwLdhJ6	Money Where Ya Mouth Is	Red	1	1		2				Generic, Action		Go again			Wager			"Your next attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 B7Db99Nw9PFrJLmRzPT7t	Money Where Ya Mouth Is	Yellow	2	1		2				Generic, Action		Go again			Wager			"Your next attack this turn gets +2{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 9BM9L9zrh8BgBWkPDdJgf	Money Where Ya Mouth Is	Blue	3	1		2				Generic, Action		Go again			Wager			"Your next attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
@@ -5701,6 +5733,10 @@ n8rcTcmmLzzwTWHCwgtRP	Nullrune Boots					0				Generic, Equipment, Legs		Arcane B
 9DNnTrggQrJWn8CMFJJhf	Nullrune Hood					0				Generic, Equipment, Head		Arcane Barrier 1						**Arcane Barrier 1**	Generic Equipment - Head					
 TKd8jdfqgWnjdNRBmkKfB	Nullrune Robe					0				Generic, Equipment, Chest		Arcane Barrier 1						**Arcane Barrier 1**	Generic Equipment - Chest					
 tDjBgLK9QzgrFzLHzwBnC	Numbskull	Red	1	2	6	3				Brute, Action, Attack								While this is in any zone, its {r} cost to play, {p}, and {d} can't be modified.	Brute Action - Attack				No	
+wHhtChfRBPBbjKqcmrMJf	Numbskull Charm	Yellow	2	0						Revered, Brute, Instant		The Crowd Cheers						"Choose any number;
+- Destroy a Confidence or Might token.
+- **The crowd cheers** you.
+- Pitch the top card of your deck. If it has 6 or more {p}, create a Vigor token."	Revered Brute Instant				No	
 prMJkPd8w9KQHQ9BjgMmG	Nuu						20	4		Mystic, Assassin, Hero, Young			Instant				Stealth	"Your attacks with **stealth** get ""When this chain link resolves, banish all action cards defending this.""
 
 **Instant** - {c}{c}{c}: Look at the top card of an opposing hero's deck. If it's blue, you may banish it. Until end of turn, you may play blue cards from that hero's banished zone without paying their {r} cost."	Mystic Assassin Hero - Young			No		No
@@ -6195,6 +6231,9 @@ QmBfhgrGL6JDrhkn6ccg8	Platinum Amulet	Blue	3	0						Generic, Action, Item		Legen
 
 **Legend of the Watery Grave**"	Generic Action - Item				No	
 LQDwqpNddrmqQQb8J9dht	Pledge Fealty	Red	1	0						Draconic, Instant								Create a Fealty token.	Draconic Instant					
+JhgRJb6nfctWkndbzrgnj	Pleiades, Superstar						40	4		Revered, Guardian, Hero			Instant				The Crowd Cheers	"**Instant** - {t}, remove a suspense counter from an aura you control: You may put a suspense counter on an aura of suspense you control.
+
+Whenever the crowd cheers you, create a Confidence token."	Revered Guardian Hero		No		No	
 T8TC8nQ6HCgPGGLKRhpwh	Plow Through	Red	1	1		3				Warrior, Action		Go again						"Your next weapon attack this turn gains +3{p} and ""If this weapon is defended by an attack action card, it gains +1{p} until end of turn.""
 
 **Go again**"	Warrior Action				No	
@@ -9111,6 +9150,10 @@ When Themis attacks, you may banish a card from your hero's soul. If you do, tur
 
 **Ward 4**"	Light - Angel Ally				No	
 DbqmMdc6Mw9jGpPQBcwRd	Theryon, Magister of Justice						20	4		Light, Adjudicator, Hero								The first time each turn another hero destroys a card they don't control, you may pay {r}{r}. If you do, they destroy a non-hero permanent they control.	Light Adjudicator Hero		No	No	No	No
+NwWCLDRkRhtkT8JrRnFgt	Thespian Charm	Yellow	2	0						Revered, Guardian, Instant		The Crowd Cheers						"Choose any number;
+- Destroy a Might or Vigor token.
+- **The crowd cheers** you.
+- Return an aura permanent you control to its owner's hand."	Revered Guardian Instant				No	
 QDH7qtJbC6HLbqnGzDBkR	Thick Hide Hunter	Yellow	2	2	6	6				Brute, Action, Attack								When this attacks or defends, discard a random card.	Brute Action - Attack				No	
 mGJzBdWQ7W7FHH6QnLzNj	Thiev'n Varmints	Red	1	0	4	3				Pirate, Action, Attack								When this attacks, you may remove a gold counter from Treasure Island. If you do and you are a Thief, create a Gold token.	Pirate Action - Attack					
 RHLWQrrJnTDMjfMjpf9m8	This Round's on Me	Blue	3	1		3				Generic, Action		Go again						"Each hero draws a card.
@@ -9427,6 +9470,9 @@ WnPNGc8HLQHhbFKFrLkPM	Truths Retold									Mystic, Illusionist, Equipment, Head
 **Instant** - {r}, turn this face-up: Put an aura from your graveyard on the bottom of your deck.
 
 **Ward 1**"	Mystic Illusionist Equipment - Head					
+wqmMJj8PqzNHg7Q7LMqTR	Tuffnut, Bumbling Hulkster						40	3		Revered, Brute, Hero			Instant	The Crowd Cheers			The Crowd Cheers	"**Instant** - {t}: Pitch the top card of your deck. If it has 6 or more {p}, **the crowd cheers* you.
+
+Wheenver the crowd cheers you, create a Toughness token."	Revered Brute Hero		No		No	
 67qdjCMdF7qMmrDpcjWWD	Turn Timber	Red	1	2		6				Elemental, Guardian, Defense Reaction		Earth Fusion						"**Earth Fusion**
 
 If Turn Timber was **fused**, it gains +2{d}."	Elemental Guardian Defense Reaction				No	

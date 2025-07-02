@@ -1100,7 +1100,7 @@
                 "unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
                 "edition": "N",
                 "start_card_id": "LGS001",
-                "end_card_id": "LGS413",
+                "end_card_id": "LGS425",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1522,6 +1522,27 @@
                 "card_gallery": null,
                 "release_notes": null,
                 "set_logo": null
+            }
+        ]
+    },
+    {
+        "unique_id": "HwFzNL9HbGLbfB8TjDrBF",
+        "id": "SUP",
+        "name": "Super Slam",
+        "printings": [
+            {
+                "unique_id": "wJwjGbHjzbbFJdGdGJMMh",
+                "edition": "N",
+                "start_card_id": "SUP001",
+                "end_card_id": "SUP090",
+                "initial_release_date": "2025-09-26T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": "https://fabtcg.com/en/products/booster-set/super-slam/",
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": "https://dhhim4ltzu1pj.cloudfront.net/media/images/super_slam_logo.original.png"
             }
         ]
     },
