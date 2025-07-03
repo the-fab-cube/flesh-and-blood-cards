@@ -876,3 +876,10 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed an issue with Claw of Vynserakai's types field - bug notice credit: PvtVoid
 - Fixed an issue with Crash and Bash (yellow and blue) having incorrect block values - bug notice credit: PvtVoid
 - Fixed an issue with Shock Frock having missing block value - bug notice credit: PvtVoid
+
+07-03-25:
+- Added card data for Bittering Thorns (Blue), Legacy of Ikaru, Robe of Autumn's Fall, Seek Vengeance (Red and Blue), and Vengeance Never Rests
+- Added printing data for ASR002, ASR004, ASR006-ASR007, and ASR009-ASR027
+- Added images for ASR002, ASR004, ASR006-ASR007, and ASR009-ASR027
+- Added card db info for ASR set
+- Updated functional text for Bittering Thorns, FLic Flak, Flying Kick, Give and Take, Razor Reflex, Snatch, Soulbead Strike, Torrent of Tempo, and Whirling Mist Blossom

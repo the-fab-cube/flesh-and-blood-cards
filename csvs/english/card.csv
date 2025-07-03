@@ -776,10 +776,13 @@ If Biting Gale was **fused**, the attacking hero discards a card unless they pay
 NWbL6RKjbRBKQJphmHDmk	Biting Gale	Blue	3	2		2				Elemental, Guardian, Defense Reaction		Ice Fusion						"**Ice Fusion**
 
 If Biting Gale was **fused**, the attacking hero discards a card unless they pay {r}{r}."	Elemental Guardian Defense Reaction				No	
-dLdBfMKhPbj8qppT6LgdL	Bittering Thorns	Red	1	1	4	2				Ninja, Action, Attack		Go again						"When this hits, your next attack this turn gains +1{p}.
+dLdBfMKhPbj8qppT6LgdL	Bittering Thorns	Red	1	1	4	2				Ninja, Action, Attack		Go again						"When this hits, your next attack this turn gets +1{p}.
 
 **Go again**"	Ninja Action - Attack					
-HQPwgkmgJzK6ncfgQ7QBC	Bittering Thorns	Yellow	2	1	3	2				Ninja, Action, Attack		Go again						"When this hits, your next attack this turn gains +1{p}.
+HQPwgkmgJzK6ncfgQ7QBC	Bittering Thorns	Yellow	2	1	3	2				Ninja, Action, Attack		Go again						"When this hits, your next attack this turn gets +1{p}.
+
+**Go again**"	Ninja Action - Attack					
+RwNrQDRKQfMcNRc8pbLNM	Bittering Thorns	Blue	3	1	2	2				Ninja, Action, Attack		Go again						"When this hits, your next attack this turn gets +1{p}.
 
 **Go again**"	Ninja Action - Attack					
 BdktjfJkbNJzMfKQ6Mtrd	Blackout Kick	Red	1	1	4	3				Ninja, Action, Attack		Combo						**Combo** - If Rising Knee Thrust was the last attack this combat chain, Blackout Kick gains +3{p}.	Ninja Action - Attack				No	
@@ -3451,9 +3454,9 @@ MGFhzzHdwLqwChD6TLkjk	Flex Claws	Yellow	2	1	3	2				Ninja, Action, Attack		Go aga
 phtD8RM6rJ6FWPFwFwkzg	Flex Claws	Blue	3	1	2	2				Ninja, Action, Attack		Go again						"When this hits, create a Crouching Tiger in your banished zone. You may play it this turn.
 
 **Go again**"	Ninja Action - Attack					
-WtGtPtHBQMNnjzBdcdLNd	Flic Flak	Red	1	0		4				Ninja, Defense Reaction							Combo	If the next card you defend with this turn is a card with **combo**, it gains +2{d}.	Ninja Defense Reaction				No	
-NWTPMPpLT7TL7qzkBLTHF	Flic Flak	Yellow	2	0		3				Ninja, Defense Reaction							Combo	If the next card you defend with this turn is a card with **combo**, it gains +2{d}.	Ninja Defense Reaction				No	
-tNwNjDkrznjwrPP6bHBtD	Flic Flak	Blue	3	0		2				Ninja, Defense Reaction							Combo	If the next card you defend with this turn is a card with **combo**, it gains +2{d}.	Ninja Defense Reaction				No	
+WtGtPtHBQMNnjzBdcdLNd	Flic Flak	Red	1	0		4				Ninja, Defense Reaction							Combo	If the next card you defend with this turn is a card with combo, it gains +2{d}.	Ninja Defense Reaction				No	
+NWTPMPpLT7TL7qzkBLTHF	Flic Flak	Yellow	2	0		3				Ninja, Defense Reaction							Combo	If the next card you defend with this turn is a card with combo, it gains +2{d}.	Ninja Defense Reaction				No	
+tNwNjDkrznjwrPP6bHBtD	Flic Flak	Blue	3	0		2				Ninja, Defense Reaction							Combo	If the next card you defend with this turn is a card with combo, it gains +2{d}.	Ninja Defense Reaction				No	
 Bh6NHMCNrhdwbHb7CJRb7	Flick Knives					1				Assassin, Ninja, Equipment, Arms		Blade Break	Once per Turn Attack Reaction					"**Once per Turn Attack Reaction** - 0: Target dagger you control that isn't on the active chain link deals 1 damage to target hero. If damage is dealt this way, the dagger has hit. Destroy the dagger.
 
 **Blade Break**"	Assassin / Ninja Equipment - Arms				No	
@@ -3511,9 +3514,9 @@ g8DkCdbjNtDPTMWhDFnNf	Flying High	Red	1	0		2				Generic, Action		Go again			Go a
 nL9rPDJLqLM9dBndmpn6L	Flying High	Blue	3	0		2				Generic, Action		Go again			Go again			"Your next attack this turn gets **go again**. If it's blue, it gets +1{p}.
 
 **Go again**"	Generic Action				No	
-fRMpqdL8MjMKkPq9rG8J8	Flying Kick	Red	1	2	5	3				Ninja, Action, Attack								When this is played as chain link 3 or higher, it gains +2{p}.	Ninja Action - Attack					
-R7RwbN6Gw8g79hw7wwPMf	Flying Kick	Yellow	2	2	4	3				Ninja, Action, Attack								When this is played as chain link 3 or higher, it gains +2{p}.	Ninja Action - Attack					
-MCtGBgjzJWb8rPmNPTDWp	Flying Kick	Blue	3	2	3	3				Ninja, Action, Attack								When this is played as chain link 3 or higher, it gains +2{p}.	Ninja Action - Attack					
+fRMpqdL8MjMKkPq9rG8J8	Flying Kick	Red	1	2	5	3				Ninja, Action, Attack								If this was played as chain link 3 or higher, it gets +2{p}.	Ninja Action - Attack					
+R7RwbN6Gw8g79hw7wwPMf	Flying Kick	Yellow	2	2	4	3				Ninja, Action, Attack								If this was played as chain link 3 or higher, it gets +2{p}.	Ninja Action - Attack					
+MCtGBgjzJWb8rPmNPTDWp	Flying Kick	Blue	3	2	3	3				Ninja, Action, Attack								If this was played as chain link 3 or higher, it gets +2{p}.	Ninja Action - Attack					
 tKf7fDRqqJHHn7QgrKjdR	Fog Down	Yellow	2	3		3				Generic, Action, Aura						Go again		"'Non-attack' action cards lose and can't gain **go again**.
 
 At the beginning of your action phase, destroy Fog Down."	Generic Action - Aura				No	
@@ -3743,7 +3746,7 @@ LqjLWfPCwPRnNCmJzn7Bg	Gigawatt	Blue	3	1		2				Mechanologist, Action		Go again			
 dMBRGmmzWTNGjDRbRMzMn	Give No Quarter	Blue	3	0		3				Pirate, Necromancer, Action		Go again						"The next 2 ally cards with watery grave you play this turn cost {r}{r}{r} less to play.
 
 **Go again**"	Pirate Necromancer Action				No	
-KcbmbJJFzhLKRT6jDjTmP	Give and Take	Red	1	1	3	3				Generic, Action, Attack		Go again						"Whenever an action card defends Give and Take, you may put an action card with cost less than Give and Take's {p} from your graveyard on top of your deck.
+KcbmbJJFzhLKRT6jDjTmP	Give and Take	Red	1	1	3	3				Generic, Action, Attack		Go again						"Whenever an action card defends this, you may put an action card with cost less than this card's {p} from your graveyard on top of your deck.
 
 **Go again**"	Generic Action - Attack				No	
 qMHcbmnLmdDfBkNWhkPdN	Glacial Footsteps	Red	1	6	10	3				Elemental, Guardian, Action, Attack		Ice Fusion, Dominate						"**Ice Fusion**
@@ -5019,6 +5022,7 @@ When this hits a hero, banish the top card of their deck and up to 1 card in the
 Thbcg9RW9t8WNfMCpgNmk	Leg Tap	Red	1	1	4	2				Ninja, Action, Attack		Go again						**Go again**	Ninja Action - Attack					
 9K6tW9Kcqfc67PtcgmNTP	Leg Tap	Yellow	2	1	3	2				Ninja, Action, Attack		Go again						**Go again**	Ninja Action - Attack					
 dcWdcd8Q6tnPKDT6nKkjH	Leg Tap	Blue	3	1	2	2				Ninja, Action, Attack		Go again						**Go again**	Ninja Action - Attack					
+JcTJrnMgfhqHj6b8ckr8W	Legacy of Ikaru	Blue	3	0		3				Ninja, Attack Reaction								"Target Ninja attack gets +1{p} and ""When this hits, if Edge of Autumn was the last attack this combat chain, draw a card."""	Ninja Attack Reaction				No	
 DGNn7nRKwBjzf9f9rmzJM	Lesson in Lava	Yellow	2	1		3			3	Wizard, Action		Kano Specialization						"**Kano Specialization**
 
 Deal 3 arcane damage to target opposing hero.
@@ -6798,13 +6802,13 @@ zBjL8PJJGGwQPqHrk7RnP	Raydn, Duskbane				0					Light, Warrior, Weapon, Sword, 2H
 If you've **charged** this turn, Raydn gains +3{p}."	Light Warrior Weapon - Sword (2H)				No	
 MTkdbnhrJNznC69Jg7NLj	Razor Reflex	Red	1	1		2				Generic, Attack Reaction					Go again			"Choose 1;
 - Target dagger or sword weapon attack gets +3{p}.
-- Target attack action card with cost 1 or less gets +3{p} and ""When this hits, this gets **go again**."""	Generic Attack Reaction					
+- Target attack action card with cost 1 or less gets +3{p} and ""When this hits, it gets **go again**."""	Generic Attack Reaction					
 bcGWPgwCmKhHWHBQgQgh9	Razor Reflex	Yellow	2	1		2				Generic, Attack Reaction					Go again			"Choose 1;
 - Target dagger or sword weapon attack gets +2{p}.
-- Target attack action card with cost 1 or less gets +2{p} and ""When this hits, this gets **go again**."""	Generic Attack Reaction					
+- Target attack action card with cost 1 or less gets +2{p} and ""When this hits, it gets **go again**."""	Generic Attack Reaction					
 N6gfwdhMGJKfG6mzt7RTL	Razor Reflex	Blue	3	1		2				Generic, Attack Reaction					Go again			"Choose 1;
 - Target dagger or sword weapon attack gets +1{p}.
-- Target attack action card with cost 1 or less gets +1{p} and ""When this hits, this gets **go again**."""	Generic Attack Reaction					
+- Target attack action card with cost 1 or less gets +1{p} and ""When this hits, it gets **go again**."""	Generic Attack Reaction					
 rpWjb6pnqgzTH7Cgcf98w	Razor's Edge	Red	1	0		3				Assassin, Attack Reaction							Stealth	Target attack action card with **stealth** gets +3{p}.	Assassin Attack Reaction					
 mTdJmRRRjjqGBGbPHLcRq	Razor's Edge	Yellow	2	0		3				Assassin, Attack Reaction							Stealth	Target attack action card with **stealth** gets +2{p}.	Assassin Attack Reaction					
 DzdfLNnTQbw7t99Bz8KqB	Razor's Edge	Blue	3	0		3				Assassin, Attack Reaction							Stealth	Target attack action card with **stealth** gets +1{p}.	Assassin Attack Reaction					
@@ -7222,6 +7226,9 @@ When this hits a hero, banish the top card of their deck."	Assassin Action - Att
 LKppkHRwJHjnccLKhNHGG	Rob the Rich	Blue	3	1	3	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish opponents' cards with cost 2 or greater. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."	Assassin Action - Attack				No	
+W99DkNW9tQLbq6w6prDQB	Robe of Autumn's Fall					0				Ninja, Equipment, Chest		Arcane Barrier 1						"When an Edge of Autumn you control hits, you may destroy this. If you do, gain {r}.
+
+**Arcane Barrier 1**"	Ninja Equipment - Chest				No	
 CKdtt7jhNp8DK9QzCqGkz	Robe of Rapture					0				Wizard, Equipment, Chest		Arcane Barrier 1	Action					"**Action** - Destroy Robe of Rapture: Gain {r}{r}{r}.
 
 **Arcane Barrier 1**"	Wizard Equipment - Chest					
@@ -7717,6 +7724,8 @@ WpRGpbwRLk8nbpLkDkddN	Seek Enlightenment	Blue	3	1		2				Light, Action		Go again	
 NnPBTJzJr8PMqGdN9dDtH	Seek Horizon	Red	1	0	4	2				Generic, Action, Attack		Go again						As an additional cost to play Seek Horizon, you may put a card from your hand on top of your deck. If you do, Seek Horizon gains **go again**.	Generic Action - Attack					
 fTLNzLLwbfCDzGf8cDnTr	Seek Horizon	Yellow	2	0	3	2				Generic, Action, Attack		Go again						As an additional cost to play Seek Horizon, you may put a card from your hand on top of your deck. If you do, Seek Horizon gains **go again**.	Generic Action - Attack					
 gKfz9fDKmTChbm7FmMgjh	Seek Horizon	Blue	3	0	2	2				Generic, Action, Attack		Go again						As an additional cost to play Seek Horizon, you may put a card from your hand on top of your deck. If you do, Seek Horizon gains **go again**.	Generic Action - Attack					
+W9wBMn7CBbnwbWCt7chdT	Seek Vengeance	Red	1	0	4	3				Ninja, Action, Attack		Combo, Go again						**Combo** - If Edge of Autumn was the last attack this combat chain, this gets **go again**.	Ninja Action - Attack				No	
+GgTjfBKgfWdMRNRhCcPt7	Seek Vengeance	Blue	3	0	2	3				Ninja, Action, Attack		Combo, Go again						**Combo** - If Edge of Autumn was the last attack this combat chain, this gets **go again**.	Ninja Action - Attack				No	
 QRhMFtbfPHP67Rmwbzdcj	Seek and Destroy	Red	1	0		2				Ranger, Action		Go again						"Your next arrow attack this turn gains +3{p} and ""If this hits a hero, at the beginning of their next end phase, they discard all cards in their hand and destroy all cards in their arsenal.""
 
 **Go again**"	Ranger Action				No	
@@ -8239,10 +8248,10 @@ If you have played another Wizard 'non-attack' action card this turn, you may pl
 pBLw878jHjmLBLBbtpk6W	Snapback	Blue	3	1		3			1	Wizard, Action								"Deal 1 arcane damage to target hero.
 
 If you have played another Wizard 'non-attack' action card this turn, you may play Snapback as though it were an instant."	Wizard Action					
-gGmbgrQrzhKpFdtcRTF9h	Snapdragon Scalers					0				Generic, Equipment, Legs			Attack Reaction	Go again				**Attack Reaction** - Destroy Snapdragon Scalers: Target attack action card with cost 1 or less gains **go again**.	Generic Equipment - Legs					
-PHktCwKzLmBMwmCBwb7Cw	Snatch	Red	1	0	4	2				Generic, Action, Attack								If Snatch hits, draw a card.	Generic Action - Attack				No	
-jBtfGzCwLCCTGrtzKPRJW	Snatch	Yellow	2	0	3	2				Generic, Action, Attack								If Snatch hits, draw a card.	Generic Action - Attack				No	
-KfbJQkFKdWKB66FcqCpHD	Snatch	Blue	3	0	2	2				Generic, Action, Attack								If Snatch hits, draw a card.	Generic Action - Attack				No	
+gGmbgrQrzhKpFdtcRTF9h	Snapdragon Scalers					0				Generic, Equipment, Legs			Attack Reaction	Go again				**Attack Reaction** - Destroy this: Target attack action card with cost 1 or less gets **go again**.	Generic Equipment - Legs					
+PHktCwKzLmBMwmCBwb7Cw	Snatch	Red	1	0	4	2				Generic, Action, Attack								When this hits, draw a card.	Generic Action - Attack				No	
+jBtfGzCwLCCTGrtzKPRJW	Snatch	Yellow	2	0	3	2				Generic, Action, Attack								When this hits, draw a card.	Generic Action - Attack				No	
+KfbJQkFKdWKB66FcqCpHD	Snatch	Blue	3	0	2	2				Generic, Action, Attack								When this hits, draw a card.	Generic Action - Attack				No	
 RJgjqhgWBPnfhC76CRLjt	Sneak Attack	Red	1	2	3	2				Assassin, Action, Attack								If you've played or activated an attack reaction this chain link, Sneak Attack has +4{p}.	Assassin Action - Attack				No	
 7TPWrWF6KhgNLGbJT7CHb	Sneak Attack	Yellow	2	2	2	2				Assassin, Action, Attack								If you've played or activated an attack reaction this chain link, Sneak Attack has +4{p}.	Assassin Action - Attack				No	
 BKhhmbmLm67kWdNdBpDPM	Sneak Attack	Blue	3	2	1	2				Assassin, Action, Attack								If you've played or activated an attack reaction this chain link, Sneak Attack has +4{p}.	Assassin Action - Attack				No	
@@ -8333,9 +8342,9 @@ You may banish 1 or more cards from your hand rather than pay Soul Reaping's {r}
 While Soul Reaping is attacking a hero with 1 or more cards in their soul, it has go again."	Shadow Action - Attack				No	
 9F6H6kTdQdcHrDrRCDmLP	Soul Shackle									Shadow, Runeblade, Token, Aura								At the beginning of your action phase, banish the top card of your deck.	Shadow Runeblade Token - Aura					
 BczHzGkDc8h997tK8RrbQ	Soul Shield	Yellow	2	2		6				Light, Defense Reaction								Put Soul Shield into your hero's soul when the combat chain closes.	Light Defense Reaction				No	
-DH8zBCdjRpQmLKgbnRF8q	Soulbead Strike	Red	1	0	4	3				Ninja, Action, Attack		Go again						If Soulbead Strike hits, it gains **go again**.	Ninja Action - Attack					
-gz8JNPJGQNgq66jKkBzbD	Soulbead Strike	Yellow	2	0	3	3				Ninja, Action, Attack		Go again						If Soulbead Strike hits, it gains **go again**.	Ninja Action - Attack					
-DFrMBQFPRf7hTrcCwrRKd	Soulbead Strike	Blue	3	0	2	3				Ninja, Action, Attack		Go again						If Soulbead Strike hits, it gains **go again**.	Ninja Action - Attack					
+DH8zBCdjRpQmLKgbnRF8q	Soulbead Strike	Red	1	0	4	3				Ninja, Action, Attack		Go again						When this hits, it gets **go again**.	Ninja Action - Attack					
+gz8JNPJGQNgq66jKkBzbD	Soulbead Strike	Yellow	2	0	3	3				Ninja, Action, Attack		Go again						When this hits, it gets **go again**.	Ninja Action - Attack					
+DFrMBQFPRf7hTrcCwrRKd	Soulbead Strike	Blue	3	0	2	3				Ninja, Action, Attack		Go again						When this hits, it gets **go again**.	Ninja Action - Attack					
 KPcKCKn8CpthtjNrk6fC8	Soulbond Resolve					2				Light, Warrior, Equipment, Chest		Charge, Temper					Charge	"When this defends, you may **charge** your hero's soul.
 
 The first time you would be dealt damage each turn, if you've **charged** this turn, prevent 1 of that damage.
@@ -9285,9 +9294,9 @@ Rjgh7kQCWKkTdChRmWt7w	Torque Tuned	Yellow	2	2	5	2				Mechanologist, Action, Atta
 MkJgPht7nFRJFBKCgThrP	Torque Tuned	Blue	3	2	4	2				Mechanologist, Action, Attack		Overpower, Galvanize						"If an item you control has been destroyed this turn, this gets **overpower**.
 
 **Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
-9F67fMDKzMkLMJFr7GN67	Torrent of Tempo	Red	1	1	5	3				Ninja, Action, Attack		Go again						If Torrent of Tempo hits, it gains **go again**.	Ninja Action - Attack					
-TR8gpGqrWD7JrKtjMqKbJ	Torrent of Tempo	Yellow	2	1	4	3				Ninja, Action, Attack		Go again						If Torrent of Tempo hits, it gains **go again**.	Ninja Action - Attack					
-hRbLKmtGT7DJQqr9Q7MNN	Torrent of Tempo	Blue	3	1	3	3				Ninja, Action, Attack		Go again						If Torrent of Tempo hits, it gains **go again**.	Ninja Action - Attack					
+9F67fMDKzMkLMJFr7GN67	Torrent of Tempo	Red	1	1	5	3				Ninja, Action, Attack		Go again						When this hits, it gets **go again**.	Ninja Action - Attack					
+TR8gpGqrWD7JrKtjMqKbJ	Torrent of Tempo	Yellow	2	1	4	3				Ninja, Action, Attack		Go again						When this hits, it gets **go again**.	Ninja Action - Attack					
+hRbLKmtGT7DJQqr9Q7MNN	Torrent of Tempo	Blue	3	1	3	3				Ninja, Action, Attack		Go again						When this hits, it gets **go again**.	Ninja Action - Attack					
 KwphDpWLnJrjGGMGnJc9n	Tough Old Wrench	Red	1	2	6	2				Mechanologist, Action, Attack		Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, create a Golden Cog token.	Mechanologist Action - Attack					
 9dPrwcgFKcd8zk8PpwfRJ	Tough Old Wrench	Yellow	2	2	5	2				Mechanologist, Action, Attack		Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, create a Golden Cog token.	Mechanologist Action - Attack					
 zLMWLzKGcdNnndTcD89gT	Tough Old Wrench	Blue	3	2	4	2				Mechanologist, Action, Attack		Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, create a Golden Cog token.	Mechanologist Action - Attack					
@@ -9662,6 +9671,7 @@ If Vela Flash was **fused**, you may play your next 'non-attack' action card thi
 KW9mBkBhNqKJMLf6TkNpg	Vela Flash	Blue	3	1	3	3				Elemental, Runeblade, Action, Attack		Lightning Fusion						"**Lightning Fusion**
 
 If Vela Flash was **fused**, you may play your next 'non-attack' action card this turn as though it were an instant."	Elemental Runeblade Action - Attack					
+kdjPjG7p7GJHQrBQh6TFQ	Vengeance Never Rests	Blue	3	1	3	3				Ninja, Action, Attack		Combo, Go again						"**Combo** - If Edge of Autumn was the last attack this combat chain, this gets **go again** and ""When this hits a hero, banish it. You may play it this turn."""	Ninja Action - Attack				No	
 pc7tf6hwQmpPJnngCLdhT	Vengeful Apparition	Red	1	0		3				Illusionist, Action, Aura		Ward 1						"When this leaves the arena, if you control no Illusionist auras, you may play your next aura with cost 2 or less this turn as though it were an instant. If you do, it enters the arena with a +1{p} counter.
 
 **Ward 1**"	Illusionist Action - Aura					
@@ -10004,7 +10014,7 @@ jCrd8h9kPW8rJ9KwgRr8L	Whelming Gustwave	Yellow	2	0	2	3				Ninja, Action, Attack	
 M7gFnB7zpwHWCbzWCWKpd	Whelming Gustwave	Blue	3	0	1	3				Ninja, Action, Attack		Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and ""If this hits, draw a card."""	Ninja Action - Attack					
 w98kfFNz9prGgmD88ptJR	Whirling Mist Blossom	Yellow	2	1	2	2				Ninja, Action, Attack		Ira Specialization, Go again						"**Ira Specialization**
 
-If Whirling Mist Blossom hits, and it's the second or higher chain link in a row to hit, draw 2 cards.
+When this hits and it's the second or higher chain link in a row to hit, draw 2 cards.
 
 **Go again**"	Ninja Action - Attack					
 6MRRLJw7g9wgwWPMDhzmT	Whisper of the Oracle	Red	1	0		3				Generic, Action		Opt 4, Go again						"**Opt 4**
