@@ -1799,6 +1799,12 @@ Dc8cHfKHFHkg98Pwn6H96	Come to Fight	Blue	3	1		3				Generic, Action		Go again				
 RLDRbkhHqH6DQCjtqPrMQ	Comeback Kid	Red	1	3	7	3				Revered, Action, Attack		The Crowd Cheers					The Crowd Cheers	"When this attacks a hero, if you have less {h} than them, **the crowd cheers* you.
 
 If you've been cheered this turn, this gets +1{p}."	Revered Action - Attack				No	
+gzJRqKbNJcdhdrHTjDRfn	Comeback Kid	Yellow	2	3	6	3				Revered, Action, Attack		The Crowd Cheers					The Crowd Cheers	"When this attacks a hero, if you have less {h} than them, **the crowd cheers* you.
+
+If you've been cheered this turn, this gets +1{p}."	Revered Action - Attack				No	
+nHTwDwq8BDnkdPrc9c9bW	Comeback Kid	Blue	3	3	5	3				Revered, Action, Attack		The Crowd Cheers					The Crowd Cheers	"When this attacks a hero, if you have less {h} than them, **the crowd cheers* you.
+
+If you've been cheered this turn, this gets +1{p}."	Revered Action - Attack				No	
 hNtpt77b8dGgTbkCqzCLB	Comet Storm // Shock	Red	1	2		3			6	Wizard, Action, Lightning, Instant		Meld						"**Meld**
 
 Deal 5 arcane damage to any target.
@@ -5528,6 +5534,12 @@ At the beginning of each end phase, destroy this unless you've pitched, played, 
 m7nLdbTgfJKmdQrmCDTcq	Mocking Blow	Red	1	0	1	3				Reviled, Action, Attack							The Crowd Boos	"When this attacks a hero, if you have more {h} than them, **the crowd boos** you.
 
 If you've been booed this turn, this gets +4{p}."	Reviled Action - Attack				No	
+f68hNDr6wCPfJ9c9b7Lqf	Mocking Blow	Yellow	2	0	1	3				Reviled, Action, Attack							The Crowd Boos	"When this attacks a hero, if you have more {h} than them, **the crowd boos** you.
+
+If you've been booed this turn, this gets +3{p}."	Reviled Action - Attack				No	
+kTNFffN8hnrk7cr8zNkQP	Mocking Blow	Blue	3	0	1	3				Reviled, Action, Attack							The Crowd Boos	"When this attacks a hero, if you have more {h} than them, **the crowd boos** you.
+
+If you've been booed this turn, this gets +2{p}."	Reviled Action - Attack				No	
 7mgnPjCmmLc9K9WwLdhJ6	Money Where Ya Mouth Is	Red	1	1		2				Generic, Action		Go again			Wager			"Your next attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 B7Db99Nw9PFrJLmRzPT7t	Money Where Ya Mouth Is	Yellow	2	1		2				Generic, Action		Go again			Wager			"Your next attack this turn gets +2{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 9BM9L9zrh8BgBWkPDdJgf	Money Where Ya Mouth Is	Blue	3	1		2				Generic, Action		Go again			Wager			"Your next attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
