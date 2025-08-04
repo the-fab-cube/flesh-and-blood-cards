@@ -50284,6 +50284,24 @@
         "ll_restricted": false,
         "printings": [
             {
+                "unique_id": "RPBJGg9PhtpQJBhWJ7CH6",
+                "set_printing_unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
+                "id": "LGS392",
+                "set_id": "LGS",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Muhammad Fajri"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://d2wlb52bya4y8z.cloudfront.net/media/cards/large/LGS392-CF.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "jwNDpn86bfGphN8gjHzQK",
                 "set_printing_unique_id": "7BqWG8Lr8FRNHwWtP8GN6",
                 "id": "SEA126",
@@ -61922,6 +61940,24 @@
         "commoner_suspended": false,
         "ll_restricted": false,
         "printings": [
+            {
+                "unique_id": "pjfttg97PLF6nHdTNTmQT",
+                "set_printing_unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
+                "id": "LGS393",
+                "set_id": "LGS",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Esty Swandana"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://d2wlb52bya4y8z.cloudfront.net/media/cards/large/LGS393-CF.webp",
+                "image_rotation_degrees": 0
+            },
             {
                 "unique_id": "jKWMtwRr7d6nH7MDGRK6C",
                 "set_printing_unique_id": "7BqWG8Lr8FRNHwWtP8GN6",
@@ -149888,6 +149924,24 @@
         "commoner_suspended": false,
         "ll_restricted": false,
         "printings": [
+            {
+                "unique_id": "RkLnk7gbCWPJtR7qdLnkM",
+                "set_printing_unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
+                "id": "LGS394",
+                "set_id": "LGS",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Aluísio Cervelle"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://d2wlb52bya4y8z.cloudfront.net/media/cards/large/LGS394-CF.webp",
+                "image_rotation_degrees": 0
+            },
             {
                 "unique_id": "Wqdnmqmb8Kz76FKgRnMRD",
                 "set_printing_unique_id": "7BqWG8Lr8FRNHwWtP8GN6",
@@ -273701,7 +273755,7 @@
                 "id": "LGS395",
                 "set_id": "LGS",
                 "edition": "N",
-                "foiling": "R",
+                "foiling": "C",
                 "rarity": "P",
                 "expansion_slot": false,
                 "artists": [
