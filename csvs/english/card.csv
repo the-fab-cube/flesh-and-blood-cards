@@ -4045,10 +4045,10 @@ This enters the arena with an energy counter. When it has none, destroy it.
 At the beginning of your end phase, remove an energy counter from this and create a Seismic Surge token."	Guardian Action - Aura						
 7qQ8nJLhDkq7b78HKHgHQ	Ghost Protocol: Architect	Red	1	0	1	3				Mechanologist, Action, Attack		Evo Upgrade					Boost	"If this was banished from boosting this turn, you may play this from your banished zone.
 
-**Evo Upgrade** - When this attacks, search your deck for an Evo with cost less than or equal to the number of Evos you have equipped, banish it, then shuffle."	Mechanologist Action - Attack				No	No	No
+**Evo Upgrade** - When this attacks, search your deck for an Evo with cost less than or equal to the number of Evos you have equipped, banish it, then shuffle."	Mechanologist Action - Attack				No	No	
 HJ9JjdmGt7JdNcJ7MT68w	Ghost Protocol: Mainframe	Blue	3	0	1	3				Mechanologist, Action, Attack		Evo Upgrade					Boost	"If this was banished from boosting this turn, you may play this from your banished zone.
 
-**Evo Upgrade** - This gets +1{p} for each Evo you have equipped."	Mechanologist Action - Attack				No	No	No
+**Evo Upgrade** - This gets +1{p} for each Evo you have equipped."	Mechanologist Action - Attack				No	No	
 rmdqRKFwTMWr97GPqNd6Q	Ghostly Touch					0				Illusionist, Equipment, Arms			Once per Turn Action	Go again				"Whenever an Illusionist attack you control is destroyed by **phantasm**, put a haunt counter on Ghostly Touch.
 
 **Once per Turn Action** - Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with **phantasm**, base {p} and {h} equal to the number of haunt counters on it, and ""**Once per Turn Action** - {r}{r}{r}: **Attack**"". **Go again**"	Illusionist Equipment - Arms				No	No	
@@ -4355,7 +4355,7 @@ When you **boost** an attack, destroy this. If you do, the attack gets +X{p}, wh
 rWqFtWTCDnrgzPJthDHkR	Hala Goldenhelm					3				Warrior, Mentor					Go again			"While Hala is face down in arsenal, at the start of your turn, you may turn her face up.
 
 While Hala is face up in arsenal, whenever a sword attack you control hits, it gains **go again** and put a lesson counter on Hala. Then if there are 2 or more lesson counters on Hala, banish her, search your deck for Glistening Steelblade, put it face up in arsenal, and shuffle."	Warrior Mentor			No	No	No	No
-FQFkLFgp9pJqdd8mQkJTQ	Hala, Bladesaint of the Vow						40	4		Warrior, Hero			Action	Sharpen, Go again				**Action** - {r}{r}{r}, {t}: **Sharpen** target sword you control. **Go again**	Warrior Hero			No	No		
+FQFkLFgp9pJqdd8mQkJTQ	Hala, Bladesaint of the Vow						40	4		Warrior, Hero			Action	Sharpen, Go again				**Action** - {r}{r}{r}, {t}: **Sharpen** target sword you control. **Go again**	Warrior Hero		No		No	No	
 phPFrDkRwGDrqrwq8M8T6	Halo of Illumination					0				Light, Equipment, Head		Spellvoid 2	Instant					"**Instant** - {r}, destroy Halo of Illumination: Put a card from your hand into your hero's soul. If it's a Light card, draw a card.
 
 **Spellvoid 2**"	Light Equipment - Head						

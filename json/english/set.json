@@ -1694,6 +1694,27 @@
         ]
     },
     {
+        "unique_id": "wQRd9Rm9fRBbGNQWj9gRP",
+        "id": "TNP",
+        "name": "Tournament Pack",
+        "printings": [
+            {
+                "unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "edition": "N",
+                "start_card_id": "TNP001",
+                "end_card_id": "TNP030",
+                "initial_release_date": "2026-02-06T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "dBgRbDmcFzW9kGnPFrqQ8",
         "id": "UPR",
         "name": "Uprising",

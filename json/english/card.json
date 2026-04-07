@@ -137302,6 +137302,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "265450",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/265450?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "qrWQQ9fBQRQbmLdMQFgCg",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP007",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Mateusz Wiśniewski"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP007-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -137410,6 +137430,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "265451",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/265451?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "GgHRhMrhcCkmBFDT78ztB",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP008",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Mateusz Wiśniewski"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP008-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -137518,6 +137558,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "265452",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/265452?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "jGLdLPNF9hckHgcgQtHtt",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP009",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Mateusz Wiśniewski"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP009-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -166245,6 +166305,26 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/556401?Language=English&Printing=Rainbow+Foil"
             },
             {
+                "unique_id": "7Fzj9Df7L9Rd6b7RCtwg9",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP022",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Daniel Jiménez"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP022-RF.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "zBbrtQggLtwrzWCLN998m",
                 "set_printing_unique_id": "C9dGnhCMDWQdD7rC7QbHj",
                 "id": "WTR092",
@@ -166392,6 +166472,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "271015",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/271015?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "9rw6PD8rgCNNTtPqrTL9w",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP023",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Daniel Jiménez"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP023-RF.webp",
+                "image_rotation_degrees": 0
             },
             {
                 "unique_id": "t9tPQfggWrngzWkNWhPpP",
@@ -166561,6 +166661,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "225763",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/225763?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "WW6Fhz7dmgn7gJtNmbtWz",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP024",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Daniel Jiménez"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP024-RF.webp",
+                "image_rotation_degrees": 0
             },
             {
                 "unique_id": "nHJhTNLpLMkbMNpGHtK6h",
@@ -180806,7 +180926,7 @@
         "blitz_legal": true,
         "cc_legal": true,
         "commoner_legal": false,
-        "ll_legal": false,
+        "ll_legal": true,
         "silver_age_legal": false,
         "blitz_living_legend": false,
         "cc_living_legend": false,
@@ -180877,7 +180997,7 @@
         "blitz_legal": true,
         "cc_legal": true,
         "commoner_legal": false,
-        "ll_legal": false,
+        "ll_legal": true,
         "silver_age_legal": false,
         "blitz_living_legend": false,
         "cc_living_legend": false,
@@ -193120,9 +193240,9 @@
         "functional_text_plain": "Action - {r}{r}{r}, {t}: Sharpen target sword you control. Go again",
         "type_text": "Warrior Hero",
         "played_horizontally": false,
-        "blitz_legal": true,
-        "cc_legal": false,
-        "commoner_legal": true,
+        "blitz_legal": false,
+        "cc_legal": true,
+        "commoner_legal": false,
         "ll_legal": true,
         "silver_age_legal": false,
         "blitz_living_legend": false,
@@ -224522,6 +224642,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "488527",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/488527?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "nRLHHhM7kwFLqzRfHMNrw",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP004",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Kalashnikova N."
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP004-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -224633,6 +224773,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "489292",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/489292?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "B8QqftPg8rHNnjnTbbGNT",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP005",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Kalashnikova N."
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP005-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -224744,6 +224904,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "488530",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/488530?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "pbB7CMFhw9c9kzRf8Ckfh",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP006",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Kalashnikova N."
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP006-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -263616,6 +263796,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "226053",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/226053?Language=English&Printing=Unlimited+Edition+Rainbow+Foil"
+            },
+            {
+                "unique_id": "qCDkz9kcgmFRCcg6bwfFj",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP025",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Daria Khlebnikova"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP025-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -263771,6 +263971,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "226055",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/226055?Language=English&Printing=Unlimited+Edition+Rainbow+Foil"
+            },
+            {
+                "unique_id": "mNJdrR9dgDTRdkcDfCWp8",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP026",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Daria Khlebnikova"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP026-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -263926,6 +264146,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "226056",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/226056?Language=English&Printing=Unlimited+Edition+Rainbow+Foil"
+            },
+            {
+                "unique_id": "cQQtmmNm7MrKFR7Drj67f",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP027",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Daria Khlebnikova"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP027-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -384372,6 +384612,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "453374",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/453374?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "HJhGbBptmPPCGkDp7mrFg",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP013",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Henrique Lindner"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP013-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -384476,6 +384736,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "453376",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/453376?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "RgLKkzrKCgrhf89jQNwf9",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP014",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Henrique Lindner"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP014-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -384600,6 +384880,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "453379",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/453379?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "Fz9k9DDfndBGJHCmfLhtD",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP015",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Henrique Lindner"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP015-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -408631,6 +408931,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "237856",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/237856?Language=English&Printing=Unlimited+Edition+Rainbow+Foil"
+            },
+            {
+                "unique_id": "tccbcjzNKzJ6KjM9btmch",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP016",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Immanuela Crovius"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP016-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -408761,6 +409081,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "237857",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/237857?Language=English&Printing=Unlimited+Edition+Rainbow+Foil"
+            },
+            {
+                "unique_id": "qMcBWWHWgbp6fBrNdq6Rr",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP017",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Immanuela Crovius"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP017-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -408911,6 +409251,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "238529",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/238529?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "8fJcctbctwFRdtgktGwGw",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP018",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Immanuela Crovius"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP018-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -419774,6 +420134,26 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/271288?Language=English&Printing=Normal"
             },
             {
+                "unique_id": "T8CD7ckGrkCB7bckfcDMH",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP019",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Nikolai Maslakov"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP019-RF.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "N9Thb9LFzmgHfFDNHTFGJ",
                 "set_printing_unique_id": "C9dGnhCMDWQdD7rC7QbHj",
                 "id": "WTR051",
@@ -419918,6 +420298,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "271287",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/271287?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "mD7pmMPrKzcPrc9KmNtfH",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP020",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Nikolai Maslakov"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP020-RF.webp",
+                "image_rotation_degrees": 0
             },
             {
                 "unique_id": "gBjjcQDC6cP8Cj7gpPk6w",
@@ -420084,6 +420484,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "225712",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/225712?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "gWtmkLjnHt7gPCC6JmrbF",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP021",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Nikolai Maslakov"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP021-RF.webp",
+                "image_rotation_degrees": 0
             },
             {
                 "unique_id": "pcFfLTHntTQFtFkhjgHCM",
@@ -485892,6 +486312,26 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/273132?Language=English&Printing=Normal"
             },
             {
+                "unique_id": "LnfW9pKDWqGpk7tdzMCcD",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP010",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Daria Khlebnikova"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP010-RF.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "KFtH6bPK8Nz9wMdGGQ77N",
                 "set_printing_unique_id": "C9dGnhCMDWQdD7rC7QbHj",
                 "id": "WTR129",
@@ -486062,6 +486502,26 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/225351?Language=English&Printing=Normal"
             },
             {
+                "unique_id": "pFfNWKkn9Tj9QgzHbmLTH",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP011",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Daria Khlebnikova"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP011-RF.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "pz7Ln8r6PKncnhQfLgGt6",
                 "set_printing_unique_id": "C9dGnhCMDWQdD7rC7QbHj",
                 "id": "WTR130",
@@ -486230,6 +486690,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "225358",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/225358?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "DhJkDdFMBMHfwRFBCnQrN",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP012",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Daria Khlebnikova"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP012-RF.webp",
+                "image_rotation_degrees": 0
             },
             {
                 "unique_id": "ndWpkKncD7d8MwfzGMfGF",
@@ -493665,6 +494145,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "273176",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/273176?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "9TdzqM8QWhGP7hfJTzCnW",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP001",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Federico Musetti"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP001-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -493794,6 +494294,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "537239",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/537239?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "9MmtNCkWQknddtMpF9nwc",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP002",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Federico Musetti"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP002-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -493903,6 +494423,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "533477",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/533477?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "Km7pqfHCqGQ7TmqkNzzCz",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP003",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Federico Musetti"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP003-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -503055,6 +503595,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "517492",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/517492?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "m87pfqPBpP8KJKHDpRdKP",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP028",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Sergey Gursky"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP028-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -503244,6 +503804,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "517582",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/517582?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "kJKL8jzmMWpwqKDMzMTHK",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP029",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Sergey Gursky"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP029-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -503413,6 +503993,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "225621",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/225621?Language=English&Printing=Unlimited+Edition+Rainbow+Foil"
+            },
+            {
+                "unique_id": "PdnMgfWzMN8ftk8njLHtk",
+                "set_printing_unique_id": "QThNNT6NzFqFRnfNzH6hp",
+                "id": "TNP030",
+                "set_id": "TNP",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Sergey Gursky"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP030-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
