@@ -274,6 +274,7 @@ wQmDNJMgNTftTKBHcb9Rc	Aphrodias								2	Lightning, Illusionist, Weapon, Orb, 2H
 mHnppNNqw9hMncFgCJdCB	Apocalypse Automaton	Red	1	3	6	3				Mechanologist, Action, Attack		Evo Upgrade						"Play this only if you have 1 or more Evos equipped.
 
 **Evo Upgrade** - This attacks up to X target opposing heroes, where X is the number of Evos you have equipped."	Mechanologist Action - Attack				No	No	
+jCfWzCbzWDBKmcPThjMcq	Appalling Bearers					0				Shadow, Necromancer, Equipment, Arms			Instant					**Instant** - Discard a zombie, destroy this: Prevent the next 2 damage that would be dealt to you this turn.	Shadow Necromancer Equipment - Arms						
 gJg89dTHTbjhQPnnfkMpP	Aqua Laps					1				Mystic, Equipment, Legs		Cloaked	Attack Reaction		Go again			"**Cloaked**
 
 **Attack Reaction** - {r}, turn this face up: Target attack gets **go again**.
@@ -436,7 +437,7 @@ When this hits, create Runechant tokens equal to the damage dealt this way.
 **Dominate**"	Runeblade Action - Attack				No	No	
 pkMGCRh9fDT98dRgnQF8W	Arknight Shard	Blue	3							Runeblade, Resource, Gem		Legendary, Viserai Specialization						"**Legendary Viserai Specialization**
 
-When you pitch Arknight Shard, create a Runechant token."	Runeblade Resource - Gem				No	No	
+When this is pitched, create a Runechant token."	Runeblade Resource - Gem				No	No	
 z6hzjr7zdqfrh8nQMf6CH	Arousing Wave					1				Mystic, Assassin, Equipment, Arms		Battleworn	Attack Reaction					"**Attack Reaction** - {r}, destroy this: Create a Fang Strike in your hand.
 
 **Battleworn**"	Mystic Assassin Equipment - Arms						
@@ -839,6 +840,21 @@ tbJKjHrCbwffmbGt6hhTM	Beckoning Brilliance	Red	1	0	4	2				Lightning, Action, Att
 KrfHMt9FRGmFqPrRqRrfL	Beckoning Haunt					2				Runeblade, Equipment, Arms		Guardwell	Action					"**Action** - {x}{x}{r}, destroy this: Return target aura with cost X from your graveyard to your hand.
 
 **Guardwell**"	Runeblade Equipment - Arms						
+H6MhWPLLWJpTPmd7twtgC	Beckoning Hunger	Red	1	3	7	3				Shadow, Brute, Action, Attack		Blood Debt						"When this attacks, banish the top card of your deck.
+
+When this hits, create a Blasmophet, the Insatiable Hunger token.
+
+**Blood Debt**"	Shadow Brute Action - Attack						
+GKj9BJrLnJDb8cdQ6Dkc9	Beckoning Hunger	Yellow	2	3	6	3				Shadow, Brute, Action, Attack		Blood Debt						"When this attacks, banish the top card of your deck.
+
+When this hits, create a Blasmophet, the Insatiable Hunger token.
+
+**Blood Debt**"	Shadow Brute Action - Attack						
+FnptrgNbzKQRGnFK8rWwj	Beckoning Hunger	Blue	3	3	5	3				Shadow, Brute, Action, Attack		Blood Debt						"When this attacks, banish the top card of your deck.
+
+When this hits, create a Blasmophet, the Insatiable Hunger token.
+
+**Blood Debt**"	Shadow Brute Action - Attack						
 KHpc7bwPqmLjMF977CjcR	Beckoning Light	Red	1	0	3	3				Light, Warrior, Action, Attack		Charge						"As an additional cost to play this, you may **charge** your hero's soul.
 
 If a yellow card is **charged** this way, whenever an attack action card hits this combat chain, you may put an attack action card from your graveyard on top of your deck."	Light Warrior Action - Attack				No	No	
@@ -866,6 +882,9 @@ DdPqNRh6NTPMrgwRRNqwb	Become the Cup	Yellow	2	0	2	2				Ninja, Action, Attack		Go
 tRgKFDwQnQRLT7qnNJ6kc	Become the Cup	Blue	3	0	1	2				Ninja, Action, Attack		Go again						"As you play this, choose a color. This gets the chosen color.
 
 **Go again**"	Ninja Action - Attack						
+9DgdMqPdzCbJkLcqJKpNT	Become the Shadow Lord	Blue	3	0		3				Shadow, Runeblade, Action		Go again						"Banish a card from your hand. If it's Runeblade, create a Runechant token. If it's Shadow, create a Gate to i'Arathael token.
+
+**Go again**"	Shadow Runeblade Action				No	No	
 CtgLqKpjrGRtLnwbHjd9f	Belittle	Red	1	1	3	2				Generic, Action, Attack		Go again						"As an additional cost to play Belittle, you may reveal an attack action card with 3 or less base {p} from your hand. If you do, search your deck for a card named Minnowism, reveal it, put it into your hand, then shuffle your deck.
 
 **Go again**"	Generic Action - Attack						
@@ -1056,6 +1075,11 @@ dbrfzmNJ9ccB9CW68pmQp	Blasmophet, Levia Consumed						13	4		Shadow, Demi-Hero, D
 While this is in your inventory, when **blood debt** reduces your {h} to 13, you may **transform** into Blasmophet, Levia Consumed.
 
 Once each turn, you may play a card with **blood debt** from your banished zone. Whenever a card is put into your banished zone, turn it face-down. If you would lose {h} from **blood debt**, instead banish the top card of the deck."	Shadow Demi-Hero - Demon				No	No	
+FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger				6		6			Shadow, Token, Demon, Ally		Unique					Blood Debt	"**Unique**
+
+Once per turn, you may play an action card with blood debt from your banished zone.
+
+At the beginning of each end phase, you may banish a card from your hand. Then if you haven't banished a card with blood debt this turn, destroy this."	Shadow Token - Demon Ally						
 qJ8HCWnpHbPRGRGpt86Cb	Blasmophet, the Soul Harvester				6		6			Shadow, Token, Demon, Ally			Once per Turn Action	Attack				"**Once per Turn Action** - 0: **Attack**
 
 Whenever Blasmophet attacks, you may banish a Shadow card from your hand. If you do, you may banish a card from the defending hero's soul."	Shadow Token - Demon Ally						
@@ -1207,6 +1231,9 @@ JfBCWJdFBcrnhdkjRj6tz	Blood Drop Brocade					0				Generic, Equipment, Chest			In
 MBgNKqpNwzwM8n6KjMtFN	Blood Follows Blade	Yellow	2	0		3				Warrior, Attack Reaction		Kassai Specialization			Go again			"**Kassai Specialization**
 
 Target sword attack gets **go again** and ""When this hits, create a Cintari Sellsword token."""	Warrior Attack Reaction				No	No	
+HKQMBnGq8PCKJTdrjmfGk	Blood Harvest			3	6	3				Shadow, Brute, Action, Attack		Blood Debt	Instant					"**Instant** - Banish this from your hand: Gain {r}{r}{r}
+
+**Blood Debt**"	Shadow Brute Action - Attack				No	No	
 cjKPgLQmgG9QwFQKWPrrM	Blood Line	Red	1	2	3	3				Draconic, Ninja, Action, Attack		Go again						"This costs {r} less to play for each Draconic chain link you control.
 
 **Go again**"	Draconic Ninja Action - Attack						
@@ -1552,6 +1579,9 @@ cjDzkKdjNrGqL9tnDc7zd	Briar, Warden of Thorns						40	4		Elemental, Runeblade, H
 The first time an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.
 
 Whenever you play your second 'non-attack' action card each turn, create an Embodiment of Lightning token."	Elemental Runeblade Hero		No		No	No	
+f8mDBJ8bNgcpnGCTTCLj6	Bridge of Damnation	Blue	3	0		3				Shadow, Necromancer, Action, Aura		Go again						"**Go again**
+
+At the start of each turn, destroy this unless you put a zombie from your banished zone into your graveyard."	Shadow Necromancer Action - Aura				No	No	
 BJKkfCPh7LmMrT9bDn6wz	Brimming Blade	Red	1	1		3				Warrior, Action		Sharpen, Go again						"**Sharpen** target sword you control twice.
 
 **Go again**"	Warrior Action				No	No	
@@ -1980,6 +2010,9 @@ Whenever Cintari Saber is defended by 1 or more attack action cards, it gains +1
 CcGMKpDNfnzz8mKDqmqnc	Cintari Sellsword				3		2			Warrior, Token, Mercenary, Ally			Once per Turn Action	Attack, Go again				"**Once per Turn Action** - {r}: **Attack**. **Go again**
 
 Cintari Sellsword can only attack if you've attacked with a weapon this turn."	Warrior Token - Mercenary Ally						
+GPGfcbccKmqwfKtGPfbRM	Circlet of Eternal End					2				Generic, Equipment, Head		Blade Break						"When this defends, turn a card in the attacking hero's banished zone face-down.
+
+**Blade Break**"	Generic Equipment - Head				No	No	
 FgRQdMbgkGgJ6RwGjwgHr	Circular Flowtide	Yellow	2	1						Lightning, Illusionist, Instant, Aura		Ward 2						"When this leaves the arena, create a Lightning Flow token.
 
 **Ward 2**"	Lightning Illusionist Instant - Aura						
@@ -2380,6 +2413,16 @@ nM8W6pkg66hWdcq7LpNgf	Corrosive Space Dust	Yellow	2	1					1	Lightning, Illusioni
 dKKCNFfnqk9zMLRzdHHgR	Corrosive Space Dust	Blue	3	1					1	Lightning, Illusionist, Instant, Aura		Ward X						"When this leaves the arena, deal 1 arcane damage to target hero.
 
 **Ward X**, where X is 2 if this has a holo counter. Otherwise, X is 1."	Lightning Illusionist Instant - Aura					No	
+kQL7bQNCrdwfDnp8jbwzP	Corrupt and Conquer	Red	1	2	6	3				Shadow, Action, Attack		Blood Debt						"If this was played from your banished zone, it gets ""Defense reaction cards can't be played this chain link.
+
+When this hits a hero, banish all cards in their arsenal.
+
+**Blood Debt**"	Shadow Action - Attack				No	No	
+qmC78MP6bjTHcDChc6RMJ	Corrupted Corpse			2	3		3			Shadow, Necromancer, Action, Zombie, Ally		Incarnate, Go again, Blood Debt						"**Incarnate**
+
+This card's attacks get **go again**.
+
+**Blood Debt**"	Shadow Necromancer Action - Zombie Ally						
 L7GjnTRkPzCWDfwjfBj7n	Cosmic Awakening	Blue	3	9	*	3				Mystic, Action, Attack								"If 1 Chi was pitched to play this, Cosmic Awakening's {p} is 10.
 
 If 2 Chi were pitched to play this, Cosmic Awakening's {p} is 15.
@@ -2811,6 +2854,11 @@ MrNgmfGDfJmF6rcLbFcrm	Demolition Crew	Blue	3	2	4	2				Generic, Action, Attack		D
 
 **Dominate**"	Generic Action - Attack						
 MWfDtTFgd8f8zNzQgDJjt	Demolition Protocol	Red	1	3	7	3				Mechanologist, Action, Attack		Evo Upgrade						**Evo Upgrade** - When this attacks a hero, remove all steam counters from up to X equipment, items, and/or weapons they control, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	No	
+jWcCz7DRFHRbkqHBhCKRr	Demonbound Gloomblade	Red	1	0	3	3				Shadow, Runeblade, Action, Attack		Usurp, Blood Debt						"You may play this from your banished zone.
+
+**Usurp**
+
+**Blood Debt**"	Shadow Runeblade Action - Attack						
 wmdN6gnj6gdcdfWDMnqK6	Demonstrate Devotion	Red	1	1	4	2				Draconic, Ninja, Action, Attack		Go again						"If you control 2 or more Draconic chain links, this gets **go again** and ""When this attacks a hero, create a Fealty token."""	Draconic Ninja Action - Attack					No	
 jmNMNj8FrgJCR8dCcbmTr	Den of the Spider	Red	1	0		3				Assassin, Warrior, Defense Reaction, Trap					Mark			When this defends an attack with {p} greater than its base, **mark** the attacking hero.	Assassin / Warrior Action Defense Reaction - Trap						
 hNdDhKhhpGwKTCT7wMRCp	Dense Blue Mist	Blue	3	1						Mystic, Instant								"Attacks that target you this turn get -1{p}.
@@ -4623,7 +4671,7 @@ whJmFnkNbtrd8D98KGg8d	Gas Up	Blue	3	1		2				Mechanologist, Action		Go again					
 You may put a Hyper Driver from your banished zone into the arena.
 
 **Go again**"	Mechanologist Action						
-JtkWt6Kzpgz9qpPLPp8Ff	Gate to íArathael									Shadow, Token, Aura			Instant				Blood Debt	**Instant** - {r}, destroy this: You may play target action card with blood debt from your banished zone this turn.	Shadow Token - Aura				No	No	
+JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael									Shadow, Token, Aura			Instant				Blood Debt	**Instant** - {r}, destroy this: You may play target action card with blood debt from your banished zone this turn.	Shadow Token - Aura				No	No	
 GPRfKmdq6LnRwNQCG8jnR	Gauntlet of Boulderhold					1				Guardian, Equipment, Arms		Battleworn	Action	Go again				"**Action** - {r}{r}{r}, destroy this: The next Guardian attack action card you play from arsenal this turn gets +2{p}. **Go again**
 
 **Battleworn**"	Guardian Equipment - Arms						
@@ -4907,6 +4955,7 @@ When this attacks a **marked** hero, the attack gets **go again**."	Assassin Tok
 6WM7PKt9BCGmw7wQzn7k6	Grasp of the Arknight					2				Runeblade, Equipment, Arms		Battleworn	Once per Turn Action	Go again				"**Once per Turn Action** - {r}{r}: Create a Runechant token. This ability costs an additional {r} to activate for each Runechant you control. **Go again**
 
 **Battleworn**"	Runeblade Equipment - Arms				No	No	
+jrMzQzBmGK9LjRhQmPhCw	Grasp of the Darknight					0				Shadow, Runeblade, Equipment, Arms			Action	Opt 1, Go again				**Action** - {r}, destroy this: **Opt 1**, then create a Runechant token. **Go again**	Shadow Runeblade Equipment - Arms						
 wGPRkjkMdNTdwLQPPb9JK	Gravekeeping	Red	1	1	5	2				Generic, Action, Attack								When this attacks a hero, you may banish a card from their graveyard.	Generic Action - Attack					No	
 q8bTDr6MqMQK6GPrKJRQb	Gravekeeping	Yellow	2	1	4	2				Generic, Action, Attack								When this attacks a hero, you may banish a card from their graveyard.	Generic Action - Attack					No	
 WqcGNMjbcfh8kknkfDrpK	Gravekeeping	Blue	3	1	3	2				Generic, Action, Attack								When this attacks a hero, you may banish a card from their graveyard.	Generic Action - Attack					No	
@@ -4961,6 +5010,7 @@ fNGtM6WDcWMR6DcmjtRdw	Great Library of Solana			2						Light, Action, Landmark		
 At the beginning of each end phase, if a hero has 2 or more cards with yellow color strips in their pitch zone, they gain +1{i} until end of turn.
 
 **Action** - Discard 2 cards with yellow color strips: Destroy Great Library of Solana. Any hero may activate this ability. **Go again**"	Light Action - Landmark	Yes			No	No	
+pKjKMPTQr6TQMMkrnwDBp	Grille of Repentance					0				Shadow, Equipment, Head			Instant				Blood Debt	**Instant** - Destroy this: Turn a card with blood debt in your banished zone face-down.	Shadow Equipment - Head						
 nqLhpPdNcfDcWHgLkQrM9	Grim Feast	Red	1	3		2				Shadow, Action		Blood Debt						"You may play this from your banished zone. If you do, it costs {r}{r} less to play.
 
 Gain 3{h}
@@ -5239,7 +5289,7 @@ gjgpkHgC6p7HNTPpCJdCh	Helio's Mitre					0				Generic, Equipment, Head			Instant	
 **Instant** - {r}{r}: Prevent the next 1 damage that would be dealt to your hero this turn by a source of your choice. Destroy Helio's Mitre at the beginning of the end phase."	Generic Equipment - Head						
 zMbD7hqPwGNQCcDC6DPB9	Hell Hammer				6					Shadow, Brute, Weapon, Hammer, 2H		Blood Debt	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
-When the combat chain closes, if this attacked, banish it.
+When the combat chain closes, if you've attacked with this, banish it.
 
 **Blood Debt**"	Shadow Brute Weapon - Hammer (2H)						
 cBRqwBmLLnnTKt8PKkh7k	Helm of Astral Sanctuary					0				Generic, Equipment, Head			Instant					**Instant** - {t} your hero, destroy this: Prevent the next 1 damage that would be dealt to you this turn.	Generic Equipment - Head						
@@ -5372,6 +5422,9 @@ j8jNwqCDtMqHPbCrnLcbf	Heron's Flight	Red	1	0	3	3				Ninja, Action, Attack		Combo
 
 - Heron's flight can only be defended by attack action cards.
 - Heron's flight can only be defended by 'non-attack' action cards."	Ninja Action - Attack				No	No	
+zMHH8DntNfcWwFMNrPNnQ	Hex Gauntlet				6					Shadow, Brute, Equipment, Arms		Blood Debt	Instant				Blood Debt	"**Instant** - Banish this: Turn a card with blood debt in your banished zone face-down.
+
+**Blood Debt**"	Shadow Brute Equipment - Arms						
 zCRpPtm9BTfzBJFNkdpNw	Hexagore, the Death Hydra				6					Shadow, Brute, Weapon, Flail, 2H			Once per Turn Action	Attack			Blood Debt	"**Once per Turn Action** - {r}{r}: **Attack**
 
 Whenever you attack with Hexagore, it deals damage to you equal to 6 minus the number of cards with **blood debt** in your banished zone."	Shadow Brute Weapon - Flail (2H)				No	No	
@@ -6299,13 +6352,13 @@ PzdWT6J9q9kMDBkMpjC9F	Levels of Enlightenment	Blue	3	1	3	3				Mystic, Action, At
 - Draw a card.
 - This gets +2{p}.
 - This gets **go again**."	Mystic Action - Attack				No	No	
-WwzJLfPwhRTkFLDNjJPrk	Levia						20	4		Shadow, Brute, Hero, Young						Blood Debt		If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose **blood debt** during the end phase.	Shadow Brute Hero - Young			No			No
+WwzJLfPwhRTkFLDNjJPrk	Levia						20	4		Shadow, Brute, Hero, Young						Blood Debt		If a card with 6 or more {p} has been put into your banished zone this turn, you don't lose {h} from blood debt during the end phase.	Shadow Brute Hero - Young			No			No
 qjqqRn6kHWHGz6PQGWd7z	Levia, Redeemed						8	4		Shadow, Demi-Hero		Legendary, Levia Specialization	Action	Transform		Blood Debt	Blood Debt	"**Legendary Levia Specialization**
 
 **Action** - Turn all cards in your banished zone face-down: **Transform** into Levia, Redeemed. Activate this ability only while this is in your inventory and you have 13 or more cards with **blood debt** in your banished zone.
 
 Cards you own lose **blood debt**."	Shadow Demi-Hero				No	No	
-KCwnGqDJtnmJfth7fn8Qq	Levia, Shadowborn Abomination						40	4		Shadow, Brute, Hero						Blood Debt		If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose **blood debt** during the end phase.	Shadow Brute Hero		No		No	No	
+KCwnGqDJtnmJfth7fn8Qq	Levia, Shadowborn Abomination						40	4		Shadow, Brute, Hero						Blood Debt		If a card with 6 or more {p} has been put into your banished zone this turn, you don't lose {h} from blood debt during the end phase.	Shadow Brute Hero		No		No	No	
 GFc7t8wNTwC8rCFwrqTfh	Lexi						20	4		Elemental, Ranger, Hero, Young		Essence of Ice and Lightning	Once per Turn Action	Go again	Go again			"**Essence of Ice and Lightning**
 
 **Once per Turn Action** - Turn a face down card in your arsenal face up: If it's a Lightning card, your next attack this turn gains **go again**. If it's an Ice card, create a Frostbite token under target hero's control. **Go again**"	Elemental Ranger Hero - Young			No			No
@@ -6583,6 +6636,12 @@ Once per turn, when you play an attack action card, remove a verse counter from 
 This enters the arena with a verse counter. When it has none, destroy it.
 
 Once per turn, when you play an attack action card, remove a verse counter from this. If you do, create a Runechant token."	Runeblade Action - Aura					No	
+rrJg7Bntjp9WzWNcnJcjw	Malice						20	4		Shadow, Necromancer, Hero, Young			Action	Go again				"**Action** - {r}, {t}: Until end of turn, you may play target zombie from your graveyard. **Go again**
+
+Whenever a zombie you control dies, banish it face-down and create a Corrupted Corpse in your banished Zone."	Shadow Necromancer Hero - Young			No			No
+cz8FPm7Rjjndfgb8jQBcT	Malice, Domina of the Dead						40	4		Shadow, Necromancer, Hero			Action	Go again				"**Action** - {r}, {t}: Until end of turn, you may play target zombie from your graveyard. **Go again**
+
+Whenever a zombie you control dies, banish it face-down and create a Corrupted Corpse in your banished Zone."	Shadow Necromancer Hero		No		No	No	
 dhMB8PhdHndJLzwgtF9t7	Malign	Red	1	0	3	3				Assassin, Action, Attack		Stealth						"**Stealth**
 
 Damage that would be dealt by Malign can't be prevented."	Assassin Action - Attack						
@@ -7267,6 +7326,9 @@ NHdBTDcjh8hGJBKPpcgQ9	Open the Flood Gates	Yellow	2	2		3			2	Wizard, Action		Sur
 jBbnKk8wHjT9GG7fMzkdJ	Open the Flood Gates	Blue	3	2		3			1	Wizard, Action		Surge						"Deal 1 arcane damage to target hero.
 
 **Surge** - If this deals more than 1 damage, draw 2 cards."	Wizard Action						
+KjbHhphRQNpDQRbjNJh9f	Open the Gate to i'Arathael	Red	1	0	4	3				Shadow, Action, Attack		Blood Debt						"When this hits or is banished from hand or deck, create a Gate to i'Arathael token.
+
+**Blood Debt**"	Shadow Action - Attack				No	No	
 6Wcpcb7DQ8GMGMTwjdQTR	Optekal Monocle	Blue	3	0						Mechanologist, Action, Item			Action	Opt 1, Go again				"Optekal Monocle enters the arena with 5 steam counters on it. When Optekal Monocle has no steam counters on it, destroy it.
 
 **Action** - Remove a steam counter from Optekal Monocle: **Opt 1**. **Go again**"	Mechanologist Action - Item						
@@ -7511,6 +7573,7 @@ nJMKbnPpBCWztRhwhngTw	Patch the Hole					0				Ranger, Equipment, Head			Instant	
 Target attack gets **go again**.
 
 If you've played another blue card this turn, **transcend**."	Mystic Instant						
+D8mWttQzTTrJH6twkGRw6	Path of Repentance					0				Shadow, Equipment, Legs			Instant				Blood Debt	**Instant** - Destroy this: Turn a card with blood debt in your banished zone face-down.	Shadow Equipment - Legs						
 LBFrKWRLJkKBgLc9nKmBb	Path of Same Ends	Red	1	0	3	2			1	Lightning, Runeblade, Action, Attack		Go again	Instant					"When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**.
 
 **Instant** - {r}: This gets **go again**."	Lightning Runeblade Action - Attack						
@@ -8194,6 +8257,15 @@ The second time you crank each turn, draw a card."	Pirate Mechanologist Hero - Y
 DghbPmFhwLkT9whJJjL9f	Puffin, Hightail						40	4		Pirate, Mechanologist, Hero			Action					"**Action** - {t}, destroy a Gold you control: Create a Golden Cog token.
 
 The second time you crank each turn, draw a card."	Pirate Mechanologist Hero		No		No	No	
+RwBNCgjbQdncGdqP7MJjR	Pull from Beyond	Red	1	0		3				Shadow, Action		Opt 2, Go again						"**Opt 2**
+
+Banish the top card of your deck. If it's red, create a Gate to i'Arathael token. **Go again**"	Shadow Action						
+cwGdHMhbQbQHMkR7hWwhp	Pull from Beyond	Yellow	2	0		3				Shadow, Action		Opt 2, Go again						"**Opt 2**
+
+Banish the top card of your deck. If it's yellow, create a Gate to i'Arathael token. **Go again**"	Shadow Action						
+mJcpckWTBQMjHzQz8KRmq	Pull from Beyond	Blue	3	0		3				Shadow, Action		Opt 2, Go again						"**Opt 2**
+
+Banish the top card of your deck. If it's blue, create a Gate to i'Arathael token. **Go again**"	Shadow Action						
 Hpdjj6RbkDfKMmNqQmwTR	Pulping	Red	1	2	6					Brute, Action, Attack		Dominate, Go again						"When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **dominate**.
 
 If this is defended by fewer than 2 non-equipment cards, it gets **go again**."	Brute Action - Attack					No	
@@ -8745,6 +8817,9 @@ cFpmN9tpMR8cLKDzkNtzz	Restless Coalescence	Yellow	2	0						Illusionist, Instant,
 **Once per Turn Instant** - Remove a +1{p} counter from this: Create a Spectral Shield token.
 
 **Ward 2**"	Illusionist Instant - Aura				No	No	
+PRfhDbJzRtJD66DTGcccM	Restless Magister	Red	1	0	3		3			Shadow, Necromancer, Action, Zombie, Ally		Decay						"When this hits a hero, they banish a card from their hand.
+
+**Decay**"	Shadow Necromancer Action - Zombie Ally					No	
 JMzGFRDF8qTWJCLPRfQgH	Restvine Elixir	Red	1	1		3				Generic, Action		Go again						"Your next attack this turn gets +3{p}.
 
 You may destroy an Inertia token you control. If you do, gain 1{h}.
@@ -9009,6 +9084,7 @@ W99DkNW9tQLbq6w6prDQB	Robe of Autumn's Fall					0				Ninja, Equipment, Chest		Ar
 CKdtt7jhNp8DK9QzCqGkz	Robe of Rapture					0				Wizard, Equipment, Chest		Arcane Barrier 1	Action					"**Action** - Destroy Robe of Rapture: Gain {r}{r}{r}.
 
 **Arcane Barrier 1**"	Wizard Equipment - Chest						
+8MHFrHBN9mLtggwpbCphD	Robe of Repentance					0				Shadow, Equipment, Chest			Instant				Blood Debt	**Instant** - Destroy this: Turn a card with blood debt in your banished zone face-down.	Shadow Equipment - Chest						
 tPk9crbnHLtHTFPgJRWHC	Robe of Resourcefulness					0				Wizard, Equipment, Chest		Blade Break						"When this leaves the arena, gain {r}{r}.
 
 **Blade Break**"	Wizard Equipment - Chest						
@@ -9673,6 +9749,9 @@ When this hits a hero, look at the top 2 cards of their deck. Banish 1 of them."
 T9P9nJkNCBqM8dPHkhRhR	Settle the Bill	Red	1	1		3				Ranger, Action		Go again						"You may put an arrow from your hand face-up into your arsenal. If you do, until end of turn, it gets +3{p} and ""When this hits a hero, destroy a card in their arsenal.""
 
 **Go again**"	Ranger Action				No	No	
+6NCKgNWRrD7cqzzhw6Qtz	Seven Sin Nebula				3					Shadow, Runeblade, Weapon, Sword, 2H			Action	Attack				"**Action** - {r}, {t}: **Attack**. Activate this only if you've played a card from a banished zone this turn.
+
+When this hits a hero, create a Runechant token."	Shadow Runeblade Weapon - Sword (2H)						
 JzbrzpFDKnwQJfD7h8CkQ	Shaden Death Hydra	Yellow	2	6	13	3				Shadow, Brute, Action, Attack		Blood Debt					Blood Debt	"When this attacks, it deals X damage to you, where X is 13 minus the number of cards with **blood debt** in your banished zone.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	No	
@@ -9711,11 +9790,20 @@ pntf8jrgBbNzC8jBkChDJ	Shadow of Ursur	Blue	3	0	2	3				Shadow, Runeblade, Action,
 As an additional cost to play Shadow of Ursur, you may banish a card with blood debt from your hand. If you do, Shadow of Ursur gains **go again**.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack				No	No	
+7KrF7PMWwdWRrDcdFqcj8	Shadowrealm Harrower	Blue	3	2	4	3				Shadow, Action, Attack		Blood Debt						"If this was played from your banished zone, it gets +1{p} and ""When this hits a hero, gain {h} equal to the damage dealt this way.""
+
+**Blood Debt**"	Shadow Action - Attack					No	
+LrcHgbDdwcTGFmhJbnrbc	Shadowrealm Harvester	Red	1	2	6	3				Shadow, Action, Attack		Blood Debt, Overpower						"If this was played from your banished zone, it gets +1{p} and **overpower**.
+
+**Blood Debt**"	Shadow Action - Attack					No	
 q9rhJWLhqmFgpRdrb6LGM	Shadowrealm Horror	Red	1	2	6	3				Shadow, Brute, Action, Attack		Go again, Blood Debt						"As an additional cost to play this, banish 3 random cards in your graveyard.
 
 If 1 or more cards with 6 or more {p} are banished this way, this gets +1{p}. 2 or more, this gets **go again**. 3 or more, you may play a card banished this way this turn.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	No	
+6pbQC8JDw9F6rGhpbrgtt	Shadowrealm Reaper	Yellow	2	2	5	3				Shadow, Action, Attack		Blood Debt, Go again						"If this was played from your banished zone, it gets +1{p} and **go again**.
+
+**Blood Debt**"	Shadow Action - Attack					No	
 DMH8PRWDTmMm6mWtQqttn	Shake Down	Red	1	2	6	3				Assassin, Action, Attack		Uzuri Specialization						"**Uzuri Specialization**
 
 If you've played or activated an attack reaction this chain link, Shake Down has ""When this hits a hero, choose red, yellow, or blue. They reveal their hand. Banish a card of the chosen color."""	Assassin Action - Attack				No	No	
@@ -10088,6 +10176,13 @@ bHRdHqLRCthfzcrffPNQH	Sink Below	Blue	3	0		2				Generic, Defense Reaction							
 z8hRmWFtTQPPC8pDR9jTw	Sinker	Blue	3	0		3				Ranger, Action		Go again			Overpower			"Look at the top card of your deck. If it's an arrow, you may put it face-up into your arsenal. If you do, it gets **overpower** this turn.
 
 **Go again**"	Ranger Action					No	
+cPH6KbH6PDWmjq68jdFjb	Sinspeaker Gloomblade	Red	1	0	2	3				Shadow, Runeblade, Action, Attack		Usurp, Blood Debt						"You may play this from your banished zone.
+
+**Usurp**
+
+If this was played from your banished zone, it gets ""When this attacks, you may search your deck for an aura with Runechant in its name, put it into the arena, then shuffle.""
+
+**Blood Debt**"	Shadow Runeblade Action - Attack				No	No	
 bczQzLRqRKQpkCBHmTCHf	Siren's Call	Red	1	1		3				Mystic, Assassin, Attack Reaction								Look at the defending hero's hand and choose a blue card. Add it to this chain link as a defending card. If you do, draw a card.	Mystic Assassin Attack Reaction				No	No	
 WMwJ8b97zqNWbjdHqRNRK	Sirens of Safe Harbor	Red	1	2	6	2				Generic, Action, Attack								When this is put into your graveyard from anywhere, gain 1{h}.	Generic Action - Attack						
 zrRwzwz7n6KgqcDMnjjDw	Sirens of Safe Harbor	Yellow	2	2	5	2				Generic, Action, Attack								When this is put into your graveyard from anywhere, gain 1{h}.	Generic Action - Attack						
@@ -10393,6 +10488,9 @@ You may banish 1 or more cards from your hand rather than pay Soul Reaping's {r}
 While Soul Reaping is attacking a hero with 1 or more cards in their soul, it has go again."	Shadow Action - Attack					No	
 9F6H6kTdQdcHrDrRCDmLP	Soul Shackle									Shadow, Runeblade, Token, Aura								At the beginning of your action phase, banish the top card of your deck.	Shadow Runeblade Token - Aura						
 BczHzGkDc8h997tK8RrbQ	Soul Shield	Yellow	2	2		6				Light, Defense Reaction								Put this into your soul when the combat chain closes.	Light Defense Reaction				No	No	
+d8hLNTfQcKDtKNrWDm7dF	Soul of Existence	Purple	4							Shadow, Resource, Gem		Legendary						"**Legendary**
+
+When this is pitched, lose 1{h}."	Shadow Resource - Gem				No	No	
 DH8zBCdjRpQmLKgbnRF8q	Soulbead Strike	Red	1	0	4	3				Ninja, Action, Attack		Go again						When this hits, it gets **go again**.	Ninja Action - Attack						
 gz8JNPJGQNgq66jKkBzbD	Soulbead Strike	Yellow	2	0	3	3				Ninja, Action, Attack		Go again						When this hits, it gets **go again**.	Ninja Action - Attack						
 DFrMBQFPRf7hTrcCwrRKd	Soulbead Strike	Blue	3	0	2	3				Ninja, Action, Attack		Go again						When this hits, it gets **go again**.	Ninja Action - Attack						
@@ -11723,9 +11821,9 @@ Create a Gold token."	Event		No	No	No	No	No
 M9wMDWRkKRKjz7MBLMWLk	Tremor of Resistance					0				Guardian, Equipment, Off-Hand		Blade Break						"If you control a Seismic Surge token, this gets +2{d}.
 
 **Blade Break**"	Guardian Equipment - Off-Hand						
-hwndKRTjTJtn9FwFhMNWK	Tremor of íArathael	Red	1	1	4	2				Generic, Action, Attack								If a card has been put into your banished zone this turn, Tremor of íArathael gains +2{p}.	Generic Action - Attack					No	
-6mmfrKtTWkcBJDcphpLdc	Tremor of íArathael	Yellow	2	1	3	2				Generic, Action, Attack								If a card has been put into your banished zone this turn, Tremor of íArathael gains +2{p}.	Generic Action - Attack					No	
-gpbqrrjM8cpnFbm8dLcKz	Tremor of íArathael	Blue	3	1	2	2				Generic, Action, Attack								If a card has been put into your banished zone this turn, Tremor of íArathael gains +2{p}.	Generic Action - Attack					No	
+hwndKRTjTJtn9FwFhMNWK	Tremor of i'Arathael	Red	1	1	4	2				Generic, Action, Attack								If a card has been put into your banished zone this turn, Tremor of i'Arathael gains +2{p}.	Generic Action - Attack					No	
+6mmfrKtTWkcBJDcphpLdc	Tremor of i'Arathael	Yellow	2	1	3	2				Generic, Action, Attack								If a card has been put into your banished zone this turn, Tremor of i'Arathael gains +2{p}.	Generic Action - Attack					No	
+gpbqrrjM8cpnFbm8dLcKz	Tremor of i'Arathael	Blue	3	1	2	2				Generic, Action, Attack								If a card has been put into your banished zone this turn, Tremor of i'Arathael gains +2{p}.	Generic Action - Attack					No	
 mwWqPrQzL7fmQkzCFfttc	Tremorshield Sabatons					1				Guardian, Equipment, Legs		Blade Break	Instant					"**Instant** - Destroy this: Prevent the next 1 arcane damage that would be dealt to you this turn. If you've controlled a Seismic Surge token this turn, instead prevent the next 2.
 
 **Blade Break**"	Guardian Equipment - Legs				No	No	
@@ -11888,6 +11986,9 @@ Twn68rHRjHKDjmnpDQddH	Two Steps Forward					1				Ninja, Equipment, Legs		Battlew
 
 **Battleworn**"	Ninja Equipment - Legs						
 n6twqPttCHFQnTLKBfzKz	Two-Faced					1				Reviled, Equipment, Head		Blade Break						When this defends, the attacking hero draws a card, then look at their hand and choose a card. They discard the chosen card.	Reviled Equipment - Head				No	No	
+nQhMbB7nzRmc99mPFqkrD	Unbound by Shadow	Red	1	0	4	3				Shadow, Action, Attack		Blood Debt						"When this attacks, if it was played from your banished zone, create a Gate to i'Arathael token.
+
+**Blood Debt**"	Shadow Action - Attack					No	
 gmR7DG76HhtdgwwTqQngT	Under Loop	Red	1	1	4	3				Mechanologist, Action, Attack		Boost						"**Boost**
 
 When this hits, put it on the bottom of its owner's deck."	Mechanologist Action - Attack				Yes	Yes	
@@ -12223,7 +12324,12 @@ z78cKCmLRbWfftGfpcJGd	Virulent Touch	Blue	3	0	2	2				Assassin, Ranger, Action, A
 
 When this chain link resolves, if Virulent Touch is defended by a card from hand, create a Bloodrot Pox token under the defending hero's control."	Assassin / Ranger Action - Attack						
 RHnFkKb8FKdFzp9rdzGjF	Viserai						20	4		Runeblade, Hero, Young								Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token.	Runeblade Hero - Young			No			No
+zggWCkTJQgBjj7FCDTwmQ	Viserai, Between Worlds						20	4		Shadow, Runeblade, Hero, Young		Traverse						Whenever you create 1 or more Runechants, banish the top card of your deck. Then if you've created 3 or more Runechants this turn, **traverse**.	Shadow Runeblade Hero - Young			No			No
 TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood						40	4		Runeblade, Hero								Whenever you play a Runeblade card, if you've played another non-attack action card this turn, create a Runechant token.	Runeblade Hero		No		No	No	
+QMGnHJqg6fhcKLfmpRQLz	Viserai, Usurper						*	4		Shadow, Runeblade, Hero, Demon		Traverse			Go again			"The first attack action card with blood debt you play each turn gets **go again**.
+
+At the beginning of each end phase, if you've created or activated a Gate to i'Arathael this turn, you may **traverse**."	Shadow Runeblade Hero - Demon		No		No	No	
+RLJggjWTcq6NK9PD9zQGh	Viserai, the Forsaken						40	4		Shadow, Runeblade, Hero		Traverse						Whenever you create 1 or more Runechants, banish the top card of your deck. Then if you've created 3 or more Runechants this turn, **traverse**.	Shadow Runeblade Hero		No		No	No	
 LKrMGGMMHFKbbcM6LQ9WN	Visionary of Orbits	Red	1	3	7	2				Lightning, Action, Attack								When this hits, you may put an instant card from your graveyard on the bottom of your deck.	Lightning Action - Attack					No	
 mTbD9zFpgmNQc7qzmfG8M	Visit Anvilheim	Blue	3	X		3				Guardian, Action								Remove X -1{d} counters from a Guardian off-hand you have equipped.	Guardian Action				No	No	
 n6fRnMQh7NKBzqLKMMK68	Visit Goldmane Estate	Blue	3	1		3				Guardian, Action		Victor Specialization, Go again						"**Victor Specialization**
@@ -12311,6 +12417,9 @@ CzwrwtC7LkmK6mchdpzB7	Volzar, the Lightning Rod									Lightning, Wizard, Weapo
 mtdP6wgpMpd6LJbpJ79TM	Vow of Vengeance					1				Draconic, Equipment, Head		Blade Break	Attack Reaction	Mark				"**Attack Reaction** - Destroy this: **Mark** target Arakni.
 
 **Blade Break**"	Draconic Equipment - Head						
+PjHzdFtkjKpqTrDkwkJGK	Vox Necropolis									Shadow, Necromancer, Weapon, Staff, 2H					Attack			"During your action phase, zombies you've played from a graveyard or banished zone enter the arena tapped and get ""When this enteres the arena, **attack** with it.""
+
+Zombies you control get ""**Action** - {r}, {t}: **Attack**"""	Shadow Necromancer Weapon - Staff (2H)						
 WhKb7MKbcDLhGThWGP8hT	Vynnset						20	4		Shadow, Runeblade, Hero, Young								"At the start of your turn, banish a card from your hand. If you do, create a Runechant token.
 
 Whenever you play a Shadow non-attack action card, you may pay {h}. If you do, the next Runechant effect that would deal damage this turn can't be prevented."	Shadow Runeblade Hero - Young			No			No

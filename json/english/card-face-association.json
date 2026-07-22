@@ -810,6 +810,31 @@
         "is_DFC": false
     },
     {
+        "front_unique_id": "hzHgDh99M8hqgTFPJNp8R",
+        "back_unique_id": "TtBqGMQqBcnMwBM7MFNjw",
+        "is_DFC": false
+    },
+    {
+        "front_unique_id": "KDkPLT6NwjnLzRKndkbBt",
+        "back_unique_id": "ktBHPzmpMRHdQPhRKdrbd",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "f7GnfgRrrWNPNwKrRQKrn",
+        "back_unique_id": "WbRQfBCdnJCwcPJHGrtGC",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "6cgQqTzDr7B9K9QjgM6Nt",
+        "back_unique_id": "jjwJtfPDHB9kwNDQcNTWb",
+        "is_DFC": true
+    },
+    {
+        "front_unique_id": "bQkrnHJhPdWNGrGkBHKzh",
+        "back_unique_id": "C8gn9wd7hjGdHBntbk7Ck",
+        "is_DFC": true
+    },
+    {
         "front_unique_id": "wdHD8hjwB8q7Lw7FHfLf6",
         "back_unique_id": "Qkb6Ghrd96cFJjC7fBpng",
         "is_DFC": false

@@ -1267,16 +1267,16 @@
             {
                 "unique_id": "qPHBhhWF8Mb8pfGcmztnF",
                 "edition": "N",
-                "start_card_id": "IAR145",
-                "end_card_id": "IAR222",
-                "initial_release_date": null,
+                "start_card_id": "IAR000",
+                "end_card_id": "IAR666",
+                "initial_release_date": "2026-09-25T00:00:00.000Z",
                 "out_of_print": false,
-                "card_database": null,
-                "product_page": null,
+                "card_database": "https://cardvault.fabtcg.com/products/usurp-the-shadow-throne",
+                "product_page": "https://fabtcg.com/products/booster-set/iar/",
                 "collectors_center": null,
                 "card_gallery": null,
                 "release_notes": null,
-                "set_logo": null
+                "set_logo": "https://cdn.fabtcg.com/uploads/2026/07/usurp_the_shadow_throne_logo.png"
             }
         ]
     },

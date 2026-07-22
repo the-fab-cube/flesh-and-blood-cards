@@ -120,6 +120,12 @@
         "description_plain": "A Guardian mechanic that showcases the strength of the guardian. When an attack with crush deals 4 or more damage to a hero, an effect is applied."
     },
     {
+        "unique_id": "cLPWFpHzjGNJwtdpHC66t",
+        "name": "Decay",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "BwRFJmmNC6LNLwrtjWb7T",
         "name": "Decompose",
         "description": "",
@@ -206,6 +212,12 @@
     {
         "unique_id": "RkjqDPNHf78knQNQGpTbP",
         "name": "Heavy",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "CrGrP7NKPGTfQ8Dt9pgwd",
+        "name": "Incarnate",
         "description": "",
         "description_plain": ""
     },
@@ -436,6 +448,12 @@
         "name": "Unfreeze",
         "description": "Removes **Freeze** from an object.",
         "description_plain": "Removes Freeze from an object."
+    },
+    {
+        "unique_id": "PtKh7FrRjGMC9Q7L7DWLr",
+        "name": "Unique",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "H6QfMpMdgD8Fhcfqgq6rm",

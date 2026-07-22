@@ -1046,3 +1046,10 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed keywords for Meet Madness - bugfix credit: manwaring
 - Fixed wrong image for SUP270, OMN000, PEN021, PEN267, PEN marvel young heroes, FAB478 - bugfix credit: manwaring
 - Fixed various issues from OMN and PEN (Phillip did so much I no longer have the energy to detail them all :joy:) - bugfix credit: manwaring
+
+TODO:
+- Added set data for IAR
+- Added card data for IAR
+- Added printing data for IAR000-IAR666
+- Updated name of Gate to i'Arathael and Tremor of i'Arathael
+- Updated functional text of Hell Hammer, Levia, `Levia, Shadowborne Abomination`

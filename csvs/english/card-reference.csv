@@ -299,8 +299,13 @@ KjRNNfzGJJh68Fwk7QmWc	Beat the Same Drum	3	Cn8tK9KRm7d9KbcQk6Pqm	Toughness
 KjRNNfzGJJh68Fwk7QmWc	Beat the Same Drum	3	DBhPCQqjnj6qqd9DtBB7W	Vigor							
 k7CQWQNw7LjqTcGB8gDTq	Beckon Applause		WqTTMjDgKKCp7Lnb7LH6d	Agility							
 k7CQWQNw7LjqTcGB8gDTq	Beckon Applause		DBhPCQqjnj6qqd9DtBB7W	Vigor							
+H6MhWPLLWJpTPmd7twtgC	Beckoning Hunger	1	FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger							
+GKj9BJrLnJDb8cdQ6Dkc9	Beckoning Hunger	2	FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger							
+FnptrgNbzKQRGnFK8rWwj	Beckoning Hunger	3	FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger							
 FzmdMTfjQrhzn8bNBhhDw	Become the Arknight	3	RHnFkKb8FKdFzp9rdzGjF	Viserai							
 FzmdMTfjQrhzn8bNBhhDw	Become the Arknight	3	TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood							
+9DgdMqPdzCbJkLcqJKpNT	Become the Shadow Lord	3	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+9DgdMqPdzCbJkLcqJKpNT	Become the Shadow Lord	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 CtgLqKpjrGRtLnwbHjd9f	Belittle	1	hFFjjMfRw6J8KhBC7Tdzj	Minnowism	1						
 CtgLqKpjrGRtLnwbHjd9f	Belittle	1	CbJgbPBCGkgwbwkLRPd8m	Minnowism	2						
 CtgLqKpjrGRtLnwbHjd9f	Belittle	1	BNMTzb6WbFTGp7PFnHD6d	Minnowism	3						
@@ -1231,6 +1236,7 @@ tFjCKTzpnNCbMGwgtMjFn	Gorgon's Gaze	2	zBDwTqgQTKrNRwjQmMr9g	Slither
 FhJWwcJKQjbQhHGRcNFTf	Grains of Bloodspill		DBhPCQqjnj6qqd9DtBB7W	Vigor							
 pwfB8pHmJRDD8CfP8mTbr	Grandeur of Valahai		Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
 6WM7PKt9BCGmw7wQzn7k6	Grasp of the Arknight		zfrHQjbPkpBmdQGrWcTMB	Runechant							
+jrMzQzBmGK9LjRhQmPhCw	Grasp of the Darknight		zfrHQjbPkpBmdQGrWcTMB	Runechant							
 Ng9LqqDzcwcTmQmDzWzjT	Graven Call		TNJz9fCgqmhhLz9rP9tkt	Silver							
 ctk8ztqbzqLTRGNrQkJwf	Graven Cowl		TNJz9fCgqmhhLz9rP9tkt	Silver							
 wkgMjwtjQk7NCGLFt9wDw	Graven Gaslight		TNJz9fCgqmhhLz9rP9tkt	Silver							
@@ -1615,6 +1621,8 @@ W8qgQqqTzWMFFcCCzTLGg	Magrar		HhTPF8HGRqhFbTT8HnBBh	Zen State
 CwJMHg9zGWTRtRFhbWNbf	Malefic Incantation	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 kbTJ7t7MLfLRNprLbJQRQ	Malefic Incantation	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 9GqP669FDfnpMzmL7t7JW	Malefic Incantation	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+rrJg7Bntjp9WzWNcnJcjw	Malice		qmC78MP6bjTHcDChc6RMJ	Corrupted Corpse							
+cz8FPm7Rjjndfgb8jQBcT	Malice, Domina of the Dead		qmC78MP6bjTHcDChc6RMJ	Corrupted Corpse							
 f8QrwNNrtgKcB8MwLRQh8	Manifestation of Miragai		FRTnBzBCRC7TbNhdKLWqW	Inner Chi	3						
 RbgFbTMtHzGhq8dmDLwpG	March of Loyalty	1	n9FtLHDg97rfrTNJDMBG6	Fealty							
 N7PFFQLkdzRMDhzDWJWwW	Marlynn		8qdmprPg7kckn8ktMTKQh	Gold							
@@ -1787,6 +1795,7 @@ BfQnT8rqMhTBmDWCFgdhW	Open the Center	2	CbngjC9FTFNdmTGT7ddCT	Head Jab	3
 CChttCnwGwHMcBKm6LhNR	Open the Center	3	JtCMThrjDDLjGmBbCcpWc	Head Jab	1						
 CChttCnwGwHMcBKm6LhNR	Open the Center	3	CwHzMDBNQRNdWpMc7phMr	Head Jab	2						
 CChttCnwGwHMcBKm6LhNR	Open the Center	3	CbngjC9FTFNdmTGT7ddCT	Head Jab	3						
+KjbHhphRQNpDQRbjNJh9f	Open the Gate to i'Arathael	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 rLgr6PwGt9TtRFMwTFQf7	Orb-Weaver Spinneret	1	CKFCLPKmb6nMQW9Jqjdz8	Graphene Chelicera							
 T8Djg7CtcKNrhdbfBCb8t	Orb-Weaver Spinneret	2	CKFCLPKmb6nMQW9Jqjdz8	Graphene Chelicera							
 HDJFD6zmgqHN9jfNNMDCD	Orb-Weaver Spinneret	3	CKFCLPKmb6nMQW9Jqjdz8	Graphene Chelicera							
@@ -1942,6 +1951,9 @@ m8MzjMMWBw88jJj9gt9Qj	Puffin		8qdmprPg7kckn8ktMTKQh	Gold
 m8MzjMMWBw88jJj9gt9Qj	Puffin		H6nDPCh7gTgWLfzGdhHB7	Golden Cog							
 DghbPmFhwLkT9whJJjL9f	Puffin, Hightail		8qdmprPg7kckn8ktMTKQh	Gold							
 DghbPmFhwLkT9whJJjL9f	Puffin, Hightail		H6nDPCh7gTgWLfzGdhHB7	Golden Cog							
+RwBNCgjbQdncGdqP7MJjR	Pull from Beyond	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+cwGdHMhbQbQHMkR7hWwhp	Pull from Beyond	2	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+mJcpckWTBQMjHzQz8KRmq	Pull from Beyond	3	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 FB87tWPkwcRzmzjLcDfMD	Put 'Em In Their Place	1	zWhGF8kMMdmKdhMNdj6NH	Valda Brightaxe							
 FB87tWPkwcRzmzjLcDfMD	Put 'Em In Their Place	1	bjLbTMgMm6QRWBRrw8chQ	Valda, Seismic Impact							
 twGn8N6Pm6ctFgKnjCpL7	Qi Unleashed	1	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
@@ -2178,6 +2190,7 @@ FFGW6Kn6mWFFFWcwkpdHh	Seismic Stir	2	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge
 h7n8tCF66mwtfWfqLLz87	Seismic Stir	3	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
 PBkK9jFkGPKGqTwmTwrzW	Serpent's Kiss	3	QqDQKkgCz9TM6HDgFkqcL	Fang Strike							
 PBkK9jFkGPKGqTwmTwrzW	Serpent's Kiss	3	zBDwTqgQTKrNRwjQmMr9g	Slither							
+6NCKgNWRrD7cqzzhw6Qtz	Seven Sin Nebula		zfrHQjbPkpBmdQGrWcTMB	Runechant							
 DMH8PRWDTmMm6mWtQqttn	Shake Down	1	QmqN6fJJMnLDjLHKF7g97	Uzuri							
 DMH8PRWDTmMm6mWtQqttn	Shake Down	1	rNhtnPWtDDBzBp7mNdQtT	Uzuri, Switchblade							
 LktKqzw6D9wQtcctzwKbF	Shallow Water Shark Harpoon	2	8qdmprPg7kckn8ktMTKQh	Gold							
@@ -2253,6 +2266,13 @@ Crtn9djMPnRdwjKnhWRpk	Singing Steelblade	2	NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quic
 67zdgKFWD7qzcPppbRHNB	Singularity	1	6PPFnJ8tNtPKN6Km7NWpp	Teklovossen							
 67zdgKFWD7qzcPppbRHNB	Singularity	1	ndKnMFtcDt8JmPFD6bfbk	Teklovossen, Esteemed Magnate							
 67zdgKFWD7qzcPppbRHNB	Singularity	1	BRpMLJdMBPgfJNJLJWDFg	Teklovossen, the Mechropotent							
+cPH6KbH6PDWmjq68jdFjb	Sinspeaker Gloomblade	1	HDtcFpfJGnLpQW7LfmM7k	Runechant of Envy	2						
+cPH6KbH6PDWmjq68jdFjb	Sinspeaker Gloomblade	1	9wdzWnFf7J6nmL86nFhtN	Runechant of Gluttony	2						
+cPH6KbH6PDWmjq68jdFjb	Sinspeaker Gloomblade	1	MT8LQJTF6w8gPqMzNTrkr	Runechant of Greed	2						
+cPH6KbH6PDWmjq68jdFjb	Sinspeaker Gloomblade	1	FpMpBwHGNgTGDjgfpWBKB	Runechant of Lust	2						
+cPH6KbH6PDWmjq68jdFjb	Sinspeaker Gloomblade	1	HqGFdH8tMH6fR8bNMkTjq	Runechant of Pride	2						
+cPH6KbH6PDWmjq68jdFjb	Sinspeaker Gloomblade	1	BMgj68hT9jQHQ6nFqhTDT	Runechant of Sloth	2						
+cPH6KbH6PDWmjq68jdFjb	Sinspeaker Gloomblade	1	qwpdn8CJWGgkHLqdhDtgh	Runechant of Wrath	2						
 cjk6KqfdDWCF6pLdpQFdj	Skittering Sands	1	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing							
 RDkP9CqzbwDGJmTg7hrp7	Skittering Sands	2	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing							
 Q7JLckkNhtBmRQBKRqnJM	Skittering Sands	3	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing							
@@ -2547,6 +2567,7 @@ kQcrWWddhc7qJJrtdpggp	Twelve Petal Kāṣāya		HhTPF8HGRqhFbTT8HnBBh	Zen State
 CdDbm8CBpkbBRg9d6Hdck	Two Steps Ahead	3	WBFjTCfmbwHCr8WNmz8RQ	Confidence							
 CdDbm8CBpkbBRg9d6Hdck	Two Steps Ahead	3	6gqTwGnmHjkCLDqKPWt8c	Might							
 Twn68rHRjHKDjmnpDQddH	Two Steps Forward		WqTTMjDgKKCp7Lnb7LH6d	Agility							
+nQhMbB7nzRmc99mPFqkrD	Unbound by Shadow	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 7FKzc7kNTqjg78RNqwM77	Undertow Stilettos		zBDwTqgQTKrNRwjQmMr9g	Slither							
 DKFj9DK7f9nHrQffkdfDm	Unforgetting Unforgiving	1	9QL68DDb9hCqhWWhgnQgR	Jarl Vetreiđi							
 DKFj9DK7f9nHrQffkdfDm	Unforgetting Unforgiving	1	q7GfHcHBpWqCbtghcpnTj	Mangle	1						
@@ -2617,7 +2638,10 @@ JrjbG9mbwQC8zQcnPRhHg	Virulent Touch	1	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox
 hw9HLQQjJ9nzWtBGFzWgc	Virulent Touch	2	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox							
 z78cKCmLRbWfftGfpcJGd	Virulent Touch	3	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox							
 RHnFkKb8FKdFzp9rdzGjF	Viserai		zfrHQjbPkpBmdQGrWcTMB	Runechant							
+zggWCkTJQgBjj7FCDTwmQ	Viserai, Between Worlds		zfrHQjbPkpBmdQGrWcTMB	Runechant							
 TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood		zfrHQjbPkpBmdQGrWcTMB	Runechant							
+QMGnHJqg6fhcKLfmpRQLz	Viserai, Usurper		JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+RLJggjWTcq6NK9PD9zQGh	Viserai, the Forsaken		zfrHQjbPkpBmdQGrWcTMB	Runechant							
 n6fRnMQh7NKBzqLKMMK68	Visit Goldmane Estate	3	8qdmprPg7kckn8ktMTKQh	Gold							
 n6fRnMQh7NKBzqLKMMK68	Visit Goldmane Estate	3	6gqTwGnmHjkCLDqKPWt8c	Might							
 n6fRnMQh7NKBzqLKMMK68	Visit Goldmane Estate	3	kHmRR6Q7mJPjQgdQJcjpQ	Victor Goldmane							
