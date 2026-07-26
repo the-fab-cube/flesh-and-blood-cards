@@ -1047,6 +1047,11 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed wrong image for SUP270, OMN000, PEN021, PEN267, PEN marvel young heroes, FAB478 - bugfix credit: manwaring
 - Fixed various issues from OMN and PEN (Phillip did so much I no longer have the energy to detail them all :joy:) - bugfix credit: manwaring
 
+07-26-26:
+- Added card data for Blade Dance, Drawn to the Blade, Honed for Honor, Into the Muck, Shimmer of the Blade, and Terms of Combat - data entry assistance: manwaring
+- Added printing data for MPW003, MPW023, MPW030-MPW031, MPW034, and MPW134 - data entry assistance: manwaring
+- Added image data for MPW003, MPW023, and MPW031 - data entry assistance: manwaring
+
 TODO:
 - Added set data for IAR
 - Added card data for IAR

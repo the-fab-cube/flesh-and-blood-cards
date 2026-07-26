@@ -1049,6 +1049,7 @@ m8GfTFCJ9DkNWwmJbKBth	Blade Beckoner Plating					1				Generic, Equipment, Chest	
 wLNgpgF6DJHmgfFHMnnpK	Blade Cuff					1				Assassin, Ninja, Equipment, Arms		Blade Break	Action	Go again				"**Action** - {r}{r}, destroy Blade Cuff: Your daggers gain +1{p} this turn. **Go again**
 
 **Blade Break**"	Assassin / Ninja Equipment - Arms						
+Gb8JgWdw6LbKBHhMkBw9D	Blade Dance									Warrior, Token, Aura					Go again			When you activate a weapon attack, destroy this and the attack gets **go again**.	Warrior Token - Aura						
 BmMFHFgmDWmHn9H7QHBdF	Blade Flash	Blue	3	1		2				Generic, Attack Reaction					Go again			Target sword attack gains **go again**.	Generic Attack Reaction						
 9Frf6rQGgmQ9bqWRDzzjM	Blade Flurry	Red	1	0		3				Warrior, Attack Reaction								"Target weapon attack gets +2{p}.
 
@@ -3174,6 +3175,11 @@ When this enters the arena, each hero draws a card.
 
 At the beginning of your action phase, destroy this, then the next Guardian attack action card you play this turn gets +3{p}."	Guardian Action - Aura					No	
 P9zCBnmGGJLqgH79R89Br	Drawing Dead	Yellow	2	0		3				Warrior, Attack Reaction					Wager			Target sword attack gets +1{p} and **wagers** with the defending hero. The winner discards a card.	Warrior Attack Reaction					No	
+bcRQrmgfTf9JdHgHJJNNT	Drawn to the Blade	Yellow	2	0		3				Warrior, Action		Sharpen, Go again						"**Sharpen** target sword you control.
+
+If it has 2 or more +1{p} counters, the next time it hits this turn, draw a card.
+
+**Go again**"	Warrior Action				No	No	
 FWdhrBqFCH9nqqmRGPcTL	Drawn to the Dark Dimension	Red	1	2	3	3				Runeblade, Action, Attack								"This costs {r} less to play for each Runechant you control.
 
 When this attacks, draw a card."	Runeblade Action - Attack						
@@ -5542,6 +5548,11 @@ mzKLGwTBmFHFd8KNdPQ7n	Homage to Ancestors	Blue	3	0						Mystic, Instant		Legenda
 Gain 1{h}
 
 If you've played another blue card this turn, **transcend**."	Mystic Instant						
+JHGDt9dft6zcwHdWrqKqC	Honed for Honor	Blue	3	0		3				Warrior, Action		Sharpen, Go again						"**Sharpen** target sword you control.
+
+If it has 3 or more +1{p} counters, you may put an attack reaction card from your graveyard on top of your deck.
+
+**Go again**"	Warrior Action				No	No	
 zc8n8JQRfBTPHGfnBmw8L	Honing Hood			0		0				Ranger, Equipment, Head			Instant					**Instant** - Destroy Honing Hood: Return all cards in your arsenal to your hand, then put a card from your hand face down into your arsenal.	Ranger Equipment - Head						
 6ntF8Rdm7PqLkHWnPMkrF	Hood of Red Sand					1				Warrior, Equipment, Head		Kassai Specialization, Battleworn	Attack Reaction					"**Kassai Specialization**
 
@@ -5911,6 +5922,9 @@ Look at the top 3 cards of the defending hero's deck and choose a card. If it's 
 b8WGTGmWNGDdGwCWP7r66	Intimate Inducement	Blue	3	0		3				Mystic, Assassin, Attack Reaction								"Target Assassin or Mystic attack action card gets +1{p}.
 
 Look at the top 2 cards of the defending hero's deck and choose a card. If it's blue, it has 0 base {d}. Put the chosen card onto the active chain link as a defending card and the rest on top in any order."	Mystic Assassin Attack Reaction						
+MHkPqWbqGjb7FwzdFphLk	Into the Muck	Red	1	0		3				Warrior, Attack Reaction								"Play this only if you've wagered this chain link.
+
+Banish a non-equipment defending card on the active chain link."	Warrior Attack Reaction				No	No	
 BzRzJh9PcztPDn7fhNLF9	Intoxicating Shot	Blue	3	0	4	3				Ranger, Action, Arrow, Attack		Riptide Specialization						"**Riptide Specialization**
 
 When this hits a hero, they create a Courage and Quicken token."	Ranger Action - Arrow Attack				No	No	
@@ -9889,6 +9903,9 @@ WznLQmk7B6QQKMmT6TJJC	Shifting Winds of the Mystic Beast	Blue	3	1		3				Mystic, 
 If a Chi was pitched to play this, create 2 Crouching Tigers in your hand.
 
 **Go again**"	Mystic Ninja Action				No	No	
+pQRPKrhwqLmmQThgJbL7c	Shimmer of the Blade	Red	1	1		2				Warrior, Attack Reaction								"Target weapon attack gets +3{p}.
+
+**Instant** - Discard this: Create a Blade Dance token."	Warrior Attack Reaction				No	No	
 RmJNprW8pD7hPmcMJ6Q7N	Shimmering Mirage	Blue	3	0		2				Illusionist, Defense Reaction		Mirage						"While this is defending, when this chain link resolves, banish this. You may play it this combat chain.
 
 **Mirage**"	Illusionist Defense Reaction					No	
@@ -11457,6 +11474,9 @@ zknqNdwtDMrHbRpgKkBJw	Terminator Tank	Red	1	6	6	3				Mechanologist, Action, Atta
 - 2 or more, this costs {r}{r}{r} less to play,
 - 3 or more, this gets **overpower**,
 - 4 or more, this gets +3{p}."	Mechanologist Action - Attack				No	No	
+m7RgJMCMttCkwRGdBMrGP	Terms of Combat	Red	1	2		3				Warrior, Action		Go again						"Your next weapon attack this turn gets +4{p} and ""Whenever a defense reaction is played or activated this chain link, draw a card.""
+
+**Go again**"	Warrior Action				No	No	
 JbQPwq8DkLpDdjHCP9www	Terra						20	4		Elemental, Guardian, Hero, Young		Essence of Earth						"At the beginning of each end phase, if there is an Earth card in your pitch zone, you may pay {r}. If you do, create a Might token.
 
 **Essence of Earth**"	Elemental Guardian Hero - Young			No			No
