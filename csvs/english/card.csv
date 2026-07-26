@@ -1232,7 +1232,7 @@ JfBCWJdFBcrnhdkjRj6tz	Blood Drop Brocade					0				Generic, Equipment, Chest			In
 MBgNKqpNwzwM8n6KjMtFN	Blood Follows Blade	Yellow	2	0		3				Warrior, Attack Reaction		Kassai Specialization			Go again			"**Kassai Specialization**
 
 Target sword attack gets **go again** and ""When this hits, create a Cintari Sellsword token."""	Warrior Attack Reaction				No	No	
-HKQMBnGq8PCKJTdrjmfGk	Blood Harvest			3	6	3				Shadow, Brute, Action, Attack		Blood Debt	Instant					"**Instant** - Banish this from your hand: Gain {r}{r}{r}
+HKQMBnGq8PCKJTdrjmfGk	Blood Harvest			3	6	0				Shadow, Brute, Action, Attack		Blood Debt	Instant					"**Instant** - Banish this from your hand: Gain {r}{r}{r}
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	No	
 cjKPgLQmgG9QwFQKWPrrM	Blood Line	Red	1	2	3	3				Draconic, Ninja, Action, Attack		Go again						"This costs {r} less to play for each Draconic chain link you control.
