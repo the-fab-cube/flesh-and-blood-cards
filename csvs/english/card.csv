@@ -1325,6 +1325,11 @@ KtQQggkn6LkFz7dGHNLWj	Blue Fin Harpoon	Blue	3	2	4	3				Pirate, Ranger, Action, A
 8TbK6kFJcDtRjqwNzBbmp	Blue Sea Tricorn					1				Pirate, Equipment, Head		Blade Break	Action	Go again				"**Action** - {r}{r}{r}, destroy this: Draw a card. **Go again**
 
 **Blade Break**"	Pirate Equipment - Head						
+BkgQ96BfrtLKmrrnPJwB8	Bluff Catcher	Yellow	2	2		3				Warrior, Action		Go again			Wager			"You may destroy a Gold you control rather than pay this card's {r} cost.
+
+Your next sword attack this turn gets +3{p} and ""When this attacks, **wager** with the defending hero. The winner gets +1{i} during their next end phase.""
+
+**Go again**"	Warrior Action				No	No	
 RHPQfjcCgDTBLmWrNKGbR	Blunten	Yellow	2			2				Warrior, Block								When this defends a weapon attack, the attacking hero discards a card.	Warrior Block				No	No	
 9prz8nBBPGdwQqttNdJJz	Blur Reality	Blue	3	0						Lightning, Illusionist, Instant								Banish a Lightning aura permanent you control with no holo counters, then return it to the arena with a holo counter.	Lightning, Illusionist, Instant					No	
 rmgJwFTgdKNFc8LcPKbJJ	Bluster Buff	Red	1	1	6	3				Generic, Action, Attack								When this attacks, it gets -1{p} unless you pay {r}.	Generic Action - Attack					No	
