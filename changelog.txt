@@ -1051,6 +1051,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for Blade Dance, Bluff Catcher, Drawn to the Blade, Honed for Honor, Into the Muck, Shimmer of the Blade, and Terms of Combat - data entry assistance: manwaring
 - Added printing data for MPW003, MPW023, MPW029-MPW031, MPW034, and MPW134 - data entry assistance: manwaring
 - Added image data for MPW003, MPW023, and MPW031 - data entry assistance: manwaring
+- Updated many image data URLs to use cardvault URLs - credit: manwarning
+- AAdded missing foil printing for HNT166 - bugfix credit: akamoonknight
 
 TODO:
 - Added set data for IAR
