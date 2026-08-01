@@ -1054,6 +1054,13 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated many image data URLs to use cardvault URLs - credit: manwarning
 - AAdded missing foil printing for HNT166 - bugfix credit: akamoonknight
 
+08-01-26:
+- Added remaining card data for MPW cards - data entry assistance: manwaring
+- Added remaining printing data for MPW cards - data entry assistance: manwaring
+- Added remaining image data for MPW cards - data entry assistance: manwaring
+- Updated foiling and image data for AOL002
+- Updated functional text for Deep Blue, Glint the Quicksilver, Hit and Run, In the Swing, Money Where Ya Mouth Is, Nature's Path Pilgrimage, Push Forward, Refraction Bolters, Second Swing, Sharpen Steel, Slice and Dice, and Take the Upper Hand
+
 TODO:
 - Added set data for IAR
 - Added card data for IAR

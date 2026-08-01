@@ -1065,7 +1065,7 @@ m8GfTFCJ9DkNWwmJbKBth	Blade Beckoner Plating					1				Generic, Equipment, Chest	
 wLNgpgF6DJHmgfFHMnnpK	Blade Cuff					1				Assassin, Ninja, Equipment, Arms		Blade Break	Action	Go again				"**Action** - {r}{r}, destroy Blade Cuff: Your daggers gain +1{p} this turn. **Go again**
 
 **Blade Break**"	Assassin / Ninja Equipment - Arms						
-Gb8JgWdw6LbKBHhMkBw9D	Blade Dance									Warrior, Token, Aura					Go again			When you activate a weapon attack, destroy this and the attack gets **go again**.	Warrior Token - Aura						
+Gb8JgWdw6LbKBHhMkBw9D	Blade Dance									Warrior, Token, Aura					Go again			When you activate a weapon attack, destroy this and the attack gets **go again**.	Warrior Token - Aura				No	No	
 BmMFHFgmDWmHn9H7QHBdF	Blade Flash	Blue	3	1		2				Generic, Attack Reaction					Go again			Target sword attack gains **go again**.	Generic Attack Reaction						
 9Frf6rQGgmQ9bqWRDzzjM	Blade Flurry	Red	1	0		3				Warrior, Attack Reaction								"Target weapon attack gets +2{p}.
 
@@ -1945,13 +1945,13 @@ DCtpFfTpFgWqgtWkkMQjT	Cheating Scoundrel	Red	1	0		3				Pirate, Action		Go again	
 The next time you would lose a wager this turn, instead you may discard a card. If you do, you win the wager.
 
 **Go again**"	Pirate Action				No	No	
-NMKbDHWmhh8wcrcPmgnkh	Check-Raise	Red	1	0		3				Warrior, Action		Go again						"The next time an attack you control wagers this turn, it gets +4{p}.
+NMKbDHWmhh8wcrcPmgnkh	Check-Raise	Red	1	0		3				Warrior, Action		Go again					Wager	"The next time an attack you control wagers this turn, it gets +4{p}.
 
 **Go again**"	Warrior Action						
-QhRdtFcQmqP8dwqMgHhdL	Check-Raise	Yellow	2	0		3				Warrior, Action		Go again						"The next time an attack you control wagers this turn, it gets +3{p}.
+QhRdtFcQmqP8dwqMgHhdL	Check-Raise	Yellow	2	0		3				Warrior, Action		Go again					Wager	"The next time an attack you control wagers this turn, it gets +3{p}.
 
 **Go again**"	Warrior Action						
-JNzb6WdcHpPngWH9Gpccf	Check-Raise	Blue	3	0		3				Warrior, Action		Go again						"The next time an attack you control wagers this turn, it gets +2{p}.
+JNzb6WdcHpPngWH9Gpccf	Check-Raise	Blue	3	0		3				Warrior, Action		Go again					Wager	"The next time an attack you control wagers this turn, it gets +2{p}.
 
 **Go again**"	Warrior Action						
 KdtJWqCTGNwRGHbhB8dbq	Cheers!	Blue	3	0		3				Revered, Action, Aura		Go again, The Crowd Cheers						"**Go again**
@@ -2127,6 +2127,7 @@ bPJzLWhH7G7BnHL9fNJw6	Cleave	Red	1	1		3				Warrior, Action		Go again						"Your 
 hFdDjPwdMw7dd678RzRPH	Clench the Upper Hand	Red	1	0	4	2				Reviled, Action, Attack		The Crowd Boos						When this attacks or defends, if you have less {h} than each other hero, **the crowd boos** you.	Reviled Action - Attack						
 mtrtdmqhkkjnQNNk7kFr8	Clench the Upper Hand	Yellow	2	0	3	2				Reviled, Action, Attack		The Crowd Boos						When this attacks or defends, if you have less {h} than each other hero, **the crowd boos** you.	Reviled Action - Attack						
 JdpQPQQbBNbHqQNhrBNnw	Clench the Upper Hand	Blue	3	0	2	2				Reviled, Action, Attack		The Crowd Boos						When this attacks or defends, if you have less {h} than each other hero, **the crowd boos** you.	Reviled Action - Attack						
+j8dKbzJP7kqP96rpMMLMJ	Clip Flexor					0				Generic, Equipment, Arms			Defense Reaction					**Defense Reaction** - Destroy this: You may add an attack reaction card from your hand to the active chain link as a defending card.	Generic Equipment - Arms						
 TtgGwwdkkjjMHBbMztjrG	Cloak of Darkness									Shadow, Equipment, Chest		Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
 
 **Blood Debt**"	Shadow Equipment - Chest						
@@ -2872,7 +2873,7 @@ z6t6dcr7F7fWjwKwtqdRd	Debilitate	Blue	3	4	6	3				Guardian, Action, Attack		Crush
 8h7fn6dk7PfNnckbW668r	Decimator Great Axe				4					Warrior, Weapon, Axe, 2H			Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}{r}:  **Attack**
 
 The first time this is defended by a non-equipment card each turn, halve the base {d} of target defending card, rounded up, until end of turn."	Warrior Weapon - Axe (2H)						
-wKhBB6Nb9RPQJ8zPFnpgJ	Deep Blue					0				Generic, Equipment, Chest			Action	Go again				**Action** - Put a card from your hand on the bottom of your deck, destroy Deep Blue: Gain {r}{r}{r}. **Go again**	Generic Equipment - Chest						
+wKhBB6Nb9RPQJ8zPFnpgJ	Deep Blue					0				Generic, Equipment, Chest			Action	Go again				**Action** - Put a card from your hand on the bottom of your deck, destroy this: Gain {r}{r}{r}. **Go again**	Generic Equipment - Chest						
 rkfqjFKJHdtqRLKJwgQNG	Deep Blue Sea	Blue	3	4	5	2				Mystic, Action, Attack								This gets +1{p} for each blue card you've pitched this turn.	Mystic Action - Attack					No	
 KC6KQzjk8FkMhwN7zMKLQ	Deep Recesses of Existence	Blue	3	4	6	3				Shadow, Runeblade, Action, Attack		Rune Gate, Blood Debt						"**Rune Gate**
 
@@ -4864,7 +4865,7 @@ CNkgfHmrWLL6QDRK8zWzz	Glide Through Starlight	Blue	3	1	3	2				Lightning, Action,
 N8krkMtHG86TBmG8Fp69t	Glidewell Fins					1				Ranger, Equipment, Arms		Battleworn						"**Action** - {r}, destroy this: Put an arrow from your hand face-up into your arsenal. It gets +1{p} this turn. **Go again**
 
 **Battleworn**"	Ranger Equipment - Arms						
-QDgDmcwTqJPDctWrbqMLt	Glint the Quicksilver	Blue	3	0		3				Warrior, Attack Reaction		Reprise			Go again			"Target weapon attack gains **go again**.
+QDgDmcwTqJPDctWrbqMLt	Glint the Quicksilver	Blue	3	0		3				Warrior, Attack Reaction		Reprise			Go again			"Target weapon attack gets **go again**.
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, draw a card."	Warrior Attack Reaction				No	No	
 FtfhP7nqwbwFWPLkBMFBC	Glisten	Red	1	2						Light, Instant								"Distribute up to four +1{p} counters among any number of weapons you control.
@@ -5346,6 +5347,7 @@ JjM6fT8dmFTMdKMpRjqCJ	Heavy Metal Hardcore	Yellow	2	0	2	3				Mechanologist, Acti
 LRT8g7gJKf6RwWLbLmcdd	Heavy Metal Hardcore	Blue	3	0	1	3				Mechanologist, Action, Attack		Boost					Boost	"If an Evo has been banished from boosting this turn, this gets +1{p}.
 
 **Boost**"	Mechanologist Action - Attack						
+KJCbCnCcqwBdCcCL88Cg8	Heavy Swing	Red	1	0		3				Warrior, Action, Aura								At the start of your turn, destroy this and your next sword attack this turn gets +3{p}.	Warrior Action - Aura						
 z7HGHDCwMDgBmhdhTnRhW	Heirloom of Rabbit Hide									Mystic, Illusionist, Equipment, Chest		Cloaked, Ward 4						"**Cloaked**
 
 While this is equipped face-down, at the start of your turn, if you have exactly 1{h}, you may turn this face-up.
@@ -5569,19 +5571,19 @@ If you've pitched a blue card this turn, create a Slither in your hand."	Mystic 
 8tzjQqHmRDzCTppjNRd9w	Hiss	Blue	3	1		3				Mystic, Assassin, Attack Reaction								"Target Assassin or Mystic attack action card gets +1{p}.
 
 If you've pitched a blue card this turn, create a Slither in your hand."	Mystic Assassin Attack Reaction						
-wnrwnDFQzMQChWBt7JWtr	Hit and Run	Red	1	0		3				Warrior, Action		Go again			Go again			"Your next weapon attack this turn gains **go again**.
+wnrwnDFQzMQChWBt7JWtr	Hit and Run	Red	1	0		3				Warrior, Action		Go again			Go again			"Your next weapon attack this turn gets **go again**.
 
-If you have attacked with a weapon this turn, your next attack this turn gains +3{p}.
-
-**Go again**"	Warrior Action						
-qbjpM6PbCPWjjQTfdt9TM	Hit and Run	Yellow	2	0		3				Warrior, Action		Go again			Go again			"Your next weapon attack this turn gains **go again**.
-
-If you have attacked with a weapon this turn, your next attack this turn gains +2{p}.
+If you've attacked with a weapon this turn, your next attack this turn gets +3{p}.
 
 **Go again**"	Warrior Action						
-gqHqnRkFrm7dmJRDf9kzJ	Hit and Run	Blue	3	0		3				Warrior, Action		Go again			Go again			"Your next weapon attack this turn gains **go again**.
+qbjpM6PbCPWjjQTfdt9TM	Hit and Run	Yellow	2	0		3				Warrior, Action		Go again			Go again			"Your next weapon attack this turn gets **go again**.
 
-If you have attacked with a weapon this turn, your next attack this turn gains +1{p}.
+If you've attacked with a weapon this turn, your next attack this turn gets +2{p}.
+
+**Go again**"	Warrior Action						
+gqHqnRkFrm7dmJRDf9kzJ	Hit and Run	Blue	3	0		3				Warrior, Action		Go again			Go again			"Your next weapon attack this turn gets **go again**.
+
+If you've attacked with a weapon this turn, your next attack this turn gets +1{p}.
 
 **Go again**"	Warrior Action						
 C8RCCpMWmdNnF6JW7KQhP	Hit the Gas	Blue	3	0		3				Mechanologist, Action		Maxx Specialization						"**Maxx Specialization**
@@ -5898,13 +5900,13 @@ qqDbjmjjfHK9d8KJ8PcGm	In the Palm of Your Hand	Red	1	2		3				Guardian, Instant, 
 When this enters or leaves the arena, draw a card."	Guardian Instant - Aura				No	No	
 tFcNdRJcpB69qcCBpTL7c	In the Swing	Red	1	0		3				Warrior, Attack Reaction								"Play this only if you've attacked 2 or more times with weapons this turn.
 
-Target weapon attack gains +3{p}."	Warrior Attack Reaction						
+Target weapon attack gets +3{p}."	Warrior Attack Reaction						
 kGTBzfhL8Kr67NPjMWwK8	In the Swing	Yellow	2	0		3				Warrior, Attack Reaction								"Play this only if you've attacked 2 or more times with weapons this turn.
 
-Target weapon attack gains +2{p}."	Warrior Attack Reaction						
+Target weapon attack gets +2{p}."	Warrior Attack Reaction						
 jjbWn8gPgq9nzqTHpNr8h	In the Swing	Blue	3	0		3				Warrior, Attack Reaction								"Play this only if you've attacked 2 or more times with weapons this turn.
 
-Target weapon attack gains +1{p}."	Warrior Attack Reaction						
+Target weapon attack gets +1{p}."	Warrior Attack Reaction						
 qh69zwgzjzDtjgTLN8c7P	Incision	Red	1	0		3				Assassin, Warrior, Attack Reaction								Target dagger attack gets +3{p}.	Assassin / Warrior Attack Reaction						
 pLrkq7WBQfk9LjdzLHNBw	Incision	Yellow	2	0		3				Assassin, Warrior, Attack Reaction								Target dagger attack gets +2{p}.	Assassin / Warrior Attack Reaction						
 RNrdzq87MmgFMG6WPHhhz	Incision	Blue	3	0		3				Assassin, Warrior, Attack Reaction								Target dagger attack gets +1{p}.	Assassin / Warrior Attack Reaction						
@@ -5999,7 +6001,7 @@ Look at the top 3 cards of the defending hero's deck and choose a card. If it's 
 b8WGTGmWNGDdGwCWP7r66	Intimate Inducement	Blue	3	0		3				Mystic, Assassin, Attack Reaction								"Target Assassin or Mystic attack action card gets +1{p}.
 
 Look at the top 2 cards of the defending hero's deck and choose a card. If it's blue, it has 0 base {d}. Put the chosen card onto the active chain link as a defending card and the rest on top in any order."	Mystic Assassin Attack Reaction						
-MHkPqWbqGjb7FwzdFphLk	Into the Muck	Red	1	0		3				Warrior, Attack Reaction								"Play this only if you've wagered this chain link.
+MHkPqWbqGjb7FwzdFphLk	Into the Muck	Red	1	0		3				Warrior, Attack Reaction							Wager	"Play this only if you've wagered this chain link.
 
 Banish a non-equipment defending card on the active chain link."	Warrior Attack Reaction				No	No	
 BzRzJh9PcztPDn7fhNLF9	Intoxicating Shot	Blue	3	0	4	3				Ranger, Action, Arrow, Attack		Riptide Specialization						"**Riptide Specialization**
@@ -7048,9 +7050,15 @@ If you've been booed this turn, this gets +2{p}."	Reviled Action - Attack					No
 6kFn87DgtCPtJ9J9M6zGL	Moment Maker				4					Revered, Guardian, Weapon, Hammer, Axe, 2H		The Crowd Cheers	Once per Turn Action	Attack			Suspense	"**Once per Turn Action** - {r}{r}{r}: **Attack**
 
 If you control 3 or more auras of suspense, this gets +2{p} and ""When this hits a hero, **the crowd cheers** you."""	Revered Guardian Weapon - Hammer Axe (2H)				No	No	
-7mgnPjCmmLc9K9WwLdhJ6	Money Where Ya Mouth Is	Red	1	1		2				Generic, Action		Go again			Wager			"Your next attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action						
-B7Db99Nw9PFrJLmRzPT7t	Money Where Ya Mouth Is	Yellow	2	1		2				Generic, Action		Go again			Wager			"Your next attack this turn gets +2{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action						
-9BM9L9zrh8BgBWkPDdJgf	Money Where Ya Mouth Is	Blue	3	1		2				Generic, Action		Go again			Wager			"Your next attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action						
+7mgnPjCmmLc9K9WwLdhJ6	Money Where Ya Mouth Is	Red	1	1		2				Generic, Action		Go again			Wager			"Your next attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** with them. The winner creates a Gold token.""
+
+**Go again**"	Generic Action						
+B7Db99Nw9PFrJLmRzPT7t	Money Where Ya Mouth Is	Yellow	2	1		2				Generic, Action		Go again			Wager			"Your next attack this turn gets +2{p} and ""When this attacks a hero, you may **wager** with them. The winner creates a Gold token.""
+
+**Go again**"	Generic Action						
+9BM9L9zrh8BgBWkPDdJgf	Money Where Ya Mouth Is	Blue	3	1		2				Generic, Action		Go again			Wager			"Your next attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** with them. The winner creates a Gold token.""
+
+**Go again**"	Generic Action						
 JnLNPdCz8Fkp6KJ7TMLdj	Money or Your Life?	Red	1	3	6	2				Generic, Action, Attack								When this hits a hero, deal 2 damage to them unless they give you a Gold token they control. If you are a Thief, repeat this process once.	Generic Action - Attack					No	
 tDFjkc6tL8qqHC9n9nCrh	Money or Your Life?	Yellow	2	3	5	2				Generic, Action, Attack								When this hits a hero, deal 2 damage to them unless they give you a Gold token they control. If you are a Thief, repeat this process once.	Generic Action - Attack					No	
 FG8PKbFmKK7Tgck8BjrdW	Money or Your Life?	Blue	3	3	4	2				Generic, Action, Attack								When this hits a hero, deal 2 damage to them unless they give you a Gold token they control. If you are a Thief, repeat this process once.	Generic Action - Attack					No	
@@ -7167,13 +7175,13 @@ GpmN8jcWjbH7fMHd7hWjJ	Nasreth, the Soul Harrower				6		6			Shadow, Token, Demon,
 
 When Nasreth hits a hero, banish a card from their soul. If a Light card is banished this way, gain 1{h}."	Shadow Token - Demon Ally						
 fgPwzMt7tqqtN77zFbjzP	Nasty Surprise	Blue	3	0	2	3				Generic, Action, Attack								When an opponent's effect puts this into your graveyard from anywhere, create an Agility, Might, and Vigor token.	Generic Action - Attack				No	No	
-DHDCCL77FKTkQPTqKnG9B	Nature's Path Pilgrimage	Red	1	1		3				Warrior, Action		Go again						"Your next weapon attack this turn gains +3{p} and ""If this hits and you have no cards in your arsenal, reveal the top card of your deck. If it's an action card, put it face down into your arsenal.""
+DHDCCL77FKTkQPTqKnG9B	Nature's Path Pilgrimage	Red	1	1		3				Warrior, Action		Go again						"Your next weapon attack this turn gets +3{p} and ""When this hits and you have no cards in your arsenal, reveal the top card of your deck. If it's an action card, put it face down into your arsenal.""
 
 **Go again**"	Warrior Action						
-RKbRPkHTBMrQBjf789nwC	Nature's Path Pilgrimage	Yellow	2	1		3				Warrior, Action		Go again						"Your next weapon attack this turn gains +2{p} and ""If this hits and you have no cards in your arsenal, reveal the top card of your deck. If it's an action card, put it face down into your arsenal.""
+RKbRPkHTBMrQBjf789nwC	Nature's Path Pilgrimage	Yellow	2	1		3				Warrior, Action		Go again						"Your next weapon attack this turn gets +2{p} and ""When this hits and you have no cards in your arsenal, reveal the top card of your deck. If it's an action card, put it face down into your arsenal.""
 
 **Go again**"	Warrior Action						
-khPW7Md6ncCCq9z7JGCqh	Nature's Path Pilgrimage	Blue	3	1		3				Warrior, Action		Go again						"Your next weapon attack this turn gains +1{p} and ""If this hits and you have no cards in your arsenal, reveal the top card of your deck. If it's an action card, put it face down into your arsenal.""
+khPW7Md6ncCCq9z7JGCqh	Nature's Path Pilgrimage	Blue	3	1		3				Warrior, Action		Go again						"Your next weapon attack this turn gets +1{p} and ""When this hits and you have no cards in your arsenal, reveal the top card of your deck. If it's an action card, put it face down into your arsenal.""
 
 **Go again**"	Warrior Action						
 RWwk8hgBdnRdWfjkrfJHt	Nebula Blade				1					Runeblade, Weapon, Sword, 2H			Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
@@ -7378,6 +7386,18 @@ Blade Break"	Generic Equipment - Chest
 CDWJGrPLQbrqwkj7mzQ8B	Old Leather and Vim	Red	1	2	6	3				Revered, Brute, Action, Attack								"If you control a Toughness or Vigor token, this gets +1{p}.
 
 When this hits a hero, create a Toughness and a Vigor token."	Revered Brute Action - Attack					No	
+dPBgWTKbQqMpfNBr7zrrL	Olde Leather Boots					0				Generic, Equipment, Legs		Blade Break						"If you've been attacked 2 or more times this turn, this gets +2{d}.
+
+**Blade Break**"	Generic Equipment - Legs						
+nGrcRt9KdKDnhRbd7WjdP	Olde Leather Gloves					0				Generic, Equipment, Arms		Blade Break						"If you've been attacked 2 or more times this turn, this gets +2{d}.
+
+**Blade Break**"	Generic Equipment - Arms						
+b7fJPPc8CtNfr7TFqzqfH	Olde Leather Helm					0				Generic, Equipment, Head		Blade Break						"If you've been attacked 2 or more times this turn, this gets +2{d}.
+
+**Blade Break**"	Generic Equipment - Head						
+JzK7qqpTrGcddqB9HBnkM	Olde Leather Plate					0				Generic, Equipment, Chest		Blade Break						"If you've been attacked 2 or more times this turn, this gets +2{d}.
+
+**Blade Break**"	Generic Equipment - Chest						
 hw6qHfWdqQGfRPfKJMgR7	Oldhim						20	4		Elemental, Guardian, Hero, Young		Essence of Earth and Ice	Once per Turn Defense Reaction					"**Essence of Earth and Ice**
 
 **Once per Turn Defense Reaction** - {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck."	Elemental Guardian Hero - Young			No			No
@@ -7533,6 +7553,9 @@ When this hits, put it on the bottom of its owner's deck."	Mechanologist Action 
 BRQTgW6LNkTcB7MQFWTNL	Over the Top	Red	1	3	6	3				Guardian, Action, Attack		Overpower						If this has {p} greater than its base, it gets **overpower**.	Guardian Action - Attack					No	
 6LHg9KT9MK8GzCJ8HGPpN	Over the Top	Yellow	2	3	5	3				Guardian, Action, Attack		Overpower						If this has {p} greater than its base, it gets **overpower**.	Guardian Action - Attack					No	
 WJJfW7bHMPbfLPbK8Q9Wm	Over the Top	Blue	3	3	4	3				Guardian, Action, Attack		Overpower						If this has {p} greater than its base, it gets **overpower**.	Guardian Action - Attack					No	
+Lb7cgqWB6RpKLMH7hJQdN	Overbear	Red	1	0		2				Generic, Action		Go again			Dominate			"Your next weapon attack this turn gets **dominate**.
+
+**Go again**"	Generic Action						
 mzzkQRbJp8KjGcw6M8z6j	Overbearing Presence					1				Brute, Equipment, Chest		Blade Break	Action	Go again				"**Action** - {r}{r}{r}, destroy this: Create 3 Vigor tokens. Activate this only if there is a card with 6 or more {p} in your pitch zone. **Go again**
 
 **Blade Break**"	Brute Equipment - Chest						
@@ -7704,6 +7727,9 @@ Create a Ponder token."	Generic Instant
 LhPbGbqqgcdFhMMJTkHhw	Peace of Mind	Blue	3	2						Generic, Instant								"The next time you would be dealt {p} damage, prevent 2 of that damage.
 
 Create a Ponder token."	Generic Instant						
+RhgzwQqqQ9g9mt8LkBzQm	Peaceful Sanctuary	Red	1	0		3				Generic, Action, Aura								"Heroes can't create aura tokens.
+
+At the start of your action phase, destroy this."	Generic Action - Aura				No	No	
 rKb97mmPGtmm9R9dMDW8d	Pearl Amulet	Blue	3	0						Generic, Action, Item		Legendary, Watery Grave	Action	Go again				"**Action** - Destroy this: {u} target permanent. **Go again**
 
 **Legend of the Watery Grave**"	Generic Action - Item				No	No	
@@ -8427,19 +8453,19 @@ CLw8wRQNbjMTbFLR6bQQf	Puncture	Blue	3	1		3				Warrior, Attack Reaction					Pierc
 W6dTQMgChGpqBdDnrp6g8	Pursue to the Edge of Oblivion	Red	1	0	4	3				Generic, Action, Attack		Mark						When this hits a hero, **mark** them.	Generic Action - Attack					No	
 w7prWHb7LbrPMChNMdHzq	Pursue to the Pits of Despair	Red	1	1	5	3				Generic, Action, Attack		Mark						When this hits a hero, **mark** them.	Generic Action - Attack					No	
 PFbQN9BfpLzzgrmGMrBzb	Pursuit of Knowledge	Blue	3	2	4	2				Generic, Action, Attack								When this hits, your hero gets +1{i} until end of turn.	Generic Action - Attack					No	
-gNckqNrr8FBqDgGh877wQ	Push Forward	Red	1	1		3				Warrior, Action		Go again			Dominate			"Your next weapon attack this turn gains +3{p}.
+gNckqNrr8FBqDgGh877wQ	Push Forward	Red	1	1		3				Warrior, Action		Go again			Dominate			"Your next weapon attack this turn gets +3{p}.
 
-If you have attacked with a weapon this turn, your next attack this turn gains **dominate**.
-
-**Go again**"	Warrior Action						
-pQfGDbkf79Rm8tnt6hLgR	Push Forward	Yellow	2	1		3				Warrior, Action		Go again			Dominate			"Your next weapon attack this turn gains +2{p}.
-
-If you have attacked with a weapon this turn, your next attack this turn gains **dominate**.
+If you've attacked with a weapon this turn, your next attack this turn gets **dominate**.
 
 **Go again**"	Warrior Action						
-zwNPbN7wMRmNPhzmBhGLD	Push Forward	Blue	3	1		3				Warrior, Action		Go again			Dominate			"Your next weapon attack this turn gains +1{p}.
+pQfGDbkf79Rm8tnt6hLgR	Push Forward	Yellow	2	1		3				Warrior, Action		Go again			Dominate			"Your next weapon attack this turn gets +2{p}.
 
-If you have attacked with a weapon this turn, your next attack this turn gains **dominate**.
+If you've attacked with a weapon this turn, your next attack this turn gets **dominate**.
+
+**Go again**"	Warrior Action						
+zwNPbN7wMRmNPhzmBhGLD	Push Forward	Blue	3	1		3				Warrior, Action		Go again			Dominate			"Your next weapon attack this turn gets +1{p}.
+
+If you've attacked with a weapon this turn, your next attack this turn gets **dominate**.
 
 **Go again**"	Warrior Action						
 JgbBkhwf8bRTnJCB6HLrD	Push the Point	Red	1	1	4	2				Generic, Action, Attack								If the last attack on this combat chain hit, Push the Point gains +2{p}.	Generic Action - Attack						
@@ -8825,7 +8851,7 @@ QrC9WRqBkFRtzwGCLp9BG	Reek of Corruption	Blue	3	2	2	3				Runeblade, Action, Atta
 QPHcwktfpnPBPfqHCDfKw	Reel In	Blue	3	X						Ranger, Instant		Reload						"Look at the top X+1 cards of your deck. Choose up to 4 traps, reveal them, put them into your hand, then shuffle.
 
 **Reload**"	Ranger Instant				No	No	
-dtg9jMjQFFbmncCBNHjW9	Refraction Bolters					1				Warrior, Equipment, Legs		Battleworn			Go again			"When a weapon you control hits, you may destroy Refraction Bolters. If you do, the attack gains **go again**.
+dtg9jMjQFFbmncCBNHjW9	Refraction Bolters					1				Warrior, Equipment, Legs		Battleworn			Go again			"When a weapon attack you control hits, you may destroy this. If you do, the attack gets **go again**.
 
 **Battleworn**"	Warrior Equipment - Legs						
 qWzngwMHHKwBJT6BKkF9r	Regain Composure	Blue	3	0		2				Generic, Action		Go again						"Your next attack this turn gets +1{p} and ""When this hits, {u} your hero.""
@@ -9693,13 +9719,13 @@ MmJd7JwGC8rjPmLNLPCCW	Seasoned Saviour					3				Guardian, Equipment, Off-Hand		B
 PjwhnN8B6FghrjRmGwhnJ	Second Strike	Red	1	0	3	2				Lightning, Action, Attack		Go again						When this attacks, if you've dealt damage this turn, this gets +1{p} and **go again**.	Lightning Action - Attack						
 drmRFDLhKw6b7JBJdfWkM	Second Strike	Yellow	2	0	2	2				Lightning, Action, Attack		Go again						When this attacks, if you've dealt damage this turn, this gets +1{p} and **go again**.	Lightning Action - Attack						
 wdT9WhkFKfwrHdJMWWcDQ	Second Strike	Blue	3	0	1	2				Lightning, Action, Attack		Go again						When this attacks, if you've dealt damage this turn, this gets +1{p} and **go again**.	Lightning Action - Attack						
-TkkhfhFwwKKBFRb8TF6cW	Second Swing	Red	1	1		3				Warrior, Action		Go again						"If you have attacked with a weapon this turn, your next attack this turn gains +4{p}.
+TkkhfhFwwKKBFRb8TF6cW	Second Swing	Red	1	1		3				Warrior, Action		Go again						"If you've attacked with a weapon this turn, your next attack this turn gets +4{p}.
 
 **Go again**"	Warrior Action						
-PqwWTC8WTQccwfcNwtjNT	Second Swing	Yellow	2	1		3				Warrior, Action		Go again						"If you have attacked with a weapon this turn, your next attack this turn gains +3{p}.
+PqwWTC8WTQccwfcNwtjNT	Second Swing	Yellow	2	1		3				Warrior, Action		Go again						"If you've attacked with a weapon this turn, your next attack this turn gets +3{p}.
 
 **Go again**"	Warrior Action						
-Chqpmcpccgmfb7wh7jrdh	Second Swing	Blue	3	1		3				Warrior, Action		Go again						"If you have attacked with a weapon this turn, your next attack this turn gains +2{p}.
+Chqpmcpccgmfb7wh7jrdh	Second Swing	Blue	3	1		3				Warrior, Action		Go again						"If you've attacked with a weapon this turn, your next attack this turn gets +2{p}.
 
 **Go again**"	Warrior Action						
 HFtcFTzQwfjNwk89mLRjD	Second Tenet of Chi: Moon	Blue	3	3	5	3				Mystic, Action, Attack							Transcend	"If you've **transcended** this turn, this gets ""When this chain link resolves, draw a card."""	Mystic Action - Attack					No	
@@ -9948,13 +9974,13 @@ If it has 1 or more +1{p} counters, your next attack with it this turn costs {r}
 dbWtMTc6H6qKnbwKnLfRc	Sharp Shooters					1				Ranger, Equipment, Arms		Battleworn	Action	Go again				"**Action** - Destroy this: Put an arrow from your hand face-up into your arsenal with an aim counter. **Go again**
 
 **Battleworn**"	Ranger Equipment - Arms				No	No	
-8TDBF99tdbMc9nQkwhJzc	Sharpen Steel	Red	1	0		3				Warrior, Action		Go again						"Your next weapon attack this turn gains +3{p}.
+8TDBF99tdbMc9nQkwhJzc	Sharpen Steel	Red	1	0		3				Warrior, Action		Go again						"Your next weapon attack this turn gets +3{p}.
 
 **Go again**"	Warrior Action						
-fTRKMfB788NTF7nK7mrR8	Sharpen Steel	Yellow	2	0		3				Warrior, Action		Go again						"Your next weapon attack this turn gains +2{p}.
+fTRKMfB788NTF7nK7mrR8	Sharpen Steel	Yellow	2	0		3				Warrior, Action		Go again						"Your next weapon attack this turn gets +2{p}.
 
 **Go again**"	Warrior Action						
-zKdWmn8NjhRbPNKFRBgmz	Sharpen Steel	Blue	3	0		3				Warrior, Action		Go again						"Your next weapon attack this turn gains +1{p}.
+zKdWmn8NjhRbPNKFRBgmz	Sharpen Steel	Blue	3	0		3				Warrior, Action		Go again						"Your next weapon attack this turn gets +1{p}.
 
 **Go again**"	Warrior Action						
 RD7rFNprgNp9HBwwTTk88	Sharpened Senses	Yellow	2	0		3				Warrior, Action, Aura		Go again			Go again			"**Go again**
@@ -10417,22 +10443,19 @@ PzqrHpPGhk7qzw6Nq9DG6	Sleep Dart	Red	1	1	5	3				Ranger, Action, Arrow, Attack			
 wJ9r77rRnPFfdMmLWzHH7	Sleep Dart	Yellow	2	1	4	3				Ranger, Action, Arrow, Attack								If Sleep Dart hits a hero, they lose all hero card effects and activated abilities until the end of their next turn.	Ranger Action - Arrow Attack						
 R9kfhcPCFtLGfRWnBnqKT	Sleep Dart	Blue	3	1	3	3				Ranger, Action, Arrow, Attack								If Sleep Dart hits a hero, they lose all hero card effects and activated abilities until the end of their next turn.	Ranger Action - Arrow Attack						
 JdtnzDTQFLMPkFhmpz6BK	Slice Up	Red	1	0		3				Warrior, Attack Reaction								"Target weapon attack gets ""When this hits a hero, you may remove a +1{p} counter from this weapon. If you do, they discard a card."""	Warrior Attack Reaction						
-zLTNLtQTdkQqKtnWL6fQj	Slice and Dice	Red	1	0		3				Warrior, Action		Go again						"Whenever you attack with a sword or dagger this turn;
+zLTNLtQTdkQqKtnWL6fQj	Slice and Dice	Red	1	0		3				Warrior, Action		Go again						"Your first sword or dagger attack this turn gets +1{p}.
 
-- If it's your first weapon attack this turn, it gains +1{p}.
-- If it's your second weapon attack this turn, it gains +3{p}.
-
-**Go again**"	Warrior Action					No	
-N9gqKRghrpWNHBqnCHt9m	Slice and Dice	Yellow	2	0		3				Warrior, Action		Go again						"Whenever you attack with a sword or dagger this turn;
-
-- If it's your first weapon attack this turn, it gains +1{p}.
-- If it's your second weapon attack this turn, it gains +2{p}.
+Your second sword or dagger attack this turn gets +3{p}.
 
 **Go again**"	Warrior Action					No	
-bJcbjBkHkqdKmzkBDcWqp	Slice and Dice	Blue	3	0		3				Warrior, Action		Go again						"Whenever you attack with a sword or dagger this turn;
+N9gqKRghrpWNHBqnCHt9m	Slice and Dice	Yellow	2	0		3				Warrior, Action		Go again						"Your first sword or dagger attack this turn gets +1{p}.
 
-- If it's your first weapon attack this turn, it gains +1{p}.
-- If it's your second weapon attack this turn, it gains +1{p}.
+Your second sword or dagger attack this turn gets +2{p}.
+
+**Go again**"	Warrior Action					No	
+bJcbjBkHkqdKmzkBDcWqp	Slice and Dice	Blue	3	0		3				Warrior, Action		Go again						"Your first sword or dagger attack this turn gets +1{p}.
+
+Your second sword or dagger attack this turn gets +1{p}.
 
 **Go again**"	Warrior Action					No	
 zBDwTqgQTKrNRwjQmMr9g	Slither			0						Mystic, Assassin, Attack Reaction		Ephemeral					Go again	"**Ephemeral**
@@ -11316,6 +11339,11 @@ gTLKtttbcq6CcLMHghJKw	Swordmaster's Path	Red	1	1		3				Warrior, Action		Sharpen,
 The next time you would sharpen a sword this turn, instead **sharpen** it an additional time.
 
 **Go again**"	Warrior Action						
+mQgfBCzjFB6qBJfLhK8dd	Swordmaster's Path	Yellow	2	1		3				Warrior, Action		Sharpen, Go again					Sharpen	"Your next sword attack this turn gets +2{p}.
+
+The next time you would sharpen a sword this turn, instead **sharpen** it an additional time.
+
+**Go again**"	Warrior Action						
 tpmhpDqjKq6NwtnKCBJwd	Swordmaster's Path	Blue	3	1		3				Warrior, Action		Sharpen, Go again					Sharpen	"Your next sword attack this turn gets +1{p}.
 
 The next time you would sharpen a sword this turn, instead **sharpen** it an additional time.
@@ -11406,13 +11434,13 @@ Create a Bait token under an opponent's control.
 **Go again**"	Ranger Action				No	No	
 fdR8zN6W8bmtBfmMzTmWg	Take the Lead	Red	1	0						Warrior, Instant								The next time you would be dealt damage this turn, prevent 2 of that damage. If you prevent damage this way, create a Blade Dance token.	Warrior Instant					No	
 TtF8Q9WNQqPmJdrd6qp7k	Take the Tempo	Red	1	1	5	3				Ninja, Action, Attack								When Take the Tempo hits, if you've hit 3 or more times this combat chain, banish the top card of your deck. If it's an attack action card, you may play it until the end of your next turn.	Ninja Action - Attack				No	No	
-p6Q8Fw6T7dfBwGGpwQDrq	Take the Upper Hand	Red	1	0		3				Warrior, Attack Reaction							Wager	"Play this only if you've **wagered** this chain link.
+p6Q8Fw6T7dfBwGGpwQDrq	Take the Upper Hand	Red	1	0		3				Warrior, Attack Reaction							Wager	"Play this only if you've wagered this chain link.
 
 Target attack gets +3{p}."	Warrior Attack Reaction						
-mKhjrDrWRrQRrTBjQPw8B	Take the Upper Hand	Yellow	2	0		3				Warrior, Attack Reaction							Wager	"Play this only if you've **wagered** this chain link.
+mKhjrDrWRrQRrTBjQPw8B	Take the Upper Hand	Yellow	2	0		3				Warrior, Attack Reaction							Wager	"Play this only if you've wagered this chain link.
 
 Target attack gets +2{p}."	Warrior Attack Reaction						
-8fDjHmMPJKnqMtqcHbQBw	Take the Upper Hand	Blue	3	0		3				Warrior, Attack Reaction							Wager	"Play this only if you've **wagered** this chain link.
+8fDjHmMPJKnqMtqcHbQBw	Take the Upper Hand	Blue	3	0		3				Warrior, Attack Reaction							Wager	"Play this only if you've wagered this chain link.
 
 Target attack gets +1{p}."	Warrior Attack Reaction						
 zbnpfqW7d6CqN9wT8Dcft	Tales of Adventure	Blue	3	0		3				Bard, Action		Yorick Specialization						"**Yorick Specialization**
@@ -11728,6 +11756,7 @@ LhRPD8cdgP7LBDjdj7nfT	Thunderous Retort	Blue	3	0						Lightning, Instant, Aura		
 PDPbhCGj7twzTP8HGfhBb	Thunk	Red	1	5	8	3				Guardian, Action, Attack							Clash	When you win a **clash** revealing this, create a Might token.	Guardian Action - Attack						
 KqtjpgTftPFhRbhwQkcBQ	Thunk	Yellow	2	5	7	3				Guardian, Action, Attack							Clash	When you win a **clash** revealing this, create a Might token.	Guardian Action - Attack						
 7HFBMWtFrdmQpQkLLwHGJ	Thunk	Blue	3	5	6	3				Guardian, Action, Attack							Clash	When you win a **clash** revealing this, create a Might token.	Guardian Action - Attack						
+Cj6pPn8Tdc7hqrfjrct7q	Thwart	Yellow	2			3				Generic, Block								When this defends, remove all +1{p} counters from the attacking card.	Generic Block				No	No	
 m7QtkDW9dbfgKbkWcbR68	Tiara of Suspense					2				Revered, Guardian, Equipment, Head		Guardwell	Instant				Suspense, The Crowd Cheers	"**Instant** - Destroy this: Put a suspense counter on an aura of suspense you control. Activate this only if you've been cheered this turn.
 
 **Guardwell**"	Revered Guardian Equipment - Head				No	No	
@@ -12414,6 +12443,7 @@ RCqkLt7cqwdWMNrmFqpc8	Victoria, Archangel of Triumph				4		4			Light, Angel, All
 When Victoria attacks, you may banish a card from your hero's soul. If you do, attack action cards your opponents control get -1{p} until the start of your next turn.
 
 **Ward 4**"	Light - Angel Ally				No	No	
+gFpfBH7cRPMKwQ6WNhWC8	Vigilant Dodgers					0				Generic, Equipment, Legs			Instant					**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this only if a weapon has attacked this turn.	Generic Equipment - Legs						
 DBhPCQqjnj6qqd9DtBB7W	Vigor									Generic, Token, Aura								At the start of your turn, destroy this, then gain {r}.	Generic Token - Aura						
 GpQBzCwwRFCKjWNq8Hgtj	Vigor Girth					1				Guardian, Warrior, Equipment, Chest		Blade Break	Action	Go again				"Action - Destroy this: Create a Vigor token. **Go again**
 
