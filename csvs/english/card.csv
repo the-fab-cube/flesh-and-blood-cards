@@ -903,6 +903,15 @@ QLkz9dFQmJGnCtCRLJ9QC	Bellona, Archangel of War				4		4			Light, Angel, Ally		Wa
 When Bellona attacks, you may banish a card from your hero's soul. If you do, put a +1{p} counter on each Angel you control.
 
 **Ward 4**"	Light - Angel Ally				No	No	
+7KPHKGtMmJ7PhLJLgT6QW	Belly Buster	Red	1	1		3				Warrior, Action		Go again			Wager			"Your next Warrior attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** with them. The winner creates a Courage token.""
+
+**Go again**"	Warrior Action						
+7tHWWm9MRJgCrTHN9Tg9z	Belly Buster	Blue	3	1		3				Warrior, Action		Go again			Wager			"Your next Warrior attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** with them. The winner creates a Courage token.""
+
+**Go again**"	Warrior Action						
+nQ6G8zFmGCBTwznGrfzhJ	Below the Belt	Red	1	1		3				Warrior, Action		Go again						"Your next sword attack this turn gets +4{p} and ""When this hits a Warrior hero, destroy a card in their arsenal.""
+
+**Go again**"	Warrior Action					No	
 h9LPFJG86fdMPQmqwWNQw	Beneath the Surface	Yellow	2	2		5				Pirate, Necromancer, Defense Reaction		Watery Grave						"**Watery Grave**
 
 While this is defending, when it's put into your graveyard from the arena, turn it face-down."	Pirate Necromancer Defense Reaction					No	
@@ -5284,6 +5293,9 @@ If you have a head equipped and the defending hero doesn't, this gets +1{p}.
 BB7nwJkKWfznpRkt6gcCF	Headliner Helm					*				Generic, Equipment, Head		Blade Break						"Headliner Helm's {d} is equal to the number of opposing heroes with greater {h} than you.
 
 **Blade Break**"	Generic Equipment - Head						
+gM8RN6nqLkjHhfTDnRKtK	Heads Up	Red	1	1		3				Warrior, Action		Go again			Dominate		Wager	"Your next sword attack this turn gets +3{p} and ""When this attacks, if it wagered, it gets **dominate**.""
+
+**Go again**"	Warrior Action				No	No	
 hwFjtcMfQHTbj6whzfhk6	Healing Balm	Red	1	0		2				Generic, Action								Gain 3{h}	Generic Action						
 z6Ltnt69ChWMCDBTTdWkL	Healing Balm	Yellow	2	0		2				Generic, Action								Gain 2{h}	Generic Action						
 PdKcNzJNPJgpcF9TTCqm6	Healing Balm	Blue	3	0		2				Generic, Action								Gain 1{h}	Generic Action						
@@ -8044,6 +8056,7 @@ ThCWFGk7TfpwDbfPmKCT6	Point of Engagement	Blue	3	0		3				Warrior, Action		Go aga
 Until end of turn, your attacks get +1{p} while attacking a **marked** hero.
 
 **Go again**"	Warrior Action						
+dGQHwjhbMcCh7QbQQDRJJ	Point of Escalation	Yellow	2	1		3				Warrior, Attack Reaction								Target sword attack gets +2{p} for each time you've attacked with the sword this turn.	Warrior Attack Reaction				No	No	
 tqJNQ68KhJHWdJN8mFrdq	Point the Tip	Red	1	0		2				Ranger, Action		Go again						"Target face up arrow in your arsenal gains +3{p} until end of turn. Put an aim counter on it.
 
 **Go again**"	Ranger Action						
@@ -8298,6 +8311,15 @@ mRCfW6wBLjzRzjnNrKqQn	Prized Galea					2				Warrior, Equipment, Head		Olympia Sp
 **Attack Reaction** - {r}, destroy this: Target weapon attack you control **wagers** a Gold token with the defending hero.
 
 **Temper**"	Warrior Equipment - Head						
+LcDcpG8KLwjzKkdqwpnHn	Prizeworn Gauntlet					2				Warrior, Equipment, Arms		Guardwell					Wager	"Whenever you win a wager, you may {t} your hero and destroy this. If you do, create a Courage token.
+
+**Guardwell**"	Warrior Equipment - Arms				No	No	
+hGWwgMph6rFkMJJKq8Bqq	Prizeworn Pathfinders					1				Guardian, Warrior, Equipment, Legs		Battleworn					Wager	"Whenever you win a wager, you may pay {r}. If you do, remove a -1{d} counter from this.
+
+**Battleworn**"	Guardian / Warrior Equipment - Legs						
+KcrNLmMjgffQ6hqBbnBrL	Prizeworn Plating					2				Warrior, Equipment, Chest		Guardwell					Wager	"Whenever you win a wager, you may {t} your hero and destroy this. If you do, create a Vigor token.
+
+**Guardwell**"	Warrior Equipment - Chest				No	No	
 G7WBwbd7TnnMMp8R9tkMw	Proclaim Vengeance	Red	1	0						Draconic, Instant		Mark						**Mark** target opposing hero. If that hero is Arakni, gain {r}.	Draconic Instant						
 wQcpct8M6ddWK6BkKMMgC	Proclamation of Abundance									Adjudicator, Equipment, Off-Hand			Action					**Action** - {r}{r}{r}, destroy this: Each hero draws up to their {i}.	Adjudicator Equipment - Off-Hand		No	No	No	No	No
 LwtRft6CKgLFgbDKrwTJn	Proclamation of Combat									Adjudicator, Equipment, Off-Hand			Action					**Action** - Destroy this: Until the start of your next turn, the only actions heroes may play or activate are weapon and attack actions.	Adjudicator Equipment - Off-Hand		No	No	No	No	No
@@ -12547,6 +12569,11 @@ hfMFhLPRrGcHDGr7cGqBm	Visit the Imperial Forge	Yellow	2	0		3				Warrior, Action	
 9gGmRdPMjFQjFWCzB7kWD	Visit the Imperial Forge	Blue	3	0		3				Warrior, Action		Go again			Piercing 1			"Sword and dagger attacks have **piercing 1** this turn.
 
 **Go again**"	Warrior Action						
+Bb9hbFBTRpwg8PfkjPgdw	Visit the Prize Room	Blue	3	1		2				Warrior, Action		Olympia Specialization, Go again						"**Olympia Specialization**
+
+You may destroy a Gold you control. If you do, equip a Prized Galea from your inventory.
+
+Create a Vigor and a Courage token. **Go again**"	Warrior Action					No	
 PFbLkp7H79TMzLwJfGMCp	Viziertronic Model i					0				Mechanologist, Equipment, Head		Arcane Barrier 2	Action	Go again				"**Action** - destroy Vizertronic Model i: Whenever you **boost** this turn, draw a card then put a card from your hand on top of your deck. **Go again**
 
 **Arcane Barrier 2**"	Mechanologist Equipment - Head				No	No	
