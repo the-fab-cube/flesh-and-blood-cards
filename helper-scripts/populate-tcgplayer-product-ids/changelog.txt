@@ -9,3 +9,7 @@
 
 06-26-25:
 - Update fetch-group-product-details splitDFCIntoTwoEntries function to handle null cardIDs
+
+09-09-26:
+- Add handling for Basic rarity
+- Update README

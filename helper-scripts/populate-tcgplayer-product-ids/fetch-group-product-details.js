@@ -108,6 +108,8 @@ const formatRarity = (rarity) => {
     switch (rarity?.toLowerCase()) {
         case 'token':
             return 'T'
+        case 'basic':
+            return 'B'
         case 'common':
             return 'C'
         case 'rare':

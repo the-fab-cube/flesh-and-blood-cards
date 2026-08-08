@@ -1067,6 +1067,9 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data for AOL cards - data entry assistance: manwaring
 - Added image data for AOL cards - data entry assistance: manwaring
 
+08-08-26:
+- Added TCGPlayer IDs for AOL, MPW, and some missing IDs in ANQ
+
 TODO:
 - Added set data for IAR
 - Added card data for IAR

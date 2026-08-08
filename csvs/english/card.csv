@@ -10128,13 +10128,13 @@ When Show Time! enters the arena, search your deck for a Guardian attack action 
 
 At the beginning of your action phase, destroy Show Time! then draw a card."	Guardian Action - Aura					No	
 Jdn7kNmFnCNPDRjp7mg9m	Show of Strength	Red	1	2	8	3				Brute, Action, Attack								This gets -1{p} for each card with 6 or more {p} defending it.	Brute Action - Attack				No	No	
-dLHqbBN9bkQ6DtLtprJ7g	Showdown	Red	1	1		3				Warrior, Action		Go again					Wager	"Your next sword attack this turn gets +3{p} and ""When this attacks, **wager** with the defending hero. The winner creates a Flurry token.
+dLHqbBN9bkQ6DtLtprJ7g	Showdown	Red	1	1		3				Warrior, Action		Go again					Wager	"Your next sword attack this turn gets +3{p} and ""When this attacks, **wager** with the defending hero. The winner creates a Flurry token.""
 
 **Go again**"	Warrior Action						
-dHHDMCPmjB9nfctGcbfDF	Showdown	Yellow	2	1		3				Warrior, Action		Go again					Wager	"Your next sword attack this turn gets +2{p} and ""When this attacks, **wager** with the defending hero. The winner creates a Flurry token.
+dHHDMCPmjB9nfctGcbfDF	Showdown	Yellow	2	1		3				Warrior, Action		Go again					Wager	"Your next sword attack this turn gets +2{p} and ""When this attacks, **wager** with the defending hero. The winner creates a Flurry token.""
 
 **Go again**"	Warrior Action						
-RPKmTWBNkJRdCQk79mHPR	Showdown	Blue	3	1		3				Warrior, Action		Go again					Wager	"Your next sword attack this turn gets +1{p} and ""When this attacks, **wager** with the defending hero. The winner creates a Flurry token.
+RPKmTWBNkJRdCQk79mHPR	Showdown	Blue	3	1		3				Warrior, Action		Go again					Wager	"Your next sword attack this turn gets +1{p} and ""When this attacks, **wager** with the defending hero. The winner creates a Flurry token.""
 
 **Go again**"	Warrior Action						
 88L7NzD77t8wk8QdnrwKR	Shred	Red	1	0		3				Assassin, Attack Reaction								Target card defending an Assassin attack gets -4{d} this combat chain.	Assassin Attack Reaction					No	
