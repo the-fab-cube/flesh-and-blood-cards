@@ -1051,7 +1051,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for Blade Dance, Bluff Catcher, Drawn to the Blade, Honed for Honor, Into the Muck, Shimmer of the Blade, and Terms of Combat - data entry assistance: manwaring
 - Added printing data for MPW003, MPW023, MPW029-MPW031, MPW034, and MPW134 - data entry assistance: manwaring
 - Added image data for MPW003, MPW023, and MPW031 - data entry assistance: manwaring
-- Updated many image data URLs to use cardvault URLs - credit: manwarning
+- Updated many image data URLs to use cardvault URLs - credit: manwaring
 - AAdded missing foil printing for HNT166 - bugfix credit: akamoonknight
 
 08-01-26:
@@ -1069,6 +1069,14 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 08-08-26:
 - Added TCGPlayer IDs for AOL, MPW, and some missing IDs in ANQ
+
+08-09-26:
+- Fixed artist for AVS013 - bugfix credit: manwaring
+- Fixed TCGPlayer ID for HNT101 and OMN051 - bugfix credit: manwaring
+- Rename íArathael to i'Arathael everywhere for consistency - update credit: manwaring
+- Fixed MPW150 pointing at the wrong version of Money WHere Ya Mouth Is - bugfix credit: manwaring
+- Added missing foiling for PEN078 - bugfix credit: manwaring
+- Updated CC Living Legend status for `Kayo, Armed and Dangerous`, Mandible Claw, `Verdance, Thorn of the Rose`, Staff of Verdant Shoots, `Victor Goldmane, High and Mighty`, and Miller's Grindstone - update credit: manwaring
 
 TODO:
 - Added set data for IAR

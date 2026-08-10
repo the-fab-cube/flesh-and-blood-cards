@@ -264,6 +264,38 @@
         "legality_article": "https://fabtcg.com/articles/living-legend-florian-rotwood-harbinger/"
     },
     {
+        "unique_id": "FnrprF7HpzMn7BmnzqPGp",
+        "card_unique_id": "qdLHRPTdGkw6TjpMjPTW7",
+        "status_active": true,
+        "date_announced": "2026-03-10T00:00:00.000Z",
+        "date_in_effect": "2026-03-13T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legend-kayo-armed-and-dangerous/"
+    },
+    {
+        "unique_id": "jJGbpbqhmfmbDqP7NRftc",
+        "card_unique_id": "PRzqJ97HHdM6f8bLKhGzQ",
+        "status_active": true,
+        "date_announced": "2026-03-10T00:00:00.000Z",
+        "date_in_effect": "2026-03-13T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legend-kayo-armed-and-dangerous/"
+    },
+    {
+        "unique_id": "DdnBtTFHmTnLgWDhQBP69",
+        "card_unique_id": "wJMCMFqcQfRJmK96kc8qM",
+        "status_active": true,
+        "date_announced": "2026-03-17T00:00:00.000Z",
+        "date_in_effect": "2026-03-20T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legend-verdance-thorn-of-the-rose/"
+    },
+    {
+        "unique_id": "zLzfJJ7dpm7GW7CkLdNMt",
+        "card_unique_id": "PQgjdCTFwm89BmcWP9n7d",
+        "status_active": true,
+        "date_announced": "2026-03-17T00:00:00.000Z",
+        "date_in_effect": "2026-03-20T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legend-verdance-thorn-of-the-rose/"
+    },
+    {
         "unique_id": "gq9fTL6Qhf8zQcWFTpHMb",
         "card_unique_id": "jrQcdHwPDPTt8PWTdNLqk",
         "status_active": true,
@@ -286,5 +318,21 @@
         "date_announced": "2026-06-30T00:00:00.000Z",
         "date_in_effect": "2026-07-03T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/articles/living-legend-prism-awakener-of-sol/"
+    },
+    {
+        "unique_id": "rMQbmKc7cPpBBKKLLRT9j",
+        "card_unique_id": "fc8jMwTprwnhRbPKDmF9J",
+        "status_active": true,
+        "date_announced": "2026-07-08T00:00:00.000Z",
+        "date_in_effect": "2026-07-10T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legend-victor-goldmane/"
+    },
+    {
+        "unique_id": "wz7t6LRz7N9P9JKRccLDW",
+        "card_unique_id": "RRfwzgrbMbFGNqppnD8rB",
+        "status_active": true,
+        "date_announced": "2026-07-08T00:00:00.000Z",
+        "date_in_effect": "2026-07-10T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legend-victor-goldmane/"
     }
 ]

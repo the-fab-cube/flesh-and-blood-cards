@@ -73,3 +73,7 @@
 11-14-25:
 - Updated to generate new silver-age-banned.json
 - Updated script to have new silver_age_legal field
+
+08-09-26:
+- Updated script to handle Gold Foils - update credit: manwaring
+- Updated script to skip over printings that don't match - update credit: manwaring

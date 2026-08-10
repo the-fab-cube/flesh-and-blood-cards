@@ -106,7 +106,8 @@ def create_tcgplayer_printing(edition, foiling):
             printing += " "
         printing += foiling_text
 
-    return printing
+    # If there's no matching printing, omit from the query rather than setting an empty value
+    return printing if printing != "" else None
 
 def create_tcgplayer_edition_text(edition):
     match edition:
@@ -123,7 +124,7 @@ def create_tcgplayer_foiling_text(foiling):
             return "Normal"
         case "R":
             return "Rainbow Foil"
-        case "C":
+        case "C" | "G":
             return "Cold Foil"
         case _:
             return None
