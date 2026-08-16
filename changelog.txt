@@ -1078,6 +1078,17 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added missing foiling for PEN078 - bugfix credit: manwaring
 - Updated CC Living Legend status for `Kayo, Armed and Dangerous`, Mandible Claw, `Verdance, Thorn of the Rose`, Staff of Verdant Shoots, `Victor Goldmane, High and Mighty`, and Miller's Grindstone - update credit: manwaring
 
+08-12-26:
+- BREAKING CHANGE: Removed printings that don't exist: EVR020 (1st edition cold regular art), LGS387 rainbow, SEA179 rainbow - update credit: manwaring
+- Switched image URLs to cardvault URLs for all but ~10 images (the remaining images might be printings that don't actually exist, that or they are missing on cardvault) - update credit: manwaring
+- Added card printing and image URLs for TNP031-TNP060 - update credit: manwaring
+- Updated functional text for Dusk Path Pilgrimage, Ironsong Response, and Steelblade Shunt - update credit: manwaring
+- Fixed wrong block value on Golden Company (Yellow and Blue) and Weeping Battleground (Yellow and Blue) - bugfix credit: manwaring
+- Fixed missing Wager keyword on Prized Galea - bugfix credit: manwaring
+
+08-15-26:
+- Sync updated functional text with CardVault - update credit: manwaring
+
 TODO:
 - Added set data for IAR
 - Added card data for IAR
