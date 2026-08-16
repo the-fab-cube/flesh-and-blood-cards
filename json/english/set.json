@@ -1526,6 +1526,27 @@
         ]
     },
     {
+        "unique_id": "LdTHMcncJ8HBWcjjLHDWM",
+        "id": "MPA",
+        "name": "Mastery Pack Assassin",
+        "printings": [
+            {
+                "unique_id": "9QCqJLP8C9fHH98qGGRPr",
+                "edition": "N",
+                "start_card_id": "MPA001",
+                "end_card_id": "MPA026",
+                "initial_release_date": "2026-11-14T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/mastery-pack-assassin",
+                "product_page": "https://fabtcg.com/products/booster-set/mastery-pack-assassin/",
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": "https://cdn.fabtcg.com/uploads/2026/07/mastery_pack_assassin_logo.png"
+            }
+        ]
+    },
+    {
         "unique_id": "bLQtwmQ8wzKq7Q7WJGtTr",
         "id": "MPG",
         "name": "Mastery Pack Guardian",

@@ -3176,6 +3176,12 @@ n6jb6thTHT9TpcTdRjdQm	Down But Not Out	Yellow	2	3	4	3				Generic, Action, Attack
 PCCtHrqDfnnmwFJwMNGDW	Down But Not Out	Blue	3	3	3	3				Generic, Action, Attack		Overpower						"When this attacks a hero, if you have less {h} and control fewer equipment and fewer tokens than them, this gets +3{p}, **overpower**, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack					No	
 HgLNTDb7kMk7MdJrTjn8T	Down and Dirty	Red	1	2	6	2				Generic, Action, Attack								While this is in your arsenal, you may defend with it.	Generic Action - Attack				No	No	
 8fP9qJWHNqgWf6BgfBqLw	Downswing	Red	1	0		3				Warrior, Attack Reaction					Wager			Target sword attack gets +1{p} and **wagers** with the defending hero. The winner loses 1{h}.	Warrior Attack Reaction					No	
+KRkW9KqmRwRPQW8LGTKRK	Dr. Mortimer						20	4		Assassin, Hero, Young			Instant, Attack Reaction	Cure	Go again			"**Instant** - {t}: **Cure** a disease an opponent controls. If you do, create a Silver token.
+
+**Attack Reaction** - {t}, destroy 2 Silver you control: Target Assassin attack gets **go again**."	Assassin Hero - Young			No			No
+TmJKLrtp6fCRtDcWMmRLf	Dr. Mortimer, Blight of the Pits						40	4		Assassin, Hero			Instant, Attack Reaction	Cure	Go again			"**Instant** - {t}: **Cure** a disease an opponent controls. If you do, create a Silver token.
+
+**Attack Reaction** - {t}, destroy 2 Silver you control: Target Assassin attack gets **go again**."	Assassin Hero		No		No	No	
 hRLzQChgG7cPDkkhhC6MM	Draco Fire	Red	1	0						Draconic, Instant								"Your next Draconic attack this turn gets +2{p} and costs {r} less to play or activate.
 
 While this is in your graveyard, at the start of your turn, you may banish 2 cards named Draco Fire from your graveyard. If you do, gain {r}."	Draconic Instant				No	No	
@@ -7233,6 +7239,9 @@ JwdBp6DFwFkG9npJ78jbK	Mutiny on the Swiftwater	Blue	3	0		2				Pirate, Action		Go
 If you gain control of 1 or more Gold tokens this way, your next attack this turn gets **go again**.
 
 **Go again**"	Pirate Action						
+jTqtrLChdJz6wnctGhpKc	Mutually Assured Destruction	Red	1	2	6	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish infected opponents' cards. Whenever you complete this contract, create a Silver token.
+
+The first time each hero plays a reaction card this chain link, create a Bloodrot Pox token under each hero's control, then banish the top card of each hero's deck."	Assassin Action - Attack				No	No	
 zJ9h7zCdQcttTrmgLR6q9	Myrkhellir Helm					1				Generic, Equipment, Head		Temper	Action	Go again				"If you control a Gold, this gets +1{d}.
 
 **Action** - {r}{r}, destroy this: The next time you would draw a card from a Gold token this turn, instead draw 2 cards. **Go again**
@@ -8304,6 +8313,9 @@ If you've played another blue card this turn, **transcend**."	Mystic Instant
 9Rc87J7TGt8DWffqnKjCf	Prey Spotters					1				Assassin, Equipment, Head		Battleworn	Attack Reaction	Mark				"**Attack Reaction** - Destroy this: **Mark** target opposing hero.
 
 **Battleworn**"	Assassin Equipment - Head						
+Tjgtqc8jPgrGrz6JbNfbW	Prey on Insecurity	Red	1	0	3	3				Assassin, Action, Attack		Stealth	Attack Reaction				Stealth	"**Stealth**
+
+**Attack Reaction** - Put a card from your hand on the bottom of your deck, destroy this: Another target attack with stealth gets +3{p}."	Assassin Action - Attack				No	No	
 qR8DkwWmrqGqzd9BbCDbH	Prime the Crowd	Red	1	2		2				Generic, Action		The Crowd Cheers, The Crowd Boos, Go again						"The next attack action card you play this turn gets +4{p}.
 
 **The crowd cheers** each Revered hero.
@@ -8990,6 +9002,9 @@ DDBjrbFWMHqkc7Pkqr6f6	Relentless Pursuit	Blue	3	0		3				Generic, Action		Mark, G
 If you've attacked them this turn, put this on the bottom of its owner's deck.
 
 **Go again**"	Generic Action					No	
+67DbLTnmTNCFMC9b7ztDp	Remember the Mists	Blue	3	2	4	3				Assassin, Action, Attack								"When this hits a hero, look at their hand and banish a card. They may play the banished card until the end of their next turn.
+
+If this wasn't played from hand or arsenal, it gets +2{p}."	Assassin Action - Attack				No	No	
 fJpTHprkwHkCQhK9nzFDR	Remembrance	Yellow	2	0						Generic, Instant								"Shuffle up to 3 action cards from your graveyard into your deck.
 
 Banish this."	Generic Instant					No	

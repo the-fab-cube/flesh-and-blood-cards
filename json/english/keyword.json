@@ -120,6 +120,12 @@
         "description_plain": "A Guardian mechanic that showcases the strength of the guardian. When an attack with crush deals 4 or more damage to a hero, an effect is applied."
     },
     {
+        "unique_id": "W9fHN9LHmjkkWR7dBTnHQ",
+        "name": "Cure",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "cLPWFpHzjGNJwtdpHC66t",
         "name": "Decay",
         "description": "",

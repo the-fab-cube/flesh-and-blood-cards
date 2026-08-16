@@ -1088,6 +1088,10 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 08-15-26:
 - Sync updated functional text with CardVault - update credit: manwaring
+- Added card data for Dr. Mortimer, `Dr. Mortimer, Blight of the Pits`, Mutually Assured Destruction, Prey on Insecurity, and Remember the Mists - data entry assistance: manwaring
+- Added printing data for MPA001-MPA004, MPA022, MPA024, and MPS026 - data entry assistance: manwaring
+- Added image data for MPA001-MPA004, MPA022, MPA024, and MPS026 - data entry assistance: manwaring
+- Added set data for MPA - data entry assistance: manwaring
 
 TODO:
 - Added set data for IAR
