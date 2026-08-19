@@ -1315,7 +1315,7 @@ fgm7jmdTQgBBcd6JPdjcW	Bloodied Oval					*				Generic, Equipment, Off-Hand		Blade
 fMrFHR8DtpGQkCcHDCrDM	Bloodied Strapping					0				Event, Equipment, Chest			Action	Go again				"You may equip this.
 
 **Action** - Destroy this: The next attack action card you play this turn costs {r}{r} less to play. **Go again**"	Event Equipment - Chest		No	No	No	No	No
-drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox									Generic, Token, Aura								At the beginning of your end phase, destroy this, then it deals 2 damage to you unless you pay {r}{r}{r}.	Generic Token - Aura						
+drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox									Generic, Token, Disease, Aura								At the beginning of your end phase, destroy this, then it deals 2 damage to you unless you pay {r}{r}{r}.	Generic Token - Disease Aura						
 MrtrMDKjt868mrrb9cjJW	Bloodrot Trap	Red	1	0		3				Assassin, Ranger, Defense Reaction, Trap								When this defends and the attacking hero has played or activated a reaction this chain link, create a Bloodrot Pox token under their control.	Assassin / Ranger Defense Reaction - Trap						
 fTbpMzhTMBwFNCpGKCft7	Bloodrush Bellow	Yellow	2	1		3				Brute, Action		Go again						"As an additional cost to play this, discard a random card.
 
@@ -4629,9 +4629,9 @@ wtKDkD6MRwz77CmthMHMz	Frail Swingline	Blue	3	0		3				Ranger, Action, Trap		Go ag
 **Go again**
 
 When this defends an attack with {p} less than its base, its controller discards a card."	Ranger Action - Trap						
-KPWKQmMgm7rmM7bfFw9gF	Frailty									Generic, Token, Aura								"Attack action cards you've played from arsenal and your weapon attacks get -1{p}.
+KPWKQmMgm7rmM7bfFw9gF	Frailty									Generic, Token, Disease, Aura								"Attack action cards you've played from arsenal and your weapon attacks get -1{p}.
 
-At the beginning of your end phase, destroy this."	Generic Token - Aura						
+At the beginning of your end phase, destroy this."	Generic Token - Disease Aura						
 gpwqqHDD7DwWNrJPdpzRT	Frailty Trap	Red	1	0		3				Assassin, Ranger, Defense Reaction, Trap							Go again	When this defends an attack with **go again**, create a Frailty token under the attacking hero's control.	Assassin / Ranger Defense Reaction - Trap						
 qJdwq7GGjFb96CzLDqCdk	Frankie, Make Ends Meat						20	4		Necromancer, Hero, Young			Action	Go again				"Whenever an equipment you control would be put into a graveyard, instead banish it.
 
@@ -5745,6 +5745,11 @@ mgrmPqRmdHfMbptFfDcbC	Hummingbird, Call of Adventure									Bard, Weapon, Lute,
 - Each hero creates a Quicken token.
 - Each hero draws a card.
 - Each hero gains 1{h}."	Bard Weapon - Lute (2H)		No	No	No	No	No
+rN8CLmcfzpNLwbgJJCzwK	Humour Plunge				1					Assassin, Weapon, Dagger, 1H		Piercing 1	Action	Attack, Go again				"**Action** - {r}{r}, {t}: **Attack**. **Go again**
+
+If this is attacking an infected hero, this gets +1{p}.
+
+**Piercing 1**"	Assassin Weapon - Dagger (1H)						
 pGDD7t8RQzK7gdJkjdhdQ	Hundred Winds	Red	1	0	3	2				Ninja, Action, Attack		Combo, Go again						"**Combo** - If Hundred Winds was the last attack this combat chain, this gets +1{p} for each other card you control named Hundred Winds on the combat chain.
 
 **Go again**"	Ninja Action - Attack					No	
@@ -5984,7 +5989,7 @@ JQtbmKdrD67q9w6pr8rFD	Induce Panic	Yellow	2			2				Chaos, Block								When this
 MNwTgMKtfwcbBTGTLCbzt	Induction Chamber	Red	1	2						Mechanologist, Action, Item			Action, Once per Turn Attack Reaction	Go again				"**Action** - {r}: If there are no steam counters on this, put a steam counter on it. **Go again**
 
 **Once per Turn Attack Reaction** - Remove a steam counter from this: Target Mechanologist pistol attack gets **go again**."	Mechanologist Action - Item					No	
-G6kbCqnBzwjhrb88Q6K7w	Inertia									Generic, Token, Aura								At the beginning of your end phase, destroy this, then put all cards from your hand and arsenal on the bottom of your deck.	Generic Token - Aura						
+G6kbCqnBzwjhrb88Q6K7w	Inertia									Generic, Token, Disease, Aura								At the beginning of your end phase, destroy this, then put all cards from your hand and arsenal on the bottom of your deck.	Generic Token - Disease Aura						
 Jb6MjpJPRLbM99RJC8qKR	Inertia Trap	Red	1	0		3				Assassin, Ranger, Defense Reaction, Trap								When this defends an attack with {p} greater than its base, create an Inertia token under the attacking hero's control.	Assassin / Ranger Defense Reaction - Trap						
 NDFjzQLjMLL7LzGQNBtGd	Infect	Red	1	0	3	3				Assassin, Action, Attack		Stealth						"**Stealth**
 
@@ -12642,6 +12647,9 @@ hJgFfDPRWWmknCPnHCrrL	Villainous Pose	Blue	3	2		2				Reviled, Action		Go again, 
 
 **Go again**"	Reviled Action						
 mcF6F69HgBntfh7QKkHWw	Vipox	Red	1	0	1	3				Generic, Action, Attack								When this hits a hero, they lose {h} equal to the number of cards in their hand.	Generic Action - Attack				No	No	
+dLQDGrJKDmFcmpzLNfQRG	Viral Diffusion	Red	1	3		4				Assassin, Defense Reaction, Trap		Mortimer Specialization						"**Mortimer Specialization**
+
+When this defends, create a Frailty, Inertia, and Bloodrot Pox token under the attacking hero's control."	Assassin Defense Reaction - Trap				No	No	
 qrgHbhCHptKd9Lj7hzDQQ	Virtuoso Bodice					2				Guardian, Equipment, Chest		Blade Break					Suspense	"When this defends, you may remove a suspense counter from an aura you control. If you do, gain {r}{r}.
 
 **Blade Break**"	Guardian Equipment - Chest				No	No	

@@ -294,9 +294,51 @@
         ]
     },
     {
+        "unique_id": "TMfcNJPJChPkFk7WWQFhD",
+        "id": "AMA",
+        "name": "Armory Deck - Malice",
+        "printings": [
+            {
+                "unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "edition": "N",
+                "start_card_id": "AMA001",
+                "end_card_id": "AMA029",
+                "initial_release_date": "2026-09-25T00:00:00Z",
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/armory-deck-malice-domina-of-the-dead/",
+                "product_page": "https://fabtcg.com/products/product/armory-deck-malice/",
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": "https://cdn.fabtcg.com/uploads/2026/07/armory_deck_malice.png"
+            }
+        ]
+    },
+    {
+        "unique_id": "QtnqKj7m6zPFmkmwNQjQz",
+        "id": "AMO",
+        "name": "Armory Deck - Dr. Mortimer",
+        "printings": [
+            {
+                "unique_id": "RbMdRp8HMgGNRptCjHHwH",
+                "edition": "N",
+                "start_card_id": "AMO001",
+                "end_card_id": "AMO033",
+                "initial_release_date": "2026-11-14T00:00:00Z",
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/armory-deck-dr-mortimer-blight-of-the-pits/",
+                "product_page": "https://fabtcg.com/products/armory-deck/armory-deck-mortimer/",
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": "https://cdn.fabtcg.com/uploads/2026/08/armory_deck_mortimer.png"
+            }
+        ]
+    },
+    {
         "unique_id": "BrRjNCgcqCj7TrJPbrmKk",
         "id": "AMX",
-        "name": "Amory Deck - Maxx",
+        "name": "Armory Deck - Maxx",
         "printings": [
             {
                 "unique_id": "Jnr9G9CbTNdtFCc9JdJKG",
@@ -841,7 +883,7 @@
                 "unique_id": "QcdhjPdnQr9HdMrt7fg7k",
                 "edition": "N",
                 "start_card_id": "CON001",
-                "end_card_id": "CON004",
+                "end_card_id": "CON008",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1310,7 +1352,7 @@
                 "unique_id": "hqBm7CnKjCWzKBQcph89t",
                 "edition": "N",
                 "start_card_id": "JDG000",
-                "end_card_id": "JDG062",
+                "end_card_id": "JDG067",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -2458,7 +2500,7 @@
                 "unique_id": "LWc9gCNhcGWHCP6KcGzbj",
                 "edition": "N",
                 "start_card_id": "WIN001",
-                "end_card_id": "WIN045",
+                "end_card_id": "WIN053",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,

@@ -1093,6 +1093,15 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added image data for MPA001-MPA004, MPA022, MPA024, and MPS026 - data entry assistance: manwaring
 - Added set data for MPA - data entry assistance: manwaring
 
+08-18-26:
+- Added card data for Humour Plunge and Viral Diffusion - data entry assistance: manwaring
+- Added set data for AMA and AMO - update credit: IAmThermite
+- Added printing data for AMA001-AMA002, AMA019, and AMO033 - data entry assistance: manwaring
+- Added printing data for CON005-CON008, FAB208-FAB222, FAB225-FAB228, FAB230, FAB289, FAB295-FAB304, FAB340, FAB360-FAB369, FAB396-FAB398, FAB400, FAB405-FAB413, FAB415-FAB424, FAB430-FAB442, HER068, HER118, HER136-HER143, HER150-HER153, JDG045-JDG061, LGS428-LGS430, LGS448, WIN046-WIN053 - update credit: manwaring
+- Added image data for CON005-CON008, FAB208-FAB222, FAB225-FAB228, FAB230, FAB289, FAB295-FAB304, FAB340, FAB360-FAB369, FAB396-FAB398, FAB400, FAB405-FAB413, FAB415-FAB424, FAB430-FAB442, HER068, HER118, HER136-HER143, HER150-HER153, JDG045-JDG061, LGS428-LGS430, LGS448, WIN046-WIN053 - update credit: manwaring
+- Added various TCGPlayer IDs
+- Fixed typo in name of Armory Deck - Maxx - bugfix credit: IAmThermite
+
 TODO:
 - Added set data for IAR
 - Added card data for IAR
