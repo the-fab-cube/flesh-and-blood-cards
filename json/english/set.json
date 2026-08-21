@@ -2282,6 +2282,27 @@
         ]
     },
     {
+        "unique_id": "tq7bnHfwnHrdwwgJ8fCtb",
+        "id": "SPW",
+        "name": "Smash Palace - Chorus of Steel",
+        "printings": [
+            {
+                "unique_id": "N9GCTHwD6CDh9HrFHDfnM",
+                "edition": "N",
+                "start_card_id": "SPW001",
+                "end_card_id": "SPW004",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "HwFzNL9HbGLbfB8TjDrBF",
         "id": "SUP",
         "name": "Super Slam",

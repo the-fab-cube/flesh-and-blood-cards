@@ -1464,7 +1464,7 @@ ffTGRRhMJmDGQQK9WPw6t	Boneyard Marauder	Yellow	2	1	5	3				Shadow, Brute, Action,
 cW9DC9PbTtg8nqwr7JcLD	Boneyard Marauder	Blue	3	1	4	3				Shadow, Brute, Action, Attack		Blood Debt						"As an additional cost to play this, banish 3 random cards from your graveyard.
 
 **Blood Debt**"	Shadow Brute Action - Attack						
-8gGBjzcNg9D9fnFQRpMqz	Boo, Resident Spook	Yellow	2	1	2	2				Pirate, Necromancer, Action, Ally		Spellvoid 2, Watery Grave	Action	Attack				"**Action** - {t}: **Attack**
+8gGBjzcNg9D9fnFQRpMqz	Boo, Resident Spook	Yellow	2	1	2		2			Pirate, Necromancer, Action, Ally		Spellvoid 2, Watery Grave	Action	Attack				"**Action** - {t}: **Attack**
 
 If this is untapped, it gets **spellvoid 2**.
 
@@ -1654,7 +1654,7 @@ qhPfDmWPHpHT8gpFmNkkr	Brutal Assault	Blue	3	2	4	3				Generic, Action, Attack				
 Dh8tPtFJwkqg8jbGTjNWQ	Brutus, Summa Rudis						20	4		Adjudicator, Hero							Clash	"You may have cards with **clash** of any class or talent in your deck.
 
 If all heroes in a **clash** would fail to win, instead choose which hero wins the clash."	Adjudicator Hero		No		No	No	
-QNjHwWjJFcDtq8KqpHRjP	Bubba-Lubba, Run Aground	Yellow	2	3	1	5				Pirate, Necromancer, Action, Ally		Watery Grave	Action	Attack, Go again				"This enters the arena with a +1{p} counter.
+QNjHwWjJFcDtq8KqpHRjP	Bubba-Lubba, Run Aground	Yellow	2	3	1		5			Pirate, Necromancer, Action, Ally		Watery Grave	Action	Attack, Go again				"This enters the arena with a +1{p} counter.
 
 **Action** - {r}, {t}: **Attack**
 
@@ -1840,6 +1840,9 @@ fwLrdwk7MMpphzHTLPCNK	Catch of the Day	Blue	3	0		3				Pirate, Ranger, Action		Go
 If a go fish effect would trigger this turn, instead it triggers twice.
 
 **Go again**"	Pirate Ranger Action				No	No	
+qbdbnBmCBpqbT7pQtG868	Celebrant Broadsword				3					Revered, Warrior, Weapon, Sword, 2H		Go again	Once per Turn Action	Attack			The Crowd Cheers	"**Once per Turn Action** - {r}: **Attack**
+
+If you've been cheered this turn, this card's attacks get **go again**."	Revered Warrior Weapon - Sword (2H)						
 RLBLjtFb8gPjJLmTPL9j9	Celestial Cataclysm	Yellow	2	0	7	3				Light, Action, Attack		Go again						"As an additional cost to play this, banish 3 cards from your hero's soul.
 
 **Go again**"	Light Action - Attack				No	No	
@@ -2738,6 +2741,9 @@ Look at the top card of the defending hero's deck. You may put it on the bottom.
 MMpKrnJcBQRmBP9thgWG6	Cut to the Chase	Blue	3	0		3				Assassin, Attack Reaction							Contract	"Target Assassin attack action card with **contract** gets +1{p}.
 
 Look at the top card of the defending hero's deck. You may put it on the bottom."	Assassin Attack Reaction						
+6Q8jHk7BG7FzfmcnfBtgN	Cutpurse Rapier				3					Warrior, Thief, Weapon, Sword, 2H		Steal	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
+
+When this hits a hero, **steal** a Gold token they control."	Warrior Thief Weapon - Sword (2H)						
 rfTDjNMz8cqGFTkBQPmHQ	Cutting Couriers					0				Warrior, Equipment, Legs					Go again			When your sword attack hits, you may destroy this. If you do, the attack gets **go again**.	Warrior Equipment - Legs						
 8mP7k9zMRB7P6bnKCbKmr	Cutting Retort	Red	1	0	4	3				Generic, Action, Attack								When this attacks a hero, you may pay up to {r}{r}{r}. Destroy that many aura tokens with different names they control. If you do, this gets +1{p} for each aura destroyed this way.	Generic Action - Attack				No	No	
 zFb8FTK6fL7wtcRdcR8gj	Cutty Shark, Quick Clip	Yellow	2	1	3		4			Pirate, Necromancer, Action, Ally		Watery Grave	Action, Once per Turn Action	Attack, Go again				"**Action** - {r}, {t}: **Attack**
@@ -6320,6 +6326,11 @@ QCKrPkcL9crDhmNhQTnPc	Kelpie, Tangled Mess	Yellow	2	0	1		3			Pirate, Necromancer
 
 **Watery Grave**"	Pirate Necromancer Action - Ally					No	
 wzfdd9ktHKGhFkCKDhTWT	Kick the Hornet's Nest	Yellow	2	3	6	3				Generic, Action, Attack								When an opponent's effect puts this into your graveyard from anywhere, create a Confidence, Might, Toughness, and Vigor token.	Generic Action - Attack					No	
+9ngQ9QRpcTPQtpcnjwrRw	Killjoy, the Crooked Blade						20	4		Reviled, Warrior, Thief, Hero, Young		The Crowd Boos					The Crowd Boos	"You may attack any opposing hero.
+
+Whenever you steal a Gold, **the crowd boos** you.
+
+The first time the crowd boos you each turn, each hero with more {h} than you loses 1{h}."	Reviled Warrior Thief Hero - Young			No			No
 hmNrmWJFJzgW6PDFGLBHM	Kimono of Layered Lessons					1				Mystic, Equipment, Chest		Cloaked	Instant					"**Cloaked**
 
 **Instant** - {c}{c}{c}, turn this face-up: Put a +1{d} counter on this.
@@ -13270,6 +13281,11 @@ PGQMRR7h9kBt98fnhgnNt	Yo Ho Ho!	Blue	3	0		3				Pirate, Necromancer, Action		Go a
 **Go again**"	Pirate Necromancer Action					No	
 ncc6tmdrfHgnz9DhPqnwC	Yoji, Royal Protector						22	4		Guardian, Hero, Young			Once per Turn Instant					**Once per Turn Instant** - {r}{r}{r}: The next time another target hero would be dealt damage this turn, instead that damage is dealt to Yoji and prevent 1 of that damage.	Guardian Hero - Young			No	No	No	No
 nrMg9kDMg9KwBPPtJLJph	Yorick, Weaver of Tales						20	4		Bard, Hero, Young								At the start of the game, all heroes shuffle their starting decks together. All heroes share the same deck and graveyard this game.	Bard Hero - Young		No	No	No	No	No
+tjQzWM7HtWqpk8R8T8TNW	Zane, Broadly Beloved						20	4		Revered, Warrior, Hero, Young		The Crowd Cheers					Wager	"You may equip 2H swords as though they were 1H.
+
+Whenever you win a wager, **the crowd cheers** you.
+
+The first time the crowd cheers you each turn, each hero draws a card."	Revered Warrior Hero - Young			No			No
 NLkgcrjgGCQdWqGdg8gpj	Zap	Red	1	0		3			3	Wizard, Action								Deal 3 arcane damage to target hero.	Wizard Action						
 cNDwrcdgP7RdhDqDjdknB	Zap	Yellow	2	0		3			2	Wizard, Action								Deal 2 arcane damage to target hero.	Wizard Action						
 nGFNqP9BddjFmfBNcQGpq	Zap	Blue	3	0		3			1	Wizard, Action								Deal 1 arcane damage to target hero.	Wizard Action						
