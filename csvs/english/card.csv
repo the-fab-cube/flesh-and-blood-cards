@@ -5811,7 +5811,7 @@ wFqQ8FbrPHqHWjBkQCm8R	Hyper Inflation	Red	1	0	4	3				Chaos, Action, Attack		Go a
 BKJbdNkwdHcnC987TRDwg	Hyper Inflation	Blue	3	0	4	3				Chaos, Action, Attack		Go again						"When this attacks, cards cost {r} more to play this turn.
 
 **Go again**"	Chaos Action - Attack						
-mC76qgRmwnBBqMkgTTfJ8	Hyper Scrapper	Blue	3	X	2	3				Mechanologist, Action, Attack		Go Again						"As an additional cost to play this, banish X items from your graveyard.
+mC76qgRmwnBBqMkgTTfJ8	Hyper Scrapper	Blue	3	X	2	3				Mechanologist, Action, Attack		Go again						"As an additional cost to play this, banish X items from your graveyard.
 
 When this attacks, it gets +X{p}. If 3 or more Hyper Drivers were banished to play this, gain {r}{r}{r} {r}{r}{r} and this gets **go again**."	Mechanologist Action - Attack				No	No	
 WkJPkznH7gWGLmhtcmrrR	Hyper-X3					1				Mechanologist, Equipment, Head		Battleworn					Boost	"Whenever you banish a Hyper Driver to pay a **boost** cost, put it under this.
@@ -6912,7 +6912,7 @@ When this hits a hero, choose 1 at random;
 - They choose a card in their hand. Banish it.
 - They choose a card in their arsenal. Banish it.
 - Banish the top card of their deck."	Chaos Assassin Action - Attack				No	No	
-DG7DRnLw6kjDcMGH6hCmg	Meganetic Lockwave	Blue	3	XXX		3				Mechanologist, Action		Go Again						"Target hero chooses X equipment they control, then you choose 1 from among them. That hero must defend your attacks this turn with that equipment if able. 
+DG7DRnLw6kjDcMGH6hCmg	Meganetic Lockwave	Blue	3	XXX		3				Mechanologist, Action		Go again						"Target hero chooses X equipment they control, then you choose 1 from among them. That hero must defend your attacks this turn with that equipment if able. 
 
 **Go again**"	Mechanologist Action				No	No	
 mBBqLnhkqmdBbQKnq7DMF	Meganetic Protocol	Blue	3	3	5	3				Mechanologist, Action, Attack		Evo Upgrade						**Evo Upgrade** - The defending hero must defend this with X equipment they control with -1{d} counters if able, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	No	
