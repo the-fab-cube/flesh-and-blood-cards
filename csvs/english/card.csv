@@ -1236,6 +1236,9 @@ rgrMj9dqrqq6mftqJ8Jq9	Blessing of Spirits	Blue	3	1		2				Illusionist, Action, Au
 Kk9DrHmqTBkTjdLNQ7MN6	Blessing of Steel	Red	1	1		3				Warrior, Action, Aura								At the start of your turn, destroy this then your next weapon attack this turn gets +3{p}.	Warrior Action - Aura					No	
 mTPMbhpLLtDP7TmtwpthR	Blessing of Steel	Yellow	2	1		3				Warrior, Action, Aura								At the start of your turn, destroy this then your next weapon attack this turn gets +2{p}.	Warrior Action - Aura					No	
 WBrK9WFhTKbzNPjH88KgQ	Blessing of Steel	Blue	3	1		3				Warrior, Action, Aura								At the start of your turn, destroy this then your next weapon attack this turn gets +1{p}.	Warrior Action - Aura					No	
+jpGQNdgmndK8bBGmDRhp9	Blessing of Suraya	Yellow	2	0		3				Light, Action, Aura		Go again						"**Go again**
+
+Whenever a card is put into your soul, create a Ponder token. At the start of your turn, put this into your soul."	Light Action - Aura				No	No	
 dbBBGHkdzwBz9QBG8MzHh	Blessing of Themis	Yellow	2	0		3				Light, Action, Aura		Go again						"**Go again**
 
 When this enters the arena, name a card. Turn all cards with that name in banished zones face-down. Whenever a card with that name is banished while this is in the arena, turn that card face-down.
@@ -1606,6 +1609,9 @@ nkzJhG8dqtwdMBBMFM8Mt	Brandish	Blue	3	1	1	2				Generic, Action, Attack		Go again
 GJBb8BW9zTQ8CkGbzFqmN	Braveforge Bracers					2				Warrior, Equipment, Arms		Battleworn	Once per Turn Action					"**Once per Turn Action** - {r}: Your next weapon attack this turn gets +1{p}. Activate this only if a weapon you control has hit this turn. **Go again**
 
 **Battleworn**"	Warrior Equipment - Arms				No	No	
+HNdCrFPzJPThCzLBqpMdt	Bravery of the Blade	Red	1	0	3	3				Light, Warrior, Action, Attack		Charge, Go again					Charge	"As an additional cost to play this, you may **charge** your soul.
+
+If you've charged this turn, this gets **go again** and ""When this hits, create a Courage token."""	Light Warrior Action - Attack				No	No	
 tzTbzLkLhDzmW9QMJr9KF	Bravo						20	4		Guardian, Hero, Young			Action	Go again	Dominate			**Action** - {r}{r}: Until end of turn, your attack action cards with cost 3 or more get **dominate**. **Go again**	Guardian Hero - Young			No			No
 DbqGjQMfWLNCfd7qGqGht	Bravo, Flattering Showman						20	4		Guardian, Hero, Young		Go again	Action	Go again	Dominate		Crush	**Action** - {r}{r}, {t}: Turn a face-down card in your arsenal face-up. If it has crush, it gets +2{p} and **dominate** this turn. **Go again**	Guardian Hero - Young			No			No
 NtLDgPBR7HqDqhDzJMHmk	Bravo, Showstopper						40	4		Guardian, Hero			Action	Go again	Dominate			**Action** - {r}{r}: Until end of turn, your attack action cards with cost 3 or more get **dominate**. **Go again**	Guardian Hero		No		No	No	
@@ -1941,6 +1947,11 @@ rFbFBgmNfJzFbdwhrJrgB	Channel Mount Isen	Blue	3	0		3				Ice, Action, Aura		Go ag
 At the start of each hero's turn, they lose {h} equal to the number of Frostbites in their equipment zones.
 
 **Channel Ice** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put an Ice card from your pitch zone on the bottom of your deck for each flow counter on it."	Ice Action - Aura				No	No	
+GDPhkGLTWbJFN6LDq9HW6	Channel Stormgarden	Yellow	2	0		3				Lightning, Instant, Aura		Amp 1, Channel Lightning						"When this enters the arena, create a Lightning Flow token.
+
+The first time you destroy a Lightning Flow each turn, **amp 1**.
+
+**Channel Lightning** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put a Lightning card from your pitch zone on the bottom of your deck for each flow counter on it."	Lightning Instant - Aura				No	No	
 wDhLmGq88hHqJkBg89QDP	Channel Thunder Steppe	Yellow	2	1		3				Lightning, Action, Aura		Go again, Channel Lightning			Go again			"**Go again**
 
 Whenever you play an action card, you may pay {r}. If you do, it gets **go again**.
@@ -4217,6 +4228,9 @@ When this hits a hero, banish the top card of their deck. If it's red, repeat th
 wzB7GqTmmpNTjqtQcMk7C	Excessive Bloodloss	Blue	3	1	3	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish opponents' red cards. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck. If it's red, repeat this process once."	Assassin Action - Attack						
+fCHHw7hpnDBBMk7QT6t69	Exorcism	Red	1	1		3				Generic, Action		Go again						"Your next attack this turn gets +3{p} and ""When this hits a hero, turn all cards in their banished zone face-down.""
+
+**Go again**"	Generic Action				No	No	
 dHGPHrcmzW8TJT6m8mrPp	Expedite	Red	1	0	3	3				Mechanologist, Action, Attack		Boost						"**Boost**
 
 When this hits, you may put an item with cost 1 or less from your hand into the arena."	Mechanologist Action - Attack						
@@ -6996,6 +7010,15 @@ f8QrwNNrtgKcB8MwLRQh8	Manifestation of Miragai	Blue	3	3						Mystic, Illusionist
 **Ward X**, where X is the number of +1{p} counters on this."	Mystic Illusionist Instant - Aura				No	No	
 RbgFbTMtHzGhq8dmDLwpG	March of Loyalty	Red	1	0	4	3				Draconic, Action, Attack		Go again						If you've created a Fealty token this turn, this gets **go again**.	Draconic Action - Attack					No	
 FRDf9rPtwMg7MjfK6wWNP	Mark of Lightning					0				Lightning, Equipment, Arms								Whenever a Lightning or Elemental attack you control is defended by a card from hand, you may destroy this. If you do, the attack deals 1 damage to the defending hero.	Lightning Equipment - Arms						
+WCDQmHjfcPBRfrpGh9dq8	Mark of Neverest	Blue	3	0						Shadow, Necromancer, Instant, Aura		Binds						"**Binds** to an ally permanent you control.
+
+The bound ally gets +1{p} and ""Whenever this hits a hero or dies, you may turn a card in your banished zone face-down. If you do, create a Corrupted Corpse in your banished zone."""	Shadow Necromancer Instant - Aura					No	
+C8jPCtGhgHQnQLLnPzdRd	Mark of Pathstone	Blue	3	0						Shadow, Necromancer, Instant, Aura		Binds						"**Binds** to an ally permanent you control.
+
+The bound ally gets +1{p} and ""Whenever this hits a hero or dies, gain 1{h}."""	Shadow Necromancer Instant - Aura					No	
+LfctPwBM8nzQKQPmpLBRm	Mark of Ushering	Blue	3	0						Shadow, Necromancer, Instant, Aura		Binds						"**Binds** to an ally permanent you control.
+
+The bound ally gets +1{p} and ""Whenever this hits a hero or dies, create a Gate to i'Arathael token."""	Shadow Necromancer Instant - Aura					No	
 bQMPhRRzw8c6RgGK6crJn	Mark of the Beast	Yellow	2	2	6	3				Shadow, Brute, Action, Attack		Blood Debt						"If this would be put into your graveyard from anywhere, instead banish it.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	No	
@@ -9254,6 +9277,9 @@ dRdWkMqh86cKpH7mpFnpC	Restless Commander	Red	1	0	3		3			Shadow, Necromancer, Act
 96BKPQqp8PbgGRhHjn99c	Restless Corporal	Red	1	0	3		3			Shadow, Necromancer, Action, Zombie, Ally		Decay	Action	Go again				"**Action** - {t}: Put a card from your banished zone into your graveyard. **Go again**
 
 **Decay**"	Shadow Necromancer Action - Zombie Ally						
+dBwz9ngzQjPkbrdqRkhFf	Restless Looter	Red	1	0	3		3			Shadow, Necromancer, Action, Zombie, Ally		Decay	Instant					"**Instant** - {t}, Discard a card. If you do, draw a card.
+
+**Decay**"	Shadow Necromancer Action - Zombie Ally					No	
 PRfhDbJzRtJD66DTGcccM	Restless Magister	Red	1	0	3		3			Shadow, Necromancer, Action, Zombie, Ally		Decay						"When this hits a hero, they banish a card from their hand.
 
 **Decay**"	Shadow Necromancer Action - Zombie Ally					No	
@@ -9263,6 +9289,9 @@ FLwPbj7LWWnPm8rQ8TMwb	Restless Outlaw	Red	1	0	3		3			Shadow, Necromancer, Action
 PThDWrq6twrdKKcrNQ9fC	Restless Quartermaster	Red	1	0	3		3			Shadow, Necromancer, Action, Zombie, Ally		Decay						"When this hits a hero, they banish a card in their arsenal.
 
 **Decay**"	Shadow Necromancer Action - Zombie Ally					No	
+MQRmLGWG6rGCHtNChtbkm	Restless Templar	Red	1	0	3		3			Shadow, Necromancer, Action, Zombie, Ally		Decay					Decay	"Whenever a zombie you control with decay dies, create a Gate to i'Arathael token.
+
+**Decay**"	Shadow Necromancer Action - Zombie Ally				No	No	
 JMzGFRDF8qTWJCLPRfQgH	Restvine Elixir	Red	1	1		3				Generic, Action		Go again						"Your next attack this turn gets +3{p}.
 
 You may destroy an Inertia token you control. If you do, gain 1{h}.
@@ -12264,6 +12293,11 @@ cH7H7wcqh9qtMrNtJ7wdF	Tome of Imperial Flame	Red	1	0						Draconic, Action		Go a
 You may pitch 2 red cards. If you don't, banish your hand.
 
 **Go again**"	Draconic Action				No	No	
+zQmwGLpLKkjtLTdpNdFK6	Tome of Necrosis	Red	1	0		3				Necromancer, Action		Go again						"As an additional cost to play this, destroy an ally you control or discard an ally.
+
+Draw a card and {u} your hero.
+
+**Go again**"	Necromancer Action				No	No	
 mgDTDhJcfztFMhLrtcpBF	Tome of Pandemonium	Yellow	2	1		2				Chaos, Action		Go again						"Banish the top card of each hero's deck. You may play them this turn.
 
 **Go again**"	Chaos Action				No	No	
@@ -12921,6 +12955,9 @@ hJgFfDPRWWmknCPnHCrrL	Villainous Pose	Blue	3	2		2				Reviled, Action		Go again, 
 **The crowd boos** you.
 
 **Go again**"	Reviled Action						
+b6jbtNjPhLb8BwJPWNJ6g	Violent Gusto	Red	1	2	6	3				Generic, Action, Attack								"When this attacks a hero, you may name an aura permanent they control and return it to its owner's hand.
+
+When this hits a hero, return all aura permanents they control with that name to their owner's hand."	Generic Action - Attack				No	No	
 mcF6F69HgBntfh7QKkHWw	Vipox	Red	1	0	1	3				Generic, Action, Attack								When this hits a hero, they lose {h} equal to the number of cards in their hand.	Generic Action - Attack				No	No	
 dLQDGrJKDmFcmpzLNfQRG	Viral Diffusion	Red	1	3		4				Assassin, Defense Reaction, Trap		Mortimer Specialization						"**Mortimer Specialization**
 
