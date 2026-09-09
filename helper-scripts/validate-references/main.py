@@ -127,7 +127,7 @@ with open(card_printing_filename, newline='') as csvfile:
     for row in reader:
         # TODO: Duplicate Unique ID
 
-        card_printing_summary = f"{row['Card ID']} (Edition: {row['Edition']} - Foiling: {row['Foiling']} - Art Variation: {row['Art Variation']})"
+        card_printing_summary = f"{row['Card ID']} (Edition: {row['Edition']} - Foiling: {row['Foiling']} - Art Variations: {row['Art Variations']})"
 
         # Set Printing Unique ID
         set_printing_unique_id = row['Set Printing Unique ID']
@@ -163,12 +163,14 @@ with open(card_printing_filename, newline='') as csvfile:
                         f"range {this_set_printing['Start Card Id']} - {this_set_printing['End Card Id']}.")
                 errors = True
 
-        # Art Variation
-        variation = row['Art Variation']
-        if variation != '' and variation not in allowed_variations:
-            print(f"Warning: unrecognized variation {variation} in {card_printing_filename} entry for "
-                  f"{card_printing_summary}. Check your spelling or add this to {variation_filename}.")
-            errors = True
+        # Art Variations
+        variations = row['Art Variations']
+        if variations != '':
+            for variation in re.split(',\s*', variations):
+                if variation not in allowed_variations:
+                    print(f"Warning: unrecognized variation {variation} in {card_printing_filename} entry for "
+                          f"{card_printing_summary}. Check your spelling or add this to {variation_filename}.")
+                    errors = True
 
         # Edition
         edition = row['Edition']
