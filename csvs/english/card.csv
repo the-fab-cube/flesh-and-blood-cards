@@ -1,13 +1,4 @@
 Unique ID	Name	Color	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Traits	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Silver Age Legal	Commoner Legal	LL Legal
-KjwTjqgwqQpFwcLFCWg6B	Step through Realms	Red	1	2		3				Shadow, Action		Go again						"Your next Shadow attack this turn gets +4{p} and ""When this hits, create a Gate to i'Arathael token.""
-
-**Go again**"	Shadow Action						
-8D8gJjzDNmndFzfMGBtTg	Step through Realms	Yellow	2	2		3				Shadow, Action		Go again						"Your next Shadow attack this turn gets +3{p} and ""When this hits, create a Gate to i'Arathael token.""
-
-**Go again**"	Shadow Action						
-9BCNPft9bW98j9RrNFHDz	Step through Realms	Blue	3	2		3				Shadow, Action		Go again						"Your next Shadow attack this turn gets +2{p} and ""When this hits, create a Gate to i'Arathael token.""
-
-**Go again**"	Shadow Action						
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	Red	1	8		3				Illusionist, Action, Aura		Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay this card's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	No	
@@ -731,6 +722,7 @@ MT7rdNFQjRncfm9DzmLdH	Banneret of Gallantry	Yellow	2	1	4	3				Light, Warrior, Ac
 Hkdtj7NWwgjL9znCjwM9M	Banneret of Protection	Yellow	2	1	4	3				Light, Warrior, Action, Attack		Solflare					Charge	**Solflare** - When this is **charged** to your soul, create a Courage token.	Light Warrior Action - Attack				No	No	
 BJNg8JCdrjgzCwM6N8786	Banneret of Resilience	Yellow	2	0	3	3				Light, Warrior, Action, Attack		Solflare					Charge	**Solflare** - When this is **charged** to your soul, the next action card you defend with this turn gets +1{d}.	Light Warrior Action - Attack					No	
 H7rF9J86RzTp6dbPjmMRm	Banneret of Salvation	Yellow	2	0	3	3				Light, Warrior, Action, Attack		Solflare					Charge	**Solflare** - When this is **charged** to your soul, the next time you hit this turn, gain 1{h}.	Light Warrior Action - Attack					No	
+qJD8tjRcmBFjbDkPQm8dW	Banneret of Swordsmanship	Yellow	2	1	4	3				Light, Warrior, Action, Attack		Solflare						**Solflare** - When this is charged to your soul, create a Flurry token.	Light Warrior Action - Attack				No	No	
 CnQgknqjtfWWqnwKNCWHk	Banneret of Vigor	Yellow	2	0	3	3				Light, Warrior, Action, Attack		Solflare					Charge	**Solflare** - When this is **charged** to your soul, the next time you hit this turn, gain {r}.	Light Warrior Action - Attack					No	
 qbkqDjRTCdJznpTWt8j67	Barbed Barrage	Red	1	1	5	3				Ranger, Action, Arrow, Attack								As an additional cost to play this, you may pay {r}{r}{r}. If you do, this attacks an additional target.	Ranger Action - Arrow Attack				No	No	
 jPfMCnKDptNbCbp6T96dT	Barbed Castaway									Ranger, Weapon, Bow, 2H			Once per Turn Instant					"**Once per Turn Instant** - {r}: You may put an arrow card from your hand face-up into your arsenal.
@@ -2383,6 +2375,9 @@ mpNCNfJnPMdk9bgrkj8bB	Cogwerx Blunderbuss				2					Mechanologist, Weapon, Gun, 2
 dnhGwzTLMbDMGLfrBgnzz	Cogwerx Dovetail	Red	1	1	5	3				Mechanologist, Action, Attack		Go again	Thrice per Turn Instant					"When this hits a hero, {u} all cogs you control.
 
 **Thrice per Turn Instant** - {t} a cog you control: This gets +1{p} or **go again**."	Mechanologist Action - Attack				No	No	
+TMHBBLM6KLTJdRWHttcTK	Cogwerx Prong Bot	Yellow	2	3	6	3				Mechanologist, Action, Attack			Instant				Crank	"When this hits a hero, you may put a steam counter on an item you control with crank.
+
+**Instant** - {r}, discard this: Create a Golden Cog token."	Mechanologist Action - Attack				No	No	
 cqRf8LJ6Dt86pRfcDdJ7H	Cogwerx Tinker Rings					2				Mechanologist, Equipment, Arms		Blade Break						"When this defends, create a Golden Cog token.
 
 **Blade Break**"	Mechanologist Equipment - Arms				No	No	
@@ -4538,6 +4533,11 @@ wDQpwcjHkdqjhpJhCHLft	Fatigue Shot	Blue	3	1	3	3				Ranger, Action, Arrow, Attack
 bzPDgqKBRNH7JQjcqWbfk	Fault Line	Red	1	3	7	3				Guardian, Action, Attack		Crush						"If you have a card in your arsenal, this gets +1{p}.
 
 **Crush** - When this deals 4 or more damage to a hero, put all cards in all arsenals on the bottom of their owner's deck."	Guardian Action - Attack					No	
+fGRzF7zPqmP8NCLCBG8RT	Favorable Winds	Yellow	2	1		2				Pirate, Ranger, Action		Go again						"As an additional cost to play this, discard a Goldfin Harpoon.
+
+Draw 2 cards.
+
+**Go again**"	Pirate Ranger Action				No	No	
 n9FtLHDg97rfrTNJDMBG6	Fealty									Draconic, Token, Aura								"**Instant** - Destroy this: The next card you play this turn is Draconic.
 
 At the beginning of your end phase, if you haven't created a Fealty token or played a Draconic card this turn, destroy this."	Draconic Token - Aura						
@@ -4986,6 +4986,9 @@ cCbqhRbTwGhJnk9zKGLCj	Freewheeling Renegades	Blue	3	1	4	2				Generic, Action, At
 bTtrCGpnGPrnC7pNFt6pw	Freezing Point	Red	1	3		3			5	Elemental, Wizard, Action		Ice Fusion						"**Ice Fusion**
 
 Deal 5 arcane damage to target hero. If this was **fused**, instead deal X arcane damage, where X is 5 plus the number of Frostbites, Ice afflictions, and **frozen** cards they control."	Elemental Wizard Action				No	No	
+J97rQmTfP6zTBJBbmzBJj	Fresh from the Forge	Red	1	0		3				Draconic, Warrior, Attack Reaction		Sharpen, Mark						"**Sharpen** each dagger you control.
+
+The next time a dagger you control hits a hero this turn, you may remove a +1{p} counter from it. If you do, **mark** them."	Draconic Warrior Attack Reaction				No	No	
 tchtjzTbfPjRDFN8mcKR7	Frightmare	Red	1	3	13					Illusionist, Action, Attack		Phantasm					Phantasm	"Play this only if an Illusionist attack action card you control has been destroyed by **phantasm** this turn.
 
 **Phantasm**"	Illusionist Action - Attack				No	No	
@@ -6047,6 +6050,7 @@ zc8n8JQRfBTPHGfnBmw8L	Honing Hood			0		0				Ranger, Equipment, Head			Instant			
 
 **Battleworn**"	Warrior Equipment - Head						
 pnwRgqpdgHJCwh7QMbzwT	Hood of Second Thoughts					0				Generic, Equipment, Head			Instant					**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this only if you've been dealt damage this turn.	Generic Equipment - Head						
+qGnPm6FNFgGfktHCTRMBJ	Hoodwink	Blue	3	0	1	3				Reviled, Action, Attack			Instant					**Instant** - Discard this and any number of other cards: Prevent the next X arcane damage that would be dealt to you this turn, where X is the total base {d} of cards discarded this way.	Reviled Action - Attack				No	No	
 9tPpWpwwJdjzdcBppcpQq	Hook	Blue	3	0		3				Ranger, Action		Go again						"Look at the top card of your deck. If it's an arrow, you may put it face-up into your arsenal. If you do, it gets +1{p} this turn.
 
 **Go again**"	Ranger Action					No	
@@ -7614,6 +7618,7 @@ RmpWGrQMtkjKRfd8QqrGJ	Murky Water	Red	1	2	6	3				Ranger, Action, Arrow, Attack		
 If this has an aim counter, it gets +1{p} and **dominate**.
 
 When this hits, you may banish 3 traps with cost 0 or more from your graveyard face-down. If you do, choose one at random and put it into your arsenal."	Ranger Action - Arrow Attack				No	No	
+bRj8LnRhN6WMBM7FGrCrM	Murmur of i'Arathael	Red	1	1	4	2				Generic, Action, Attack		Go again						If a card has been put into your banished zone this turn, this gets **go again**.	Generic Action - Attack					No	
 mwMqLtn6qkbWLgChrbJJ7	Murmuring Gloomblade	Red	1	2	4	3				Shadow, Runeblade, Action, Attack		Usurp, Blood Debt						"You may play this from your banished zone.
 
 **Usurp**
@@ -9964,6 +9969,7 @@ HCbqq67LkGRRNjgp7pzWW	Rumbling Hunger	Yellow	2	2	5	3				Shadow, Brute, Action, A
 Jq8jc9QRzcpTtWM97Ldz8	Rumbling Hunger	Blue	3	2	4	3				Shadow, Brute, Action, Attack		Blood Debt, Go again						"When this hits, if you've banished a card with 6 or more {p} this turn, create a Blasmophet, the Insatiable Hunger token and this gets **go again**.
 
 **Blood Debt**"	Shadow Brute Action - Attack					No	
+TKRdb7M6c6CzwGh8gTw78	Rumbling of i'Arathael	Red	1	2	6	2				Generic, Action, Attack		Overpower						If a card has been put into your banished zone this turn, this gets **overpower**.	Generic Action - Attack					No	
 WLNGdRBzRcLqzhdrMbDG8	Run Roughshod	Blue	3	1	5	3				Brute, Action, Attack								Play this only if you've discarded a card with 6 or more {p} this turn.	Brute Action - Attack					No	
 Q9wHzF6BQjrjMwmKWBbpn	Run Through	Red	1	1		3				Warrior, Attack Reaction					Go again			"Target sword attack gets **go again**.
 
@@ -11819,6 +11825,15 @@ FPThjmfgpwBHmGzd66FCF	Stellar Glide	Blue	3	2	3	2				Lightning, Action, Attack		G
 BFczG87kDHQnkhk8FmJnP	Step Between	Red	1	0	4	2				Generic, Action, Attack			Instant					"While this is attacking or on the stack, opponents can't play or activate instants.
 
 **Instant** - {r}, {t} your hero: This gets +1{p} and {p} damage can't be prevented this combat chain."	Generic Action - Attack				No	No	
+KjwTjqgwqQpFwcLFCWg6B	Step through Realms	Red	1	2		3				Shadow, Action		Go again						"Your next Shadow attack this turn gets +4{p} and ""When this hits, create a Gate to i'Arathael token.""
+
+**Go again**"	Shadow Action						
+8D8gJjzDNmndFzfMGBtTg	Step through Realms	Yellow	2	2		3				Shadow, Action		Go again						"Your next Shadow attack this turn gets +3{p} and ""When this hits, create a Gate to i'Arathael token.""
+
+**Go again**"	Shadow Action						
+9BCNPft9bW98j9RrNFHDz	Step through Realms	Blue	3	2		3				Shadow, Action		Go again						"Your next Shadow attack this turn gets +2{p} and ""When this hits, create a Gate to i'Arathael token.""
+
+**Go again**"	Shadow Action						
 mdtMRhRMbMkBRntzQzcbJ	Sticky Fingers				2		2			Scurv, Companion, Off-Hand, Ally		Perched, Steal	Action	Attack				"**Action** - {t}: **Attack**. If this is equipped, unequip it.
 
 When this attacks a hero, **steal** a Gold token they control.
@@ -13685,6 +13700,9 @@ CdP6DCmhLMzBWKB7tWcNJ	Whisper of the Oracle	Blue	3	0		3				Generic, Action		Opt 
 
 **Go again**"	Generic Action						
 DJPrmWbggDQJdhkhgJG6q	Whispering Mist	Blue	3	0						Mystic, Instant							Ephemeral	Until end of turn, blue attacks and attacks with ephemeral get +1{p}.	Mystic Instant				No	No	
+FTRcQKnkdHpkCTnjhgnNL	Whispers Within	Red	1	3	7	2				Generic, Action, Attack		Opt 1						When this defends, **opt 1**.	Generic Action - Attack						
+PGgGknjpBFqdRPpj8m9N6	Whispers Within	Yellow	2	3	6	2				Generic, Action, Attack		Opt 1						When this defends, **opt 1**.	Generic Action - Attack						
+bLQ6J6mfBQMRkcB6Kkfwb	Whispers Within	Blue	3	3	5	2				Generic, Action, Attack		Opt 1						When this defends, **opt 1**.	Generic Action - Attack						
 RchmHdpjFdfQrcKkCn8MP	Whittle from Bone	Red	1	0	3	3				Assassin, Action, Attack		Stealth					Mark	"**Stealth**
 
 When this attacks a **marked** hero, equip a Graphene Chelicera token."	Assassin Action - Attack					No	
@@ -13756,6 +13774,11 @@ MpfqmCMGhHCTwgQKRdDGW	Wind Chakra	Yellow	2	0		3				Mystic, Ninja, Action		Go aga
 nP6cCbptBCkzLqKfPrKNb	Wind Cutter					1				Ninja, Equipment, Arms		Blade Break	Attack Reaction					"**Attack Reaction** - {r}, {t}: Search your deck for a Shuriken item, put it into the arena, then shuffle. Activate this only if you've hit 2 or more times this combat chain.
 
 **Blade Break**"	Ninja Equipment - Arms				No	No	
+KW7BzwmnkhTJmPBwFDDJW	Wind Slicer	Blue	3	0	1	2				Ninja, Instant, Shuriken, Item		Legendary	Action	Attack, Go again				"**Legendary**
+
+**Action** - {r}, {t}, destroy this when the combat chain closes: **Attack**. **Go again**
+
+When this hits a hero, they lose all hero card abilities during their next action phase"	Ninja Instant - Shuriken Item				No	No	
 H7QLKkw7fPCLfntKj86qp	Wind Up the Crowd	Blue	3	3	6	0				Revered, Brute, Action, Attack								**Instant** - Discard this: Create a Toughness and a Vigor token.	Revered Brute Action - Attack					No	
 zcrgwbPhb8wr7MFmMDTzw	Winds of Eternity	Blue	3	0	2	3				Ninja, Action, Attack		Combo						"**Combo** - If Hundred Winds was the last attack this combat chain, this gets +2{p} and ""When this hits, shuffle all cards you own named Hundred Winds on the combat chain into your deck."""	Ninja Action - Attack				No	No	
 Hb6ThkhpGRD9K9J6hBLDM	Winter's Bite	Red	1	0		2				Ice, Action		Go again						"Target hero discards a card unless they pay {r}{r}{r}.
