@@ -4045,6 +4045,21 @@ Choose 1;
 - This gets +2{p}.
 
 - This gets **go again**."	Generic Action - Attack				No	No	
+ppTLn7tQ6nFjNW8Gzzj76	Enshrine Sin	Red	1	0		2				Shadow, Runeblade, Action		Op 1, Go again, Blood Debt						"You may play this from your banished zone. If you do, it costs an additional {r} to play.
+
+**Opt 1**, then create a Runechant token. **Go again**
+
+**Blood Debt**"	Shadow Runeblade Action						
+nLjpcrnhFQRwC9gfNCPLD	Enshrine Sin	Yellow	2	0		2				Shadow, Runeblade, Action		Op 1, Go again, Blood Debt						"You may play this from your banished zone. If you do, it costs an additional {r} to play.
+
+**Opt 1**, then create a Runechant token. **Go again**
+
+**Blood Debt**"	Shadow Runeblade Action						
+pkdhbdwpKH8nGdHBGtjhc	Enshrine Sin	Blue	3	0		2				Shadow, Runeblade, Action		Op 1, Go again, Blood Debt						"You may play this from your banished zone. If you do, it costs an additional {r} to play.
+
+**Opt 1**, then create a Runechant token. **Go again**
+
+**Blood Debt**"	Shadow Runeblade Action						
 LBzMBqHhtB9Tqqn8PTqMM	Entangle	Red	1	3	7	3				Elemental, Guardian, Action, Attack		Earth Fusion						"**Earth Fusion**
 
 If this was **fused**, it gets ""When this hits a hero, their first attack during their next turn gets -2{p}."""	Elemental Guardian Action - Attack						
@@ -5072,7 +5087,7 @@ whJmFnkNbtrd8D98KGg8d	Gas Up	Blue	3	1		2				Mechanologist, Action		Go again					
 You may put a Hyper Driver from your banished zone into the arena.
 
 **Go again**"	Mechanologist Action						
-JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael									Shadow, Token, Aura			Instant				Blood Debt	**Instant** - {r}, destroy this: You may play target action card with blood debt from your banished zone this turn.	Shadow Token - Aura				No	No	
+JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael									Shadow, Token, Aura			Instant				Blood Debt	**Instant** - {r}, destroy this: You may play target action card with blood debt from your banished zone this turn.	Shadow Token - Aura						
 GPRfKmdq6LnRwNQCG8jnR	Gauntlet of Boulderhold					1				Guardian, Equipment, Arms		Battleworn	Action	Go again				"**Action** - {r}{r}{r}, destroy this: The next Guardian attack action card you play this turn gets +2{p}. **Go again**
 
 **Battleworn**"	Guardian Equipment - Arms						
@@ -8832,6 +8847,9 @@ If this was played from arsenal, it gets **go again**."	Generic Action - Attack	
 g9LhkTgkgNBCtwmcPCgdP	Promise of Plenty	Blue	3	0	1	2				Generic, Action, Attack		Go again						"When this hits, each hero who doesn't have a card in their arsenal puts the top card of their deck face-down into their arsenal.
 
 If this was played from arsenal, it gets **go again**."	Generic Action - Attack					No	
+pCnB7kGmgrRp68nJQJr9z	Promise of Power	Yellow	2	1		2				Shadow, Runeblade, Action		Go again						"The next time you play an attack action card from your banished zone this turn, create 2 Runechant tokens.
+
+**Go again**"	Shadow Runeblade Action					No	
 jFpwffNmqGB8nTHt7mzp9	Promising Terrain	Blue	3	0		3				Guardian, Action, Aura		Go again						"**Go again**
 
 If you would create 1 or more Seismic Surge tokens, instead create that many plus 1.
@@ -9956,12 +9974,12 @@ HDtcFpfJGnLpQW7LfmM7k	Runechant of Envy	Yellow	2	0						Runeblade, Instant, Aura
 
 When this is destroyed, create a Runechant token.
 
-At the beginning of your action phase or when you play an attack action card, destroy this."	Runeblade Instant - Aura				No	No	
+At the beginning of your action phase or when you play an attack action card, destroy this."	Runeblade Instant - Aura						
 9wdzWnFf7J6nmL86nFhtN	Runechant of Gluttony	Yellow	2	0						Runeblade, Instant, Aura							Usurp	"This counts as a Runechant. When an attack usurps this, gain {r}.
 
 When this is destroyed, create a Runechant token.
 
-At the beginning of your action phase or when you play an attack action card, destroy this."	Runeblade Instant - Aura				No	No	
+At the beginning of your action phase or when you play an attack action card, destroy this."	Runeblade Instant - Aura						
 MT8LQJTF6w8gPqMzNTrkr	Runechant of Greed	Yellow	2	0						Runeblade, Instant, Aura							Usurp	"This counts as a Runechant. When an attack usurps this, draw a card.
 
 When this is destroyed, create a Runechant token.
@@ -9971,22 +9989,22 @@ FpMpBwHGNgTGDjgfpWBKB	Runechant of Lust	Yellow	2	0						Runeblade, Instant, Aura
 
 When this is destroyed, create a Runechant token.
 
-At the beginning of your action phase or when you play an attack action card, destroy this."	Runeblade Instant - Aura				No	No	
+At the beginning of your action phase or when you play an attack action card, destroy this."	Runeblade Instant - Aura						
 HqGFdH8tMH6fR8bNMkTjq	Runechant of Pride	Yellow	2	0						Runeblade, Instant, Aura							Usurp	"This counts as a Runechant. When an attack usurps this, it gets +1{p}.
 
 When this is destroyed, create a Runechant token.
 
-At the beginning of your action phase or when you play an attack action card, destroy this."	Runeblade Instant - Aura				No	No	
+At the beginning of your action phase or when you play an attack action card, destroy this."	Runeblade Instant - Aura						
 BMgj68hT9jQHQ6nFqhTDT	Runechant of Sloth	Yellow	2	0						Runeblade, Instant, Aura					Go again		Usurp	"This counts as a Runechant. When an attack usurps this, it gets **go again**.
 
 When this is destroyed, create a Runechant token.
 
-At the beginning of your action phase or when you play an attack action card, destroy this."	Runeblade Instant - Aura				No	No	
+At the beginning of your action phase or when you play an attack action card, destroy this."	Runeblade Instant - Aura						
 qwpdn8CJWGgkHLqdhDtgh	Runechant of Wrath	Yellow	2	0						Runeblade, Instant, Aura					Overpower		Usurp	"This counts as a Runechant. When an attack usurps this, it gets **overpower**.
 
 When this is destroyed, create a Runechant token.
 
-At the beginning of your action phase or when you play an attack action card, destroy this."	Runeblade Instant - Aura				No	No	
+At the beginning of your action phase or when you play an attack action card, destroy this."	Runeblade Instant - Aura						
 zzWc8BBmC9T6bfQwDMBPH	Runehold Release					0				Runeblade, Equipment, Arms			Action	Go again				**Action** - Destroy this: Create a Runechant token. **Go again**	Runeblade Equipment - Arms						
 66LHrpFckMQ8WNWhPjbD6	Runerager Swarm	Red	1	0	3	3				Runeblade, Action, Attack		Go again						If you've played or created an aura this turn, this gets **go again**.	Runeblade Action - Attack						
 8zcbgBnjjdmM6G9hCqC9f	Runerager Swarm	Yellow	2	0	2	3				Runeblade, Action, Attack		Go again						If you've played or created an aura this turn, this gets **go again**.	Runeblade Action - Attack						
@@ -10551,6 +10569,27 @@ As an additional cost to play this, you may banish a card with **blood debt** fr
 If you paid the addition cost to play this, it gets **go again**.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack				No	No	
+CKznKznHJkWcktFCBpkN8	Shadowake Gloomblade	Red	1	2	4	3				Shadow, Runeblade, Action, Attack		Usurp, Blood Debt						"You may play this from your banished zone.
+
+**Usurp**
+
+When this hits, create a Gate to i'Arathael token.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack						
+JfbMzjthcJBBnTLnhBHWr	Shadowake Gloomblade	Yellow	2	2	3	3				Shadow, Runeblade, Action, Attack		Usurp, Blood Debt						"You may play this from your banished zone.
+
+**Usurp**
+
+When this hits, create a Gate to i'Arathael token.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack						
+JpmtTnF6TzLGwfTr9KBRb	Shadowake Gloomblade	Blue	3	2	2	3				Shadow, Runeblade, Action, Attack		Usurp, Blood Debt						"You may play this from your banished zone.
+
+**Usurp**
+
+When this hits, create a Gate to i'Arathael token.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack						
 jKbNbC8RpfnDMjddzrqck	Shadowrealm Bloodhound	Red	1	2	6	3				Shadow, Action, Attack		Blood Debt, Go again						"When this attacks, you may banish a card from your hand. If it's Shadow, this gets **go again**.
 
 **Blood Debt**"	Shadow Action - Attack						
