@@ -1469,6 +1469,9 @@ fCNzFrbKLkdgtrnMdp7D8	Bolt'n' Shot	Blue	3	0	2	3				Ranger, Action, Arrow, Attack
 Fmf8trg9w8B8BBbWrf8w9	Boltyn						20	4		Light, Warrior, Hero, Young			Attack Reaction		Go again		Charge	"If you've charged this turn, your attacks get +1{p} while defended by an attack action card.
 
 **Attack Reaction** - Banish a card from your soul: Target attack with {p} greater than its base gets **go again**."	Light Warrior Hero - Young			No			No
+97njFhLdTHwj8TK7D8KGj	Bonded Burial	Red	1	1	5	2				Necromancer, Action, Attack								When this hits a hero, you may destroy an ally you control or discard an ally. If you do, they discard a card.	Necromancer Action - Attack						
+hBhC9FL88PtWnwBNDtgjj	Bonded Burial	Yellow	2	1	4	2				Necromancer, Action, Attack								When this hits a hero, you may destroy an ally you control or discard an ally. If you do, they discard a card.	Necromancer Action - Attack						
+bhfRnWP89zjgNhHHLMGWL	Bonded Burial	Blue	3	1	3	2				Necromancer, Action, Attack								When this hits a hero, you may destroy an ally you control or discard an ally. If you do, they discard a card.	Necromancer Action - Attack						
 wJtCpBD9Hd8TzNRghPzFM	Bonds of Agony	Blue	3	0	1	3				Assassin, Action, Attack		Stealth						"**Stealth**
 
 If you've played or activated 3 or more attack reactions this chain link, this gets +3{p} and ""When this hits a hero, look at their hand and choose a card. Search their hand, deck, and graveyard and banish up to 3 cards with the same name as the chosen card. They shuffle."""	Assassin Action - Attack				No	No	
@@ -2620,6 +2623,9 @@ jmKT66trCw8kNqq7WPCtk	Corporeal Chasm	Yellow	2	3	6	3				Shadow, Action, Attack		
 jkwnpt7z7J8LzcqrHzkzh	Corporeal Chasm	Blue	3	3	5	3				Shadow, Action, Attack		Blood Debt						"When this hits, create a Gate to i'Arathael token
 
 **Blood Debt**"""	Shadow Action - Attack						
+TFbWwMzH8rrN8zHfhWbW7	Corpse Cover	Red	1			3				Necromancer, Block			Once per Turn Instant					**Once per Turn Instant** - Destroy an ally you control or discard an ally: Prevent the next 2 damage that would be dealt to you this turn. Activate this only while this card is defending.	Necromancer Block					No	
+JLCdDdq9rPzrb8pcH78JP	Corpse Cover	Yellow	2			2				Necromancer, Block			Once per Turn Instant					**Once per Turn Instant** - Destroy an ally you control or discard an ally: Prevent the next 2 damage that would be dealt to you this turn. Activate this only while this card is defending.	Necromancer Block					No	
+TrNnBmGkm8qh7wwnBthWC	Corpse Cover	Blue	3			1				Necromancer, Block			Once per Turn Instant					**Once per Turn Instant** - Destroy an ally you control or discard an ally: Prevent the next 2 damage that would be dealt to you this turn. Activate this only while this card is defending.	Necromancer Block					No	
 QPTGQGKCgD6B7fR9Nngdn	Corrosive Space Dust	Red	1	1					1	Lightning, Illusionist, Instant, Aura		Ward X						"When this leaves the arena, deal 1 arcane damage to target hero.
 
 **Ward X**, where X is 4 if this has a holo counter. Otherwise, X is 1."	Lightning Illusionist Instant - Aura					No	
@@ -7609,6 +7615,9 @@ JwdBp6DFwFkG9npJ78jbK	Mutiny on the Swiftwater	Blue	3	0		2				Pirate, Action		Go
 If you gain control of 1 or more Gold tokens this way, your next attack this turn gets **go again**.
 
 **Go again**"	Pirate Action						
+JNzc9zqFP7dwB8cnfcQbD	Mutual Sacrifice	Red	1	1	5	2				Necromancer, Action, Attack								When this hits a hero, you may destroy an ally you control or discard an ally. If you do, they lose 2{h}.	Necromancer Action - Attack						
+876f8fwwFmtQDR7fHgqzh	Mutual Sacrifice	Yellow	2	1	4	2				Necromancer, Action, Attack								When this hits a hero, you may destroy an ally you control or discard an ally. If you do, they lose 2{h}.	Necromancer Action - Attack						
+CR7KC7MkRGNpTbfDwDqLb	Mutual Sacrifice	Blue	3	1	3	2				Necromancer, Action, Attack								When this hits a hero, you may destroy an ally you control or discard an ally. If you do, they lose 2{h}.	Necromancer Action - Attack						
 jTqtrLChdJz6wnctGhpKc	Mutually Assured Destruction	Red	1	2	6	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish infected opponents' cards. Whenever you complete this contract, create a Silver token.
 
 The first time each hero plays a reaction card this chain link, create a Bloodrot Pox token under each hero's control, then banish the top card of each hero's deck."	Assassin Action - Attack				No	No	
@@ -9473,6 +9482,9 @@ PRfhDbJzRtJD66DTGcccM	Restless Magister	Red	1	0	3		3			Shadow, Necromancer, Acti
 FLwPbj7LWWnPm8rQ8TMwb	Restless Outlaw	Red	1	0	3		3			Shadow, Necromancer, Action, Zombie, Ally		Decay						"When this dies, create a Corrupted Corpse in your banished zone.
 
 **Decay**"	Shadow Necromancer Action - Zombie Ally						
+668JPbGRwcFj88kLjFkkD	Restless Plowman	Red	1	0	3		3			Shadow, Necromancer, Action, Zombie, Ally		Decay	Action	Go again				"**Action** - {t}: Gain {r}. **Go again**
+
+**Decay**"	Shadow Necromancer Action - Zombie Ally						
 PThDWrq6twrdKKcrNQ9fC	Restless Quartermaster	Red	1	0	3		3			Shadow, Necromancer, Action, Zombie, Ally		Decay						"When this hits a hero, they banish a card in their arsenal.
 
 **Decay**"	Shadow Necromancer Action - Zombie Ally					No	
@@ -10575,6 +10587,9 @@ hLmqdjm8CNt666bnBFDbq	Shadowrealm Solace	Blue	3	0		3				Shadow, Necromancer, Act
 
 **Go again**"	Shadow Necromancer Action						
 GTJwfppCK8hPcRGkKGPKC	Shadowrealm Strength	Red	1	0		3				Shadow, Necromancer, Action		Go again						"You may put a card from your banished zone into your graveyard. If it's a zombie, your next attack this turn gets +3{p}.
+
+**Go again**"	Shadow Necromancer Action						
+8MmbFrQMhL6hdrnLRqbhH	Shadowrealm Swiftness	Yellow	2	0		3				Shadow, Necromancer, Action		Go again			Go again			"You may put a card from your banished zone into your graveyard. If it's a zombie, your next attack this turn gets **go again**.
 
 **Go again**"	Shadow Necromancer Action						
 TJ87gKc7WNjWmFQdHHKhz	Shadowrealm Walker	Red	1	0	4	3				Shadow, Action, Attack		Blood Debt						"When this attacks, you may banish a card from your hand. If it's Shadow, this gets +2{p}.
