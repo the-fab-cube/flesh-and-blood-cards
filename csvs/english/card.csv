@@ -1,4 +1,13 @@
 Unique ID	Name	Color	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Traits	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Silver Age Legal	Commoner Legal	LL Legal
+KjwTjqgwqQpFwcLFCWg6B	Step through Realms	Red	1	2		3				Shadow, Action		Go again						"Your next Shadow attack this turn gets +4{p} and ""When this hits, create a Gate to i'Arathael token.""
+
+**Go again**"	Shadow Action						
+8D8gJjzDNmndFzfMGBtTg	Step through Realms	Yellow	2	2		3				Shadow, Action		Go again						"Your next Shadow attack this turn gets +3{p} and ""When this hits, create a Gate to i'Arathael token.""
+
+**Go again**"	Shadow Action						
+9BCNPft9bW98j9RrNFHDz	Step through Realms	Blue	3	2		3				Shadow, Action		Go again						"Your next Shadow attack this turn gets +2{p} and ""When this hits, create a Gate to i'Arathael token.""
+
+**Go again**"	Shadow Action						
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	Red	1	8		3				Illusionist, Action, Aura		Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay this card's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	No	
@@ -20,6 +29,23 @@ WkDkrkTDzRnqWBh7WHJfh	Absorb in Aether	Blue	3	1		2				Wizard, Defense Reaction		
 If you would be dealt damage, instead remove that many steam counters from this and prevent damage that source would deal equal to the number of steam counters removed this way.
 
 When this has no steam counters on it, destroy it."	Mechanologist Action - Item				No	No	
+RgpCmQGg9tfTwjjNwCrcD	Abyssal Bite	Blue	3	1		2				Shadow, Action		Go again, Blood Debt						"You may play this from your banished zone.
+
+Your next Shadow attack this turn gets +1{p}. **Go again**
+
+**Blood Debt**"	Shadow Action						
+JqhgfgQp8tPKCQRwBJbDj	Abyssal Force	Blue	3	1		2				Shadow, Action		Go again, Blood Debt			Overpower			"You may play this from your banished zone.
+
+Your next Shadow attack this turn gets **overpower**.
+
+**Go again**
+
+**Blood Debt**"	Shadow Action						
+CDfjhqwtJdnWgHrzPhNrt	Abyssal Rush	Blue	3	1		2				Shadow, Action		Go again, Blood Debt			Go again			"You may play this from your banished zone.
+
+Your next Shadow attack this turn gets ""When this hits, it gets **go again**."" **Go again**
+
+**Blood Debt**"	Shadow Action						
 C7jcJhrdpQTMfd7F79jK9	Achilles Accelerator					0				Mechanologist, Equipment, Legs		Arcane Barrier 1	Instant				Boost	"**Instant** - Destroy this: Gain 1 action point. Activate this only if you've **boosted** this turn.
 
 **Arcane Barrier 1**"	Mechanologist Equipment - Legs						
@@ -8276,6 +8302,15 @@ nrwKjjNcwNLF9KwWNLmHP	Perk Up	Red	1	1		2				Mechanologist, Action		Go again					
 You may {u} your hero.
 
 **Go again**"	Mechanologist Action						
+GmrnNrfCcgFCbqRQTdwwB	Permanent Interment	Red	1	0	4	3				Shadow, Action, Attack		Blood Debt						"When this attacks, you may pay up to {r}{r}{r}. Turn that many Shadow cards in your banished zone face-down. This gets +1{p} for each card turned face-down this way.
+
+**Blood Debt**"	Shadow Action - Attack						
+JtQgDtfpwQcbFLdptQGBD	Permanent Interment	Yellow	2	0	3	3				Shadow, Action, Attack		Blood Debt						"When this attacks, you may pay up to {r}{r}{r}. Turn that many Shadow cards in your banished zone face-down. This gets +1{p} for each card turned face-down this way.
+
+**Blood Debt**"	Shadow Action - Attack						
+NCgwfdMRKqhdppwwCQmnd	Permanent Interment	Blue	3	0	1	3				Shadow, Action, Attack		Blood Debt						"When this attacks, you may pay up to {r}{r}{r}. Turn that many Shadow cards in your banished zone face-down. This gets +1{p} for each card turned face-down this way.
+
+**Blood Debt**"	Shadow Action - Attack						
 pnfqGpznd7LM8JQHQJfPB	Persuasive Prognosis	Blue	3	0	1	3				Assassin, Action, Attack		Stealth						"**Stealth**
 
 When this hits a hero, banish the top card of their deck. Then look at their hand and banish a card with the same color as the banished card.
@@ -9159,6 +9194,15 @@ wL7qNGJ7hn86bLDB7kGDG	Rally the Coast Guard	Blue	3	3	5	2				Generic, Action, Att
 68J8LFDffgJ8j6RJ6FhmD	Rally the Rearguard	Red	1	2	6	2				Generic, Action, Attack			Once per Turn Instant					**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this only while this is defending.	Generic Action - Attack						
 hKdWPHqc8bLM9Nkbwmncc	Rally the Rearguard	Yellow	2	2	5	2				Generic, Action, Attack			Once per Turn Instant					**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this only while this is defending.	Generic Action - Attack						
 LQjBwTpQK6MR6LNkpnNPK	Rally the Rearguard	Blue	3	2	4	2				Generic, Action, Attack			Once per Turn Instant					**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this only while this is defending.	Generic Action - Attack						
+H7BLpD9DJMGnWcg9RNQM8	Rally the Shadow Horde	Red	1	3	7	2				Shadow, Action, Attack		Blood Debt	Once per Turn Instant					"**Once per Turn Instant** - Banish a card from your hand: This gets +2{d}. Activate this only while this card is defending.
+
+**Blood Debt**"	Shadow Action - Attack					No	
+NgJ6bTzL6dkNLpQKfdq6Q	Rally the Shadow Horde	Yellow	2	3	6	2				Shadow, Action, Attack		Blood Debt	Once per Turn Instant					"**Once per Turn Instant** - Banish a card from your hand: This gets +2{d}. Activate this only while this card is defending.
+
+**Blood Debt**"	Shadow Action - Attack					No	
+rNbMDjNzNw6CpjGn7mD9C	Rally the Shadow Horde	Blue	3	3	5	2				Shadow, Action, Attack		Blood Debt	Once per Turn Instant					"**Once per Turn Instant** - Banish a card from your hand: This gets +2{d}. Activate this only while this card is defending.
+
+**Blood Debt**"	Shadow Action - Attack					No	
 hRRgnn9nCqGDpqQNHhwJm	Rally the Underdog									Event								Draw a card. If you have less {h} than an opponent, instead draw 2 cards.	Event		No	No	No	No	No
 RpM6tCjLdHHdfWcFbJrK6	Ram Raider	Red	1	2	6	3				Shadow, Brute, Action, Attack		Blood Debt, Go again						"As an additional cost to play this, banish a random card from your hand. If a card with 6 or more {p} is banished this way, this gets **go again**.
 
