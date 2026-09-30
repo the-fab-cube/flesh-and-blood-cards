@@ -9,3 +9,4 @@
 
 09-29-26:
 - Updated script to handle Art Variations array correctly - bugfix credit: schubam
+- Updated script to have a list of cards that should be skipped while scanning types

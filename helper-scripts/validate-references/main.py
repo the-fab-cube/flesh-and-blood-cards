@@ -113,12 +113,16 @@ with open(card_filename, newline='') as csvfile:
     for row in reader:
         # TODO: Duplicate Unique ID
 
-        card_types = re.split(',\s*', row['Types'])
-        for card_type in card_types:
-            if card_type not in allowed_types:
-                print(f"Warning: unrecognized card type {card_type} in {card_filename} entry for "
-                      f"{row['Name']}. Check your spelling or add this to {type_filename}.")
-                errors = True
+        # These cards have no types and should be skipped
+        card_names_to_skip = ['Marked']
+
+        if row['Name'] not in card_names_to_skip:
+            card_types = re.split(',\s*', row['Types'])
+            for card_type in card_types:
+                if card_type not in allowed_types:
+                    print(f"Warning: unrecognized card type {card_type} in {card_filename} entry for "
+                        f"{row['Name']}. Check your spelling or add this to {type_filename}.")
+                    errors = True
 
 # Scan card-printing.csv for errors
 card_printing_filename = '../../csvs/english/card-printing.csv'
