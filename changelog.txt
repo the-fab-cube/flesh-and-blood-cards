@@ -1110,3 +1110,5 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Removed FAB407 per info from maintainers of CardVault - update credit: manwaring
 - Fixed missing foilings for SUP239-SUP243
 - Fixed functional text for Redwood Hammer - bugfix credit: schubam
+- Fixed keyword spelling for Hyper Scrapper (blue) and Meganetic Lockwave - bugfix crredit: RaphaelDDL
+- Removed extra space in artist for JDG019 - bugfix crredit: RaphaelDDL
