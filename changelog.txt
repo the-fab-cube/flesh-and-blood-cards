@@ -1102,6 +1102,10 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added various TCGPlayer IDs
 - Fixed typo in name of Armory Deck - Maxx - bugfix credit: IAmThermite
 
+09-29-26:
+- Updated CC legality for Brand with Cinderclaw and Entwine Lightning - update credit: manwaring
+- Updated Silver Age Legality for Absorb in Aether, Beaten Trackers, Beckoning Haunt, Briar, Chane, Deathly Delight, Emeritus Scolding, Flourish, Harmonized Kodachi, `Ira, Crimson Haze`, Kano, Kayo, Lightning Press, Oldhim, Oscilio, Pulping, Sigil of Suffering, Sirens of Safe Harbor, Snapback, and Vantom Wraith - update credit: manwaring
+
 TODO:
 - Added set data for IAR
 - Added card data for IAR
