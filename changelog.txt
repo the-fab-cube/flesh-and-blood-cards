@@ -1115,7 +1115,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 TODO:
 - Added set data for IAR
-- Added card data for IAR - data entry assistance: manwaring, shubam
+- Added card data for IAR - data entry assistance: manwaring, shubam, Aegisworn
 - Added printing data for IAR000-IAR666
 - Updated name of Gate to i'Arathael and Tremor of i'Arathael
 - Updated functional text of Hell Hammer, Levia, `Levia, Shadowborne Abomination`
