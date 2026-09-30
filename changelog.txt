@@ -1102,3 +1102,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added image data for CON005-CON008, FAB208-FAB222, FAB225-FAB228, FAB230, FAB289, FAB295-FAB304, FAB340, FAB360-FAB369, FAB396-FAB398, FAB400, FAB405-FAB413, FAB415-FAB424, FAB430-FAB442, HER068, HER118, HER136-HER143, HER150-HER153, JDG045-JDG061, LGS428-LGS430, LGS448, WIN046-WIN053 - update credit: manwaring
 - Added various TCGPlayer IDs
 - Fixed typo in name of Armory Deck - Maxx - bugfix credit: IAmThermite
+
+09-29-26:
+- Updated CC legality for Brand with Cinderclaw and Entwine Lightning - update credit: manwaring
+- Updated Silver Age Legality for Absorb in Aether, Beaten Trackers, Beckoning Haunt, Briar, Chane, Deathly Delight, Emeritus Scolding, Flourish, Harmonized Kodachi, `Ira, Crimson Haze`, Kano, Kayo, Lightning Press, Oldhim, Oscilio, Pulping, Sigil of Suffering, Sirens of Safe Harbor, Snapback, and Vantom Wraith - update credit: manwaring
