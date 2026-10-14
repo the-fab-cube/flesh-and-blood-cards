@@ -1,4 +1,99 @@
 Unique ID	Name	Color	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Traits	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Silver Age Legal	Commoner Legal	LL Legal
+NMwWqNFbRdFC9hj79nknm	Unstable Plasma Pistol				2					Chaos, Mechanologist, Weapon, Pistol, 2H			Action	Attack			Boost	"**Action** - {r}{r}: **Attack**
+
+If you've banished a card an opponent owns from boosting this turn, this gets +2{p}."	Chaos Mechanologist Weapon - Pistol (2H)						
+JzkpPjgLfhPC8nqkwLFch	Madness Spiral	Blue	3	2	4	3				Chaos, Mechanologist, Action, Attack		Boost					Boost	"**Boost**
+
+If you would banish this from boosting, instead banish it and the top card of each other hero's deck to boost."	Chaos Mechanologist Action - Attack					No	
+Q9mzkqzqwF8J9pR6FfnLf	Revere the Copper Idol	Blue	3	0		3				Mechanologist, Instant		Legendary					Boost	"**Legendary**
+
+When this is banished from boosting, shuffle this into its owner's deck.
+
+Shuffle up to 3 Mechanologist action cards with different names from your banished zone into your deck."	Mechanologist Instant				No	No	
+zGqKCptTKgPgqtgWBJGDw	Exertion									Generic, Token, Disease, Aura								"Whenever you play a card from hand, lose 1{h}.
+
+At the beginning of your end phase, destroy this."	Generic Token - Disease Aura						
+jDkMK8ncQnwRBGbRqw7tB	Mortimer's Lab									Outbreak, Macro								"The first time you hit an opposing hero each turn, they reveal the top card of their deck. If it's;
+- Red, create a Bloodrot Pox token under their control.
+- Yellow, create an Exertion token under their control.
+- Blue, create an Inertia token under their control."	Outbreak Macro						
+gHj77G8cGHTfkD779c9jK	Mortimer, Living Virus						20	4		Chaos, Assassin, Hero, Young								**Instant** - {r}, {t}: Create a token copy of a disease token you control under each opponent's control. Activate this only during your turn.	Chaos Assassin Hero - Young			No			No
+8HF69TPRhGhp9GCkjrqJz	Min, Genius						40	4		Chaos, Mechanologist, Hero								"Cards you own are Mechanologist.
+
+At the beginning of your end phase, flip this."	Chaos Mechanologist Hero		No		No	No	
+9TcBHhhCRpnM8z8p67PBM	Min, Mad						40	4		Chaos, Mechanologist, Hero								"Cards you own lose and can't gain class and talent types.
+
+At the beginning of your end phase, flip this."	Chaos Mechanologist Hero		No		No	No	
+6fdbbRdJnpTdgbHqmdtJm	Min, Half-Genius						20	4		Chaos, Mechanologist, Hero, Young								"Cards you own are Mechanologist.
+
+At the beginning of your end phase, flip this."	Chaos Mechanologist Hero - Young			No			No
+dB7CprqC9mgQTBqnQtjz8	Min, Half-Mad						20	4		Chaos, Mechanologist, Hero, Young								"Cards you own lose and can't gain class and talent types.
+
+At the beginning of your end phase, flip this."	Chaos Mechanologist Hero - Young			No			No
+kjK7Hm7RRHLbJ9PWBHKf9	Vyle, Catalyst of Collapse						40	4		Chaos, Ranger, Hero			Instant					"**Instant** - {r}{r}, {t}: Each hero puts the top card of their deck face-up into their arsenal. Activate this only during your turn.
+
+If an opponent has a face-up card in their arsenal, your arrow attacks get +1{p}."	Chaos Ranger Hero		No		No	No	
+K7JKp6wbHJBBffP9nnJFB	Vyle						20	4		Chaos, Ranger, Hero, Young			Instant					"**Instant** - {r}{r}, {t}: Each hero puts the top card of their deck face-up into their arsenal. Activate this only during your turn.
+
+If an opponent has a face-up card in their arsenal, your arrow attacks get +1{p}."	Chaos Ranger Hero - Young			No			No
+FpnmfwjL9jhPPfdQGm8w9	Curative Ceremony	Red	1	0	4	3				Chaos, Action, Attack		Cure, Go again, Veil						"As an additional cost to play this, each hero **cures** a disease they control if able. Choose a mode for each disease cured this way;
+
+- This gets +2{p}.
+- This gets **go again**.
+- This gets **veil**."	Chaos Action - Attack				No	No	
+DBtMkQRNHHpqDPdkCnkMf	Extinction Level Event	Red	1	0		3				Chaos, Action, Aura								"When this enters the arena, name a disease token. Disease tokens with the chosen name lose and can't gain abilities while this is in the arena.
+
+At the start of your turn, if there are 33 or more disease tokens in the arena, you win the game."	Chaos Action - Aura				No	No	
+CjRhCdD7DWFkK9mKB89PN	Swap Spit	Red	1	0		3				Chaos, Defense Reaction								When this defends, choose a disease token you control at random. Target opponent chooses a disease token they control at random. Give them to each other.	Chaos Defense Reaction					No	
+TDFTtctpWr79RJkHtRd8F	Swap Spit	Yellow	2	0		2				Chaos, Defense Reaction								When this defends, choose a disease token you control at random. Target opponent chooses a disease token they control at random. Give them to each other.	Chaos Defense Reaction					No	
+nwCTgWjgJRmmBN6Nkjph6	Swap Spit	Blue	3	0		1				Chaos, Defense Reaction								When this defends, choose a disease token you control at random. Target opponent chooses a disease token they control at random. Give them to each other.	Chaos Defense Reaction					No	
+7RQbHjJQFCDprbhb8Wpjn	Incite Aggression	Red	1	1		3				Chaos, Action		Go again						"Each hero puts the top card of their deck face-up into their arsenal. If a red card is put face-up into an arsenal this way, your next attack this turn gets **go again**.
+
+**Go again**"	Chaos Action					No	
+GcGgCD8wK8FHJ7cPCPwBP	Incite Resolve	Blue	3	1		3				Chaos, Action		Go again						"Each hero puts the top card of their deck face-up into their arsenal. If a blue card is put face-up into an arsenal this way, your next attack this turn gets +2{p}.
+
+**Go again**"	Chaos Action					No	
+FHDbh8LrjpQFGqFFCbTpf	Exertion Bloom	Yellow	2	3		3				Chaos, Instant								"This costs {r}{r}{r} less to play during your turn.
+
+Create an Exertion token under each hero's control."	Chaos Instant						
+KWPBmChF7BjFcMHh9wwpp	Raging Streets	Yellow	2	0						Chaos, Instant								Choose a random non-equipment card on the active chain link. It gets +3{p} +3{d} this chain link.	Chaos Instant						
+JNMBTkhMTzGLRWFDR6WJ6	Quiet Streets	Yellow	2	0						Chaos, Instant								Choose a random non-equipment card on the active chain link. It gets -3{p} -3{d} this chain link.	Chaos Instant						
+jFqkWjJM7JfJmKjRRHTcn	Huxley, Racketeer						38	4		Assassin, Mechanologist, Hero							Stealth, Boost	Whenever you banish an action card with stealth from boosting, you may {t} this. If you do, you may play the banished card as though it were an instant this turn.	Assassin Mechanologist Hero		No		No	No	
+Pz6BNBRPcdNHCwKtTWfjG	Huxley						19	4		Assassin, Mechanologist, Hero, Young							Stealth, Boost	Whenever you banish an action card with stealth from boosting, you may {t} this. If you do, you may play the banished card as though it were an instant this turn.	Assassin Mechanologist Hero - Young			No			No
+Nw6hwpnJfGtBnM798jPGh	Azalea, Ace of Spades						38	4		Assassin, Ranger, Hero			Instant		Go again, Veil		Stealth	**Instant** - {t}, put a card from your arsenal on the bottom of your deck: Put the top card of your deck face-up into your arsenal. If it has stealth, it gets +1{p} and **go again** this turn. If its an arrow, it gets **veil** this turn.	Assassin Ranger Hero		No		No	No	
+HgLFRQrGzgLbTC6MBR8Dk	Azalea, Lone Vigilante						19	4		Assassin, Ranger, Hero, Young			Instant		Go again, Veil		Stealth	**Instant** - {t}, put a card from your arsenal on the bottom of your deck: Put the top card of your deck face-up into your arsenal. If it has stealth, it gets +1{p} and **go again** this turn. If its an arrow, it gets **veil** this turn.	Assassin Ranger Hero - Young			No			No
+LKgRPgjPC6jCczFRw7jCB	α-01, First Cogwarden						19	4		Mechanologist, Ranger, Hero, Young			Instant		Go again		Boost	"**Instant** - {r}, {t}: Put an arrow you've banished from boosting this turn face-up into your arsenal. If you do, put two +1{p} counters on it.
+
+**Instant** - {r}, {t}: The next arrow with a +1{p} counter you play this turn gets **go again**."	Mechanologist Ranger Hero - Young			No			No
+hmcmdFzjHFTmTwNtDTGTh	Pauper's Knife				1					Assassin, Weapon, Dagger, 1H		Go again	Action	Attack, Go again				**Action** - {r}{r}, {t}: **Attack**. **Go again**	Assassin Weapon - Dagger (1H)						
+W89FbdcbpPPtcRb7r8bcW	Patient Zero	Red	1	0	3	3				Assassin, Action, Attack		Stealth						"**Stealth**
+
+When this hits a hero, give them a disease token you control."	Assassin Action - Attack						
+tf86PwPg7qpG6fFkLqDPB	Patient Zero	Yellow	2	0	2	3				Assassin, Action, Attack		Stealth						"**Stealth**
+
+When this hits a hero, give them a disease token you control."	Assassin Action - Attack						
+fmQhbRpzhgJCBgpCrpncC	Patient Zero	Blue	3	0	1	3				Assassin, Action, Attack		Stealth						"**Stealth**
+
+When this hits a hero, give them a disease token you control."	Assassin Action - Attack						
+9BBbJhRkJLwkPHPHQwTcK	Cogwerx Dueling Pistol				2					Mechanologist, Weapon, Pistol, 1H			Action	Attack, Go again				"**Action** - {t}, remove a steam counter from this: **Attack**
+
+**Action** - {r}, {t}: If this has no steam counters, put a steam counter on it. **Go again**"	Mechanologist Weapon - Pistol (1H)						
+BFHCGgGGPN8bLDBzhBWMB	Bootlegger Bust-Up	Red	1	3	6	3				Mechanologist, Action, Attack		Boost						"**Boost**
+
+This gets +2{p} for each non-Mechanologist card banished from boosting this."	Mechanologist Action - Attack						
+bfgQWP97NK6FQDGWCdHz9	Bootlegger Bust-Up	Yellow	2	3	5	3				Mechanologist, Action, Attack		Boost						"**Boost**
+
+This gets +2{p} for each non-Mechanologist card banished from boosting this."	Mechanologist Action - Attack						
+NHJC7zwG6mFrrGtndNgFp	Bootlegger Bust-Up	Blue	3	3	4	3				Mechanologist, Action, Attack		Boost						"**Boost**
+
+This gets +2{p} for each non-Mechanologist card banished from boosting this."	Mechanologist Action - Attack						
+DGNGRqjMqnjM8cRHF9wKM	One-Click Pinpointer									Ranger, Weapon, Bow, 1H			Action	Go again				**Action** - {t}: Put all cards from your arsenal on the bottom of your deck. Put an arrow from your hand face-up into your arsenal. If you control a tapped bow, this costs {r} more to activate. **Go again**	Ranger Weapon - Bow (1H)						
+7kB6HrHRkBLGN8qDmptHJ	Max-Tension Shot	Red	1	1	5	3				Ranger, Action, Arrow, Attack		Go again						When this attacks, reveal the top card of your deck. If it's red, this gets **go again**.	Ranger Action - Arrow Attack						
+WcRzC9HDdLLRqjHggtqH8	Cure-All Elixir			1		3				Generic, Action		Cure, Go again						"Your next attack this turn gets +3{p}.
+
+You may **cure** a disease you control. If you do, gain 1{h}.
+
+**Go again**"	Generic Action					No	
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	Red	1	8		3				Illusionist, Action, Aura		Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay this card's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	No	

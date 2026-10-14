@@ -1,5 +1,3450 @@
 [
     {
+        "unique_id": "NMwWqNFbRdFC9hj79nknm",
+        "name": "Unstable Plasma Pistol",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "2",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Mechanologist",
+            "Weapon",
+            "Pistol",
+            "2H"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [
+            "Action"
+        ],
+        "ability_and_effect_keywords": [
+            "Attack"
+        ],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [
+            "Boost"
+        ],
+        "functional_text": "**Action** - {r}{r}: **Attack**\n\nIf you've banished a card an opponent owns from boosting this turn, this gets +2{p}.",
+        "functional_text_plain": "Action - {r}{r}: Attack\nIf you've banished a card an opponent owns from boosting this turn, this gets +2{p}.",
+        "type_text": "Chaos Mechanologist Weapon - Pistol (2H)",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "zDpbTTz6GhwNTgtRwpqmD",
+                "set_printing_unique_id": "8kWtQKNbFMWHW6WTRjzH8",
+                "id": "AMG002",
+                "set_id": "AMG",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Satriasa"
+                ],
+                "art_variations": [],
+                "flavor_text": "Around and around he went. An everlasting loop of insanity.",
+                "flavor_text_plain": "Around and around he went. An everlasting loop of insanity.",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMG002-RF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "JzkpPjgLfhPC8nqkwLFch",
+        "name": "Madness Spiral",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "2",
+        "power": "4",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Mechanologist",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Boost"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [
+            "Boost"
+        ],
+        "functional_text": "**Boost**\n\nIf you would banish this from boosting, instead banish it and the top card of each other hero's deck to boost.",
+        "functional_text_plain": "Boost\nIf you would banish this from boosting, instead banish it and the top card of each other hero's deck to boost.",
+        "type_text": "Chaos Mechanologist Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "7Ltfg9rk7kr9fcwhcgqLt",
+                "set_printing_unique_id": "8kWtQKNbFMWHW6WTRjzH8",
+                "id": "AMG023",
+                "set_id": "AMG",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Carlos Cruchaga"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMG023.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "Q9mzkqzqwF8J9pR6FfnLf",
+        "name": "Revere the Copper Idol",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "0",
+        "power": "",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Mechanologist",
+            "Instant"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Legendary"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [
+            "Boost"
+        ],
+        "functional_text": "**Legendary**\n\nWhen this is banished from boosting, shuffle this into its owner's deck.\n\nShuffle up to 3 Mechanologist action cards with different names from your banished zone into your deck.",
+        "functional_text_plain": "Legendary\nWhen this is banished from boosting, shuffle this into its owner's deck.\nShuffle up to 3 Mechanologist action cards with different names from your banished zone into your deck.",
+        "type_text": "Mechanologist Instant",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "MMCnprBHBghRMcBJkWQ66",
+                "set_printing_unique_id": "8kWtQKNbFMWHW6WTRjzH8",
+                "id": "AMG027",
+                "set_id": "AMG",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "M",
+                "expansion_slot": false,
+                "artists": [
+                    "Bramasta Aji"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMG027.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "zGqKCptTKgPgqtgWBJGDw",
+        "name": "Exertion",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Generic",
+            "Token",
+            "Disease",
+            "Aura"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Whenever you play a card from hand, lose 1{h}.\n\nAt the beginning of your end phase, destroy this.",
+        "functional_text_plain": "Whenever you play a card from hand, lose 1{h}.\nAt the beginning of your end phase, destroy this.",
+        "type_text": "Generic Token - Disease Aura",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "cards_referenced_by": [
+            "FHDbh8LrjpQFGqFFCbTpf",
+            "jDkMK8ncQnwRBGbRqw7tB"
+        ],
+        "printings": [
+            {
+                "unique_id": "JrhWR8zBPgg6NBDCzmQLG",
+                "set_printing_unique_id": "P6wF7qPd9tkFrNKT6zLhg",
+                "id": "SLV035",
+                "set_id": "SLV",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Narendra B Adi"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SLV035.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "jDkMK8ncQnwRBGbRqw7tB",
+        "name": "Mortimer's Lab",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Outbreak",
+            "Macro"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "The first time you hit an opposing hero each turn, they reveal the top card of their deck. If it's;\n- Red, create a Bloodrot Pox token under their control.\n- Yellow, create an Exertion token under their control.\n- Blue, create an Inertia token under their control.",
+        "functional_text_plain": "The first time you hit an opposing hero each turn, they reveal the top card of their deck. If it's;\n- Red, create a Bloodrot Pox token under their control.\n- Yellow, create an Exertion token under their control.\n- Blue, create an Inertia token under their control.",
+        "type_text": "Outbreak Macro",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "referenced_cards": [
+            "drbBwrNtMRPTJ79LBQWWB",
+            "zGqKCptTKgPgqtgWBJGDw",
+            "G6kbCqnBzwjhrb88Q6K7w"
+        ],
+        "printings": [
+            {
+                "unique_id": "nKmkKqtcFtDb8dk79Q6cL",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK000",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Nuttapong Thanawiwitaporn"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK000.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "gHj77G8cGHTfkD779c9jK",
+        "name": "Mortimer, Living Virus",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "20",
+        "intelligence": "4",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Assassin",
+            "Hero",
+            "Young"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Instant** - {r}, {t}: Create a token copy of a disease token you control under each opponent's control. Activate this only during your turn.",
+        "functional_text_plain": "Instant - {r}, {t}: Create a token copy of a disease token you control under each opponent's control. Activate this only during your turn.",
+        "type_text": "Chaos Assassin Hero - Young",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": false,
+        "commoner_legal": true,
+        "ll_legal": false,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "mp7wgknJWHQLmr6HLbzjM",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK001",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Othon Nikolaidis"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK001.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "t9gKk9kfL6wh6nT9LQkFQ",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK001",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Othon Nikolaidis"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK001-MV.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "znPq9BcNPtDdLtr8wpnMf",
+                        "is_front": true,
+                        "is_DFC": true
+                    }
+                ]
+            },
+            {
+                "unique_id": "znPq9BcNPtDdLtr8wpnMf",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK001",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Othon Nikolaidis"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK001-MV_BACK.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "znPq9BcNPtDdLtr8wpnMf",
+                        "is_front": false,
+                        "is_DFC": true
+                    }
+                ]
+            },
+            {
+                "unique_id": "dWkB8GCwDR7wT9g9cnTkR",
+                "set_printing_unique_id": "P6wF7qPd9tkFrNKT6zLhg",
+                "id": "SLV001",
+                "set_id": "SLV",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Othon Nikolaidis"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SLV001.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "8HF69TPRhGhp9GCkjrqJz",
+        "name": "Min, Genius",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "40",
+        "intelligence": "4",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Mechanologist",
+            "Hero"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Cards you own are Mechanologist.\n\nAt the beginning of your end phase, flip this.",
+        "functional_text_plain": "Cards you own are Mechanologist.\nAt the beginning of your end phase, flip this.",
+        "type_text": "Chaos Mechanologist Hero",
+        "played_horizontally": false,
+        "blitz_legal": false,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "wMPb6n6RrJ7q7qfF8Dk7G",
+                "set_printing_unique_id": "8kWtQKNbFMWHW6WTRjzH8",
+                "id": "AMG001",
+                "set_id": "AMG",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "M",
+                "expansion_slot": false,
+                "artists": [
+                    "Nathaniel Himawan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMG001-RF.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "NhcJ6qmQLhpk7dQkzDmrN",
+                        "is_front": true,
+                        "is_DFC": true
+                    }
+                ]
+            },
+            {
+                "unique_id": "p767TzdGzNJdpMkrNwzcb",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK006",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Nathaniel Himawan"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK006-MV.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "67BN9btfdKjtkpqmwfmzb",
+                        "is_front": true,
+                        "is_DFC": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unique_id": "9TcBHhhCRpnM8z8p67PBM",
+        "name": "Min, Mad",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "40",
+        "intelligence": "4",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Mechanologist",
+            "Hero"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Cards you own lose and can't gain class and talent types.\n\nAt the beginning of your end phase, flip this.",
+        "functional_text_plain": "Cards you own lose and can't gain class and talent types.\nAt the beginning of your end phase, flip this.",
+        "type_text": "Chaos Mechanologist Hero",
+        "played_horizontally": false,
+        "blitz_legal": false,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "NhcJ6qmQLhpk7dQkzDmrN",
+                "set_printing_unique_id": "8kWtQKNbFMWHW6WTRjzH8",
+                "id": "AMG001",
+                "set_id": "AMG",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "M",
+                "expansion_slot": false,
+                "artists": [
+                    "Nathaniel Himawan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMG001-RF_BACK.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "NhcJ6qmQLhpk7dQkzDmrN",
+                        "is_front": false,
+                        "is_DFC": true
+                    }
+                ]
+            },
+            {
+                "unique_id": "67BN9btfdKjtkpqmwfmzb",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK006",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Nathaniel Himawan"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK006-MV_BACK.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "67BN9btfdKjtkpqmwfmzb",
+                        "is_front": false,
+                        "is_DFC": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unique_id": "6fdbbRdJnpTdgbHqmdtJm",
+        "name": "Min, Half-Genius",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "20",
+        "intelligence": "4",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Mechanologist",
+            "Hero",
+            "Young"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Cards you own are Mechanologist.\n\nAt the beginning of your end phase, flip this.",
+        "functional_text_plain": "Cards you own are Mechanologist.\nAt the beginning of your end phase, flip this.",
+        "type_text": "Chaos Mechanologist Hero - Young",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": false,
+        "commoner_legal": true,
+        "ll_legal": false,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "NQNngwzqDnfbhRJjtckqk",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK007",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Nathaniel Himawan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK007.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "TLgRDMQDgHPRcFDzzQQgQ",
+                        "is_front": true,
+                        "is_DFC": true
+                    }
+                ]
+            },
+            {
+                "unique_id": "f7FdpJddKPqzG6nzKm6Fw",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK007",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Nathaniel Himawan"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK007-MV.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "RFQrTdPkfNBcqhpdNGRC7",
+                        "is_front": true,
+                        "is_DFC": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unique_id": "dB7CprqC9mgQTBqnQtjz8",
+        "name": "Min, Half-Mad",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "20",
+        "intelligence": "4",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Mechanologist",
+            "Hero",
+            "Young"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Cards you own lose and can't gain class and talent types.\n\nAt the beginning of your end phase, flip this.",
+        "functional_text_plain": "Cards you own lose and can't gain class and talent types.\nAt the beginning of your end phase, flip this.",
+        "type_text": "Chaos Mechanologist Hero - Young",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": false,
+        "commoner_legal": true,
+        "ll_legal": false,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "TLgRDMQDgHPRcFDzzQQgQ",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK007",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Nathaniel Himawan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK007_BACK.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "TLgRDMQDgHPRcFDzzQQgQ",
+                        "is_front": false,
+                        "is_DFC": true
+                    }
+                ]
+            },
+            {
+                "unique_id": "RFQrTdPkfNBcqhpdNGRC7",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK007",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Nathaniel Himawan"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK007-MV_BACK.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "RFQrTdPkfNBcqhpdNGRC7",
+                        "is_front": false,
+                        "is_DFC": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unique_id": "kjK7Hm7RRHLbJ9PWBHKf9",
+        "name": "Vyle, Catalyst of Collapse",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "40",
+        "intelligence": "4",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Ranger",
+            "Hero"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [
+            "Instant"
+        ],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Instant** - {r}{r}, {t}: Each hero puts the top card of their deck face-up into their arsenal. Activate this only during your turn.\n\nIf an opponent has a face-up card in their arsenal, your arrow attacks get +1{p}.",
+        "functional_text_plain": "Instant - {r}{r}, {t}: Each hero puts the top card of their deck face-up into their arsenal. Activate this only during your turn.\nIf an opponent has a face-up card in their arsenal, your arrow attacks get +1{p}.",
+        "type_text": "Chaos Ranger Hero",
+        "played_horizontally": false,
+        "blitz_legal": false,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "t78FrWJ8DDMGKBnrwnJP8",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK012",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Sam Yang"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK012.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "TFRBGp9F6KhfkT7R9hq8m",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK012",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Sam Yang"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK012-MV.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "fQF9f9WtQFczLjckmhfzC",
+                        "is_front": true,
+                        "is_DFC": false
+                    }
+                ]
+            },
+            {
+                "unique_id": "fQF9f9WtQFczLjckmhfzC",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK012",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Sam Yang"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK012-MV_BACK.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "fQF9f9WtQFczLjckmhfzC",
+                        "is_front": false,
+                        "is_DFC": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unique_id": "K7JKp6wbHJBBffP9nnJFB",
+        "name": "Vyle",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "20",
+        "intelligence": "4",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Ranger",
+            "Hero",
+            "Young"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [
+            "Instant"
+        ],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Instant** - {r}{r}, {t}: Each hero puts the top card of their deck face-up into their arsenal. Activate this only during your turn.\n\nIf an opponent has a face-up card in their arsenal, your arrow attacks get +1{p}.",
+        "functional_text_plain": "Instant - {r}{r}, {t}: Each hero puts the top card of their deck face-up into their arsenal. Activate this only during your turn.\nIf an opponent has a face-up card in their arsenal, your arrow attacks get +1{p}.",
+        "type_text": "Chaos Ranger Hero - Young",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": false,
+        "commoner_legal": true,
+        "ll_legal": false,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "D6tkHMk89Nrmbmbhp7cBz",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK013",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Sam Yang"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK013.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "6qfbfQcG8hNTMqp9wJTz8",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK013",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Sam Yang"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK013-MV.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "dGPcwzM8mBnHkbTB7wncJ",
+                        "is_front": true,
+                        "is_DFC": false
+                    }
+                ]
+            },
+            {
+                "unique_id": "dGPcwzM8mBnHkbTB7wncJ",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK013",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Sam Yang"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK013-MV_BACK.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "dGPcwzM8mBnHkbTB7wncJ",
+                        "is_front": false,
+                        "is_DFC": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unique_id": "FpnmfwjL9jhPPfdQGm8w9",
+        "name": "Curative Ceremony",
+        "color": "Red",
+        "pitch": "1",
+        "cost": "0",
+        "power": "4",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Cure",
+            "Go again",
+            "Veil"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "As an additional cost to play this, each hero **cures** a disease they control if able. Choose a mode for each disease cured this way;\n\n- This gets +2{p}.\n- This gets **go again**.\n- This gets **veil**.",
+        "functional_text_plain": "As an additional cost to play this, each hero cures a disease they control if able. Choose a mode for each disease cured this way;\n\nThis gets +2{p}.\nThis gets go again.\nThis gets veil.",
+        "type_text": "Chaos Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "f7B7ccftKzTFzdtb7cPhj",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK023",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "M",
+                "expansion_slot": false,
+                "artists": [
+                    "MJ Fetesio"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK023.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "M9qpKNGbqFHMMHMb9Mc7z",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK023",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "M",
+                "expansion_slot": false,
+                "artists": [
+                    "MJ Fetesio"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK023.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "DBtMkQRNHHpqDPdkCnkMf",
+        "name": "Extinction Level Event",
+        "color": "Red",
+        "pitch": "1",
+        "cost": "0",
+        "power": "",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Action",
+            "Aura"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "When this enters the arena, name a disease token. Disease tokens with the chosen name lose and can't gain abilities while this is in the arena.\n\nAt the start of your turn, if there are 33 or more disease tokens in the arena, you win the game.",
+        "functional_text_plain": "When this enters the arena, name a disease token. Disease tokens with the chosen name lose and can't gain abilities while this is in the arena.\nAt the start of your turn, if there are 33 or more disease tokens in the arena, you win the game.",
+        "type_text": "Chaos Action - Aura",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "7cRnNGwhPPkQcRddQjtzP",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK027",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "M",
+                "expansion_slot": false,
+                "artists": [
+                    "Ismatulloh"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK027.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "jtnBcTgmrc9DD8NtbcJCR",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK027",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "M",
+                "expansion_slot": false,
+                "artists": [
+                    "Ismatulloh"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK027.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "CjRhCdD7DWFkK9mKB89PN",
+        "name": "Swap Spit",
+        "color": "Red",
+        "pitch": "1",
+        "cost": "0",
+        "power": "",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Defense Reaction"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "When this defends, choose a disease token you control at random. Target opponent chooses a disease token they control at random. Give them to each other.",
+        "functional_text_plain": "When this defends, choose a disease token you control at random. Target opponent chooses a disease token they control at random. Give them to each other.",
+        "type_text": "Chaos Defense Reaction",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "wKCFcGWrbrBHTr7cFCqFM",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK034",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK034.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "jfq86DTQnjJBRjKFJrdqb",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK034",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK034.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "TDFTtctpWr79RJkHtRd8F",
+        "name": "Swap Spit",
+        "color": "Yellow",
+        "pitch": "2",
+        "cost": "0",
+        "power": "",
+        "defense": "2",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Defense Reaction"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "When this defends, choose a disease token you control at random. Target opponent chooses a disease token they control at random. Give them to each other.",
+        "functional_text_plain": "When this defends, choose a disease token you control at random. Target opponent chooses a disease token they control at random. Give them to each other.",
+        "type_text": "Chaos Defense Reaction",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "dKnpDPpDrgJMWchrN6jWM",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK035",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK035.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "gp6TQ7p8rNw9KP6QdcNFd",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK035",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK035.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "nwCTgWjgJRmmBN6Nkjph6",
+        "name": "Swap Spit",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "0",
+        "power": "",
+        "defense": "1",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Defense Reaction"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "When this defends, choose a disease token you control at random. Target opponent chooses a disease token they control at random. Give them to each other.",
+        "functional_text_plain": "When this defends, choose a disease token you control at random. Target opponent chooses a disease token they control at random. Give them to each other.",
+        "type_text": "Chaos Defense Reaction",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "KbMnfMqKpFNQtnT8hLTkW",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK036",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK036.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "7pFgg8cPJW7LjQq7BLwdM",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK036",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK036.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "7RQbHjJQFCDprbhb8Wpjn",
+        "name": "Incite Aggression",
+        "color": "Red",
+        "pitch": "1",
+        "cost": "1",
+        "power": "",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Action"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Go again"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Each hero puts the top card of their deck face-up into their arsenal. If a red card is put face-up into an arsenal this way, your next attack this turn gets **go again**.\n\n**Go again**",
+        "functional_text_plain": "Each hero puts the top card of their deck face-up into their arsenal. If a red card is put face-up into an arsenal this way, your next attack this turn gets go again.\nGo again",
+        "type_text": "Chaos Action",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "mhTQw8hbwKdf8ntcbTdb8",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK037",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK037.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "9MqFTf9QHChgbdmmpWdR8",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK037",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK037.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "GcGgCD8wK8FHJ7cPCPwBP",
+        "name": "Incite Resolve",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "1",
+        "power": "",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Action"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Go again"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Each hero puts the top card of their deck face-up into their arsenal. If a blue card is put face-up into an arsenal this way, your next attack this turn gets +2{p}.\n\n**Go again**",
+        "functional_text_plain": "Each hero puts the top card of their deck face-up into their arsenal. If a blue card is put face-up into an arsenal this way, your next attack this turn gets +2{p}.\nGo again",
+        "type_text": "Chaos Action",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "8T7JDMCzgHgMBwLgC8Fbf",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK039",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Rio Sabda"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK039.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "pfG9NDfMtRDtn6BFQKgmj",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK039",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Rio Sabda"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK039.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "FHDbh8LrjpQFGqFFCbTpf",
+        "name": "Exertion Bloom",
+        "color": "Yellow",
+        "pitch": "2",
+        "cost": "3",
+        "power": "",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Instant"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "This costs {r}{r}{r} less to play during your turn.\n\nCreate an Exertion token under each hero's control.",
+        "functional_text_plain": "This costs {r}{r}{r} less to play during your turn.\nCreate an Exertion token under each hero's control.",
+        "type_text": "Chaos Instant",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "referenced_cards": [
+            "zGqKCptTKgPgqtgWBJGDw"
+        ],
+        "printings": [
+            {
+                "unique_id": "pmJm78Tw6tDHpqfm6FJfw",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK066",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Arkoii"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK066.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "dWPbrHjjdCM6fwRtndqpt",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK066",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Arkoii"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK066.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "KWPBmChF7BjFcMHh9wwpp",
+        "name": "Raging Streets",
+        "color": "Yellow",
+        "pitch": "2",
+        "cost": "0",
+        "power": "",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Instant"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Choose a random non-equipment card on the active chain link. It gets +3{p} +3{d} this chain link.",
+        "functional_text_plain": "Choose a random non-equipment card on the active chain link. It gets +3{p} +3{d} this chain link.",
+        "type_text": "Chaos Instant",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "CfDQbCCPwWK8bpw6RC8fR",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK069",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Arkoii"
+                ],
+                "art_variations": [],
+                "flavor_text": "\"The human mind fails in moments of shared terror, seeming to act almost at random.\" - Min, Genius",
+                "flavor_text_plain": "\"The human mind fails in moments of shared terror, seeming to act almost at random.\" - Min, Genius",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK069.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "QQ99GzdJzKHPf6qnqgNJ8",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK069",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Arkoii"
+                ],
+                "art_variations": [],
+                "flavor_text": "\"The human mind fails in moments of shared terror, seeming to act almost at random.\" - Min, Genius",
+                "flavor_text_plain": "\"The human mind fails in moments of shared terror, seeming to act almost at random.\" - Min, Genius",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK069.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "JNMBTkhMTzGLRWFDR6WJ6",
+        "name": "Quiet Streets",
+        "color": "Yellow",
+        "pitch": "2",
+        "cost": "0",
+        "power": "",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Instant"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Choose a random non-equipment card on the active chain link. It gets -3{p} -3{d} this chain link.",
+        "functional_text_plain": "Choose a random non-equipment card on the active chain link. It gets -3{p} -3{d} this chain link.",
+        "type_text": "Chaos Instant",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "DqJKwKwfQFNgfd7M6Wwcq",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK070",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Arkoii"
+                ],
+                "art_variations": [],
+                "flavor_text": "So silent you could hear a heart stop.",
+                "flavor_text_plain": "So silent you could hear a heart stop.",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK070.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "j7HTj87RBwzthNGtcCdLb",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK070",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Arkoii"
+                ],
+                "art_variations": [],
+                "flavor_text": "So silent you could hear a heart stop.",
+                "flavor_text_plain": "So silent you could hear a heart stop.",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK070.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "jFqkWjJM7JfJmKjRRHTcn",
+        "name": "Huxley, Racketeer",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "38",
+        "intelligence": "4",
+        "arcane": "",
+        "types": [
+            "Assassin",
+            "Mechanologist",
+            "Hero"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [
+            "Stealth",
+            "Boost"
+        ],
+        "functional_text": "Whenever you banish an action card with stealth from boosting, you may {t} this. If you do, you may play the banished card as though it were an instant this turn.",
+        "functional_text_plain": "Whenever you banish an action card with stealth from boosting, you may {t} this. If you do, you may play the banished card as though it were an instant this turn.",
+        "type_text": "Assassin Mechanologist Hero",
+        "played_horizontally": false,
+        "blitz_legal": false,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "zBPQJwHnfDQGhGGNNfGtd",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK071",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Billy Christian"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK071.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "FcHkcwfD76DWhHCcLQfqQ",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK071",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Billy Christian"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK071.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "hWqt7JLpkQHdcMc9PMTpr",
+                        "is_front": true,
+                        "is_DFC": false
+                    }
+                ]
+            },
+            {
+                "unique_id": "hWqt7JLpkQHdcMc9PMTpr",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK071",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Billy Christian"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK071.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "hWqt7JLpkQHdcMc9PMTpr",
+                        "is_front": false,
+                        "is_DFC": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unique_id": "Pz6BNBRPcdNHCwKtTWfjG",
+        "name": "Huxley",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "19",
+        "intelligence": "4",
+        "arcane": "",
+        "types": [
+            "Assassin",
+            "Mechanologist",
+            "Hero",
+            "Young"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [
+            "Stealth",
+            "Boost"
+        ],
+        "functional_text": "Whenever you banish an action card with stealth from boosting, you may {t} this. If you do, you may play the banished card as though it were an instant this turn.",
+        "functional_text_plain": "Whenever you banish an action card with stealth from boosting, you may {t} this. If you do, you may play the banished card as though it were an instant this turn.",
+        "type_text": "Assassin Mechanologist Hero - Young",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": false,
+        "commoner_legal": true,
+        "ll_legal": false,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "KDrCwTBJQ6pfwqKLTDwr9",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK072",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Billy Christian"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK072.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "bNWzbbWWNKprCfb6Mzdbr",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK072",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Billy Christian"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK072-MV.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "WtJ6kTP6HQDHk9knp9Hrn",
+                        "is_front": true,
+                        "is_DFC": false
+                    }
+                ]
+            },
+            {
+                "unique_id": "WtJ6kTP6HQDHk9knp9Hrn",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK072",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Billy Christian"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK072-MV_BACK.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "WtJ6kTP6HQDHk9knp9Hrn",
+                        "is_front": false,
+                        "is_DFC": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unique_id": "Nw6hwpnJfGtBnM798jPGh",
+        "name": "Azalea, Ace of Spades",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "38",
+        "intelligence": "4",
+        "arcane": "",
+        "types": [
+            "Assassin",
+            "Ranger",
+            "Hero"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [
+            "Instant"
+        ],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [
+            "Go again",
+            "Veil"
+        ],
+        "removed_keywords": [],
+        "interacts_with_keywords": [
+            "Stealth"
+        ],
+        "functional_text": "**Instant** - {t}, put a card from your arsenal on the bottom of your deck: Put the top card of your deck face-up into your arsenal. If it has stealth, it gets +1{p} and **go again** this turn. If its an arrow, it gets **veil** this turn.",
+        "functional_text_plain": "Instant - {t}, put a card from your arsenal on the bottom of your deck: Put the top card of your deck face-up into your arsenal. If it has stealth, it gets +1{p} and go again this turn. If its an arrow, it gets veil this turn.",
+        "type_text": "Assassin Ranger Hero",
+        "played_horizontally": false,
+        "blitz_legal": false,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "KT9dCdTzJmbKwCdJqkGmF",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK080",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Jessada Sutthi"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK080.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "8TL8dwb7KQDHCzmN9RC8H",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK080",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Jessada Sutthi"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK080-MV.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "Fgr9kWthWhngztJ6RGWzP",
+                        "is_front": true,
+                        "is_DFC": false
+                    }
+                ]
+            },
+            {
+                "unique_id": "Fgr9kWthWhngztJ6RGWzP",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK080",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Jessada Sutthi"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK080-MV_BACK.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "Fgr9kWthWhngztJ6RGWzP",
+                        "is_front": false,
+                        "is_DFC": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unique_id": "HgLFRQrGzgLbTC6MBR8Dk",
+        "name": "Azalea, Lone Vigilante",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "19",
+        "intelligence": "4",
+        "arcane": "",
+        "types": [
+            "Assassin",
+            "Ranger",
+            "Hero",
+            "Young"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [
+            "Instant"
+        ],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [
+            "Go again",
+            "Veil"
+        ],
+        "removed_keywords": [],
+        "interacts_with_keywords": [
+            "Stealth"
+        ],
+        "functional_text": "**Instant** - {t}, put a card from your arsenal on the bottom of your deck: Put the top card of your deck face-up into your arsenal. If it has stealth, it gets +1{p} and **go again** this turn. If its an arrow, it gets **veil** this turn.",
+        "functional_text_plain": "Instant - {t}, put a card from your arsenal on the bottom of your deck: Put the top card of your deck face-up into your arsenal. If it has stealth, it gets +1{p} and go again this turn. If its an arrow, it gets veil this turn.",
+        "type_text": "Assassin Ranger Hero - Young",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": false,
+        "commoner_legal": true,
+        "ll_legal": false,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "zpr6NgDLWPGRNzfMhc9LR",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK081",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Jessada Sutthi"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK081.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "w8zzDKhkDzgzbpLmm8GMd",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK081",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Jessada Sutthi"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK081-MV.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "TnjQCpNjHnzLrhwTwCccT",
+                        "is_front": true,
+                        "is_DFC": false
+                    }
+                ]
+            },
+            {
+                "unique_id": "TnjQCpNjHnzLrhwTwCccT",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK081",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Jessada Sutthi"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK081-MV_BACK.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "TnjQCpNjHnzLrhwTwCccT",
+                        "is_front": false,
+                        "is_DFC": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unique_id": "LKgRPgjPC6jCczFRw7jCB",
+        "name": "α-01, First Cogwarden",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "19",
+        "intelligence": "4",
+        "arcane": "",
+        "types": [
+            "Mechanologist",
+            "Ranger",
+            "Hero",
+            "Young"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [
+            "Instant"
+        ],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [
+            "Go again"
+        ],
+        "removed_keywords": [],
+        "interacts_with_keywords": [
+            "Boost"
+        ],
+        "functional_text": "**Instant** - {r}, {t}: Put an arrow you've banished from boosting this turn face-up into your arsenal. If you do, put two +1{p} counters on it.\n\n**Instant** - {r}, {t}: The next arrow with a +1{p} counter you play this turn gets **go again**.",
+        "functional_text_plain": "Instant - {r}, {t}: Put an arrow you've banished from boosting this turn face-up into your arsenal. If you do, put two +1{p} counters on it.\nInstant - {r}, {t}: The next arrow with a +1{p} counter you play this turn gets go again.",
+        "type_text": "Mechanologist Ranger Hero - Young",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": false,
+        "commoner_legal": true,
+        "ll_legal": false,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "D8zQDpJbJfHcF9bmBMtHL",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK089",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Fajareka Setiawan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK089.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "qchdcWF7pQgcGPKtWPpLT",
+                "set_printing_unique_id": "nFkWMpWqwB8rppQNF7QGd",
+                "id": "SFC001",
+                "set_id": "SFC",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Fajareka Setiawan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SFC001.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "hmcmdFzjHFTmTwNtDTGTh",
+        "name": "Pauper's Knife",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "1",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Assassin",
+            "Weapon",
+            "Dagger",
+            "1H"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Go again"
+        ],
+        "abilities_and_effects": [
+            "Action"
+        ],
+        "ability_and_effect_keywords": [
+            "Attack",
+            "Go again"
+        ],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Action** - {r}{r}, {t}: **Attack**. **Go again**",
+        "functional_text_plain": "Action - {r}{r}, {t}: Attack. Go again",
+        "type_text": "Assassin Weapon - Dagger (1H)",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "nBz7TBKb8WgtMCbRnbQBF",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK097",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Andi Cahyo W"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK097.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "W89FbdcbpPPtcRb7r8bcW",
+        "name": "Patient Zero",
+        "color": "Red",
+        "pitch": "1",
+        "cost": "0",
+        "power": "3",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Assassin",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Stealth"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Stealth**\n\nWhen this hits a hero, give them a disease token you control.",
+        "functional_text_plain": "Stealth\nWhen this hits a hero, give them a disease token you control.",
+        "type_text": "Assassin Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "MNpKHzQJjtmHT8jtRMgBh",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK126",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Arkoii"
+                ],
+                "art_variations": [],
+                "flavor_text": "\"How... how can I hear their voice?\" - Dr. Mortimer",
+                "flavor_text_plain": "\"How... how can I hear their voice?\" - Dr. Mortimer",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK126.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "gKgJbRdG8ndRBLcgrPCbT",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK126",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Arkoii"
+                ],
+                "art_variations": [],
+                "flavor_text": "\"How... how can I hear their voice?\" - Dr. Mortimer",
+                "flavor_text_plain": "\"How... how can I hear their voice?\" - Dr. Mortimer",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK126.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "tf86PwPg7qpG6fFkLqDPB",
+        "name": "Patient Zero",
+        "color": "Yellow",
+        "pitch": "2",
+        "cost": "0",
+        "power": "2",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Assassin",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Stealth"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Stealth**\n\nWhen this hits a hero, give them a disease token you control.",
+        "functional_text_plain": "Stealth\nWhen this hits a hero, give them a disease token you control.",
+        "type_text": "Assassin Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "L8DKh9w689JNtdqcnM8jW",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK127",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Arkoii"
+                ],
+                "art_variations": [],
+                "flavor_text": "\"How... how can I hear their voice?\" - Dr. Mortimer",
+                "flavor_text_plain": "\"How... how can I hear their voice?\" - Dr. Mortimer",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK127.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "bCBHpC7JQckCBWKKJzHwq",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK127",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Arkoii"
+                ],
+                "art_variations": [],
+                "flavor_text": "\"How... how can I hear their voice?\" - Dr. Mortimer",
+                "flavor_text_plain": "\"How... how can I hear their voice?\" - Dr. Mortimer",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK127.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "fmQhbRpzhgJCBgpCrpncC",
+        "name": "Patient Zero",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "0",
+        "power": "1",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Assassin",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Stealth"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Stealth**\n\nWhen this hits a hero, give them a disease token you control.",
+        "functional_text_plain": "Stealth\nWhen this hits a hero, give them a disease token you control.",
+        "type_text": "Assassin Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "7kqMTgr7wDC7mFCHFnTc7",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK128",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Arkoii"
+                ],
+                "art_variations": [],
+                "flavor_text": "\"How... how can I hear their voice?\" - Dr. Mortimer",
+                "flavor_text_plain": "\"How... how can I hear their voice?\" - Dr. Mortimer",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK128.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "HbGt9KkGBT7qnhpQgnPjT",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK128",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Arkoii"
+                ],
+                "art_variations": [],
+                "flavor_text": "\"How... how can I hear their voice?\" - Dr. Mortimer",
+                "flavor_text_plain": "\"How... how can I hear their voice?\" - Dr. Mortimer",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK128.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "9BBbJhRkJLwkPHPHQwTcK",
+        "name": "Cogwerx Dueling Pistol",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "2",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Mechanologist",
+            "Weapon",
+            "Pistol",
+            "1H"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [
+            "Action"
+        ],
+        "ability_and_effect_keywords": [
+            "Attack",
+            "Go again"
+        ],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Action** - {t}, remove a steam counter from this: **Attack**\n\n**Action** - {r}, {t}: If this has no steam counters, put a steam counter on it. **Go again**",
+        "functional_text_plain": "Action - {t}, remove a steam counter from this: Attack\nAction - {r}, {t}: If this has no steam counters, put a steam counter on it. Go again",
+        "type_text": "Mechanologist Weapon - Pistol (1H)",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "jqthLTWMNFbDfDjTggHJL",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK136",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Alief Rusdiatama"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK136.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "BFHCGgGGPN8bLDBzhBWMB",
+        "name": "Bootlegger Bust-Up",
+        "color": "Red",
+        "pitch": "1",
+        "cost": "3",
+        "power": "6",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Mechanologist",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Boost"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Boost**\n\nThis gets +2{p} for each non-Mechanologist card banished from boosting this.",
+        "functional_text_plain": "Boost\nThis gets +2{p} for each non-Mechanologist card banished from boosting this.",
+        "type_text": "Mechanologist Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "BNMckB9PFFPFPmhhRLdQ7",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK150",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Faizal Fikri"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK150.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "TwDgmj7FJRptctBkDQhF6",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK150",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Faizal Fikri"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK150.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "bfgQWP97NK6FQDGWCdHz9",
+        "name": "Bootlegger Bust-Up",
+        "color": "Yellow",
+        "pitch": "2",
+        "cost": "3",
+        "power": "5",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Mechanologist",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Boost"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Boost**\n\nThis gets +2{p} for each non-Mechanologist card banished from boosting this.",
+        "functional_text_plain": "Boost\nThis gets +2{p} for each non-Mechanologist card banished from boosting this.",
+        "type_text": "Mechanologist Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "KqzrLRt7MfKpRhgTrcQt6",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK151",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Faizal Fikri"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK151.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "D8d8dWntWHgG9JCbLrdRz",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK151",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Faizal Fikri"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK151.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "NHJC7zwG6mFrrGtndNgFp",
+        "name": "Bootlegger Bust-Up",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "3",
+        "power": "4",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Mechanologist",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Boost"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Boost**\n\nThis gets +2{p} for each non-Mechanologist card banished from boosting this.",
+        "functional_text_plain": "Boost\nThis gets +2{p} for each non-Mechanologist card banished from boosting this.",
+        "type_text": "Mechanologist Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "FLdMQGdNmNMMJC8Tn6m8G",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK152",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Faizal Fikri"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK152.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "f6PgnGgJwqgCk86gd89td",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK152",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Faizal Fikri"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK152.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "DGNGRqjMqnjM8cRHF9wKM",
+        "name": "One-Click Pinpointer",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Ranger",
+            "Weapon",
+            "Bow",
+            "1H"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [
+            "Action"
+        ],
+        "ability_and_effect_keywords": [
+            "Go again"
+        ],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Action** - {t}: Put all cards from your arsenal on the bottom of your deck. Put an arrow from your hand face-up into your arsenal. If you control a tapped bow, this costs {r} more to activate. **Go again**",
+        "functional_text_plain": "Action - {t}: Put all cards from your arsenal on the bottom of your deck. Put an arrow from your hand face-up into your arsenal. If you control a tapped bow, this costs {r} more to activate. Go again",
+        "type_text": "Ranger Weapon - Bow (1H)",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "PkPghmPnBHHMbkTRzQtfB",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK175",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Alifka Hammam"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK175.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "7kB6HrHRkBLGN8qDmptHJ",
+        "name": "Max-Tension Shot",
+        "color": "Red",
+        "pitch": "1",
+        "cost": "1",
+        "power": "5",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Ranger",
+            "Action",
+            "Arrow",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Go again"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "When this attacks, reveal the top card of your deck. If it's red, this gets **go again**.",
+        "functional_text_plain": "When this attacks, reveal the top card of your deck. If it's red, this gets go again.",
+        "type_text": "Ranger Action - Arrow Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "m9Bpcm76P7FHKkBqLwr7z",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK207",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Reza Fachrul"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK207.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "dzrWBHPmGpC9jQMKJ7FMG",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK207",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Reza Fachrul"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK207.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "WcRzC9HDdLLRqjHggtqH8",
+        "name": "Cure-All Elixir",
+        "color": "",
+        "pitch": "",
+        "cost": "1",
+        "power": "",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Generic",
+            "Action"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Cure",
+            "Go again"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Your next attack this turn gets +3{p}.\n\nYou may **cure** a disease you control. If you do, gain 1{h}.\n\n**Go again**",
+        "functional_text_plain": "Your next attack this turn gets +3{p}.\nYou may cure a disease you control. If you do, gain 1{h}.\nGo again",
+        "type_text": "Generic Action",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "JnRRL6MpqtrpJCGzPkn9C",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK256",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Firaz M. Rasyid"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK256.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "KqQmGBrgfPwWbN8zctK7B",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK256",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Firaz M. Rasyid"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK256.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
         "unique_id": "FM9T9Dg8bj9h9MW7k9HCQ",
         "name": "10,000 Year Reunion",
         "color": "Red",
@@ -63467,6 +66912,7 @@
             "9hQDRdBpQpb8B8kJ9Lq8J",
             "LpmdRdBC8QLhFPbPwPg6h",
             "gdFrmMtzgg8DcqjN6tfBM",
+            "jDkMK8ncQnwRBGbRqw7tB",
             "jTqtrLChdJz6wnctGhpKc",
             "GKWhbqnhnR6ztt9gCzmLw",
             "c6tgbGMBbR77gJWhJCzhh",
@@ -63697,6 +67143,26 @@
                 "flavor_text": "",
                 "flavor_text_plain": "",
                 "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAZ034.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "8kjFbfjBFtCnrgRFhCgpQ",
+                "set_printing_unique_id": "P6wF7qPd9tkFrNKT6zLhg",
+                "id": "SLV034",
+                "set_id": "SLV",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Carlos Cruchaga"
+                ],
+                "art_variations": [
+                    "AA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SLV034.webp",
                 "image_rotation_degrees": 0
             },
             {
@@ -278429,6 +281895,7 @@
             "LpmdRdBC8QLhFPbPwPg6h",
             "n877nqgWkLDfjQBwM7DM7",
             "W8qgQqqTzWMFFcCCzTLGg",
+            "jDkMK8ncQnwRBGbRqw7tB",
             "GKWhbqnhnR6ztt9gCzmLw",
             "JMzGFRDF8qTWJCLPRfQgH",
             "mpTmfWDrzmTzJbjbwqGth",
@@ -278643,6 +282110,26 @@
                 "flavor_text": "",
                 "flavor_text_plain": "",
                 "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAZ036.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "czqFqtDGNQphm9hkQcMj9",
+                "set_printing_unique_id": "P6wF7qPd9tkFrNKT6zLhg",
+                "id": "SLV036",
+                "set_id": "SLV",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Othon Nikolaidis"
+                ],
+                "art_variations": [
+                    "AA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SLV036.webp",
                 "image_rotation_degrees": 0
             },
             {

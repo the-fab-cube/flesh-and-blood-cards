@@ -303,7 +303,7 @@
                 "edition": "N",
                 "start_card_id": "AMA001",
                 "end_card_id": "AMA029",
-                "initial_release_date": "2026-09-25T00:00:00Z",
+                "initial_release_date": "2026-09-25T00:00:00.000Z",
                 "out_of_print": false,
                 "card_database": "https://cardvault.fabtcg.com/products/armory-deck-malice-domina-of-the-dead/",
                 "product_page": "https://fabtcg.com/products/product/armory-deck-malice/",
@@ -311,6 +311,27 @@
                 "card_gallery": null,
                 "release_notes": null,
                 "set_logo": "https://cdn.fabtcg.com/uploads/2026/07/armory_deck_malice.png"
+            }
+        ]
+    },
+    {
+        "unique_id": "BfWJdRDJphgPthNdwMLfR",
+        "id": "AMG",
+        "name": "Armory Deck - Min, Genius",
+        "printings": [
+            {
+                "unique_id": "8kWtQKNbFMWHW6WTRjzH8",
+                "edition": "N",
+                "start_card_id": "AMG001",
+                "end_card_id": "AMG027",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/armory-deck-min-genius/",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
             }
         ]
     },
@@ -324,7 +345,7 @@
                 "edition": "N",
                 "start_card_id": "AMO001",
                 "end_card_id": "AMO033",
-                "initial_release_date": "2026-11-14T00:00:00Z",
+                "initial_release_date": "2026-11-14T00:00:00.000Z",
                 "out_of_print": false,
                 "card_database": "https://cardvault.fabtcg.com/products/armory-deck-dr-mortimer-blight-of-the-pits/",
                 "product_page": "https://fabtcg.com/products/armory-deck/armory-deck-mortimer/",
@@ -1673,6 +1694,27 @@
         ]
     },
     {
+        "unique_id": "TfnH9nnfzWNWFrMm7gWrG",
+        "id": "OBK",
+        "name": "Outbreak",
+        "printings": [
+            {
+                "unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "edition": "N",
+                "start_card_id": "OBK000",
+                "end_card_id": "OBK256",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/outbreak/",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "pRmKczPQQff9T6HTkqHkm",
         "id": "OLA",
         "name": "Olympia Blitz Deck",
@@ -2177,6 +2219,27 @@
         ]
     },
     {
+        "unique_id": "kG7bMg9fHQTqdzbwrBLr8",
+        "id": "SFC",
+        "name": "Silver Age - α-01, First Cogwarden",
+        "printings": [
+            {
+                "unique_id": "nFkWMpWqwB8rppQNF7QGd",
+                "edition": "N",
+                "start_card_id": "SFC001",
+                "end_card_id": "SFC001",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/silver-age-alpha-01-first-cogwarden/",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "bwPNhzGJBHmdTFTmHdqjc",
         "id": "SGB",
         "name": "Silver Age Chapter 3 - Gravy Bones",
@@ -2231,6 +2294,27 @@
                 "initial_release_date": "2026-02-13T00:00:00.000Z",
                 "out_of_print": false,
                 "card_database": "https://cardvault.fabtcg.com/products/silver-age-chapter-1-kayo/",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
+        "unique_id": "tRfHzLzjCGC6pbRwm78Lm",
+        "id": "SLV",
+        "name": "Silver Age - Mortimer, Living Virus",
+        "printings": [
+            {
+                "unique_id": "P6wF7qPd9tkFrNKT6zLhg",
+                "edition": "N",
+                "start_card_id": "SLV001",
+                "end_card_id": "SLV036",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": null,
                 "product_page": null,
                 "collectors_center": null,
                 "card_gallery": null,
