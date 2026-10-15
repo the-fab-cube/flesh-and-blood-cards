@@ -13118,6 +13118,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "514111",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/514111?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "bh8n6W7GtdPRFJhq8WHTB",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT032",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Lius Lasahido"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT032.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -19319,6 +19337,24 @@
                 "flavor_text": "",
                 "flavor_text_plain": "",
                 "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBA030.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "QPpwgwbpq6BQpkQgqdCcF",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW023",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Rodrigo Rizo"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW023.webp",
                 "image_rotation_degrees": 0
             },
             {
@@ -51415,6 +51451,24 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/676515?Language=English&Printing=Normal"
             },
             {
+                "unique_id": "wjCrcCTkhQrmRch7tHbRM",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT009",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Daniel Jiménez"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT009.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "rn7HNdDdmRTLfLGQbrRbD",
                 "set_printing_unique_id": "gmnnWKnNPkbzpKMpDQFTq",
                 "id": "SBA009",
@@ -62759,6 +62813,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "715844",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/715844?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "tfH6LgPpfFnphJMHtNpjF",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW010",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Mariusz Gandzel"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW010.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -62943,6 +63015,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "715846",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/715846?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "8TLnmfFNk9mQDgcD8bBft",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW028",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Mariusz Gandzel"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW028.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -65163,6 +65253,24 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/676512?Language=English&Printing=Normal"
             },
             {
+                "unique_id": "F8wzkRDJDWCGrJdhLdPMr",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT005",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Andy Aslamov"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT005.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "kNtm9knwj7TMmk6LmMzcr",
                 "set_printing_unique_id": "RcFcBBH7DJCfNpmmKWkCM",
                 "id": "SAZ006",
@@ -65198,6 +65306,24 @@
                 "flavor_text": "",
                 "flavor_text_plain": "",
                 "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBA006.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "zkP7Gd9T9QhpjFWQ8FPrT",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW006",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Andy Aslamov"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW006.webp",
                 "image_rotation_degrees": 0
             },
             {
@@ -119366,6 +119492,24 @@
                 "flavor_text_plain": "",
                 "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA003-RF.webp",
                 "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "CPLgqWrQkPjRmj8g66JqK",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW004",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Dzulfikar Aliy"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW004.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -127369,6 +127513,24 @@
                 "image_rotation_degrees": 0
             },
             {
+                "unique_id": "hFhcfwHz6TC9BDnknMcjM",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW005",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Alexander Nikolaev"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW005.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "t8k9wfwqKKkH8fRJHwgCJ",
                 "set_printing_unique_id": "rBDPnkJTCffg7dn9zwGbb",
                 "id": "SVI004",
@@ -130036,6 +130198,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "714109",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/714109?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "WPgWLLdPQTbHjKg96fnNt",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW011",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "YDZ"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW011.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -134262,6 +134442,184 @@
         ]
     },
     {
+        "unique_id": "KLHKTQbWrzWNBrLkGJt8Q",
+        "name": "Dark Arcanite Boots",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "0",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Generic",
+            "Equipment",
+            "Legs"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Shadow Resist 1"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Shadow Resist 1**",
+        "functional_text_plain": "Shadow Resist 1",
+        "type_text": "Generic Equipment - Legs",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "gQpggHwRBPPF7HwdknQH9",
+                "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
+                "id": "IAR227",
+                "set_id": "IAR",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "M Fakhrur Rozzi"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR227.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "716190",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/716190?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "GCpTG8wpqBfnKdQDHL6WM",
+                "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
+                "id": "IAR227",
+                "set_id": "IAR",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "M Fakhrur Rozzi"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR227.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "716190",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/716190?Language=English&Printing=Cold+Foil"
+            }
+        ]
+    },
+    {
+        "unique_id": "qz9pmhmhpBqHBMG7b9J9m",
+        "name": "Dark Arcanite Gloves",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "0",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Generic",
+            "Equipment",
+            "Arms"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Shadow Resist 1"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Shadow Resist 1**",
+        "functional_text_plain": "Shadow Resist 1",
+        "type_text": "Generic Equipment - Arms",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "jdrfjPhCpjqbCWwbfLLqP",
+                "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
+                "id": "IAR226",
+                "set_id": "IAR",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Petrinda Wiyugo"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR226.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "716603",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/716603?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "hQDCTg6cqJGwqkcmDcztj",
+                "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
+                "id": "IAR226",
+                "set_id": "IAR",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Petrinda Wiyugo"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR226.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "716603",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/716603?Language=English&Printing=Cold+Foil"
+            }
+        ]
+    },
+    {
         "unique_id": "jgNGqKtKpgWftFtLpkQmz",
         "name": "Dark Arcanite Helm",
         "color": "",
@@ -134436,184 +134794,6 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "716602",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/716602?Language=English&Printing=Cold+Foil"
-            }
-        ]
-    },
-    {
-        "unique_id": "qz9pmhmhpBqHBMG7b9J9m",
-        "name": "Dark Arcanite Gloves",
-        "color": "",
-        "pitch": "",
-        "cost": "",
-        "power": "",
-        "defense": "0",
-        "health": "",
-        "intelligence": "",
-        "arcane": "",
-        "types": [
-            "Generic",
-            "Equipment",
-            "Arms"
-        ],
-        "traits": [],
-        "card_keywords": [
-            "Shadow Resist 1"
-        ],
-        "abilities_and_effects": [],
-        "ability_and_effect_keywords": [],
-        "granted_keywords": [],
-        "removed_keywords": [],
-        "interacts_with_keywords": [],
-        "functional_text": "**Shadow Resist 1**",
-        "functional_text_plain": "Shadow Resist 1",
-        "type_text": "Generic Equipment - Arms",
-        "played_horizontally": false,
-        "blitz_legal": true,
-        "cc_legal": true,
-        "commoner_legal": true,
-        "ll_legal": true,
-        "silver_age_legal": true,
-        "blitz_living_legend": false,
-        "cc_living_legend": false,
-        "blitz_banned": false,
-        "cc_banned": false,
-        "commoner_banned": false,
-        "ll_banned": false,
-        "silver_age_banned": false,
-        "upf_banned": false,
-        "blitz_suspended": false,
-        "cc_suspended": false,
-        "commoner_suspended": false,
-        "ll_restricted": false,
-        "printings": [
-            {
-                "unique_id": "jdrfjPhCpjqbCWwbfLLqP",
-                "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
-                "id": "IAR226",
-                "set_id": "IAR",
-                "edition": "N",
-                "foiling": "S",
-                "rarity": "C",
-                "expansion_slot": false,
-                "artists": [
-                    "Petrinda Wiyugo"
-                ],
-                "art_variations": [],
-                "flavor_text": "",
-                "flavor_text_plain": "",
-                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR226.webp",
-                "image_rotation_degrees": 0,
-                "tcgplayer_product_id": "716603",
-                "tcgplayer_url": "https://www.tcgplayer.com/product/716603?Language=English&Printing=Normal"
-            },
-            {
-                "unique_id": "hQDCTg6cqJGwqkcmDcztj",
-                "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
-                "id": "IAR226",
-                "set_id": "IAR",
-                "edition": "N",
-                "foiling": "C",
-                "rarity": "C",
-                "expansion_slot": false,
-                "artists": [
-                    "Petrinda Wiyugo"
-                ],
-                "art_variations": [],
-                "flavor_text": "",
-                "flavor_text_plain": "",
-                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR226.webp",
-                "image_rotation_degrees": 0,
-                "tcgplayer_product_id": "716603",
-                "tcgplayer_url": "https://www.tcgplayer.com/product/716603?Language=English&Printing=Cold+Foil"
-            }
-        ]
-    },
-    {
-        "unique_id": "KLHKTQbWrzWNBrLkGJt8Q",
-        "name": "Dark Arcanite Boots",
-        "color": "",
-        "pitch": "",
-        "cost": "",
-        "power": "",
-        "defense": "0",
-        "health": "",
-        "intelligence": "",
-        "arcane": "",
-        "types": [
-            "Generic",
-            "Equipment",
-            "Legs"
-        ],
-        "traits": [],
-        "card_keywords": [
-            "Shadow Resist 1"
-        ],
-        "abilities_and_effects": [],
-        "ability_and_effect_keywords": [],
-        "granted_keywords": [],
-        "removed_keywords": [],
-        "interacts_with_keywords": [],
-        "functional_text": "**Shadow Resist 1**",
-        "functional_text_plain": "Shadow Resist 1",
-        "type_text": "Generic Equipment - Legs",
-        "played_horizontally": false,
-        "blitz_legal": true,
-        "cc_legal": true,
-        "commoner_legal": true,
-        "ll_legal": true,
-        "silver_age_legal": true,
-        "blitz_living_legend": false,
-        "cc_living_legend": false,
-        "blitz_banned": false,
-        "cc_banned": false,
-        "commoner_banned": false,
-        "ll_banned": false,
-        "silver_age_banned": false,
-        "upf_banned": false,
-        "blitz_suspended": false,
-        "cc_suspended": false,
-        "commoner_suspended": false,
-        "ll_restricted": false,
-        "printings": [
-            {
-                "unique_id": "gQpggHwRBPPF7HwdknQH9",
-                "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
-                "id": "IAR227",
-                "set_id": "IAR",
-                "edition": "N",
-                "foiling": "S",
-                "rarity": "C",
-                "expansion_slot": false,
-                "artists": [
-                    "M Fakhrur Rozzi"
-                ],
-                "art_variations": [],
-                "flavor_text": "",
-                "flavor_text_plain": "",
-                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR227.webp",
-                "image_rotation_degrees": 0,
-                "tcgplayer_product_id": "716190",
-                "tcgplayer_url": "https://www.tcgplayer.com/product/716190?Language=English&Printing=Normal"
-            },
-            {
-                "unique_id": "GCpTG8wpqBfnKdQDHL6WM",
-                "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
-                "id": "IAR227",
-                "set_id": "IAR",
-                "edition": "N",
-                "foiling": "C",
-                "rarity": "C",
-                "expansion_slot": false,
-                "artists": [
-                    "M Fakhrur Rozzi"
-                ],
-                "art_variations": [],
-                "flavor_text": "",
-                "flavor_text_plain": "",
-                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR227.webp",
-                "image_rotation_degrees": 0,
-                "tcgplayer_product_id": "716190",
-                "tcgplayer_url": "https://www.tcgplayer.com/product/716190?Language=English&Printing=Cold+Foil"
             }
         ]
     },
@@ -143167,6 +143347,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "706699",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/706699?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "TFFLmHBMz8dfwPMLjRLFF",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW012",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Rio Sabda"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW012.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -143349,6 +143547,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "716572",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/716572?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "PFkMj7qpBddMFDmHCrqJg",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW029",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Rio Sabda"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW029.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -157453,6 +157669,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "238506",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/238506?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "tJW99nKJMDpKWbCFFrPCD",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT006",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Pavel Chuvin"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT006.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -172193,6 +172427,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "715847",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/715847?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "HtrzWKkK8fDQzNFrG9zdb",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW013",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Alif Zahrah"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW013.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -172286,6 +172538,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "715848",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/715848?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "hrdkBkHpNkjwzBqwmzMzq",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW024",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Alif Zahrah"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW024.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -172379,6 +172649,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "715849",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/715849?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "Q7TDTRPt7tGBNQF9WL7pn",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW030",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Alif Zahrah"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW030.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -200736,6 +201024,81 @@
         ]
     },
     {
+        "unique_id": "8GKgwfTFGfL7rPznmPKDB",
+        "name": "Figment of Hope",
+        "color": "Yellow",
+        "pitch": "2",
+        "cost": "4",
+        "power": "",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Light",
+            "Illusionist",
+            "Instant",
+            "Figment"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Unlimited"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Unlimited**",
+        "functional_text_plain": "Unlimited",
+        "type_text": "Light Illusionist Instant - Figment",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "WDqhkBnGGQPPCmFzFRNNR",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT023",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "MJ Fetesio"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT023.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "F6rrgtbRgJgwzprhm6fmm",
+                        "is_front": true,
+                        "is_DFC": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "unique_id": "gKQKG87JCtBgqDDrcBmcF",
         "name": "Figment of Judgment",
         "color": "Yellow",
@@ -223122,6 +223485,24 @@
                         "is_DFC": false
                     }
                 ]
+            },
+            {
+                "unique_id": "dhbjwHQwGjpwrGTmRqMPT",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW002",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Federico Musetti"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW002.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -224664,6 +225045,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "696180",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/696180?Language=English&Printing=Cold+Foil"
+            },
+            {
+                "unique_id": "ncmrRCkWGGH67tJkPqwQH",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW034",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Carlos Cruchaga"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW034.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -243123,6 +243522,24 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/238504?Language=English&Printing=Normal"
             },
             {
+                "unique_id": "j7W9RTLDGCtPjFD6fCHzb",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT004",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Sam Yang"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT004.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "67Rq8qfdw6RCJgz8M6GPn",
                 "set_printing_unique_id": "HG7WFD9WnQ8QTGLqNQ7p8",
                 "id": "SBL003",
@@ -255626,6 +256043,210 @@
         ]
     },
     {
+        "unique_id": "LjPzKPjCFcWm6trTQzmjQ",
+        "name": "Herald of Hope",
+        "color": "Red",
+        "pitch": "1",
+        "cost": "1",
+        "power": "6",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Light",
+            "Illusionist",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Phantasm"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "When this hits, put it into your soul and gain 1{h}.\n\n**Phantasm**",
+        "functional_text_plain": "When this hits, put it into your soul and gain 1{h}.\nPhantasm",
+        "type_text": "Light Illusionist Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "jgGcKHFcNMDrJQWCRHgHP",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT011",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT011.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "rQNBWcLW78DgmTKpqDLGz",
+        "name": "Herald of Hope",
+        "color": "Yellow",
+        "pitch": "2",
+        "cost": "1",
+        "power": "5",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Light",
+            "Illusionist",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Phantasm"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "When this hits, put it into your soul and gain 1{h}.\n\n**Phantasm**",
+        "functional_text_plain": "When this hits, put it into your soul and gain 1{h}.\nPhantasm",
+        "type_text": "Light Illusionist Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "P8LjMctmNkBfRWFhTL79B",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT017",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT017.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "DrpcPQdkGMh8KddGwwzzF",
+        "name": "Herald of Hope",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "1",
+        "power": "4",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Light",
+            "Illusionist",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Phantasm"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "When this hits, put it into your soul and gain 1{h}.\n\n**Phantasm**",
+        "functional_text_plain": "When this hits, put it into your soul and gain 1{h}.\nPhantasm",
+        "type_text": "Light Illusionist Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "89jH6KcjDdGNCwwpwqLNM",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT024",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT024.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
         "unique_id": "z7fKMTdrJ6jGBFWTMTbnF",
         "name": "Herald of Judgment",
         "color": "Yellow",
@@ -255840,6 +256461,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "238508",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/238508?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "FrchhDb6T8tPHbtDKHwmw",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT018",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Alexander Mokhov"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT018.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -256074,6 +256713,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "238509",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/238509?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "PWRNJWRcK7BjKfBhLfTN6",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT012",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Simon Wong"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT012.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -256288,6 +256945,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "237706",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/237706?Language=English&Printing=Unlimited+Edition+Rainbow+Foil"
+            },
+            {
+                "unique_id": "pDqTGCj9FwPgLLrrKGHPt",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT019",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Simon Wong"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT019.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -256522,6 +257197,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "238516",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/238516?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "pGHrPPqPBzM9WQNq9TfJF",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT025",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Simon Wong"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT025.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -256735,6 +257428,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "238510",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/238510?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "WWbQkPrddN7fQzhDRLJ76",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT013",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Jessada Sutthi"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT013.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -257141,6 +257852,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "238517",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/238517?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "pNbJgBHPRqMhPhKtNkgnG",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT026",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Jessada Sutthi"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT026.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -258693,6 +259422,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "237695",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/237695?Language=English&Printing=Unlimited+Edition+Rainbow+Foil"
+            },
+            {
+                "unique_id": "tQCRdprRRzQ68McKKqrfh",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT014",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Sam Yang"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT014.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -259115,6 +259862,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "237698",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/237698?Language=English&Printing=Unlimited+Edition+Rainbow+Foil"
+            },
+            {
+                "unique_id": "hfFGJPTKPmpLRzr6bNzWD",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT027",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Sam Yang"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT027.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -259207,6 +259972,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "676384",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/676384?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "pbKjtpNRtmnwTWHpRFJwB",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT020",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Yiian Kho"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT020.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -287484,6 +288267,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "238503",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/238503?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "khRkkpWTCQdK8KPrPDr89",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT002",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Jessada Sutthi"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT002.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -287852,6 +288653,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "273169",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/273169?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "pn6GjcWpcqDkM8w8rFqGK",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT007",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Daniil Goncharov"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT007.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -301244,6 +302063,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "609493",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/609493?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "7qKG9LtBHL8qn7qrWd7B7",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT022",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Widya Wang"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT022.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -313677,6 +314514,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "488441",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/488441?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "B7b6JfwDdmtBqQrkFjhLN",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW014",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Shen Fei"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW014.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -315760,6 +316615,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "501974",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/501974?Language=English&Printing=Cold+Foil"
+            },
+            {
+                "unique_id": "dTkdJDPDWnPKgkLRKwhzP",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT003",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Jessketchin"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT003.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -318736,6 +319609,24 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/565420?Language=English&Printing=Rainbow+Foil"
             },
             {
+                "unique_id": "BMqCPghtDjJDKcqHnNKpp",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW020",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Max Kostin"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW020.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "jBHTMHGwC8Gnc9DCpjqjp",
                 "set_printing_unique_id": "rBDPnkJTCffg7dn9zwGbb",
                 "id": "SVI021",
@@ -318864,6 +319755,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "565421",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/565421?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "QMLJtTBffrN7nLhHmQPRP",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW025",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Max Kostin"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW025.webp",
+                "image_rotation_degrees": 0
             },
             {
                 "unique_id": "dDQ7JjqWHzFmz7kMJHKGG",
@@ -338045,6 +338954,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "715850",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/715850?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "qhcK7q6DKQjrzCF9f6cFm",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW015",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Surya Prasetya"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW015.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -338233,6 +339160,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "715852",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/715852?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "cGqzdW7DhNKD8gKrfDKQJ",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW031",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Surya Prasetya"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW031.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -345414,6 +346359,24 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/676767?Language=English&Printing=Normal"
             },
             {
+                "unique_id": "nwzRLqfzndJjQpzFgqFKG",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW008",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Tatiana Trubnikova"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW008.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "QqrMgQ6FHBFDLbn7GwqHh",
                 "set_printing_unique_id": "rBDPnkJTCffg7dn9zwGbb",
                 "id": "SVI010",
@@ -349841,6 +350804,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "708988",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/708988?Language=English&Printing=Cold+Foil"
+            },
+            {
+                "unique_id": "6FNF9tCMn6qLRbcdfRcpz",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW009",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Mariusz Gandzel"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW009.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -355099,6 +356080,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "716579",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/716579?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "gHHKGGBGMwjWjCLRPwKDF",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW021",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Tommy Suhartono"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW021.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -363917,6 +364916,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "268465",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/268465?Language=English&Printing=Cold+Foil"
+            },
+            {
+                "unique_id": "G9czQNjkHzWk6fGDDBG76",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT030",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Saad Irfan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT030.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -369026,6 +370043,24 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/261475?Language=English&Printing=1st+Edition+Rainbow+Foil"
             },
             {
+                "unique_id": "wnQdcT9zDKkfB7TpjBgLB",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT028",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Marco González"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT028.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "RhrK7PNB9DRMgBJ8RBKrG",
                 "set_printing_unique_id": "chn7ptqRwMGHr6DLNKtkC",
                 "id": "SEN024",
@@ -372140,6 +373175,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "268466",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/268466?Language=English&Printing=Cold+Foil"
+            },
+            {
+                "unique_id": "NW9c6j8kF78M89jzMmtC6",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT031",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Saad Irfan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT031.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -376743,6 +377796,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "714108",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/714108?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "rPHg7GDQRDKpDT8gq6BCN",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW016",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Bastien Jez"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW016.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -387270,9 +388341,9 @@
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": false,
-        "commoner_legal": false,
+        "commoner_legal": true,
         "ll_legal": false,
-        "silver_age_legal": false,
+        "silver_age_legal": true,
         "blitz_living_legend": false,
         "cc_living_legend": false,
         "blitz_banned": false,
@@ -387350,6 +388421,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "503312",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/503312?Language=English&Printing=Cold+Foil"
+            },
+            {
+                "unique_id": "cfDLLncWk6qR8bbhWhQCW",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT001",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Livia Prima"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT001.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -392357,6 +393446,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "706736",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/706736?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "RnRCcDfPk8GcFprFBjpg8",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW022",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Marco González"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW022.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -392541,6 +393648,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "706741",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/706741?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "qLdHzdKcnJCK7fBGpgmk6",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW033",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Marco González"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW033.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -440910,6 +442035,24 @@
                 "image_rotation_degrees": 0
             },
             {
+                "unique_id": "bgmqRp96Gpf8LGWzKNQ9j",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW035",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Daniel Jiménez"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW035.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "9fQTJ9nknnBzGgw7cg7cJ",
                 "set_printing_unique_id": "rBDPnkJTCffg7dn9zwGbb",
                 "id": "SVI034",
@@ -441406,6 +442549,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "696175",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/696175?Language=English&Printing=Cold+Foil"
+            },
+            {
+                "unique_id": "LqjNzLHthmkPcm8NWqjNw",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW026",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "MJ Fetesio"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW026.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -441648,6 +442809,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "696177",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/696177?Language=English&Printing=Cold+Foil"
+            },
+            {
+                "unique_id": "wDJnCmcJdTtWDRdMKWMgW",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW027",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "MJ Fetesio"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW027.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -441924,6 +443103,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "565573",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/565573?Language=English&Printing=Cold+Foil"
+            },
+            {
+                "unique_id": "qmddTHTFgQLhTB99Jtpd6",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW007",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Firaz M. Rasyid"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW007.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -442421,6 +443618,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "714110",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/714110?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "cMQMmkjD79DwnLCbLcwPJ",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW017",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Bo Setiaji"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW017.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -465185,6 +466400,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "706687",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/706687?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "LkRjpTnNCHnMTHK7TGDH9",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW003",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Ismatulloh"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW003.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -481562,6 +482795,24 @@
         "commoner_suspended": false,
         "ll_restricted": false,
         "printings": [
+            {
+                "unique_id": "QpRHjcQtw8LqtDhrCFzRb",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT010",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Andrey Savchuk"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT010.webp",
+                "image_rotation_degrees": 0
+            },
             {
                 "unique_id": "hdqcLLmRBpmcdwq79rwkK",
                 "set_printing_unique_id": "chn7ptqRwMGHr6DLNKtkC",
@@ -504400,6 +505651,24 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/551560?Language=English&Printing=Rainbow+Foil"
             },
             {
+                "unique_id": "JcMgcBNTQNHQW6kLr66hB",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT016",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Carlos Cruchaga"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT016.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "PJcj6mFhghtqjtGgt9zK7",
                 "set_printing_unique_id": "chn7ptqRwMGHr6DLNKtkC",
                 "id": "SEN014",
@@ -505777,6 +507046,24 @@
                         "is_DFC": false
                     }
                 ]
+            },
+            {
+                "unique_id": "KF9khn7jjRDBGBQpmn87H",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT033",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Alexandra Malygina"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT033.webp",
+                "image_rotation_degrees": 0
             },
             {
                 "unique_id": "L8jhTW9Cg7KtB6mtbRPPt",
@@ -530857,6 +532144,80 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "666549",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/666549?Language=English&Printing=Cold+Foil"
+            }
+        ]
+    },
+    {
+        "unique_id": "BPBGnPJNMhNq77TfLcr6d",
+        "name": "Suraya, Archangel of Endless Hope",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "4",
+        "defense": "",
+        "health": "4",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Light",
+            "Angel",
+            "Ally"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Ward 4"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "When this is awakened, gain 1{h}.\n\n**Once per Turn Action** - {r}{r}: **Attack**\n\n**Ward 4**",
+        "functional_text_plain": "When this is awakened, gain 1{h}.\nOnce per Turn Action - {r}{r}: Attack\nWard 4",
+        "type_text": "Light Illusionist Instant - Figment",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "F6rrgtbRgJgwzprhm6fmm",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT023",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Edward Chee"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT023_BACK.webp",
+                "image_rotation_degrees": 0,
+                "double_sided_card_info": [
+                    {
+                        "other_face_unique_id": "F6rrgtbRgJgwzprhm6fmm",
+                        "is_front": false,
+                        "is_DFC": true
+                    }
+                ]
             }
         ]
     },
@@ -582447,6 +583808,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "711526",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/711526?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "LgBLKhmHMhjWRbqbrNmQm",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW018",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Yunior Susanto"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW018.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -583096,6 +584475,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "237878",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/237878?Language=English&Printing=Unlimited+Edition+Rainbow+Foil"
+            },
+            {
+                "unique_id": "dR9KF9p9fkNrHQRfg6b6f",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW032",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Henrique Lindner"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW032.webp",
+                "image_rotation_degrees": 0
             },
             {
                 "unique_id": "BFbh6QtPWB8PMDWgbGfcj",
@@ -587416,6 +588813,24 @@
                         "is_DFC": true
                     }
                 ]
+            },
+            {
+                "unique_id": "dfHwPpFpnJz9BKTcc9Whg",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW001",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Nathaniel Himawan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW001.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -587861,6 +589276,24 @@
                         "is_DFC": true
                     }
                 ]
+            },
+            {
+                "unique_id": "bHwHFCFHDrHWj9PmBGrRH",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW001",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Nathaniel Himawan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW001_BACK.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -597383,6 +598816,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "238513",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/238513?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "8dJLPbKfpqkzJbbfqcT8n",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT015",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Narendra B Adi"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT015.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -597594,6 +599045,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "237725",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/237725?Language=English&Printing=Unlimited+Edition+Rainbow+Foil"
+            },
+            {
+                "unique_id": "cBFkgHmwTm9rGCPLMGWTP",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT021",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Narendra B Adi"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT021.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -597825,6 +599294,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "238520",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/238520?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "kQrmCwm8zd6bmRqNBmgBH",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT029",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Narendra B Adi"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT029.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -598733,6 +600220,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "618760",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/618760?Language=English&Printing=Cold+Foil"
+            },
+            {
+                "unique_id": "LmJk8fT8Bg7JFLcgjQh6c",
+                "set_printing_unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "id": "SAT008",
+                "set_id": "SAT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Carlos Cruchaga"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT008.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -601331,6 +602836,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "676327",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/676327?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "6bzKPWgP8LjDWfNW9PqKM",
+                "set_printing_unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "id": "SBW019",
+                "set_id": "SBW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Orson CaptainSass"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW019.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },

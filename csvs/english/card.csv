@@ -2966,10 +2966,10 @@ kDCzjqmjjMT9hdnJTfRJb	Danger Digits					0				Assassin, Ninja, Equipment, Arms			
 Q8FGWt6BwzqcHpRzmmkQP	Danse Macabre					1				Necromancer, Equipment, Legs		Blade Break			Go again			"Whenever an ally you control enters the arena, you may pay {r}{r} and {t} this. If you do, that ally's first attack this turn gets **go again** and destroy that ally at the beginning of the end phase.
 
 **Blade Break**"	Necromancer Equipment - Legs				No	No	
+KLHKTQbWrzWNBrLkGJt8Q	Dark Arcanite Boots					0				Generic, Equipment, Legs		Shadow Resist 1						**Shadow Resist 1**	Generic Equipment - Legs						
+qz9pmhmhpBqHBMG7b9J9m	Dark Arcanite Gloves					0				Generic, Equipment, Arms		Shadow Resist 1						**Shadow Resist 1**	Generic Equipment - Arms						
 jgNGqKtKpgWftFtLpkQmz	Dark Arcanite Helm					0				Generic, Equipment, Head		Shadow Resist 1						**Shadow Resist 1**	Generic Equipment - Head						
 d8phHq8KDHznwJHL86LMR	Dark Arcanite Plating					0				Generic, Equipment, Chest		Shadow Resist 1						**Shadow Resist 1**	Generic Equipment - Chest						
-qz9pmhmhpBqHBMG7b9J9m	Dark Arcanite Gloves					0				Generic, Equipment, Arms		Shadow Resist 1						**Shadow Resist 1**	Generic Equipment - Arms						
-KLHKTQbWrzWNBrLkGJt8Q	Dark Arcanite Boots					0				Generic, Equipment, Legs		Shadow Resist 1						**Shadow Resist 1**	Generic Equipment - Legs						
 Mb9GFdjQhPqgqJC9gD6tt	Darkest Hour	Red	1	2		3				Shadow, Action		Go again, Blood Debt						"You may put a card from your hand on top of your deck rather than pay this card's {r} cost.
 
 Your next Shadow attack this turn gets +4{p}. **Go again**
@@ -4642,6 +4642,7 @@ rd8gCbPjLCWcPLdqbMRWm	Fightmaster Kox						19	4		Guardian, Hero, Pit-Fighter			A
 cWRWbKczR8N8F6nGBMNG7	Figment of Erudition	Yellow	2	4						Light, Illusionist, Instant, Figment		Legendary						"**Legendary**
 
 When this enters the arena, create a Ponder token."	Light Illusionist Instant - Figment				No	No	
+8GKgwfTFGfL7rPznmPKDB	Figment of Hope	Yellow	2	4						Light, Illusionist, Instant, Figment		Unlimited						**Unlimited**	Light Illusionist Instant - Figment					No	
 gKQKG87JCtBgqDDrcBmcF	Figment of Judgment	Yellow	2	4						Light, Illusionist, Instant, Figment		Legendary						"**Legendary**
 
 When this enters the arena, you may turn a card in any banished zone face-down."	Light Illusionist Instant - Figment				No	No	
@@ -5828,6 +5829,15 @@ KWpp9Jg6QBftjK9HKNNKW	Hemorrhage Bore	Yellow	2	1	4	3				Ranger, Action, Arrow, A
 When this hits, put it into your soul and draw 2 cards.
 
 **Phantasm**"	Light Illusionist Action - Attack				No	No	
+LjPzKPjCFcWm6trTQzmjQ	Herald of Hope	Red	1	1	6	3				Light, Illusionist, Action, Attack		Phantasm						"When this hits, put it into your soul and gain 1{h}.
+
+**Phantasm**"	Light Illusionist Action - Attack					No	
+rQNBWcLW78DgmTKpqDLGz	Herald of Hope	Yellow	2	1	5	3				Light, Illusionist, Action, Attack		Phantasm						"When this hits, put it into your soul and gain 1{h}.
+
+**Phantasm**"	Light Illusionist Action - Attack					No	
+DrpcPQdkGMh8KddGwwzzF	Herald of Hope	Blue	3	1	4	3				Light, Illusionist, Action, Attack		Phantasm						"When this hits, put it into your soul and gain 1{h}.
+
+**Phantasm**"	Light Illusionist Action - Attack					No	
 z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	Yellow	2	2	6	3				Light, Illusionist, Action, Attack		Prism Specialization, Phantasm						"**Prism Specialization**
 
 When this hits, put it into your soul and the defending hero can't play cards from their banished zone until the end of their next turn.
@@ -8834,7 +8844,7 @@ Your next Brute attack this turn gets +3{p}.
 NGkHQHjzkFqfmGLKmRCpj	Prism						20	4		Light, Illusionist, Hero, Young			Once per Turn Instant					**Once per Turn Instant** - {r}{r}, banish a card from your soul: Create a Spectral Shield token.	Light Illusionist Hero - Young			No			No
 dhbhdcr8CB6ngRrf9GTgm	Prism, Advent of Thrones						16	4		Light, Illusionist, Hero, Young			Once per Turn Instant	Awaken				"Whenever a card with Herald in its name is put into your soul during an action phase, you may search your deck for a figment, put it into the arena, then shuffle.
 
-**Once per Turn Instant** - {r}{r}, banish a card from Prism's soul: **Awaken** target figment you control."	Light Illusionist Hero - Young			No	No	No	No
+**Once per Turn Instant** - {r}{r}, banish a card from Prism's soul: **Awaken** target figment you control."	Light Illusionist Hero - Young			No			No
 jrQcdHwPDPTt8PWTdNLqk	Prism, Awakener of Sol						32	4		Light, Illusionist, Hero			Once per Turn Instant	Awaken				"Whenever a card with Herald in its name is put into your soul during an action phase, you may search your deck for a figment, put it into the arena, then shuffle.
 
 **Once per Turn Instant** - {r}{r}, banish a card from your soul: **Awaken** target figment you control."	Light Illusionist Hero		No		No	No	
@@ -12062,6 +12072,11 @@ If X is 3 or greater, you may shuffle a Construct Nitro Mechanoid from your bani
 PBrb69BLQLtMLLQJgBqww	Superstar	Blue	3	1		3				Revered, Guardian, Instant, Aura		Suspense, The Crowd Cheers						"**Suspense**
 
 When this enters or leaves the arena, **the crowd cheers** you."	Revered Guardian Instant - Aura					No	
+BPBGnPJNMhNq77TfLcr6d	Suraya, Archangel of Endless Hope				4		4			Light, Angel, Ally		Ward 4						"When this is awakened, gain 1{h}.
+
+**Once per Turn Action** - {r}{r}: **Attack**
+
+**Ward 4**"	Light Illusionist Instant - Figment					No	
 JR9JmbdnQ8mTLfjMHf9n8	Suraya, Archangel of Erudition				4		4			Light, Angel, Ally		Ward 4	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
 When Suraya attacks, you may banish a card from your hero's soul. If you do, draw 2 cards.
