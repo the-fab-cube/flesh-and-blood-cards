@@ -164232,8 +164232,8 @@
         "interacts_with_keywords": [
             "The Crowd Cheers"
         ],
-        "functional_text": "**Once per Turn Action** - {r}: **Attack**\n\nIf you've been cheered this turn, this card's attacks get **go again**.",
-        "functional_text_plain": "Once per Turn Action - {r}: Attack\nIf you've been cheered this turn, this card's attacks get go again.",
+        "functional_text": "**Once per Turn Action** - {r}{r}: **Attack**\n\nIf you've been cheered this turn, this card's attacks get **go again**.",
+        "functional_text_plain": "Once per Turn Action - {r}{r}: Attack\nIf you've been cheered this turn, this card's attacks get go again.",
         "type_text": "Revered Warrior Weapon - Sword (2H)",
         "played_horizontally": false,
         "blitz_legal": true,
