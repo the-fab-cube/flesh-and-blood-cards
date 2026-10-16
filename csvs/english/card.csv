@@ -7202,10 +7202,10 @@ This enters the arena with a verse counter. When it has none, destroy it.
 Once per turn, when you play an attack action card, remove a verse counter from this. If you do, create a Runechant token."	Runeblade Action - Aura					No	
 rrJg7Bntjp9WzWNcnJcjw	Malice						20	4		Shadow, Necromancer, Hero, Young			Action	Go again				"**Action** - {r}, {t}: Until end of turn, you may play target zombie from your graveyard. **Go again**
 
-Whenever a zombie you control dies, banish it face-down and create a Corrupted Corpse in your banished Zone."	Shadow Necromancer Hero - Young			No			No
+Whenever a zombie you control dies, banish it face-down and create a Corrupted Corpse in your banished zone."	Shadow Necromancer Hero - Young			No			No
 cz8FPm7Rjjndfgb8jQBcT	Malice, Domina of the Dead						40	4		Shadow, Necromancer, Hero			Action	Go again				"**Action** - {r}, {t}: Until end of turn, you may play target zombie from your graveyard. **Go again**
 
-Whenever a zombie you control dies, banish it face-down and create a Corrupted Corpse in your banished Zone."	Shadow Necromancer Hero		No		No	No	
+Whenever a zombie you control dies, banish it face-down and create a Corrupted Corpse in your banished zone."	Shadow Necromancer Hero		No		No	No	
 dhMB8PhdHndJLzwgtF9t7	Malign	Red	1	0	3	3				Assassin, Action, Attack		Stealth						"**Stealth**
 
 Damage that would be dealt by this can't be prevented."	Assassin Action - Attack						
