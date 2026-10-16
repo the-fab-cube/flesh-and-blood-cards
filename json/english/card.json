@@ -429517,9 +429517,9 @@
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": true,
-        "commoner_legal": false,
+        "commoner_legal": true,
         "ll_legal": true,
-        "silver_age_legal": false,
+        "silver_age_legal": true,
         "blitz_living_legend": false,
         "cc_living_legend": false,
         "blitz_banned": false,
@@ -429532,7 +429532,48 @@
         "cc_suspended": false,
         "commoner_suspended": false,
         "ll_restricted": false,
-        "printings": []
+        "printings": [
+            {
+                "unique_id": "PddgMLdR6bpM8j9bqDMWT",
+                "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
+                "id": "IAR050",
+                "set_id": "IAR",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Nikolay Moskvin"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR050.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "716546",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/716546?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "wBtz7rRCLGmmncG7M7HnR",
+                "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
+                "id": "IAR050",
+                "set_id": "IAR",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Nikolay Moskvin"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR050.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "716546",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/716546?Language=English&Printing=Rainbow+Foil"
+            }
+        ]
     },
     {
         "unique_id": "rqqhfk6QgmJCNkQNGhqNg",
@@ -429564,9 +429605,9 @@
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": true,
-        "commoner_legal": false,
+        "commoner_legal": true,
         "ll_legal": true,
-        "silver_age_legal": false,
+        "silver_age_legal": true,
         "blitz_living_legend": false,
         "cc_living_legend": false,
         "blitz_banned": false,
@@ -429579,7 +429620,48 @@
         "cc_suspended": false,
         "commoner_suspended": false,
         "ll_restricted": false,
-        "printings": []
+        "printings": [
+            {
+                "unique_id": "8Hb6CNDQcpBtTbRGMPp7h",
+                "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
+                "id": "IAR051",
+                "set_id": "IAR",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Nikolay Moskvin"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR051.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "716547",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/716547?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "rhd7gQm6NCHRGG7GRWrhr",
+                "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
+                "id": "IAR051",
+                "set_id": "IAR",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Nikolay Moskvin"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR051.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "716547",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/716547?Language=English&Printing=Rainbow+Foil"
+            }
+        ]
     },
     {
         "unique_id": "wQNrNhFfjBdkDnQ8QkJqq",
@@ -429611,9 +429693,9 @@
         "played_horizontally": false,
         "blitz_legal": true,
         "cc_legal": true,
-        "commoner_legal": false,
+        "commoner_legal": true,
         "ll_legal": true,
-        "silver_age_legal": false,
+        "silver_age_legal": true,
         "blitz_living_legend": false,
         "cc_living_legend": false,
         "blitz_banned": false,
@@ -429626,7 +429708,48 @@
         "cc_suspended": false,
         "commoner_suspended": false,
         "ll_restricted": false,
-        "printings": []
+        "printings": [
+            {
+                "unique_id": "QjwndJJJn99BmNWrCkwWQ",
+                "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
+                "id": "IAR052",
+                "set_id": "IAR",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Nikolay Moskvin"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR052.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "716548",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/716548?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "gtTKQfFDFfFrWWF6BzpTK",
+                "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
+                "id": "IAR052",
+                "set_id": "IAR",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Nikolay Moskvin"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR052.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "716548",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/716548?Language=English&Printing=Rainbow+Foil"
+            }
+        ]
     },
     {
         "unique_id": "99mLLCjqp78PFD7mcGktB",
