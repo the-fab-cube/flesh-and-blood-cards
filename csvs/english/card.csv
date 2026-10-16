@@ -9553,7 +9553,7 @@ dRdWkMqh86cKpH7mpFnpC	Restless Commander	Red	1	0	3		3			Shadow, Necromancer, Act
 96BKPQqp8PbgGRhHjn99c	Restless Corporal	Red	1	0	3		3			Shadow, Necromancer, Action, Zombie, Ally		Decay	Action	Go again				"**Action** - {t}: Put a card from your banished zone into your graveyard. **Go again**
 
 **Decay**"	Shadow Necromancer Action - Zombie Ally						
-dBwz9ngzQjPkbrdqRkhFf	Restless Looter	Red	1	0	3		3			Shadow, Necromancer, Action, Zombie, Ally		Decay	Instant					"**Instant** - {t}, Discard a card. If you do, draw a card.
+dBwz9ngzQjPkbrdqRkhFf	Restless Looter	Red	1	0	3		3			Shadow, Necromancer, Action, Zombie, Ally		Decay	Instant					"**Instant** - {t}: Discard a card. If you do, draw a card.
 
 **Decay**"	Shadow Necromancer Action - Zombie Ally					No	
 PRfhDbJzRtJD66DTGcccM	Restless Magister	Red	1	0	3		3			Shadow, Necromancer, Action, Zombie, Ally		Decay						"When this hits a hero, they banish a card from their hand.
