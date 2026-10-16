@@ -89793,8 +89793,8 @@
         "interacts_with_keywords": [
             "The Crowd Cheers"
         ],
-        "functional_text": "**Once per Turn Action** - {r}: **Attack**\n\nIf you've been cheered this turn, this card's attacks get **go again**.",
-        "functional_text_plain": "Once per Turn Action - {r}: Attack\nIf you've been cheered this turn, this card's attacks get go again.",
+        "functional_text": "**Once per Turn Action** - {r}{r}: **Attack**\n\nIf you've been cheered this turn, this card's attacks get **go again**.",
+        "functional_text_plain": "Once per Turn Action - {r}{r}: Attack\nIf you've been cheered this turn, this card's attacks get go again.",
         "type_text": "Revered Warrior Weapon - Sword (2H)",
         "played_horizontally": false,
         "blitz_legal": true,
@@ -192385,8 +192385,8 @@
         "interacts_with_keywords": [
             "Mark"
         ],
-        "functional_text": "**Stealth**\n\n**Contract** - You are contracted to hit a **marked** hero named Cindi. Whenever you complete this contract, draw a card.",
-        "functional_text_plain": "Stealth\nContract - You are contracted to hit a marked hero named Cindi. Whenever you complete this contract, draw a card.",
+        "functional_text": "**Stealth**\n\n**Contract** - You are contracted to hit a **marked** hero named Cindra. Whenever you complete this contract, draw a card.",
+        "functional_text_plain": "Stealth\nContract - You are contracted to hit a marked hero named Cindra. Whenever you complete this contract, draw a card.",
         "type_text": "Assassin Action - Attack",
         "played_horizontally": false,
         "blitz_legal": true,
@@ -311686,8 +311686,8 @@
         "granted_keywords": [],
         "removed_keywords": [],
         "interacts_with_keywords": [],
-        "functional_text": "If you have the same {h} as a hero, it also counts as you having more {h} than them, and them having less {h} than you.\n\n**Blade Break**",
-        "functional_text_plain": "If you have the same {h} as a hero, it also counts as you having more {h} than them, and them having less {h} than you.\nBlade Break",
+        "functional_text": "If you have the same {h} as another hero, it also counts as you having more {h} than them, and them having less {h} than you.\n\n**Blade Break**",
+        "functional_text_plain": "If you have the same {h} as another hero, it also counts as you having more {h} than them, and them having less {h} than you.\nBlade Break",
         "type_text": "Reviled Equipment - Arms",
         "played_horizontally": false,
         "blitz_legal": true,
