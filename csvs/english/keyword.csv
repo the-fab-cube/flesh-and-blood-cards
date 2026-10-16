@@ -7,6 +7,7 @@ tHNMT9DMtgRNTBrnCjdWq	Attack
 DJ9GNbwRNBFhcqhFgtFkR	Awaken	
 bKgtwKPTzJ69QdFDfm9bR	Battleworn	Equipment that wear down after each time they are used to defend. If you defend with a card with **Battleworn**, put a -1{d} counter on it when the combat chain closes.
 JHPDpLdkdBNb76pLM9q8C	Beat Chest	
+qJjtPMdfkGfdBMbh69nMz	Binds	
 cG88qzrJhwLnJH6TJ9cpp	Blade Break	Equipment that are fragile and break after being used to defend. If you defend with a card with **Blade Break**, destroy it when the combat chain closes.
 P78nKMjh7Q9rFtgndz8rJ	Blood Debt	**Blood Debt** is a keyword existing on Shadow cards. Shadow cards can inflict a loss of life to access a greater power. At the end of your turn, you lose 1{h} for each **blood debt** card in your banished zone.
 PR6tMq6r8WmWtMNF6HdKc	Bond	
@@ -20,6 +21,7 @@ FK8QRGT6GjqFGHLFJTbPT	Contract	When a player is contracted, they are given a set
 C66q6GppkfMfbdB8KkhJN	Crank	
 rG7F9GkDcmwNMczRbtwhL	Crush	A Guardian mechanic that showcases the strength of the guardian. When an attack with **crush** deals 4 or more damage to a hero, an effect is applied.
 W9fHN9LHmjkkWR7dBTnHQ	Cure	
+cLPWFpHzjGNJwtdpHC66t	Decay	
 BwRFJmmNC6LNLwrtjWb7T	Decompose	
 LdpzkhTrrcHJJtLFnctGW	Dominate	An attack that is difficult to defend. Cards with **dominate** cannot be defended with more than 1 card from the defending hero's hand.
 rDb7KpRGqJcWP8jRpt78K	Ephemeral	If an ephemeral card would be put into a graveyard from anywhere, instead it ceases to exist.
@@ -35,6 +37,7 @@ mmf6BdTtrbCGrhdhg8K9g	Go again	**Go again** allows multiple actions to be played
 JpQHgf9ttGqRjHjW6rgR8	Guardwell	
 hbjfTFTQmCR9FjzP7DWGK	Heave X	At the beginning of your end phase, if this is in your hand and you have an empty arsenal zone, you may pay X and put this face up into your arsenal. If you do, create X Seismic Surge tokens.
 RkjqDPNHf78knQNQGpTbP	Heavy	
+CrGrP7NKPGTfQ8Dt9pgwd	Incarnate	
 NdTgddPBhJLhG7HRjqPG6	Intimidate	A Brute mechanic that showcases how frightening a brute is to its enemies. **Intimidate** removes a random card from a heroes hand making it more difficult to defend.
 TrD8trBHtDqmdKtd9jMWr	Legendary	You may only have 1 copy of this card in your deck.
 FwrcNrC7nJWd9jQgNfdq7	Mark	
@@ -57,6 +60,7 @@ C96dP7FqChgNnLJhWbjhz	Retrieve
 qhmLJGzNtDRbd9HLFbLFp	Rune Gate	
 FL9rFc6hKw7WbRnCBqBzR	Rupture	A Draconic mechanic that applies certain effects if the card is played at chain link 4 or higher.
 bbpQG8LjWGCDk7GDzf686	Scrap	
+QCRGRMpdNHjFCWnfWLKnc	Shadow Resist X	
 qkcKfLtgwkTdGpjNbGtht	Sharpen	
 8mqHH6LQfddFgnbbm8pLp	Solflare	
 cjn8CBRWPmdG8fwJNTBJt	Specialization	You may only have this card in your deck if your hero is the specified hero.
@@ -73,6 +77,7 @@ LwJpTqDGKM96gQzcKwW76	Tower
 9PpnGJtT6F6PgKJTkjMmT	Transcend	
 hGzPP7bNMQJWNJ8QzQhDQ	Transform	An Illusionist mechanic that puts specified objects under another card or creates a token and puts specified objects under it.
 hDqkbTcqj9Fmr7m8TKKCz	Unfreeze	Removes **Freeze** from an object.
+PtKh7FrRjGMC9Q7L7DWLr	Unique	
 H6QfMpMdgD8Fhcfqgq6rm	Unity	
 tkB9tfFWLbkpqfNJwpTWF	Universal	
 GQBrF9G7LHGCcpCNW7bMW	Unlimited	

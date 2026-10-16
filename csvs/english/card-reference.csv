@@ -1,4 +1,7 @@
 Card Unique ID	Card Name	Card Pitch	Referenced Card Unique ID	Referenced Card Name	Referenced Card Pitch						
+WfmfkqC8wcW9qjNDJ8qDb	Acrid Stench	1	qmC78MP6bjTHcDChc6RMJ	Corrupted Corpse							
+mtjmCd88qqFtRtJKjdwWw	Acrid Stench	2	qmC78MP6bjTHcDChc6RMJ	Corrupted Corpse							
+PKq8KHtBMRWKQBKJn6mPP	Acrid Stench	3	qmC78MP6bjTHcDChc6RMJ	Corrupted Corpse							
 KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
 BzkLdhrmkWpnbDBWNMJhp	Aether Arc	3	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 8rwTJkbzktjbhbQbPCKrc	Aether Bindings of the Third Age		zRCmqmDrDLdDwnc9Td6j7	Sigil of Aether	3						
@@ -14,6 +17,7 @@ BzkLdhrmkWpnbDBWNMJhp	Aether Arc	3	HpWqFJW8ftTDdzCLK9RkD	Ponder
 8rwTJkbzktjbhbQbPCKrc	Aether Bindings of the Third Age		nncFJBw6FFnMfkfrFnWwR	Sigil of Protection	3						
 8rwTJkbzktjbhbQbPCKrc	Aether Bindings of the Third Age		pW9RcR7zcbrJDfgGFdrgR	Sigil of Sanctuary	3						
 8rwTJkbzktjbhbQbPCKrc	Aether Bindings of the Third Age		HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3						
+8rwTJkbzktjbhbQbPCKrc	Aether Bindings of the Third Age		t9FznwrqznJ6tF6bJ6Tht	Sigil of the Muse	1						
 7brgFMk9NrkLtzqKrhFFW	Affirm Loyalty	1	n9FtLHDg97rfrTNJDMBG6	Fealty							
 QrQCpQFPnLLPqN8qKgpTp	Aftershock	1	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
 qjmwqndpkqntDpKCcTcbp	Aftershock	2	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
@@ -38,6 +42,7 @@ tqL9KdjgkjfnQ98H97dJw	Amethyst Tiara		zfrHQjbPkpBmdQGrWcTMB	Runechant
 GFRQBDGRhL9DMtwzKq7CL	Amplify the Arknight	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 zdgkJ9mtbmkbQfpzm9Thc	Amplify the Arknight	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 zmmpt8q8HqPFwPKK66Mjm	Amplify the Arknight	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+jFzmfHhmDN7gJTKngdL9m	Ancient Earth Oak	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 bnhnjB7ggkRhpfqQHn6D6	Angelic Descent	1	9BPFcP6dTCwRdJKJBbqCc	Herald of Erudition	2						
 GNPNfqF7phg8dcbCBRjtC	Angelic Descent	2	9BPFcP6dTCwRdJKJBbqCc	Herald of Erudition	2						
 zr7wdChDbJcWmfrbTFBrw	Angelic Descent	3	9BPFcP6dTCwRdJKJBbqCc	Herald of Erudition	2						
@@ -198,10 +203,24 @@ nPmkJGtLgnfFnWgcKqgq6	Arctic Incarceration	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite
 Fq8bJCMprNbTn6rKbchgB	Arctic Incarceration	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 hKGMtQDHtqLhzg8Lzmjmc	Arknight Ascendancy	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 hKGMtQDHtqLhzg8Lzmjmc	Arknight Ascendancy	1	RHnFkKb8FKdFzp9rdzGjF	Viserai							
+hKGMtQDHtqLhzg8Lzmjmc	Arknight Ascendancy	1	zggWCkTJQgBjj7FCDTwmQ	Viserai, Between Worlds							
 hKGMtQDHtqLhzg8Lzmjmc	Arknight Ascendancy	1	TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood							
+hKGMtQDHtqLhzg8Lzmjmc	Arknight Ascendancy	1	QMGnHJqg6fhcKLfmpRQLz	Viserai, Usurper							
+hKGMtQDHtqLhzg8Lzmjmc	Arknight Ascendancy	1	RLJggjWTcq6NK9PD9zQGh	Viserai, the Forsaken							
+fpWBNHCFhLqzkDwwfWdwC	Arknight Descendancy	3	HDtcFpfJGnLpQW7LfmM7k	Runechant of Envy	2						
+fpWBNHCFhLqzkDwwfWdwC	Arknight Descendancy	3	9wdzWnFf7J6nmL86nFhtN	Runechant of Gluttony	2						
+fpWBNHCFhLqzkDwwfWdwC	Arknight Descendancy	3	MT8LQJTF6w8gPqMzNTrkr	Runechant of Greed	2						
+fpWBNHCFhLqzkDwwfWdwC	Arknight Descendancy	3	FpMpBwHGNgTGDjgfpWBKB	Runechant of Lust	2						
+fpWBNHCFhLqzkDwwfWdwC	Arknight Descendancy	3	HqGFdH8tMH6fR8bNMkTjq	Runechant of Pride	2						
+fpWBNHCFhLqzkDwwfWdwC	Arknight Descendancy	3	BMgj68hT9jQHQ6nFqhTDT	Runechant of Sloth	2						
+fpWBNHCFhLqzkDwwfWdwC	Arknight Descendancy	3	qwpdn8CJWGgkHLqdhDtgh	Runechant of Wrath	2						
+fpWBNHCFhLqzkDwwfWdwC	Arknight Descendancy	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 pkMGCRh9fDT98dRgnQF8W	Arknight Shard	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 pkMGCRh9fDT98dRgnQF8W	Arknight Shard	3	RHnFkKb8FKdFzp9rdzGjF	Viserai							
+pkMGCRh9fDT98dRgnQF8W	Arknight Shard	3	zggWCkTJQgBjj7FCDTwmQ	Viserai, Between Worlds							
 pkMGCRh9fDT98dRgnQF8W	Arknight Shard	3	TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood							
+pkMGCRh9fDT98dRgnQF8W	Arknight Shard	3	QMGnHJqg6fhcKLfmpRQLz	Viserai, Usurper							
+pkMGCRh9fDT98dRgnQF8W	Arknight Shard	3	RLJggjWTcq6NK9PD9zQGh	Viserai, the Forsaken							
 z6hzjr7zdqfrh8nQMf6CH	Arousing Wave		QqDQKkgCz9TM6HDgFkqcL	Fang Strike							
 mcgDWKjwLQ9thKbjmqBJG	Arrogant Showboating	3	6gqTwGnmHjkCLDqKPWt8c	Might							
 6RzzhHKt8kjPMkfmQ9LqJ	Art of the Phoenix: War	1	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1						
@@ -215,6 +234,7 @@ TgfHM6NJztn6HpbgjDNMg	Assault and Battery	3	WqTTMjDgKKCp7Lnb7LH6d	Agility
 BkRHdjBwFhwMwmBfDhpfb	Assembly Module	3	kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1						
 BkRHdjBwFhwMwmBfDhpfb	Assembly Module	3	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2						
 BkRHdjBwFhwMwmBfDhpfb	Assembly Module	3	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3						
+DJmtJqpNw6QK6ghTrQDGr	Astral Ambience	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
 rNhqkLtwRGdRf7Pkh6b7b	Astral Assault	1	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 dhfWgpW6bPJrPMcKrFRdt	Astral Assault	2	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 BJBhJz9Gmjc6fpQjzrDB8	Astral Assault	3	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
@@ -254,6 +274,7 @@ LJrMwbT9tW99BNDwBKNfr	Banksy		z7bLz9hhPDcwmTdQGf6TK	Maxx Nitro
 PtBr9hn97WqBzgMqNHzFp	Banneret of Courage	2	fQTg89mpRjTDTRmPGkQb6	Courage							
 MT7rdNFQjRncfm9DzmLdH	Banneret of Gallantry	2	cDpMQnr8LwPFGMdgffNb8	Quicken							
 Hkdtj7NWwgjL9znCjwM9M	Banneret of Protection	2	pdMgMzHwDgBpCNjD7WGLD	Spellbane Aegis							
+qJD8tjRcmBFjbDkPQm8dW	Banneret of Swordsmanship	2	jdkmHT8QfQmMbPLBHPrHJ	Flurry							
 qdDLqzd6FfmjfPGHLD6NW	Barkskin of the Millennium Tree		jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							
 cW9gnhd9dmMghRfHjzdgF	Basalt Boots		Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
 kJzkbhWtqDJcCD6ngwkBH	Bask in Your Own Greatness	1	6gqTwGnmHjkCLDqKPWt8c	Might							
@@ -300,8 +321,16 @@ KjRNNfzGJJh68Fwk7QmWc	Beat the Same Drum	3	Cn8tK9KRm7d9KbcQk6Pqm	Toughness
 KjRNNfzGJJh68Fwk7QmWc	Beat the Same Drum	3	DBhPCQqjnj6qqd9DtBB7W	Vigor							
 k7CQWQNw7LjqTcGB8gDTq	Beckon Applause		WqTTMjDgKKCp7Lnb7LH6d	Agility							
 k7CQWQNw7LjqTcGB8gDTq	Beckon Applause		DBhPCQqjnj6qqd9DtBB7W	Vigor							
+H6MhWPLLWJpTPmd7twtgC	Beckoning Hunger	1	FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger							
+GKj9BJrLnJDb8cdQ6Dkc9	Beckoning Hunger	2	FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger							
+FnptrgNbzKQRGnFK8rWwj	Beckoning Hunger	3	FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger							
 FzmdMTfjQrhzn8bNBhhDw	Become the Arknight	3	RHnFkKb8FKdFzp9rdzGjF	Viserai							
+FzmdMTfjQrhzn8bNBhhDw	Become the Arknight	3	zggWCkTJQgBjj7FCDTwmQ	Viserai, Between Worlds							
 FzmdMTfjQrhzn8bNBhhDw	Become the Arknight	3	TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood							
+FzmdMTfjQrhzn8bNBhhDw	Become the Arknight	3	QMGnHJqg6fhcKLfmpRQLz	Viserai, Usurper							
+FzmdMTfjQrhzn8bNBhhDw	Become the Arknight	3	RLJggjWTcq6NK9PD9zQGh	Viserai, the Forsaken							
+9DgdMqPdzCbJkLcqJKpNT	Become the Shadow Lord	3	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+9DgdMqPdzCbJkLcqJKpNT	Become the Shadow Lord	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 CtgLqKpjrGRtLnwbHjd9f	Belittle	1	hFFjjMfRw6J8KhBC7Tdzj	Minnowism	1						
 CtgLqKpjrGRtLnwbHjd9f	Belittle	1	CbJgbPBCGkgwbwkLRPd8m	Minnowism	2						
 CtgLqKpjrGRtLnwbHjd9f	Belittle	1	BNMTzb6WbFTGp7PFnHD6d	Minnowism	3						
@@ -316,7 +345,10 @@ dgBTMrWQ8F7gTCt6m7ngM	Belittle	3	BNMTzb6WbFTGp7PFnHD6d	Minnowism	3
 w6dzmjnGppFHCRgmKMFbW	Benefactor of Bloodworth Goldmane		8qdmprPg7kckn8ktMTKQh	Gold							
 m6KTfwtJkzqRLKFtMFjBn	Bequest the Vast Beyond	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 m6KTfwtJkzqRLKFtMFjBn	Bequest the Vast Beyond	1	RHnFkKb8FKdFzp9rdzGjF	Viserai							
+m6KTfwtJkzqRLKFtMFjBn	Bequest the Vast Beyond	1	zggWCkTJQgBjj7FCDTwmQ	Viserai, Between Worlds							
 m6KTfwtJkzqRLKFtMFjBn	Bequest the Vast Beyond	1	TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood							
+m6KTfwtJkzqRLKFtMFjBn	Bequest the Vast Beyond	1	QMGnHJqg6fhcKLfmpRQLz	Viserai, Usurper							
+m6KTfwtJkzqRLKFtMFjBn	Bequest the Vast Beyond	1	RLJggjWTcq6NK9PD9zQGh	Viserai, the Forsaken							
 fkJjHhHdB79QkMRRGLRTr	Bet Big	1	zdWrPkDgdbWdGBWjCLnhj	Betsy							
 fkJjHhHdB79QkMRRGLRTr	Bet Big	1	m7WjNjrtmfKdLfqPLWDHw	Betsy, Skin in the Game							
 fkJjHhHdB79QkMRRGLRTr	Bet Big	1	8qdmprPg7kckn8ktMTKQh	Gold							
@@ -367,6 +399,9 @@ gp98bCGp7DPjk8KTpHqJr	Blackout Kick	3	C7zhnMLhctLTpqN7CnrjT	Rising Knee Thrust	1
 gp98bCGp7DPjk8KTpHqJr	Blackout Kick	3	q7ctPDWzHDk667rcJW9TL	Rising Knee Thrust	2						
 gp98bCGp7DPjk8KTpHqJr	Blackout Kick	3	jdLb9qCbwmwjj9N6rNrnn	Rising Knee Thrust	3						
 HpMt88NkhFBNw7fpC6tkN	Blacktek Whisperers		TNJz9fCgqmhhLz9rP9tkt	Silver							
+NnnJRKgBkjQgBLNrB96CQ	Blasmophet's Boon	3	dbrfzmNJ9ccB9CW68pmQp	Blasmophet, Levia Consumed							
+NnnJRKgBkjQgBLNrB96CQ	Blasmophet's Boon	3	FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger							
+NnnJRKgBkjQgBLNrB96CQ	Blasmophet's Boon	3	qJ8HCWnpHbPRGRGpt86Cb	Blasmophet, the Soul Harvester							
 dbrfzmNJ9ccB9CW68pmQp	Blasmophet, Levia Consumed		KCwnGqDJtnmJfth7fn8Qq	Levia, Shadowborn Abomination							
 mjKPwTWCd7MTFkBpg6QzM	Blazing Aether	1	Q9B8TDhTdfDLN8ccnBThK	Kano							
 mjKPwTWCd7MTFkBpg6QzM	Blazing Aether	1	kRPqHdCckKBKfRwjbfzNT	Kano, Dracai of Aether							
@@ -389,6 +424,7 @@ G9WT8dKmmQFdP7jmtqwqC	Blessing of Qi	3	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger
 kfWGwJwjNHRWdtNtLrrhn	Blessing of Spirits	1	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
 nbrrFPNWzgzMqWwPdT8dB	Blessing of Spirits	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
 rgrMj9dqrqq6mftqJ8Jq9	Blessing of Spirits	3	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
+jpGQNdgmndK8bBGmDRhp9	Blessing of Suraya	2	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 QFLGnzGbKKr9tHdGQChRP	Blitz Kicks		QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning							
 wfzwGpLbJTtQ9DDhCchdP	Blizzard Bolt	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 wqm8d9NngqkJN7dDNwtHJ	Blizzard Bolt	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
@@ -433,6 +469,10 @@ bCKDD6gGb8dKzNdprDzff	Boots to the Boards		Cn8tK9KRm7d9KbcQk6Pqm	Toughness
 Kkh8t7dFfWtf7WBRJWNNJ	Bracers of Bellona's Grace		fQTg89mpRjTDTRmPGkQb6	Courage							
 ddWqPQBnFfqdkkMh87RKw	Bracken Rap	1	6gqTwGnmHjkCLDqKPWt8c	Might							
 K9ftdbtRngmNQMLwpWh9d	Bracken Rap	2	6gqTwGnmHjkCLDqKPWt8c	Might							
+HNdCrFPzJPThCzLBqpMdt	Bravery of the Blade	1	fQTg89mpRjTDTRmPGkQb6	Courage							
+PTGT6hj8GWzJHtPCKWHMF	Breach Flesh	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+h8WCHRCrH9KhqKTzbB6tb	Breach Flesh	2	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+8mdTgk6kTQTjKrhjKGgBq	Breach Flesh	3	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 jwWWMBhk9KQdTDBgCLKKj	Break Open the Chests!	2	8qdmprPg7kckn8ktMTKQh	Gold							
 wgLPnnJb8QW7WH6zRFbNr	Break Tide	2	9QkzLM66JjHbrMD9M6KDf	Flood of Force	2						
 wgLPnnJb8QW7WH6zRFbNr	Break Tide	2	wmN6kmKhktkmfhWtqLmHm	Rushing River	1						
@@ -603,6 +643,7 @@ mCCnJrJQkqJ7KfqKNHGnc	Chane		9F6H6kTdQdcHrDrRCDmLP	Soul Shackle
 MhBTRHCCft7RbrMmkwwGw	Chane, Bound by Shadow		9F6H6kTdQdcHrDrRCDmLP	Soul Shackle							
 fBkzc8fHBKTCqGTJJP8cP	Channel Iceloch Glaze	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 rFbFBgmNfJzFbdwhrJrgB	Channel Mount Isen	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
+GDPhkGLTWbJFN6LDq9HW6	Channel Stormgarden	2	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 8Q8tDLjqHRbJLh8CTpkwr	Channel the Skybreaker	2	6gqTwGnmHjkCLDqKPWt8c	Might							
 MnFBFMRFhmwWQLLKQFJQc	Chart a Course	1	jnR9QPhTfLmGWF7TPTQgp	Treasure Island							
 Rwgrgc7rDQbtj6KhkfjTb	Chart a Course	2	jnR9QPhTfLmGWF7TPTQgp	Treasure Island							
@@ -647,6 +688,9 @@ JMb6zBb6gJ78bJnfCG8wp	Clear Conscience	1	HpWqFJW8ftTDdzCLK9RkD	Ponder
 R9dRbDCJbNGLHFctHd9pW	Clear Conscience	2	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 mftrgDLcgF69QrzBgK6HB	Clear Conscience	3	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 WffgNjPNdkz9GB9TRT7RT	Clearwater Elixir	1	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox							
+hkWz9kcwrcHn9GffzQ7LP	Cleave the Heavens	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+chgKbH7FjKKpQrp7KKcGQ	Cleave the Heavens	2	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+krhrbCqFhqNdJrmGgRkrj	Cleave the Heavens	3	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 KdPWDMfBd8BQp66B9chCQ	Coat of Frost		GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 LzjkDR6QcL9WBztfDTRt9	Coax a Commotion	1	cDpMQnr8LwPFGMdgffNb8	Quicken							
 tjnCb9JGD7mzznFPfDzHp	Codex of Bloodrot	2	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox							
@@ -662,6 +706,7 @@ KP7QFDQPWfTW9DwmgBJq9	Coercive Tendency	3	rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionet
 KP7QFDQPWfTW9DwmgBJq9	Coercive Tendency	3	jkwfjdcDbhRnDrPWDnwT9	Arakni, Solitary Confinement							
 KP7QFDQPWfTW9DwmgBJq9	Coercive Tendency	3	qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit							
 jqrFDnJPwhw6bcQCcrLQT	Cog in the Machine	1	H6nDPCh7gTgWLfzGdhHB7	Golden Cog							
+TMHBBLM6KLTJdRWHttcTK	Cogwerx Prong Bot	2	H6nDPCh7gTgWLfzGdhHB7	Golden Cog							
 cqRf8LJ6Dt86pRfcDdJ7H	Cogwerx Tinker Rings		H6nDPCh7gTgWLfzGdhHB7	Golden Cog							
 NtGRcJrNgDN6LcQtcN7Qb	Cogwerx Workshop	3	H6nDPCh7gTgWLfzGdhHB7	Golden Cog							
 WMNLQNgmCHD7FwnFFq6dG	Cogwerx Zeppelin	1	H6nDPCh7gTgWLfzGdhHB7	Golden Cog							
@@ -669,6 +714,9 @@ fJzjdQTnDbfNwGCDWCBNK	Cogwerx Zeppelin	2	H6nDPCh7gTgWLfzGdhHB7	Golden Cog
 kNggzqkBtLWRqfhFCMbfQ	Cogwerx Zeppelin	3	H6nDPCh7gTgWLfzGdhHB7	Golden Cog							
 NzT7pTMkkPCfNr79ftFtG	Collapsing Trap	3	DhffBQC7PHwzdJpjTjNBm	Riptide							
 NzT7pTMkkPCfNr79ftFtG	Collapsing Trap	3	RNfgGmc8wHgBrmC6gkqBd	Riptide, Lurker of the Deep							
+NbfNqhPmHL8zKbQmbQcfB	Commit to Corruption	1	qmC78MP6bjTHcDChc6RMJ	Corrupted Corpse							
+mLNddgQPMMqJwN7KwrQnB	Commit to Corruption	2	qmC78MP6bjTHcDChc6RMJ	Corrupted Corpse							
+h7knnpR8JkPm9Qkr7Rt7G	Commit to Corruption	3	qmC78MP6bjTHcDChc6RMJ	Corrupted Corpse							
 6h97MQcbc89bqd99BGRht	Companion of the Claw	1	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
 6hwzWtTQ8pPqmNwL9dDFP	Companion of the Claw	2	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
 KhmFwJF7JFP9W9c6C8brQ	Companion of the Claw	3	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
@@ -684,6 +732,17 @@ RNCWjkhhdhrHCNRncqznq	Construct Bank Breaker	2	kRRdnfWFfdCmmKTnjmzNk	Hyper Drive
 RNCWjkhhdhrHCNRncqznq	Construct Bank Breaker	2	zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2						
 RNCWjkhhdhrHCNRncqznq	Construct Bank Breaker	2	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3						
 mjFjGKmpGbTCnrJR6fN79	Construct Nitro Mechanoid	2	wCLt8CtdLmrbMPcqLCzqc	Nitro Mechanoid							
+JPzCQ97Nbmg9qJhfJBtj8	Consuming Appetite	2	FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger							
+mDGrzt77f8wK6mtR9zzbb	Consuming Command	3	FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger							
+GLQCjzpfwgGf8rpzJrGgR	Consuming Lash	2	dbrfzmNJ9ccB9CW68pmQp	Blasmophet, Levia Consumed							
+GLQCjzpfwgGf8rpzJrGgR	Consuming Lash	2	FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger							
+GLQCjzpfwgGf8rpzJrGgR	Consuming Lash	2	qJ8HCWnpHbPRGRGpt86Cb	Blasmophet, the Soul Harvester							
+Dc7LG9fFtW6GGgcTQ8P9C	Consuming Strength	2	dbrfzmNJ9ccB9CW68pmQp	Blasmophet, Levia Consumed							
+Dc7LG9fFtW6GGgcTQ8P9C	Consuming Strength	2	FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger							
+Dc7LG9fFtW6GGgcTQ8P9C	Consuming Strength	2	qJ8HCWnpHbPRGRGpt86Cb	Blasmophet, the Soul Harvester							
+hNpKfLGdtqTGg77RFwNGK	Corporeal Chasm	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+jmKT66trCw8kNqq7WPCtk	Corporeal Chasm	2	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+jkwnpt7z7J8LzcqrHzkzh	Corporeal Chasm	3	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 L7GjnTRkPzCWDfwjfBj7n	Cosmic Awakening	3	FRTnBzBCRC7TbNhdKLWqW	Inner Chi	3						
 tWqk8FWtf7TD9RgWBpKPP	Cosmic Duality	1	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 rQTCqBFcppTWfDwfFkHQN	Cosmic Duality	2	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
@@ -697,6 +756,18 @@ gFm9BtgB7HbP6CkbjG8gC	Count Your Blessings	2	7c9ChFNmpbPDdgD7DNKth	Count Your Bl
 7c9ChFNmpbPDdgD7DNKth	Count Your Blessings	3	cP6jRNBkfK9L8HzGjgpmw	Count Your Blessings	1						
 7c9ChFNmpbPDdgD7DNKth	Count Your Blessings	3	gFm9BtgB7HbP6CkbjG8gC	Count Your Blessings	2						
 7c9ChFNmpbPDdgD7DNKth	Count Your Blessings	3	7c9ChFNmpbPDdgD7DNKth	Count Your Blessings	3						
+9LNtFHHCkhTdKtWpDnFFH	Countdown to Extinction	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+9LNtFHHCkhTdKtWpDnFFH	Countdown to Extinction	1	Mb9GFdjQhPqgqJC9gD6tt	Darkest Hour	1						
+9LNtFHHCkhTdKtWpDnFFH	Countdown to Extinction	1	6WmwGtPrhhbjT6h8L6FNK	Darkest Hour	2						
+9LNtFHHCkhTdKtWpDnFFH	Countdown to Extinction	1	8k9gJp8hcDg8wCBjTR9Bj	Darkest Hour	3						
+jqwqn9CmrMLzmHNfNQHcd	Countdown to Extinction	2	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+jqwqn9CmrMLzmHNfNQHcd	Countdown to Extinction	2	Mb9GFdjQhPqgqJC9gD6tt	Darkest Hour	1						
+jqwqn9CmrMLzmHNfNQHcd	Countdown to Extinction	2	6WmwGtPrhhbjT6h8L6FNK	Darkest Hour	2						
+jqwqn9CmrMLzmHNfNQHcd	Countdown to Extinction	2	8k9gJp8hcDg8wCBjTR9Bj	Darkest Hour	3						
+9djqzttRFdLMNLDr77kQ6	Countdown to Extinction	3	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+9djqzttRFdLMNLDr77kQ6	Countdown to Extinction	3	Mb9GFdjQhPqgqJC9gD6tt	Darkest Hour	1						
+9djqzttRFdLMNLDr77kQ6	Countdown to Extinction	3	6WmwGtPrhhbjT6h8L6FNK	Darkest Hour	2						
+9djqzttRFdLMNLDr77kQ6	Countdown to Extinction	3	8k9gJp8hcDg8wCBjTR9Bj	Darkest Hour	3						
 7H6zRGbKbL8BpgNMgwh97	Courageous Crossing	3	fQTg89mpRjTDTRmPGkQb6	Courage							
 b9Hw6NhDgfdQWLDQffTPC	Crane Dance	1	DH8zBCdjRpQmLKgbnRF8q	Soulbead Strike	1						
 b9Hw6NhDgfdQWLDQffTPC	Crane Dance	1	gz8JNPJGQNgq66jKkBzbD	Soulbead Strike	2						
@@ -737,9 +808,13 @@ mnKzqjmdQbtKgBLT6bFBj	Crumble to Eternity	3	9QL68DDb9hCqhWWhgnQgR	Jarl Vetreiđi
 fMTdMtzzft7bLzG9DpjNc	Cyclone Roundhouse	2	8w9NwkkKWrtCGbmBBcfJR	Spinning Wheel Kick	1						
 fMTdMtzzft7bLzG9DpjNc	Cyclone Roundhouse	2	pB8QJrtrPdHMmGrLpNNHL	Spinning Wheel Kick	2						
 fMTdMtzzft7bLzG9DpjNc	Cyclone Roundhouse	2	wdbnJz7TQDCJ6gWW7WNch	Spinning Wheel Kick	3						
+WKdLRgk8MmQ8WtrpDhLFk	Dam the Shadowake	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+GgTL8cwBB7MbDcztGRDfw	Dam the Shadowake	2	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+RfQHwcKtQhRhFBwQBzMkq	Dam the Shadowake	3	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 8m9Tr996zccnJhHcQKhFr	Dashing Flashfoot	2	QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning							
 TjbQ8B7bPdngTrkpGD8bG	Deadly Display	1	jdkmHT8QfQmMbPLBHPrHJ	Flurry							
 FpzTKHqqhbqgK7zQkJtTk	Deadly Display	3	jdkmHT8QfQmMbPLBHPrHJ	Flurry							
+jmTnGfgnfpMGqPBTrnHKG	Deadly Spinneret	1	CKFCLPKmb6nMQW9Jqjdz8	Graphene Chelicera							
 r7fBPzjnf99MPwFc6F8b6	Deadwood Dirge	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 N9QrfGfPbL9NHPcRT6Nd7	Deadwood Dirge	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 jMq8ttGz9DCqPMjQRRmdF	Deadwood Dirge	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
@@ -878,6 +953,16 @@ NKpQT99rMW9DHw6Jjgrq8	Embermaw Cenipai	2	G6CnbFqjfGgKqqqmnCbMh	Ash
 fkrcRbTfRgjF8tpTKPMNH	Embermaw Cenipai	3	G6CnbFqjfGgKqqqmnCbMh	Ash							
 MNDjrGBMKh8LtjTdhPrfz	Embody Greatness	2	n9r77QwMzdWJmnfhPLN9J	Shiyana, Diamond Gemini							
 7LBccf7qnHMdgb996CcWz	Embrace Adversity		6gqTwGnmHjkCLDqKPWt8c	Might							
+T997BRN8zNhbWCgbpbhP8	Embrace Sin	2	HDtcFpfJGnLpQW7LfmM7k	Runechant of Envy	2						
+T997BRN8zNhbWCgbpbhP8	Embrace Sin	2	9wdzWnFf7J6nmL86nFhtN	Runechant of Gluttony	2						
+T997BRN8zNhbWCgbpbhP8	Embrace Sin	2	MT8LQJTF6w8gPqMzNTrkr	Runechant of Greed	2						
+T997BRN8zNhbWCgbpbhP8	Embrace Sin	2	FpMpBwHGNgTGDjgfpWBKB	Runechant of Lust	2						
+T997BRN8zNhbWCgbpbhP8	Embrace Sin	2	HqGFdH8tMH6fR8bNMkTjq	Runechant of Pride	2						
+T997BRN8zNhbWCgbpbhP8	Embrace Sin	2	BMgj68hT9jQHQ6nFqhTDT	Runechant of Sloth	2						
+T997BRN8zNhbWCgbpbhP8	Embrace Sin	2	qwpdn8CJWGgkHLqdhDtgh	Runechant of Wrath	2						
+BMWL86gpr7dDBCcfChgRg	Embrace Ursur	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+hKqfRdRKBqgKwKJwzp7Dp	Embrace Ursur	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+dkPRHjHr9Kjt8Lhqpbz69	Embrace Ursur	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 FFrCkdLPFwwTzHJPwcTRC	Emerging Avalanche	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 bjbb9hfw8BzbQqqqHtCjJ	Emerging Avalanche	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 NDkNqCchBdrhwz7RCBn77	Emerging Avalanche	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
@@ -919,6 +1004,9 @@ tJhRRN9kkMCnGQdQJ8TWg	Enigma, Ledger of Ancestry		NwwnMqBg9tdRBp9NWHpgf	Spectral
 dzMffTNHqjw8q8jkDjGwD	Enion Surge	1	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 McHtzkNrnJDfNFNNqCFC8	Enion Surge	2	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 fWQbRmQL9nM8TBfkfbCbW	Enion Surge	3	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
+ppTLn7tQ6nFjNW8Gzzj76	Enshrine Sin	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+nLjpcrnhFQRwC9gfNCPLD	Enshrine Sin	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+pkdhbdwpKH8nGdHBGtjhc	Enshrine Sin	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 jTt8B8LqdBkCkwNwbGW8n	Envelop in Darkness	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 jTt8B8LqdBkCkwNwbGW8n	Envelop in Darkness	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 H9jP9mrrKwWtGdbnq99dd	Envelop in Darkness	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
@@ -965,6 +1053,9 @@ Hnw87jtbJwdMWMNf8NgPk	Etchings of Arcana	3	pW9RcR7zcbrJDfgGFdrgR	Sigil of Sanctu
 9QB9tNFgJJrW87DhjjdrM	Etchings of Arcana	1	HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3						
 L8QMPzFdqBBGzD7CNRHQj	Etchings of Arcana	2	HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3						
 Hnw87jtbJwdMWMNf8NgPk	Etchings of Arcana	3	HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3						
+9QB9tNFgJJrW87DhjjdrM	Etchings of Arcana	1	t9FznwrqznJ6tF6bJ6Tht	Sigil of the Muse	1						
+L8QMPzFdqBBGzD7CNRHQj	Etchings of Arcana	2	t9FznwrqznJ6tF6bJ6Tht	Sigil of the Muse	1						
+Hnw87jtbJwdMWMNf8NgPk	Etchings of Arcana	3	t9FznwrqznJ6tF6bJ6Tht	Sigil of the Muse	1						
 WQQFCnb8FKJn9HrzCNDmG	Even Bigger Than That!	1	cDpMQnr8LwPFGMdgffNb8	Quicken							
 QbtQ6rBPTTD99TNC7PGRM	Even Bigger Than That!	2	cDpMQnr8LwPFGMdgffNb8	Quicken							
 LDCrQmNm8bFk8wcCJ6pj9	Even Bigger Than That!	3	cDpMQnr8LwPFGMdgffNb8	Quicken							
@@ -1010,6 +1101,7 @@ Trqb96WQpRWK88QHt9WrL	Familiar Stench	1	DBhPCQqjnj6qqd9DtBB7W	Vigor
 pNJRPDHg7LnKQWhNctPkD	Familiar Story	1	WBFjTCfmbwHCr8WNmz8RQ	Confidence							
 RBcRMcBrm89m6pcTDQnP9	Fang		n9FtLHDg97rfrTNJDMBG6	Fealty							
 P9DWCqqTwtKLnhNzLHnnp	Fang, Dracai of Blades		n9FtLHDg97rfrTNJDMBG6	Fealty							
+fGRzF7zPqmP8NCLCBG8RT	Favorable Winds	2	p9pFJWk6TCzMCLKPB68KG	Goldfin Harpoon	2						
 n9FtLHDg97rfrTNJDMBG6	Fealty		n9FtLHDg97rfrTNJDMBG6	Fealty							
 p7CLrzj7kGMtt8cLfMdqT	Fiddle-dee		6gqTwGnmHjkCLDqKPWt8c	Might							
 TMKn79cNDqQp6PJGGrBqj	Fight Night Prize Purse		8qdmprPg7kckn8ktMTKQh	Gold							
@@ -1065,8 +1157,10 @@ HGNCdBCQmdRqQGggmrLjg	Fluster Fist	2	CChttCnwGwHMcBKm6LhNR	Open the Center	3
 9n8wHtnLRcNrMhctcDQCb	Fluster Fist	3	BfQnT8rqMhTBmDWCFgdhW	Open the Center	2						
 9n8wHtnLRcNrMhctcDQCb	Fluster Fist	3	CChttCnwGwHMcBKm6LhNR	Open the Center	3						
 t9FQnwWKw7RWz7pPBGf7f	Fool's Gold	2	8qdmprPg7kckn8ktMTKQh	Gold							
+TCwdJhPtRQFzfgBgDhq6p	Forbidden Harvest	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 GwJdwRwJFbjNNWLzCqr6M	Force of Nature	3	7TjkgnbJ8tghfrkMRnTfW	Briar							
 GwJdwRwJFbjNNWLzCqr6M	Force of Nature	3	cjDzkKdjNrGqL9tnDc7zd	Briar, Warden of Thorns							
+WwDhkb9GhLkbfGPdH68kh	Forsaken Strike	2	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 PnpHhBNBrWPC89LLC8td7	Four Feathers One Crown	1	TMj8cMnKjDbTPMnfTL8tL	Phoenix Bannerman: Arms	1						
 PnpHhBNBrWPC89LLC8td7	Four Feathers One Crown	1	7H7Q8F8wdjf6gJq6MGcz6	Phoenix Bannerman: Chest	1						
 PnpHhBNBrWPC89LLC8td7	Four Feathers One Crown	1	tFPLw7nPCjf7rqbGhCBTr	Phoenix Bannerman: Head	1						
@@ -1134,6 +1228,7 @@ gTk9tDTjGDw9c9dM87gTR	Glyph Destruction Nodes	2	G9cDhnLB8kWQRgkFcpM8T	Sigil of P
 gTk9tDTjGDw9c9dM87gTR	Glyph Destruction Nodes	2	nncFJBw6FFnMfkfrFnWwR	Sigil of Protection	3						
 gTk9tDTjGDw9c9dM87gTR	Glyph Destruction Nodes	2	pW9RcR7zcbrJDfgGFdrgR	Sigil of Sanctuary	3						
 gTk9tDTjGDw9c9dM87gTR	Glyph Destruction Nodes	2	HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3						
+gTk9tDTjGDw9c9dM87gTR	Glyph Destruction Nodes	2	t9FznwrqznJ6tF6bJ6Tht	Sigil of the Muse	1						
 7ztwtMfmmbnrhqM9F797p	Glyph Overlay	1	zRCmqmDrDLdDwnc9Td6j7	Sigil of Aether	3						
 R9WwPqkfTJnGhpN8fmnCt	Glyph Overlay	2	zRCmqmDrDLdDwnc9Td6j7	Sigil of Aether	3						
 fDz7TpcM8GPdLWPCjcnKh	Glyph Overlay	3	zRCmqmDrDLdDwnc9Td6j7	Sigil of Aether	3						
@@ -1173,6 +1268,9 @@ fDz7TpcM8GPdLWPCjcnKh	Glyph Overlay	3	pW9RcR7zcbrJDfgGFdrgR	Sigil of Sanctuary	3
 7ztwtMfmmbnrhqM9F797p	Glyph Overlay	1	HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3						
 R9WwPqkfTJnGhpN8fmnCt	Glyph Overlay	2	HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3						
 fDz7TpcM8GPdLWPCjcnKh	Glyph Overlay	3	HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3						
+7ztwtMfmmbnrhqM9F797p	Glyph Overlay	1	t9FznwrqznJ6tF6bJ6Tht	Sigil of the Muse	1						
+R9WwPqkfTJnGhpN8fmnCt	Glyph Overlay	2	t9FznwrqznJ6tF6bJ6Tht	Sigil of the Muse	1						
+fDz7TpcM8GPdLWPCjcnKh	Glyph Overlay	3	t9FznwrqznJ6tF6bJ6Tht	Sigil of the Muse	1						
 6KW6hmRbDRRcrThDpMDDT	Glyph Power Spell	1	zRCmqmDrDLdDwnc9Td6j7	Sigil of Aether	3						
 6KW6hmRbDRRcrThDpMDDT	Glyph Power Spell	1	HnMKfF8fQMj9KJfhGBkdG	Sigil of Brilliance	2						
 6KW6hmRbDRRcrThDpMDDT	Glyph Power Spell	1	cJDgKwKhP89PKhhhcqrgg	Sigil of Conductivity	3						
@@ -1194,6 +1292,7 @@ fDz7TpcM8GPdLWPCjcnKh	Glyph Overlay	3	HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Ma
 6KW6hmRbDRRcrThDpMDDT	Glyph Power Spell	1	FDdnD9zhdgCkJFTQdLbbp	Sigil of Solace	2						
 6KW6hmRbDRRcrThDpMDDT	Glyph Power Spell	1	QgFnmwphgLtnNmrHF8B6w	Sigil of Solace	3						
 6KW6hmRbDRRcrThDpMDDT	Glyph Power Spell	1	HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3						
+6KW6hmRbDRRcrThDpMDDT	Glyph Power Spell	1	t9FznwrqznJ6tF6bJ6Tht	Sigil of the Muse	1						
 gnCjFF9rFPTrhTrBcjJGc	Goblet of Bloodrun Wine	3	WqTTMjDgKKCp7Lnb7LH6d	Agility							
 gnCjFF9rFPTrhTrBcjJGc	Goblet of Bloodrun Wine	3	DBhPCQqjnj6qqd9DtBB7W	Vigor							
 Kjjm76jCB6TCdfprGprtD	Gold Hunter Ketch	2	8qdmprPg7kckn8ktMTKQh	Gold							
@@ -1236,11 +1335,13 @@ JJqgR7zTPJmjWNtnFdQ88	Good Time Chapeau		m7WjNjrtmfKdLfqPLWDHw	Betsy, Skin in th
 JJqgR7zTPJmjWNtnFdQ88	Good Time Chapeau		8qdmprPg7kckn8ktMTKQh	Gold							
 JJqgR7zTPJmjWNtnFdQ88	Good Time Chapeau		6gqTwGnmHjkCLDqKPWt8c	Might							
 JJqgR7zTPJmjWNtnFdQ88	Good Time Chapeau		DBhPCQqjnj6qqd9DtBB7W	Vigor							
+R6cnJKCmcc9w8qLcFjKzq	Goremass Summoning	3	FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger							
 tFjCKTzpnNCbMGwgtMjFn	Gorgon's Gaze	2	FRTnBzBCRC7TbNhdKLWqW	Inner Chi	3						
 tFjCKTzpnNCbMGwgtMjFn	Gorgon's Gaze	2	zBDwTqgQTKrNRwjQmMr9g	Slither							
 FhJWwcJKQjbQhHGRcNFTf	Grains of Bloodspill		DBhPCQqjnj6qqd9DtBB7W	Vigor							
 pwfB8pHmJRDD8CfP8mTbr	Grandeur of Valahai		Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
 6WM7PKt9BCGmw7wQzn7k6	Grasp of the Arknight		zfrHQjbPkpBmdQGrWcTMB	Runechant							
+jrMzQzBmGK9LjRhQmPhCw	Grasp of the Darknight		zfrHQjbPkpBmdQGrWcTMB	Runechant							
 Ng9LqqDzcwcTmQmDzWzjT	Graven Call		TNJz9fCgqmhhLz9rP9tkt	Silver							
 ctk8ztqbzqLTRGNrQkJwf	Graven Cowl		TNJz9fCgqmhhLz9rP9tkt	Silver							
 wkgMjwtjQk7NCGLFt9wDw	Graven Gaslight		TNJz9fCgqmhhLz9rP9tkt	Silver							
@@ -1280,6 +1381,7 @@ mTpzzz7FRDn6pfwQkQtRw	Hammerhead, Harpoon Cannon		QMr7k6cBWr6PJNDFFWgFw	Yellow F
 8qzF9KbHtkNHpGzpdGWhk	Hand of Vengeance		twn6MLFjQJrQ9GnwW9BNd	Arakni, Tarantula							
 8qzF9KbHtkNHpGzpdGWhk	Hand of Vengeance		dkzRfmwLkcGrgmnzTQzcJ	Arakni, Trap-Door							
 8qzF9KbHtkNHpGzpdGWhk	Hand of Vengeance		qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit							
+LfnJQtptHtLbDRNDcf9Pq	Harbinger of Destruction	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 8DknMpTdzFbMdjpRhkWLm	Harmony of the Hunt	1	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
 6mDWM8jqfRP6NNLrcNjtQ	Harmony of the Hunt	2	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
 96qhpHbkmGTNFKQNjFrwq	Harmony of the Hunt	3	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
@@ -1378,6 +1480,7 @@ mC76qgRmwnBBqMkgTTfJ8	Hyper Scrapper	3	chD7n8jHMM6brNhDGJtfG	Hyper Driver	3
 WkJPkznH7gWGLmhtcmrrR	Hyper-X3		kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1						
 WkJPkznH7gWGLmhtcmrrR	Hyper-X3		zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2						
 WkJPkznH7gWGLmhtcmrrR	Hyper-X3		chD7n8jHMM6brNhDGJtfG	Hyper Driver	3						
+CT9PFChMjT8kftwNFqP8p	Ice Aged Oak	3	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							
 zBQGRp777Mj9QPL7zTb9d	Ice Eternal	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 zBQGRp777Mj9QPL7zTb9d	Ice Eternal	3	TmKrpP8tDg8bmpnqMPtgj	Iyslander							
 zBQGRp777Mj9QPL7zTb9d	Ice Eternal	3	8KRCDf6drqhFMKK7hJhbM	Iyslander, Stormbind							
@@ -1420,6 +1523,7 @@ TPQdbDWdpDjBznGcwfF7g	Ink-lined Cloak		G9cDhnLB8kWQRgkFcpM8T	Sigil of Protection
 TPQdbDWdpDjBznGcwfF7g	Ink-lined Cloak		nncFJBw6FFnMfkfrFnWwR	Sigil of Protection	3						
 TPQdbDWdpDjBznGcwfF7g	Ink-lined Cloak		pW9RcR7zcbrJDfgGFdrgR	Sigil of Sanctuary	3						
 TPQdbDWdpDjBznGcwfF7g	Ink-lined Cloak		HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3						
+TPQdbDWdpDjBznGcwfF7g	Ink-lined Cloak		t9FznwrqznJ6tF6bJ6Tht	Sigil of the Muse	1						
 cRRDRFWcfMpkDcWtTphFT	Interlude	1	gzDGmdfm6gHWctgrcgfKf	Copper							
 hkmQgBRgHRJJh6jmzGW8G	Interlude	2	gzDGmdfm6gHWctgrcgfKf	Copper							
 WLwb8QhpFqc69mcwQGg9n	Interlude	3	gzDGmdfm6gHWctgrcgfKf	Copper							
@@ -1632,8 +1736,12 @@ W8qgQqqTzWMFFcCCzTLGg	Magrar		HhTPF8HGRqhFbTT8HnBBh	Zen State
 CwJMHg9zGWTRtRFhbWNbf	Malefic Incantation	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 kbTJ7t7MLfLRNprLbJQRQ	Malefic Incantation	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 9GqP669FDfnpMzmL7t7JW	Malefic Incantation	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+rrJg7Bntjp9WzWNcnJcjw	Malice		qmC78MP6bjTHcDChc6RMJ	Corrupted Corpse							
+cz8FPm7Rjjndfgb8jQBcT	Malice, Domina of the Dead		qmC78MP6bjTHcDChc6RMJ	Corrupted Corpse							
 f8QrwNNrtgKcB8MwLRQh8	Manifestation of Miragai		FRTnBzBCRC7TbNhdKLWqW	Inner Chi	3						
 RbgFbTMtHzGhq8dmDLwpG	March of Loyalty	1	n9FtLHDg97rfrTNJDMBG6	Fealty							
+WCDQmHjfcPBRfrpGh9dq8	Mark of Neverest	3	qmC78MP6bjTHcDChc6RMJ	Corrupted Corpse							
+LfctPwBM8nzQKQPmpLBRm	Mark of Ushering	3	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 N7PFFQLkdzRMDhzDWJWwW	Marlynn		8qdmprPg7kckn8ktMTKQh	Gold							
 N7PFFQLkdzRMDhzDWJWwW	Marlynn		p9pFJWk6TCzMCLKPB68KG	Goldfin Harpoon	2						
 rTNChdmHbjN7HPNJJLzCt	Marlynn, Treasure Hunter		8qdmprPg7kckn8ktMTKQh	Gold							
@@ -1712,6 +1820,9 @@ zjzpNfJzKkkQPptTjCthC	Mugenshi: RELEASE	2	Hpq8jQm9H97HbfhBKgctd	Surging Strike	2
 zjzpNfJzKkkQPptTjCthC	Mugenshi: RELEASE	2	KtHkGCQfc6Td7Dg8htCcJ	Surging Strike	3						
 RmpWGrQMtkjKRfd8QqrGJ	Murky Water	1	DhffBQC7PHwzdJpjTjNBm	Riptide							
 RmpWGrQMtkjKRfd8QqrGJ	Murky Water	1	RNfgGmc8wHgBrmC6gkqBd	Riptide, Lurker of the Deep							
+mwMqLtn6qkbWLgChrbJJ7	Murmuring Gloomblade	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+kf6DRRCmgtkFHGp6kdFPp	Murmuring Gloomblade	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+Mdrgw7LhfBWjQCzfqmmQk	Murmuring Gloomblade	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 jTqtrLChdJz6wnctGhpKc	Mutually Assured Destruction	1	TNJz9fCgqmhhLz9rP9tkt	Silver							
 jTqtrLChdJz6wnctGhpKc	Mutually Assured Destruction	1	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox							
 zJ9h7zCdQcttTrmgLR6q9	Myrkhellir Helm		8qdmprPg7kckn8ktMTKQh	Gold							
@@ -1790,6 +1901,9 @@ t7H7JCQcTb9TTjjCbNwDH	Olympia		8qdmprPg7kckn8ktMTKQh	Gold
 chGgK8FWnBB7dMj8nTRLR	Olé	3	jdkmHT8QfQmMbPLBHPrHJ	Flurry							
 mjprN8T6mMh9pcWCmgPrN	Omens of Arcana		NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 MNTwwGcGgbWBPrnDdKtBb	Ominous Excavation	3	HpWqFJW8ftTDdzCLK9RkD	Ponder							
+kqgmK6HhhfFrFq9zjgtQn	Ominous Toll	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+wrrNQrjh7BtTjGrPq9qp7	Ominous Toll	2	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+jmktPCQzQHc9pCpwWHf7n	Ominous Toll	3	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 pFLwpNDCLLMNtd7rRqNMf	One-Two Punch	1	JtCMThrjDDLjGmBbCcpWc	Head Jab	1						
 pFLwpNDCLLMNtd7rRqNMf	One-Two Punch	1	CwHzMDBNQRNdWpMc7phMr	Head Jab	2						
 pFLwpNDCLLMNtd7rRqNMf	One-Two Punch	1	CbngjC9FTFNdmTGT7ddCT	Head Jab	3						
@@ -1808,6 +1922,7 @@ BfQnT8rqMhTBmDWCFgdhW	Open the Center	2	CbngjC9FTFNdmTGT7ddCT	Head Jab	3
 CChttCnwGwHMcBKm6LhNR	Open the Center	3	JtCMThrjDDLjGmBbCcpWc	Head Jab	1						
 CChttCnwGwHMcBKm6LhNR	Open the Center	3	CwHzMDBNQRNdWpMc7phMr	Head Jab	2						
 CChttCnwGwHMcBKm6LhNR	Open the Center	3	CbngjC9FTFNdmTGT7ddCT	Head Jab	3						
+KjbHhphRQNpDQRbjNJh9f	Open the Gate to i'Arathael	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 rLgr6PwGt9TtRFMwTFQf7	Orb-Weaver Spinneret	1	CKFCLPKmb6nMQW9Jqjdz8	Graphene Chelicera							
 T8Djg7CtcKNrhdbfBCb8t	Orb-Weaver Spinneret	2	CKFCLPKmb6nMQW9Jqjdz8	Graphene Chelicera							
 HDJFD6zmgqHN9jfNNMDCD	Orb-Weaver Spinneret	3	CKFCLPKmb6nMQW9Jqjdz8	Graphene Chelicera							
@@ -1815,6 +1930,9 @@ nqbttmdCrgTbFBjJBzLtz	Oscilio, Forked Continuum		NzHWJJzD6JwJ88LmRTTGQ	Lightning
 nqbttmdCrgTbFBjJBzLtz	Oscilio, Forked Continuum		HpWqFJW8ftTDdzCLK9RkD	Ponder							
 bdD7LdLhpgdfLwzCq6jBc	Oscilio, Scion of the Third Age		NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 bdD7LdLhpgdfLwzCq6jBc	Oscilio, Scion of the Third Age		HpWqFJW8ftTDdzCLK9RkD	Ponder							
+qk9CgqWCcCFdkddzNngPh	Otherworldly Sins	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+HCjKd6dWLBBJbkwhbBtfC	Otherworldly Sins	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+nWPD8WCfJkKhb6JRhczTk	Otherworldly Sins	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 cbKTjfkmpJCCQcRpKbPCJ	Outland Skirmish	1	gzDGmdfm6gHWctgrcgfKf	Copper							
 h7cHBbCqJnRKPFFLHmbHL	Outland Skirmish	2	gzDGmdfm6gHWctgrcgfKf	Copper							
 6NqHrDGMBKrbmcCKQG6Hd	Outland Skirmish	3	gzDGmdfm6gHWctgrcgfKf	Copper							
@@ -1871,6 +1989,7 @@ bRM9LLRrhJ8LLqBrGKCgb	Pint of Strong and Stout	3	DBhPCQqjnj6qqd9DtBB7W	Vigor
 GKWhbqnhnR6ztt9gCzmLw	Plague Hive	2	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox							
 GKWhbqnhnR6ztt9gCzmLw	Plague Hive	2	KPWKQmMgm7rmM7bfFw9gF	Frailty							
 GKWhbqnhnR6ztt9gCzmLw	Plague Hive	2	G6kbCqnBzwjhrb88Q6K7w	Inertia							
+HbwkT7qd9wF9Rqkbt7tNt	Planar Chaos	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 qRKjzf8nTgdBt8BMMgRPJ	Plate of Tough Love		WBFjTCfmbwHCr8WNmz8RQ	Confidence							
 qRKjzf8nTgdBt8BMMgRPJ	Plate of Tough Love		Cn8tK9KRm7d9KbcQk6Pqm	Toughness							
 LQDwqpNddrmqQQb8J9dht	Pledge Fealty	1	n9FtLHDg97rfrTNJDMBG6	Fealty							
@@ -1956,6 +2075,7 @@ G7WBwbd7TnnMMp8R9tkMw	Proclaim Vengeance	1	CKtFCgnGdwMDBh7dzDqqz	Arakni, Huntsma
 G7WBwbd7TnnMMp8R9tkMw	Proclaim Vengeance	1	rzm9GQbbBrrDzLQRcB6kK	Arakni, Marionette							
 G7WBwbd7TnnMMp8R9tkMw	Proclaim Vengeance	1	jkwfjdcDbhRnDrPWDnwT9	Arakni, Solitary Confinement							
 G7WBwbd7TnnMMp8R9tkMw	Proclaim Vengeance	1	qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit							
+pCnB7kGmgrRp68nJQJr9z	Promise of Power	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 jFpwffNmqGB8nTHt7mzp9	Promising Terrain	3	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
 bRKLFbq7gKkdTQnqBmWgC	Prophetic Quickstep	2	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 fJTDNGKmzzzmwzrpCdgbT	Puffer Jacket		kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1						
@@ -1965,6 +2085,9 @@ m8MzjMMWBw88jJj9gt9Qj	Puffin		8qdmprPg7kckn8ktMTKQh	Gold
 m8MzjMMWBw88jJj9gt9Qj	Puffin		H6nDPCh7gTgWLfzGdhHB7	Golden Cog							
 DghbPmFhwLkT9whJJjL9f	Puffin, Hightail		8qdmprPg7kckn8ktMTKQh	Gold							
 DghbPmFhwLkT9whJJjL9f	Puffin, Hightail		H6nDPCh7gTgWLfzGdhHB7	Golden Cog							
+RwBNCgjbQdncGdqP7MJjR	Pull from Beyond	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+cwGdHMhbQbQHMkR7hWwhp	Pull from Beyond	2	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+mJcpckWTBQMjHzQz8KRmq	Pull from Beyond	3	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 FB87tWPkwcRzmzjLcDfMD	Put 'Em In Their Place	1	zWhGF8kMMdmKdhMNdj6NH	Valda Brightaxe							
 FB87tWPkwcRzmzjLcDfMD	Put 'Em In Their Place	1	bjLbTMgMm6QRWBRrw8chQ	Valda, Seismic Impact							
 twGn8N6Pm6ctFgKnjCpL7	Qi Unleashed	1	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
@@ -2065,6 +2188,8 @@ CBc98j9J9PmqRKNdTchgW	Resounding Courage	1	fQTg89mpRjTDTRmPGkQb6	Courage
 dGQMGKjkBHPGpLCQjgm7P	Resounding Courage	2	fQTg89mpRjTDTRmPGkQb6	Courage							
 gW8BgNnBNK8JNCH7DC8cd	Resounding Courage	3	fQTg89mpRjTDTRmPGkQb6	Courage							
 cFpmN9tpMR8cLKDzkNtzz	Restless Coalescence	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
+FLwPbj7LWWnPm8rQ8TMwb	Restless Outlaw	1	qmC78MP6bjTHcDChc6RMJ	Corrupted Corpse							
+MQRmLGWG6rGCHtNChtbkm	Restless Templar	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 JMzGFRDF8qTWJCLPRfQgH	Restvine Elixir	1	G6kbCqnBzwjhrb88Q6K7w	Inertia							
 RTbHRmf96T8Pz7MD7KLc7	Retrace the Past	3	ppcfhRgNk9GH8QWRpMbdt	Descendant Gustwave	1						
 RTbHRmf96T8Pz7MD7KLc7	Retrace the Past	3	zbLnng79mJqLzbzDMgkhq	Descendant Gustwave	2						
@@ -2119,6 +2244,7 @@ jdLb9qCbwmwjj9N6rNrnn	Rising Knee Thrust	3	dcWdcd8Q6tnPKDT6nKkjH	Leg Tap	3
 TpGpMftp8NQqNQWmLqTRr	Rites of Earthlore	1	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
 BjKkfgpdLQGfLjTWmBPwk	Rites of Earthlore	2	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
 BjLPLzfr8BdLtTpPQNf6c	Rites of Earthlore	3	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
+fbWHCMbJj9MtkLwzqTW6c	Rites of Nightfall	3	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 Kh8MDbwK76BTHkdjzDFTK	Roar of the Tiger	2	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
 fDngpw7GRrGQTN9L8wtTf	Roaring Beam	2	fQTg89mpRjTDTRmPGkQb6	Courage							
 fDLQ8hHmzqnngwPhBdkNJ	Rob the Rich	1	TNJz9fCgqmhhLz9rP9tkt	Silver							
@@ -2127,6 +2253,9 @@ LKppkHRwJHjnccLKhNHGG	Rob the Rich	3	TNJz9fCgqmhhLz9rP9tkt	Silver
 W99DkNW9tQLbq6w6prDQB	Robe of Autumn's Fall		FfRMHD8fbLP7FjLJdmbtM	Edge of Autumn							
 g7hQcmhpwWdKzkj7NtgLp	Roiling Fissure	3	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
 jnM9JWHGJqdtjPmLCbGMm	Root-Bound Trunks		jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							
+JtKwDrDNzfLLD7tHjWzw7	Rumbling Hunger	1	FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger							
+HCbqq67LkGRRNjgp7pzWW	Rumbling Hunger	2	FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger							
+Jq8jc9QRzcpTtWM97Ldz8	Rumbling Hunger	3	FnQHkwDkfJcRFcrRDtPtT	Blasmophet, the Insatiable Hunger							
 wbJtMrPCzqL6NRGrT6fJK	Run into Trouble	1	WqTTMjDgKKCp7Lnb7LH6d	Agility							
 TWm6BC9zbHp69FkFNmbnR	Rune Flash	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 FCJjCLKrKbQ7nhwhHwbHB	Rune Flash	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
@@ -2144,13 +2273,20 @@ HqGFdH8tMH6fR8bNMkTjq	Runechant of Pride	2	zfrHQjbPkpBmdQGrWcTMB	Runechant
 BMgj68hT9jQHQ6nFqhTDT	Runechant of Sloth	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 qwpdn8CJWGgkHLqdhDtgh	Runechant of Wrath	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 zzWc8BBmC9T6bfQwDMBPH	Runehold Release		zfrHQjbPkpBmdQGrWcTMB	Runechant							
+JMT6bHRdPpnzwqJPkrNFH	Runic Disposition	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+KPwLPNGwQBGRztKnqh8kH	Runic Disposition	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+dmhHjqRHBRQMJWpDdRrnf	Runic Disposition	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 QLtPbbtqrQ9hNtWH6jG6t	Runic Reaping	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 7NPrtC9qGbkQPLDf7tbBB	Runic Reaping	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 JKhQ7hPQnhbqnwpfcBzQh	Runic Reaping	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+WLGtJWhc6kwGfrDRQFJjj	Runic Reaving	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+kzzPHWCkjb8gddN6t6Nwn	Runic Reaving	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+8pnmqdgNFqnBnj7Wm9Tt7	Runic Reaving	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 MbWDqNtrDdJWLWNCNDQpB	Runic Reckoning	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 MbWDqNtrDdJWLWNCNDQpB	Runic Reckoning	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 gBdLwdzLq6zrMGbHKpKfw	Runic Reclamation	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 hPQ9NCmMKDdgMkzpkpGb6	Runner Runner	1	WqTTMjDgKKCp7Lnb7LH6d	Agility							
+6MCNTLWcTpN7kJFkQBMPB	Rush of Knowledge	3	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 wmN6kmKhktkmfhWtqLmHm	Rushing River	1	9F67fMDKzMkLMJFr7GN67	Torrent of Tempo	1						
 wmN6kmKhktkmfhWtqLmHm	Rushing River	1	TR8gpGqrWD7JrKtjMqKbJ	Torrent of Tempo	2						
 wmN6kmKhktkmfhWtqLmHm	Rushing River	1	hRbLKmtGT7DJQqr9Q7MNN	Torrent of Tempo	3						
@@ -2203,6 +2339,10 @@ FFGW6Kn6mWFFFWcwkpdHh	Seismic Stir	2	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge
 h7n8tCF66mwtfWfqLLz87	Seismic Stir	3	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
 PBkK9jFkGPKGqTwmTwrzW	Serpent's Kiss	3	QqDQKkgCz9TM6HDgFkqcL	Fang Strike							
 PBkK9jFkGPKGqTwmTwrzW	Serpent's Kiss	3	zBDwTqgQTKrNRwjQmMr9g	Slither							
+6NCKgNWRrD7cqzzhw6Qtz	Seven Sin Nebula		zfrHQjbPkpBmdQGrWcTMB	Runechant							
+CKznKznHJkWcktFCBpkN8	Shadowake Gloomblade	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+JfbMzjthcJBBnTLnhBHWr	Shadowake Gloomblade	2	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+JpmtTnF6TzLGwfTr9KBRb	Shadowake Gloomblade	3	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 DMH8PRWDTmMm6mWtQqttn	Shake Down	1	QmqN6fJJMnLDjLHKF7g97	Uzuri							
 DMH8PRWDTmMm6mWtQqttn	Shake Down	1	rNhtnPWtDDBzBp7mNdQtT	Uzuri, Switchblade							
 LktKqzw6D9wQtcctzwKbF	Shallow Water Shark Harpoon	2	8qdmprPg7kckn8ktMTKQh	Gold							
@@ -2230,6 +2370,7 @@ KCRhRBTqwf9mRfjmGnQL6	Shatter Sorcery	3	7kLtC7NJPccD6nD9MRBkw	Sigil of Solitude	
 KCRhRBTqwf9mRfjmGnQL6	Shatter Sorcery	3	HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3						
 KCRhRBTqwf9mRfjmGnQL6	Shatter Sorcery	3	QCQmJTff79gRj7bChFTM7	Sigil of Voltaris	3						
 KCRhRBTqwf9mRfjmGnQL6	Shatter Sorcery	3	wWD8D9JqHhnzctrrTrBDW	Sigil of the Arknight	3						
+KCRhRBTqwf9mRfjmGnQL6	Shatter Sorcery	3	t9FznwrqznJ6tF6bJ6Tht	Sigil of the Muse	1						
 88NcRgnJqWDBCpWHcJJtJ	Shattering Flowtide	1	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 fHzPHtqP68CcwPG6JGGMJ	Shattering Flowtide	2	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 Rhwctgbpc8DkRWbfPbpKg	Shattering Flowtide	3	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
@@ -2268,6 +2409,7 @@ NHCQbrdqqK7FbcWgKnwWn	Sigil of Permafrost	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite
 ng9bzdmgC7KjJKR87Qn8B	Sigil of Permafrost	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 7ffzcpNTNGrMwzNHkqWKH	Sigil of Permafrost	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 pW9RcR7zcbrJDfgGFdrgR	Sigil of Sanctuary	3	jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth							
+t9FznwrqznJ6tF6bJ6Tht	Sigil of the Muse	1	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 DgTbtnmDPchPRckcHTjpz	Silken Form		pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing							
 kLbJBc8mpCQPMf8bmKchp	Silken Shawl		DBhPCQqjnj6qqd9DtBB7W	Vigor							
 cBrmgjgrfDdgTW7g9djcF	Silken Shroud		HpWqFJW8ftTDdzCLK9RkD	Ponder							
@@ -2285,6 +2427,13 @@ Crtn9djMPnRdwjKnhWRpk	Singing Steelblade	2	NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quic
 67zdgKFWD7qzcPppbRHNB	Singularity	1	6PPFnJ8tNtPKN6Km7NWpp	Teklovossen							
 67zdgKFWD7qzcPppbRHNB	Singularity	1	ndKnMFtcDt8JmPFD6bfbk	Teklovossen, Esteemed Magnate							
 67zdgKFWD7qzcPppbRHNB	Singularity	1	BRpMLJdMBPgfJNJLJWDFg	Teklovossen, the Mechropotent							
+cPH6KbH6PDWmjq68jdFjb	Sinspeaker Gloomblade	1	HDtcFpfJGnLpQW7LfmM7k	Runechant of Envy	2						
+cPH6KbH6PDWmjq68jdFjb	Sinspeaker Gloomblade	1	9wdzWnFf7J6nmL86nFhtN	Runechant of Gluttony	2						
+cPH6KbH6PDWmjq68jdFjb	Sinspeaker Gloomblade	1	MT8LQJTF6w8gPqMzNTrkr	Runechant of Greed	2						
+cPH6KbH6PDWmjq68jdFjb	Sinspeaker Gloomblade	1	FpMpBwHGNgTGDjgfpWBKB	Runechant of Lust	2						
+cPH6KbH6PDWmjq68jdFjb	Sinspeaker Gloomblade	1	HqGFdH8tMH6fR8bNMkTjq	Runechant of Pride	2						
+cPH6KbH6PDWmjq68jdFjb	Sinspeaker Gloomblade	1	BMgj68hT9jQHQ6nFqhTDT	Runechant of Sloth	2						
+cPH6KbH6PDWmjq68jdFjb	Sinspeaker Gloomblade	1	qwpdn8CJWGgkHLqdhDtgh	Runechant of Wrath	2						
 cjk6KqfdDWCF6pLdpQFdj	Skittering Sands	1	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing							
 RDkP9CqzbwDGJmTg7hrp7	Skittering Sands	2	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing							
 Q7JLckkNhtBmRQBKRqnJM	Skittering Sands	3	pLwDDWbJgbKkQCpzDrc7Q	Aether Ashwing							
@@ -2312,9 +2461,20 @@ PPhTHwN7HKT6Hj9JNbDmt	Solid Ground	3	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge
 NwK66fmnJNBBbTBprQkFG	Solitary Companion	1	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
 qRcQbB7TW7kzt66g7cKMM	Solitary Companion	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
 WpfnDkqH9NqLMtWCfCgnh	Solitary Companion	3	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
+QGDjNQdgN87Ln9hjGH7Wg	Sonata Dystopia	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
+QGDjNQdgN87Ln9hjGH7Wg	Sonata Dystopia	3	HDtcFpfJGnLpQW7LfmM7k	Runechant of Envy	2						
+QGDjNQdgN87Ln9hjGH7Wg	Sonata Dystopia	3	9wdzWnFf7J6nmL86nFhtN	Runechant of Gluttony	2						
+QGDjNQdgN87Ln9hjGH7Wg	Sonata Dystopia	3	MT8LQJTF6w8gPqMzNTrkr	Runechant of Greed	2						
+QGDjNQdgN87Ln9hjGH7Wg	Sonata Dystopia	3	FpMpBwHGNgTGDjgfpWBKB	Runechant of Lust	2						
+QGDjNQdgN87Ln9hjGH7Wg	Sonata Dystopia	3	HqGFdH8tMH6fR8bNMkTjq	Runechant of Pride	2						
+QGDjNQdgN87Ln9hjGH7Wg	Sonata Dystopia	3	BMgj68hT9jQHQ6nFqhTDT	Runechant of Sloth	2						
+QGDjNQdgN87Ln9hjGH7Wg	Sonata Dystopia	3	qwpdn8CJWGgkHLqdhDtgh	Runechant of Wrath	2						
 LQ8bccmDBnnTLLzJRBb8k	Sonata Fantasmia	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 LQ8bccmDBnnTLLzJRBb8k	Sonata Fantasmia	3	RHnFkKb8FKdFzp9rdzGjF	Viserai							
+LQ8bccmDBnnTLLzJRBb8k	Sonata Fantasmia	3	zggWCkTJQgBjj7FCDTwmQ	Viserai, Between Worlds							
 LQ8bccmDBnnTLLzJRBb8k	Sonata Fantasmia	3	TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood							
+LQ8bccmDBnnTLLzJRBb8k	Sonata Fantasmia	3	QMGnHJqg6fhcKLfmpRQLz	Viserai, Usurper							
+LQ8bccmDBnnTLLzJRBb8k	Sonata Fantasmia	3	RLJggjWTcq6NK9PD9zQGh	Viserai, the Forsaken							
 PbJPpjMq7L7zQDGnfhm8G	Sonata Galaxia	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 PCLwwwtFMQmLLpj6TD7hj	Song of Jack-Be-Quick	3	cDpMQnr8LwPFGMdgffNb8	Quicken							
 mpzgL9GqgdGMPdGMnDKrw	Song of Larinkmorth White	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
@@ -2415,7 +2575,11 @@ LD76nrjCTwzcf6Qk8cCjW	Steelblade Supremacy	1	NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Qu
 RcbDmpjTgR9FJbgqzb8Tq	Stellar Glide	1	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 chPp6ddLWdLWWM7fTMLfp	Stellar Glide	2	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 FPThjmfgpwBHmGzd66FCF	Stellar Glide	3	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
+KjwTjqgwqQpFwcLFCWg6B	Step through Realms	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+8D8gJjzDNmndFzfMGBtTg	Step through Realms	2	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+9BCNPft9bW98j9RrNFHDz	Step through Realms	3	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 mdtMRhRMbMkBRntzQzcbJ	Sticky Fingers		8qdmprPg7kckn8ktMTKQh	Gold							
+MRkhrddBmwkWNqjFMmL8j	Stoke Vengeance	1	FfRMHD8fbLP7FjLJdmbtM	Edge of Autumn							
 PbTTdKnFz9jptJ7WkbB6K	Stoke the Flames	1	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1						
 CpC7qQBbgTjCDJDwWprG7	Stormshard	1	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 HDkhnPHFCdnwmfMDrmHPN	Stormshatter	2	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
@@ -2516,6 +2680,7 @@ Lw6p6ntgdBwB7tDPJtDjG	Temporal Wobble	1	G9cDhnLB8kWQRgkFcpM8T	Sigil of Protectio
 Lw6p6ntgdBwB7tDPJtDjG	Temporal Wobble	1	nncFJBw6FFnMfkfrFnWwR	Sigil of Protection	3						
 Lw6p6ntgdBwB7tDPJtDjG	Temporal Wobble	1	pW9RcR7zcbrJDfgGFdrgR	Sigil of Sanctuary	3						
 Lw6p6ntgdBwB7tDPJtDjG	Temporal Wobble	1	HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3						
+Lw6p6ntgdBwB7tDPJtDjG	Temporal Wobble	1	t9FznwrqznJ6tF6bJ6Tht	Sigil of the Muse	1						
 pBqmnbbKD6HPhw9gkrwwt	Tentacular Toll	1	8qdmprPg7kckn8ktMTKQh	Gold							
 D8Kkjdr8wPKPzcnbqJNnt	Tentacular Toll	2	8qdmprPg7kckn8ktMTKQh	Gold							
 kRTgFbnKzr6NPC6WFcQQh	Tentacular Toll	3	8qdmprPg7kckn8ktMTKQh	Gold							
@@ -2583,6 +2748,7 @@ kQcrWWddhc7qJJrtdpggp	Twelve Petal Kāṣāya		HhTPF8HGRqhFbTT8HnBBh	Zen State
 CdDbm8CBpkbBRg9d6Hdck	Two Steps Ahead	3	WBFjTCfmbwHCr8WNmz8RQ	Confidence							
 CdDbm8CBpkbBRg9d6Hdck	Two Steps Ahead	3	6gqTwGnmHjkCLDqKPWt8c	Might							
 Twn68rHRjHKDjmnpDQddH	Two Steps Forward		WqTTMjDgKKCp7Lnb7LH6d	Agility							
+nQhMbB7nzRmc99mPFqkrD	Unbound by Shadow	1	JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
 7FKzc7kNTqjg78RNqwM77	Undertow Stilettos		zBDwTqgQTKrNRwjQmMr9g	Slither							
 DKFj9DK7f9nHrQffkdfDm	Unforgetting Unforgiving	1	9QL68DDb9hCqhWWhgnQgR	Jarl Vetreiđi							
 DKFj9DK7f9nHrQffkdfDm	Unforgetting Unforgiving	1	q7GfHcHBpWqCbtghcpnTj	Mangle	1						
@@ -2623,6 +2789,11 @@ W7QPrj9bzNgddWCCFFCRw	Up the Ante	3	9JqrM7dbgfG87L6tPghrM	Olympia, Prized Fighte
 W7QPrj9bzNgddWCCFFCRw	Up the Ante	3	DBhPCQqjnj6qqd9DtBB7W	Vigor							
 PQLpnnKFRhCrdMnwgdNHH	Uplifting Performance	3	WBFjTCfmbwHCr8WNmz8RQ	Confidence							
 PQLpnnKFRhCrdMnwgdNHH	Uplifting Performance	3	Cn8tK9KRm7d9KbcQk6Pqm	Toughness							
+HR7m9Twn8qDDFr7WnrgWm	Usurp the Shadow Throne	3	RHnFkKb8FKdFzp9rdzGjF	Viserai							
+HR7m9Twn8qDDFr7WnrgWm	Usurp the Shadow Throne	3	zggWCkTJQgBjj7FCDTwmQ	Viserai, Between Worlds							
+HR7m9Twn8qDDFr7WnrgWm	Usurp the Shadow Throne	3	TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood							
+HR7m9Twn8qDDFr7WnrgWm	Usurp the Shadow Throne	3	QMGnHJqg6fhcKLfmpRQLz	Viserai, Usurper							
+HR7m9Twn8qDDFr7WnrgWm	Usurp the Shadow Throne	3	RLJggjWTcq6NK9PD9zQGh	Viserai, the Forsaken							
 bChp6GBR8QhHJLgpzKC6J	V of the Vanguard	2	Fmf8trg9w8B8BBbWrf8w9	Boltyn							
 bChp6GBR8QhHJLgpzKC6J	V of the Vanguard	2	QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breaker of Dawn							
 TCPqgq6QMqD9FqJ6DPQjD	Valahai Riven	2	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
@@ -2658,7 +2829,10 @@ JrjbG9mbwQC8zQcnPRhHg	Virulent Touch	1	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox
 hw9HLQQjJ9nzWtBGFzWgc	Virulent Touch	2	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox							
 z78cKCmLRbWfftGfpcJGd	Virulent Touch	3	drbBwrNtMRPTJ79LBQWWB	Bloodrot Pox							
 RHnFkKb8FKdFzp9rdzGjF	Viserai		zfrHQjbPkpBmdQGrWcTMB	Runechant							
+zggWCkTJQgBjj7FCDTwmQ	Viserai, Between Worlds		zfrHQjbPkpBmdQGrWcTMB	Runechant							
 TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood		zfrHQjbPkpBmdQGrWcTMB	Runechant							
+QMGnHJqg6fhcKLfmpRQLz	Viserai, Usurper		JtkWt6Kzpgz9qpPLPp8Ff	Gate to i'Arathael							
+RLJggjWTcq6NK9PD9zQGh	Viserai, the Forsaken		zfrHQjbPkpBmdQGrWcTMB	Runechant							
 n6fRnMQh7NKBzqLKMMK68	Visit Goldmane Estate	3	8qdmprPg7kckn8ktMTKQh	Gold							
 n6fRnMQh7NKBzqLKMMK68	Visit Goldmane Estate	3	6gqTwGnmHjkCLDqKPWt8c	Might							
 n6fRnMQh7NKBzqLKMMK68	Visit Goldmane Estate	3	kHmRR6Q7mJPjQgdQJcjpQ	Victor Goldmane							
@@ -2701,6 +2875,7 @@ CzwrwtC7LkmK6mchdpzB7	Volzar, the Lightning Rod		G9cDhnLB8kWQRgkFcpM8T	Sigil of 
 CzwrwtC7LkmK6mchdpzB7	Volzar, the Lightning Rod		nncFJBw6FFnMfkfrFnWwR	Sigil of Protection	3						
 CzwrwtC7LkmK6mchdpzB7	Volzar, the Lightning Rod		pW9RcR7zcbrJDfgGFdrgR	Sigil of Sanctuary	3						
 CzwrwtC7LkmK6mchdpzB7	Volzar, the Lightning Rod		HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	3						
+CzwrwtC7LkmK6mchdpzB7	Volzar, the Lightning Rod		t9FznwrqznJ6tF6bJ6Tht	Sigil of the Muse	1						
 mtdP6wgpMpd6LJbpJ79TM	Vow of Vengeance		9F7RHWjLgCDRqwMww99GN	Arakni							
 mtdP6wgpMpd6LJbpJ79TM	Vow of Vengeance		nkBnGcCDpf9KHChtrrN6b	Arakni, 5L!p3d 7hRu 7h3 cR4X							
 mtdP6wgpMpd6LJbpJ79TM	Vow of Vengeance		RPWBDmM6hG6dk9zMWwr6b	Arakni, Black Widow							
