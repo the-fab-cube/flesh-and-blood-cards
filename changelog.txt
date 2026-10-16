@@ -1113,6 +1113,10 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Removed extra space in artist for JDG019 - bugfix credit: RaphaelDDL
 - Fixed incorrect power for Hyper Inflation (yellow/blue) - bug notice credit: Aegisworn
 
+10-15-26:
+- Updated functional text based on errata for Line Crossers - update credit: schubam
+- Fixed functional text for Celebrant Broadsword, Extinguish the Flames - bugfix credit: schubam
+
 TODO:
 - Added set data for IAR
 - Added card data for IAR - data entry assistance: manwaring, shubam, Aegisworn
