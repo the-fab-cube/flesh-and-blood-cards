@@ -100097,6 +100097,76 @@
         ]
     },
     {
+        "unique_id": "HCbMWLPPRCr77JGmQqr6z",
+        "name": "Clambering Corpses",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "0",
+        "power": "1",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Shadow",
+            "Necromancer",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Go again"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [
+            "Go again"
+        ],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "When this attacks, you may discard a zombie. If you do, this gets +3{p} and **go again**.\n\nWhen this hits a hero, your zombie attacks this turn get **go again**.",
+        "functional_text_plain": "When this attacks, you may discard a zombie. If you do, this gets +3{p} and go again.\nWhen this hits a hero, your zombie attacks this turn get go again.",
+        "type_text": "Shadow Necromancer Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "kgjTj8mnfJ9tgqFmM7RwQ",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA021",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "M",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA021.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
         "unique_id": "9G9hzcppH7WtgccPwfdGC",
         "name": "Clamp Press",
         "color": "Blue",
@@ -111388,6 +111458,24 @@
         ],
         "printings": [
             {
+                "unique_id": "prgLgDkThThPd99cbJr96",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA009",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Isuardi Therianto"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA009.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "hmRjTbQ9tHRPdb8TrNn8n",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
                 "id": "IAR060",
@@ -119381,9 +119469,28 @@
             "rrJg7Bntjp9WzWNcnJcjw",
             "cz8FPm7Rjjndfgb8jQBcT",
             "WCDQmHjfcPBRfrpGh9dq8",
+            "qj8gCTQCrJgFc9HkbcJ8r",
             "FLwPbj7LWWnPm8rQ8TMwb"
         ],
         "printings": [
+            {
+                "unique_id": "fPp9GgLwmK9CQHwnTwfTT",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA029",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Carlos Cruchaga"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA029.webp",
+                "image_rotation_degrees": 0
+            },
             {
                 "unique_id": "k9rLh8KCK86QgFkR88Bzh",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
@@ -121073,6 +121180,24 @@
             "8k9gJp8hcDg8wCBjTR9Bj"
         ],
         "printings": [
+            {
+                "unique_id": "CGPggD8rJt7DTKdhnGf6k",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA020",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Nailsen Ivanderlie"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA020.webp",
+                "image_rotation_degrees": 0
+            },
             {
                 "unique_id": "mWfpfwDfNbmMTFGGQtm9M",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
@@ -134850,6 +134975,24 @@
         ],
         "printings": [
             {
+                "unique_id": "TPjBhcHTWTMqLDCDcwMCj",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA010",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Nailsen Ivanderlie"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA010.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "8hg6zFLKhpwpwpnNRWGnm",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
                 "id": "IAR209",
@@ -138123,94 +138266,6 @@
         ]
     },
     {
-        "unique_id": "mHLrBTFFnBz7kWHFDbj6t",
-        "name": "Deadly Display",
-        "color": "Yellow",
-        "pitch": "2",
-        "cost": "1",
-        "power": "",
-        "defense": "2",
-        "health": "",
-        "intelligence": "",
-        "arcane": "",
-        "types": [
-            "Warrior",
-            "Attack Reaction"
-        ],
-        "traits": [],
-        "card_keywords": [],
-        "abilities_and_effects": [],
-        "ability_and_effect_keywords": [],
-        "granted_keywords": [],
-        "removed_keywords": [],
-        "interacts_with_keywords": [
-            "Sharpen"
-        ],
-        "functional_text": "Target weapon attack gets +2{p}. If the weapon has been sharpened this turn, the attack gets \"When this hits a hero, create a Flurry token.\"",
-        "functional_text_plain": "Target weapon attack gets +2{p}. If the weapon has been sharpened this turn, the attack gets \"When this hits a hero, create a Flurry token.\"",
-        "type_text": "Warrior Attack Reaction",
-        "played_horizontally": false,
-        "blitz_legal": true,
-        "cc_legal": true,
-        "commoner_legal": true,
-        "ll_legal": true,
-        "silver_age_legal": true,
-        "blitz_living_legend": false,
-        "cc_living_legend": false,
-        "blitz_banned": false,
-        "cc_banned": false,
-        "commoner_banned": false,
-        "ll_banned": false,
-        "silver_age_banned": false,
-        "upf_banned": false,
-        "blitz_suspended": false,
-        "cc_suspended": false,
-        "commoner_suspended": false,
-        "ll_restricted": false,
-        "printings": [
-            {
-                "unique_id": "WNJBWBgzM9Ctmrrrg8D7f",
-                "set_printing_unique_id": "hwtrhRKP8WBtPdhzW7p6G",
-                "id": "MPW081",
-                "set_id": "MPW",
-                "edition": "N",
-                "foiling": "S",
-                "rarity": "C",
-                "expansion_slot": false,
-                "artists": [
-                    "Narendra B Adi"
-                ],
-                "art_variations": [],
-                "flavor_text": "",
-                "flavor_text_plain": "",
-                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPW081.webp",
-                "image_rotation_degrees": 0,
-                "tcgplayer_product_id": "708931",
-                "tcgplayer_url": "https://www.tcgplayer.com/product/708931?Language=English&Printing=Normal"
-            },
-            {
-                "unique_id": "mtrhdDH6T8JpR96ct87PT",
-                "set_printing_unique_id": "hwtrhRKP8WBtPdhzW7p6G",
-                "id": "MPW081",
-                "set_id": "MPW",
-                "edition": "N",
-                "foiling": "R",
-                "rarity": "C",
-                "expansion_slot": false,
-                "artists": [
-                    "Narendra B Adi"
-                ],
-                "art_variations": [],
-                "flavor_text": "",
-                "flavor_text_plain": "",
-                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPW081-RF.webp",
-                "image_rotation_degrees": 0,
-                "tcgplayer_product_id": "708931",
-                "tcgplayer_url": "https://www.tcgplayer.com/product/708931?Language=English&Printing=Rainbow+Foil"
-            }
-        ]
-    },
-    {
         "unique_id": "TjbQ8B7bPdngTrkpGD8bG",
         "name": "Deadly Display",
         "color": "Red",
@@ -138316,6 +138371,94 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "708930",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/708930?Language=English&Printing=Rainbow+Foil"
+            }
+        ]
+    },
+    {
+        "unique_id": "mHLrBTFFnBz7kWHFDbj6t",
+        "name": "Deadly Display",
+        "color": "Yellow",
+        "pitch": "2",
+        "cost": "1",
+        "power": "",
+        "defense": "2",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Warrior",
+            "Attack Reaction"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [
+            "Sharpen"
+        ],
+        "functional_text": "Target weapon attack gets +2{p}. If the weapon has been sharpened this turn, the attack gets \"When this hits a hero, create a Flurry token.\"",
+        "functional_text_plain": "Target weapon attack gets +2{p}. If the weapon has been sharpened this turn, the attack gets \"When this hits a hero, create a Flurry token.\"",
+        "type_text": "Warrior Attack Reaction",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "WNJBWBgzM9Ctmrrrg8D7f",
+                "set_printing_unique_id": "hwtrhRKP8WBtPdhzW7p6G",
+                "id": "MPW081",
+                "set_id": "MPW",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Narendra B Adi"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPW081.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "708931",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/708931?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "mtrhdDH6T8JpR96ct87PT",
+                "set_printing_unique_id": "hwtrhRKP8WBtPdhzW7p6G",
+                "id": "MPW081",
+                "set_id": "MPW",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Narendra B Adi"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPW081-RF.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "708931",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/708931?Language=English&Printing=Rainbow+Foil"
             }
         ]
     },
@@ -159717,6 +159860,76 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "225244",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/225244?Language=English&Printing=Unlimited+Edition+Rainbow+Foil"
+            }
+        ]
+    },
+    {
+        "unique_id": "GRhPHgPbFbM9NmrwNkDF9",
+        "name": "Drop Dead Bodice",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "0",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Shadow",
+            "Necromancer",
+            "Equipment",
+            "Chest"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Arcane Barrier 1"
+        ],
+        "abilities_and_effects": [
+            "Instant"
+        ],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Instant** - Destroy this: Until end of turn, whenever a zombie is put into your graveyard, gain {r}.\n\n**Arcane Barrier 1**",
+        "functional_text_plain": "Instant - Destroy this: Until end of turn, whenever a zombie is put into your graveyard, gain {r}.\nArcane Barrier 1",
+        "type_text": "Shadow Necromancer Equipment - Chest",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "M8WRTqzWkd6W8DhhjCn7q",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA004",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Ilham Bahtiar"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA004-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -224984,6 +225197,24 @@
             "QMGnHJqg6fhcKLfmpRQLz"
         ],
         "printings": [
+            {
+                "unique_id": "nBGzz9kfQfNWkcc79hMbR",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA030",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "B",
+                "expansion_slot": false,
+                "artists": [
+                    "Carlos Cruchaga"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA030.webp",
+                "image_rotation_degrees": 0
+            },
             {
                 "unique_id": "Qg7fRD8gHdgJ9gbqfz7Gg",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
@@ -322221,6 +322452,24 @@
         ],
         "printings": [
             {
+                "unique_id": "8qBdgpbrGznQb9jfMRRrP",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA028",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA028.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "NhB9MhHTJDh6JNG7J8CDD",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
                 "id": "IAR068",
@@ -352495,6 +352744,24 @@
         ],
         "printings": [
             {
+                "unique_id": "FqMbw7mWGqjPGDFfzfwQB",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA007",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Jefrey Yonathan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA007.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "hRwNgDKntNPKDm9NNcpF7",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
                 "id": "IAR078",
@@ -355988,6 +356255,76 @@
                         "is_DFC": false
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "unique_id": "qj8gCTQCrJgFc9HkbcJ8r",
+        "name": "Otherworldly Ossuary",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "1",
+        "power": "",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Shadow",
+            "Necromancer",
+            "Action"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Go again"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Create a Corrupted Corpse in your banished zone.\n\n**Go again**",
+        "functional_text_plain": "Create a Corrupted Corpse in your banished zone.\nGo again",
+        "type_text": "Shadow Necromancer Action",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "referenced_cards": [
+            "qmC78MP6bjTHcDChc6RMJ"
+        ],
+        "printings": [
+            {
+                "unique_id": "ck68TFn7hmLPThTjwW8Bh",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA022",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Ausonia"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA022.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -393610,6 +393947,24 @@
         ],
         "printings": [
             {
+                "unique_id": "wN9wDKkHRrzHgkrmNJmzc",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA023",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Marco González"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA023.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "K76QfPqDKnQ9tpDgwpmRq",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
                 "id": "IAR214",
@@ -420613,6 +420968,24 @@
         "ll_restricted": false,
         "printings": [
             {
+                "unique_id": "tt9jrdDQ7dptkq6JH6gjR",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA015",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Saad Irfan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA015.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "njrfftqgD6r7Ck9gWzqRL",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
                 "id": "IAR063",
@@ -420705,6 +421078,24 @@
         "commoner_suspended": false,
         "ll_restricted": false,
         "printings": [
+            {
+                "unique_id": "tRcQHQ9pCzfkTfMHFMwc9",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA016",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Isuardi Therianto"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA016.webp",
+                "image_rotation_degrees": 0
+            },
             {
                 "unique_id": "BRBc8ptWPKJKNmP6w9m7m",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
@@ -420801,6 +421192,24 @@
             "qmC78MP6bjTHcDChc6RMJ"
         ],
         "printings": [
+            {
+                "unique_id": "PqtcDMdKLRWccFr7RRpj6",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA017",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Kevin Sidharta"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA017.webp",
+                "image_rotation_degrees": 0
+            },
             {
                 "unique_id": "GcQdPr7TrPdGjjCWrnFpR",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
@@ -420992,6 +421401,24 @@
         "ll_restricted": false,
         "printings": [
             {
+                "unique_id": "7mDLFML9bhDhPJbJHPH7P",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA018",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Sebastian Giacobino"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA018.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "8fpfQKdRqNC9cmQCpGMqj",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
                 "id": "IAR065",
@@ -421179,6 +421606,24 @@
         "commoner_suspended": false,
         "ll_restricted": false,
         "printings": [
+            {
+                "unique_id": "LCkfNPGWqJMNBwzNJBkfp",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA019",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Stormy Elia Fanggidae"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA019.webp",
+                "image_rotation_degrees": 0
+            },
             {
                 "unique_id": "mJRnCMb6jTtktkhj9tD8C",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
@@ -432975,6 +433420,24 @@
             "JtkWt6Kzpgz9qpPLPp8Ff"
         ],
         "printings": [
+            {
+                "unique_id": "mQdpCqzJknQ8mTWchdnBM",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA024",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Esty Swandana"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA024.webp",
+                "image_rotation_degrees": 0
+            },
             {
                 "unique_id": "wKtPRLghGdF9GGpWpCBPF",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
@@ -468795,6 +469258,24 @@
         "ll_restricted": false,
         "printings": [
             {
+                "unique_id": "RtH6Mqkg6FBN6JnjFBCBf",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA025",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Hansen Oni"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA025.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "GqWLwJBHDPDmfHn7nJqG9",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
                 "id": "IAR081",
@@ -468898,7 +469379,7 @@
                 "art_variations": [],
                 "flavor_text": "",
                 "flavor_text_plain": "",
-                "image_url": null,
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA012.webp",
                 "image_rotation_degrees": 0
             },
             {
@@ -468940,6 +469421,73 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "712754",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/712754?Language=English&Printing=Rainbow+Foil"
+            }
+        ]
+    },
+    {
+        "unique_id": "Jmc6768Cn79WRqFFzBMcQ",
+        "name": "Shadowrealm Strength",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "0",
+        "power": "",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Shadow",
+            "Necromancer",
+            "Action"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Go again"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "You may put a card from your banished zone into your graveyard. If it's a zombie, your next attack this turn gets +1{p}.\n\n**Go again**",
+        "functional_text_plain": "You may put a card from your banished zone into your graveyard. If it's a zombie, your next attack this turn gets +1{p}.\nGo again",
+        "type_text": "Shadow Necromancer Action",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": true,
+        "ll_legal": true,
+        "silver_age_legal": true,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "BcCGHcc6jKjzKkwphHWC7",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA026",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Surya Prasetya"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA026.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -486754,6 +487302,24 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/271203?Language=English&Printing=Normal"
             },
             {
+                "unique_id": "mrWqbhKfMH8LDddHHQm8d",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA008",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Vlad Varlamov"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA008.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "dQfnBmtrNDkN8w9MHQdmQ",
                 "set_printing_unique_id": "nLHMCLWr6cnfBgpFjKLWW",
                 "id": "ANQ034",
@@ -488358,6 +488924,24 @@
         "ll_restricted": false,
         "printings": [
             {
+                "unique_id": "JCHDFqfW8bgrQLCTP7PrD",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA013",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Mark Poole"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA013.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "h6NNJ6KkFQH9pM9DDDwTw",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",
                 "id": "IAR094",
@@ -488537,6 +489121,24 @@
         "commoner_suspended": false,
         "ll_restricted": false,
         "printings": [
+            {
+                "unique_id": "NHz69GWcwpJqBKwLKJkng",
+                "set_printing_unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "id": "AMA027",
+                "set_id": "AMA",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Mark Poole"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA027.webp",
+                "image_rotation_degrees": 0
+            },
             {
                 "unique_id": "cRgdw97WBHfjKDwjnFcHk",
                 "set_printing_unique_id": "qPHBhhWF8Mb8pfGcmztnF",

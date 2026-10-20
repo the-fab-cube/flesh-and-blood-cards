@@ -2219,6 +2219,9 @@ CjRzTWJcLTzzfkhwCRK7K	Civic Peak					2				Guardian, Equipment, Head		Temper					
 qQ9JC8BtngfRq7n9pqpKM	Civic Steps					2				Guardian, Equipment, Legs		Temper						"Whenever this defends, create a Quicken token under another hero's control.
 
 **Temper**"	Guardian Equipment - Legs						
+HCbMWLPPRCr77JGmQqr6z	Clambering Corpses	Blue	3	0	1	3				Shadow, Necromancer, Action, Attack		Go again			Go again			"When this attacks, you may discard a zombie. If you do, this gets +3{p} and **go again**.
+
+When this hits a hero, your zombie attacks this turn get **go again**."	Shadow Necromancer Action - Attack				No	No	
 9G9hzcppH7WtgccPwfdGC	Clamp Press	Blue	3	2						Mechanologist, Action, Item		Crank						"**Crank**
 
 This enters the arena with 2 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
@@ -3047,8 +3050,8 @@ If it has an aim counter, it gets ""When this hits a hero, look at their hand an
 nQLzhKtPNctwzTqMNf7LJ	Dead Threads					1				Necromancer, Equipment, Chest		Blade Break	Instant					"**Instant** - {t}: Gain {r}. Activate this only if an ally has been put into your graveyard this turn.
 
 **Blade Break**"	Necromancer Equipment - Chest				No	No	
-mHLrBTFFnBz7kWHFDbj6t	Deadly Display	Yellow	2	1		2				Warrior, Attack Reaction							Sharpen	"Target weapon attack gets +2{p}. If the weapon has been sharpened this turn, the attack gets ""When this hits a hero, create a Flurry token."""	Warrior Attack Reaction						
 TjbQ8B7bPdngTrkpGD8bG	Deadly Display	Red	1	1		2				Warrior, Attack Reaction							Sharpen	"Target weapon attack gets +3{p}. If the weapon has been sharpened this turn, the attack gets ""When this hits a hero, create a Flurry token."""	Warrior Attack Reaction						
+mHLrBTFFnBz7kWHFDbj6t	Deadly Display	Yellow	2	1		2				Warrior, Attack Reaction							Sharpen	"Target weapon attack gets +2{p}. If the weapon has been sharpened this turn, the attack gets ""When this hits a hero, create a Flurry token."""	Warrior Attack Reaction						
 FpzTKHqqhbqgK7zQkJtTk	Deadly Display	Blue	3	1		2				Warrior, Attack Reaction							Sharpen	"Target weapon attack gets +1{p}. If the weapon has been sharpened this turn, the attack gets ""When this hits a hero, create a Flurry token."""	Warrior Attack Reaction						
 Nnr9kcRcQfLQW7pTHkMG8	Deadly Duo	Red	1	1	3	2				Ninja, Action, Attack		Go again						"When this hits, the next attack action card with 2 or less base {p} you play this combat chain gets +2{p}.
 
@@ -3598,6 +3601,9 @@ If you've played a red card this turn, your dragon attacks get **go again**."	Dr
 9bQFfTFGQWJFWrcJnfQgz	Drone of Brutality	Red	1	2	6	2				Generic, Action, Attack								If this would be put into your graveyard from anywhere, instead put it on the bottom of your deck.	Generic Action - Attack					No	
 Nhmj8MBNCmWFC68JkhkNC	Drone of Brutality	Yellow	2	2	5	2				Generic, Action, Attack								If this would be put into your graveyard from anywhere, instead put it on the bottom of your deck.	Generic Action - Attack					No	
 hJt6FwT8mhQbcWQLzgHMT	Drone of Brutality	Blue	3	2	4	2				Generic, Action, Attack								If this would be put into your graveyard from anywhere, instead put it on the bottom of your deck.	Generic Action - Attack					No	
+GRhPHgPbFbM9NmrwNkDF9	Drop Dead Bodice					0				Shadow, Necromancer, Equipment, Chest		Arcane Barrier 1	Instant					"**Instant** - Destroy this: Until end of turn, whenever a zombie is put into your graveyard, gain {r}.
+
+**Arcane Barrier 1**"	Shadow Necromancer Equipment - Chest						
 pBTGtg7LJbjTBWDGQDknH	Drop of Dragon Blood	Red	1	2						Draconic, Instant		Legendary						"**Legendary**
 
 This costs {r} less to play for each Draconic chain link you control.
@@ -8006,6 +8012,9 @@ Bd8JQMtjbmwQ7W6GLt7KL	Oscilio, Constella Intelligence						36	4		Elemental, Wiza
 **Essence of Lightning**"	Elemental Wizard Hero		No		No	No	
 nqbttmdCrgTbFBjJBzLtz	Oscilio, Forked Continuum						38	4		Lightning, Wizard, Hero			Instant					**Instant** - {r}, {t}, destroy a Lightning Flow you control: Discard a card and create a Ponder token. If an instant is discarded this way, you may play it this turn.	Lightning Wizard Hero		No		No	No	
 bdD7LdLhpgdfLwzCq6jBc	Oscilio, Scion of the Third Age						19	4		Lightning, Wizard, Hero, Young			Instant					**Instant** - {r}, {t}, destroy a Lightning Flow you control: Discard a card and create a Ponder token. If an instant is discarded this way, you may play it this turn.	Lightning Wizard Hero - Young			No			No
+qj8gCTQCrJgFc9HkbcJ8r	Otherworldly Ossuary	Blue	3	1		3				Shadow, Necromancer, Action		Go again						"Create a Corrupted Corpse in your banished zone.
+
+**Go again**"	Shadow Necromancer Action					No	
 qk9CgqWCcCFdkddzNngPh	Otherworldly Sins	Red	1	1		2				Shadow, Runeblade, Action		Go again						"Your next Runeblade or Shadow attack this turn gets +3{p}.
 
 Create a Runechant token.
@@ -10689,6 +10698,9 @@ hLmqdjm8CNt666bnBFDbq	Shadowrealm Solace	Blue	3	0		3				Shadow, Necromancer, Act
 
 **Go again**"	Shadow Necromancer Action						
 GTJwfppCK8hPcRGkKGPKC	Shadowrealm Strength	Red	1	0		3				Shadow, Necromancer, Action		Go again						"You may put a card from your banished zone into your graveyard. If it's a zombie, your next attack this turn gets +3{p}.
+
+**Go again**"	Shadow Necromancer Action						
+Jmc6768Cn79WRqFFzBMcQ	Shadowrealm Strength	Blue	3	0		3				Shadow, Necromancer, Action		Go again						"You may put a card from your banished zone into your graveyard. If it's a zombie, your next attack this turn gets +1{p}.
 
 **Go again**"	Shadow Necromancer Action						
 8MmbFrQMhL6hdrnLRqbhH	Shadowrealm Swiftness	Yellow	2	0		3				Shadow, Necromancer, Action		Go again			Go again			"You may put a card from your banished zone into your graveyard. If it's a zombie, your next attack this turn gets **go again**.
