@@ -1074,7 +1074,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed artist for AVS013 - bugfix credit: manwaring
 - Fixed TCGPlayer ID for HNT101 and OMN051 - bugfix credit: manwaring
 - Rename íArathael to i'Arathael everywhere for consistency - update credit: manwaring
-- Added printing data and image URL for LSS024 - update credit: manwaring
 - Fixed MPW150 pointing at the wrong version of Money WHere Ya Mouth Is - bugfix credit: manwaring
 - Added missing foiling for PEN078 - bugfix credit: manwaring
 - Updated CC Living Legend status for `Kayo, Armed and Dangerous`, Mandible Claw, `Verdance, Thorn of the Rose`, Staff of Verdant Shoots, `Victor Goldmane, High and Mighty`, and Miller's Grindstone - update credit: manwaring
@@ -1117,3 +1116,10 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 10-15-26:
 - Updated functional text based on errata for Line Crossers - update credit: schubam
 - Fixed functional text for Celebrant Broadsword, Extinguish the Flames - bugfix credit: schubam
+
+TODO:
+- Added set data for IAR
+- Added card data for IAR - data entry assistance: manwaring, shubam, Aegisworn
+- Added printing data for IAR000-IAR666
+- Updated name of Gate to i'Arathael and Tremor of i'Arathael
+- Updated functional text of Hell Hammer, Levia, `Levia, Shadowborne Abomination`
