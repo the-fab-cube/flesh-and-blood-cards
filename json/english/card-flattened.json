@@ -832863,6 +832863,74 @@
         "tcgplayer_url": "https://www.tcgplayer.com/product/612678?Language=English&Printing=Rainbow+Foil"
     },
     {
+        "unique_id": "nmc8wLKtTmPhJFb7FH8BG",
+        "name": "Savor Bloodshed",
+        "color": "Red",
+        "pitch": "1",
+        "cost": "0",
+        "power": "",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Assassin",
+            "Warrior",
+            "Action"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Go again"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [
+            "Mark"
+        ],
+        "functional_text": "Your next dagger attack this turn gets +4{p}.\n\nThe next time you hit a **marked** hero with a dagger this turn, draw a card.\n\n**Go again**",
+        "functional_text_plain": "Your next dagger attack this turn gets +4{p}.\nThe next time you hit a marked hero with a dagger this turn, draw a card.\nGo again",
+        "type_text": "Assassin / Warrior Action",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printing_unique_id": "drGHkp9QmRwC9nRTQqHJW",
+        "set_printing_unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
+        "id": "LGS459",
+        "set_id": "LGS",
+        "edition": "N",
+        "foiling": "C",
+        "rarity": "P",
+        "expansion_slot": false,
+        "artists": [
+            "SanSan"
+        ],
+        "art_variations": [
+            "AA",
+            "EA"
+        ],
+        "flavor_text": "",
+        "flavor_text_plain": "",
+        "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS459-CF.webp",
+        "image_rotation_degrees": 0
+    },
+    {
         "unique_id": "Q8R69DNJCThNGkddBPW6k",
         "name": "Sawbones, Dock Hand",
         "color": "Yellow",
