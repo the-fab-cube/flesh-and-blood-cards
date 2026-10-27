@@ -431915,7 +431915,9 @@
                 "flavor_text": "",
                 "flavor_text_plain": "",
                 "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS459-CF.webp",
-                "image_rotation_degrees": 0
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "714488",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/714488?Language=English&Printing=Cold+Foil"
             }
         ]
     },
