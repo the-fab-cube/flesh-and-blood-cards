@@ -32,6 +32,7 @@ When this leaves the arena, your next attack this turn gets +5{p}."	Guardian Ins
 mb9NWzptP6Cnzk9tjMP8f	Act of Glory	Blue	3	4		3				Guardian, Instant, Aura		Suspense						"**Suspense**
 
 When this leaves the arena, your next attack this turn gets +4{p}."	Guardian Instant - Aura						
+QCNnDd8HHm8QTrnBgGnCj	Act on Intel: Whereabouts	Red	1	1		3				Assassin, Attack Reaction							Contract	"Target Assassin attack action card with contract gets +1{p} and ""When this hits a hero, they choose a card in their hand. Banish it."""	Assassin Attack Reaction					No	
 Wmr8NmHdQCmPCbMBPncTq	Adaptive Alpha Mold					1				Mechanologist, Equipment, Base		Modular, Battleworn						"**Modular**
 
 **Action** - 0: Equip this to another equipment zone.
@@ -3826,6 +3827,7 @@ At the beginning of each hero's action phase, they draw a card.
 At the beginning of each hero's end phase, if a weapon did not attack this turn, destroy this."	Warrior Instant - Aura				No	No	
 MpFfQjRhkdrL8QhmgbhgM	Escalate Order	Red	1	2	6	3				Revered, Action, Attack								When this attacks, if you control a Toughness token, create 3 more.	Revered Action - Attack					No	
 CrhRqD9BkQGpHpmRN8JwC	Escalate Violence	Blue	3	1	3	3				Reviled, Action, Attack								When this attacks, if you control a Might token, create 3 more.	Reviled Action - Attack					No	
+prKmnQLKqnCN9rMwkTpth	Escaped Subject	Red	1	0	4	3				Assassin, Action, Attack		Go again						If the defending hero is infected, this gets **go again**.	Assassin Action - Attack						
 qMzCjGnnHpbqRJPtJfp6T	Essence of Ancestry: Body	Red	1	0		3				Illusionist, Action, Aura		Ward 2						"When this leaves the arena, if you control no Illusionist auras, the next time you would be dealt damage by a red source this turn, prevent it.
 
 **Ward 2**"	Illusionist Action - Aura					No	
@@ -3876,6 +3878,9 @@ Gain 1{h}"	Earth Action // Instant	Yes			No	No
 tfdr8MdNBHPQjKn9FJCT6	Evergreen	Red	1	3	7	2				Earth, Action, Attack								When the combat chain closes, if this was played from arsenal, put it on the bottom of its owner's deck.	Earth Action - Attack					No	
 JTc7kdrn9kHtq7LdJ8pQW	Evergreen	Yellow	2	3	6	2				Earth, Action, Attack								When the combat chain closes, if this was played from arsenal, put it on the bottom of its owner's deck.	Earth Action - Attack					No	
 nRDPrpfRT9gGCWf9K8nBT	Evergreen	Blue	3	3	5	2				Earth, Action, Attack								When the combat chain closes, if this was played from arsenal, put it on the bottom of its owner's deck.	Earth Action - Attack					No	
+6bMzPkg7WrLFjMb9j7WqM	Eviscerate the Enervated	Red	1	1	5	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish infected opponents' cards. Whenever you complete this contract, create a Silver token.
+
+When this hits a hero, banish the top card of their deck."	Assassin Action - Attack						
 tGhCtnrQTn8KtcmnJdqmq	Evo Atom Breaker	Red	1	0		0				Mechanologist, Instant, Equipment, Evo, Chest		Transform					Boost	"If you have a base chest equipped, **transform** it and X Hyper Drivers you control into this, then equip this. If you do, the next time you would be dealt damage this turn, prevent twice X of that damage.
 
 Whenever you **boost**, you may destroy a card under this. If you do, gain {r}{r}."	Mechanologist Instant Equipment - Evo Chest				No	No	
@@ -6113,6 +6118,9 @@ HHKcFqDJTmCB6bwFzjdcF	Isolate	Yellow	2	0	2	3				Assassin, Action, Attack		Stealt
 kMjgjn9M78JbkDGbgPPzk	Isolate	Blue	3	0	1	3				Assassin, Action, Attack		Stealth, Dominate						"**Stealth**
 
 **Dominate**"	Assassin Action - Attack						
+nFdmFmRnTmw96bg8Pr6RG	Isolation Vestment					1				Assassin, Equipment, Chest		Blade Break	Action	Go again				"**Action** - Destroy this: Assassin attack action cards that target an infected hero cost you {r} less to play this turn. **Go again**
+
+**Blade Break**"	Assassin Equipment - Chest						
 TmKrpP8tDg8bmpnqMPtgj	Iyslander						18	4		Elemental, Wizard, Hero, Young		Essence of Ice						"**Essence of Ice**
 
 If it's not your turn, you may play blue non-attack action cards from your arsenal as though they were instants.
@@ -6328,6 +6336,7 @@ rpqF9GbWN7Kkb6hPKPnJk	Lady Barthimont					3				Brute, Mentor					Dominate		Speci
 
 While Barthimont is face-up in arsenal, whenever you play an attack action card, banish the top card of your deck. If the banished card has 6 or more {p}, put a lesson counter on Barthimont and the attack gets **dominate**. Then if there are 2 or more lesson counters on Barthimont, banish her, search your deck for a card with **specialization**, put it face-up into your arsenal, and shuffle."	Brute Mentor			No	No	No	No
 mMzzGF76cFfFHJQJTFcnB	Lair of the Spider	Red	1	0		3				Assassin, Ninja, Defense Reaction, Trap		Mark					Go again	When this defends an attack with **go again**, **mark** the attacking hero.	Assassin / Ninja Action Defense Reaction - Trap						
+hncGgJt68zkrcnFFCqfm9	Languid Pace	Blue	3	1	3	2				Assassin, Action, Attack								When this attacks or defends, create an Inertia token under each hero's control.	Assassin Action - Attack					No	
 qmzNwRPnh8gkrdKdLwCbt	Last Ditch Effort	Blue	3	3	4	3				Generic, Action, Attack		Go again						When this is played, if you have no cards in your deck, this gets +4{p} and **go again**.	Generic Action - Attack					No	
 mm6rHKbCkKKfD6h6tCMcK	Laughing Knee-Slappers					1				Reviled, Brute, Equipment, Legs		Blade Break						"If you control a Might and a Vigor token, this gets +2{d}.
 
@@ -7898,6 +7907,9 @@ z9CGRWDmLHHRjKfjfmbWL	Pick Up the Point	Yellow	2	0	2	2				Assassin, Ninja, Actio
 tT8mDTnn7nddCF7WNRLHt	Pick Up the Point	Blue	3	0	1	2				Assassin, Ninja, Action, Attack		Go again, Retrieve						"When this attacks, you may **retrieve** a dagger from your graveyard.
 
 **Go again**"	Assassin / Ninja Action - Attack						
+bcQJw8TWLWNgTDtwpJT7F	Pick Your Poison	Yellow	2	0		2				Assassin, Action		Go again						"Each opposing hero chooses Frailty, Inertia, or Bloodrot Pox. Create the 2 tokens they didn't choose under their control.
+
+**Go again**"	Assassin Action						
 B9jHdDTw8qwQW7DnqdQPn	Pick Yourself Up Off the Floor									Event								Put an attack action card from your graveyard on the top of your deck. If you have less {h} than an opponent, instead put it in your hand.	Event		No	No	No	No	No
 bLmknjcbt6Bjn6RTmTBMF	Pick a Card, Any Card	Red	1	0		2				Generic, Action		Go again						"Look at target opponent's hand then name a card.
 
@@ -7969,6 +7981,9 @@ When this defends, deal 2 damage to the attacking hero unless they pay {r}."	Ran
 GKWhbqnhnR6ztt9gCzmLw	Plague Hive	Yellow	2							Assassin, Ranger, Resource, Gem		Legendary						"**Legendary**
 
 When this is pitched, for each opponent, choose Frailty, Inertia, or Bloodrot Pox at random and create that token under their control."	Assassin / Ranger Resource - Gem				No	No	
+bqDLrQHcfLRzhJG7HRknh	Plague Mask					2				Assassin, Equipment, Head		Blade Break	Instant					"**Instant** - Destroy this: Disease tokens can't be created under your control this turn.
+
+**Blade Break**"	Assassin Equipment - Head						
 bPKFtQtwzWcRjWkFwztdf	Plan for the Worst	Blue	3	0		3				Ranger, Action								"Look at target hero's hand and arsenal. At the beginning of their next end phase, they discard all cards in their hand and destroy all cards in their arsenal.
 
 Search your deck for up to 3 traps, reveal them, put them into your hand, then shuffle 2 cards from your hand into your deck."	Ranger Action				No	No	
@@ -9770,6 +9785,11 @@ JmQpWjPbn6JmmppNRDprh	Searing Shot	Blue	3	0	2	3				Ranger, Action, Arrow, Attack
 MmJd7JwGC8rjPmLNLPCCW	Seasoned Saviour					3				Guardian, Equipment, Off-Hand		Battleworn						"When this is equipped, put two -1{d} counters on it.
 
 **Battleworn**"	Guardian Equipment - Off-Hand				No	No	
+tPTJgdwp6QgtKpTbHnKqP	Second Salvos					1				Assassin, Equipment, Legs		Blade Break	Instant					"While this is in your graveyard, at the start of your turn, you may destroy 2 Silver you control. If you do, equip this.
+
+**Instant** - Destroy this: {u} your hero.
+
+**Blade Break**"	Assassin Equipment - Legs						
 PjwhnN8B6FghrjRmGwhnJ	Second Strike	Red	1	0	3	2				Lightning, Action, Attack		Go again						When this attacks, if you've dealt damage this turn, this gets +1{p} and **go again**.	Lightning Action - Attack						
 drmRFDLhKw6b7JBJdfWkM	Second Strike	Yellow	2	0	2	2				Lightning, Action, Attack		Go again						When this attacks, if you've dealt damage this turn, this gets +1{p} and **go again**.	Lightning Action - Attack						
 wdT9WhkFKfwrHdJMWWcDQ	Second Strike	Blue	3	0	1	2				Lightning, Action, Attack		Go again						When this attacks, if you've dealt damage this turn, this gets +1{p} and **go again**.	Lightning Action - Attack						
@@ -9811,6 +9831,7 @@ When this hits a hero, create an Inertia token under their control."	Ranger Acti
 9wnz6M6QrJktmmcPLgpbr	Seduce Secrets	Yellow	2	0						Generic, Instant								"Look at target hero's hand and the top card of their deck.
 
 If this was played from arsenal, draw a card."	Generic Instant				No	No	
+JkH676tPpqkJnD7DmbqBh	Seed Inertia	Blue	3	0						Assassin, Instant								Create an Inertia token under each hero's control.	Assassin Instant						
 bkwMDWGMmKTMd9dKQMt76	Seeds of Agony	Red	1	0		2			1	Shadow, Runeblade, Action		Go again, Blood Debt						"You may play this from your banished zone.
 
 The next attack action card with cost 2 or less you play this turn gets ""When this attacks, deal 1 arcane damage to target hero.""
@@ -10603,6 +10624,7 @@ KfbJQkFKdWKB66FcqCpHD	Snatch	Blue	3	0	2	2				Generic, Action, Attack								When
 RJgjqhgWBPnfhC76CRLjt	Sneak Attack	Red	1	2	3	2				Assassin, Action, Attack								If you've played or activated an attack reaction this chain link, this gets +4{p}.	Assassin Action - Attack					No	
 7TPWrWF6KhgNLGbJT7CHb	Sneak Attack	Yellow	2	2	2	2				Assassin, Action, Attack								If you've played or activated an attack reaction this chain link, this gets +4{p}.	Assassin Action - Attack					No	
 BKhhmbmLm67kWdNdBpDPM	Sneak Attack	Blue	3	2	1	2				Assassin, Action, Attack								If you've played or activated an attack reaction this chain link, this gets +4{p}.	Assassin Action - Attack					No	
+kH96C8CLkdDDJtTJwMwTT	Sneaking Rot	Red	1	2	6	3				Assassin, Action, Attack								"If you've played or activated an attack reaction this chain link, this gets ""When this hits a hero, create a Bloodrot Pox token under their control."""	Assassin Action - Attack					No	
 q8rqGffz6jP9D7w8DbkcL	Snow Under	Red	1	3	7	3				Elemental, Guardian, Action, Attack		Ice Fusion						"**Ice Fusion**
 
 If this was **fused**, it gets ""When this hits a hero, create a Frostbite token under their control."""	Elemental Guardian Action - Attack						
@@ -11332,6 +11354,9 @@ The first card you play each turn with an arcane damage effect, instead deals th
 Wkmf8d6QjLGFqWMF8bcw6	Surgical Extraction	Blue	3	2	4	3				Assassin, Action, Attack		Contract						"**Contract**  - You are contracted to banish opponents' blue cards. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck, then look at their hand and banish a card."	Assassin Action - Attack				No	No	
+dJDWqFH9wN9DnTN7BRnp7	Surgical Gloves					0				Assassin, Equipment, Arms		Arcane Barrier 1	Instant	Cure				"**Instant** - **Cure** a disease an opponent controls: Target attack they control gets -1{p}. Destroy this at the beginning of the end phase.
+
+**Arcane Barrier 1**"	Assassin Equipment - Arms						
 HCqwPDFhtdFfGwhFpwW98	Surging Militia	Red	1	2	5	2				Generic, Action, Attack								This gets +1{p} for each non-equipment card defending it.	Generic Action - Attack						
 tPGH6kTnMBWB6KwfqmDtr	Surging Militia	Yellow	2	2	4	2				Generic, Action, Attack								This gets +1{p} for each non-equipment card defending it.	Generic Action - Attack						
 DbbhCQQgKQfTCtnMzFr6P	Surging Militia	Blue	3	2	3	2				Generic, Action, Attack								This gets +1{p} for each non-equipment card defending it.	Generic Action - Attack						
@@ -12559,6 +12584,9 @@ mcF6F69HgBntfh7QKkHWw	Vipox	Red	1	0	1	3				Generic, Action, Attack								When t
 dLQDGrJKDmFcmpzLNfQRG	Viral Diffusion	Red	1	3		4				Assassin, Defense Reaction, Trap		Mortimer Specialization						"**Mortimer Specialization**
 
 When this defends, create a Frailty, Inertia, and Bloodrot Pox token under the attacking hero's control."	Assassin Defense Reaction - Trap				No	No	
+CQ89nqTHqKHGrJ7RQHfGf	Viral Sampling	Blue	3	0	1	3				Assassin, Action, Attack		Stealth, Contract						"**Stealth**
+
+**Contract** - You are contracted to hit an infected opposing hero. Whenever you complete this contract, create a Silver token."	Assassin Action - Attack						
 qrgHbhCHptKd9Lj7hzDQQ	Virtuoso Bodice					2				Guardian, Equipment, Chest		Blade Break					Suspense	"When this defends, you may remove a suspense counter from an aura you control. If you do, gain {r}{r}.
 
 **Blade Break**"	Guardian Equipment - Chest				No	No	
@@ -13008,6 +13036,7 @@ When this hits a hero, create a Frailty token under their control."	Ranger Actio
 KtFRrP9HJRGKTJtHrCtwD	Withstand	Red	1	2						Guardian, Instant								The next time target Guardian off-hand defends this turn, it gets +6{d} until the combat chain closes.	Guardian Instant						
 Qk8tQfhtfP8mpHgcJBRD6	Withstand	Yellow	2	2						Guardian, Instant								The next time target Guardian off-hand defends this turn, it gets +5{d} until the combat chain closes.	Guardian Instant						
 TTGpGFzh9Kb8RPDDbTmnw	Withstand	Blue	3	2						Guardian, Instant								The next time target Guardian off-hand defends this turn, it gets +4{d} until the combat chain closes.	Guardian Instant						
+Nw7BBnKfCGchBdWhwHh7z	Wound Extraction	Red	1	1	5	3				Assassin, Action, Attack								"If you've hit with a dagger this combat chain, this gets ""When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control."""	Assassin Action - Attack					No	
 cbD6dqdgnLGk8zjjQqHCt	Wounded Bull	Red	1	3	7	2				Generic, Action, Attack								When this is played, if you have less {h} than an opposing hero, it gets +1{p}.	Generic Action - Attack						
 WdmT8cBmQFfGfdR8hknCT	Wounded Bull	Yellow	2	3	6	2				Generic, Action, Attack								When this is played, if you have less {h} than an opposing hero, it gets +1{p}.	Generic Action - Attack						
 gFQQLWKpNnLW9TPg86kL7	Wounded Bull	Blue	3	3	5	2				Generic, Action, Attack								When this is played, if you have less {h} than an opposing hero, it gets +1{p}.	Generic Action - Attack						
