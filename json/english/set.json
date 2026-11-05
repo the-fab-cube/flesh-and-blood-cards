@@ -302,7 +302,7 @@
                 "unique_id": "BmGtJQktNKT6nQpQmGpMf",
                 "edition": "N",
                 "start_card_id": "AMA001",
-                "end_card_id": "AMA029",
+                "end_card_id": "AMA030",
                 "initial_release_date": "2026-09-25T00:00:00Z",
                 "out_of_print": false,
                 "card_database": "https://cardvault.fabtcg.com/products/armory-deck-malice-domina-of-the-dead/",
@@ -1304,21 +1304,21 @@
     {
         "unique_id": "qJrJThgkdr8NzCz8C8hLM",
         "id": "IAR",
-        "name": "??? Set 20 ???",
+        "name": "Usurp the Shadow Throne",
         "printings": [
             {
                 "unique_id": "qPHBhhWF8Mb8pfGcmztnF",
                 "edition": "N",
-                "start_card_id": "IAR145",
-                "end_card_id": "IAR222",
-                "initial_release_date": null,
+                "start_card_id": "IAR000",
+                "end_card_id": "IAR666",
+                "initial_release_date": "2026-09-25T00:00:00.000Z",
                 "out_of_print": false,
-                "card_database": null,
-                "product_page": null,
+                "card_database": "https://cardvault.fabtcg.com/products/usurp-the-shadow-throne",
+                "product_page": "https://fabtcg.com/products/booster-set/iar/",
                 "collectors_center": null,
                 "card_gallery": null,
                 "release_notes": null,
-                "set_logo": null
+                "set_logo": "https://cdn.fabtcg.com/uploads/2026/07/usurp_the_shadow_throne_logo.png"
             }
         ]
     },
@@ -1967,6 +1967,27 @@
         ]
     },
     {
+        "unique_id": "GT8wCzqPQ6LNH6HL9w8W7",
+        "id": "SAT",
+        "name": "Silver Age - Prism, Advent of Thrones",
+        "printings": [
+            {
+                "unique_id": "QjjdJBfBGDWtt6pDRtntW",
+                "edition": "N",
+                "start_card_id": "SAT001",
+                "end_card_id": "SAT033",
+                "initial_release_date": "2026-09-18T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/silver-age-prism-advent-of-thrones/",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "Q9J7zq9bG8ppKB8THHFMC",
         "id": "SAZ",
         "name": "Silver Age Chapter 2 - Azalea",
@@ -2042,6 +2063,27 @@
                 "initial_release_date": "2026-02-13T00:00:00.000Z",
                 "out_of_print": false,
                 "card_database": "https://cardvault.fabtcg.com/products/silver-age-chapter-1-bravo-flattering-showman/",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
+        "unique_id": "HMdDRhFdqPrMmNdJFthRn",
+        "id": "SBW",
+        "name": "Silver Age - Viserai, Between Worlds",
+        "printings": [
+            {
+                "unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "edition": "N",
+                "start_card_id": "SBW001",
+                "end_card_id": "SBW035",
+                "initial_release_date": "2026-09-18T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/silver-age-viserai-between-worlds/",
                 "product_page": null,
                 "collectors_center": null,
                 "card_gallery": null,
