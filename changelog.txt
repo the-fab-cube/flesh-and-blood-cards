@@ -1117,3 +1117,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 10-15-26:
 - Updated functional text based on errata for Line Crossers - update credit: schubam
 - Fixed functional text for Celebrant Broadsword, Extinguish the Flames - bugfix credit: schubam
+
+11-04-26:
+- Added cards from AMO - update credit: schubam
+- Added LGS459 card printing - update credit: RaphaelDDL
+- Added AMO001-AMO030 card printings - update credit: schubam
