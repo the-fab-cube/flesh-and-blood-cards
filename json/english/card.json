@@ -29753,8 +29753,8 @@
         "interacts_with_keywords": [
             "Stealth"
         ],
-        "functional_text": "**Instant** - {t}, put a card from your arsenal on the bottom of your deck: Put the top card of your deck face-up into your arsenal. If it has stealth, it gets +1{p} and **go again** this turn. If its an arrow, it gets **veil** this turn.",
-        "functional_text_plain": "Instant - {t}, put a card from your arsenal on the bottom of your deck: Put the top card of your deck face-up into your arsenal. If it has stealth, it gets +1{p} and go again this turn. If its an arrow, it gets veil this turn.",
+        "functional_text": "**Instant** - {t}, put a card from your arsenal on the bottom of your deck: Put the top card of your deck face-up into your arsenal. If it has stealth, it gets +1{p} and **go again** this turn. If it's an arrow, it gets **veil** this turn.",
+        "functional_text_plain": "Instant - {t}, put a card from your arsenal on the bottom of your deck: Put the top card of your deck face-up into your arsenal. If it has stealth, it gets +1{p} and go again this turn. If it's an arrow, it gets veil this turn.",
         "type_text": "Assassin Ranger Hero",
         "played_horizontally": false,
         "blitz_legal": false,
@@ -29880,8 +29880,8 @@
         "interacts_with_keywords": [
             "Stealth"
         ],
-        "functional_text": "**Instant** - {t}, put a card from your arsenal on the bottom of your deck: Put the top card of your deck face-up into your arsenal. If it has stealth, it gets +1{p} and **go again** this turn. If its an arrow, it gets **veil** this turn.",
-        "functional_text_plain": "Instant - {t}, put a card from your arsenal on the bottom of your deck: Put the top card of your deck face-up into your arsenal. If it has stealth, it gets +1{p} and go again this turn. If its an arrow, it gets veil this turn.",
+        "functional_text": "**Instant** - {t}, put a card from your arsenal on the bottom of your deck: Put the top card of your deck face-up into your arsenal. If it has stealth, it gets +1{p} and **go again** this turn. If it's an arrow, it gets **veil** this turn.",
+        "functional_text_plain": "Instant - {t}, put a card from your arsenal on the bottom of your deck: Put the top card of your deck face-up into your arsenal. If it has stealth, it gets +1{p} and go again this turn. If it's an arrow, it gets veil this turn.",
         "type_text": "Assassin Ranger Hero - Young",
         "played_horizontally": false,
         "blitz_legal": true,
