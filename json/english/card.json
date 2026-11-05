@@ -431895,6 +431895,29 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "612678",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/612678?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "drGHkp9QmRwC9nRTQqHJW",
+                "set_printing_unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
+                "id": "LGS459",
+                "set_id": "LGS",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "SanSan"
+                ],
+                "art_variations": [
+                    "AA",
+                    "EA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS459-CF.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "714488",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/714488?Language=English&Printing=Cold+Foil"
             }
         ]
     },
