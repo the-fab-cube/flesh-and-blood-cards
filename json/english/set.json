@@ -560,6 +560,27 @@
         ]
     },
     {
+        "unique_id": "jhBWPRCzcTkW8TCBW77Lj",
+        "id": "ART",
+        "name": "Dusk till Dawn",
+        "printings": [
+            {
+                "unique_id": "BKdN6bzqLnfRfPjRfz6j9",
+                "edition": "N",
+                "start_card_id": "ART001",
+                "end_card_id": "ART002",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "gmPW6zdL8Fkcd7T6Fghdb",
         "id": "ASB",
         "name": "Armory Deck - Boltyn",
@@ -1163,7 +1184,7 @@
                 "unique_id": "j76qTFctqc8krqh9GKGmT",
                 "edition": "N",
                 "start_card_id": "FAB001",
-                "end_card_id": "FAB489",
+                "end_card_id": "FAB561",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1247,7 +1268,7 @@
                 "unique_id": "cWmBzGKHW8GwtJddbDhLJ",
                 "edition": "N",
                 "start_card_id": "GEM001",
-                "end_card_id": "GEM183",
+                "end_card_id": "GEM220",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1268,7 +1289,7 @@
                 "unique_id": "NrpJFBQQGpNM8D9w8BBfG",
                 "edition": "N",
                 "start_card_id": "HER000",
-                "end_card_id": "HER170",
+                "end_card_id": "HER175",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1373,7 +1394,7 @@
                 "unique_id": "hqBm7CnKjCWzKBQcph89t",
                 "edition": "N",
                 "start_card_id": "JDG000",
-                "end_card_id": "JDG067",
+                "end_card_id": "JDG093",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1499,7 +1520,7 @@
                 "unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
                 "edition": "N",
                 "start_card_id": "LGS001",
-                "end_card_id": "LGS459",
+                "end_card_id": "LGS470",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1520,7 +1541,7 @@
                 "unique_id": "B8Nwc79RrDqgRrqPCczFb",
                 "edition": "N",
                 "start_card_id": "LSS001",
-                "end_card_id": "LSS024",
+                "end_card_id": "LSS033",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1606,6 +1627,27 @@
                 "card_gallery": null,
                 "release_notes": null,
                 "set_logo": "https://cdn.fabtcg.com/uploads/2026/07/mastery_pack_assassin_logo.png"
+            }
+        ]
+    },
+    {
+        "unique_id": "Hqb7nrThJwfCrnRfgTqHP",
+        "id": "MPB",
+        "name": "Mastery Pack Brute",
+        "printings": [
+            {
+                "unique_id": "hrGht8KtRbtPWJjT7mznt",
+                "edition": "N",
+                "start_card_id": "MPB001",
+                "end_card_id": "MPB131",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/mastery-pack-brute",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
             }
         ]
     },
@@ -2416,7 +2458,7 @@
                 "unique_id": "N9GCTHwD6CDh9HrFHDfnM",
                 "edition": "N",
                 "start_card_id": "SPW001",
-                "end_card_id": "SPW004",
+                "end_card_id": "SPW028",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -2724,7 +2766,7 @@
                 "unique_id": "jFWLRtB7MjFFLbNFRCLcT",
                 "edition": "N",
                 "start_card_id": "XXX001",
-                "end_card_id": "XXX012",
+                "end_card_id": "XXX022",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,

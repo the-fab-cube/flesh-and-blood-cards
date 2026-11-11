@@ -26,5 +26,13 @@
     {
         "icon": "{u}",
         "description": "Untap"
+    },
+    {
+        "icon": "{^}",
+        "description": "Up Face (of a flipping hero card)"
+    },
+    {
+        "icon": "{v}",
+        "description": "Down Face (of a flipping hero card)"
     }
 ]
