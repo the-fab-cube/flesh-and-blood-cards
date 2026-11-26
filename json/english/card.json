@@ -294227,12 +294227,12 @@
         "abilities_and_effects": [],
         "ability_and_effect_keywords": [],
         "granted_keywords": [],
-        "removed_keywords": [
+        "removed_keywords": [],
+        "interacts_with_keywords": [
             "Blood Debt"
         ],
-        "interacts_with_keywords": [],
-        "functional_text": "If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose **blood debt** during the end phase.",
-        "functional_text_plain": "If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose blood debt during the end phase.",
+        "functional_text": "If a card with 6 or more {p} has been put into your banished zone this turn, you don't lose {h} from **blood debt** during the end phase.",
+        "functional_text_plain": "If a card with 6 or more {p} has been put into your banished zone this turn, you don't lose {h} from blood debt during the end phase.",
         "type_text": "Shadow Brute Hero - Young",
         "played_horizontally": false,
         "blitz_legal": true,
@@ -294526,12 +294526,12 @@
         "abilities_and_effects": [],
         "ability_and_effect_keywords": [],
         "granted_keywords": [],
-        "removed_keywords": [
+        "removed_keywords": [],
+        "interacts_with_keywords": [
             "Blood Debt"
         ],
-        "interacts_with_keywords": [],
-        "functional_text": "If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose **blood debt** during the end phase.",
-        "functional_text_plain": "If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose blood debt during the end phase.",
+        "functional_text": "If a card with 6 or more {p} has been put into your banished zone this turn, you don't lose {h} from **blood debt** during the end phase.",
+        "functional_text_plain": "If a card with 6 or more {p} has been put into your banished zone this turn, you don't lose {h} from blood debt during the end phase.",
         "type_text": "Shadow Brute Hero",
         "played_horizontally": false,
         "blitz_legal": false,

@@ -6479,13 +6479,13 @@ PzdWT6J9q9kMDBkMpjC9F	Levels of Enlightenment	Blue	3	1	3	3				Mystic, Action, At
 - Draw a card.
 - This gets +2{p}.
 - This gets **go again**."	Mystic Action - Attack				No	No	
-WwzJLfPwhRTkFLDNjJPrk	Levia						20	4		Shadow, Brute, Hero, Young						Blood Debt		If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose **blood debt** during the end phase.	Shadow Brute Hero - Young			No			No
+WwzJLfPwhRTkFLDNjJPrk	Levia						20	4		Shadow, Brute, Hero, Young							Blood Debt	If a card with 6 or more {p} has been put into your banished zone this turn, you don't lose {h} from **blood debt** during the end phase.	Shadow Brute Hero - Young			No			No
 qjqqRn6kHWHGz6PQGWd7z	Levia, Redeemed						8	4		Shadow, Demi-Hero		Legendary, Levia Specialization	Action	Transform		Blood Debt	Blood Debt	"**Legendary Levia Specialization**
 
 **Action** - Turn all cards in your banished zone face-down: **Transform** into Levia, Redeemed. Activate this only while this is in your inventory and you have 13 or more cards with **blood debt** in your banished zone.
 
 Cards you own lose **blood debt**."	Shadow Demi-Hero				No	No	
-KCwnGqDJtnmJfth7fn8Qq	Levia, Shadowborn Abomination						40	4		Shadow, Brute, Hero						Blood Debt		If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose **blood debt** during the end phase.	Shadow Brute Hero		No		No	No	
+KCwnGqDJtnmJfth7fn8Qq	Levia, Shadowborn Abomination						40	4		Shadow, Brute, Hero							Blood Debt	If a card with 6 or more {p} has been put into your banished zone this turn, you don't lose {h} from **blood debt** during the end phase.	Shadow Brute Hero		No		No	No	
 GFc7t8wNTwC8rCFwrqTfh	Lexi						20	4		Elemental, Ranger, Hero, Young		Essence of Ice and Lightning	Once per Turn Action	Go again	Go again			"**Essence of Ice and Lightning**
 
 **Once per Turn Action** - Turn a face-down card in your arsenal face-up: If it's a Lightning card, your next attack this turn gets **go again**. If it's an Ice card, create a Frostbite token under target hero's control. **Go again**"	Elemental Ranger Hero - Young			No			No
